@@ -4,6 +4,7 @@ This pack currently contains trails for:
 
 <b>Core Tyria</b>
 * Festivals
+* Gathering
 * Guild Missions (Bounty, Trek, Rush)
 * Jumping Puzzles and Mini-Dungeons
 * Map Completion for Orr Maps, Path of Fire and End of Dragons
