@@ -3,23 +3,43 @@ A collection of Lady Elyssa's TacO Markers and Trails suitable for use with [GW2
 This pack currently contains trails for:
 
 ## Core Tyria ##
+* Empyreal Chest Run, starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
+   * Ascalon
+   * Kryta
+   * Maguuma Jungle
+   * Shiverpeak Mountains
+   * Ruins of Orr
 * Festivals
 * Gathering
-* Guild Missions (Bounty, Trek, Rush)
-* Jumping Puzzles and Mini-Dungeons
+   * Flax
+   * Jungle Plants
+   * Toxic Seedlings (Kessex Hills)
+   * Rich Iron (Core) - starts at Gallowfields Waypoint in Brisban Wildlands `[&BGMAAAA=]`
+   * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
+   * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
+   * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
+   * Rich Quartz Crystal (Path of Fire) - starts at Destiny's Gorge Waypoiny in Crystal Oasis `[&BJMKAAA=]`
+   * Quartz Crystals - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
+* Guild Missions 
+   * Bounty
+   * Rush
+   * Trek (work in progress)
+* Jumping Puzzles 
+* Mini-Dungeons
 * World Bosses including Pre-Event locations
-
-## Map Completion for: ##
-- Orr Maps
-- Path of Fire
-- End of Dragons
 
 ## Hero Point Runs ##
 * Heart of Thorns
 * Path of Fire
 * End of Dragons
 
-## Assistance with Map Traversal ##
+## Map Completion ##
+* Orr Maps
+* Heart of Thorns (work in progress)
+* Path of Fire (PoF)
+* End of Dragons (EoD)
+
+## Map Traversal ##
 * Path of Fire (Jackal Sand Portals)
 * End of Dragons (Jade Tech Zip Lines and Jade Tech Teleporters)
 
