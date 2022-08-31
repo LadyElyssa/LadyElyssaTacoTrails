@@ -35,8 +35,8 @@ This pack currently contains trails for:
 
 ## Map Completion ##
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
-* Orr Maps
-* Heart of Thorns (work in progress)
+* Ruins of Orr
+* Heart of Thorns (HoT)
 * Path of Fire (PoF)
 * End of Dragons (EoD)
 
