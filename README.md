@@ -24,7 +24,7 @@ This pack currently contains trails for:
    * Bounty
    * Rush
    * Trek (work in progress)
-* Jumping Puzzles including shortcuts where possible.
+* Jumping Puzzles
 * Mini-Dungeons
 * World Bosses including Pre-Event locations
 
