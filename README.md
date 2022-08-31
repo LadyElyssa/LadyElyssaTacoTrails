@@ -18,7 +18,7 @@ This pack currently contains trails for:
    * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
-   * Rich Quartz Crystal (Path of Fire) - starts at Destiny's Gorge Waypoiny in Crystal Oasis `[&BJMKAAA=]`
+   * Rich Quartz Crystal (Path of Fire) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
    * Quartz Crystals - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
 * Guild Missions 
    * Bounty
