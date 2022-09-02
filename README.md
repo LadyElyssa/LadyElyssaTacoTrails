@@ -47,6 +47,6 @@ This pack currently contains trails for:
 ### Want to know more? ###
 * [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
 
-### Latest Pack Download Link: ###
-* [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaTacoTrails/releases/latest)
+### Latest Pack Direct Download Link: ###
+* [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaTacoTrails/raw/main/LadyElyssa.taco)
 
