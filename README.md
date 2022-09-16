@@ -13,8 +13,10 @@ This pack currently contains trails for:
 * Festivals
 
 * Gathering
-   * Flax
+   * Flax - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Jungle Plants
+      * Soulkeeper's Airship in Bloodstone Fen `[&BEsJAAA=]`
+      * Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
    * Toxic Seedlings (Kessex Hills)
    * Rich Iron (Core) - starts at Gallowfields Waypoint in Brisban Wildlands `[&BGMAAAA=]`
    * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
