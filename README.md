@@ -7,9 +7,11 @@ This pack currently contains trails for:
    * Ascalon
    * Kryta
    * Maguuma Jungle
-   * Shiverpeak Mountains
    * Ruins of Orr
+   * Shiverpeak Mountains
+
 * Festivals
+
 * Gathering
    * Flax
    * Jungle Plants
@@ -20,12 +22,16 @@ This pack currently contains trails for:
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
    * Rich Quartz Crystal (Path of Fire) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
    * Quartz Crystals - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
+
 * Guild Missions 
    * Bounty
-   * Rush
-   * Trek (work in progress)
+   * Rush / Race
+   * Trek
+
 * Jumping Puzzles
+
 * Mini-Dungeons
+
 * World Bosses including Pre-Event locations
 
 ## Hero Point Runs ##
