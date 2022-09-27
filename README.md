@@ -1,4 +1,4 @@
-A collection of Lady Elyssa's TacO Markers and Trails suitable for use with [BlishHUD](https://blishhud.com/).
+A collection of Lady Elyssa's TacO Markers and Trails suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/).
 
 This pack currently contains trails for:
 
@@ -17,7 +17,7 @@ This pack currently contains trails for:
    * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
    * Quartz Crystals - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
-   * Toxic Seedlings (Kessex Hills)
+   * Toxic Seedling locations in Kessex Hills
 
 * Gathering - Heart of Thorns
    * Flax - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
