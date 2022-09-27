@@ -1,4 +1,4 @@
-A collection of Lady Elyssa's TacO Markers and Trails suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/).
+A collection of TacO Markers and Trails by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/).
 
 This pack currently contains trails for:
 
@@ -66,7 +66,7 @@ This pack currently contains trails for:
 * End of Dragons (Jade Tech Zip Lines and Jade Tech Teleporters)
 
 ### Want to know more? ###
-* [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
+* [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
  
 ### Latest Pack Direct Download Link: ###
 * [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaTacoTrails/raw/main/LadyElyssa.taco)
