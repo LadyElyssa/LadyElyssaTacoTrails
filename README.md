@@ -1,4 +1,4 @@
-A collection of Lady Elyssa's TacO Markers and Trails suitable for use with [GW2TacO](https://www.gw2taco.com/) and [BlishHUD](https://blishhud.com/).
+A collection of Lady Elyssa's TacO Markers and Trails suitable for use with [BlishHUD](https://blishhud.com/).
 
 This pack currently contains trails for:
 
