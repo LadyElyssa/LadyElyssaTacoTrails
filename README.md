@@ -12,18 +12,22 @@ This pack currently contains trails for:
 
 * Festivals
 
-* Gathering - Core Maps
+* Gathering
+   * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Rich Iron (Core) - starts at Gallowfields Waypoint in Brisban Wildlands `[&BGMAAAA=]`
    * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
-   * Quartz Crystals - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
-   * Toxic Seedling locations in Kessex Hills
-
-* Gathering - Heart of Thorns
-   * Flax - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
+   * Quartz Crystals - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
+   * Rich Quartz Crystal (PoF) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
+   * Toxic Seedling locations in Kessex Hills
+   * Wood
+      * Elder - Straits of Devastation, Malchor's Leap, Siren's Landing
+      * Hard - Timberline Falls, Mount Maelstrom, Sparkfly Fen
+      * Seasoned - Dredgehaunt Cliffs
+      * Soft - Diessa Plateau, Fields of Ruin
 
-* Gathering - Living World Season 3
+* Gathering - Living World Season 3 Only
    * Blood Rubies - Soulkeeper's Airship Waypoint in Bloodstone Fen `[&BEsJAAA=]`
    * Fire Orchid Blossom - Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
    * Jade Fragments - Doric's Landing Waypoint in Lake Doric `[&BK0JAAA=]`
@@ -34,9 +38,6 @@ This pack currently contains trails for:
    * Passiflora - Castaway Circus Waypoint in Ember Bay `[&BHgJAAA=]`
    * Pertrified Wood - Promontory Waypoint in Ember Bay `[&BF8JAAA=]`
    * Verdant Herbs - Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
-
-* Gathering - Path of Fire
-   * Rich Quartz Crystal (Path of Fire) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
 
 * Guild Missions 
    * Bounty
