@@ -3,12 +3,13 @@ A collection of TacO Markers and Trails by [Lady Elyssa](https://wiki.guildwars2
 This pack currently contains trails for:
 
 ## Core Tyria ##
-* Empyreal Chest Run, starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
-   * Ascalon
-   * Kryta
-   * Maguuma Jungle
-   * Ruins of Orr
-   * Shiverpeak Mountains
+* Chest Run
+   * Empyreal Fragments Chest Run, starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
+      * Ascalon
+      * Kryta
+      * Maguuma Jungle
+      * Ruins of Orr
+      * Shiverpeak Mountains
 
 * Festivals
 
