@@ -18,11 +18,11 @@ This pack currently contains trails for:
 
 * Gathering
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
+   * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
    * Rich Iron (Core) - starts at Gallowfields Waypoint in Brisban Wildlands `[&BGMAAAA=]`
    * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
-   * Quartz Crystals - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
    * Rich Quartz Crystal (PoF) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
    * Toxic Seedling locations in Kessex Hills
    * Wood
@@ -42,6 +42,13 @@ This pack currently contains trails for:
    * Passiflora - Castaway Circus Waypoint in Ember Bay `[&BHgJAAA=]`
    * Pertrified Wood - Promontory Waypoint in Ember Bay `[&BF8JAAA=]`
    * Verdant Herbs - Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
+
+* Gathering - Living World Season 4 Only
+   * Dragonfall - Mistborn Motes
+   * Jahai Bluffs - Mistonium
+   * Kourna - Inscribed Shard
+   * Sandswept Isles - Difluorite Crystal
+   * Thunderhead Peaks - Branded Mass + Dwarven Chests
 
 * Guild Missions 
    * Bounty
