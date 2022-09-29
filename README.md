@@ -4,12 +4,15 @@ This pack currently contains trails for:
 
 ## Core Tyria ##
 * Chest Run
-   * Empyreal Fragments Chest Run, starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
+   * Empyreal Fragments Chest Run - starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
       * Ascalon
       * Kryta
       * Maguuma Jungle
       * Ruins of Orr
       * Shiverpeak Mountains
+   * Heart of Thorns Chests
+      * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
+      * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
 
 * Festivals
 
