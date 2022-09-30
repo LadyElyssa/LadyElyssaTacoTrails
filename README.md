@@ -33,15 +33,19 @@ This pack currently contains trails for:
 
 * Gathering - Living World Season 3 Only
    * Blood Rubies - Soulkeeper's Airship Waypoint in Bloodstone Fen `[&BEsJAAA=]`
+   * Desert Herbs
+      * Found near Palawa's Benevolence POI in Domain of Kourna `[&BGMLAAA=]`
    * Fire Orchid Blossom - Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
    * Jade Fragments - Doric's Landing Waypoint in Lake Doric `[&BK0JAAA=]`
-   * Jungle Plants
+   * Jungle Plants (Maguuma Lily)
       * Soulkeeper's Airship in Bloodstone Fen `[&BEsJAAA=]`
       * Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
    * Orrian Pearls - Camp Reclamation Waypoint in Siren's Landing `[&BOUJAAA=]`
    * Passiflora - Castaway Circus Waypoint in Ember Bay `[&BHgJAAA=]`
    * Pertrified Wood - Promontory Waypoint in Ember Bay `[&BF8JAAA=]`
-   * Verdant Herbs - Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
+   * Verdant Herbs
+      * Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
+      * Still Waters Speaking Waypoint `[&BDkMAAA=]`
 
 * Gathering - Living World Season 4 Only
    * Dragonfall - Mistborn Motes
