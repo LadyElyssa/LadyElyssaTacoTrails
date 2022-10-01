@@ -13,6 +13,8 @@ This pack currently contains trails for:
    * Heart of Thorns Chests
       * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
+   * Living World Season 5
+      * Essence Chests - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 * Festivals
 
@@ -50,7 +52,7 @@ This pack currently contains trails for:
 * Path of Fire
 * End of Dragons
 
-## Living World Season 3 ##
+## Living World Season 3: Glint's Legacy ##
 * Gathering
    * Blood Rubies - Soulkeeper's Airship Waypoint in Bloodstone Fen `[&BEsJAAA=]`
    * Desert Herbs
@@ -65,9 +67,8 @@ This pack currently contains trails for:
    * Pertrified Wood - Promontory Waypoint in Ember Bay `[&BF8JAAA=]`
    * Verdant Herbs
       * Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
-      * Still Waters Speaking Waypoint `[&BDkMAAA=]`
 
-## Living World Season 4 ##
+## Living World Season 4: Rise of Kralkatorrik ##
 * Gathering
    * Dragonfall - Mistborn Motes
    * Jahai Bluffs - Mistonium
@@ -75,9 +76,10 @@ This pack currently contains trails for:
    * Sandswept Isles - Difluorite Crystal
    * Thunderhead Peaks - Branded Mass + Dwarven Chests
 
-## Living World Season 5 ##
+## Living World Season 5: The Icebrood Saga ##
 * Gathering
-   * Bjora Marches - Essence Chest Markers & Eternal Ice Shard routes
+   * Verdant Herbs - starts at Still Waters Speaking Waypoint in Bjora Marches `[&BDkMAAA=]`
+   * Eternal Ice Shards - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 ## Map Completion ##
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
