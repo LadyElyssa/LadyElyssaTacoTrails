@@ -57,6 +57,9 @@ This pack currently contains trails for:
    * Sandswept Isles - Difluorite Crystal
    * Thunderhead Peaks - Branded Mass + Dwarven Chests
 
+* Gathering - Living World Season 5 Only
+   * Bjora Marches - Essence Chest Markers & Eternal Ice Shard routes
+   
 * Guild Missions 
    * Bounty
    * Rush / Race
