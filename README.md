@@ -19,6 +19,9 @@ This pack currently contains trails for:
 * Gathering
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
+   * Rich Copper (Core) - starts at Caledon Haven Waypoint in Caledon Forest `[&BDwBAAA=]`
+   * Rich Silver (Core) - starts at Rosko's Campsite Waypoint in Fields of Ruin `[&BNgAAAA=]`
+   * Rich Gold (Core) - starts at Junction Camp Waypoint in Harathi Hinterlands `[&BLAAAAA=]`
    * Rich Iron (Core) - starts at Gallowfields Waypoint in Brisban Wildlands `[&BGMAAAA=]`
    * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
