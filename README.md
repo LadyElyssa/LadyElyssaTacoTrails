@@ -34,32 +34,6 @@ This pack currently contains trails for:
       * Seasoned - Dredgehaunt Cliffs
       * Soft - Diessa Plateau, Fields of Ruin
 
-* Gathering - Living World Season 3 Only
-   * Blood Rubies - Soulkeeper's Airship Waypoint in Bloodstone Fen `[&BEsJAAA=]`
-   * Desert Herbs
-      * Found near Palawa's Benevolence POI in Domain of Kourna `[&BGMLAAA=]`
-   * Fire Orchid Blossom - Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
-   * Jade Fragments - Doric's Landing Waypoint in Lake Doric `[&BK0JAAA=]`
-   * Jungle Plants (Maguuma Lily)
-      * Soulkeeper's Airship in Bloodstone Fen `[&BEsJAAA=]`
-      * Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
-   * Orrian Pearls - Camp Reclamation Waypoint in Siren's Landing `[&BOUJAAA=]`
-   * Passiflora - Castaway Circus Waypoint in Ember Bay `[&BHgJAAA=]`
-   * Pertrified Wood - Promontory Waypoint in Ember Bay `[&BF8JAAA=]`
-   * Verdant Herbs
-      * Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
-      * Still Waters Speaking Waypoint `[&BDkMAAA=]`
-
-* Gathering - Living World Season 4 Only
-   * Dragonfall - Mistborn Motes
-   * Jahai Bluffs - Mistonium
-   * Kourna - Inscribed Shard
-   * Sandswept Isles - Difluorite Crystal
-   * Thunderhead Peaks - Branded Mass + Dwarven Chests
-
-* Gathering - Living World Season 5 Only
-   * Bjora Marches - Essence Chest Markers & Eternal Ice Shard routes
-   
 * Guild Missions 
    * Bounty
    * Rush / Race
@@ -75,6 +49,35 @@ This pack currently contains trails for:
 * Heart of Thorns
 * Path of Fire
 * End of Dragons
+
+## Living World Season 3 ##
+* Gathering
+   * Blood Rubies - Soulkeeper's Airship Waypoint in Bloodstone Fen `[&BEsJAAA=]`
+   * Desert Herbs
+      * Found near Palawa's Benevolence POI in Domain of Kourna `[&BGMLAAA=]`
+   * Fire Orchid Blossom - Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
+   * Jade Fragments - Doric's Landing Waypoint in Lake Doric `[&BK0JAAA=]`
+   * Jungle Plants (Maguuma Lily)
+      * Soulkeeper's Airship in Bloodstone Fen `[&BEsJAAA=]`
+      * Ancient Hollow Waypoint in Draconis Mons `[&BNUJAAA=]`
+   * Orrian Pearls - Camp Reclamation Waypoint in Siren's Landing `[&BOUJAAA=]`
+   * Passiflora - Castaway Circus Waypoint in Ember Bay `[&BHgJAAA=]`
+   * Pertrified Wood - Promontory Waypoint in Ember Bay `[&BF8JAAA=]`
+   * Verdant Herbs
+      * Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
+      * Still Waters Speaking Waypoint `[&BDkMAAA=]`
+
+## Living World Season 4 ##
+* Gathering
+   * Dragonfall - Mistborn Motes
+   * Jahai Bluffs - Mistonium
+   * Kourna - Inscribed Shard
+   * Sandswept Isles - Difluorite Crystal
+   * Thunderhead Peaks - Branded Mass + Dwarven Chests
+
+## Living World Season 5 ##
+* Gathering
+   * Bjora Marches - Essence Chest Markers & Eternal Ice Shard routes
 
 ## Map Completion ##
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
