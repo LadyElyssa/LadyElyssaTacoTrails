@@ -2,9 +2,8 @@ A collection of TacO Markers and Trails by [Lady Elyssa](https://wiki.guildwars2
 
 This pack currently contains trails for:
 
-## Core Tyria ##
 * Chest Run
-   * Empyreal Fragments Chest Run - starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
+   * Empyreal Fragments - starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
       * Ascalon
       * Kryta
       * Maguuma Jungle
@@ -13,6 +12,8 @@ This pack currently contains trails for:
    * Heart of Thorns Chests
       * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
+   * Path of Fire
+      * Domain of Vabbi - Trade Contracts from Branded Chests and Time worn Bust of Palawa Joko
    * Living World Season 5
       * Essence Chests - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
@@ -79,7 +80,7 @@ This pack currently contains trails for:
 ## Living World Season 5: The Icebrood Saga ##
 * Gathering
    * Verdant Herbs - starts at Still Waters Speaking Waypoint in Bjora Marches `[&BDkMAAA=]`
-   * Eternal Ice Shards - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
+   * Eternal Ice Shards, including all chests and optional Raven Puzzles - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 ## Map Completion ##
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
