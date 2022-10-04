@@ -1,4 +1,4 @@
-A collection of TacO Markers and Trails by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/).
+A collection of TacO Markers and Trails by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of an estimated **_350+ Trails_** and **_5,000+ Markers_**. Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/). 
 
 This pack currently contains trails for:
 
