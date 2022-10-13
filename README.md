@@ -84,7 +84,8 @@ This pack currently contains trails for:
 
 ## Map Completion ##
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
-* Ruins of Orr
+* Maguuma Wastes (Dry Top, The Silverwastes)
+* Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
 * Heart of Thorns (HoT)
 * Path of Fire (PoF)
 * End of Dragons (EoD)
