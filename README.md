@@ -69,6 +69,10 @@ This pack currently contains trails for:
    * Verdant Herbs
       * Red Leaf Retreat Waypoint in Lake Doric `[&BK8JAAA=]`
 
+## Path of Fire ##
+* Gathering
+   * Trade Contracts across all Crystal Desert maps.
+
 ## Living World Season 4: Rise of Kralkatorrik ##
 * Gathering
    * Dragonfall - Mistborn Motes
