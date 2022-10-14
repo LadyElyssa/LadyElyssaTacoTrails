@@ -18,7 +18,7 @@ This pack currently contains trails for:
       * Essence Chests - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 * Festivals
-
+ 
 * Gathering
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
