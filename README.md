@@ -95,8 +95,12 @@ This pack currently contains trails for:
 * End of Dragons (EoD)
 
 ## Map Traversal ##
-* Path of Fire (Jackal Sand Portals)
-* End of Dragons (Jade Tech Zip Lines and Jade Tech Teleporters)
+* Jackal Sand Portals
+   * Living World Season 4 - Domain of Istan and Sandswept Isles
+   * Path of Fire
+
+* Jade Tech Zip Lines and Jade Tech Teleporters
+   * End of Dragons
 
 ### Want to know more? ###
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
