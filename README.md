@@ -1,4 +1,4 @@
-A collection of GW2 TacO Markers and Trails by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of an estimated **_350+ Trails_** and **_5,000+ Markers_**. Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/) for [Guild Wars 2](https://www.guildwars2.com/). 
+A collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of an estimated **_350+ Trails_** and **_5,000+ Markers_**. Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/). 
 
 This pack currently contains trails for:
 
@@ -12,10 +12,6 @@ This pack currently contains trails for:
    * Heart of Thorns Chests
       * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
-   * Path of Fire
-      * Domain of Vabbi - Trade Contracts from Branded Chests and Time worn Bust of Palawa Joko
-   * Living World Season 5
-      * Essence Chests - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 * Festivals
  
@@ -71,7 +67,7 @@ This pack currently contains trails for:
 
 ## Path of Fire ##
 * Gathering
-   * Trade Contracts across all Crystal Desert maps.
+   * Trade Contracts across all Crystal Desert (PoF) maps from Branded Chests and Time worn Bust of Palawa Joko `[&BKUKAAA=]`
 
 ## Living World Season 4: Rise of Kralkatorrik ##
 * Gathering
@@ -96,8 +92,8 @@ This pack currently contains trails for:
 
 ## Map Traversal ##
 * Jackal Sand Portals
-   * Living World Season 4 - Domain of Istan and Sandswept Isles
-   * Path of Fire
+   * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
+   * All Path of Fire maps
 
 * Jade Tech Zip Lines and Jade Tech Teleporters
    * End of Dragons
