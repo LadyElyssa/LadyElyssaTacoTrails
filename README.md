@@ -98,7 +98,7 @@ This pack currently contains trails for:
 * Jade Tech Zip Lines and Jade Tech Teleporters
    * End of Dragons
 
-### Want to know more? ###
+### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
  
 ### Latest Pack Direct Download Link: ###
