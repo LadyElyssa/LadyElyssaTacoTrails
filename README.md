@@ -67,7 +67,8 @@ This pack currently contains trails for:
 
 ## Path of Fire ##
 * Gathering
-   * Trade Contracts across all Crystal Desert (PoF) maps from Branded Chests and Time worn Bust of Palawa Joko `[&BKUKAAA=]`
+   * Trade Contracts across all Path of Fire maps including Branded Chests, Bleached Bones, Hidden Chests, Lost Chests, Forgotten Chests, Forgotten Debris, Scarab Chests, Shadows Provisions and Time worn Busts of Palawa Joko.
+      
 
 ## Living World Season 4: Rise of Kralkatorrik ##
 * Gathering
