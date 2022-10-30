@@ -14,7 +14,12 @@ This pack currently contains trails for:
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
 
 * Festivals
- 
+   * Lunar New Year
+   * Dragon Bash (Pinatta and Fireworks)
+   * Festival of the Four Winds (Quartz Crystals)
+   * Halloween (Labyrinth and Pumpkin Carving)
+   * Wintersday (Orphans and Race)
+
 * Gathering
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
