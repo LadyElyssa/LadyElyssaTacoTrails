@@ -2,7 +2,7 @@ A collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com
 
 This pack currently contains trails for:
 
-* Chest Run
+## Chest Run ##
    * Empyreal Fragments - starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
       * Ascalon
       * Kryta
@@ -13,14 +13,16 @@ This pack currently contains trails for:
       * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
 
-* Festivals
+## Festivals ##
    * Lunar New Year
    * Dragon Bash (Pinatta and Fireworks)
    * Festival of the Four Winds (Quartz Crystals)
-   * Halloween (Labyrinth and Pumpkin Carving)
+   * Halloween
+      * Labyrinth Trails and Pumpkin locations
+      * Pumpkin Carving in Lions Arch and ALL starter zones
    * Wintersday (Orphans and Race)
 
-* Gathering
+## Gathering ##
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
    * Rich Copper (Core) - starts at Caledon Haven Waypoint in Caledon Forest `[&BDwBAAA=]`
@@ -38,16 +40,19 @@ This pack currently contains trails for:
       * Seasoned - Dredgehaunt Cliffs
       * Soft - Diessa Plateau, Fields of Ruin
 
-* Guild Missions 
+## Guild Missions ##
    * Bounty
    * Rush / Race
    * Trek
 
-* Jumping Puzzles
+## Jumping Puzzles ##
+* Core Maps
 
-* Mini-Dungeons
+## Mini-Dungeons ##
+* Core Maps
 
-* World Bosses including Pre-Event locations
+## World Bosses ##
+* All core map world bosses including Pre-Event locations
 
 ## Hero Point Runs ##
 * Heart of Thorns
