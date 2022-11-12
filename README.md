@@ -21,6 +21,9 @@ This pack currently contains trails for:
       * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
 
+## Easy Dailies ##
+   * Foraging, Mining and Vista's (Lumberer is still a work in progress)
+
 ## Festivals ##
    * Lunar New Year
    * Dragon Bash (Pinatta and Fireworks)
