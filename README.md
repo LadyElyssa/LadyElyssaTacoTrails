@@ -1,12 +1,12 @@
 A collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of an estimated **_350+ Trails_** and **_5,000+ Markers_**. Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/). 
 
 Principles
+* Markers and Trails for Permanent, Replayable content only, no achievements or collections 
 * Aim to provide smooth trails by:
    * avoiding un-necessary combat
    * minimising terrain obstacles, like bushes, rocks or trees
    * minimising the need to adjust the camera
    * why jump when you can walk
-* Markers and Trails for Permanent, Replayable content only, no achievements or collections 
 
 This pack currently contains trails for:
 
