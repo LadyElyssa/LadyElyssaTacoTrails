@@ -22,7 +22,7 @@ This pack currently contains trails for:
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
 
 ## Easy Dailies ##
-   * Foraging, Mining and Vista's (Lumberer is still a work in progress)
+   * Foraging, Lumberer, Mining and Vista's
 
 ## Festivals ##
    * Lunar New Year
@@ -89,7 +89,6 @@ This pack currently contains trails for:
 ## Path of Fire ##
 * Gathering
    * Trade Contracts across all Path of Fire maps including Branded Chests, Bleached Bones, Hidden Chests, Lost Chests, Forgotten Chests, Forgotten Debris, Scarab Chests, Shadows Provisions and Time worn Busts of Palawa Joko.
-      
 
 ## Living World Season 4: Rise of Kralkatorrik ##
 * Gathering
