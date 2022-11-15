@@ -46,10 +46,20 @@ This pack currently contains trails for:
    * Rich Quartz Crystal (PoF) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
    * Toxic Seedling locations in Kessex Hills
    * Wood
-      * Elder - Straits of Devastation, Malchor's Leap, Siren's Landing
-      * Hard - Timberline Falls, Mount Maelstrom, Sparkfly Fen
-      * Seasoned - Dredgehaunt Cliffs
-      * Soft - Diessa Plateau, Fields of Ruin
+      * Elder Wood
+         * Straits of Devastation from Waywarde Waypoint `[&BPgCAAA=]`
+         * Malchor's Leap from Pagga's Waypoint `[&BKYCAAA=]`
+         * Siren's Landing from Camp Reclamation Waypoint `[&BO8JAAA=]`
+      * Hard Wood 
+         * Mount Maelstrom from Ashen Waypoint `[&BM4CAAA=]`
+         * Sparkfly Fen from Caer Brier Waypoint `[&BLMDAAA=]`
+         * Timberline Falls from Gentle River Waypoint `[&BFACAAA=]`
+      * Seasoned Wood
+         * Dredgehaunt Cliffs from Graupel Waypoint `[&BGICAAA=]`
+         * Harathi Hinterlands from Wynchona Rally Point Waypoint `[&BKgAAAA=]`
+      * Soft Wood
+         * Diessa Plateau from Oldgate Waypoint `[&BF4BAAA=]`
+         * Fields of Ruin from Forlorn Gate Waypoint `[&BFABAAA=]`
 
 ## Guild Missions ##
    * Bounty
