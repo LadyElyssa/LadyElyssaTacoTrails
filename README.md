@@ -68,6 +68,11 @@ This pack currently contains trails for:
 
 ## Jumping Puzzles ##
 * Core Maps
+* Memories of Lion's Arch
+* Heart of Thorns, Auric Basin
+* Living World Season 3
+* End of Dragons, New Kaineng City
+
 
 ## Mini-Dungeons ##
 * Core Maps
