@@ -31,7 +31,7 @@ This pack currently contains trails for:
    * Halloween
       * Labyrinth Trails and Pumpkin locations
       * Pumpkin Carving in Lions Arch and ALL starter zones
-   * Wintersday (Orphans and Race)
+   * Wintersday (Orphans for Karma, Mount Race and Foot Race)
 
 ## Gathering ##
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
