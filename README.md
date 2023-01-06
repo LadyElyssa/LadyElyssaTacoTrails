@@ -28,10 +28,10 @@ This pack currently contains trails for:
    * Lunar New Year
    * Dragon Bash (Pinatta and Fireworks)
    * Festival of the Four Winds (Quartz Crystals)
-   * Halloween
+   * Halloween - Updated 2022
       * Labyrinth Trails and Pumpkin locations
       * Pumpkin Carving in Lions Arch and ALL starter zones
-   * Wintersday (Orphans for Karma, Mount Race and Foot Race)
+   * Wintersday (Orphans for Karma, Mount Race and Foot Race) - Updated 2022
 
 ## Gathering ##
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
@@ -131,7 +131,7 @@ This pack currently contains trails for:
    * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
    * All Path of Fire maps
 
-* Jade Tech Zip Lines and Jade Tech Teleporters
+* Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
    * End of Dragons
 
 ### Want to know more? ### 
