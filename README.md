@@ -25,7 +25,7 @@ This pack currently contains trails for:
    * Foraging, Lumberer, Mining and Vista's
 
 ## Festivals ##
-   * Lunar New Year
+   * Lunar New Year (Race, Foot Race, Firecrackers & Adventures)
    * Dragon Bash (Pinatta and Fireworks)
    * Festival of the Four Winds (Quartz Crystals)
    * Halloween - Updated 2022
