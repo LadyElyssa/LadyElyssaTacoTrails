@@ -119,6 +119,7 @@ This pack currently contains trails for:
    * Eternal Ice Shards, including all chests and optional Raven Puzzles - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 ## Map Completion ##
+* Am currently testing viability of doing Map Completion for each Region (work in progress)
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
 * Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
