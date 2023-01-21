@@ -84,7 +84,7 @@ This pack currently contains trails for:
 * Path of Fire
 * End of Dragons
 
-## Living World Season 2: Glint's Prophecy##
+## Living World Season 2: Glint's Prophecy ##
 * Silverwastes Lost Bandit Chests
 
 ## Living World Season 3: Glint's Legacy ##
