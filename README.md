@@ -45,7 +45,7 @@ This pack currently contains trails for:
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
    * Rich Quartz Crystal (PoF) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
    * Toxic Seedling locations in Kessex Hills
-   * Wood
+   * Wood 
       * Elder Wood
          * Straits of Devastation from Waywarde Waypoint `[&BPgCAAA=]`
          * Malchor's Leap from Pagga's Waypoint `[&BKYCAAA=]`
