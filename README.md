@@ -122,6 +122,7 @@ This pack currently contains trails for:
 
 ## Map Completion ##
 * Am currently testing viability of doing Map Completion for each Region (work in progress)
+* Map Completion trails added for: Metrica Province, Caledon Forest, Queensdale and Wayfarer Foothills. Plains of Ashford to follow.
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
 * Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
