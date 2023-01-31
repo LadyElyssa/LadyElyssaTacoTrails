@@ -129,6 +129,9 @@ This pack currently contains trails for:
 * Path of Fire (PoF)
 * End of Dragons (EoD)
 
+## Map Enhancements ##
+* Added Jade Bot Terminal locations in the Cities.
+
 ## Map Traversal ##
 * Jackal Sand Portals
    * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
