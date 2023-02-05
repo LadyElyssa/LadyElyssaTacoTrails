@@ -34,7 +34,7 @@ Waypoint to Plains of Ashford
 * Stratits of Devastation
 * Malchor's Leap
 * Cursed Shore
-
+ 
 Waypoint to Lions's Arch
 * Use Portal to Rata Sum
 * Rata Sum
