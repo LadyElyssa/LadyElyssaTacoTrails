@@ -121,7 +121,8 @@ This pack currently contains trails for:
    * Eternal Ice Shards, including all chests and optional Raven Puzzles - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 ## Map Completion ##
-* Map Completion trails added for all Starter Zones (Caledon Forest, Metrica Province, Plains of Ashford, Queensdale and Wayfarer Foothills).
+* Map Completion trails added for all Starter Zones (Caledon Forest, Metrica Province, Plains of Ashford, Queensdale and Wayfarer Foothills)
+* A set of Trails for collecting just the waypoints on every core map has also been included
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
 * Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
