@@ -1,8 +1,8 @@
 ## 100% Central Tyria World Map Completion ##
 
 Planned Route
-* Metrica Province
-* Brisban Wildlands
+* Metrica Province ✔
+* Brisban Wildlands ✔
 * Kessex Hills
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
