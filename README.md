@@ -66,6 +66,11 @@ This pack currently contains trails for:
    * Rush / Race
    * Trek
 
+## Hero Point Runs ##
+* Heart of Thorns
+* Path of Fire
+* End of Dragons
+
 ## Jumping Puzzles ##
 * Core Maps
 * Memories of Lion's Arch
@@ -73,16 +78,33 @@ This pack currently contains trails for:
 * Living World Season 3
 * End of Dragons, New Kaineng City
 
+## Map Completion (Work in Progress) ##
+* Map Completion routes for Waypoints Only - Complete.
+* World Completion - Currently a work in Progress.
+* A set of Trails for collecting just the waypoints on every core map has also been included
+* All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
+* Maguuma Wastes (Dry Top, The Silverwastes)
+* Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
+* Heart of Thorns (HoT) - excluding Dragon Stand
+* Path of Fire (PoF)
+* End of Dragons (EoD)
+
+## Map Enhancements ##
+* Added Jade Bot Terminal locations in the Cities.
+
 ## Mini-Dungeons ##
 * Core Maps
 
+## Map Traversal ##
+* Jackal Sand Portals
+   * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
+   * All Path of Fire maps
+
+* Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
+   * End of Dragons
+
 ## World Bosses ##
 * All core map world bosses including Pre-Event locations
-
-## Hero Point Runs ##
-* Heart of Thorns
-* Path of Fire
-* End of Dragons
 
 ## Living World Season 2: Glint's Prophecy ##
 * Silverwastes Lost Bandit Chests
@@ -106,6 +128,8 @@ This pack currently contains trails for:
 ## Path of Fire ##
 * Gathering
    * Trade Contracts across all Path of Fire maps including Branded Chests, Bleached Bones, Hidden Chests, Lost Chests, Forgotten Chests, Forgotten Debris, Scarab Chests, Shadows Provisions and Time worn Busts of Palawa Joko.
+* Jackal Sand Portals
+   * All Path of Fire maps
 
 ## Living World Season 4: Rise of Kralkatorrik ##
 * Gathering
@@ -114,32 +138,16 @@ This pack currently contains trails for:
    * Kourna - Inscribed Shard
    * Sandswept Isles - Difluorite Crystal
    * Thunderhead Peaks - Branded Mass + Dwarven Chests
+* Jackal Sand Portals
+   * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
 
 ## Living World Season 5: The Icebrood Saga ##
 * Gathering
    * Verdant Herbs - starts at Still Waters Speaking Waypoint in Bjora Marches `[&BDkMAAA=]`
    * Eternal Ice Shards, including all chests and optional Raven Puzzles - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
-## Map Completion ##
-* Map Completion trails added for all Starter Zones (Caledon Forest, Metrica Province, Plains of Ashford, Queensdale and Wayfarer Foothills)
-* A set of Trails for collecting just the waypoints on every core map has also been included
-* All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
-* Maguuma Wastes (Dry Top, The Silverwastes)
-* Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
-* Heart of Thorns (HoT) - excluding Dragon Stand
-* Path of Fire (PoF)
-* End of Dragons (EoD)
-
-## Map Enhancements ##
-* Added Jade Bot Terminal locations in the Cities.
-
-## Map Traversal ##
-* Jackal Sand Portals
-   * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
-   * All Path of Fire maps
-
+## End of Dragons ##
 * Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
-   * End of Dragons
 
 ### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
