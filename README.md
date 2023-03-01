@@ -79,7 +79,7 @@ This pack currently contains trails for:
 * End of Dragons, New Kaineng City
 
 ## Map Completion (Work in Progress) ##
-* Map Completion routes for Waypoints Only - Complete.
+* Map Completion - Waypoints Only - Complete.
 * World Completion - Currently a work in Progress.
 * A set of Trails for collecting just the waypoints on every core map has also been included
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
@@ -90,7 +90,7 @@ This pack currently contains trails for:
 * End of Dragons (EoD)
 
 ## Map Enhancements ##
-* Added Jade Bot Terminal locations in the Cities.
+* Added Jade Bot Terminal locations in Cities.
 
 ## Mini-Dungeons ##
 * Core Maps
