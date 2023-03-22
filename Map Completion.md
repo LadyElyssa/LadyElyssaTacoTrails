@@ -29,7 +29,7 @@ Waypoint to Queensdale
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
    |-----------:|--------------|---------------------|
    | `[&BFABAAA=]` | [Vanguard Scout Holt](https://wiki.guildwars2.com/wiki/Vanguard_Scout_Holt) | [Piece of Charr Scrap Metal](https://wiki.guildwars2.com/wiki/Piece_of_Charr_Scrap_Metal) x 20 |
-* Blazeridge Steppes
+* Blazeridge Steppes ✔
 * Iron Marches
 * Fireheart Rise
    > Items to buy from Trading Post to trade in to the following Heart NPCs
