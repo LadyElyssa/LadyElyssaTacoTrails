@@ -30,7 +30,7 @@ Waypoint to Queensdale
    |-----------:|--------------|---------------------|
    | `[&BFABAAA=]` | [Vanguard Scout Holt](https://wiki.guildwars2.com/wiki/Vanguard_Scout_Holt) | [Piece of Charr Scrap Metal](https://wiki.guildwars2.com/wiki/Piece_of_Charr_Scrap_Metal) x 20 |
 * Blazeridge Steppes ✔
-* Iron Marches
+* Iron Marches ✔
 * Fireheart Rise
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
