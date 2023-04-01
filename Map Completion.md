@@ -20,7 +20,7 @@ Planned Route
 
 * The Grove ✔
 
-Waypoint to Queensdale
+**Waypoint to Queensdale**
 * Queensdale ✔
 * Divinity's Reach ✔
 * Use Gate to Fields of Ruin ✔
@@ -41,7 +41,7 @@ Waypoint to Queensdale
 * Gendarran Fields
 * Harathi Hinterlands
 
-Waypoint to Plains of Ashford
+**Waypoint to Plains of Ashford**
 * Plains of Ashford
 * Black Citadel
 * Diessa Plateau
@@ -51,8 +51,9 @@ Waypoint to Plains of Ashford
 * Timberline Falls
 * Lornar's Pass
 * Lion's Arch
-   * At Portal Gate Hub take the Gate to Rata Sum
-   * Return to Lion's Arch and continue
+   * At **Portal Gate Hub** take the **Gate** to **Rata Sum**
+   * Map Complete **Rata Sum**
+   * **Return** to **Lion's Arch** and continue
 * Bloodtide Coast
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
