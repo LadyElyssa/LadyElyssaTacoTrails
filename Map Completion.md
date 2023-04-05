@@ -37,7 +37,7 @@ Planned Route
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
    |-----------:|--------------|---------------------|
    | `[&BB4CAAA=]` | [Enduring Protector](https://wiki.guildwars2.com/wiki/Enduring_Protector) | [Barracuda Meat](https://wiki.guildwars2.com/wiki/Barracuda_Meat) x 25 |
-* Frostgorge Sound
+* Frostgorge Sound ✔
 * Gendarran Fields
 * Harathi Hinterlands
 
