@@ -39,7 +39,7 @@ Planned Route
    | `[&BB4CAAA=]` | [Enduring Protector](https://wiki.guildwars2.com/wiki/Enduring_Protector) | [Barracuda Meat](https://wiki.guildwars2.com/wiki/Barracuda_Meat) x 25 |
 * Frostgorge Sound ✔
 * Snowden Drifts ✔
-* Gendarran Fields
+* Gendarran Fields ✔
 * Harathi Hinterlands
 
 **Waypoint to Plains of Ashford**
