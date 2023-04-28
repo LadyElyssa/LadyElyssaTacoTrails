@@ -40,7 +40,7 @@ Planned Route
 * Frostgorge Sound ✔
 * Snowden Drifts ✔
 * Gendarran Fields ✔
-* Harathi Hinterlands
+* Harathi Hinterlands ✔
 
 **Waypoint to Plains of Ashford**
 * Plains of Ashford
