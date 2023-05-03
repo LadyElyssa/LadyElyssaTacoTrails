@@ -1,5 +1,5 @@
 A collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of an estimated **_400+ Trails_** and **_5,000+ Markers_**. Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/). 
-
+ 
 Principles
 * Markers and Trails for Permanent, Replayable content only, no achievements or collections 
 * Aim to provide smooth trails by:
@@ -79,8 +79,8 @@ This pack currently contains trails for:
 * End of Dragons, New Kaineng City
 
 ## Map Completion (Work in Progress) ##
-* Map Completion - Waypoints Only - Complete.
-* World Completion - Currently a work in Progress.
+* Map Waypoints Only - Complete.
+* World Completion - Currently a work in Progress (58% Complete).
 * A set of Trails for collecting just the waypoints on every core map has also been included
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
