@@ -17,7 +17,7 @@ Planned Route
    |-----------:|--------------|---------------------|
    | `[&BDcBAAA=]` | [Harvester Mavad](https://wiki.guildwars2.com/wiki/Harvester_Mavad) | [Caledon Lavender](https://wiki.guildwars2.com/wiki/Caledon_Lavender) x 20 |
    | `[&BD0BAAA=]` | [Youl](https://wiki.guildwars2.com/wiki/Yoal) | [Hylek Armor](https://wiki.guildwars2.com/wiki/Hylek_Armor) x 20 |
-
+ 
 * The Grove ✔
 
 **Waypoint to Queensdale**
