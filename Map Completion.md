@@ -43,7 +43,7 @@ Planned Route
 * Harathi Hinterlands ✔
 
 **Waypoint to Plains of Ashford**
-* Plains of Ashford
+* Plains of Ashford ✔
 * Black Citadel
 * Diessa Plateau
 * Wayfarer Foothills
