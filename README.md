@@ -72,7 +72,7 @@ This pack currently contains trails for:
 * End of Dragons
 
 ## Jumping Puzzles ##
-* Core Maps
+* Core Tyria Maps
 * Memories of Lion's Arch
 * Heart of Thorns, Auric Basin
 * Living World Season 3
