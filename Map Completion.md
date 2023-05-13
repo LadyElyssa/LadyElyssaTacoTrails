@@ -45,7 +45,7 @@ Planned Route
 **Waypoint to Plains of Ashford**
 * Plains of Ashford ✔
 * Black Citadel ✔
-* Diessa Plateau
+* Diessa Plateau ✔
 * Wayfarer Foothills
 * Hoelbrak
 * Dredgehaunt Cliffs
