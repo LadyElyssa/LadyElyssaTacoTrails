@@ -47,7 +47,7 @@ Planned Route
 * Black Citadel ✔
 * Diessa Plateau ✔
 * Wayfarer Foothills ✔
-* Hoelbrak
+* Hoelbrak ✔
 * Dredgehaunt Cliffs
 * Timberline Falls
 * Lornar's Pass
