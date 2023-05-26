@@ -90,7 +90,7 @@ This pack currently contains trails for:
 * End of Dragons (EoD)
 
 ## Map Enhancements ##
-* Added Jade Bot Terminal locations in Cities.
+* Added Jade Bot Terminal locations in Cities
 * Added Launch Pads
 
 ## Mini-Dungeons ##
