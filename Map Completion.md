@@ -46,7 +46,7 @@ Planned Route
 * Plains of Ashford ✔
 * Black Citadel ✔
 * Diessa Plateau ✔
-* Wayfarer Foothills
+* Wayfarer Foothills ✔
 * Hoelbrak
 * Dredgehaunt Cliffs
 * Timberline Falls
