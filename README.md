@@ -78,9 +78,9 @@ This pack currently contains trails for:
 * Living World Season 3
 * End of Dragons, New Kaineng City
 
-## Map Completion (Work in Progress) ##
+## Map Completion ##
 * Map Waypoints Only - Complete.
-* World Completion - Currently a work in Progress (58% Complete).
+* World Completion - Complete.
 * A set of Trails for collecting just the waypoints on every core map has also been included
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
