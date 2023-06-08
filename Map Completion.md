@@ -48,14 +48,14 @@ Planned Route
 * Diessa Plateau ✔
 * Wayfarer Foothills ✔
 * Hoelbrak ✔
-* Dredgehaunt Cliffs
-* Timberline Falls
-* Lornar's Pass
-* Lion's Arch
+* Dredgehaunt Cliffs ✔
+* Timberline Falls ✔
+* Lornar's Pass ✔
+* Lion's Arch ✔
    * At **Portal Gate Hub** take the **Gate** to **Rata Sum**
    * Map Complete **Rata Sum**
    * **Return** to **Lion's Arch** and continue
-* Bloodtide Coast
+* Bloodtide Coast ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
@@ -63,8 +63,8 @@ Planned Route
    | `[&BKQBAAA=]` | [Any Treasure Chest](https://wiki.guildwars2.com/wiki/Treasure_Chest_(Bloodtide_Coast)) | [Cursed Pirate Artifact](https://wiki.guildwars2.com/wiki/Cursed_Pirate_Artifact) x 34 |
    | `[&BKQBAAA=]` | [Fisherman Carter](https://wiki.guildwars2.com/wiki/Fisherman_Carter) | [Pirate Outfit](https://wiki.guildwars2.com/wiki/Pirate_Outfit) x 13 |
    | `[&BKUBAAA=]` | [Crusader Aisling](https://wiki.guildwars2.com/wiki/Crusader_Aisling) | [Skritt Artifact](https://wiki.guildwars2.com/wiki/Skritt_Artifact) x 25 |
-* Sparkfly Fen
-* Mount Maelstrom
+* Sparkfly Fen ✔
+* Mount Maelstrom ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
@@ -73,6 +73,6 @@ Planned Route
    | `[&BNMCAAA=]` | [Zara](https://wiki.guildwars2.com/wiki/Zara) | [Supplies](https://wiki.guildwars2.com/wiki/Supplies) x 20 |
    | `[&BNYCAAA=]` | [Krewe Apprentice Blork](https://wiki.guildwars2.com/wiki/Krewe_Apprentice_Blork) | [Volcanic Earth Elemental Core](https://wiki.guildwars2.com/wiki/Volcanic_Earth_Elemental_Core) x 20 |
    | `[&BNICAAA=]` | [Lightbringer Krentch](https://wiki.guildwars2.com/wiki/Lightbringer_Krentch) | [Alpha Inquest Control Key](https://wiki.guildwars2.com/wiki/Alpha_Inquest_Control_Key) x 20 |
-* Stratits of Devastation
-* Malchor's Leap
-* Cursed Shore
+* Stratits of Devastation ✔
+* Malchor's Leap ✔
+* Cursed Shore ✔
