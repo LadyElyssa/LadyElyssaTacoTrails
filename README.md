@@ -26,7 +26,10 @@ This pack currently contains trails for:
 
 ## Festivals ##
    * Lunar New Year (Race, Foot Race, Firecrackers & Adventures)
-   * Dragon Bash (Pinatta and Fireworks)
+   * Dragon Bash
+      * Adventure - Pinata Bashing
+      * Fireworks
+      * Pinata
    * Festival of the Four Winds (Quartz Crystals)
    * Halloween - Updated 2022
       * Labyrinth Trails and Pumpkin locations
