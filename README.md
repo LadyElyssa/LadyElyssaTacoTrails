@@ -84,7 +84,7 @@ This pack currently contains trails for:
 ## Map Completion ##
 * Map Waypoints Only - Complete.
 * World Completion - Complete.
-* A set of Trails for collecting just the waypoints on every core map has also been included
+* A set of Trails for collecting just the Waypoints on every core map has also been included
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
 * Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
