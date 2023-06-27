@@ -94,7 +94,7 @@ This pack currently contains trails for:
 
 ## Map Enhancements ##
 * Added Jade Bot Terminal locations in Cities
-* Added Launch Pads, including trail shown on map for direction launched.
+* Added Launch Pads, including trailon map and minimap showing launch direction
 
 ## Mini-Dungeons ##
 * Core Maps
