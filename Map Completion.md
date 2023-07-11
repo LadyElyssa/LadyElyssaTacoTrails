@@ -2,6 +2,7 @@
 
 Planned Route
 * Metrica Province ✔
+   * Soren Draa Waypoint `[&BEAAAAA=]`
 * Brisban Wildlands ✔
 * Kessex Hills ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
