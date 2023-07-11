@@ -81,7 +81,8 @@ This pack currently contains trails for:
 * Living World Season 3
 * End of Dragons, New Kaineng City
 
-## Map Completion ##
+## Map Completion ## 
+See [Map Completion Route](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
 * Map Waypoints Only - Complete.
 * World Completion - Complete.
 * A set of Trails for collecting just the Waypoints on every core map has also been included
