@@ -30,7 +30,10 @@ This pack currently contains trails for:
       * Adventure - Pinata Bashing
       * Fireworks
       * Pinata
-   * Festival of the Four Winds (Quartz Crystals)
+   * Festival of the Four Winds
+      * Quartz Crystals
+      * Race - Flying Dolyak
+      * Treasure Hunt
    * Halloween - Updated 2022
       * Labyrinth Trails and Pumpkin locations
       * Pumpkin Carving in Lions Arch and ALL starter zones
