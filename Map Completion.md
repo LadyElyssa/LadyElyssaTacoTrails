@@ -1,5 +1,5 @@
 ## 100% Central Tyria World Map Completion ##
-
+ 
 Planned Route
 * Metrica Province ✔
    * Soren Draa Waypoint `[&BEAAAAA=]` 
