@@ -54,7 +54,7 @@ Planned Route
 * Lornar's Pass ✔
 * Lion's Arch ✔
    * At **Portal Gate Hub** take the **Gate** to **Rata Sum**
-   * Map Complete **Rata Sum**
+* Map Complete **Rata Sum**
    * **Return** to **Lion's Arch** and continue
 * Bloodtide Coast ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
@@ -74,6 +74,6 @@ Planned Route
    | `[&BNMCAAA=]` | [Zara](https://wiki.guildwars2.com/wiki/Zara) | [Supplies](https://wiki.guildwars2.com/wiki/Supplies) x 20 |
    | `[&BNYCAAA=]` | [Krewe Apprentice Blork](https://wiki.guildwars2.com/wiki/Krewe_Apprentice_Blork) | [Volcanic Earth Elemental Core](https://wiki.guildwars2.com/wiki/Volcanic_Earth_Elemental_Core) x 20 |
    | `[&BNICAAA=]` | [Lightbringer Krentch](https://wiki.guildwars2.com/wiki/Lightbringer_Krentch) | [Alpha Inquest Control Key](https://wiki.guildwars2.com/wiki/Alpha_Inquest_Control_Key) x 20 |
-* Stratits of Devastation ✔
+* Straits of Devastation ✔
 * Malchor's Leap ✔
 * Cursed Shore ✔
