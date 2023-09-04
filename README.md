@@ -95,6 +95,7 @@ See [Map Completion Route](https://github.com/LadyElyssa/LadyElyssaTacoTrails/bl
 * Heart of Thorns (HoT) - excluding Dragon Stand
 * Path of Fire (PoF)
 * End of Dragons (EoD)
+* Secrets of the Obscure (SotO)
 
 ## Map Enhancements ##
 * Added Jade Bot Terminal locations in Cities
