@@ -8,4 +8,4 @@ This guide presumes you already have Blish HUD installed, see the Blish HUD [Get
 4. Inside your **Guild Wars 2** folder navigate to the **addons** folder, followed by **blishhud** and then **markers**.
 5. Right-Click on an empty space in the window and select Paste.
 
-You should now find the Lady Elyssa trails available when running Blish Hud with Guild Wars 2.
+You should now find Lady Elyssa's trails available when running Blish Hud with Guild Wars 2.
