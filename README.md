@@ -1,4 +1,4 @@
-A collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_700 Trails_** and **_7,500+ Markers_**. Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/). 
+A collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_700 Trails_** and **_7,500+ Markers_** across 78 Maps. Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/). 
  
 Principles
 * Markers and Trails for Permanent, Replayable content only, no achievements or collections 
