@@ -5,7 +5,7 @@
 I am working on a dedicated page for these on the wiki and for now these can be found on each of my character pages. I have linked to the build pages here for easy reference.
 
 
-Elementalist - Currently considering something along the lines of [Fresh Air Tempest](http://en.gw2skills.net/editor/?PGwAw2JlZw8YHsLGJWaTutNA-DSIYR0xXG1mCVUB2eWglIW2AA-e)
+Elementalist - Currently considering something along the lines of [Fresh Air Tempest](http://en.gw2skills.net/editor/?PGwAw2JlZw8YHsLGJWaTutNA-DSIYR0xXGNlCBWB2eWgFrW2AA-e)
 
 Engineer (Core) - [Link](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Primoire#Map_Completion_Builds)
 
