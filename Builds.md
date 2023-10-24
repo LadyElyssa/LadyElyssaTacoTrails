@@ -1,6 +1,6 @@
 ## Festival Builds ##
 [Guilds Wars 2 Festival Builds](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Builds/Festivals) for Halloween and Lunar New Year Festivals.
-
+ 
 ## Map Completion Builds ##
 I am working on a dedicated page for these on the wiki and for now these can be found on each of my character pages. I have linked to the build pages here for easy reference.
 
