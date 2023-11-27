@@ -88,9 +88,9 @@ This pack currently contains trails for:
 * End of Dragons, New Kaineng City
 
 ## Map Completion ## 
-See [Map Completion Route](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
-* Map Waypoints Only - Complete.
-* World Completion - Complete.
+See [Map Completion Route and Further Information](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
+* Map Waypoints Only
+* World Completion
 * A set of Trails for collecting just the Waypoints on every core map has also been included
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
