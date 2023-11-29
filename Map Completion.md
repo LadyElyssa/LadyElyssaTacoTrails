@@ -10,7 +10,7 @@ Planned Route
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
    |-----------:|--------------|---------------------|
    | `[&BBAAAAA=]` | [Doolsileep](https://wiki.guildwars2.com/wiki/Doolsileep) | [Crab Meat](https://wiki.guildwars2.com/wiki/Crabmeat) x 34 |
-   | `[&BBYAAAA=]` | [Sergeant Rane](https://wiki.guildwars2.com/wiki/Sergeant_Rane) | [Seraph Badge](https://wiki.guildwars2.com/wiki/Seraph_Badge) x 20 |
+   | `[&BBYAAAA=]` | [Sergeant Rane](https://wiki.guildwars2.com/wiki/Sergeant_Rane) | [Seraph Badge](https://wiki.guildwars2.com/wiki/Seraph_Badge_(Sergeant_Rane)) x 20 |
 * Caledon Forest ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
