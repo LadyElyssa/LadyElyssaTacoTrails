@@ -43,8 +43,8 @@ This pack currently contains trails for:
    * Wintersday (Orphans for Karma, Mount Race and Foot Race) - Updated 2022
 
 ## Gathering ##
-   * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
-   * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
+
+Ore
    * Rich Copper (Core) - starts at Caledon Haven Waypoint in Caledon Forest `[&BDwBAAA=]`
    * Rich Silver (Core) - starts at Rosko's Campsite Waypoint in Fields of Ruin `[&BNgAAAA=]`
    * Rich Gold (Core) - starts at Junction Camp Waypoint in Harathi Hinterlands `[&BLAAAAA=]`
@@ -52,23 +52,30 @@ This pack currently contains trails for:
    * Rich Platinum (Core) - starts at Valance Tutory Waypoint in Timberline Falls `[&BEwCAAA=]`
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
-   * Rich Quartz Crystal (PoF) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
+
+Plants
+   * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
    * Toxic Seedling locations in Kessex Hills
-   * Wood 
-      * Elder Wood
-         * Straits of Devastation from Waywarde Waypoint `[&BPgCAAA=]`
-         * Malchor's Leap from Pagga's Waypoint `[&BKYCAAA=]`
-         * Siren's Landing from Camp Reclamation Waypoint `[&BO8JAAA=]`
-      * Hard Wood 
-         * Mount Maelstrom from Ashen Waypoint `[&BM4CAAA=]`
-         * Sparkfly Fen from Caer Brier Waypoint `[&BLMDAAA=]`
-         * Timberline Falls from Gentle River Waypoint `[&BFACAAA=]`
-      * Seasoned Wood
-         * Dredgehaunt Cliffs from Graupel Waypoint `[&BGICAAA=]`
-         * Harathi Hinterlands from Wynchona Rally Point Waypoint `[&BKgAAAA=]`
-      * Soft Wood
-         * Diessa Plateau from Oldgate Waypoint `[&BF4BAAA=]`
-         * Fields of Ruin from Forlorn Gate Waypoint `[&BFABAAA=]`
+ 
+Quartz Crystal
+   * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
+   * Rich Quartz Crystal (PoF) - starts at Destiny's Gorge Waypoint in Crystal Oasis `[&BJMKAAA=]`
+  
+Wood 
+   * Elder Wood
+      * Straits of Devastation from Waywarde Waypoint `[&BPgCAAA=]`
+      * Malchor's Leap from Pagga's Waypoint `[&BKYCAAA=]`
+      * Siren's Landing from Camp Reclamation Waypoint `[&BO8JAAA=]`
+   * Hard Wood 
+      * Mount Maelstrom from Ashen Waypoint `[&BM4CAAA=]`
+      * Sparkfly Fen from Caer Brier Waypoint `[&BLMDAAA=]`
+      * Timberline Falls from Gentle River Waypoint `[&BFACAAA=]`
+   * Seasoned Wood
+      * Dredgehaunt Cliffs from Graupel Waypoint `[&BGICAAA=]`
+      * Harathi Hinterlands from Wynchona Rally Point Waypoint `[&BKgAAAA=]`
+   * Soft Wood
+      * Diessa Plateau from Oldgate Waypoint `[&BF4BAAA=]`
+      * Fields of Ruin from Forlorn Gate Waypoint `[&BFABAAA=]`   
 
 ## Guild Missions ##
    * Bounty
