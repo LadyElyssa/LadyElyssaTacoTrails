@@ -94,8 +94,11 @@ Wood
 * Living World Season 3
 * End of Dragons, New Kaineng City
 
-## Key Farming ##
-* Human - Commoner - Sister
+## Key Farming ## (other races to follow)
+* Human
+   * Commoner
+      * Dead Sister
+      * Unknown Parents
 
 ## Map Completion ## 
 See [Map Completion Route and Further Information](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
