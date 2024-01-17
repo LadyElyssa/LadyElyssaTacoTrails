@@ -94,7 +94,9 @@ Wood
 * Living World Season 3
 * End of Dragons, New Kaineng City
 
-## Key Farming ## (other races to follow)
+## Key Farming ## (Charr, Norn & Sylvari to follow)
+I have a written [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Quick_Guide_to_Key_Farming) over on the Official Guildwars 2 wiki.
+
 * Asura
    * [Synergetics](https://wiki.guildwars2.com/wiki/Biography#Asura)
       * [Transatmospheric Converter](https://wiki.guildwars2.com/wiki/Where_Credit_Is_Due)
