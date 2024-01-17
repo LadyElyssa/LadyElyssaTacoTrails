@@ -95,10 +95,14 @@ Wood
 * End of Dragons, New Kaineng City
 
 ## Key Farming ## (other races to follow)
+* Asura
+   * [Synergetics](https://wiki.guildwars2.com/wiki/Biography#Asura)
+      * [Transatmospheric Converter](https://wiki.guildwars2.com/wiki/Where_Credit_Is_Due)
+      
 * Human
-   * Commoner
-      * Dead Sister
-      * Unknown Parents
+   * [Commoner](https://wiki.guildwars2.com/wiki/Biography#Human)
+      * [Dead Sister](https://wiki.guildwars2.com/wiki/The_Fall_of_Falcon_Company)
+      * [Unknown Parents](https://wiki.guildwars2.com/wiki/Voices_From_the_Past)
 
 ## Map Completion ## 
 See [Map Completion Route and Further Information](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
