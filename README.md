@@ -114,7 +114,7 @@ I have a written [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/U
       * [Unknown Parents](https://wiki.guildwars2.com/wiki/Voices_From_the_Past)
 
 * Norn
-   * [Guard of the Mists](https://wiki.guildwars2.com/wiki/Biography#Norn)
+   * [Guard the Mists](https://wiki.guildwars2.com/wiki/Biography#Norn)
       * [Lost an Heirloom](https://wiki.guildwars2.com/wiki/Rumors_of_Trouble)
       * [Revenge](https://wiki.guildwars2.com/wiki/A_New_Challenger)
 
