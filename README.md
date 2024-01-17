@@ -94,17 +94,34 @@ Wood
 * Living World Season 3
 * End of Dragons, New Kaineng City
 
-## Key Farming ## (Charr, Norn & Sylvari to follow)
+## Key Farming ##  
+
 I have a written [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Quick_Guide_to_Key_Farming) over on the Official Guildwars 2 wiki.
 
 * Asura
    * [Synergetics](https://wiki.guildwars2.com/wiki/Biography#Asura)
+      * [Infinity Ball](https://wiki.guildwars2.com/wiki/Any_Sufficiently_Advanced_Science)
       * [Transatmospheric Converter](https://wiki.guildwars2.com/wiki/Where_Credit_Is_Due)
+
+* Charr
+   * [Blood Legion](https://wiki.guildwars2.com/wiki/Biography#Charr)
+      * [Sorcerous Shaman](https://wiki.guildwars2.com/wiki/Searching_for_the_Truth)
+      * [Gladium](https://wiki.guildwars2.com/wiki/AWOL)
       
 * Human
    * [Commoner](https://wiki.guildwars2.com/wiki/Biography#Human)
       * [Dead Sister](https://wiki.guildwars2.com/wiki/The_Fall_of_Falcon_Company)
       * [Unknown Parents](https://wiki.guildwars2.com/wiki/Voices_From_the_Past)
+
+* Norn
+   * [Guard of the Mists](https://wiki.guildwars2.com/wiki/Biography#Norn)
+      * [Lost an Heirloom](https://wiki.guildwars2.com/wiki/Rumors_of_Trouble)
+      * [Revenge](https://wiki.guildwars2.com/wiki/A_New_Challenger)
+
+* Sylvari
+   * [The Green Knight](https://wiki.guildwars2.com/wiki/Biography#Sylvari)
+      * [Where Life Goes, so too, should you](https://wiki.guildwars2.com/wiki/Where_Life_Goes)
+      * [All things have a right to grow](https://wiki.guildwars2.com/wiki/Wild_Growth)
 
 ## Map Completion ## 
 See [Map Completion Route and Further Information](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
