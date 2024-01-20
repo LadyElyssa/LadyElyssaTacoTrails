@@ -105,6 +105,7 @@ I have a written [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/U
 
 * Charr
    * [Blood Legion](https://wiki.guildwars2.com/wiki/Biography#Charr)
+      * [Sorcerous Shaman](https://wiki.guildwars2.com/wiki/Sorcerous_Shaman)
       
 * Human
    * [Commoner](https://wiki.guildwars2.com/wiki/Biography#Human)
