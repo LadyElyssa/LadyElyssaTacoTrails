@@ -105,8 +105,6 @@ I have a written [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/U
 
 * Charr
    * [Blood Legion](https://wiki.guildwars2.com/wiki/Biography#Charr)
-      * [Sorcerous Shaman](https://wiki.guildwars2.com/wiki/Searching_for_the_Truth)
-      * [Gladium](https://wiki.guildwars2.com/wiki/AWOL)
       
 * Human
    * [Commoner](https://wiki.guildwars2.com/wiki/Biography#Human)
@@ -116,12 +114,10 @@ I have a written [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/U
 * Norn
    * [Guard the Mists](https://wiki.guildwars2.com/wiki/Biography#Norn)
       * [Lost an Heirloom](https://wiki.guildwars2.com/wiki/Rumors_of_Trouble)
-      * [Revenge](https://wiki.guildwars2.com/wiki/A_New_Challenger)
 
 * Sylvari
    * [The Green Knight](https://wiki.guildwars2.com/wiki/Biography#Sylvari)
       * [Where Life Goes, so too, should you](https://wiki.guildwars2.com/wiki/Where_Life_Goes)
-      * [All things have a right to grow](https://wiki.guildwars2.com/wiki/Wild_Growth)
 
 ## Map Completion ## 
 See [Map Completion Route and Further Information](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
