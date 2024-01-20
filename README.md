@@ -96,7 +96,7 @@ Wood
 
 ## Key Farming ##  
 
-I have a written [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Quick_Guide_to_Key_Farming) over on the Official Guildwars 2 wiki.
+I have a written a [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Quick_Guide_to_Key_Farming) over on the Official Guildwars 2 wiki that provides details and the choices made for specific story steps.
 
 * Asura
    * [Synergetics](https://wiki.guildwars2.com/wiki/Biography#Asura)
