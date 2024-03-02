@@ -20,9 +20,8 @@ Planned Route
    | `[&BD0BAAA=]` | [Yoal](https://wiki.guildwars2.com/wiki/Yoal) | [Hylek Armor](https://wiki.guildwars2.com/wiki/Hylek_Armor) x 20 |
  
 * The Grove ✔
-
-**Waypoint to Queensdale**
 * Queensdale ✔
+  * Shaemoor Waypoint `[&BO8AAAA=]` 
 * Divinity's Reach ✔
 * Use Gate to Fields of Ruin ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
@@ -42,9 +41,8 @@ Planned Route
 * Snowden Drifts ✔
 * Gendarran Fields ✔
 * Harathi Hinterlands ✔
-
-**Waypoint to Plains of Ashford**
 * Plains of Ashford ✔
+  * Smokestead Waypoint `[&BIABAAA=]`
 * Black Citadel ✔
 * Diessa Plateau ✔
 * Wayfarer Foothills ✔
@@ -53,17 +51,17 @@ Planned Route
 * Timberline Falls ✔
 * Lornar's Pass ✔
 * Lion's Arch ✔
-   * At **Portal Gate Hub** take the **Gate** to **Rata Sum**
-* Map Complete **Rata Sum**
-   * **Return** to **Lion's Arch** and continue
+   * At **Gate Hub Plaza** take the **Gate** to **Rata Sum**
+* **Rata Sum**
+   * Map Complete **Rata Sum** then **return** to **Lion's Arch** and continue
 * Bloodtide Coast ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
    |-----------:|--------------|---------------------|
    | `[&BKQBAAA=]` | [Any Treasure Chest](https://wiki.guildwars2.com/wiki/Treasure_Chest_(Bloodtide_Coast)) | [Cursed Pirate Artifact](https://wiki.guildwars2.com/wiki/Cursed_Pirate_Artifact) x 34 |
-   | `[&BKQBAAA=]` | [Fisherman Carter](https://wiki.guildwars2.com/wiki/Fisherman_Carter) | [Pirate Outfit](https://wiki.guildwars2.com/wiki/Pirate_Outfit) x 13 |
    | `[&BKUBAAA=]` | [Crusader Aisling](https://wiki.guildwars2.com/wiki/Crusader_Aisling) | [Skritt Artifact](https://wiki.guildwars2.com/wiki/Skritt_Artifact) x 25 |
+   | `[&BKQBAAA=]` | [Fisherman Carter](https://wiki.guildwars2.com/wiki/Fisherman_Carter) | [Pirate Outfit](https://wiki.guildwars2.com/wiki/Pirate_Outfit) x 13 |
 * Sparkfly Fen ✔
 * Mount Maelstrom ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
@@ -71,9 +69,9 @@ Planned Route
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
    |-----------:|--------------|---------------------|
    | `[&BKoBAAA=]` | [Drysdan](https://wiki.guildwars2.com/wiki/Drysdan) | [Special Root](https://wiki.guildwars2.com/wiki/Special_Root) x 50 |
-   | `[&BNMCAAA=]` | [Zara](https://wiki.guildwars2.com/wiki/Zara) | [Supplies](https://wiki.guildwars2.com/wiki/Supplies) x 20 |
    | `[&BNYCAAA=]` | [Krewe Apprentice Blork](https://wiki.guildwars2.com/wiki/Krewe_Apprentice_Blork) | [Volcanic Earth Elemental Core](https://wiki.guildwars2.com/wiki/Volcanic_Earth_Elemental_Core) x 20 |
    | `[&BNICAAA=]` | [Lightbringer Krentch](https://wiki.guildwars2.com/wiki/Lightbringer_Krentch) | [Alpha Inquest Control Key](https://wiki.guildwars2.com/wiki/Alpha_Inquest_Control_Key) x 20 |
+   | `[&BNMCAAA=]` | [Zara](https://wiki.guildwars2.com/wiki/Zara) | [Supplies](https://wiki.guildwars2.com/wiki/Supplies) x 20 |
 * Straits of Devastation ✔
 * Malchor's Leap ✔
 * Cursed Shore ✔
