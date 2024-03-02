@@ -17,7 +17,7 @@ Planned Route
    | Nearest WP |<img src="https://wiki.guildwars2.com/images/2/23/Renown_Heart_empty_%28map_icon%29.png"/> | <img src="https://wiki.guildwars2.com/images/d/d5/Trading_Post_%28map_icon%29.png"/> |
    |-----------:|--------------|---------------------|
    | `[&BDcBAAA=]` | [Harvester Mavad](https://wiki.guildwars2.com/wiki/Harvester_Mavad) | [Caledon Lavender](https://wiki.guildwars2.com/wiki/Caledon_Lavender) x 20 |
-   | `[&BD0BAAA=]` | [Youl](https://wiki.guildwars2.com/wiki/Yoal) | [Hylek Armor](https://wiki.guildwars2.com/wiki/Hylek_Armor) x 20 |
+   | `[&BD0BAAA=]` | [Yoal](https://wiki.guildwars2.com/wiki/Yoal) | [Hylek Armor](https://wiki.guildwars2.com/wiki/Hylek_Armor) x 20 |
  
 * The Grove ✔
 
