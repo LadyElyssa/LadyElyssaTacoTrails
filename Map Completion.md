@@ -1,4 +1,4 @@
-## 100% World Map Completion for Central Tyria
+## 100% World Map Completion Route for Central Tyria
  
 Planned Route
 * Metrica Province ✔
