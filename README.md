@@ -83,7 +83,7 @@ Wood
    * Trek
 
 ## Hero Point Runs ##
-* Heart of Thorns
+* Heart of Thorns - These are now more beginner friendly and includes non-mount paths.
 * Path of Fire
 * End of Dragons
 
