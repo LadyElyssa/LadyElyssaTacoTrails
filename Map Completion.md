@@ -75,3 +75,7 @@ Planned Route
 * Straits of Devastation ✔
 * Malchor's Leap ✔
 * Cursed Shore ✔
+
+## See Also
+* Lady Elyssa's User page on the [Official Guildwars2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
+
