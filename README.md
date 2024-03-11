@@ -84,6 +84,8 @@ Wood
 
 ## Hero Point Runs ##
 * Heart of Thorns - These are now more beginner friendly and includes non-mount paths.
+  * Verdant Brink Requires: Basic Gliding, Updrafts & Lean Techniques
+  * Tangled Depths Requires: Nuhoch Wallows
 * Path of Fire
 * End of Dragons
 
