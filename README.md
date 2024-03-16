@@ -95,8 +95,9 @@ Masteries should be trained in the following order:
 * Itzel Lore - Bouncing Mushrooms
 * Gliding - Updrafts
 * Exalted Lore - Exalted Markings
-* Nuhoch Lore - Nuhoch Wallows
 * Gliding - Lean Techniques
+* Nuhoch Lore - Nuhoch Wallows
+
 * Itzel Lore - Itzel Poison Lore
 
 ## Jumping Puzzles ##
