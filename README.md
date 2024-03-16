@@ -97,7 +97,6 @@ Masteries should be trained in the following order:
 * Exalted Lore - Exalted Markings
 * Gliding - Lean Techniques
 * Nuhoch Lore - Nuhoch Wallows
-
 * Itzel Lore - Itzel Poison Lore
 
 ## Jumping Puzzles ##
