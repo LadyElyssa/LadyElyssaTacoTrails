@@ -83,11 +83,21 @@ Wood
    * Trek
 
 ## Hero Point Runs ##
-* Heart of Thorns - These are now more beginner friendly and includes non-mount paths.
-  * Verdant Brink Requires: Basic Gliding, Updrafts & Lean Techniques
-  * Tangled Depths Requires: Nuhoch Wallows
+These now include basic beginner friendly paths for those with only Basic Gliding in addition to the main path that incorporates mounts.
+* Heart of Thorns
+* Verdant Brink Requires: Basic Gliding, Updrafts & Lean Techniques
+* Tangled Depths Requires: Nuhoch Wallows
 * Path of Fire
 * End of Dragons
+
+Masteries should be trained in the following order:
+* Gliding - Glider Basics
+* Itzel Lore - Bouncing Mushrooms
+* Gliding - Updrafts
+* Exalted Lore - Exalted Markings
+* Nuhoch Lore - Nuhoch Wallows
+* Gliding - Lean Techniques
+* Itzel Lore - Itzel Poison Lore
 
 ## Jumping Puzzles ##
 * Core Tyria Maps
