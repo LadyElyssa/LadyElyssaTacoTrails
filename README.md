@@ -83,21 +83,32 @@ Wood
    * Trek
 
 ## Hero Point Runs ##
-These now include basic beginner friendly paths for those with only Basic Gliding in addition to the main path that incorporates mounts.
-* Heart of Thorns
-* Verdant Brink Requires: Basic Gliding, Updrafts & Lean Techniques
-* Tangled Depths Requires: Nuhoch Wallows
-* Path of Fire
-* End of Dragons
 
-Masteries should be trained in the following order:
-* Gliding - Glider Basics
-* Itzel Lore - Bouncing Mushrooms
-* Gliding - Updrafts
-* Exalted Lore - Exalted Markings
-* Gliding - Lean Techniques
-* Nuhoch Lore - Nuhoch Wallows
-* Itzel Lore - Itzel Poison Lore
+It is recommended to train the Masteries in the following order:
+  * Gliding - Glider Basics
+  * Itzel Lore - Bouncing Mushrooms
+  * Gliding - Updrafts
+  * Exalted Lore - Exalted Markings
+  * Gliding - Lean Techniques
+  * Nuhoch Lore - Nuhoch Wallows
+  * Itzel Lore - Itzel Poison Lore
+
+**Heart of Thorns** - Now includes basic beginner friendly paths for those with only Basic Gliding in addition to the main path that incorporates mounts.
+  * Verdant Brink - Requires: Basic Gliding, Updrafts
+  * Auric Basin
+  * Tangled Depths - Requires: Nuhoch Wallows
+  * Dragon's Stand
+
+**Path of Fire** - Now includes basic beginner friendly paths for those with Raptor and Springer.
+  * Crystal Oasis - Requires: Raptor
+  * Desert Highlands - Requires: Raptor (Canyon Jumping), Springer (Basic Jumping)
+  * Elon Riverlands
+  * The Desolation 
+  * Domain of Vabbi
+
+**End of Dragons** - Requires: Skyscale
+
+
 
 ## Jumping Puzzles ##
 * Core Tyria Maps
@@ -143,7 +154,7 @@ See [Map Completion Route and Further Information](https://github.com/LadyElyssa
 * Heart of Thorns (HoT) - excluding Dragon Stand
 * Path of Fire (PoF)
 * End of Dragons (EoD)
-* Secrets of the Obscure (SotO)
+* Secrets of the Obscure (SotO) - excluding Nayos
 
 ## Map Enhancements ##
 * Added Jade Bot Terminal locations in Cities
