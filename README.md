@@ -108,12 +108,11 @@ It is recommended to train the Masteries in the following order:
 
 **End of Dragons** - Requires: Skyscale
 
-
-
 ## Jumping Puzzles ##
 * Core Tyria Maps
 * Memories of Lion's Arch
 * Heart of Thorns, Auric Basin
+* Living World Season 2
 * Living World Season 3
 * End of Dragons, New Kaineng City
 
@@ -158,7 +157,7 @@ See [Map Completion Route and Further Information](https://github.com/LadyElyssa
 
 ## Map Enhancements ##
 * Added Jade Bot Terminal locations in Cities
-* Added Launch Pads, including trailon map and minimap showing launch direction
+* Added Launch Pads, including trail on the map and minimap showing launch direction
 
 ## Mini-Dungeons ##
 * Core Maps
