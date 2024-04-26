@@ -28,19 +28,28 @@ This pack currently contains trails for:
    * Foraging, Lumberer, Mining and Vista's
 
 ## Festivals ##
-   * Lunar New Year (Race, Foot Race, Firecrackers & Adventures)
-   * Dragon Bash
-      * Adventure - Pinata Bashing
+   * Lunar New Year (Late January to early February)
+      * Mount Race & Foot Race
+      * Firecracker Adventures
+   * Super Adventure Box (Late March to mid April)
+      * Hub Race
+      * World 1 Zones 1, 2 & 3
+      * World 2 Zones 1, 2 & 3
+      * World 3 Zone 1 / Test Zone
+   * Dragon Bash (June)
       * Fireworks
-      * Pinata
-   * Festival of the Four Winds
-      * Quartz Crystals
-      * Race - Flying Dolyak
+      * Dragon Pinatas
+      * Pinata Bashing Adventure
+   * Festival of the Four Winds (Late July to early August)
+      * Flying Dolyak Race
       * Treasure Hunt
-   * Halloween - Updated 2022
-      * Labyrinth Trails and Pumpkin locations
+      * Quartz Crystals
+   * Halloween (Mid October to early Novenmber_
+      * Mad King's Labyrinth - Trails and Pumpkin locations
       * Pumpkin Carving in Lions Arch and ALL starter zones
-   * Wintersday (Orphans for Karma, Mount Race and Foot Race) - Updated 2022
+   * Wintersday (Mid December to early January)
+     * Mount Race and Foot Race
+     * Orphans for Karma
 
 ## Gathering ##
 
