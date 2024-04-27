@@ -93,6 +93,12 @@ Wood
 
 ## Hero Point Runs ##
 
+**Heart of Thorns** - Now includes basic beginner friendly paths for those with only Basic Gliding in addition to the main path that incorporates mounts.
+  * Verdant Brink - Requires: Basic Gliding, Updrafts
+  * Auric Basin
+  * Tangled Depths - Requires: Nuhoch Wallows
+  * Dragon's Stand
+
 It is recommended to train the Masteries in the following order:
   * Gliding - Glider Basics
   * Itzel Lore - Bouncing Mushrooms
@@ -101,12 +107,6 @@ It is recommended to train the Masteries in the following order:
   * Gliding - Lean Techniques
   * Nuhoch Lore - Nuhoch Wallows
   * Itzel Lore - Itzel Poison Lore
-
-**Heart of Thorns** - Now includes basic beginner friendly paths for those with only Basic Gliding in addition to the main path that incorporates mounts.
-  * Verdant Brink - Requires: Basic Gliding, Updrafts
-  * Auric Basin
-  * Tangled Depths - Requires: Nuhoch Wallows
-  * Dragon's Stand
 
 **Path of Fire** - Now includes basic beginner friendly paths for those with Raptor and Springer.
   * Crystal Oasis - Requires: Raptor
