@@ -1,7 +1,6 @@
 A collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) with over **_12,000_** downloads. [[1]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000) [[2]](https://qwertycube.com/github-release-stats/) comprising of **_1600+ Trails_** and **_10,000+ Markers_**
 
-Suitable for use with [GW2 TacO](https://www.gw2taco.com/) and [Blish HUD](https://blishhud.com/). <br>
-_Please ensure your preferred option is up to date._
+Suitable for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs), just look for Lady Elyssa's Guides. _Please ensure your preferred option is up to date._
  
 Principles
 * Markers and Trails for Permanent, Replayable content only, no achievements or collections 
