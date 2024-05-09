@@ -163,6 +163,14 @@ See [Map Completion Route and Further Information](https://github.com/LadyElyssa
 * End of Dragons (EoD)
 * Secrets of the Obscure (SotO) - excluding Nayos
 
+## Map Mastery Insights ##
+Added Trails for Map Mastery Insights for:
+* Core Maps
+* HoT
+* PoF
+* EoD
+* SotO (Preliminary)
+
 ## Map Enhancements ##
 * Added Jade Bot Terminal locations in Cities
 * Added Launch Pads, including trail on the map and minimap showing launch direction
