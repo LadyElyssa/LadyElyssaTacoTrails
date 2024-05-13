@@ -180,7 +180,7 @@ Added Trails for Map Mastery Insights for:
 
 ## Map Traversal ##
 * Jackal Sand Portals
-   * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
+   * Living World Season 4 - Domain of Istan, Domain of Kourna, Dragonfall, Jahai Bluffs and Sandswept Isles
    * All Path of Fire maps
 
 * Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
@@ -216,13 +216,14 @@ Added Trails for Map Mastery Insights for:
 
 ## Living World Season 4: Rise of Kralkatorrik ##
 * Gathering
+   * Domain of Istan - Kralkatite Ore
+   * Domain of Kourna - Inscribed Shard
    * Dragonfall - Mistborn Motes
    * Jahai Bluffs - Mistonium
-   * Kourna - Inscribed Shard
    * Sandswept Isles - Difluorite Crystal
    * Thunderhead Peaks - Branded Mass + Dwarven Chests
 * Jackal Sand Portals
-   * Living World Season 4 - Domain of Istan, Domain of Kourna,  Dragonfall, Jahai Bluffs and Sandswept Isles
+   * Living World Season 4 - Domain of Istan, Domain of Kourna, Dragonfall, Jahai Bluffs and Sandswept Isles
 
 ## Living World Season 5: The Icebrood Saga ##
 * Gathering
