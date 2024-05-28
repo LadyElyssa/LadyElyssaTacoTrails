@@ -192,6 +192,30 @@ Added Trails for Map Mastery Insights for:
 ## Living World Season 2: Glint's Prophecy ##
 * Silverwastes Lost Bandit Chests
 
+## Heart of Thorns ##
+* Adventures
+   * Verdant Brink
+      * Bugs in the Branches
+      * Flying Circus
+      * Salvage Pit
+      * Shooting Gallery
+      * Tendril Torchers
+
+   * Auric Basin
+      * A Fungus Among Us
+      * Fallen Masks
+      * On Wings of Gold
+      * Sanctum Scramble
+      * The Floor is Lava
+
+   * Tangled Depths
+      * Beetle Feast
+      * Drone Race
+      * Haywire Punch-o-Matic (Work in Progress)
+      * Scrap Rifle Field Test
+      * The Ley-Line Run
+
+
 ## Living World Season 3: Glint's Legacy ##
 * Gathering
    * Blood Rubies - Soulkeeper's Airship Waypoint in Bloodstone Fen `[&BEsJAAA=]`
