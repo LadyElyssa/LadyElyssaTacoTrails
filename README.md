@@ -261,5 +261,5 @@ Added Trails for Map Mastery Insights for:
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
  
 ### Latest Pack Direct Download Link: ###
-* [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaTacoTrails/raw/main/LadyElyssa.taco)
+* [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaTacoTrails/releases/latest/download/LadyElyssa.taco)
  
