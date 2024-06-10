@@ -1,0 +1,773 @@
+<OverlayData>
+	<POIs>
+		<!-- GUILD MISSIONS - Bounties -->
+		<Trail type="legs.guild.bounty.2mult.timberline"           trailData="Data/LadyElyssa/Guild Missions/Bounties/2-MULT.trl"/>
+		<Trail type="legs.guild.bounty.bwikki.lornars"             trailData="Data/LadyElyssa/Guild Missions/Bounties/Bookworm Bwikki.trl"/>
+		<Trail type="legs.guild.bounty.brekkabek.harathi"          trailData="Data/LadyElyssa/Guild Missions/Bounties/Brekkabek.trl"/>
+		<Trail type="legs.guild.bounty.michiele.sparkfly"          trailData="Data/LadyElyssa/Guild Missions/Bounties/Crusader Michiele.trl"/>
+		<Trail type="legs.guild.bounty.brooke.snowden"             trailData="Data/LadyElyssa/Guild Missions/Bounties/Deputy Brooke.trl"/>
+		<Trail type="legs.guild.bounty.tessa.frostgoge"            trailData="Data/LadyElyssa/Guild Missions/Bounties/Devious Tessa.trl"/>
+		<Trail type="legs.guild.bounty.tarban.brisban"             trailData="Data/LadyElyssa/Guild Missions/Bounties/Diplomat Tarban.trl"/>
+		<Trail type="legs.guild.bounty.komali.maelstrom"           trailData="Data/LadyElyssa/Guild Missions/Bounties/Half-Baked Komali.trl"/>
+		<Trail type="legs.guild.bounty.poobadoo.kessex"            trailData="Data/LadyElyssa/Guild Missions/Bounties/Poobadoo.trl"/>
+		<Trail type="legs.guild.bounty.prisoner1141.ironmarches"   trailData="Data/LadyElyssa/Guild Missions/Bounties/Prisoner 1411.trl"/>
+		<Trail type="legs.guild.bounty.arderus.fireheart"          trailData="Data/LadyElyssa/Guild Missions/Bounties/Shaman Arderus.trl"/>
+		<Trail type="legs.guild.bounty.felix.diessa"               trailData="Data/LadyElyssa/Guild Missions/Bounties/Short-Fuse Felix.trl"/>
+		<Trail type="legs.guild.bounty.trekksa.blazeridge.east"    trailData="Data/LadyElyssa/Guild Missions/Bounties/Tricksy Trekksa East.trl"/>
+		<Trail type="legs.guild.bounty.trekksa.blazeridge.west"    trailData="Data/LadyElyssa/Guild Missions/Bounties/Tricksy Trekksa West.trl"/>
+		<Trail type="legs.guild.bounty.trillia.fieldsofruin"       trailData="Data/LadyElyssa/Guild Missions/Bounties/Trillia Midwell.trl"/>
+
+		<!-- GUILD MISSIONS - Rush / Race -->
+		<POI MapID="17" xpos="-818.712" ypos="116.983" zpos="-661.908" type="legs.guild.race.set.marker" GUID="f52V7n7WRUuZap6+5xmG7Q=="/>
+		<POI MapID="21" xpos="645.393" ypos="15.2482" zpos="94.4017" type="legs.guild.race.set.marker" GUID="cNL1nfh1KEumVGfB9z0XYw=="/>
+		<POI MapID="27" xpos="-425.121" ypos="127.661" zpos="373.679" type="legs.guild.race.set.marker" GUID="AUUVNuJwYEqd/ylhZlBqKQ=="/>
+		<POI MapID="30" xpos="-540.31" ypos="-129.828" zpos="-164.854" type="legs.guild.race.set.marker" GUID="sRbuCcqgYEiLZLp2va8JaQ=="/>
+		<POI MapID="32" xpos="180.935" ypos="2.76015" zpos="373.197" type="legs.guild.race.set.marker" GUID="fjRLrv6XmkC/VAFYxIx+jA=="/>
+		<POI MapID="873" xpos="286.956" ypos="3.12123" zpos="146.036" type="legs.guild.race.set.marker" GUID="xcIP8iYkBE6OqAuNCyG+tQ=="/>
+		<Trail type="legs.guild.race.bear.lornars"              trailData="Data/LadyElyssa/Guild Missions/Race/Bear Lope.trl"/>
+		<Trail type="legs.guild.race.chicken.fieldsofruin"      trailData="Data/LadyElyssa/Guild Missions/Race/Chicken Run.trl"/>
+		<Trail type="legs.guild.race.crab.southsun"             trailData="Data/LadyElyssa/Guild Missions/Race/Crab Scuttle.trl"/>
+		<Trail type="legs.guild.race.devourer.diessa"           trailData="Data/LadyElyssa/Guild Missions/Race/Devourer Burrow.trl"/>
+		<Trail type="legs.guild.race.ghostwolf.hirathi"         trailData="Data/LadyElyssa/Guild Missions/Race/Ghost Wolf Run.trl"/>
+		<Trail type="legs.guild.race.quaggan.frostgorge"        trailData="Data/LadyElyssa/Guild Missions/Race/Quaggan Paddle.trl"/>
+
+		<Trail type="legs.guild.race.spider.dredgehaunt"        trailData="Data/LadyElyssa/Guild Missions/Race/Spider Scurry.trl"/>
+      <Trail type="legs.guild.race.spider.leap"              trailData="Data/LadyElyssa/Guild Missions/Race/Spider Scurry Leaps.trl"/>
+		<POI MapID="26" xpos="-269.318" ypos="110.613" zpos="75.6057" type="legs.guild.race.set.marker" GUID="mkeKn219N0eaX8Teie/DHw=="/>
+		<POI MapID="26" xpos="-179.024" ypos="113.681" zpos="-75.9569" type="legs.guild.race.spider.spit" GUID="NIpu5T1OXEa//JB38qMKZA=="/>
+		<POI MapID="26" xpos="-123.646" ypos="130.838" zpos="-106.631" type="legs.guild.race.spider.spit" GUID="TLk5UCwSqkSFkMrNToKJhw=="/>
+		<POI MapID="26" xpos="-49.9995" ypos="145.016" zpos="-94.7877" type="legs.guild.race.spider.spit" GUID="F+EG/nbeAUuRWTblvajOHg=="/>
+      <POI MapID="26" xpos="-30.9123" ypos="139.141" zpos="-68.043" type="legs.guild.race.spider.spit" GUID="hkDrA4XK9kmOgUePEY6pXw=="/>
+      <POI MapID="26" xpos="-107.25" ypos="128.138" zpos="-17.922" type="legs.guild.race.spider.spit" GUID="q+QuxwoQ4Em4oL3daPrXlA=="/>
+      
+		<!-- GUILD MISSIONS - Treks -->
+		<!-- Trek Markers for end of Trail -->
+		<!-- Rata Sum -->
+		<POI MapID="139" xpos="-55.6861" ypos="364.737" zpos="252.776" type="legs.guild.trek.set.marker" GUID="l43mrTl1o0Om/fO/BY+5Rw=="/>
+		<POI MapID="139" xpos="-17.4817" ypos="315.555" zpos="211.87" type="legs.guild.trek.set.marker" GUID="Ipk7OWE1KUSYbPV/e2RpwQ=="/>
+		<POI MapID="139" xpos="164.415" ypos="385.831" zpos="184.534" type="legs.guild.trek.set.marker" GUID="ezhQZtCyMUmjuXP7Y8haPw=="/>
+		<POI MapID="139" xpos="59.7456" ypos="332.931" zpos="29.6528" type="legs.guild.trek.set.marker" GUID="P/QSZ0Zl/UWH840xoID4lg=="/>
+		<POI MapID="139" xpos="48.0125" ypos="102.902" zpos="-355.997" type="legs.guild.trek.set.marker" GUID="t/uYhRVHB06jf0CW0tCvFw=="/>
+		<POI MapID="139" xpos="-303.257" ypos="37.1156" zpos="-492.74" type="legs.guild.trek.set.marker" GUID="mm7s0TFJ+k63zYlHFE/lSQ=="/>
+		<!-- Metrica Province-->
+		<POI MapID="35" xpos="-475.173" ypos="74.6286" zpos="-852.623" type="legs.guild.trek.set.marker" GUID="LK6ymcRgAEOSa7ZoJoChqw=="/>
+		<POI MapID="35" xpos="-329.612" ypos="42.9315" zpos="-595.047" type="legs.guild.trek.set.marker" GUID="3xPbHd5RcE+S3t6u2iqNNw=="/>
+		<POI MapID="35" xpos="-541.327" ypos="14.3593" zpos="-23.8571" type="legs.guild.trek.set.marker" GUID="ujUCiM+Rbk6ZGtczSE4N7w=="/>
+		<POI MapID="35" xpos="-318.677" ypos="10.6173" zpos="825.435" type="legs.guild.trek.set.marker" GUID="MHBMBDgA2EmSJRmbavk+QA=="/>
+		<POI MapID="35" xpos="-374.887" ypos="24.7358" zpos="737.996" type="legs.guild.trek.set.marker" GUID="+bIqPKEPeUyWoii0zOO86w=="/>
+		<POI MapID="35" xpos="163.549" ypos="18.413" zpos="742.969" type="legs.guild.trek.set.marker" GUID="W9yw4N/VuES3f8HkXrQA/w=="/>
+		<!-- Brisban Wildlands -->
+		<POI MapID="54" xpos="-144.08" ypos="21.5216" zpos="-209.743" type="legs.guild.trek.set.marker" GUID="7xYOP7YHv0W2K39d9XmvmQ=="/>
+		<POI MapID="54" xpos="-276.343" ypos="17.5256" zpos="-112.797" type="legs.guild.trek.set.marker" GUID="Dw+Mtj4So0ypqmvLcu/p+w=="/>
+		<POI MapID="54" xpos="-633.712" ypos="15.6702" zpos="-748.503" type="legs.guild.trek.set.marker" GUID="P1gV1Q9KFUiaegRNBvoDEQ=="/>
+		<POI MapID="54" xpos="-794.616" ypos="11.5221" zpos="387.629" type="legs.guild.trek.set.marker" GUID="rJsk90nei0eAdLUesBw0jw=="/>
+		<POI MapID="54" xpos="592.262" ypos="150.303" zpos="717.109" type="legs.guild.trek.set.marker" GUID="/PGP4zRKNUSfHa5fUs9aVw=="/>
+		<POI MapID="54" xpos="526.136" ypos="17.1019" zpos="119.949" type="legs.guild.trek.set.marker" GUID="wAGIo7Bdwk+M2kzMDKAoMg=="/>
+		<!-- The Grove -->
+		<POI MapID="91" xpos="33.1912" ypos="72.9797" zpos="284.652" type="legs.guild.trek.set.marker" GUID="MBGYM9N4h0Ctv1WNc3Y3lg=="/>
+		<POI MapID="91" xpos="-99.5684" ypos="61.021" zpos="225.329" type="legs.guild.trek.set.marker" GUID="C/AaDLCsXEWe4o+OLt50TQ=="/>
+		<POI MapID="91" xpos="8.97687" ypos="0.18063" zpos="213.997" type="legs.guild.trek.set.marker" GUID="p+kRj09f20KQJnALwBx0jg=="/>
+		<POI MapID="91" xpos="33.0642" ypos="44.4334" zpos="107.617" type="legs.guild.trek.set.marker" GUID="tGZlvbFe9EmwLmfsU2QjCA=="/>
+		<POI MapID="91" xpos="176.833" ypos="37.6786" zpos="-60.1882" type="legs.guild.trek.set.marker" GUID="I3cNCaxIskWfr+dCZ6KPBA=="/>
+		<POI MapID="91" xpos="19.1581" ypos="58.0194" zpos="-108.857" type="legs.guild.trek.set.marker" GUID="rXyjEIayEkCk0+TyAoPDMw=="/>
+		<!-- Caledon Forest -->
+		<POI MapID="34" xpos="574.509" ypos="18.7389" zpos="-383.742" type="legs.guild.trek.set.marker" GUID="mx5+HcjooU6RjD/oyUYmYg=="/>
+		<POI MapID="34" xpos="-28.5698" ypos="6.49185" zpos="34.2337" type="legs.guild.trek.set.marker" GUID="j1vkvB8AxEi9dM/9Wiuv0w=="/>
+		<POI MapID="34" xpos="-62.5413" ypos="62.052" zpos="512.008" type="legs.guild.trek.set.marker" GUID="O0OtnM+i1UiPAK7TS57KUg=="/>
+		<POI MapID="34" xpos="-29.9868" ypos="0.43973" zpos="369.322" type="legs.guild.trek.set.marker" GUID="ad13IyNlD0qoMwA/SPgpgA=="/>
+		<POI MapID="34" xpos="467.252" ypos="-95.2521" zpos="623.279" type="legs.guild.trek.set.marker" GUID="Ld7UCFpBZkGMeCvnVBJaQA=="/>
+		<POI MapID="34" xpos="-502.146" ypos="21.2277" zpos="1005.56" type="legs.guild.trek.set.marker" GUID="s+qPUJenyU6S9G+9P9Vt9g=="/>
+		<!-- Southsun Cove -->
+		<POI MapID="873" xpos="613.76" ypos="0.272749" zpos="-411.936" type="legs.guild.trek.set.marker" GUID="bFtc8HKPWk6JgX7N+HH9Lw=="/>
+		<POI MapID="873" xpos="378.687" ypos="0.559348" zpos="-179.845" type="legs.guild.trek.set.marker" GUID="Kg6WnPpIcE+w2snJZQ3kcg=="/>
+		<POI MapID="873" xpos="442.104" ypos="51.7802" zpos="-9.67832" type="legs.guild.trek.set.marker" GUID="GMvk2TiqEUSIcU+ypfIO4A=="/>
+		<POI MapID="873" xpos="-16.482" ypos="-0.680409" zpos="276.408" type="legs.guild.trek.set.marker" GUID="Q/milzsTHEWJscvijoTZ3w=="/>
+		<POI MapID="873" xpos="187.406" ypos="83.2207" zpos="-12.0335" type="legs.guild.trek.set.marker" GUID="nZLlpkcrKU6KhznMuCNNcQ=="/>
+		<POI MapID="873" xpos="-246.061" ypos="12.4718" zpos="172.698" type="legs.guild.trek.set.marker" GUID="s4NMgqPoJU6SDQ4SEuSsZg=="/>
+		<!-- Divinity's Reach -->
+		<POI MapID="18" xpos="153.489" ypos="65.5895" zpos="-337.907" type="legs.guild.trek.set.marker" GUID="lije/95iMEiDQNzWtOTFxg=="/>
+		<POI MapID="18" xpos="17.2803" ypos="70.8011" zpos="-309.018" type="legs.guild.trek.set.marker" GUID="V28sm5CTYESXlgD1Rm8bhw=="/>
+		<POI MapID="18" xpos="-220.01" ypos="60.2933" zpos="-281.836" type="legs.guild.trek.set.marker" GUID="u+DG8rCAE0qg6nIa2e0Hrg=="/>
+		<POI MapID="18" xpos="-204.451" ypos="53.5237" zpos="218.073" type="legs.guild.trek.set.marker" GUID="Q9TwbCTwwEOHXBTqvRN2Lw=="/>
+		<POI MapID="18" xpos="5.13096" ypos="61.5445" zpos="343.23" type="legs.guild.trek.set.marker" GUID="aM4ESwko+Uy0UJJqlnJvlw=="/>
+		<POI MapID="18" xpos="486.471" ypos="93.5687" zpos="46.1112" type="legs.guild.trek.set.marker" GUID="VuKSCQIQDUm79YrlDeIvyw=="/>
+		<!-- Queensdale -->
+		<POI MapID="15" xpos="-547.515" ypos="39.7889" zpos="519.356" type="legs.guild.trek.set.marker" GUID="+Fakv2Oih0i9E6vPjY924A=="/>
+		<POI MapID="15" xpos="44.8784" ypos="-17.8182" zpos="488.682" type="legs.guild.trek.set.marker" GUID="E4Bot0+dBk6NAuH5Cag4EA=="/>
+		<POI MapID="15" xpos="846.018" ypos="8.15589" zpos="609.837" type="legs.guild.trek.set.marker" GUID="C8vZ5J0gBkO5qcVh73FwZA=="/>
+		<POI MapID="15" xpos="-103.419" ypos="27.5284" zpos="-368.996" type="legs.guild.trek.set.marker" GUID="germsOcARUyjAbNw57v0Ng=="/>
+		<POI MapID="15" xpos="-494.643" ypos="48.6741" zpos="-399.789" type="legs.guild.trek.set.marker" GUID="Bl4fo3LI0k6XRWScqPF3xw=="/>
+		<POI MapID="15" xpos="-377.735" ypos="15.4631" zpos="26.8292" type="legs.guild.trek.set.marker" GUID="CuK/jkF1d06HBwP0fxKayw=="/>
+		<!-- Kessex Hills -->
+		<POI MapID="23" xpos="1224.48" ypos="45.6823" zpos="-74.2647" type="legs.guild.trek.set.marker" GUID="Nb7WmJG1HUOOHNXZlTedFw=="/>
+		<POI MapID="23" xpos="1208.49" ypos="32.8113" zpos="-439.855" type="legs.guild.trek.set.marker" GUID="Cl2+g+CnZkivFxHbd0Q4BA=="/>
+		<POI MapID="23" xpos="864.677" ypos="55.1907" zpos="-356.828" type="legs.guild.trek.set.marker" GUID="aEh1bJlU6EO+g1/3SiDpDA=="/>
+		<POI MapID="23" xpos="-103.43" ypos="5.81164" zpos="-33.1073" type="legs.guild.trek.set.marker" GUID="O/XVFmNMA0WnXSfiLvUbnw=="/>
+		<POI MapID="23" xpos="-815.419" ypos="27.7327" zpos="-580.687" type="legs.guild.trek.set.marker" GUID="UMqdaIgzdEa2mOaJ9nF/rg=="/>
+		<POI MapID="23" xpos="-1103.18" ypos="42.5888" zpos="26.5053" type="legs.guild.trek.set.marker" GUID="vKWKDVtj3kSUtVjGyaFm/A=="/>
+		<!-- Gendarran Fields -->
+		<POI MapID="24" xpos="-1097.4" ypos="31.4019" zpos="-131.323" type="legs.guild.trek.set.marker" GUID="H6GCzixQskaMubnt1QSJbw=="/>
+		<POI MapID="24" xpos="-996.998" ypos="43.8667" zpos="-285.564" type="legs.guild.trek.set.marker" GUID="zlWzOFbtJ0iD3p+2nKmNsA=="/>
+		<POI MapID="24" xpos="-785.057" ypos="0.994503" zpos="-576.274" type="legs.guild.trek.set.marker" GUID="sfDyMnTXqEGxgDXsSi/9lg=="/>
+		<POI MapID="24" xpos="150.041" ypos="0.33929" zpos="141.525" type="legs.guild.trek.set.marker" GUID="wG7Edo6ErkiqwxAijN0pNg=="/>
+		<POI MapID="24" xpos="961.933" ypos="65.5402" zpos="483.32" type="legs.guild.trek.set.marker" GUID="MMoceAvmPUK4yqBvBv758w=="/>
+		<!-- Harathi Hinterlands -->
+		<POI MapID="17" xpos="-894.06" ypos="122.335" zpos="-571.634" type="legs.guild.trek.set.marker" GUID="ZafiWfUCHkqARw1Lj1K12A=="/>
+		<POI MapID="17" xpos="-718.867" ypos="1.30263" zpos="-127.477" type="legs.guild.trek.set.marker" GUID="eCcV1rfev0i1T5U7wAeApg=="/>
+		<POI MapID="17" xpos="-758.253" ypos="19.266" zpos="399.516" type="legs.guild.trek.set.marker" GUID="q15pnrDt9k2VyrBz26YGjQ=="/>
+		<POI MapID="17" xpos="-696.025" ypos="8.86172" zpos="811.972" type="legs.guild.trek.set.marker" GUID="oelmTGGmU0umn4IsVorKUA=="/>
+		<POI MapID="17" xpos="349.212" ypos="90.6969" zpos="-311.071" type="legs.guild.trek.set.marker" GUID="JQa7vWQbbE6cjDHHChaNSg=="/>
+		<POI MapID="17" xpos="766.302" ypos="103.879" zpos="-112.118" type="legs.guild.trek.set.marker" GUID="wZOv/I5Mc0+Ora33btonqA=="/>
+		<!-- Bloodtide Coast -->
+		<POI MapID="73" xpos="-423.021" ypos="9.91201" zpos="605.103" type="legs.guild.trek.set.marker" GUID="uBXh8EfQvkWznBXMSyaqNw=="/>
+		<POI MapID="73" xpos="-279.572" ypos="1.45631" zpos="182.479" type="legs.guild.trek.set.marker" GUID="gLZCd/rCPEOAhy0l99XtpA=="/>
+		<POI MapID="73" xpos="732.056" ypos="50.5579" zpos="67.5866" type="legs.guild.trek.set.marker" GUID="VXP+cWwyI024GoknKjLOgw=="/>
+		<POI MapID="73" xpos="-419.148" ypos="32.2206" zpos="-890.426" type="legs.guild.trek.set.marker" GUID="ZPYLS6qjLkaU5iD3BKttzg=="/>
+		<POI MapID="73" xpos="-227.836" ypos="-126.666" zpos="-558.084" type="legs.guild.trek.set.marker" GUID="7UtvDeegnE6icY0l8FBNUg=="/>
+		<POI MapID="73" xpos="21.1274" ypos="75.0375" zpos="-410.665" type="legs.guild.trek.set.marker" GUID="ydBJo0MxLU6PE1RJfneIgQ=="/>
+		<!-- Sparkfly Fen -->
+		<POI MapID="53" xpos="285.025" ypos="35.43" zpos="928.325" type="legs.guild.trek.set.marker" GUID="Nl8KVvBQmUqSoiuR/MwW3Q=="/>
+		<POI MapID="53" xpos="456.621" ypos="18.2807" zpos="640.132" type="legs.guild.trek.set.marker" GUID="tIqr1gcuPEO+4wkIHruhLA=="/>
+		<POI MapID="53" xpos="738.954" ypos="62.0697" zpos="-29.9766" type="legs.guild.trek.set.marker" GUID="KX4AG2x0CUKQJvvljOa+yA=="/>
+		<POI MapID="53" xpos="32.4307" ypos="1.4873" zpos="-81.225" type="legs.guild.trek.set.marker" GUID="KTyymvAa8EWUe35c8h1h+A=="/>
+		<POI MapID="53" xpos="594.138" ypos="33.3828" zpos="-873.177" type="legs.guild.trek.set.marker" GUID="q7b7Eqq8WU6HVghh+eJhhA=="/>
+		<POI MapID="53" xpos="-646.932" ypos="102.14" zpos="486.94" type="legs.guild.trek.set.marker" GUID="ix3CMJZcjEu+MZaV6EprGw=="/>
+		<POI MapID="53" xpos="-647.356" ypos="102.16" zpos="487.162" type="legs.guild.trek.set.marker" GUID="dgTzQMNbV0mbDfOe0x4eqg=="/>
+		<!-- Mount Maelstrom -->
+		<POI MapID="39" xpos="-322.994" ypos="6.58136" zpos="-329.441" type="legs.guild.trek.set.marker" GUID="agqDeLTRbESF8xzQR0/ZQg=="/>
+		<POI MapID="39" xpos="-1072.02" ypos="61.6457" zpos="223.617" type="legs.guild.trek.set.marker" GUID="ZkQGBVTXFEy4Md8pA+VPAQ=="/>
+		<POI MapID="39" xpos="176.999" ypos="3.63491" zpos="-3.91149" type="legs.guild.trek.set.marker" GUID="QMXcIc5QBUiwPLBWNxmWlQ=="/>
+		<POI MapID="39" xpos="460.641" ypos="-151.669" zpos="-92.4033" type="legs.guild.trek.set.marker" GUID="EMEyamhP/k+vQcop2p7acw=="/>
+		<POI MapID="39" xpos="772.316" ypos="-41.5919" zpos="120.75" type="legs.guild.trek.set.marker" GUID="h3qfTpX/skqK0LWNIHPrfA=="/>
+		<POI MapID="39" xpos="1114.09" ypos="-19.9831" zpos="26.0102" type="legs.guild.trek.set.marker" GUID="GDNFsFaI9kGHptSLB5Wf9w=="/>
+		<!-- Straits of Devastation -->
+		<POI MapID="51" xpos="852.13" ypos="2.56563" zpos="-322.075" type="legs.guild.trek.set.marker" GUID="Mstvt8f4QUKBz/JBUd5jXQ=="/>
+		<POI MapID="51" xpos="422.655" ypos="-80.6453" zpos="-0.103653" type="legs.guild.trek.set.marker" GUID="C/MNGx8SYkmIgdIZb2x8ig=="/>
+		<POI MapID="51" xpos="69.7436" ypos="6.91411" zpos="627.268" type="legs.guild.trek.set.marker" GUID="6jYVLLEhckCeDsUohFd2EQ=="/>
+		<POI MapID="51" xpos="-385.603" ypos="-116.685" zpos="655.728" type="legs.guild.trek.set.marker" GUID="PV9xcckVeEGle2PTbMiy7g=="/>
+		<POI MapID="51" xpos="-604.575" ypos="15.6406" zpos="-713.788" type="legs.guild.trek.set.marker" GUID="19jC4YhffUSukhv6uPCIkg=="/>
+		<POI MapID="51" xpos="194.86" ypos="24.4546" zpos="-310.559" type="legs.guild.trek.set.marker" GUID="VR7KcHl0RkOhggAEtDtM0w=="/>
+		<!-- Malchor's Leap -->
+		<POI MapID="65" xpos="956.059" ypos="89.2821" zpos="-469.944" type="legs.guild.trek.set.marker" GUID="lnGqpcexy0uGbPvVaLAa1g=="/>
+		<POI MapID="65" xpos="1014.65" ypos="1.84346" zpos="359.493" type="legs.guild.trek.set.marker" GUID="kMOHC50DuUKpXZLa+ubEpA=="/>
+		<POI MapID="65" xpos="400.091" ypos="19.3214" zpos="47.2528" type="legs.guild.trek.set.marker" GUID="l51jY4B7P0W5Uzq3SCe52g=="/>
+		<POI MapID="65" xpos="-157.938" ypos="77.2356" zpos="94.2428" type="legs.guild.trek.set.marker" GUID="sNP3eN1cOUSIRmTDLD62gg=="/>
+		<POI MapID="65" xpos="-817.342" ypos="11.3956" zpos="149.965" type="legs.guild.trek.set.marker" GUID="jXPK1Y2Fh06nyDviSaNspw=="/>
+		<POI MapID="65" xpos="-998.636" ypos="-70.1497" zpos="-20.2278" type="legs.guild.trek.set.marker" GUID="KawIAiiY6UCKjSkT+BcKWg=="/>
+		<!-- Cursed Shore -->
+		<POI MapID="62" xpos="490.752" ypos="54.0225" zpos="811.243" type="legs.guild.trek.set.marker" GUID="NXmlM5OU1E2Sz5x0H2FiNw=="/>
+		<POI MapID="62" xpos="0.679768" ypos="6.00075" zpos="514.233" type="legs.guild.trek.set.marker" GUID="y7nVckh1K0WdEfG28JS1GQ=="/>
+		<POI MapID="62" xpos="50.8393" ypos="-15.3309" zpos="312.154" type="legs.guild.trek.set.marker" GUID="hG2Wfv9DSU+8odwvI+oOyQ=="/>
+		<POI MapID="62" xpos="-485.992" ypos="-207.414" zpos="-53.4269" type="legs.guild.trek.set.marker" GUID="oMPJpqKVak6+W2BzkV4rSQ=="/>
+		<POI MapID="62" xpos="500.975" ypos="36.2738" zpos="-803.143" type="legs.guild.trek.set.marker" GUID="lMJYn/Ju1EyDOgoEJ+hS2Q=="/>
+		<POI MapID="62" xpos="238.45" ypos="6.99083" zpos="-928.981" type="legs.guild.trek.set.marker" GUID="rY1ykbGmYUGRnaw2ZEJbjw=="/>
+		<!-- Hoelbrak -->
+		<POI MapID="326" xpos="642.689" ypos="299.549" zpos="-264.056" type="legs.guild.trek.set.marker" GUID="rsksCoyYqUqaENgNWgZtCA=="/>
+		<POI MapID="326" xpos="157.919" ypos="260.012" zpos="-81.6795" type="legs.guild.trek.set.marker" GUID="KFq34SS/S0W1KCWcCXzb1Q=="/>
+		<POI MapID="326" xpos="-374.346" ypos="268.776" zpos="319.209" type="legs.guild.trek.set.marker" GUID="3MY0pa0bNEyX2g6Yg3+zKg=="/>
+		<POI MapID="326" xpos="-103.39" ypos="273.318" zpos="386.635" type="legs.guild.trek.set.marker" GUID="pu2vcLGgbkONcxj6x7IiFg=="/>
+		<POI MapID="326" xpos="354.781" ypos="275.894" zpos="328.708" type="legs.guild.trek.set.marker" GUID="GTBwkzHnjEaJ7/UmCKqIig=="/>
+		<POI MapID="326" xpos="657.405" ypos="205.182" zpos="266.402" type="legs.guild.trek.set.marker" GUID="AY68C5ofFEe3UDCLi4VcmQ=="/>
+		<!-- Wayfarer Foothills -->
+		<POI MapID="28" xpos="70.2906" ypos="4.36023" zpos="-508.686" type="legs.guild.trek.set.marker" GUID="vZ3UjTrW7ESWKJLtndJK+g=="/>
+		<POI MapID="28" xpos="-249.535" ypos="170.793" zpos="-415.606" type="legs.guild.trek.set.marker" GUID="a76BaoqmP0CepnwzH9CAqw=="/>
+		<POI MapID="28" xpos="96.5175" ypos="104.013" zpos="123.01" type="legs.guild.trek.set.marker" GUID="ud+vZVQufU+IGgpV5Ih+/Q=="/>
+		<POI MapID="28" xpos="501.323" ypos="75.4467" zpos="185.182" type="legs.guild.trek.set.marker" GUID="Twd7gCg5D0CmjPhe4mf9MQ=="/>
+		<POI MapID="28" xpos="-438.751" ypos="98.8286" zpos="441.266" type="legs.guild.trek.set.marker" GUID="9RkMVH+2mkSxyR3mt55fCQ=="/>
+		<!-- Snowden Drifts -->
+		<POI MapID="31" xpos="1185.88" ypos="130.295" zpos="-401.165" type="legs.guild.trek.set.marker" GUID="OkcETUNnEUiM/4iVCY4F0A=="/>
+		<POI MapID="31" xpos="125" ypos="-32.4173" zpos="-370.993" type="legs.guild.trek.set.marker" GUID="BrO8+ptaWUe/hObX4RUElQ=="/>
+		<POI MapID="31" xpos="-330.231" ypos="37.6525" zpos="-52.3274" type="legs.guild.trek.set.marker" GUID="WEendnRSIkqA7Qoa/FX+dg=="/>
+		<POI MapID="31" xpos="-177.891" ypos="0.105908" zpos="500.921" type="legs.guild.trek.set.marker" GUID="ygFchp6wOke3pE06Mzdipw=="/>
+		<POI MapID="31" xpos="535.276" ypos="9.02106" zpos="36.6015" type="legs.guild.trek.set.marker" GUID="KbxMuIyRYECVrqNrMwm/dA=="/>
+		<POI MapID="31" xpos="724.806" ypos="37.5754" zpos="-96.1724" type="legs.guild.trek.set.marker" GUID="kdUYzHdotUmmueeF/lb91g=="/>
+		<!-- Lornar's Pass -->
+		<POI MapID="27" xpos="-143.178" ypos="63.5916" zpos="763.945" type="legs.guild.trek.set.marker" GUID="q4QRcCQi90qJXRx2xVqKWg=="/>
+		<POI MapID="27" xpos="336.959" ypos="186.52" zpos="834.676" type="legs.guild.trek.set.marker" GUID="VrmsLMf8hUG3zXLt9RvDDQ=="/>
+		<POI MapID="27" xpos="147.995" ypos="127.786" zpos="322.806" type="legs.guild.trek.set.marker" GUID="kyN/0VK9fUugU8fuXKDhkA=="/>
+		<POI MapID="27" xpos="29.4694" ypos="121.247" zpos="-1382.2" type="legs.guild.trek.set.marker" GUID="tR8H9aqdFUauqikvroBdYQ=="/>
+		<POI MapID="27" xpos="-168.635" ypos="93.7359" zpos="-1325.59" type="legs.guild.trek.set.marker" GUID="gSxUcRaKTUyyZEue2BdT1A=="/>
+		<POI MapID="27" xpos="-439.739" ypos="84.6463" zpos="756.599" type="legs.guild.trek.set.marker" GUID="3mrG8d2ivUqgFZh3QUYeIw=="/>
+		<!-- Dredgehaunt Cliffs -->
+		<POI MapID="26" xpos="-180.981" ypos="115.655" zpos="796.37" type="legs.guild.trek.set.marker" GUID="rOH50G9NCk205kibZ4Cqog=="/>
+		<POI MapID="26" xpos="-478.318" ypos="99.8553" zpos="143.475" type="legs.guild.trek.set.marker" GUID="zX7f931xUk6EiQp3t0vnFQ=="/>
+		<POI MapID="26" xpos="-70.739" ypos="124.26" zpos="-160.249" type="legs.guild.trek.set.marker" GUID="Yu08qT8tUE+wov+iNBEXuA=="/>
+		<POI MapID="26" xpos="-620.655" ypos="30.8339" zpos="-591.93" type="legs.guild.trek.set.marker" GUID="CpyZJL7nIUiQ5mrOIt23AA=="/>
+		<POI MapID="26" xpos="-473.478" ypos="42.3549" zpos="-800.873" type="legs.guild.trek.set.marker" GUID="oGQFyKILJUiMaMBgyzKAMw=="/>
+		<POI MapID="26" xpos="328.416" ypos="72.6181" zpos="-749.511" type="legs.guild.trek.set.marker" GUID="Dp1KHekVOkmt5AaVYKmiNA=="/>
+		<!-- Timberline Falls -->
+		<POI MapID="29" xpos="182.38" ypos="7.68205" zpos="738.82" type="legs.guild.trek.set.marker" GUID="S3HHzxp0UkiL9cot9ARSlg=="/>
+		<POI MapID="29" xpos="672.811" ypos="-36.3422" zpos="-147.961" type="legs.guild.trek.set.marker" GUID="ZCsEFnMNiEKl+iMk4YyqCA=="/>
+		<POI MapID="29" xpos="49.856" ypos="9.5503" zpos="-894.481" type="legs.guild.trek.set.marker" GUID="Lx6RL9T/ZkeWqBm/TjXjYw=="/>
+		<POI MapID="29" xpos="-648.352" ypos="18.0394" zpos="-775.392" type="legs.guild.trek.set.marker" GUID="EA6sH8oPTE2ezqAupdHUkQ=="/>
+		<POI MapID="29" xpos="26.707" ypos="55.0558" zpos="-612.713" type="legs.guild.trek.set.marker" GUID="tqsnzZWTGEaMN4I0202ldg=="/>
+		<POI MapID="29" xpos="-566.114" ypos="29.2183" zpos="138.105" type="legs.guild.trek.set.marker" GUID="WCVCD1CDBEqiupiRZcrlUA=="/>
+		<!-- Frostgorge Sound -->
+		<POI MapID="30" xpos="780.96" ypos="-0.198336" zpos="-346.95" type="legs.guild.trek.set.marker" GUID="BPHf6etiSUKDqfzRUhdf8w=="/>
+		<POI MapID="30" xpos="-106.685" ypos="0.0460804" zpos="-590.092" type="legs.guild.trek.set.marker" GUID="XEuP0HBmNkOMbaF37v8b4w=="/>
+		<POI MapID="30" xpos="-783.181" ypos="49.3837" zpos="-609.421" type="legs.guild.trek.set.marker" GUID="WF540+ZytEW1DLFBAA6/UQ=="/>
+		<POI MapID="30" xpos="-580.955" ypos="-232.262" zpos="416.283" type="legs.guild.trek.set.marker" GUID="sNY7mpGrjU2f+qB4cOq+vA=="/>
+		<POI MapID="30" xpos="-562.055" ypos="16.7431" zpos="889.694" type="legs.guild.trek.set.marker" GUID="3AQieVUJ9kCe+ksgmwsylQ=="/>
+		<POI MapID="30" xpos="-39.5634" ypos="-91.8625" zpos="158.607" type="legs.guild.trek.set.marker" GUID="ORAG56S3xUGqKqlP0wK0Kw=="/>
+		<!-- Black Citadel -->
+		<POI MapID="218" xpos="367.834" ypos="150.037" zpos="27.0873" type="legs.guild.trek.set.marker" GUID="vrIvyyOyekyJ0hMQo+mPLw=="/>
+		<POI MapID="218" xpos="246.202" ypos="133.41" zpos="492.695" type="legs.guild.trek.set.marker" GUID="vDoe3gMfSkaMXgORmWX6oQ=="/>
+		<POI MapID="218" xpos="69.9173" ypos="214.986" zpos="197.302" type="legs.guild.trek.set.marker" GUID="AyUSqkx9LUGSwz5ddlzOrw=="/>
+		<POI MapID="218" xpos="94.1982" ypos="177.892" zpos="-54.5357" type="legs.guild.trek.set.marker" GUID="Oj52P3VUgESCi3o6+SAjUg=="/>
+		<POI MapID="218" xpos="-74.8335" ypos="0.619253" zpos="-221.882" type="legs.guild.trek.set.marker" GUID="E7RAGfNYKUmaf6lqlPyURQ=="/>
+		<POI MapID="218" xpos="-127.966" ypos="10.6317" zpos="-4.63007" type="legs.guild.trek.set.marker" GUID="8/I1H0xatkq0RxHJEY5QEg=="/>
+		<!-- Plains of Ashford -->
+		<POI MapID="19" xpos="-877.063" ypos="-0.176406" zpos="607.956" type="legs.guild.trek.set.marker" GUID="/oAaJLFWrk+DKAQ7ElekSw=="/>
+		<POI MapID="19" xpos="-775.993" ypos="63.4386" zpos="-442.768" type="legs.guild.trek.set.marker" GUID="28OIpl2eJ0SzaNvDvKTvpw=="/>
+		<POI MapID="19" xpos="580.227" ypos="42.4817" zpos="1.68487" type="legs.guild.trek.set.marker" GUID="U14pluGv9EW2AzUzzjXDBg=="/>
+		<POI MapID="19" xpos="789.913" ypos="43.0139" zpos="-66.1866" type="legs.guild.trek.set.marker" GUID="Wq8MX9RnD0KJca2HqQvEHg=="/>
+		<POI MapID="19" xpos="1140" ypos="41.6379" zpos="66.9248" type="legs.guild.trek.set.marker" GUID="uXSEKFt0FU2b3AeZRmJ0XQ=="/>
+		<POI MapID="19" xpos="1219.99" ypos="48.74" zpos="600.506" type="legs.guild.trek.set.marker" GUID="4iNw9RQzuky/56/1rqpuiQ=="/>
+		<!-- Diessa Plateau -->
+		<POI MapID="32" xpos="-1064.41" ypos="68.8259" zpos="-619.013" type="legs.guild.trek.set.marker" GUID="L1+mAJm20E6l/AiAVmlqOA=="/>
+		<POI MapID="32" xpos="-251.759" ypos="2.38426" zpos="47.6983" type="legs.guild.trek.set.marker" GUID="tj4uo63FZUSHVQVRF/IJtg=="/>
+		<POI MapID="32" xpos="-176.897" ypos="53.0125" zpos="-680.282" type="legs.guild.trek.set.marker" GUID="AwqYTTcZGU2kyXCT0Nrxow=="/>
+		<POI MapID="32" xpos="1037.8" ypos="10.7246" zpos="-355.975" type="legs.guild.trek.set.marker" GUID="NqirmRlO8k6uXdd97I9MBg=="/>
+		<POI MapID="32" xpos="888.752" ypos="37.1585" zpos="183.141" type="legs.guild.trek.set.marker" GUID="lvHQYCzy2kCiJCujV6QuGA=="/>
+		<POI MapID="32" xpos="273.551" ypos="48.4131" zpos="353.627" type="legs.guild.trek.set.marker" GUID="uPpS2N1HPUKQzab+727SlA=="/>
+		<!-- Fireheart Rise -->
+		<POI MapID="22" xpos="-855.591" ypos="67.0753" zpos="-513.81" type="legs.guild.trek.set.marker" GUID="RSfWJF4AcUGUA84l9cbJEQ=="/>
+		<POI MapID="22" xpos="-564.652" ypos="48.4351" zpos="-134.41" type="legs.guild.trek.set.marker" GUID="qJ48iwAOPkWlQPLBOqCOXA=="/>
+		<POI MapID="22" xpos="-743.084" ypos="55.5635" zpos="816.199" type="legs.guild.trek.set.marker" GUID="CGAIptuvVU+N4FqXGgx3Pw=="/>
+		<POI MapID="22" xpos="146.005" ypos="4.86264" zpos="182.594" type="legs.guild.trek.set.marker" GUID="kH/wAWKEV0Cjjr2Hd3ui3Q=="/>
+		<POI MapID="22" xpos="362.685" ypos="59.6338" zpos="-603.386" type="legs.guild.trek.set.marker" GUID="K+QKJLKVNEWph0V6UukzzQ=="/>
+		<POI MapID="22" xpos="544.48" ypos="1.07443" zpos="-830.753" type="legs.guild.trek.set.marker" GUID="xCHk4ipH90qUW90BCCDRag=="/>
+		<!-- Iron Marches -->
+		<POI MapID="25" xpos="-84.3429" ypos="20.1767" zpos="588.727" type="legs.guild.trek.set.marker" GUID="ySFBInuXKkKuuRvuWGsn2w=="/>
+		<POI MapID="25" xpos="315.703" ypos="-126.901" zpos="155.476" type="legs.guild.trek.set.marker" GUID="HaUYwHPvDES6zLBjsfvXHQ=="/>
+		<POI MapID="25" xpos="-252.432" ypos="9.10513" zpos="-372.114" type="legs.guild.trek.set.marker" GUID="aDgLD03mWEWPFSS27s4qAQ=="/>
+		<POI MapID="25" xpos="-562.55" ypos="68.9328" zpos="-279.857" type="legs.guild.trek.set.marker" GUID="4/yoCJlRTEibVAC/VkHtjg=="/>
+		<POI MapID="25" xpos="559.037" ypos="7.61732" zpos="-928.259" type="legs.guild.trek.set.marker" GUID="eUTIla+E0kiKuoNHJbHVUA=="/>
+		<!-- Blazeridge Steppes -->
+		<POI MapID="20" xpos="559.894" ypos="46.518" zpos="1163.1" type="legs.guild.trek.set.marker" GUID="4/JKAmlM102tb5K/+dy5Ww=="/>
+		<POI MapID="20" xpos="-543.721" ypos="37.3385" zpos="374.901" type="legs.guild.trek.set.marker" GUID="wdYrRotT8kmK99+WW40rVA=="/>
+		<POI MapID="20" xpos="607.452" ypos="2.71111" zpos="-532.23" type="legs.guild.trek.set.marker" GUID="NDw3IguhX0yBAHmjv+qC3Q=="/>
+		<POI MapID="20" xpos="-219.175" ypos="9.31418" zpos="-915.991" type="legs.guild.trek.set.marker" GUID="jhHA9PCHZ0apz/MxVhdKGw=="/>
+		<POI MapID="20" xpos="-318.895" ypos="8.00437" zpos="-795.17" type="legs.guild.trek.set.marker" GUID="2NHV6fcuj0SHotE+hzFuFw=="/>
+		<POI MapID="20" xpos="82.5601" ypos="3.30607" zpos="591.951" type="legs.guild.trek.set.marker" GUID="B15IjFcqE0Kr7/UREtJgtA=="/>
+		<!-- Fields of Ruin -->
+		<POI MapID="21" xpos="628.546" ypos="65.038" zpos="701.369" type="legs.guild.trek.set.marker" GUID="+kqS5jgYy0K9VyigNb1HmA=="/>
+		<POI MapID="21" xpos="634.29" ypos="22.8308" zpos="269.535" type="legs.guild.trek.set.marker" GUID="s9eao6Qw20yYvke3ZI2fLw=="/>
+		<POI MapID="21" xpos="681.245" ypos="53.127" zpos="-477.046" type="legs.guild.trek.set.marker" GUID="CQ2e+H1H3k+gSr9NlC70ag=="/>
+		<POI MapID="21" xpos="695.767" ypos="49.7521" zpos="-825.796" type="legs.guild.trek.set.marker" GUID="TZkly4JWGEuRZPHAOqfUPg=="/>
+		<POI MapID="21" xpos="-434.349" ypos="67.8522" zpos="-689.801" type="legs.guild.trek.set.marker" GUID="vUYrEWgFJ0KJXPumQgefmw=="/>
+		<POI MapID="21" xpos="-929.605" ypos="8.35515" zpos="599.57" type="legs.guild.trek.set.marker" GUID="Dh49DFVDw0KEWUark4F3Cg=="/>
+		<!-- Maps -->
+		<Trail type="legs.guild.trek.kryta.altarbrooklair.queensdale"     trailData="Data/LadyElyssa/Guild Missions/Treks/AltarBrookLair.trl"/>
+		<POI MapID="15" xpos="-503.672" ypos="12.1491" zpos="-123.494"    GUID="5DGVpLuFSU+N7QGfKNA0uQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/AltarBrookLair.png"/>
+		<Trail type="legs.guild.trek.orr.anthems.cs"                      trailData="Data/LadyElyssa/Guild Missions/Treks/AnthemsHold.trl"/>
+		<POI MapID="62" xpos="425.036" ypos="24.8218" zpos="-1080.99"     GUID="Gnori9ak+UW+hLQVgHmQ0g==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/AnthemsHold.png"/>
+		<POI MapID="62" xpos="425.036" ypos="24.8218" zpos="-1080.99"     GUID="MJEXkpVAdUCKSo2erra7IA==" type="legs.guild.trek.set.mount.skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" heightOffset="0"/>
+		<Trail type="legs.guild.trek.ascalon.anyas.diessa"                trailData="Data/LadyElyssa/Guild Missions/Treks/AnyasPatch.trl"/>
+		<POI MapID="32" xpos="-720.637" ypos="30.7824" zpos="-537.514"    GUID="oCzBTLudlEeBoJS3Syw4VQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/AnyasPatch.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.arctodus.wayfarer"       trailData="Data/LadyElyssa/Guild Missions/Treks/ArctodusHaunt.trl"/>
+		<POI MapID="28" xpos="24.6985" ypos="80.0369" zpos="131.777"      GUID="VfjYdoNUu0OcahUjppCGWg==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ArctodusHaunt.png"/>
+		<POI MapID="28" xpos="306.244" ypos="70.8384" zpos="214.989"      GUID="YHh5LrYmjEyDexCBpCPMhw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ArctodusHaunt.png"/>
+		<Trail type="legs.guild.trek.maguuma.backroot.grove"              trailData="Data/LadyElyssa/Guild Missions/Treks/BackrootFountain.trl"/>
+		<POI MapID="91" xpos="35.3296" ypos="46.5523" zpos="35.716"       type="legs.guild.trek.set.sign" GUID="fNRzKdqRnE6Hj5lqGJP/fg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BackrootFountain.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.badjelly.snowden"        trailData="Data/LadyElyssa/Guild Missions/Treks/BadjellyKelpbed.trl"/>
+		<POI MapID="31" xpos="-62.2018" ypos="3.58735" zpos="-352.194"    type="legs.guild.trek.set.sign" GUID="nigFxI/eMEWZQjkHLpEXwQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BadjellyKelpbed.png"/>
+		<POI MapID="31" xpos="-52.3979" ypos="0.00800672" zpos="-361.58"  type="legs.guild.trek.set.mount.skimmer" GUID="IWlTEoNDB0eMaukBxa6Z+w=="/>
+		<POI MapID="31" xpos="75.4566" ypos="1.37511" zpos="-374.994"     type="legs.guild.trek.set.mount.skimmer.dive" GUID="k9dbRhnTLUaN3j2cuyoKmA=="/>
+		<Trail type="legs.guild.trek.kryta.beetlestone.queensdale"        trailData="Data/LadyElyssa/Guild Missions/Treks/BanditsCabbagePatch.trl"/>
+		<POI MapID="17" xpos="-521.357" ypos="38.9674" zpos="-63.9172"    type="legs.guild.trek.set.sign" GUID="+nJgatclRkKUH/NH22Hjvg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BanditsCabbagePatch.png"/>
+		<Trail type="legs.guild.trek.kryta.beetlestone.queensdale"        trailData="Data/LadyElyssa/Guild Missions/Treks/BeetlestoneMirador.trl"/>
+		<POI MapID="15" xpos="943.837" ypos="21.8018" zpos="546.976"      GUID="rap8+K9oA0W0VZMgMi5aAA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BeetlestoneMirador.png"/>
+		<Trail type="legs.guild.trek.maguuma.blacklionroot.grove"         trailData="Data/LadyElyssa/Guild Missions/Treks/BlackLionRootCellar.trl"/>
+		<POI MapID="91" xpos="20.2153" ypos="46.6874" zpos="46.3619"      type="legs.guild.trek.set.sign" GUID="kW58YH9Laka24swB7urK3w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BlackLionRootCellar.png"/>
+		<Trail type="legs.guild.trek.ascalon.blackblade.diessa"           trailData="Data/LadyElyssa/Guild Missions/Treks/BlackbladeButte.trl"/>
+		<POI MapID="32" xpos="397.711" ypos="37.7226" zpos="568.115"      type="legs.guild.trek.set.sign" GUID="v2VCy1Y/akuITGuT/6iU2g==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BlackbladeButte.png"/>
+		<POI MapID="32" xpos="382.127" ypos="0.398443" zpos="325.576"     type="legs.guild.trek.set.sign" GUID="ggU91YWPZkKXQ2wjZZ/p4Q==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BlackbladeButte.png"/>
+		<POI MapID="32" xpos="379.471" ypos="-0.320953" zpos="327.802"    type="legs.guild.trek.set.mount.skimmer" GUID="oyE+6GWnm0yq6X5/A/WGdw=="/>
+		<POI MapID="32" xpos="309.919" ypos="1.48309" zpos="386.634"      type="legs.guild.trek.set.mount.springer" GUID="9bwRhk22MkC+xrpfrxyuuA=="/>
+		<POI MapID="32" xpos="356.739" ypos="43.1848" zpos="487.332"      type="legs.guild.trek.set.mount.skyscale" GUID="ytBzuj6GwkCaRMTzdvAUHQ=="/>
+		<Trail type="legs.guild.trek.ascalon.blasted.diessa"              trailData="Data/LadyElyssa/Guild Missions/Treks/BlastedSepulchre.trl"/>
+		<POI MapID="32" xpos="-170.24" ypos="35.3368" zpos="9.78267"      type="legs.guild.trek.set.sign" GUID="pCuNH9RdxUC4kvHDzdtVlw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BlastedSepulchre.png"/>
+		<Trail type="legs.guild.trek.kryta.bloodooze.bloodtide"           trailData="Data/LadyElyssa/Guild Missions/Treks/BloodOozeGallery.trl"/>
+		<POI MapID="73" xpos="-101.151" ypos="5.66855" zpos="-494.946"    type="legs.guild.trek.set.sign" GUID="grLBzdVVj0C53o//N83foQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BloodOozeGallery.png"/>
+		<Trail type="legs.guild.trek.maguuma.bluups.rata"                 trailData="Data/LadyElyssa/Guild Missions/Treks/BluupsComeuppance.trl"/>
+		<POI MapID="139" xpos="-36.8826" ypos="339.414" zpos="191.117"    GUID="RqdUAMxtCke4zKG2maMEpA=="  type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BluupsComeuppance.png"/>
+		<Trail type="legs.guild.trek.ascalon.brandstrike.fieldsofruin"    trailData="Data/LadyElyssa/Guild Missions/Treks/BrandstrikeDig.trl"/>
+		<POI MapID="21" xpos="-752.701" ypos="14.8024" zpos="307.108"     type="legs.guild.trek.set.sign" GUID="m6vU673DuUa+MzikH8eu3w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BrandstrikeDig.png"/>
+		<POI MapID="21" xpos="-755.739" ypos="13.3839" zpos="311.974"     type="legs.guild.trek.set.mount.beetle" GUID="3tNhNixzjEKLE9rPDSRr2A=="/>
+		<POI MapID="21" xpos="-553.405" ypos="15.2296" zpos="722.033"     type="legs.guild.trek.set.sign" GUID="8bBzULqhFEearFKGFmGqrQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BrandstrikeDig.png"/>
+		<POI MapID="21" xpos="-564.208" ypos="13.3271" zpos="730.821"     type="legs.guild.trek.set.mount.jackal" GUID="DN7PdCAZWEGXWx7qnFniwg=="/>
+		<Trail type="legs.guild.trek.maguuma.briarthorn.caledon"          trailData="Data/LadyElyssa/Guild Missions/Treks/BriarthornBarrier.trl"/>
+		<POI MapID="34" xpos="448.68" ypos="10.898" zpos="-633.699"       GUID="QIbg2Cps10mHHnGoPh6jeA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BriarthornBarrier.png"/>
+		<Trail type="legs.guild.trek.ascalon.brokenfalls.blackcitadel"    trailData="Data/LadyElyssa/Guild Missions/Treks/BrokenFallsCourtyard.trl"/>
+		<POI MapID="218" xpos="-106.205" ypos="9.0442" zpos="-153.437"    type="legs.guild.trek.set.sign" GUID="kyUiM0TtDkyXS0xX9uRQwA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BrokenFallsCourtyard.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.broodmother.frostgorge"  trailData="Data/LadyElyssa/Guild Missions/Treks/BroodmotherFalls.trl"/>
+		<POI MapID="30" xpos="591.447" ypos="23.6277" zpos="-313.284"     type="legs.guild.trek.set.sign" GUID="4+8vZDOhM0GB+8Mhkp5RSA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BroodmotherFalls.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.brothers.hoelbrak"       trailData="Data/LadyElyssa/Guild Missions/Treks/BrothersNotch.trl"/>
+		<POI MapID="326" xpos="-195.47" ypos="287.943" zpos="160.855"     GUID="AvVcNklfDkeY+sby9jntBA=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BrothersNotch.png"/>
+		<Trail type="legs.guild.trek.ascalon.burstbubble.blazeridge"      trailData="Data/LadyElyssa/Guild Missions/Treks/BurstbubbleBlind.trl"/>
+		<POI MapID="20" xpos="-297.287" ypos="15.986" zpos="-967.408"     type="legs.guild.trek.set.sign" GUID="YzIOcAq9LECtzzBC01KOZQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/BurstbubbleBlind.png"/>
+		<Trail type="legs.guild.trek.orr.cache.cs"                        trailData="Data/LadyElyssa/Guild Missions/Treks/CacheofthePursued.trl"/>
+		<Trail type="legs.guild.trek.set.colour.cyan"                     trailData="Data/LadyElyssa/Guild Missions/Treks/CacheofthePursued-Mount.trl"/>
+		<POI MapID="62" xpos="113.891" ypos="32.1354" zpos="916.812"      GUID="7/ix72K+w0KCJ1iNIP5tqQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CacheofthePursued.png"/>
+		<POI MapID="62" xpos="142.014" ypos="37.6367" zpos="889.194"      GUID="JJ9pJ9LUXUGA9ldGnzFyBw==" type="legs.guild.trek.set.mount.beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+		<POI MapID="62" xpos="170.083" ypos="42.89" zpos="866.578"        GUID="vWDibjjNek2vDPWAgrjbGg==" type="legs.guild.trek.set.mount.springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+		<POI MapID="62" xpos="198.027" ypos="70.1085" zpos="851.105"      GUID="SnLc1mgtrkKL5oM5zxnZZA==" type="legs.guild.trek.set.mount.skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+		<Trail type="legs.guild.trek.ascalon.cademkrall.ashford"          trailData="Data/LadyElyssa/Guild Missions/Treks/CademkrallOverlook.trl"/>
+		<POI MapID="19" xpos="984.354" ypos="34.7581" zpos="97.5838"      GUID="mZH6f2zfeEutNDIZVKEr+g==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CademkrallOverlook.png"/>
+		<Trail type="legs.guild.trek.ascalon.canyonweb.blazeridge"        trailData="Data/LadyElyssa/Guild Missions/Treks/CanyonwebCave.trl"/>
+		<POI MapID="20" xpos="-462.896" ypos="36.908" zpos="406.356"      type="legs.guild.trek.set.sign" GUID="B5iFxg89CUSAM0LrUaK4+A==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CanyonwebCave.png"/>
+		<Trail type="legs.guild.trek.orr.captains.malchors"               trailData="Data/LadyElyssa/Guild Missions/Treks/CaptainsBerth.trl"/>
+		<POI MapID="65" xpos="-428.451" ypos="4.42801" zpos="-149.367"    type="legs.guild.trek.set.sign" GUID="Onm4pkdDFUWtb/Tu2iHejA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CaptainsBerth.png"/>
+		<POI MapID="65" xpos="-445.079" ypos="0.097585" zpos="-141.662"   type="legs.guild.trek.set.mount.skimmer" GUID="vS+viX5KBki6PdEdKKYvyg=="/>
+		<Trail type="legs.guild.trek.kryta.castavall.bloodtide"           trailData="Data/LadyElyssa/Guild Missions/Treks/CastavallCorner.trl"/>
+		<POI MapID="73" xpos="-97.1241" ypos="4.94583" zpos="-501.917"    GUID="vwtAAngeDUawvx3a1ewF9g==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CastavallCorner.png"/>
+		<POI MapID="73" xpos="-97.0386" ypos="-137.826" zpos="-632.583"   GUID="1bKPmAp0NESOitL/58JUrw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CastavallCorner.png"/>
+		<POI MapID="73" xpos="-97.8821" ypos="-0.495615" zpos="-520.881"  type="legs.guild.trek.set.mount.skimmer" GUID="Exl3XdYAi0ugRDL3v1yYyA=="/>
+		<Trail type="legs.guild.trek.orr.cathedral.malchors"              trailData="Data/LadyElyssa/Guild Missions/Treks/CathedralsCavity.trl"/>
+		<POI MapID="65" xpos="501.873" ypos="100.147" zpos="384.344"      GUID="/FLTBoICb0WL18hXRafLBA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CathedralsCavity.png"/>
+		<POI MapID="65" xpos="185.464" ypos="41.0968" zpos="-101.223"     GUID="WUxxezuXIkyHVzlVP2PnTw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CathedralsCavity.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.cavebear.snowden"        trailData="Data/LadyElyssa/Guild Missions/Treks/CaveBearCache.trl"/>
+		<POI MapID="31" xpos="724.692" ypos="57.698" zpos="49.1949"       type="legs.guild.trek.set.sign" GUID="bayFo5lTC0CCOArVaKORpw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CaveBearCache.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.cavespider.lornars"      trailData="Data/LadyElyssa/Guild Missions/Treks/CaveSpiderNidus.trl"/>
+		<POI MapID="27" xpos="197.936" ypos="137.641" zpos="722.037"      type="legs.guild.trek.set.sign" GUID="OsLF/xKUVkiig+grtRLK3Q==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CaveSpiderNidus.png"/>
+		<Trail type="legs.guild.trek.kryta.claypool.queensdale"           trailData="Data/LadyElyssa/Guild Missions/Treks/ClaypoolBailey.trl"/>
+		<POI MapID="15" xpos="-566.073" ypos="35.3524" zpos="-401.569"    GUID="4WJxwQ/7B0KRNNx2sfV1RQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ClaypoolBailey.png"/>
+		<POI MapID="15" xpos="-541.503" ypos="42.4484" zpos="-395.309"    type="legs.guild.trek.set.mount.skyscale" GUID="CHWrbPX55UisboyAqA+C2Q=="/>
+		<Trail type="legs.guild.trek.maguuma.constellation.grove"         trailData="Data/LadyElyssa/Guild Missions/Treks/ConstellationParapet.trl"/>
+		<POI MapID="91" xpos="21.2351" ypos="46.997" zpos="17.1193"       type="legs.guild.trek.set.sign" GUID="Cy6cd1w2Vk2JSlY9Hl4N3Q==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ConstellationParapet.png"/>
+		<POI MapID="91" xpos="20.4987" ypos="45.9668" zpos="-3.986"       type="legs.guild.trek.set.mount.skyscale" GUID="bMwviH7ewk2fTtFQjyVcaQ=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.corruptions.frostgorge"  trailData="Data/LadyElyssa/Guild Missions/Treks/CorruptionsTeeth.trl"/>
+		<POI MapID="30" xpos="-891.899" ypos="14.0293" zpos="886.242"     type="legs.guild.trek.set.sign" GUID="QyCYGVcv10Gi3/yd/2L8vQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CorruptionsTeeth.png"/>
+		<POI MapID="30" xpos="-840.798" ypos="3.36579" zpos="895.81"      type="legs.guild.trek.set.mount.skimmer" GUID="ER8u46eWmEyOQm6FEGNaHw=="/>
+		<Trail type="legs.guild.trek.kryta.covingtons.bloodtide"          trailData="Data/LadyElyssa/Guild Missions/Treks/CovingtonsStowage.trl"/>
+		<POI MapID="73" xpos="-147.818" ypos="2.10484" zpos="92.0999"     GUID="YFDVGAQunkm4F0RnZf1qXA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CovingtonsStowage.png"/>
+		<POI MapID="73" xpos="-147.818" ypos="2.10484" zpos="92.0999"     GUID="X6c9YqT+v0upSVp6TpEgAA==" type="legs.guild.trek.set.mount.skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" heightOffset="0"/>
+		<Trail type="legs.guild.trek.kryta.cutthroats.gendarran"          trailData="Data/LadyElyssa/Guild Missions/Treks/CutthroatsRest.trl"/>
+		<POI MapID="24" xpos="225.68" ypos="3.54036" zpos="252.186"       type="legs.guild.trek.set.sign" GUID="4OX4KY/HY0eCHFMP/Upt6w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CutthroatsRest.png"/>
+		<POI MapID="24" xpos="221.264" ypos="4.90291" zpos="249.053"      type="legs.guild.trek.set.mount.jackal" GUID="VROXqLuPzUCMZVHYZYefVA=="/>
+		<Trail type="legs.guild.trek.ascalon.cymbels"                     trailData="Data/LadyElyssa/Guild Missions/Treks/CymbelsGlen.trl"/>
+		<POI MapID="21" xpos="421.822" ypos="35.1482" zpos="-462.292"     type="legs.guild.trek.set.sign" GUID="g0sKdAfNFkOadG37XKGr3w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/CymbelsGlen.png"/>
+		<Trail type="legs.guild.trek.maguuma.dawngleam.grove"             trailData="Data/LadyElyssa/Guild Missions/Treks/DawngleamPergola.trl"/>
+		<POI MapID="91" xpos="43.8867" ypos="1.51005" zpos="36.4418"      GUID="XfepoNN6bEWWWMsqIecxog==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DawngleamPergola.png"/>
+		<Trail type="legs.guild.trek.maguuma.deepmire.maelstrom"          trailData="Data/LadyElyssa/Guild Missions/Treks/DeepmireDiver.trl"/>
+		<POI MapID="39" xpos="187.791" ypos="1.6476" zpos="28.0865"       type="legs.guild.trek.set.sign" GUID="0iTsdzaDO0KAcKsnQ6FWdQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DeepmireDiver.png"/>
+		<Trail type="legs.guild.trek.kryta.defiled.kessex"                trailData="Data/LadyElyssa/Guild Missions/Treks/DefiledDelve.trl"/>
+		<POI MapID="23" xpos="1124.19" ypos="36.2484" zpos="-57.5808"     type="legs.guild.trek.set.sign" GUID="SEqtQK7WjECJlEMiQ/kGQg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DefiledDelve.png"/>
+		<Trail type="legs.guild.trek.orr.delights.malchors"               trailData="Data/LadyElyssa/Guild Missions/Treks/DelightsBalcony.trl"/>
+		<POI MapID="65" xpos="1024.75" ypos="30.6953" zpos="-370.076"     GUID="exuehetDrkOB80Xau4ZzLQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DelightsBalcony.png"/>
+		<POI MapID="65" xpos="1024.75" ypos="30.6953" zpos="-370.076"     GUID="DGfsSIidck6wGU6G02SnKA==" type="legs.guild.trek.set.mount.skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" heightOffset="0"/>
+		<Trail type="legs.guild.trek.kryta.destinys.queensdale"           trailData="Data/LadyElyssa/Guild Missions/Treks/DestinysGuildhall.trl"/>
+		<POI MapID="15" xpos="-422.439" ypos="34.5033" zpos="439.734"     GUID="Z/JOa28xdEm7hiYIyciUlQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DestinysGuildhall.png"/>
+		<Trail type="legs.guild.trek.ascalon.dirtclaw.ironmarches"        trailData="Data/LadyElyssa/Guild Missions/Treks/DirtclawCleft.trl"/>
+		<POI MapID="25" xpos="365.949" ypos="4.38429" zpos="-1028.86"     type="legs.guild.trek.set.sign" GUID="A/fB0FzpF0qiRaEz2gcaaQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DirtclawCleft.png"/>
+		<POI MapID="25" xpos="374.6" ypos="-0.753777" zpos="-1018.77"     type="legs.guild.trek.set.mount.skimmer" GUID="efDLsjAxLk2sU+cGhGzf2Q=="/>
+		<Trail type="legs.guild.trek.ascalon.doefalls.ashford"            trailData="Data/LadyElyssa/Guild Missions/Treks/DoefallsCourt.trl"/>
+		<POI MapID="19" xpos="665.432" ypos="36.3597" zpos="501.916"      GUID="IJdkR5UMyUqIPwxz+LqFLQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DoefallsCourt.png"/>
+		<Trail type="legs.guild.trek.ascalon.drakecleft.fieldsofruin"     trailData="Data/LadyElyssa/Guild Missions/Treks/DrakecleftShelf.trl"/>
+		<POI MapID="21" xpos="547.277" ypos="7.57195" zpos="489.285"      GUID="o6X5j2ta6UyREL4NYXX1Hw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DrakecleftShelf.png"/>
+		<POI MapID="21" xpos="672.758" ypos="31.6796" zpos="-191.666"     GUID="alW6ARNyJECBMi7uWElwuA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DrakecleftShelf.png"/>
+		<POI MapID="21" xpos="672.758" ypos="31.6796" zpos="-191.666"     GUID="/H4EUMw9NUWQHF/5ihXUUw==" type="legs.guild.trek.set.mount.jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" heightOffset="0"/>
+		<POI MapID="21" xpos="602.059" ypos="65.3522" zpos="-125.408"     GUID="syHRIhlM8UCDuR0Iwy8Orw==" type="legs.guild.trek.set.mount.skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" heightOffset="0"/>
+		<Trail type="legs.guild.trek.ascalon.drakehatch.diessa"           trailData="Data/LadyElyssa/Guild Missions/Treks/DrakehatchShore.trl"/>
+		<POI MapID="32" xpos="825.68" ypos="8.24737" zpos="-623.172"      GUID="aGM1bQhAOkuB0mCA6eyzZw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DrakehatchShore.png"/>
+		<Trail type="legs.guild.trek.maguuma.droknah.maelstrom"           trailData="Data/LadyElyssa/Guild Missions/Treks/DroknahGate.trl"/>
+		<POI MapID="39" xpos="864.078" ypos="0.199109" zpos="-162.457"    type="legs.guild.trek.set.sign" GUID="Dp8DRQSIekS+eePpHsYrLA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DroknahGate.png"/>
+		<POI MapID="39" xpos="847.269" ypos="-0.118945" zpos="-153.78"    type="legs.guild.trek.set.mount.skimmer" GUID="EkVoRCsgnkauuUFqMcXj7g=="/>
+		<POI MapID="39" xpos="749.045" ypos="1.37639" zpos="98.8778" type="legs.guild.trek.set.mount.skimmer.dive" GUID="4mOvWTONdk+kaj6djQaL6Q=="/>
+		<Trail type="legs.guild.trek.orr.drowned.straits"                 trailData="Data/LadyElyssa/Guild Missions/Treks/DrownedPlaza.trl"/>
+		<POI MapID="51" xpos="144.066" ypos="0.872413" zpos="677.679"     type="legs.guild.trek.set.sign" GUID="lLf4AuSTJUeDP4+DJpBt5A==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DrownedPlaza.png"/>
+		<POI MapID="51" xpos="147.811" ypos="0.0729094" zpos="666.491"    type="legs.guild.trek.set.mount.skimmer" GUID="5TWEWvmzvUSbpJwU6iakSQ=="/>
+		<POI MapID="51" xpos="-715.121" ypos="-22.9017" zpos="427.626"    type="legs.guild.trek.set.sign" GUID="HiYab8uJnkKy7wj/qGLeRA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/DrownedPlaza.png" heightOffset="3"/>
+		<POI MapID="51" xpos="-715.121" ypos="-22.9017" zpos="427.626"    type="legs.guild.trek.set.mount.skimmer" GUID="+UMagbViL0KElSS951klFg=="/>
+
+		<Trail type="legs.guild.trek.maguuma.eastend.brisban"             trailData="Data/LadyElyssa/Guild Missions/Treks/EastEndFalls.trl"/>
+		<POI MapID="54" xpos="577.864" ypos="54.049" zpos="166.271"       GUID="IoxXOqH3y0KRamUpP089PA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/EastEndFalls.png"/>
+		<Trail type="legs.guild.trek.kryta.eastlurk.dr"                   trailData="Data/LadyElyssa/Guild Missions/Treks/EastlurkAlley.trl"/>
+		<POI MapID="18" xpos="59.1578" ypos="100.265" zpos="-497.564"     GUID="zfGd3xdx50ewPcJlc2qi0w==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/EastlurkAlley.png"/>
+		<POI MapID="18" xpos="87.7547" ypos="138.821" zpos="-268.056"     GUID="1yycXfOeRUGefCE4lCGqjQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/EastlurkAlley.png"/>
+		<POI MapID="18" xpos="100.996" ypos="137.973" zpos="-292.86"      type="legs.guild.trek.set.mount.springer" GUID="2EH35PmPrkyyZa9qlqyLJw=="/>
+		<Trail type="legs.guild.trek.kryta.elises"                        trailData="Data/LadyElyssa/Guild Missions/Treks/ElisesSurprise.trl"/>
+		<POI MapID="17" xpos="-765.037" ypos="76.088" zpos="-237.596"     type="legs.guild.trek.set.sign" GUID="eRzdbqTjBkyDVnE9OnoaRA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ElisesSurprise.png" heightOffset="3"/>
+		<POI MapID="17" xpos="-765.037" ypos="76.088" zpos="-237.596"     type="legs.guild.trek.set.mount.jackal" GUID="HouxzrGWCUyMcOX37UsZcA=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.ettinbreath.lornars"     trailData="Data/LadyElyssa/Guild Missions/Treks/EttinbreathLair.trl"/>
+		<POI MapID="27" xpos="-403.199" ypos="42.4882" zpos="-1194.57"    type="legs.guild.trek.set.sign" GUID="GRDwaHPC5UeO+XXEvmabEA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/EttinbreathLair.png"/>
+		<POI MapID="27" xpos="-401.937" ypos="44.1861" zpos="-1199.97"    type="legs.guild.trek.set.mount.skyscale" GUID="QGU45xRX+0CVW1in+c8Wxw=="/>
+		<Trail type="legs.guild.trek.orr.fathomfive.straits"              trailData="Data/LadyElyssa/Guild Missions/Treks/FathomFiveForcefield.trl"/>
+		<POI MapID="51" xpos="111.526" ypos="-65.9283" zpos="75.7006"     GUID="UNg5cS6TZUedUNZ6CBt/fg==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FathomFiveForcefield.png"/>
+		<Trail type="legs.guild.trek.kryta.fawcetts.hirathi"              trailData="Data/LadyElyssa/Guild Missions/Treks/FawcettsPorch.trl"/>
+		<POI MapID="17" xpos="-757.956" ypos="37.3757" zpos="681.774"     GUID="BaPwSB3ZH02cy2urH+ngWQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FawcettsPorch.png"/>
+		<POI MapID="17" xpos="-711.913" ypos="22.1324" zpos="660.155"     GUID="q/LEMr6Xg0SXEdQrNepnjg==" type="legs.guild.trek.set.mount.springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" heightOffset="0"/>
+		<Trail type="legs.guild.trek.maguuma.fireimp.maelstrom"           trailData="Data/LadyElyssa/Guild Missions/Treks/FireImpPocket.trl"/>
+		<POI MapID="39" xpos="-304.268" ypos="10.2943" zpos="-291.771"    type="legs.guild.trek.set.sign" GUID="YRNfvYjfEEWYq9lm2GI+yQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FireImpPocket.png"/>
+		<POI MapID="39" xpos="-21.0979" ypos="78.5426" zpos="-320.544"    type="legs.guild.trek.set.sign" GUID="PDqTb0Nb8EGwkDtsiCSRxw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FireImpPocket.png"/>
+		<Trail type="legs.guild.trek.set.colour.cyan"                     trailData="Data/LadyElyssa/Guild Missions/Treks/FireImpPocket-Mount.trl"/>
+		<POI MapID="39" xpos="-118.658" ypos="99.4073" zpos="-300.263"    type="legs.guild.trek.set.mount.springer" GUID="9zEFsrs3eEqs6n58MEs0+A=="/>
+		<Trail type="legs.guild.trek.maguuma.firefrog.sparkfly"           trailData="Data/LadyElyssa/Guild Missions/Treks/FirefrogSprings.trl"/>
+		<POI MapID="53" xpos="585.541" ypos="43.483" zpos="23.3004"       type="legs.guild.trek.set.sign" GUID="XebgWZJqT0iTuinPdp0GcA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FirefrogSprings.png"/>
+		<Trail type="legs.guild.trek.ascalon.firewatch.ironmarches"       trailData="Data/LadyElyssa/Guild Missions/Treks/FirewatchFlybridge.trl" fadeNear="750" fadeFar="900"/>
+		<POI MapID="25" xpos="-104.769" ypos="2.81499" zpos="583.157"     type="legs.guild.trek.set.sign" GUID="wzoy2rKxBUCIVcrexlNsBw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FirewatchFlybridge.png"/>
+		<Trail type="legs.guild.trek.ascalon.firewatch.ironmarches"       trailData="Data/LadyElyssa/Guild Missions/Treks/FirewatchFlybridge-Alt.trl"/>
+		<POI MapID="25" xpos="141.692" ypos="23.2913" zpos="553.064"      type="legs.guild.trek.set.sign" GUID="yODtfx9sSkOMzU50Cbn/9g==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FirewatchFlybridge.png"/>
+		<Trail type="legs.guild.trek.maguuma.fishers.metrica"             trailData="Data/LadyElyssa/Guild Missions/Treks/FishersCrag.trl"/>
+		<POI MapID="35" xpos="-372.717" ypos="-0.141665" zpos="-265.777"  type="legs.guild.trek.set.mount.skimmer" GUID="wRLDgV/Sh02gKSlTKUQXSQ=="/>
+		<POI MapID="35" xpos="-351.209" ypos="8.04198" zpos="-326.892"    GUID="blN9CyQlO0mxYAle6/2HBw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FishersCrag.png"/>
+		<Trail type="legs.guild.trek.maguuma.flakks.rata"                 trailData="Data/LadyElyssa/Guild Missions/Treks/FlakksLapidaryNook.trl"/>
+		<POI MapID="139" xpos="49.6422" ypos="363.88" zpos="170.348"      GUID="vAyfbuUmp0ee1bXOT5RRZg=="    type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FlakksLapidaryNook.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.foragers.dredgehaunt"    trailData="Data/LadyElyssa/Guild Missions/Treks/ForagersMidden.trl"/>
+		<POI MapID="26" xpos="-411.697" ypos="85.9708" zpos="-279.436"    GUID="npYKNatMpEaOk/ckEfKILQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ForagersMidden.png"/>
+		<POI MapID="26" xpos="-411.697" ypos="85.9708" zpos="-279.436"    GUID="qvrsHjPOnUiuASyrOwe9KA==" type="legs.guild.trek.set.mount.raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" heightOffset="0.75"/>
+		<POI MapID="26" xpos="-579.763" ypos="93.3715" zpos="-383.488"    GUID="0oxgHpBdtUKijSirfa2AlA==" type="legs.guild.trek.set.mount.beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" heightOffset="0"/>
+		<Trail type="legs.guild.trek.orr.forbidden.malchors"              trailData="Data/LadyElyssa/Guild Missions/Treks/ForbiddenShear.trl"/>
+		<POI MapID="65" xpos="-335.55" ypos="1.76498" zpos="277.678"      type="legs.guild.trek.set.sign" GUID="8bRaPjUrUEa/Fbel5fX8gg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ForbiddenShear.png"/>
+		<POI MapID="65" xpos="-342.583" ypos="0.0493309" zpos="280.082"   type="legs.guild.trek.set.mount.skimmer" GUID="3YMVs4E5wkmGvhRMBm5+Zw=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.foremans.dredgehaunt"    trailData="Data/LadyElyssa/Guild Missions/Treks/ForemansRecess.trl"/>
+		<POI MapID="26" xpos="387.353" ypos="56.9187" zpos="-619.495"     GUID="xUkR+hg2vkuXLatXEEYmnA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ForemansRecess.png"/>
+		<POI MapID="26" xpos="383.493" ypos="57.3959" zpos="-619.669"     GUID="hXVPNNrW2kOSgxor+Z1yBQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ForemansRecess.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.foremans.dredgehaunt"    trailData="Data/LadyElyssa/Guild Missions/Treks/ForemansRecess-Mount.trl" color="00CCFF"/>
+		<POI MapID="26" xpos="340.862" ypos="55.3999" zpos="-750.008"     GUID="qaFugT6CGE+JVqu6C2IKvQ==" type="legs.guild.trek.set.mount.springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+		<Trail type="legs.guild.trek.ascalon.forgotten.blazeridge"        trailData="Data/LadyElyssa/Guild Missions/Treks/ForgottenGrotto.trl"/>
+		<POI MapID="20" xpos="311.521" ypos="19.4073" zpos="903.008"      GUID="V6r07gzVREeyposNalHMaA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ForgottenGrotto.png"/>
+		<Trail type="legs.guild.trek.ascalon.founders.fieldsofruin"       trailData="Data/LadyElyssa/Guild Missions/Treks/FoundersFlagonHearth.trl" fadeNear="900" fadeFar="1200"/>
+		<POI MapID="21" xpos="-375.377" ypos="69.8836" zpos="-617.804"    type="legs.guild.trek.set.sign" GUID="QvwYnocgtkGDypm6dQ8tOg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FoundersFlagonHearth.png"/>
+		<Trail type="legs.guild.trek.ascalon.founders.fieldsofruin"       trailData="Data/LadyElyssa/Guild Missions/Treks/FoundersFlagonHearth-Alt.trl" fadeNear="750" fadeFar="800"/>
+		<Trail type="legs.guild.trek.ascalon.freestand.blackcitadel"      trailData="Data/LadyElyssa/Guild Missions/Treks/FreestandScaffold.trl"/>
+		<POI MapID="218" xpos="-121.651" ypos="9.56842" zpos="-128.881"   type="legs.guild.trek.set.sign" GUID="Tvfysc/MoEqqRIFu2SzGhg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FreestandScaffold.png"/>
+		<POI MapID="218" xpos="-132.238" ypos="0.0980436" zpos="-8.24061" type="legs.guild.trek.set.mount.springer" GUID="g95sbgJjLUKfi84CTWoEaA=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.frozen.timberline"       trailData="Data/LadyElyssa/Guild Missions/Treks/FrozenAntrum.trl"/>
+		<POI MapID="29" xpos="136.139" ypos="58.1214" zpos="483.027"      GUID="LQCq4GNK1kSQr1/rcY5ozQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/FrozenAntrum.png"/>
+		<Trail type="legs.guild.trek.maguuma.gallow.brisban"              trailData="Data/LadyElyssa/Guild Missions/Treks/GallowCanyons.trl"/>
+		<POI MapID="54" xpos="-709.923" ypos="64.7636" zpos="546.893"     GUID="Qf8KUnyj7UWe70qee9Q6ZQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/GallowCanyons.png"/>
+		<Trail type="legs.guild.trek.maguuma.gardenroot.grove"            trailData="Data/LadyElyssa/Guild Missions/Treks/GardenrootAlcove.trl"/>
+		<POI MapID="91" xpos="-61.2046" ypos="70.6193" zpos="259.523"     type="legs.guild.trek.set.sign" GUID="wCisZzAzN0qj5qt2CpDa2A==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/GardenrootAlcove.png"/>
+		<POI MapID="91" xpos="-80.3169" ypos="68.3643" zpos="241.223"     type="legs.guild.trek.set.mount.springer" GUID="V5kEIawKrUyeqTu0LFiMvA=="/>
+		<Trail type="legs.guild.trek.maguuma.gnashers.brisban"            trailData="Data/LadyElyssa/Guild Missions/Treks/GnashersViewpoint.trl"/>
+		<POI MapID="54" xpos="962.6" ypos="55.4991" zpos="647.993"        GUID="6Gj/3nWPM0OWMP+JjllSfA==" type="legs.guild.trek.set.mount.beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" heightOffset="0"/>
+		<POI MapID="54" xpos="951.007" ypos="53.8121" zpos="647.148"      GUID="5ykrqmnWcUO8F1CGmmBJmw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/GnasharsViewpoint.png"/>
+		<Trail type="legs.guild.trek.maguuma.greenmoa.caledon"            trailData="Data/LadyElyssa/Guild Missions/Treks/GreenMoaPaddock.trl"/>
+		<POI MapID="34" xpos="-211.284" ypos="56.1322" zpos="450.635"     GUID="Eudyqarr70KaKXRFE+xG6w==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/GreenMoaPaddock.png"/>
+		<Trail type="legs.guild.trek.kryta.grenths.dr"                    trailData="Data/LadyElyssa/Guild Missions/Treks/GrenthsPavillion.trl"/>
+		<POI MapID="18" xpos="81.218" ypos="101.228" zpos="387.977"       GUID="fNjlr+XgnUKTY76i9qyLKA=="     type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/GrenthsPavillion.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.grimsdottir.hoelbrak"    trailData="Data/LadyElyssa/Guild Missions/Treks/GrimsDottirsDuty.trl"/>
+		<POI MapID="326" xpos="548.176" ypos="220.166" zpos="352.527"     GUID="OrDtFwKIaUGzt5idkOckOg=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/GrimsDottirsDuty.png"/>
+		<Trail type="legs.guild.trek.kryta.guardian.harathi"              trailData="Data/LadyElyssa/Guild Missions/Treks/GuardianOverwatch.trl"/>
+		<POI MapID="17" xpos="74.9645" ypos="4.09369" zpos="-119.736"     type="legs.guild.trek.set.sign" GUID="NZHK/LUKw0K0srsehY8H1Q==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/GuardianOverwatch.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.hawkeye.timberline"      trailData="Data/LadyElyssa/Guild Missions/Treks/HawkeyePerch.trl"/>
+		<POI MapID="29" xpos="-98.0854" ypos="12.9463" zpos="-695.089"    type="legs.guild.trek.set.sign" GUID="io4FCBa6JU+JbDpZ2HgniQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/HawkeyePerch.png"/>
+		<Trail type="legs.guild.trek.ascalon.heartspeaks.fireheart"       trailData="Data/LadyElyssa/Guild Missions/Treks/HeartSpeaksNotch.trl"/>
+		<POI MapID="22" xpos="-860.096" ypos="81.8355" zpos="35.6007"     type="legs.guild.trek.set.sign" GUID="LGwOZDJR+UaWyvIHNMzMxA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/HeartSpeaksNotch.png"/>
+		<POI MapID="22" xpos="-852.429" ypos="79.8496" zpos="29.4455"     type="legs.guild.trek.set.mount.beetle" GUID="DqkZryP+J0eFg2Nqfp57+Q=="/>
+		<Trail type="legs.guild.trek.kryta.heartwoods.queensdale"         trailData="Data/LadyElyssa/Guild Missions/Treks/HeartwoodHoneyCache.trl"/>
+		<POI MapID="15" xpos="77.4738" ypos="28.8999" zpos="-302.252"     GUID="1CXR9w62XUCMEUx/QV99jQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/HeartwoodHoneyCache.png"/>
+		<POI MapID="15" xpos="73.3862" ypos="28.5074" zpos="-303.022"     type="legs.guild.trek.set.mount.raptor" GUID="rfudbdD2B0ivD6dMO4Jw+w=="/>
+		<Trail type="legs.guild.trek.kryta.heidis.harathi"                trailData="Data/LadyElyssa/Guild Missions/Treks/HeidisShowpiece.trl"/>
+		<POI MapID="17" xpos="-719.984" ypos="17.3718" zpos="404.909"     type="legs.guild.trek.set.sign" GUID="oWrzBgZTvUOhhH5QDYCGRg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/HeidisShowpiece.png"/>
+		<Trail type="legs.guild.trek.ascalon.hermits.fieldsofruin"        trailData="Data/LadyElyssa/Guild Missions/Treks/HermitsRoost.trl"/>
+		<POI MapID="21" xpos="366.805" ypos="3.42633" zpos="743.902"      GUID="CAb+Cm6Kr0uJAeOukCNFMA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/HermitsRoost.png"/>
+		<POI MapID="21" xpos="523.008" ypos="24.2574" zpos="801.748"      GUID="dPBWvx6N0UClXJNs1K2cNA==" type="legs.guild.trek.set.mount.skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" heightOffset="0.75"/>
+		<Trail type="legs.guild.trek.shiverpeaks.hiddenowl.snowden"       trailData="Data/LadyElyssa/Guild Missions/Treks/HiddenOwlDistillery.trl"/>
+		<POI MapID="31" xpos="1081.19" ypos="111.088" zpos="-387.909"     GUID="AZBthId39U2E9imimIkf/Q==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/HiddenOwlDistillery.png"/>
+		<Trail type="legs.guild.trek.ascalon.holystone.diessa"            trailData="Data/LadyElyssa/Guild Missions/Treks/HolystoneSanctum.trl"/>
+		<POI MapID="32" xpos="844.203" ypos="40.9237" zpos="145.287"      type="legs.guild.trek.set.sign" GUID="ev5Qg/X5202P6ojJt5XS9Q==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/HolystoneSanctum.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.icewurm.frostgorge"      trailData="Data/LadyElyssa/Guild Missions/Treks/IcewurmTrench.trl"/>
+		<POI MapID="30" xpos="-630.74" ypos="1.2685" zpos="377.446"       type="legs.guild.trek.set.sign" GUID="53vbPbz3Aki0xbv8pxkjkA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/IcewurmTrench.png"/>
+		<Trail type="legs.guild.trek.maguuma.ideation.rata"               trailData="Data/LadyElyssa/Guild Missions/Treks/IdeationLeap.trl"/>
+		<POI MapID="139" xpos="31.5007" ypos="107.818" zpos="-358.251"    GUID="CxNdyGrCOUWhVkx24DzBjQ=="  type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/IdeationLeap.png"/>
+		<Trail type="legs.guild.trek.maguuma.imphaunt.caledon"            trailData="Data/LadyElyssa/Guild Missions/Treks/ImphauntHallow.trl"/>
+		<POI MapID="34" xpos="-455.924" ypos="5.92177" zpos="1136.6"      type="legs.guild.trek.set.mount.jackal" GUID="2cHskqFed0S7pgHSvUfrfA=="/>
+		<POI MapID="34" xpos="-455.628" ypos="5.58853" zpos="1130.9"      GUID="rHFkb8yXs02yU7kTntTvIA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ImphauntHallow.png"/>
+		<Trail type="legs.guild.trek.ascalon.irondock.ashford"            trailData="Data/LadyElyssa/Guild Missions/Treks/IrondockViewpoint.trl"/>
+		<POI MapID="19" xpos="1093.85" ypos="32.411" zpos="-175.329"      GUID="7KCY3rlYXkyGpqja0uKXYw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/IrondockViewpoint.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.isenfell.snowden"        trailData="Data/LadyElyssa/Guild Missions/Treks/IsenfellWash.trl"/>
+		<POI MapID="31" xpos="-440.332" ypos="2.84565" zpos="388.243"     type="legs.guild.trek.set.sign" GUID="JoRggRWEUkCUNTBuWobf8A==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/IsenfellWash.png"/>
+		<POI MapID="31" xpos="-390.137" ypos="0.12866" zpos="409.561"     type="legs.guild.trek.set.mount.skimmer" GUID="qsHtB6eLIE25K8Z6qRP0MQ=="/>
+		<Trail type="legs.guild.trek.kryta.isgarren.kessex"               trailData="Data/LadyElyssa/Guild Missions/Treks/IsgarrenViewpoint.trl"/>
+		<POI MapID="23" xpos="1122.82" ypos="37.0713" zpos="-73.8343"     type="legs.guild.trek.set.sign" GUID="I5RMEbjQv063As5xVqmbew==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/IsgarrenViewpoint.png"/>
+		<Trail type="legs.guild.trek.maguuma.jaguar.metrica"              trailData="Data/LadyElyssa/Guild Missions/Treks/JaguarPrideDen.trl"/>
+		<POI MapID="35" xpos="-77.7592" ypos="28.1231" zpos="899.706"     type="legs.guild.trek.set.mount.raptor" GUID="a7fTDPSa0UORMxNOogohpA=="/>
+		<POI MapID="35" xpos="-62.4155" ypos="26.5036" zpos="883.905"     type="legs.guild.trek.set.sign" GUID="3saql1ivoEueRNtWEgK3zw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/JaguarPrideDen.png"/>
+		<Trail type="legs.guild.trek.ascalon.junkers.blackcitadel"        trailData="Data/LadyElyssa/Guild Missions/Treks/JunkersApex.trl"/>
+		<POI MapID="218" xpos="20.3595" ypos="100.347" zpos="-74.7896"    GUID="NeidVOitMk+jf2XagDxktA=="  type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/JunkersApex.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.kaldars.hoelbrak"        trailData="Data/LadyElyssa/Guild Missions/Treks/KaldarsHotSeat.trl"/>
+		<POI MapID="326" xpos="482.905" ypos="311.012" zpos="-203.931"    GUID="+M6kj5zoW0+3OM8XquPtlQ=="  type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/KaldarsHotSeat.png"/>
+		<Trail type="legs.guild.trek.kryta.karis.kessex"                  trailData="Data/LadyElyssa/Guild Missions/Treks/KarisHotSpot.trl"/>
+		<POI MapID="23" xpos="835.858" ypos="81.5847" zpos="-286.076"     GUID="Wyv/88fVukuVJ7Te0ll0XA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/KarisHotSpot.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.kegbrawl.hoelbrak"       trailData="Data/LadyElyssa/Guild Missions/Treks/KegbrawlWatch.trl"/>
+		<POI MapID="326" xpos="-216.521" ypos="290.611" zpos="152.457"    GUID="arpzvM/zmUucrux1tER1og=="  type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/KegbrawlWatch.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.kevachs.wayfarer"        trailData="Data/LadyElyssa/Guild Missions/Treks/KevachsStrongroom.trl"/>
+		<POI MapID="28" xpos="143.646" ypos="83.2604" zpos="752.968"      GUID="W41mXY24E0OUHb22d4UJ7w==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/KevachsStrongroom.png"/>
+		<Trail type="legs.guild.trek.kryta.lakebottom.queensdale"         trailData="Data/LadyElyssa/Guild Missions/Treks/LakebottomUnderpass.trl"/>
+		<POI MapID="15" xpos="179.378" ypos="0.945844" zpos="426.527"     GUID="k8GdSOSsi0KTy/Fec2xQxg==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/LakebottomUnderpass.png"/>
+		<POI MapID="15" xpos="152.893" ypos="0.0188146" zpos="442.681"    type="legs.guild.trek.set.mount.skimmer" GUID="yHc26/DtFEikwC606UNt9g=="/>
+		<POI MapID="15" xpos="133.208" ypos="-1.77794" zpos="451.322"     type="legs.guild.trek.set.mount.skimmer.dive" GUID="/RqK8wM3gke+W+XENajzvg=="/>
+		<Trail type="legs.guild.trek.kryta.lawen.gendarran"               trailData="Data/LadyElyssa/Guild Missions/Treks/LawenGrotto.trl"/>
+		<POI MapID="24" xpos="-571.121" ypos="6.82043" zpos="-258.309"    type="legs.guild.trek.set.sign" GUID="Wd8IXcnbm0WFnStcbK2Clw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/LawenGrotto.png"/>
+		<Trail type="legs.guild.trek.orr.lightfoot.straits"               trailData="Data/LadyElyssa/Guild Missions/Treks/LightfootDock.trl"/>
+		<POI MapID="51" xpos="904.362" ypos="30.3048" zpos="145.206"      type="legs.guild.trek.set.sign" GUID="jl7ao1jkJE25VSID7oOkdw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/LightfootDock.png"/>
+		<POI MapID="51" xpos="629.276" ypos="4.85786" zpos="-135.058"     type="legs.guild.trek.set.sign" GUID="kGMzK21OnUO2jtArEGyeGQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/LightfootDock.png"/>
+		<POI MapID="51" xpos="591.705" ypos="-0.728872" zpos="-166.268"   type="legs.guild.trek.set.mount.skimmer" GUID="XkF2u3tf/E+P7gogc/r3XA=="/>
+		<Trail type="legs.guild.trek.ascalon.lilys.fireheart"             trailData="Data/LadyElyssa/Guild Missions/Treks/LilysBivvy.trl"/>
+		<POI MapID="22" xpos="-680.084" ypos="50.5551" zpos="658.566"     type="legs.guild.trek.set.sign" GUID="K5N6tfbM306aiDVlwihgFA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/LilysBivvy.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.lionguard.wayfarer"      trailData="Data/LadyElyssa/Guild Missions/Treks/LionguardLarder.trl"/>
+		<POI MapID="28" xpos="39.2402" ypos="81.8061" zpos="134.587" GUID="xzX9tL0hGkaGt5IQnpAHEw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/LionguardLarder.png"/>
+		<Trail type="legs.guild.trek.kryta.lychcroft.kessex"              trailData="Data/LadyElyssa/Guild Missions/Treks/LychcroftWardenship.trl"/>
+		<POI MapID="23" xpos="-805.372" ypos="1.16699" zpos="-517.47"     type="legs.guild.trek.set.sign" GUID="dMjGeg1nC0mVwzogDGt9xg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/LychcroftWardenship.png"/>
+		<POI MapID="23" xpos="-809.371" ypos="2.15039" zpos="-532.43"     type="legs.guild.trek.set.mount.springer" GUID="zmNmNUbt4U2O2BjB5/vcyQ=="/>
+		<Trail type="legs.guild.trek.maguuma.magihedron.rata"             trailData="Data/LadyElyssa/Guild Missions/Treks/MagihedronCorner.trl"/>
+		<POI MapID="139" xpos="118.295" ypos="385.831" zpos="123.097"     GUID="HhXStyPYA0251tUUSuXrjg=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MagihedronCorner.png"/>
+		<Trail type="legs.guild.trek.maguuma.mastercontrol.metrica"       trailData="Data/LadyElyssa/Guild Missions/Treks/MasterControlLIN39.trl"/>
+		<POI MapID="35" xpos="-97.5481" ypos="22.4644" zpos="872.366"     type="legs.guild.trek.set.sign" GUID="XfkfzWkoS0Wek3fKtlpBCQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MasterControlLIN39.png"/>
+		<POI MapID="35" xpos="-75.191" ypos="28.4483" zpos="897.706"      type="legs.guild.trek.set.mount.beetle" GUID="ZscojZ8Pukav1uCzsML//w=="/>
+		<Trail type="legs.guild.trek.kryta.melandrus.dr"                  trailData="Data/LadyElyssa/Guild Missions/Treks/MelandrusFount.trl"/>
+		<POI MapID="18" xpos="-319.462" ypos="100.492" zpos="-267.92"     GUID="so0GHCMXnEe1r4jcprkF3Q==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MelandrusFount.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.meltwater.timberline"    trailData="Data/LadyElyssa/Guild Missions/Treks/MeltwaterCave.trl"/>
+		<POI MapID="29" xpos="537.545" ypos="10.3462" zpos="-223.897"     type="legs.guild.trek.set.sign" GUID="NbH7huhBWU23DSRRG/fb1w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MeltwaterCave.png"/>
+		<POI MapID="29" xpos="543.267" ypos="0.175716" zpos="-202.345"    type="legs.guild.trek.set.mount.skimmer" GUID="L/OBjy/OU0myp5ovYzGB/w=="/>
+		<POI MapID="29" xpos="558.781" ypos="1.37639" zpos="-191.731"     type="legs.guild.trek.set.mount.skimmer.dive" GUID="jA4obI4Ppkut50HGge7nIA=="/>
+		<Trail type="legs.guild.trek.kryta.minas.dr"                      trailData="Data/LadyElyssa/Guild Missions/Treks/MinasTargetShoot.trl"/>
+		<POI MapID="18" xpos="5.44948" ypos="79.7036" zpos="-273.927"     GUID="CQk0JNsPjUGwmiTwEz6s4g=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MinasTargetShoot.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.mistriven.lornars"       trailData="Data/LadyElyssa/Guild Missions/Treks/MistrivenShelf.trl"/>
+		<POI MapID="27" xpos="-72.2514" ypos="86.4499" zpos="1000.55"     GUID="zZpC4PtauEyVAgoDloNlLw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MistrivenShelf.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.moleberia.wayfarer"      trailData="Data/LadyElyssa/Guild Missions/Treks/MoleberiaPrison.trl"/>
+		<POI MapID="28" xpos="-191.71" ypos="109.001" zpos="575.509"      GUID="X27dvgvWDkaH1o9yA2qpwA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MoleberiaPrison.png"/>
+		<Trail type="legs.guild.trek.kryta.monument.southsun"             trailData="Data/LadyElyssa/Guild Missions/Treks/MonumenttotheAncientOne.trl"/>
+		<POI MapID="873" xpos="-535.203" ypos="31.7208" zpos="-409.966"   type="legs.guild.trek.set.sign" GUID="qpzYDb0XhkCV4C+t8j+SJg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/MonumenttotheAncientOne.png"/>
+		<Trail type="legs.guild.trek.ascalon.narrowkraal.fieldsofruin"    trailData="Data/LadyElyssa/Guild Missions/Treks/NarrowkraalCrossing.trl"/>
+		<POI MapID="21" xpos="426.465" ypos="31.7657" zpos="-480.756"     type="legs.guild.trek.set.sign" GUID="ISTH0dkx/ky7ZO9MNrY8XA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/NarrowkraalCrossing.png"/>
+		<Trail type="legs.guild.trek.maguuma.necrolith.grove"             trailData="Data/LadyElyssa/Guild Missions/Treks/NecrolithLanding.trl"/>
+		<POI MapID="91" xpos="-36.2731" ypos="70.5838" zpos="270.073"     type="legs.guild.trek.set.sign" GUID="mvjQ+ujWEEmymXQBVEtRWQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/NecrolithLanding.png"/>
+		<Trail type="legs.guild.trek.ascalon.orecart.fireheart"           trailData="Data/LadyElyssa/Guild Missions/Treks/OrecartHoist.trl"/>
+		<POI MapID="22" xpos="439.795" ypos="6.28085" zpos="-427.278"     type="legs.guild.trek.set.sign" GUID="CykqdeevYEK6seBCdkrWOw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/OrecartHoist.png"/>
+		<POI MapID="22" xpos="381.279" ypos="0.504951" zpos="-465.016"    type="legs.guild.trek.set.mount.skyscale" GUID="JKuoIrFTi0uRzU0n0Aoqmw=="/>
+		<Trail type="legs.guild.trek.maguuma.orvanic.sparkfly"            trailData="Data/LadyElyssa/Guild Missions/Treks/OrvanicSourcewaters.trl"/>
+		<POI MapID="53" xpos="-342.805" ypos="21.2475" zpos="524.174"     GUID="n0kHx9vbvkG0X+0zckXkgQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/OrvanicSourcewaters.png"/>
+		<POI MapID="53" xpos="-342.733" ypos="21.239" zpos="524.254"      GUID="aWT8FHmZwUmbvLnVPsU77g==" type="legs.guild.trek.set.mount.jackal" heightOffset="0.5"/>
+		<POI MapID="53" xpos="-470.6" ypos="38.8451" zpos="618.744"       GUID="8JNZPGYum0+vEjSZOY1sXw==" type="legs.guild.trek.set.mount.springer"/>
+		<Trail type="legs.guild.trek.shiverpeaks.osenfold.wayfarer"       trailData="Data/LadyElyssa/Guild Missions/Treks/OsenfoldCounterweights.trl"/>
+		<Trail type="legs.guild.trek.set.colour.cyan"                     trailData="Data/LadyElyssa/Guild Missions/Treks/OsenfoldCounterweights-Mount.trl"/>
+		<POI MapID="28" xpos="-295.931" ypos="151.402" zpos="-344.467"    GUID="Od7vKy+bokmNEIsBr4eO5A==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/OsenfoldCounterweights.png"/>
+		<Trail type="legs.guild.trek.kryta.overlord.kessex"               trailData="Data/LadyElyssa/Guild Missions/Treks/OverlordLodge.trl"/>
+		<POI MapID="23" xpos="-857.471" ypos="24.0682" zpos="-116.041"    type="legs.guild.trek.set.sign" GUID="2txIKmzpeUi2B3kPpHK5zw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/OverlordLodge.png"/>
+		<POI MapID="23" xpos="-874.862" ypos="34.8651" zpos="-118.807"    type="legs.guild.trek.set.mount.skyscale" GUID="UDoSjNFFRU2nLrtm2MGwuw=="/>
+		<Trail type="legs.guild.trek.ascalon.phasmatis.ashford"           trailData="Data/LadyElyssa/Guild Missions/Treks/PhasmatisProspect.trl"/>
+		<POI MapID="19" xpos="583.165" ypos="3.6158" zpos="-217.449"      GUID="aYe+nhXeG0exelLWtK7odg==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/PhasmatisProspect.png"/>
+		<Trail type="legs.guild.trek.kryta.pochtecatls.bloodtide"         trailData="Data/LadyElyssa/Guild Missions/Treks/PochtecatlsDesire.trl"/>
+		<POI MapID="73" xpos="-506.51" ypos="16.7677" zpos="-761.594"     type="legs.guild.trek.set.sign" GUID="tLu+YDhhCUeUMi241c1MPA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/PochtecatlsDesire.png"/>
+		<Trail type="legs.guild.trek.maguuma.portauthority.rata"          trailData="Data/LadyElyssa/Guild Missions/Treks/PortAuthorityLostandFound.trl"/>
+		<POI MapID="139" xpos="-335.993" ypos="35.9496" zpos="-531.654"   GUID="CSjZ1DN3zkq9ua/nmw93Vg==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/PortAuthorityLostandFound.png"/>
+		<Trail type="legs.guild.trek.kryta.portmatts.bloodtide"           trailData="Data/LadyElyssa/Guild Missions/Treks/PortmattsPromontory.trl"/>
+		<POI MapID="73" xpos="-245.974" ypos="-49.1322" zpos="692.333"    GUID="L1EA3U3PDUeT+mIVKb+5Ag==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/PortmattsPromontory.png"/>
+		<POI MapID="73" xpos="-250.869" ypos="-48.1294" zpos="687.78"     type="legs.guild.trek.set.mount.skimmer" GUID="5smtvUILbk2KwJS5JwWJYw=="/>
+		<POI MapID="73" xpos="-453.243" ypos="-6.87451" zpos="611.663"    type="legs.guild.trek.set.mount.skimmer.hover" GUID="bEa5ElYFQU6m5holXIHZnA=="/>
+		<Trail type="legs.guild.trek.ascalon.provatum.fireheart"          trailData="Data/LadyElyssa/Guild Missions/Treks/ProvatumCarcer.trl"/>
+		<POI MapID="22" xpos="25.8075" ypos="42.4747" zpos="223.264"      type="legs.guild.trek.set.sign" GUID="8s9zJ46pcEqQ55kiRoJlMg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ProvatumCarcer.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.ramview.dredgehaunt"     trailData="Data/LadyElyssa/Guild Missions/Treks/RamviewPeak.trl"/>
+		<POI MapID="26" xpos="-279.417" ypos="58.6114" zpos="740.952"     GUID="yteOj6gVDE6FUL78WILu4Q==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RamviewPeak.png"/>
+		<POI MapID="26" xpos="-226.27" ypos="72.0477" zpos="763.441"      GUID="LiHxFztR/EqNcHRKWXRdWw==" type="legs.guild.trek.set.mount.springer"/>
+		<Trail type="legs.guild.trek.ascalon.raptorsaerie.ironmarches"    trailData="Data/LadyElyssa/Guild Missions/Treks/RaptorsAerie.trl"/>
+		<POI MapID="25" xpos="-178.237" ypos="19.6189" zpos="295.546"     type="legs.guild.trek.set.sign" GUID="AOpoEoc/xEytWPce306Sag==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RaptorsAerie.png"/>
+		<Trail type="legs.guild.trek.kryta.raptorsperch.gendarran"        trailData="Data/LadyElyssa/Guild Missions/Treks/RaptorsPerch.trl"/>
+		<POI MapID="24" xpos="1146.17" ypos="68.4426" zpos="309.432"      type="legs.guild.trek.set.sign" GUID="VJsqTl3T50+8lwF6mEhlHw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RaptorsPerch.png"/>
+		<Trail type="legs.guild.trek.maguuma.ratapten"                    trailData="Data/LadyElyssa/Guild Missions/Treks/RataPtenPortico.trl"/>
+		<POI MapID="39" xpos="-900.398" ypos="73.1986" zpos="362.362"     type="legs.guild.trek.set.sign" GUID="sFs2+gFSCkem4E/tOvtBIg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RataPtenPortico.png" heightOffset="3"/>
+		<POI MapID="39" xpos="-900.398" ypos="73.1986" zpos="362.362"     type="legs.guild.trek.set.mount.skyscale" GUID="wRlcCv5SokSpgciBFtFUSQ==" heightOffset="1"/>
+		<Trail type="legs.guild.trek.shiverpeaks.raven.hoelbrak"          trailData="Data/LadyElyssa/Guild Missions/Treks/RavenNook.trl"/>
+		<POI MapID="326" xpos="256.308" ypos="265.713" zpos="251.734"     GUID="SIPTn4VCsEa7LegoeR6EIA=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RavenNook.png"/>
+
+		<Trail type="legs.guild.trek.kryta.reefdrake.southsun"            trailData="Data/LadyElyssa/Guild Missions/Treks/ReefDrakeNestingGrounds.trl"/>
+      <POI MapID="873" xpos="616.076" ypos="30.9308" zpos="-347.257"    type="legs.guild.trek.set.sign" GUID="+4yaaQ8STUyKVhL4JxCRyw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ReefDrakeNestingGrounds.png"/>
+		<POI MapID="873" xpos="515.547" ypos="46.0823" zpos="-289.384"    type="legs.guild.trek.set.mount.skyscale" GUID="m5pJFQYtyU+KLlThoukMhg=="/>
+
+		<Trail type="legs.guild.trek.maguuma.restless.maelstrom"          trailData="Data/LadyElyssa/Guild Missions/Treks/RestlessFootings.trl"/>
+      <POI MapID="39" xpos="435.414" ypos="17.4426" zpos="-350.938"     type="legs.guild.trek.set.sign" GUID="kXz6sT94dU6cDOLc8mlKXg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RestlessFootings.png"/>
+		<POI MapID="39" xpos="401.655" ypos="-0.811181" zpos="-296.499"   type="legs.guild.trek.set.mount.skimmer" GUID="NErDsQUNt0qXD1rjMKM7dg=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.reverberants.wayfarer"   trailData="Data/LadyElyssa/Guild Missions/Treks/ReverberantsWatch.trl"/>
+		<POI MapID="28" xpos="324.745" ypos="21.5909" zpos="-376.308"     GUID="zpYnYCuVsU6Wm8qzSRfB3w==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ReverberantsWatch.png"/>
+		<Trail type="legs.guild.trek.kryta.risewild.bloodtide"            trailData="Data/LadyElyssa/Guild Missions/Treks/RisewildGreen.trl"/>
+		<POI MapID="73" xpos="512.479" ypos="0.684673" zpos="312.501"     GUID="Y6fudc+Vskadr4Sut+Nlqw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RisewildGreen.png"/>
+		<Trail type="legs.guild.trek.kryta.ruriks.dr"                     trailData="Data/LadyElyssa/Guild Missions/Treks/RuriksView.trl"/>
+		<POI MapID="18" xpos="306.869" ypos="79.6374" zpos="-59.3852"     GUID="rP2Gyt1oIEeZtiO0WBLo9w=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/RuriksView.png"/>
+		<POI MapID="18" xpos="327.413" ypos="80.1064" zpos="-42.5686"     type="legs.guild.trek.set.mount.skyscale" GUID="zd8iwVdGSkKQBShbfNDZgw=="/>
+		<Trail type="legs.guild.trek.maguuma.saltflood.sparkfly"          trailData="Data/LadyElyssa/Guild Missions/Treks/SaltfloodAltar.trl"/>
+		<POI MapID="53" xpos="483.531" ypos="36.3796" zpos="544.325"      type="legs.guild.trek.set.sign" GUID="f4JobIf/oUWCgeFWutrQGw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SaltfloodAltar.png"/>
+		<POI MapID="53" xpos="459.193" ypos="8.67411" zpos="633.706"      type="legs.guild.trek.set.mount.springer" GUID="uH8ER87lyEmlRyBeHJDoNA=="/>
+		<Trail type="legs.guild.trek.kryta.sandwurm.southsun"             trailData="Data/LadyElyssa/Guild Missions/Treks/SandwurmProwl.trl"/>
+		<POI MapID="873" xpos="619.928" ypos="31.0133" zpos="-337.014"    type="legs.guild.trek.set.sign" GUID="DMGCgjf3ckqP58vqpRaH+w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SandwurmProwl.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.scholars.dredgehaunt"    trailData="Data/LadyElyssa/Guild Missions/Treks/ScholarsBlind.trl"/>
+		<POI MapID="26" xpos="-566.253" ypos="57.3516" zpos="188.64"      type="legs.guild.trek.set.sign" GUID="rckVkNRfrEC/6kgtXfY5Rg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ScholarsBlind.png"/>
+		<Trail type="legs.guild.trek.ascalon.scourgejaw.ironmarches"      trailData="Data/LadyElyssa/Guild Missions/Treks/ScourgejawWatchtower.trl"/>
+		<POI MapID="25" xpos="-214.7" ypos="2.23823" zpos="-386.516"      type="legs.guild.trek.set.sign" GUID="yS8/YRZHcU25x1ZhoogdYg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ScourgejawWatchtower.png"/>
+		<POI MapID="25" xpos="-220.069" ypos="2.43827" zpos="-387.302"    type="legs.guild.trek.set.mount.jackal" GUID="CFfnM9se20mqLTAAGsL8wA=="/>
+		<Trail type="legs.guild.trek.ascalon.scriptorium.blackcitadel"    trailData="Data/LadyElyssa/Guild Missions/Treks/ScriptoriumNook.trl"/>
+		<POI MapID="218" xpos="180.553" ypos="140.616" zpos="441.77"      GUID="6NtbYm94C0Cr11uYYoI+YQ=="    type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ScriptoriumNook.png"/>
+		<Trail type="legs.guild.trek.orr.seascorpions.cs"                 trailData="Data/LadyElyssa/Guild Missions/Treks/SeaScorpionsEye.trl"/>
+		<POI MapID="62" xpos="-34.3538" ypos="28.8584" zpos="-63.2049"    GUID="egpWyxdthECjvIrawh8efA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SeaScorpionsEye.png"/>
+		<POI MapID="62" xpos="-185.272" ypos="-0.300479" zpos="10.1471"   type="legs.guild.trek.set.mount.skimmer" GUID="lC/FhJwk1kuLrwu4En0pYA=="/>
+		<POI MapID="62" xpos="-309.772" ypos="1.37639" zpos="-29.9081"    type="legs.guild.trek.set.mount.skimmer.dive" GUID="12x+8JtsnE2piqD/dpYGRg=="/>
+		<Trail type="legs.guild.trek.ascalon.sentinel.ironmarches"        trailData="Data/LadyElyssa/Guild Missions/Treks/SentinelSink.trl"/>
+		<POI MapID="25" xpos="182.531" ypos="5.08254" zpos="-103.988"     GUID="n98J+ta1L0ateFPovuHHQA==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SentinelSink.png"/>
+		<POI MapID="25" xpos="261.808" ypos="-0.956832" zpos="15.072"     GUID="mnL+iePsc0e4FMfJ3EhrZQ==" type="legs.guild.trek.set.mount.skimmer"/>
+		<Trail type="legs.guild.trek.orr.sepulchre.straits"               trailData="Data/LadyElyssa/Guild Missions/Treks/SepulchreSkylight.trl"/>
+		<POI MapID="51" xpos="-503.055" ypos="40.1721" zpos="-124.04"     GUID="xXNqzyWuWUCz2QHhLIP/eg==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SepulchreSkylight.png"/>
+		<POI MapID="51" xpos="-224.292" ypos="24.477" zpos="-681.403"     GUID="5Nu98wIFbkqxcvhfyjpxSw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SepulchreSkylight.png"/>
+		<Trail type="legs.guild.trek.ascalon.sharkhollows.blazeridge"     trailData="Data/LadyElyssa/Guild Missions/Treks/SharkhollowsEdge.trl"/>
+		<POI MapID="20" xpos="257.881" ypos="76.8942" zpos="-589.662"     GUID="3a3DlTseYkmU10+7sL2vGQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SharkhollowsEdge.png"/>
+		<POI MapID="20" xpos="401.193" ypos="28.1414" zpos="-1155.22"     GUID="FUdkHqp3q0KmweVarkO4Gw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SharkhollowsEdge.png"/>
+		<Trail type="legs.guild.trek.maguuma.shattered.sparkfly"          trailData="Data/LadyElyssa/Guild Missions/Treks/ShatteredLoft.trl"/>
+		<POI MapID="53" xpos="202.584" ypos="46.299" zpos="855.261"       type="legs.guild.trek.set.sign" GUID="yM6lNv/98USD0LNbtuzb4g==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ShatteredLoft.png"/>
+		<POI MapID="53" xpos="213.154" ypos="2.52594" zpos="707.226"      type="legs.guild.trek.set.sign" GUID="w7c2ADN+n0WIPQb9mMw6zw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ShatteredLoft.png"/>
+		<Trail type="legs.guild.trek.maguuma.siamoth.sparkfly"            trailData="Data/LadyElyssa/Guild Missions/Treks/SiamothRefuge.trl"/>
+		<POI MapID="53" xpos="315.094" ypos="-0.215655" zpos="-734.569"   GUID="YUlDjWjOKUanJAuGTx4j/Q==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SiamothRefuge.png"/>
+		<POI MapID="53" xpos="315.105" ypos="-0.219419" zpos="-734.588"   GUID="7sNC9ikSyUm9flKk8to4Sg==" type="legs.guild.trek.set.mount.jackal" heightOffset="0.5"/>
+		<Trail type="legs.guild.trek.ascalon.skalecatch.ironmarches"      trailData="Data/LadyElyssa/Guild Missions/Treks/SkalecatchButcherShop.trl"/>
+		<POI MapID="25" xpos="-211.599" ypos="3.29955" zpos="-380.647"    type="legs.guild.trek.set.sign" GUID="87uzkxcrJEyF0EmQbkyWaA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkalecatchButcherShop.png"/>
+		<Trail type="legs.guild.trek.ascalon.skalefound.fireheart"        trailData="Data/LadyElyssa/Guild Missions/Treks/SkalefoundCove.trl"/>
+		<POI MapID="22" xpos="913.725" ypos="7.4422" zpos="-565.779"      type="legs.guild.trek.set.sign" GUID="pDp8eFotfk2yVLf6jCm7zQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkalefoundCove.png"/>
+		<POI MapID="22" xpos="909.199" ypos="7.50425" zpos="-570.941"     type="legs.guild.trek.set.mount.raptor" GUID="8psTeUa8NkWGAB8I7O1+KA=="/>
+		<POI MapID="22" xpos="693.018" ypos="1.87962" zpos="-679.984"     type="legs.guild.trek.set.sign" GUID="tcEdHskSyEicrQ9tRidc3A==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkalefoundCove.png"/>
+		<POI MapID="22" xpos="589.717" ypos="-0.583563" zpos="-666.029"   type="legs.guild.trek.set.mount.skimmer" GUID="9AXf/J2ZN06Dk/vHDdZd5w=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.skalesplash.timberline"  trailData="Data/LadyElyssa/Guild Missions/Treks/SkalesplashFalls.trl"/>
+		<POI MapID="29" xpos="532.114" ypos="1.83221" zpos="-521.034"     type="legs.guild.trek.set.sign" GUID="VInsuTefZEed1SR6doFtvg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkalesplashFalls.png"/>
+		<POI MapID="29" xpos="520.943" ypos="-0.00708144" zpos="-524.229" type="legs.guild.trek.set.mount.skimmer" GUID="elnc3ZTRS0Oa5TeGW9QkOQ=="/>
+		<POI MapID="29" xpos="414.958" ypos="1.37639" zpos="-591.283"     type="legs.guild.trek.set.mount.skimmer.dive" GUID="UmFrwTw9dEGCBzhCgQatCg=="/>
+		<POI MapID="29" xpos="336.089" ypos="-37.1026" zpos="-777.787"    type="legs.guild.trek.set.sign" GUID="VcDp3CsGVUq6+fU8C1Z1Sw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkalesplashFalls.png"/>
+		<POI MapID="29" xpos="328.618" ypos="-34.0309" zpos="-778.472"    type="legs.guild.trek.set.mount.skimmer" GUID="prUXhTR5fUmAvsiyqtsU0Q=="/>
+		<Trail type="legs.guild.trek.ascalon.skalestash.ashford"          trailData="Data/LadyElyssa/Guild Missions/Treks/SkalestashHideaway.trl"/>
+		<POI MapID="19" xpos="-1082.38" ypos="56.2683" zpos="490.505"     GUID="0EK9lJtv80yRmNL5mCSW/g==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkalestashHideaway.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.skelknest.frostgorge"    trailData="Data/LadyElyssa/Guild Missions/Treks/SkelknestBorehole.trl"/>
+		<POI MapID="30" xpos="118.772" ypos="37.6705" zpos="351.81"       GUID="EhudZWkhAUm3x+nIHBdivQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkelknestBorehole.png"/>
+		<POI MapID="30" xpos="116.527" ypos="5.56838" zpos="562.242"      GUID="GZH1YiDlMkqWnf841JoA/Q==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkelknestBorehole.png"/>
+		<POI MapID="30" xpos="117.844" ypos="5.61514" zpos="560.749"      GUID="bgIPtdvzrke1cU7nU0kBsQ==" type="legs.guild.trek.set.mount.skimmer"/>
+		<POI MapID="30" xpos="150.565" ypos="1.73762" zpos="484.871"      GUID="6Ufb2O9R9EONdQsQnCjf0Q==" type="legs.guild.trek.set.mount.jackal"/>
+		<POI MapID="30" xpos="142.021" ypos="37.8073" zpos="303.638"      GUID="2oTVLx/0VEKz6CajVS7D0w==" type="legs.guild.trek.set.mount.springer"/>
+		<POI MapID="30" xpos="155.862" ypos="39.7539" zpos="313.622"      GUID="LwBHgWE9wUGwZVZ4kxTzOw==" type="legs.guild.trek.set.mount.springer"/>
+		<POI MapID="30" xpos="131.565" ypos="-1.09296" zpos="134.498"     GUID="wP0PaswcfEyRgHBSseBmfw==" type="legs.guild.trek.set.mount.skimmer"/>
+		<Trail type="legs.guild.trek.maguuma.skibohall.rata"              trailData="Data/LadyElyssa/Guild Missions/Treks/SkiboHallDormitory.trl"/>
+		<POI MapID="139" xpos="54.0007" ypos="339.411" zpos="80.5839"     GUID="40shc0lGC0yoo75BctEazA=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkiboHallDormitory.png"/>
+		<Trail type="legs.guild.trek.kryta.skyshine.harathi"              trailData="Data/LadyElyssa/Guild Missions/Treks/SkyshineScratch.trl"/>
+		<POI MapID="17" xpos="796.415" ypos="45.9596" zpos="-418.003"     type="legs.guild.trek.set.sign" GUID="PMqfb62D9U+qCzYUfQmeCQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SkyshineScratch.png"/>
+		<POI MapID="17" xpos="798.857" ypos="44.4743" zpos="-412.138"     type="legs.guild.trek.set.mount.raptor" GUID="R1ymYUdbrECbkRlh97Zt0g=="/>
+		<POI MapID="17" xpos="838.479" ypos="69.4467" zpos="-143.334"     type="legs.guild.trek.set.mount.springer" GUID="aCAyuy1O90ybjQA2YtexjA=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.snowden.snowden"         trailData="Data/LadyElyssa/Guild Missions/Treks/SnowdenSafehouse.trl"/>
+		<POI MapID="31" xpos="-327.71" ypos="46.6904" zpos="-67.6555"     type="legs.guild.trek.set.sign" GUID="RkmiPzMYyEOeez9Gd+Xt1w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SnowdenSafehouse.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.snowhowl.snowden"        trailData="Data/LadyElyssa/Guild Missions/Treks/SnowhowlDen.trl"/>
+		<POI MapID="31" xpos="717.426" ypos="52.4821" zpos="66.8026"      type="legs.guild.trek.set.sign" GUID="AePB07yNmEyMD4uQ4HpYHg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SnowhowlDen.png"/>
+		<Trail type="legs.guild.trek.maguuma.soggorsort.caledon"          trailData="Data/LadyElyssa/Guild Missions/Treks/SoggorsortRotunda.trl"/>
+		<POI MapID="34" xpos="360.495" ypos="16.5974" zpos="245.935"      GUID="pM/O1fREg02USvKYE2a5tQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SoggorsortRotunda.png"/>
+		<Trail type="legs.guild.trek.maguuma.sorendraa"                   trailData="Data/LadyElyssa/Guild Missions/Treks/SorenDraaRestStop.trl"/>
+		<POI MapID="35" xpos="-477.564" ypos="47.2882" zpos="-731.208"    GUID="zfxWyR4M9k2ZahaXQgdMBg==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SorenDraaRestStop.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.source.frostgorge"       trailData="Data/LadyElyssa/Guild Missions/Treks/SourceofLament.trl"/>
+		<POI MapID="30" xpos="-217.053" ypos="45.9247" zpos="-532.033"    type="legs.guild.trek.set.sign" GUID="s8n/8SGPAUqZ7FQYDHQ2mg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SourceofLament.png"/>
+		<POI MapID="30" xpos="-171.988" ypos="44.725" zpos="-530.328"     type="legs.guild.trek.set.mount.springer" GUID="nMCcomaqyUO6zAzTXze45A=="/>
+		<Trail type="legs.guild.trek.ascalon.sparwinds.blackcitadel"      trailData="Data/LadyElyssa/Guild Missions/Treks/SparwindsLounge.trl"/>
+		<POI MapID="218" xpos="4.38937" ypos="214.086" zpos="201.624"     GUID="MJsb/VG+i0Oe2UWOdOm0Yg=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SparwindsLounge.png"/>
+		<Trail type="legs.guild.trek.orr.spectrehaunt.malchors"           trailData="Data/LadyElyssa/Guild Missions/Treks/SpectrehauntSocket.trl"/>
+		<POI MapID="65" xpos="-35.0681" ypos="36.7158" zpos="33.9423"     GUID="lDY0+yDR6EWzchnRlWaLEw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SpectrehauntSocket.png"/>
+		<POI MapID="65" xpos="-179.18" ypos="105.286" zpos="-72.7887"     GUID="yWJVHlJEvkiYEe44AcoD+Q==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SpectrehauntSocket.png"/>
+		<POI MapID="65" xpos="-141.899" ypos="46.1733" zpos="88.6643"     GUID="GdIv1ADjtEW0VFw8m1vzRw==" type="legs.guild.trek.set.mount.skyscale"/>
+		<POI MapID="65" xpos="-167.771" ypos="105.309" zpos="2.88841"     GUID="DUvUmBkplU+9VAmCWyB3Hg==" type="legs.guild.trek.set.mount.springer"/>
+		<Trail type="legs.guild.trek.shiverpeaks.steamscrap.lornars"      trailData="Data/LadyElyssa/Guild Missions/Treks/SteamscrapOverlook.trl"/>
+		<POI MapID="27" xpos="441.526" ypos="164.286" zpos="321.62"       type="legs.guild.trek.set.sign" GUID="VrUdhpjoSUSUIlHOTtMaGQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SteamscrapOverlook.png"/>
+		<Trail type="legs.guild.trek.kryta.steampipe.southsun"            trailData="Data/LadyElyssa/Guild Missions/Treks/SteampipePerch.trl"/>
+		<POI MapID="873" xpos="-6.69072" ypos="0.701504" zpos="352.467"   type="legs.guild.trek.set.sign" GUID="PzSV6b9Epk25pQUd9alnJg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SteampipePerch.png"/>
+		<POI MapID="873" xpos="181.455" ypos="40.477" zpos="70.4618"      type="legs.guild.trek.set.mount.skyscale" GUID="MlSGXzbf9k2OfkHBi6CZpg=="/>
+		<Trail type="legs.guild.trek.kryta.steamy.southsun"               trailData="Data/LadyElyssa/Guild Missions/Treks/SteamySteps.trl"/>
+		<POI MapID="873" xpos="-11.1511" ypos="0.781978" zpos="343.943"   type="legs.guild.trek.set.sign" GUID="554D7bx2MU21xrbsvOnfEw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SteamySteps.png"/>
+
+		<Trail type="legs.guild.trek.ascalon.steelbands.blazeridge"       trailData="Data/LadyElyssa/Guild Missions/Treks/SteelbandsTunnel.trl"/>
+		<POI MapID="20" xpos="-285.094" ypos="16.7477" zpos="-976.791"    type="legs.guild.trek.set.sign" GUID="Fm88LB3+fkOkS0OKseYbJQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/SteelbandsTunnel.png"/>
+
+		<Trail type="legs.guild.trek.orr.stentor.straits"                 trailData="Data/LadyElyssa/Guild Missions/Treks/Stentor.trl"/>
+		<POI MapID="51" xpos="125.974" ypos="5.91388" zpos="687.049"      type="legs.guild.trek.set.sign" GUID="WocyXlcA50GXZgH/grnYSQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/StentorShelter.png"/>
+
+		<Trail type="legs.guild.trek.orr.tactical.cs"                     trailData="Data/LadyElyssa/Guild Missions/Treks/TacticalRetreat.trl"/>
+		<POI MapID="62" xpos="433.317" ypos="18.0641" zpos="-1049"        type="legs.guild.trek.set.sign" GUID="Fzra2YwWckmy1pXXzm+DzQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TacticalRetreat.png"/>
+
+
+		<Trail type="legs.guild.trek.kryta.stonebore.gendarran"           trailData="Data/LadyElyssa/Guild Missions/Treks/StoneboreSpiderhole.trl"/>
+		<POI MapID="24" xpos="-930.939" ypos="9.80165" zpos="-23.1875"    GUID="1IHUqVQhUUCoAXdpF8Ue8A==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/StoneboreSpiderhole.png"/>
+		<POI MapID="24" xpos="-1102.28" ypos="8.90152" zpos="-435.303"    GUID="jYtKAskOjkSlQnCdMpheVQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/StoneboreSpiderhole.png"/>
+		<Trail type="legs.guild.trek.ascalon.strongpaws.diessa"           trailData="Data/LadyElyssa/Guild Missions/Treks/StrongpawsGarden.trl"/>
+		<POI MapID="32" xpos="-220.014" ypos="39.6973" zpos="-477.336"    type="legs.guild.trek.set.sign" GUID="5ukjwtA9ykerqC9vDGOx9w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/StrongpawsGarden.png"/>
+		<POI MapID="32" xpos="-368.732" ypos="41.311" zpos="-185.956"     type="legs.guild.trek.set.sign" GUID="KBbq/nZbFEyf5Y3zSQjt8Q==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/StrongpawsGarden.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.talus.timberline"        trailData="Data/LadyElyssa/Guild Missions/Treks/TalusSteps.trl"/>
+		<POI MapID="29" xpos="-365.445" ypos="0.857448" zpos="-801.882"   type="legs.guild.trek.set.sign" GUID="LPhvmfXzcU+5ATal9lIvhg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TalusSteps.png"/>
+		<Trail type="legs.guild.trek.ascalon.tarstar.fireheart"           trailData="Data/LadyElyssa/Guild Missions/Treks/TarstarCopse.trl"/>
+		<POI MapID="22" xpos="-661.6" ypos="44.4649" zpos="-463.055"      type="legs.guild.trek.set.sign" GUID="EmPPCRzidESCwGlBk0hLYQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TarstarCopse.png"/>
+		<Trail type="legs.guild.trek.maguuma.tekkis.brisban"              trailData="Data/LadyElyssa/Guild Missions/Treks/TekkisDrawingBoard.trl"/>
+		<POI MapID="54" xpos="-188.037" ypos="14.4197" zpos="-171.166"    GUID="iTaxS0W/Ck+Zvt3bOf3yjw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TekkisDrawingBoard.png"/>
+		<Trail type="legs.guild.trek.maguuma.thaumanova.metrica"          trailData="Data/LadyElyssa/Guild Missions/Treks/ThaumanovaSpillway.trl"/>
+		<POI MapID="35" xpos="-87.9749" ypos="26.1611" zpos="896.967"     type="legs.guild.trek.set.sign" GUID="OHz0Xrvc4k6V3wC2GiFJDg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ThaumanovaSpillway.png"/>
+		<POI MapID="35" xpos="-70.5297" ypos="29.002" zpos="897.382"      type="legs.guild.trek.set.mount.raptor" GUID="lLGtv1ScmU2uBzWYL2vuIQ=="/>
+		<Trail type="legs.guild.trek.kryta.karka.southsun"                trailData="Data/LadyElyssa/Guild Missions/Treks/TheKarkaKlub.trl"/>
+		<POI MapID="873" xpos="632.07" ypos="30.1943" zpos="-356.517"     type="legs.guild.trek.set.sign" GUID="G2Fl7pRqMUakZzWCNGC9bw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TheKarkaKlub.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.peoples"                 trailData="Data/LadyElyssa/Guild Missions/Treks/ThePeoplesDeadlock.trl"/>
+		<POI MapID="30" xpos="-704.591" ypos="45.3442" zpos="-881.94"     type="legs.guild.trek.set.sign" GUID="wBXNE9P2oEuAFKTwr5nx0Q==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ThePeoplesDeadlock.png"/>
+		<POI MapID="30" xpos="-661.875" ypos="34.5191" zpos="-814.51"     type="legs.guild.trek.set.mount.skyscale" GUID="10ZZx0aiYUeHYYPuxfjyCA=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.workers.dredgehaunt"     trailData="Data/LadyElyssa/Guild Missions/Treks/TheWorkersStores.trl"/>
+		<Trail type="legs.guild.trek.set.colour.cyan"                     trailData="Data/LadyElyssa/Guild Missions/Treks/TheWorkersStores-Mount.trl"/>
+		<POI MapID="26" xpos="47.5842" ypos="119.568" zpos="-278.884"     GUID="Mx9tPrY070OzDobC9zM/Aw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TheWorkersStores.png"/>
+		<POI MapID="26" xpos="-84.4212" ypos="115.02" zpos="-127.683"     GUID="V06+Ni4hfEOEZ3GilE+ifg==" type="legs.guild.trek.set.mount.springer"/>
+		<Trail type="legs.guild.trek.kryta.togatl.kessex"                 trailData="Data/LadyElyssa/Guild Missions/Treks/TogatlShore.trl"/>
+		<POI MapID="23" xpos="-373.386" ypos="0.481154" zpos="-397.505"   GUID="Te75rpdkiECjGhgd+5g27w==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TogatlShore.png"/>
+		<POI MapID="23" xpos="-371.096" ypos="-0.609617" zpos="-392.782"  GUID="CuOrDoHnQEmXhIQg3k05sg==" type="legs.guild.trek.set.mount.skimmer"/>
+		<POI MapID="23" xpos="-252.951" ypos="1.37639" zpos="-200.056"    type="legs.guild.trek.set.mount.skimmer.dive" GUID="wB0Lzes8xE++zffrsJ6jXg=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.tower.dredgehaunt"       trailData="Data/LadyElyssa/Guild Missions/Treks/TowerofTribulation.trl"/>
+		<POI MapID="26" xpos="-509.823" ypos="-0.109022" zpos="-643.931"  type="legs.guild.trek.set.sign" GUID="twF5XHdaRUOLsgzIxs4xfw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TowerofTribulation.png"/>
+		<Trail type="legs.guild.trek.maguuma.toxal.brisban"               trailData="Data/LadyElyssa/Guild Missions/Treks/ToxalSpill.trl"/>
+		<POI MapID="54" xpos="-910.73" ypos="48.583" zpos="-744.099"      GUID="7Vg7a8Eg702VxUVkdDQKSQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ToxalSpill.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.traders.hoelbrak"        trailData="Data/LadyElyssa/Guild Missions/Treks/TradersStash.trl"/>
+		<POI MapID="326" xpos="397.272" ypos="250.845" zpos="-63.1695"    GUID="Iwevp+h7I0KRaOC866jVNg=="  type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TradersStash.png"/>
+		<POI MapID="326" xpos="382.414" ypos="251.676" zpos="-68.5998"    type="legs.guild.trek.set.mount.beetle" GUID="LUh7MWCSDUusYHne8s1QgA=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.trolltrap.lornars"       trailData="Data/LadyElyssa/Guild Missions/Treks/TrolltrapPit.trl"/>
+		<POI MapID="27" xpos="-420.093" ypos="168.936" zpos="492.016"     type="legs.guild.trek.set.sign" GUID="eq8sS3Ft5U6dM0O5cHIfrQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TrolltrapPit.png"/>
+		<Trail type="legs.guild.trek.kryta.turai.dr"                      trailData="Data/LadyElyssa/Guild Missions/Treks/TuraiTavernStillroom.trl"/>
+		<POI MapID="18" xpos="-309.931" ypos="99.1653" zpos="174.573"     GUID="j4NsemShUEW5jDwHa95DYQ=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/TuraiTavernStillroom.png"/>
+		<Trail type="legs.guild.trek.maguuma.ulta.brisban"                trailData="Data/LadyElyssa/Guild Missions/Treks/UltaScraproom.trl"/>
+		<POI MapID="54" xpos="-183.871" ypos="13.0115" zpos="-178.515"    GUID="UcNXeXByjE+FnNCicKlT7w==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/UltaScraproom.png"/>
+		<Trail type="legs.guild.trek.maguuma.unseen.caledon"              trailData="Data/LadyElyssa/Guild Missions/Treks/UnseenScratch.trl"/>
+		<POI MapID="34" xpos="-209.384" ypos="56.1128" zpos="449.534"     GUID="n72JzBjB0U6xpPlU3QW7sw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/UnseenScratch.png"/>
+		<Trail type="legs.guild.trek.orr.upsilon.malchors"                trailData="Data/LadyElyssa/Guild Missions/Treks/UpsilonHyperboloid.trl"/>
+		<POI MapID="65" xpos="1032.93" ypos="7.1135" zpos="74.4089"       type="legs.guild.trek.set.sign" GUID="iFBAFQ6o6UuQRKot7cxmyw==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/UpsilonHyperboloid.png"/>
+		<POI MapID="65" xpos="1049.21" ypos="-0.00176265" zpos="105.846"  type="legs.guild.trek.set.mount.skimmer" GUID="BuLvhKGXYEqcAaplH2XRiw=="/>
+		<Trail type="legs.guild.trek.maguuma.usharrs.sparkfly"            trailData="Data/LadyElyssa/Guild Missions/Treks/UsharrsThreshold.trl"/>
+		<POI MapID="53" xpos="71.6131" ypos="6.81322" zpos="34.4885"      type="legs.guild.trek.set.sign" GUID="alSEg/4Jt0WFJ+3bxAYM8w==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/UsharrsThreshold.png"/>
+		<Trail type="legs.guild.trek.ascalon.vacant.blazeridge"           trailData="Data/LadyElyssa/Guild Missions/Treks/VacantHermitage.trl"/>
+		<POI MapID="20" xpos="-40.8721" ypos="22.3146" zpos="465.57"      type="legs.guild.trek.set.sign" GUID="OuNxMF6gMkaAO09/AwVHDg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/VacantHermitage.png"/>
+		<POI MapID="20" xpos="-39.2778" ypos="22.0356" zpos="469.169"     type="legs.guild.trek.set.mount.skyscale" GUID="uRsS41AZuEirVchSzc+PbA=="/>
+		<Trail type="legs.guild.trek.shiverpeaks.venison.lornars"         trailData="Data/LadyElyssa/Guild Missions/Treks/VenisonHollow.trl"/>
+		<POI MapID="27" xpos="312.386" ypos="87.7399" zpos="-1179.35"     type="legs.guild.trek.set.sign" GUID="gn79HsvDfECDKaHwKzccVQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/VenisonHollow.png"/>
+		<Trail type="legs.guild.trek.orr.verdance.cs"                     trailData="Data/LadyElyssa/Guild Missions/Treks/VerdanceFont.trl"/>
+		<POI MapID="62" xpos="261.504" ypos="30.9246" zpos="150.495"      type="legs.guild.trek.set.sign" GUID="iUIjyc4gvEitVh+xivd/SA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/VerdanceFont.png"/>
+		<POI MapID="62" xpos="34.6474" ypos="1.81833" zpos="291.328"      type="legs.guild.trek.set.sign" GUID="0LDezoTHdkOXqJ3XGTmoEg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/VerdanceFont.png"/>
+		<POI MapID="62" xpos="352.961" ypos="45.0282" zpos="406.799"      type="legs.guild.trek.set.sign" GUID="BzMZ6oceKk+6LBQCa0BEQg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/VerdanceFont.png"/>
+		<Trail type="legs.guild.trek.orr.viziers.straits"                 trailData="Data/LadyElyssa/Guild Missions/Treks/ViziersAnteport.trl"/>
+		<POI MapID="51" xpos="29.005" ypos="1.58539" zpos="-309.287"      type="legs.guild.trek.set.sign" GUID="1kNtjgOUoEeWtxs/4Cqggg==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ViziersAnteport.png"/>
+		<POI MapID="51" xpos="294.41" ypos="0.52149" zpos="-466.105"      type="legs.guild.trek.set.sign" GUID="T4MBpM5N3E+xXtj0NuyVSQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/ViziersAnteport.png"/>
+		<POI MapID="51" xpos="293.858" ypos="-0.86172" zpos="-462.315"    type="legs.guild.trek.set.mount.skimmer" GUID="AlfLxaZGLkmeMkWr8/Lv/A=="/>
+		<Trail type="legs.guild.trek.kryta.wassas.gendarran"              trailData="Data/LadyElyssa/Guild Missions/Treks/WassasTerrace.trl"/>
+		<POI MapID="24" xpos="-956.782" ypos="12.7432" zpos="-309.844"    type="legs.guild.trek.set.sign" GUID="lCPNaNr7oU6nUPturYuOPQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WassasTerrace.png"/>
+		<POI MapID="24" xpos="-981.236" ypos="13.781" zpos="-294.915"     type="legs.guild.trek.set.mount.springer" GUID="xOqoAEijU0atdyxFIbnABw=="/>
+		<Trail type="legs.guild.trek.ascalon.watchpoint.ashford"          trailData="Data/LadyElyssa/Guild Missions/Treks/WatchpointDecimus.trl"/>
+		<POI MapID="19" xpos="-867.761" ypos="45.8247" zpos="-39.2211"    type="legs.guild.trek.set.sign" GUID="QOdotJrhxEOgXSpWT9Xx4g==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WatchpointDecimus.png"/>
+		<POI MapID="19" xpos="-865.638" ypos="27.6105" zpos="-351.213"    GUID="p2jIY32UR0yyBVjP4fh9Ng==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WatchpointDecimus.png"/>
+		<Trail type="legs.guild.trek.ascalon.wheelport.blackcitadel"      trailData="Data/LadyElyssa/Guild Missions/Treks/WheelportPub.trl"/>
+		<POI MapID="218" xpos="389.626" ypos="132.893" zpos="213.314"     GUID="V5VqDstbQk2DmQskqCX2yg=="   type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WheelportPub.png"/>
+		<POI MapID="218" xpos="362.415" ypos="140.423" zpos="70.2118"     type="legs.guild.trek.set.mount.springer" GUID="4QsZLQ2isUumhUi9iVIpdA=="/>
+		<Trail type="legs.guild.trek.maguuma.whitland.maelstrom"          trailData="Data/LadyElyssa/Guild Missions/Treks/WhitlandSinkhole.trl"/>
+		<POI MapID="39" xpos="895.577" ypos="1.29225" zpos="-144.101"     type="legs.guild.trek.set.sign" GUID="6MHXorVpx06c7ggNM9EhLQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WhitlandSinkhole.png"/>
+		<Trail type="legs.guild.trek.maguuma.widds.caledon"               trailData="Data/LadyElyssa/Guild Missions/Treks/WiddsFolly.trl"/>
+		<POI MapID="34" xpos="-81.4277" ypos="3.83713" zpos="18.5695"     GUID="/IMHo8DPaku7Lhp5GRs6Dw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WiddsFolly.png"/>
+		<Trail type="legs.guild.trek.shiverpeaks.wikks.timberline"        trailData="Data/LadyElyssa/Guild Missions/Treks/WikksGate.trl"/>
+		<POI MapID="29" xpos="-426.683" ypos="9.12564" zpos="153.29"      type="legs.guild.trek.set.sign" GUID="naHig86L5kSWbFtxTbkaLA==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WikksGate.png"/>
+		<Trail type="legs.guild.trek.maguuma.wildflame.metrica"           trailData="Data/LadyElyssa/Guild Missions/Treks/WildflameMonitor-Mount.trl"/>
+		<POI MapID="35" xpos="-479.081" ypos="47.3862" zpos="-741.598"    type="legs.guild.trek.set.sign" GUID="V/fWFM7PXUmgQbPHYYCrgQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WildFlameMonitor.png"/>
+		<POI MapID="35" xpos="-470.971" ypos="50.3971" zpos="-786.375"    type="legs.guild.trek.set.mount.springer" GUID="BfenIz2OKU+PVNOHvWzNTg=="/>
+		<Trail type="legs.guild.trek.orr.winterknell.cs"                  trailData="Data/LadyElyssa/Guild Missions/Treks/WinterknellImpasse.trl"/>
+		<POI MapID="62" xpos="178.558" ypos="43.1217" zpos="639.246"      type="legs.guild.trek.set.mount.skyscale" GUID="h1GV1fgE1EiESrIo1VAxIA=="/>
+		<POI MapID="62" xpos="181.689" ypos="42.5754" zpos="639.607"      GUID="BZE9hB2unEaGCGzfuczvBw==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WinterknellImpasse.png"/>
+		<POI MapID="62" xpos="-161.911" ypos="4.23388" zpos="764.733"     GUID="aganUM4LSkaC39w0vT96VQ==" type="legs.guild.trek.set.sign" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WinterknellImpasse.png"/>
+		<Trail type="legs.guild.trek.kryta.wrelks.gendarran"              trailData="Data/LadyElyssa/Guild Missions/Treks/WrelksSalon.trl"/>
+		<POI MapID="24" xpos="671.605" ypos="19.6781" zpos="-81.2289"     type="legs.guild.trek.set.sign" GUID="nO6F4DAqiESCTIyHZNgfiQ==" iconFile="Data/LadyElyssa/Images/GuildMissions/Treks/WrelksSalon.png"/>
+	</POIs>
+</OverlayData>

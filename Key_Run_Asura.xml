@@ -1,0 +1,199 @@
+<OverlayData>
+	<POIs>
+            
+      <!-- TUTORIAL - Lvl 1 - Races -->
+      
+      <!-- Asura -->
+      <Trail type="legs.keys.tutorial.asura"                          trailData="Data/LadyElyssa/Key Run/Tutorial/Asura/Explosive Intellect 1.trl"/>
+      <Trail type="legs.keys.tutorial.asura"                          trailData="Data/LadyElyssa/Key Run/Tutorial/Asura/Explosive Intellect 2.trl"/>
+
+      <!-- Trail for no tomes leveling -->
+      <!--
+      <Trail type="legs.keys.asuralvl.trail"                          trailData="Data/LadyElyssa/Key Run/XP/Asura Adventure Guide.trl" color="B9B992"/>
+		<POI MapID="35" xpos="-382.612" ypos="44.4074" zpos="-749.511"  type="legs.keys.asuralvl.set.scout" GUID="8dH7zbuyKUyXHYc1r9kAng=="/>
+		<POI MapID="35" xpos="-400.172" ypos="43.7384" zpos="-593.143"  type="legs.keys.asuralvl.set.scout" GUID="0Z95SPQGI0u/BCITw6assQ=="/>
+		<POI MapID="35" xpos="28.9384" ypos="23.6217" zpos="-134.835"   type="legs.keys.asuralvl.set.scout" GUID="dnswao0CT0ac+WMhOBbVfQ=="/>
+		<POI MapID="35" xpos="498.939" ypos="4.98078" zpos="-152.799"   type="legs.keys.asuralvl.set.scout" GUID="zUQacoQ2AUiwRyI91FeXWw=="/>
+		<POI MapID="35" xpos="-31.8545" ypos="6.49768" zpos="304.424"   type="legs.keys.asuralvl.set.scout" GUID="GvfbLwmYf0eU6LUw+f3e/w=="/>
+		<POI MapID="35" xpos="165.776" ypos="18.4203" zpos="635.081"    type="legs.keys.asuralvl.set.scout" GUID="lTpY2Ooo8EKS3yMrTGG3HQ=="/>
+      -->
+      
+      <!-- CITY - Asura - Rata Sum -->
+      <Trail type="legs.keys.asura.city.trail"                       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/In to Rata Sum.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+      <POI MapID="35" xpos="-392.036" ypos="44.4233" zpos="-750.08"  type="legs.keys.asura.city.set.sign" GUID="dEbSr/US/kqcevdi8+8tCw=="/>
+      
+      <Trail type="legs.keys.asura.bank.trail"                       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/To the Bank.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+      <POI MapID="139" xpos="132.799" ypos="382.738" zpos="92.981"   type="legs.keys.asura.bank.set.sign" GUID="zYJv/cAXjUKrsKbENAEC8Q=="/>
+      
+
+      <!-- Chapter 1 - Lvl 10 - Mentor -->
+      
+      <POI MapID="139" xpos="47.471" ypos="363.885" zpos="180.345"   type="legs.keys.asura10.synergetics.snaff.set.sign" GUID="rDlH887B/0K6ofuHUEfHyA==" copy="[&BEAAAAA=]" copy-message="Soren Draa Waypoint" triggerrange="2.0"/>
+      
+      <!-- Snaff Prize -->
+      <Trail type="legs.keys.asura10.synergetics.snaff.trail"        trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/The Snaff Prize 1.trl"/>
+      <POI MapID="35" xpos="-478.398" ypos="47.2946" zpos="-732.504" type="legs.keys.asura10.synergetics.snaff.set.sign" GUID="PauHsKSGa0eyIgi7bDXjgA=="/>
+      <Trail type="legs.keys.asura10.synergetics.snaff.trail"        trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/The Snaff Prize 2.trl"/>
+      
+      <!-- Taking Credit Back -->
+      <Trail type="legs.keys.asura10.synergetics.credit.trail"       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Taking Credit Back 1.trl"/>
+      <POI MapID="35" xpos="-307.185" ypos="28.4321" zpos="-696.27"  type="legs.keys.asura10.synergetics.credit.set.sign" GUID="nFAFks2QBUqz2mzSdRDn6A=="/>
+      <Trail type="legs.keys.asura10.synergetics.credit.trail"       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Taking Credit Back 2 Instance.trl"/>
+      <Trail type="legs.keys.asura10.synergetics.credit.trail"       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Taking Credit Back 3 Instance.trl"/>
+      
+      <POI MapID="584" xpos="421.581" ypos="46.4134" zpos="-717.514"   type="legs.keys.asura10.synergetics.credit.set.wp" GUID="bf4vxP9pYEqfTWAtT302KQ==" copy="[&BPcEAAA=]" copy-message="Hydrone Unit Waypoint"/>
+      
+      <!-- A Sparkling Rescue -->
+      <Trail type="legs.keys.asura10.synergetics.rescue.trail"       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/A Sparkling Rescue 1.trl"/>
+      <Trail type="legs.keys.asura10.synergetics.rescue.trail"       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/A Sparkling Rescue 2 Instance.trl"/>
+      <POI MapID="35" xpos="-201.893" ypos="18.6868" zpos="-621.38"  type="legs.keys.asura10.synergetics.rescue.set.sign" GUID="iGzQCly7fU63dG73fNS6sg=="/>
+      <POI MapID="581" xpos="-541.001" ypos="21.8445" zpos="-342.465" type="legs.keys.asura10.synergetics.rescue.set.wp" GUID="rbCqA7hFzkqWFXO+UrFXsA==" info="Varkk betrayed the krewe and tried to kill us. He has to pay." infoRange="5" copy="[&BBMEAAA=]" copy-message="Metrical Court Waypoint"/>
+      
+      <!-- Political Homicide -->
+      <Trail type="legs.keys.asura10.synergetics.homicide.trail"      trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Political Homicide 1.trl"/>
+      <POI MapID="139" xpos="118.495" ypos="385.831" zpos="122.046"   type="legs.keys.asura10.synergetics.homicide.set.sign" GUID="7oFiiFvS9UWeMEgQcnbbfg=="/>
+      <Trail type="legs.keys.asura10.synergetics.homicide.trail"      trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Political Homicide 2.trl"/>
+      <POI MapID="586" xpos="48.4717" ypos="488.132" zpos="156.621"   type="legs.keys.asura10.synergetics.homicide.set.wp" GUID="rBnLfCWvWE2Y2RwUAmtc9g==" copy="[&BPcEAAA=]" copy-message="Hydrone Unit Waypoint"/>
+      
+      <!-- Here, There, Everywhere -->
+      <Trail type="legs.keys.asura10.synergetics.hte.trail"           trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Here There Everywhere 1.trl"/>
+      <Trail type="legs.keys.asura10.synergetics.hte.trail"           trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Here There Everywhere 2 Instance.trl"/>
+      <Trail type="legs.keys.asura10.synergetics.hte.trail"           trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Here There Everywhere 2b Instance.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+      <POI MapID="35" xpos="-197.506" ypos="18.7817" zpos="-620.181"  type="legs.keys.asura10.synergetics.hte.set.sign" GUID="g3sCwYICDUirBfzPlfQVAw=="/>
+      <POI MapID="587" xpos="-197.531" ypos="37.678" zpos="-127.914"  type="legs.keys.asura10.synergetics.hte.set.wp" GUID="gZq/5IFz9ECZkb0nWsIlzw==" copy="[&BBQEAAA=]" copy-message="Magustan Court Waypoint"/>
+      
+
+      <!-- Chapter 2 - lvl 20 - Shadows of the Past -->
+      
+      <!-- Any Sufficiently Advanced Science -->
+
+      <Trail type="legs.keys.asura20.ball.asas.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Any Sufficiently Advanced Science 1.trl"/>
+      <Trail type="legs.keys.asura20.ball.asas.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Any Sufficiently Advanced Science 2 Instance.trl"/>
+      <POI MapID="139" xpos="70.6111" ypos="385.831" zpos="246.384"   type="legs.keys.asura20.ball.asas.set.sign" GUID="RbCggoRMvESieJDhxio77g==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Any Sufficiently Advanced Science.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <POI MapID="620" xpos="-321.267" ypos="79.0662" zpos="53.5144"  type="legs.keys.asura20.ball.asas.set.wp" GUID="F0HHNg1q00qsXRQd7vlzPg==" copy="[&BEMAAAA=]" copy-message="Rana Landing Complex Waypoint"/>
+      <POI MapID="35" xpos="-121.97" ypos="28.0797" zpos="-127.377"   type="legs.keys.asura20.ball.asas.set.sign" GUID="f7imaHs/aUuDNvIkOiLdaQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Any Sufficiently Advanced Science.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>      
+      <Trail type="legs.keys.asura20.ball.asas.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Any Sufficiently Advanced Science 3.trl"/>
+      <Trail type="legs.keys.asura20.ball.asas.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Any Sufficiently Advanced Science 4 Instance.trl"/>
+      
+      <!-- Beta Test -->
+      <Trail type="legs.keys.asura20.ball.beta.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Beta Test 1.trl"/>
+      <Trail type="legs.keys.asura20.ball.beta.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Beta Test 2.trl"/>
+      <Trail type="legs.keys.asura20.ball.beta.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Beta Test 3 Instance.trl"/>
+      <POI MapID="35" xpos="376.405" ypos="15.177" zpos="502.03"      type="legs.keys.asura20.ball.beta.set.sign" GUID="93UisxnaEEKuX3XuvS/7Lg==" />
+      <POI MapID="618" xpos="471.091" ypos="38.279" zpos="-644.255"   type="legs.keys.asura20.ball.beta.set.wp" GUID="4M9JTxtaykuT7+b/SpH7zg==" copy="[&BLQEAAA=]" copy-message="Magicat Court Waypoint"/>
+      <Trail type="legs.keys.asura20.ball.beta.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Beta Test 4 Instance.trl"/>
+      <POI MapID="619" xpos="-522.135" ypos="327.799" zpos="630.718"  type="legs.keys.asura20.ball.beta.set.choice" GUID="yjTYZEYzD0KZ8x7o3AGl5Q==" info="Monkey with the head of the Arcane Council? What's he got that's worth such a risk?&#xA;&#xA;   > True, the council always gets the best gear. Okay, let's &quot;acquireflax
+       Flax's crozier." infoRange="5"/>
+      <POI MapID="619" xpos="-522.135" ypos="327.799" zpos="630.718"  type="legs.keys.asura20.ball.beta.set.wp" GUID="rsI68KhDxkC3ePsAF7TL6g=="  copy="[&BBMEAAA=]" copy-message="Metrical Court Waypoint"/>
+      
+      <!-- Carry A Big Stick -->
+      <Trail type="legs.keys.asura20.ball.carry.trail"                trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Carry A Big Stick 1.trl"/>
+      <Trail type="legs.keys.asura20.ball.carry.trail"                trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Carry A Big Stick 2 Instance.trl"/>
+      <POI MapID="139" xpos="120.302" ypos="385.831" zpos="117.277"   type="legs.keys.asura20.ball.carry.set.sign" GUID="Lo0txMOEYkSE8JbSWb/JKg=="/>
+      <Trail type="legs.keys.asura20.ball.carry.instance"             trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Carry A Big Stick 2 Instance.trl"/>
+      <POI MapID="625" xpos="11.3901" ypos="108.402" zpos="-495.603" type="legs.keys.asura20.ball.carry.set.wp" GUID="rbNxmoNS9Umpd9CjjulS2A==" copy="[&BHUAAAA=]" copy-message="Mrot Boru Waypoint in Brisban Wildlands"/>
+       
+      <!-- Industrial Espionage -->
+      <Trail type="legs.keys.asura20.ball.industrial.trail"           trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Industrial Espionage 1.trl"/>
+      <Trail type="legs.keys.asura20.ball.industrial.trail"           trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Industrial Espionage 2 Instance.trl"/>
+      <POI MapID="54" xpos="253.15" ypos="52.5225" zpos="-633.313" type="legs.keys.asura20.ball.industrial.set.sign" GUID="Fjc/fNuJO0CpgOPyk6IrUw=="/>      
+      
+      <!-- Split Second -->
+      <Trail type="legs.keys.asura20.ball.split.trail"                trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Split Second 1.trl"/>
+      <Trail type="legs.keys.asura20.ball.split.trail"                trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Split Second 1b.trl"/>
+      <Trail type="legs.keys.asura20.ball.split.trail"                trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Split Second 2 Instance.trl"/>
+      <POI MapID="54" xpos="314.162" ypos="26.5555" zpos="-421.959"   type="legs.keys.asura20.ball.split.set.sign" GUID="yT0Mwb5/HkC6NKSNv3wSYQ=="/>
+		<POI MapID="624" xpos="882.632" ypos="39.4879" zpos="543.495"   type="legs.keys.asura20.ball.split.set.wp" GUID="N+nGn09OJE6nchBf4P/v1w==" copy="[&BBQEAAA=]" copy-message="Magustan Court Waypoint"/>
+      <POI MapID="139" xpos="71.1541" ypos="385.835" zpos="244.835"   type="legs.keys.oot.asura.theory.set.sign" GUID="EJaDEUD19EitrbRNhDOoag=="/>
+		<POI MapID="54" xpos="254.174" ypos="52.6114" zpos="-634.428" type="legs.keys.asura20.ball.split.set.sign" GUID="tt8vdpyNwEKARYZaO6l4ZA=="/>
+
+      
+      <!-- TRANSATMOSPHERIC CONVERTER -->
+      
+      <!-- Where Credit Is Due -->
+      <POI MapID="139" xpos="70.6111" ypos="385.831" zpos="246.384"   type="legs.keys.asura20.trans.credit.set.sign" GUID="IPJBwsWvcUeSbZQrpaCMbg=="/>
+      <Trail type="legs.keys.asura20.trans.credit.trail"              trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Where Credit Is Due 1.trl"/>
+      <Trail type="legs.keys.asura20.trans.credit.instance"           trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Where Credit Is Due 2 Instance.trl"/>
+      <POI MapID="139" xpos="-67.9353" ypos="382.714" zpos="117.902"  type="legs.keys.asura20.trans.credit.set.sign" GUID="yjvMs4HKgkyPr5c3LGmgFw=="/>
+      <POI MapID="139" xpos="14.1358" ypos="385.831" zpos="32.7785"   type="legs.keys.asura20.trans.credit.set.wp"   GUID="26UQzyy5NE6Ftlk1QGD3qw==" copy="[&BEMAAAA=]" copy-message="Rana Landing Complex Waypoint"/>
+      <Trail type="legs.keys.asura20.trans.credit.trail"              trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Where Credit Is Due 3.trl"/>
+      <POI MapID="35" xpos="-121.009" ypos="27.9516" zpos="-128.016"  type="legs.keys.asura20.trans.credit.set.sign" GUID="Tp5lDkkQUUufqDrF5rznpg=="/>
+      <Trail type="legs.keys.asura20.trans.credit.trail"              trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Where Credit Is Due 4.trl"/>
+      <Trail type="legs.keys.asura20.trans.credit.trail"              trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Where Credit Is Due 5 Instance.trl"/>
+      
+      <!-- Salt in the Wound -->
+      <Trail type="legs.keys.asura20.trans.salt.trail"                trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Salt in the Wound 1.trl"/>
+      <POI MapID="35" xpos="235.588" ypos="10.8591" zpos="10.8462"    type="legs.keys.asura20.trans.salt.set.sign" GUID="gnIsfo0dJUm6YA6XeZMg4A=="/>
+      <Trail type="legs.keys.asura20.trans.salt.trail"                trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Salt in the Wound 2 Instance.trl"/>
+      <POI MapID="606" xpos="498.742" ypos="66.5453" zpos="919.899"   type="legs.keys.asura20.trans.salt.set.choice" GUID="n28O+4yI1kGw2XhbP4GOrg==" info="I say we invade Kudu's lab head-on. It's the only way we can be sure." infoRange="5"/>
+      
+      <!-- Bad Forecast -->
+      <POI MapID="35" xpos="-498.88" ypos="13.9263" zpos="543.943"    type="legs.keys.asura20.trans.bad.set.sign"   GUID="asi6QtLcREqozs4/KhnvaA=="/>
+      <Trail type="legs.keys.asura20.trans.bad.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Bad Forecast 1.trl"/>
+      <POI MapID="54" xpos="282.335" ypos="74.7608" zpos="-693.083"   type="legs.keys.asura20.trans.bad.set.sign" GUID="s58ammlBGE2ycYO7r5dETQ=="/>
+      <Trail type="legs.keys.asura20.trans.bad.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Bad Forecast 2.trl"/>
+      <Trail type="legs.keys.asura20.trans.bad.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Bad Forecast 3 Instance.trl"/>
+      <POI MapID="622" xpos="125.345" ypos="51.5103" zpos="-320.602"  type="legs.keys.asura20.trans.bad.set.wp" GUID="40kWeAwhCkmhGiySMITdrA==" copy="[&BBMEAAA=]" copy-message="Metrical Court Waypoint"/>
+            
+      <!-- Flash Flood -->
+      <POI MapID="139" xpos="116.988" ypos="385.831" zpos="119.327"   type="legs.keys.asura20.trans.flash.set.sign" GUID="ka7Y7e9ZZ0KCadyS44hUcA=="/>
+      <Trail type="legs.keys.asura20.trans.flash.trail"               trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Flash Flood 1.trl"/>
+      <Trail type="legs.keys.asura20.trans.flash.instance"            trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Flash Flood 2 Instance.trl"/>
+      
+      
+      <!-- Chapter 3 - lvl 30 - The Orders of Tyria-->
+      
+      <Trail type="legs.keys.oot.asura.theory.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/A Bold New Theory 1.trl"/>
+      <Trail type="legs.keys.oot.asura.theory.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/A Bold New Theory 1b.trl"/>
+      <Trail type="legs.keys.oot.asura.theory.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/A Bold New Theory 2 Instance.trl"/>
+      <POI MapID="139" xpos="42.9567" ypos="385.895" zpos="172.241"   type="legs.keys.oot.asura.theory.set.sign" GUID="UwNs6Q99OUaiaZN2nmKLxw=="/>
+      <POI MapID="629" xpos="129.107" ypos="341.0" zpos="181.21"      type="legs.keys.oot.asura.theory.set.sign" GUID="eGrEdqyTWU6oQg9K69ZATw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/OoT 1 - Hazardous Environment.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <POI MapID="629" xpos="129.107" ypos="339.0" zpos="181.21"      type="legs.keys.oot.asura.theory.set.wp" GUID="Y9la/jyXl0y+PNAdu5GKQA==" copy="[&BBQEAAA=]" copy-message="Magustan Court Waypoint"/>
+      <POI MapID="139" xpos="71.7676" ypos="385.831" zpos="248.747"   type="legs.keys.oot.asura.hazard.set.sign" GUID="NX1wWfSCcUOJCzf5vGTEZQ=="/>
+      
+      <!-- Hazardous Environment -->
+      <Trail type="legs.keys.oot.asura.hazard.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Hazardous Environment 1.trl"/>
+      <Trail type="legs.keys.oot.asura.hazard.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Hazardous Environment 2 Instance.trl"/>
+      <POI MapID="636" xpos="78.4559" ypos="240.552" zpos="665.776"   type="legs.keys.oot.asura.city.set.wp" GUID="diOjCkEy80SJ//sW89ucNA==" copy="[&BLQEAAA=]" copy-message="Magicat Court Waypoint"/>
+      <POI MapID="139" xpos="-46.9366" ypos="385.831" zpos="146.879"  type="legs.keys.oot.asura.city.set.sign" GUID="0kfyiEDpW0e/Yy7nu3Meig==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/Applied Development Lab.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <Trail type="legs.keys.oot.asura.hazard.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Hazardous Environment 3.trl"/>
+      <Trail type="legs.keys.oot.asura.hazard.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Hazardous Environment 4 Instance.trl"/>
+      <POI MapID="650" xpos="-462.936" ypos="335.154" zpos="735.396"  type="legs.keys.oot.asura.home.set.sign.one" GUID="GEmslnwxF06BiAiRh9NLBw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/OoT 1 - Protest Too Much.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <POI MapID="650" xpos="-462.936" ypos="333.154" zpos="735.396"  type="legs.keys.oot.asura.home.set.wp" GUID="Gnq3c076VkKjMuBNwzS/bg==" copy="[&BHUAAAA=]" copy-message="Mrot Boru Waypoint in Brisban Wildlands"/>
+      
+      <!-- Protest -->
+      <Trail type="legs.keys.oot.asura.protest.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Protest Too Much 1.trl"/>
+      <POI MapID="54" xpos="254.681" ypos="52.7194" zpos="-635.833"   type="legs.keys.oot.asura.protest.set.sign" GUID="BtlrUFZsnEiMpZf7b4AIIg=="/>
+      <Trail type="legs.keys.oot.asura.protest.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Protest Too Much 2.trl"/>
+      <Trail type="legs.keys.oot.asura.protest.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Protest Too Much 3.trl"/>
+      <Trail type="legs.keys.oot.asura.protest.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Protest Too Much 4a Instance.trl"/>
+      <Trail type="legs.keys.oot.asura.protest.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Protest Too Much 4b Instance.trl"/>
+      <POI MapID="676" xpos="1106.7" ypos="47.5216" zpos="-356.825"   type="legs.keys.oot.asura.protest.set.wp" GUID="h1Eh7/KfykW8IumNrVtPfQ==" copy="[&BLQEAAA=]" copy-message="Magicat Court Waypoint"/>
+      
+      <!-- Test Subject -->
+      <POI MapID="650" xpos="-462.0" ypos="335.234" zpos="737.291"    type="legs.keys.oot.asura.test.set.sign" GUID="Mr8BvHFw1kywN3a+OiegEw=="/>
+      <POI MapID="650" xpos="-462.365" ypos="333.234" zpos="737.591"  type="legs.keys.oot.asura.test.set.wp" GUID="7NVusMTpd0iZz+w8iNNVQg==" copy="[&BHUAAAA=]" copy-message="Mrot Boru Waypoint in Brisban Wildlands" triggerrange="1"/>
+      <POI MapID="54" xpos="251.087" ypos="53.339" zpos="-638.051"    type="legs.keys.oot.asura.test.set.sign" GUID="MG21awUGeEibNRH/V7YUGw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/Test Subject.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <Trail type="legs.keys.oot.asura.test.trail"                    trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Test Subject 1.trl"/>
+      <Trail type="legs.keys.oot.asura.test.trail"                    trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/Test Subject 2.trl"/>
+      <POI MapID="644" xpos="-271.409" ypos="17.536" zpos="-108.799"  type="legs.keys.oot.asura.test.set.wp" GUID="DWdCuyJd5ESITbG1GYJ8zA==" copy="[&BLQEAAA=]" copy-message="Magicat Court Waypoint"/>
+      
+      <!-- Meeting of the Minds -->
+      <POI MapID="650" xpos="-461.954" ypos="335.154" zpos="738.497"  type="legs.keys.oot.asura.meeting.set.sign" GUID="R9AngyWyik6w1HgfqcchGA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/OoT 3 - A Meeting of the Minds.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <POI MapID="650" xpos="-462.455" ypos="333.247" zpos="737.532"  type="legs.keys.oot.asura.meeting.set.wp" GUID="WsNCt5KcIkOihWxPKSYShg==" copy="[&BBMEAAA=]" copy-message="Metrical Court Waypoint" triggerrange="1"/>
+      <POI MapID="139" xpos="118.199" ypos="385.831" zpos="117.923"   type="legs.keys.oot.asura.meeting.set.sign" GUID="ZNho7SX/wki0hrCj4H6zPw=="/>
+      <Trail type="legs.keys.oot.asura.meeting.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/A Meeting of the Minds 1.trl"/>
+      <Trail type="legs.keys.oot.asura.meeting.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/A Meeting of the Minds 2 Instance.trl"/>
+      <POI MapID="652" xpos="39.4066" ypos="385.815" zpos="152.874"   type="legs.keys.oot.asura.meeting.set.wp" GUID="h0HpD9JYPUik+xvsJQdzwQ==" copy="[&BBQEAAA=]" copy-message="Magustan Court Waypoint"/>
+      <POI MapID="139" xpos="73.6323" ypos="385.835" zpos="248.212"   type="legs.keys.oot.asura.city.set.sign" GUID="ruU5uepx6UWfcA3G+gwR5Q==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <Trail type="legs.keys.settingthestage.rs"                      trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/To Lion's Arch.trl"/>
+ 
+      
+      <!-- Chapter 4 - lvl 40 -->
+      
+      <!-- To Lion's Arch -->
+      <POI MapID="18" xpos="68.09" ypos="136.418" zpos="0.309386"     type="legs.keys.settingthestage.set.sign" GUID="PsqnhiG/wEOkcGofdfnASQ==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+      <Trail type="legs.keys.settingthestage.rs"                      trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+      
+	</POIs>
+</OverlayData>
