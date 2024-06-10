@@ -169,7 +169,7 @@ Added Trails for Map Mastery Insights for:
 * HoT
 * PoF
 * EoD
-* SotO (Preliminary)
+* SotO
 
 ## Map Enhancements ##
 * Added Jade Bot Terminal locations in Cities
@@ -256,6 +256,22 @@ Added Trails for Map Mastery Insights for:
 
 ## End of Dragons ##
 * Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
+
+## Secrets of the Obscure ##
+Adventures
+* Skywatch Archipelago
+   * Skyscale Target Practice
+* Wizard's Tower
+   * Fly by Night
+   * Gauntlet Challenge / Wizard's Trial
+   * Skyscale Target Practice
+* Amnytas
+   * Supply Run
+   * Skyscale Target Practice
+* Inner Nayos
+   * Free Kryptis Essence
+   * Reuniting Lost Kryptis
+   * Skyscale Target Practice
 
 ### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
