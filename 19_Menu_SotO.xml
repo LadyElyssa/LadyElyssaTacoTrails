@@ -53,6 +53,18 @@
             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
          </MarkerCategory>
+         <MarkerCategory name="inrr" DisplayName="Recon Run">
+            <MarkerCategory name="mount"           DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+						<MarkerCategory name="beetle"       DisplayName="Beetle"          iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+						<MarkerCategory name="jackal"       DisplayName="Jackal"          iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+						<MarkerCategory name="skyscale"     DisplayName="Skyscale"        iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+						<MarkerCategory name="bof"          DisplayName="Bond of Faith"   iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+               </MarkerCategory>
+					<!-- End Mounts -->
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+            <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+            <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+         </MarkerCategory>
          <MarkerCategory name="inrlk" DisplayName="Reuniting Lost Kryptis">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
@@ -149,7 +161,6 @@
 					<!-- End Gliders -->
 				</MarkerCategory>
 				<!-- End Settings -->
-
             <MarkerCategory name="hidden" DisplayName="Great Debate Hall - Workaround" defaulttoggle="0">
 					<MarkerCategory name="mount"           DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
 						<MarkerCategory name="skyscale"     DisplayName="Skyscale"        iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
@@ -157,8 +168,6 @@
 					<!-- End Mounts -->
 				</MarkerCategory>
 				<!-- End Settings -->
-
-            
 			</MarkerCategory>
 			<!-- End -->
          

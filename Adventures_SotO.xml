@@ -158,6 +158,15 @@
       <POI MapID="1526" xpos="322.747" ypos="186.293" zpos="133.642" type="legs.sotoad.infke.sign" GUID="1FhtL+43+kiuc5RWmtIgwg==" iconFile="Data/LadyElyssa/Images/Adventures/Free Kryptis Essence.png" mapDisplaySize="64"/>
       <Trail type="legs.sotoad.infke.trail" trailData="Data/LadyElyssa/SotO/Adventures/IN Free Kryptis Essence.trl" animSpeed="0.5"/>      
       
+      <!-- Recon Run -->
+      <Trail type="legs.sotoad.inrr.to" trailData="Data/LadyElyssa/SotO/Adventures/IN To Recon Run.trl" animSpeed="0.5"/>
+      <POI MapID="1526" xpos="702.492" ypos="216.004" zpos="-427.049" GUID="vSglU5aQIEatyr6AYb8B1w==" iconFile="Data/LadyElyssa/Images/Adventures/Recon Run.png" mapDisplaySize="64"/>
+      <Trail type="legs.sotoad.inrr.trail" trailData="Data/LadyElyssa/SotO/Adventures/IN Recon Run.trl" animSpeed="0.5"/>
+      <POI MapID="1526" xpos="682.382" ypos="223.829" zpos="336.883" type="legs.sotoad.inrr.mount.bof" GUID="uGpFiBOUPkm15ei1h5v0Yg=="/>
+		<POI MapID="1526" xpos="531.057" ypos="269.012" zpos="378.823" type="legs.sotoad.inrr.mount.skyscale" GUID="ZPKHVz/PF0ewjVIoUBkBRQ=="/>
+		<POI MapID="1526" xpos="847.525" ypos="177.672" zpos="80.4601" type="legs.sotoad.inrr.mount.beetle" GUID="lZoRsS6jFECDF/UbawRQlw=="/>
+		<POI MapID="1526" xpos="772.188" ypos="224.855" zpos="429.617" type="legs.sotoad.inrr.mount.jackal" GUID="eJnJtCcVCEmzTAtf/+2JXw=="/>
+      
       <!-- Reuniting Lost Kryptis -->
       
       <Trail type="legs.sotoad.inrlk.to" trailData="Data/LadyElyssa/SotO/Adventures/IN To Reuniting Lost Kryptis.trl" animSpeed="0.5"/>
