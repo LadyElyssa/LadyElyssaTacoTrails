@@ -4,13 +4,14 @@
 
       		<!--  Seitung Province - Basic -->
       
-      		<Trail type="legs.eodmp.sp.set.number.1" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 1.trl" color="00FFFF"/>
+            <Trail type="legs.eodmp.sp.set.number.1" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 1.trl" color="00FFFF"/>
       		<Trail type="legs.eodmp.sp.set.number.2" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 2.trl" color="00FFFF"/>
       		<Trail type="legs.eodmp.sp.set.number.3" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 3.trl" color="00FFFF"/>
       		<Trail type="legs.eodmp.sp.set.number.4" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 4.trl" color="00FFFF"/>
       		<Trail type="legs.eodmp.sp.set.number.5" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 5.trl" color="00FFFF"/>
       		<Trail type="legs.eodmp.sp.set.number.6" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 6.trl" color="00FFFF"/>
-		<POI MapID="1442" xpos="-858.441" ypos="116.03" zpos="-115.563" type="legs.eodmp.sp.set.start" GUID="6c+DxfpE/EeL+QP7yw7Z6w=="/>
+            <Trail type="legs.eodmp.sp.set.number.7" trailData="Data/LadyElyssa/EoD/Map Mastery Points/SP 7.trl" color="00FFFF"/>
+      <POI MapID="1442" xpos="-858.441" ypos="116.03" zpos="-115.563" type="legs.eodmp.sp.set.start" GUID="6c+DxfpE/EeL+QP7yw7Z6w=="/>
 		<POI MapID="1442" xpos="-891.943" ypos="149.749" zpos="-88.6493" type="legs.eodmp.sp.set.mount.springer" GUID="YwLfu9WH30eT64bDj6lnyg=="/>
 		<POI MapID="1442" xpos="-857.704" ypos="115.986" zpos="-119.793" type="legs.eodmp.sp.set.number.2" GUID="1AEYZtVKj0WhA2OBLCUw8A=="/>
 		<POI MapID="1442" xpos="-859.276" ypos="116.769" zpos="-129.501" type="legs.eodmp.sp.set.mount.skyscale" GUID="lawn8bdCeECaKsYdbOJC7w=="/>
@@ -23,20 +24,25 @@
 		<POI MapID="1442" xpos="85.9444" ypos="131.999" zpos="-647.432" type="legs.eodmp.sp.set.glider" GUID="og66PBvLmEKwtDMDxbyZSg=="/>
 		<POI MapID="1442" xpos="172.104" ypos="54.6806" zpos="-526.168" type="legs.eodmp.sp.set.mount.skyscale" GUID="jySl5h3qlUmosqdKnjNHaQ=="/>
 		<POI MapID="1442" xpos="498.252" ypos="24.2519" zpos="-704.995" type="legs.eodmp.sp.set.mount.skimmer" GUID="T/mw89vRpEOYL696vuVCGQ=="/>
-		<POI MapID="1442" xpos="67.6878" ypos="114.296" zpos="248.809" type="legs.eodmp.sp.set.number.4" GUID="zrZJvwLf3Ey7JfDIwsiYig=="/>
+		<POI MapID="1442" xpos="67.6878" ypos="114.296" zpos="248.809" type="legs.eodmp.sp.set.number.5" GUID="zrZJvwLf3Ey7JfDIwsiYig=="/>
 		<POI MapID="1442" xpos="-101.559" ypos="180.715" zpos="242.907" type="legs.eodmp.sp.set.mount.skyscale" GUID="pMOPFDI0ZUmBJceABRXY4g=="/>
-		<POI MapID="1442" xpos="71.0624" ypos="113.876" zpos="251.169" type="legs.eodmp.sp.set.number.5" GUID="GsGdvvZgkE+IZ7BY1FJuUg=="/>
+		<POI MapID="1442" xpos="71.0624" ypos="113.876" zpos="251.169" type="legs.eodmp.sp.set.number.6" GUID="GsGdvvZgkE+IZ7BY1FJuUg=="/>
 		<POI MapID="1442" xpos="285.235" ypos="120.114" zpos="275.888" type="legs.eodmp.sp.set.glider" GUID="5A392tqhrU2WqHZFUnnRmQ=="/>
 		<POI MapID="1442" xpos="829.031" ypos="31.2323" zpos="381.356" type="legs.eodmp.sp.set.mount.skyscale" GUID="FdkVpYNPxkGAuqrTePB1VA=="/>
-		<POI MapID="1442" xpos="343.064" ypos="0.544508" zpos="694.031" type="legs.eodmp.sp.set.number.6" GUID="5DCxD5hTBEaNY6xyAvuIiQ=="/>
+		<POI MapID="1442" xpos="343.064" ypos="0.544508" zpos="694.031" type="legs.eodmp.sp.set.number.7" GUID="5DCxD5hTBEaNY6xyAvuIiQ=="/>
 		<POI MapID="1442" xpos="345.872" ypos="2.02843" zpos="694.993" type="legs.eodmp.sp.set.mount.skimmer" GUID="oCWpG8TtvUSIfg4QYW6HzA=="/>
 		<POI MapID="1442" xpos="619.096" ypos="5.09375" zpos="783.405" type="legs.eodmp.sp.set.mount.springer" GUID="ioMI9FPVy0qI9O1Pe1MJ0w=="/>
+      <POI MapID="1442" xpos="953.388" ypos="38.8584" zpos="-217.406" type="legs.eodmp.sp.set.mount.skyscale" GUID="b+sgNFUnpkabCaJqHMrlLw=="/>
+      <POI MapID="1442" xpos="-81.3487" ypos="14.2251" zpos="-182.626" type="legs.eodmp.sp.set.number.4" GUID="vZWiguM1xEaBUQlLcjvNTw=="/>
+      <POI MapID="1442" xpos="-287.34" ypos="238.978" zpos="200.822" type="legs.eodmp.sp.set.mount.skyscale" GUID="Oulr7n7P2k6hvwJ1EAA+eA=="/>
       		<POI MapID="1442" xpos="-898.423" ypos="241.068" zpos="-3.91418" type="legs.eodmp.sp.set.wp" GUID="tYkKAuMZT0+TMMHQ3bNUtg==" copy="[&BL8MAAA=]" copy-message="Monastery Waypoint"/>
       		<POI MapID="1442" xpos="-458.751" ypos="47.366" zpos="-680.809" type="legs.eodmp.sp.set.wp" GUID="V2AbmYgSkU6UQeU68CrqAg==" copy="[&BJ4MAAA=]" copy-message="Village Waypoint"/>
-      		<POI MapID="1442" xpos="991.176" ypos="-0.0513888" zpos="-582.532" type="legs.eodmp.sp.set.wp" GUID="b5WAUGLsuEyCyoqT3XZw8A==" copy="[&BGUNAAA=]" copy-message="Daigo Ward Waypoint"/>
-      		<POI MapID="1442" xpos="-281.946" ypos="238.597" zpos="199.792" type="legs.eodmp.sp.set.wp" GUID="10ABcCR/I0GUHtI3aBsy2g==" copy="[&BGUNAAA=]" copy-message="Daigo Ward Waypoint"/>
+      		<POI MapID="1442" xpos="1088.97" ypos="107.464" zpos="-169.743" type="legs.eodmp.sp.set.wp" GUID="b5WAUGLsuEyCyoqT3XZw8A==" copy="[&BJ4MAAA=]" copy-message="Village Ward Waypoint"/>
+            <POI MapID="1442" xpos="145.263" ypos="75.3639" zpos="-62.5628" type="legs.eodmp.sp.set.wp" GUID="S6Q080SK6UOvshkF3W/6GQ==" copy="[&BGUNAAA=]" copy-message="Daigo Ward Waypoint"/>
+      		<POI MapID="1442" xpos="-911.103" ypos="216.677" zpos="578.091" type="legs.eodmp.sp.set.wp" GUID="10ABcCR/I0GUHtI3aBsy2g==" copy="[&BGUNAAA=]" copy-message="Daigo Ward Waypoint"/>
       		<POI MapID="1442" xpos="886.524" ypos="109.915" zpos="418.257" type="legs.eodmp.sp.set.wp" GUID="IQrvJeSkREyHiyIbz1Yd1w==" copy="[&BGQNAAA=]" copy-message="Haiju Docks Waypoint"/>
       		<POI MapID="1442" xpos="636.936" ypos="38.137" zpos="796.05" type="legs.eodmp.sp.set.wp" GUID="GbWXI2KAE0G5XmmKTTSidg==" copy="[&BMYMAAA=]" copy-message="Promenade Waypoint"/>
+            
 	      
       		<!--  New Kaineng City - Basic -->
       
