@@ -2849,15 +2849,33 @@
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
 				<MarkerCategory name="blazeridge"      DisplayName="Blazeridge Steppes"/>
          </MarkerCategory>
-			<!--
-			<MarkerCategory name="chaoscrystalcavern" DisplayName="Chaos Crystal Cavern"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="ironmarches"      DisplayName="Iron Marches"/>
-         </MarkerCategory><MarkerCategory name="crimsonplateau" DisplayName="Crimson Plateau"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
-         </MarkerCategory><MarkerCategory name="grendichgamble" DisplayName="Grendich Gamble"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
-         </MarkerCategory><MarkerCategory name="loreclaw" DisplayName="Loreclaw Expanse"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="ashford"      DisplayName="Plains of Ashford"/>
+			<MarkerCategory name="chaoscrystalcavern" DisplayName="Chaos Crystal Cavern">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="ironmarches"      DisplayName="Iron Marches"/>
+         </MarkerCategory>
+         <MarkerCategory name="crimsonplateau" DisplayName="Crimson Plateau">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
+         </MarkerCategory>
+         
+         
+         <MarkerCategory name="grendichgamble" DisplayName="Grendich Gamble">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
+         </MarkerCategory>
+         <!--
+         <MarkerCategory name="loreclaw" DisplayName="Loreclaw Expanse"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="ashford"      DisplayName="Plains of Ashford"/>
          </MarkerCategory><MarkerCategory name="pigironquarry" DisplayName="Pig Iron Quarry"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="fireheart"      DisplayName="Fireheart Rise"/>
-         </MarkerCategory><MarkerCategory name="wallbreachblitz" DisplayName="Wall Breach Blitz"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
          </MarkerCategory>        
 -->
+         <MarkerCategory name="wallbreachblitz" DisplayName="Wall Breach Blitz">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
+         </MarkerCategory>
 			<MarkerCategory name="separatormenu121" IsSeparator="1" DisplayName="KRYTA"/>
 			<MarkerCategory name="notsosecret" DisplayName="Not So Secret">
 				<MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
