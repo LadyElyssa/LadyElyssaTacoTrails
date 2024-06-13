@@ -53,7 +53,7 @@
       <MarkerCategory name="lws5chestrun" DisplayName="Chest Run">
 			<MarkerCategory name="grothmar" DisplayName="Grothmar Valley">
 				<MarkerCategory name="set" DisplayName="Settings">
-					<MarkerCategory name="chest" DisplayName="Charr Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Charr.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="24"/>
+					<MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/Icons/Chest_Charr.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="24"/>
                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
 					<MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
 					<MarkerCategory name="glider"          DisplayName="Glider"          iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -88,7 +88,6 @@
 					<!-- End Numbers -->
 				</MarkerCategory>
 				<!-- End Settings -->
-				<MarkerCategory name="charr" DisplayName="Charr Chests" color="FFCC66"/>
          </MarkerCategory>
 			<!-- End Grothmar -->
 		</MarkerCategory>
