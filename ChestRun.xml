@@ -752,7 +752,30 @@
 		<POI MapID="1271" xpos="808.7" ypos="27.7631" zpos="-486.434" type="legs.lws4chests.sandswept.lostforgotten" GUID="6lanqhgSqEK2zIH6+jXEIw=="/>
 
 		<!-- LWS4 / LIVING WORLD SEASON 5: The Icebrood Saga -->
-		<Trail type="legs.lws5chestrun.grothmar.charr"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies.trl"/>
+      <Trail type="legs.lws5chestrun.grothmar.set.number.1"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies 1.trl" color="FFCC66"/>
+      <Trail type="legs.lws5chestrun.grothmar.set.number.2"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies 2.trl" color="FFCC66"/>
+      <Trail type="legs.lws5chestrun.grothmar.set.number.3"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies 3.trl" color="FFCC66"/>
+      <Trail type="legs.lws5chestrun.grothmar.set.number.4"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies 4.trl" color="FFCC66"/>
+      <Trail type="legs.lws5chestrun.grothmar.set.number.5"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies 5.trl" color="FFCC66"/>
+      <Trail type="legs.lws5chestrun.grothmar.set.number.6"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies 6.trl" color="FFCC66"/>
+      <Trail type="legs.lws5chestrun.grothmar.set.number.7"     trailData="Data/LadyElyssa/LWS5/Grothmar Valley - War Supplies 7.trl" color="FFCC66"/>
+      <POI MapID="1330" xpos="-9.68292" ypos="58.0257" zpos="244.046" type="legs.lws5chestrun.grothmar.set.wp" GUID="25BZCtPmNEmQnSNYyPksQA==" copy="[&BBsMAAA=]" copy-message="Blood Keep Waypoint"/>
+      <POI MapID="1330" xpos="-194.119" ypos="2.14368" zpos="-697.121" type="legs.lws5chestrun.grothmar.set.wp" GUID="CNu1cg94tUCZVxMx50J9eg==" copy="[&BPgLAAA=]" copy-message="Wardowns Waypoint"/>
+      <POI MapID="1330" xpos="454.461" ypos="62.599" zpos="-655.974" type="legs.lws5chestrun.grothmar.set.wp" GUID="hvgTKrfPgE2ZHse67N3p3A==" copy="[&BPgLAAA=]" copy-message="Wardowns Waypoint"/>
+      <POI MapID="1330" xpos="826.6" ypos="68.4441" zpos="-1.34975" type="legs.lws5chestrun.grothmar.set.wp" GUID="hNKw/5fQ+0m0Q5B4wfi00Q==" copy="[&BA4MAAA=]" copy-message="Dalada Forest Waypoint"/>
+      <POI MapID="1330" xpos="611.002" ypos="1.81065" zpos="-114.144" type="legs.lws5chestrun.grothmar.set.wp" GUID="Fj0DiAl+jUm+0KMD7/IvOQ==" copy="[&BA4MAAA=]" copy-message="Dalada Forest Waypoint"/>
+      <POI MapID="1330" xpos="369.729" ypos="82.6671" zpos="430.097" type="legs.lws5chestrun.grothmar.set.wp" GUID="qdVgfFRPJEWnH9OlrVH8Ww==" copy="[&BA4MAAA=]" copy-message="Dalada Forest Waypoint"/>
+      <POI MapID="1330" xpos="369.729" ypos="82.6671" zpos="430.097" type="legs.lws5chestrun.grothmar.set.wp" GUID="qdVgfFRPJEWnH9OlrVH8Ww=="/>
+		<POI MapID="1330" xpos="-320.343" ypos="29.1704" zpos="-269.782" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="Ds8QDJaNKkG0pNbNLF/hEg=="/>
+		<POI MapID="1330" xpos="-458.689" ypos="107.282" zpos="-370.117" type="legs.lws5chestrun.grothmar.set.glider.medium" GUID="7T324O9kZUqg8mWWqIoDRw=="/>
+		<POI MapID="1330" xpos="278.338" ypos="41.725" zpos="-590.148" type="legs.lws4mp.thunderhead.set.mount.springer" GUID="1BVaiNVFZ0O0+ZwNr++GPQ=="/>
+		<POI MapID="1330" xpos="339.581" ypos="52.0874" zpos="-655.732" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="2+6oVCi97UeYO2WBAxXe4A=="/>
+		<POI MapID="1330" xpos="432.592" ypos="45.2666" zpos="-386.111" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="pvDONUBJck68Wtbwd4J0Gg=="/>
+		<POI MapID="1330" xpos="602.014" ypos="78.0857" zpos="-342.196" type="legs.lws5chestrun.grothmar.set.glider.medium" GUID="ZT9QKeEpCUaxecB1/AsCcQ=="/>
+		<POI MapID="1330" xpos="826.913" ypos="11.4202" zpos="-230.879" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="D3m0PYKAQEm/ypqqU/2F1w=="/>
+		<POI MapID="1330" xpos="829.58" ypos="64.9691" zpos="-95.7525" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="0LbxoovwHEOkqjtGp3c/Ug=="/>
+		<POI MapID="1330" xpos="227.9" ypos="46.5278" zpos="-136.906" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="KKd7Jy2TAUGl/9rANfZQZA=="/>
+		<POI MapID="1330" xpos="218.521" ypos="76.2141" zpos="-156.473" type="legs.lws5chestrun.grothmar.set.glider.medium" GUID="iSMZDL/N3kSqbQJM+gbzfw=="/>
 		<POI MapID="1330" xpos="-268.201" ypos="-1.02288" zpos="30.353" type="legs.lws5chestrun.grothmar.set.chest" GUID="8XiLIaLlyEGZUQmBKx50hA=="/>
 		<POI MapID="1330" xpos="-379.88" ypos="1.64859" zpos="57.196" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="N+fxFx30pEK5rlq38ZgEfg=="/>
 		<POI MapID="1330" xpos="-420.817" ypos="8.96372" zpos="130.25" type="legs.lws5chestrun.grothmar.set.chest" GUID="U0A8PLHpvUm3SEc8lxGRPg=="/>
@@ -792,15 +815,16 @@
 		<POI MapID="1330" xpos="-306.181" ypos="29.6594" zpos="-43.5524" type="legs.lws5chestrun.grothmar.set.number.2" GUID="8DP3P7YSWEeuepGeix0vZg=="/>
       <POI MapID="1330" xpos="221.817" ypos="30.0456" zpos="-506.464" type="legs.lws5chestrun.grothmar.set.number.3" GUID="Cbt3uplOZkKY8zAvVTCVuQ=="/>
 		<POI MapID="1330" xpos="223.1" ypos="31.1428" zpos="-502.562" type="legs.lws5chestrun.grothmar.set.number.4" GUID="U5eyNsgHdE+zGwgIJdvhsA=="/>
-		<POI MapID="1330" xpos="482.762" ypos="19.4257" zpos="161.308" type="legs.lws5chestrun.grothmar.set.number.5" GUID="+fJRZP9P10qLkG9/SIecLA=="/>
+		<POI MapID="1330" xpos="483.543" ypos="19.5638" zpos="162.044" type="legs.lws5chestrun.grothmar.set.number.5" GUID="+fJRZP9P10qLkG9/SIecLA=="/>
 		<POI MapID="1330" xpos="485.379" ypos="18.9749" zpos="170.79" type="legs.lws5chestrun.grothmar.set.number.6" GUID="XYZPhR2Rd0u/EO/wRoPj8g=="/>
 		<POI MapID="1330" xpos="489.512" ypos="19.4934" zpos="168.83" type="legs.lws5chestrun.grothmar.set.number.7" GUID="v/Ysv8Hsk0e3NqVuPxCQ9w=="/>
 		<POI MapID="1330" xpos="828.012" ypos="11.2789" zpos="-232.239" type="legs.lws5mp.grothmar.set.mount.skyscale" GUID="RKK8SjMq2EKDNV07+Hwuzw=="/>
 		<POI MapID="1330" xpos="841.551" ypos="64.9601" zpos="-83.8002" type="legs.lws5mp.grothmar.set.mount.skyscale" GUID="TKJzc/aeqEO9CtC1y3xXeA=="/>
-		<!--
-   	<Trail type="legs.chestrun.chests.bjora"    trailData="Data/LadyElyssa/LWS5/LWS5 - Bjora Marches Full Map Chest Run with Puzzles.trl"/>
--->
+      <POI MapID="1330" xpos="-291.164" ypos="29.4376" zpos="3.53498" type="legs.lws5chestrun.grothmar.set.glider.medium" GUID="entfQmeGkkG+6J2Lmxd0Gw=="/>
+		<POI MapID="1330" xpos="-419.471" ypos="8.95419" zpos="131.66" type="legs.lws5chestrun.grothmar.set.mount.skyscale" GUID="6jrA31Wr1ESdUiKGCUf93g=="/>
+      
 		<!-- Raven Puzzle - Labyrinth -->
+      
 		<Trail type="legs.bjora.raven.labyrinth"         trailData="Data/LadyElyssa/LWS5/Raven Mystery of the Labyrinth.trl"/>
 		<POI MapID="1343" xpos="1262.49" ypos="51.7179" zpos="585.609"     type="legs.bjora.raven.set.essence.blue" GUID="UsUYRcJddUm9CC4eBOqPgQ=="/>
 		<POI MapID="1343" xpos="1343.46" ypos="54.4544" zpos="601.615"     type="legs.bjora.raven.set.glider.medium" GUID="9I9CbGQRbUizHzr9v0v/ww=="/>
@@ -809,7 +833,9 @@
 		<POI MapID="1343" xpos="1344.83" ypos="34.8147" zpos="497.857"     type="legs.bjora.raven.set.norn" GUID="dWgS8uZ/FU+oMaebPfZSFg=="/>
 		<POI MapID="1343" xpos="1343.66" ypos="53.8519" zpos="567.741"     type="legs.bjora.raven.set.glider.medium" GUID="NqENaYiBokutmKs0oXE3ZQ=="/>
 		<POI MapID="1343" xpos="1316.93" ypos="54.919" zpos="564.616"      type="legs.bjora.raven.set.norn" GUID="x1mP2aodskuSjoy/WyEQeg=="/>
-		<!-- Raven Puzzle - Raven Gate Ruins -->
+		
+      <!-- Raven Puzzle - Raven Gate Ruins -->
+      
 		<Trail type="legs.bjora.raven.ruins"         trailData="Data/LadyElyssa/LWS5/Raven Mystery of the Raven Gate Ruins.trl"/>
 		<POI MapID="1343" xpos="-744.091" ypos="150.466" zpos="668.981"    type="legs.bjora.raven.set.glider.medium" GUID="nKXdHykeS06kP0/DZ/Kf3w=="/>
 		<POI MapID="1343" xpos="-824.841" ypos="149.941" zpos="607.799"    type="legs.bjora.raven.set.glider.medium" GUID="L5rBY5ELEEyW1KQ3sBWSkw=="/>
@@ -821,7 +847,9 @@
 		<POI MapID="1343" xpos="-677.559" ypos="161.112" zpos="593.016"    type="legs.bjora.raven.set.norn" GUID="SzLo+KmPLEaKD6n4mCQ8Kw=="/>
 		<POI MapID="1343" xpos="-705.075" ypos="150.074" zpos="589.713"    type="legs.bjora.raven.set.norn" GUID="7c5z2WGZZE2AhVW71dZIsw=="/>
 		<POI MapID="1343" xpos="-779.281" ypos="146.474" zpos="610.498"    type="legs.bjora.raven.set.norn" GUID="1L2WS42qcU+0h9AWY3tPEA=="/>
-		<!-- Raven Puzzle - Tower -->
+		
+      <!-- Raven Puzzle - Tower -->
+      
 		<Trail type="legs.bjora.raven.tower"         trailData="Data/LadyElyssa/LWS5/Raven Mystery of the Hidden Tower Main Floor.trl"/>
 		<POI MapID="1343" xpos="-60.2274" ypos="92.6551" zpos="-517.18"    type="legs.bjora.raven.set.glider.medium" GUID="qB02rwYcEkamN4rivO5dzQ=="/>
 		<POI MapID="1343" xpos="-82.9685" ypos="120.74" zpos="-515.972"    type="legs.bjora.raven.set.norn" GUID="mOiusBKZ6kuRqb3fX6fDTA=="/>
