@@ -158,6 +158,7 @@
             <MarkerCategory name="glider"          DisplayName="Glider"          iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
 					<MarkerCategory name="medium"          DisplayName="Medium"       iconSize="0.5"/>
             </MarkerCategory>
+            <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Scrap Rifle Field Test.png" mapDisplaySize="76"/>
             <MarkerCategory name="sb" DisplayName="Toggle Shrapnel Blast"  iconFile="Data/LadyElyssa/Images/Adventures/Shrapnel Blast.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
             <MarkerCategory name="sap" DisplayName="Toggle Spray and Pray"  iconFile="Data/LadyElyssa/Images/Adventures/Spray and Pray.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
