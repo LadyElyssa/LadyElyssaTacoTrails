@@ -2867,9 +2867,14 @@
             <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
             <MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
          </MarkerCategory>
+         
+         <MarkerCategory name="loreclaw" DisplayName="Loreclaw Expanse">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="ashford"      DisplayName="Plains of Ashford"/>
+         </MarkerCategory>
          <!--
-         <MarkerCategory name="loreclaw" DisplayName="Loreclaw Expanse"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="ashford"      DisplayName="Plains of Ashford"/>
-         </MarkerCategory><MarkerCategory name="pigironquarry" DisplayName="Pig Iron Quarry"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="fireheart"      DisplayName="Fireheart Rise"/>
+         <MarkerCategory name="pigironquarry" DisplayName="Pig Iron Quarry"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="fireheart"      DisplayName="Fireheart Rise"/>
          </MarkerCategory>        
 -->
          <MarkerCategory name="wallbreachblitz" DisplayName="Wall Breach Blitz">
@@ -3050,7 +3055,8 @@
 				<!-- End Settings -->
 				<MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
-				<MarkerCategory name="draconis"      DisplayName="Draconis Mons" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"></MarkerCategory>
+				<MarkerCategory name="draconis"      DisplayName="Draconis Mons" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png">
+            </MarkerCategory>
 				<!-- End Draconis -->
 			</MarkerCategory>
 			<!-- End Searing Ascent -->
