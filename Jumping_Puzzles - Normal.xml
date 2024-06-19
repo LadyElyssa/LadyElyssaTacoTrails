@@ -70,6 +70,14 @@
 		<POI MapID="39" xpos="997.437" ypos="8.7142" zpos="509.652"     type="legs.jp.set.mount.raptor" GUID="vopV3KBsCE66t3sAWGN4iQ=="/>
 		<Trail type="legs.jp.kingjalis.snowden" trailData="Data/LadyElyssa/Jumping Puzzles/King Jalis's Refuge.trl"/>
 		<POI MapID="31" xpos="748.625" ypos="56.7938" zpos="57.0186" type="legs.jp.kingjalis.sign" GUID="fyEJXCDmykiNmL18NzA53Q==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/King Jalis's Refuge.png"/>
+      
+      <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 1.trl"/>
+      <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 1 Alt.trl" fadeNear="900" fadeFar="1400" color="33cccc"/>
+      <POI MapID="19" xpos="773.153" ypos="1.5938" zpos="-460.515" type="legs.jp.loreclaw.sign" GUID="1nl5/4U/EkiGRZuKxHF+dQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Loreclaw Expanse.png"/>
+      <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 2 Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" color="ff9933"/>
+      <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 3 Alt.trl" fadeNear="900" fadeFar="1400" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" color="99cc00"/>
+      <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 4.trl" fadeNear="300" fadeFar="600" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+      
 		<Trail type="legs.jp.notsosecret.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles/Not So Secret.trl"/>
 		<POI MapID="24" xpos="-137.738" ypos="4.83147" zpos="-427.082" type="legs.jp.set.mount.jackal" GUID="4iKI/oeVBEWPJrngWtwL9w=="/>
 		<POI MapID="24" xpos="-134.68" ypos="3.9759" zpos="-434.302" type="legs.jp.notsosecret.sign" GUID="uMRvYtWm70m5TnctxJpyCg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Not So Secret.png"/>
