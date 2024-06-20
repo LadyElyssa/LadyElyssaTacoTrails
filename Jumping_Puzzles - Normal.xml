@@ -47,8 +47,10 @@
       <Trail type="legs.jp.griffonrook.lornars" trailData="Data/LadyElyssa/Jumping Puzzles/Griffonrook Run.trl"/>
 		<POI MapID="27" xpos="-328.528" ypos="34.9211" zpos="-687.743" type="legs.jp.griffonrook.sign" GUID="jlITlg24O0eXZNzvARyDeA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Griffonrook Run.png"/>
 		<POI MapID="27" xpos="-99.3819" ypos="59.7388" zpos="-910.082" type="legs.jp.griffonrook.sign" GUID="rvToNH/HaU2IdYXkxik1Cw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Griffonrook Run.png"/>
+
 		<Trail type="legs.jp.hexfoundry.sparkfly" trailData="Data/LadyElyssa/Jumping Puzzles/Hexfoundry Unhinged.trl"/>
 		<POI MapID="53" xpos="574.518" ypos="32.1182" zpos="-624.328" type="legs.jp.hexfoundry.sign" GUID="FBxYuJcw6kumbd3JrSVoXg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hexfoundry Unhinged.png"/>
+
 		<Trail type="legs.jp.hiddengarden.maelstrom" trailData="Data/LadyElyssa/Jumping Puzzles/Hidden Garden.trl"/>
 		<Trail type="legs.jp.hiddengarden.maelstrom" trailData="Data/LadyElyssa/Jumping Puzzles/Hidden Garden - North.trl"/>
 		<Trail type="legs.jp.hiddengarden.maelstrom" trailData="Data/LadyElyssa/Jumping Puzzles/Hidden Garden - South.trl"/>
@@ -78,27 +80,53 @@
       <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 3 Alt.trl" fadeNear="900" fadeFar="1400" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" color="99cc00"/>
       <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 4.trl" fadeNear="300" fadeFar="600" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
       
+      <Trail type="legs.jp.demongrub.queensdale" trailData="Data/LadyElyssa/Jumping Puzzles/Demongrub Pits.trl"/>
+      <POI MapID="15" xpos="519.405" ypos="4.4819" zpos="-255.631"      type="legs.jp.demongrub.sign" GUID="Q2I6nunSK0KnrGo5cWu0yQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Demongrub Pits.png"/>
+		<POI MapID="15" xpos="782.386" ypos="31.8672" zpos="89.0463"      type="legs.jp.demongrub.sign" GUID="Gtp6BNPwO0OiMXRGeX9+dQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Demongrub Pits.png"/>
+      
+      <Trail type="legs.jp.fawcett.harathi" trailData="Data/LadyElyssa/Jumping Puzzles/Fawcett's Bounty 1.trl"/>
+      <Trail type="legs.jp.fawcett.harathi" trailData="Data/LadyElyssa/Jumping Puzzles/Fawcett's Bounty 2.trl"/>
+      <Trail type="legs.jp.fawcett.harathi" trailData="Data/LadyElyssa/Jumping Puzzles/Fawcett's Bounty 3.trl"/>
+      <POI MapID="17" xpos="-745.921" ypos="34.188" zpos="672.281" type="legs.jp.fawcett.sign" GUID="31GPrrdWu0O1XGNhKxim/g==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Fawcett's Bounty.png"/>
+		<POI MapID="17" xpos="-717.238" ypos="17.3623" zpos="416.591" type="legs.jp.fawcett.sign" GUID="RTyXlygp8UeVW5xD5yVSzw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Fawcett's Bounty.png"/>
+		<POI MapID="17" xpos="-111.084" ypos="60.2737" zpos="696.713" type="legs.jp.fawcett.sign" GUID="g7W6+5yZXkCk6NsSEp+oxA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Fawcett's Bounty.png"/>
+      
 		<Trail type="legs.jp.notsosecret.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles/Not So Secret.trl"/>
-		<POI MapID="24" xpos="-137.738" ypos="4.83147" zpos="-427.082" type="legs.jp.set.mount.jackal" GUID="4iKI/oeVBEWPJrngWtwL9w=="/>
 		<POI MapID="24" xpos="-134.68" ypos="3.9759" zpos="-434.302" type="legs.jp.notsosecret.sign" GUID="uMRvYtWm70m5TnctxJpyCg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Not So Secret.png"/>
 		<Trail type="legs.jp.observatory.kessex" trailData="Data/LadyElyssa/Jumping Puzzles/The Collapsed Observatory.trl"/>
 		<POI MapID="23" xpos="833.002" ypos="82.3299" zpos="-295.646" type="legs.jp.observatory.sign" GUID="zbjMPwX9AEON0i5WPdsvAQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/The Collapsed Observatory.png"/>
 		<Trail type="legs.jp.onlyzuhl.timberline" trailData="Data/LadyElyssa/Jumping Puzzles/Only Zuhl.trl"/>
 		<POI MapID="29" xpos="600.018" ypos="25.82" zpos="560.436" type="legs.jp.onlyzuhl.sign" GUID="/tKDk17h7U+ti9TCNA4iAg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Only Zuhl.png"/>
+      
+      <Trail type="legs.jp.pigironquarry.fireheart" trailData="Data/LadyElyssa/Jumping Puzzles/Pig Iron Quarry 1.trl"/>
+      <POI MapID="22" xpos="435.772" ypos="5.92905" type="legs.jp.pigironquarry.sign" zpos="-428.44" GUID="xO26eMUpR0+zuhQS2nQ6Bw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Pig Iron Quarry.png"/>
+      <Trail type="legs.jp.pigironquarry.fireheart" trailData="Data/LadyElyssa/Jumping Puzzles/Pig Iron Quarry 2.trl" fadeNear="400" fadeFar="800"/>
+      <Trail type="legs.jp.pigironquarry.fireheart" trailData="Data/LadyElyssa/Jumping Puzzles/Pig Iron Quarry 2 Alt.trl" fadeNear="400" fadeFar="800" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+      <Trail type="legs.jp.pigironquarry.fireheart" trailData="Data/LadyElyssa/Jumping Puzzles/Pig Iron Quarry 3.trl" fadeNear="600" fadeFar="1200"/>
+
+      <Trail type="legs.jp.portmatt.bloodtide" trailData="Data/LadyElyssa/Jumping Puzzles/Portmatt.trl"/>      
+      <POI MapID="73" xpos="-256.401" ypos="-51.4432" zpos="694.113" type="legs.jp.portmatt.sign" GUID="WUFriZpDHkmeXmkZHGrFnw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Professor Portmatt's Lab.png"/>
+      
 		<Trail type="legs.jp.retrospectiverunaround.silverwastes" trailData="Data/LadyElyssa/Jumping Puzzles/Retrospective Runaround 1.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png" fadeNear="1500" fadeFar="2000"/>
       <Trail type="legs.jp.retrospectiverunaround.silverwastes" trailData="Data/LadyElyssa/Jumping Puzzles/Retrospective Runaround 2.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png" fadeNear="1200" fadeFar="1600"/>
 		<POI MapID="1015" xpos="359.822" ypos="281.38" zpos="139.287" type="legs.jp.retrospectiverunaround.sign" GUID="7vaB5PevVUeMzBCfZyfaCg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Retrospective Runaround.png"/>
       
-		<!--
-	<Trail type="legs.jp.scavenger6.malchors.six" trailData="Data/LadyElyssa/Jumping Puzzles/Scavenger's Chasm 6.trl"/>
--->
 		<Trail type="legs.jp.scavenger12.malchors" trailData="Data/LadyElyssa/Jumping Puzzles/Scavenger's Chasm.trl"/>
 		<POI MapID="65" xpos="1015.35" ypos="30.7955" zpos="-402.346" type="legs.jp.scavenger12.mount.springer" GUID="dY1YV3J8UkqKl0bWgCjwpQ=="/>
 		<POI MapID="65" xpos="1021.96" ypos="30.3579" zpos="-384.462" type="legs.jp.scavenger12.sign" GUID="4KMy6phey0yxwRAxQw5quA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Scavenger's Chasm.png"/>
 		<Trail type="legs.jp.shamansrookery.wayfarer" trailData="Data/LadyElyssa/Jumping Puzzles/Shaman's Rookery.trl"/>
 		<POI MapID="28" xpos="-317.628" ypos="94.476" zpos="119.216" type="legs.jp.shamansrookery.sign" GUID="aJORvmzlVEqP5DLFy4b83w==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Shaman's Rookery.png"/>
+      
+      <Trail type="legs.jp.skippingstones.southsun" trailData="Data/LadyElyssa/Jumping Puzzles/Skipping Stones 1.trl"/>
+      <POI MapID="873" xpos="1.16266" ypos="0.631255" zpos="341.109" type="legs.jp.skippingstones.sign" GUID="7pBLs3xFZUShQ9Jzilfa2Q==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Skipping Stones.png"/>
+      <Trail type="legs.jp.skippingstones.southsun" trailData="Data/LadyElyssa/Jumping Puzzles/Skipping Stones 2.trl" fadeNear="600" fadeFar="1200"/>
+      <Trail type="legs.jp.skippingstones.southsun" trailData="Data/LadyElyssa/Jumping Puzzles/Skipping Stones 3.trl" fadeNear="600" fadeFar="1200"/>
+      
 		<Trail type="legs.jp.spekks.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spekks's Laboratory.trl"/>
 		<POI MapID="34" xpos="-296.38" ypos="2.94677" zpos="-536.82" type="legs.jp.spekks.sign" GUID="Cc+/UlwNz0+fT4H0URuBZQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spekks's Laboratory.png"/>
+      
+      <Trail type="legs.jp.swashbuckler.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles/Swashbuckler's Cove.trl" fadeNear="800" fadeFar="1200"/>
+      <POI MapID="24" xpos="296.181" ypos="0.265748" zpos="-465.661" type="legs.jp.swashbuckler.sign" GUID="A7fxf/c8bEi7Qn3goDQuEw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Swashbuckler's Cove.png"/>
 		<!--
    	<Trail type="legs.jp.tribulationrift.dredgehaunt" trailData="Data/LadyElyssa/Jumping Puzzles/Tribulation Rift Scaffolding.trl"/>
 -->
