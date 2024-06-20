@@ -2803,37 +2803,11 @@
 			<!-- End Treks -->
 		</MarkerCategory>
 		<!-- End Guild Missions -->
-		<!--  -->
+      
+      
+		<!-- JUMPING PUZZLES -->
+      
 		<MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="0.6" alpha="1" minSize="64" maxSize="96">
-			<MarkerCategory name="set" DisplayName="Settings">
-				<MarkerCategory name="sign" DisplayName="Toggle Jumping Puzzle Name" alpha="1"  iconFile="Data/LadyElyssa/Images/Jumping Puzzles/JP_Map_Icon.png" mapDisplaySize="32"/>
-				<MarkerCategory name="mount"           DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-					<MarkerCategory name="jackal"       DisplayName="Jackal"          iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
-					<MarkerCategory name="raptor"       DisplayName="Raptor"          iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
-						<MarkerCategory name="leap"      DisplayName="Raptor - Leap"   iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
-               </MarkerCategory>
-					<!-- End Raptor   -->
-					<MarkerCategory name="skimmer"      DisplayName="Skimmer"         iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-						<MarkerCategory name="dive"      DisplayName="Skimmer - Dive"  iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
-						<MarkerCategory name="hover"     DisplayName="Skimmer - Hover High"   iconFile="Data/LadyElyssa/Images/Mounts/Skimmer - Hover High.png"/>
-               </MarkerCategory>
-					<!-- End Skimmer   -->
-					<MarkerCategory name="springer"     DisplayName="Springer"        iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-					<MarkerCategory name="skyscale"     DisplayName="Skyscale"        iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-					<MarkerCategory name="dismount"     DisplayName="Dismount"        iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-					<MarkerCategory name="bof"          DisplayName="Bond of Faith"   iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
-					<MarkerCategory name="bov"          DisplayName="Bond of Vigor"   iconFile="Data/LadyElyssa/Images/Mounts/Bond of Vigor.png"/>
-            </MarkerCategory>
-				<!-- End Mounts -->
-				<MarkerCategory name="glider"          DisplayName="Glider"          iconFile="Data/LadyElyssa/Images/Icons/Glider.png" minSize="24" maxSize="32">
-					<MarkerCategory name="small"          DisplayName="Small"         iconSize="0.25"/>
-					<MarkerCategory name="medium"          DisplayName="Medium"       iconSize="0.5"/>
-					<MarkerCategory name="large"          DisplayName="Large"         iconSize="0.75"/>
-					<MarkerCategory name="gliding"          DisplayName="Gliding"     iconFile="Data/LadyElyssa/Images/Icons/Gliding.png"/>
-            </MarkerCategory>
-				<!-- End Gliders -->
-			</MarkerCategory>
-			<!-- End Settings -->
 			<MarkerCategory name="separatormenu111" IsSeparator="1" DisplayName="ASCALON"/>
 			<MarkerCategory name="behem" DisplayName="Behem Gauntlet">
 				<MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -2860,23 +2834,21 @@
             <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
             <MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
          </MarkerCategory>
-         
-         
          <MarkerCategory name="grendichgamble" DisplayName="Grendich Gamble">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
             <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
             <MarkerCategory name="diessa"      DisplayName="Diessa Plateau"/>
          </MarkerCategory>
-         
          <MarkerCategory name="loreclaw" DisplayName="Loreclaw Expanse">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
             <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
             <MarkerCategory name="ashford"      DisplayName="Plains of Ashford"/>
          </MarkerCategory>
-         <!--
-         <MarkerCategory name="pigironquarry" DisplayName="Pig Iron Quarry"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="fireheart"      DisplayName="Fireheart Rise"/>
+         <MarkerCategory name="pigironquarry" DisplayName="Pig Iron Quarry">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="fireheart"      DisplayName="Fireheart Rise"/>
          </MarkerCategory>        
--->
          <MarkerCategory name="wallbreachblitz" DisplayName="Wall Breach Blitz">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
             <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
@@ -2898,16 +2870,42 @@
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
 				<MarkerCategory name="la"      DisplayName="Lion's Arch"/>
          </MarkerCategory>
+         <MarkerCategory name="demongrub" DisplayName="Demongrub Pits">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="queensdale"      DisplayName="Queensdale"/>
+         </MarkerCategory>
+         <MarkerCategory name="fawcett" DisplayName="Fawcett's Bounty">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="harathi"      DisplayName="Harathi Hinterlands"/>
+         </MarkerCategory>
+         <MarkerCategory name="portmatt" DisplayName="Professor Portmatt's Lab">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="bloodtide"      DisplayName="Bloodtide Coast"/>
+         </MarkerCategory>
+         <MarkerCategory name="skippingstones" DisplayName="Skipping Stones">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="southsun"      DisplayName="Southsun Cove"/>
+         </MarkerCategory>
+         <MarkerCategory name="swashbuckler" DisplayName="Swashbuckler's Cove">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="gendarran"      DisplayName="Gendarran Fields"/>
+         </MarkerCategory>
+         
+         <MarkerCategory name="trollsrevenge" DisplayName="Troll's Revenge">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+            <MarkerCategory name="la"      DisplayName="Lion's Arch"/>
+         </MarkerCategory>
 			<!--
-
-			<MarkerCategory name="demongrub" DisplayName="Demongrub Pits"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="queensdale"      DisplayName="Queensdale"/>
-         </MarkerCategory><MarkerCategory name="fawcett" DisplayName="Fawcett's Bounty"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="harathi"      DisplayName="Harathi Hinterlands"/>
-         </MarkerCategory><MarkerCategory name="portmatt" DisplayName="Professor Portmatt's Lab"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="bloodtide"      DisplayName="Bloodtide Coast"/>
-         </MarkerCategory><MarkerCategory name="skippingstones" DisplayName="Skipping Stones"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="southsun"      DisplayName="Southsun Cove"/>
-         </MarkerCategory><MarkerCategory name="swashbuckler" DisplayName="Swashbuckler's Cove"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="gendarran"      DisplayName="Gendarren Fields"/>
-         </MarkerCategory><MarkerCategory name="trollsrevenge" DisplayName="Troll's Revenge"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="la"      DisplayName="Lion's Arch"/>
-         </MarkerCategory><MarkerCategory name="undernewmanagement" DisplayName="Under New Management"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="southsun"      DisplayName="Southsun Cove"/>
-         </MarkerCategory><MarkerCategory name="urmaug" DisplayName="Urmaug's Secret"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="la"      DisplayName="Lion's Arch"/>
+         
+         <MarkerCategory name="undernewmanagement" DisplayName="Under New Management"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="southsun"      DisplayName="Southsun Cove"/>
+         </MarkerCategory>
+         <MarkerCategory name="urmaug" DisplayName="Urmaug's Secret"><MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/><MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/><MarkerCategory name="la"      DisplayName="Lion's Arch"/>
          </MarkerCategory>        
 
 -->
