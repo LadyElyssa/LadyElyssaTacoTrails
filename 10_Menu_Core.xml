@@ -2870,7 +2870,6 @@
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
 				<MarkerCategory name="gendarran"      DisplayName="Gendarran Fields"/>
          </MarkerCategory>
-			
          <MarkerCategory name="portmatt" DisplayName="Professor Portmatt's Lab">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
             <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
@@ -2891,7 +2890,6 @@
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
 				<MarkerCategory name="kessex"      DisplayName="Kessex Hills"/>
          </MarkerCategory>
-			
          <MarkerCategory name="trollsrevenge" DisplayName="Troll's Revenge">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
             <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
@@ -2945,6 +2943,7 @@
          </MarkerCategory>
 			<MarkerCategory name="spekks" DisplayName="Spekks's Laboratory">
 				<MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="marker" DisplayName="Toggle Jump Marker" iconFile="Data/LadyElyssa/Images/Icons/Jumping.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="800" fadeFar="1200"/>
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
 				<MarkerCategory name="caledon"      DisplayName="Caledon Forest"/>
          </MarkerCategory>
@@ -2958,7 +2957,6 @@
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
 				<MarkerCategory name="caledon"      DisplayName="Sparkfly Forest"/>
          </MarkerCategory>
-         
 			<MarkerCategory name="separatormenu141" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
 			<MarkerCategory name="retrospectiverunaround" DisplayName="Retrospective Runaround">
 				<MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -3063,7 +3061,17 @@
          <MarkerCategory name="abaddons" DisplayName="Abaddon's Ascent">
 				<MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
 				<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
-				<MarkerCategory name="sirens"      DisplayName="Siren's Landing" alpha="0.7" FadeNear="900" fadeFar="1800"/>
+				<MarkerCategory name="sirens"       DisplayName="Siren's Landing" alpha="0.7" FadeNear="900" fadeFar="1800"/>
+         </MarkerCategory>
+
+         <MarkerCategory name="chalice" DisplayName="Chalice of Tears">
+            <MarkerCategory name="set" DisplayName="Settings">
+					<MarkerCategory name="glider"          DisplayName="Glider"        iconFile="Data/LadyElyssa/Images/Icons/Glider.png" minSize="16" maxSize="32" fadeNear="300" fadeFar="1000"/>
+				</MarkerCategory>
+				<MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+            <MarkerCategory name="marker" DisplayName="Toggle Jump Marker" iconFile="Data/LadyElyssa/Images/Icons/Jumping.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="800" fadeFar="1200"/>
+				<MarkerCategory name="location"      DisplayName="LOCATION" IsSeparator="1"/>
+				<MarkerCategory name="ember"         DisplayName="Ember Bay" alpha="0.7" FadeNear="900" fadeFar="1800"/>
          </MarkerCategory>
 
 			<MarkerCategory name="searingascent" DisplayName="Searing Ascent">
