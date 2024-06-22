@@ -129,9 +129,6 @@
          </MarkerCategory>
          
          <MarkerCategory name="dr" DisplayName="Drone Race">
-            <MarkerCategory name="glider"          DisplayName="Glider"          iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
-					<MarkerCategory name="medium"          DisplayName="Medium"       iconSize="0.5"/>
-            </MarkerCategory>
             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Drone Race.png" mapDisplaySize="76"/>
             <MarkerCategory name="shield" DisplayName="Toggle Energy Shield"  iconFile="Data/LadyElyssa/Images/Adventures/Energy Shield.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
             <MarkerCategory name="boost" DisplayName="Toggle Boost"  iconFile="Data/LadyElyssa/Images/Adventures/Boost.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
@@ -141,23 +138,18 @@
          </MarkerCategory>
          
          <MarkerCategory name="hpomb" DisplayName="Haywire Punch-o-Matic Battle (WiP)">
-            <MarkerCategory name="glider"          DisplayName="Glider"          iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
-					<MarkerCategory name="medium"          DisplayName="Medium"       iconSize="0.5"/>
-            </MarkerCategory>
             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Haywire Punch-o-Matic Battle.png" mapDisplaySize="76"/>
-            <MarkerCategory name="uppercut" DisplayName="Toggle Uppercut"  iconFile="Data/LadyElyssa/Images/Adventures/Uppercut.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
-            <MarkerCategory name="toot" DisplayName="Toggle The Old One-Two"  iconFile="Data/LadyElyssa/Images/Adventures/The Old One-Two.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
-            <MarkerCategory name="dash" DisplayName="Toggle Dash"  iconFile="Data/LadyElyssa/Images/Adventures/Dash.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
-            <MarkerCategory name="bomb" DisplayName="Toggle Carpet Bomb"  iconFile="Data/LadyElyssa/Images/Adventures/Carpet Bomb.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
-            <MarkerCategory name="rocket" DisplayName="Toggle Vacuum Rocket"  iconFile="Data/LadyElyssa/Images/Adventures/Vacuum Rocket.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="uppercut" DisplayName="Toggle Uppercut"  iconFile="Data/LadyElyssa/Images/Adventures/Uppercut.png" miniMapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="toot" DisplayName="Toggle The Old One-Two"  iconFile="Data/LadyElyssa/Images/Adventures/The Old One-Two.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="dash" DisplayName="Toggle Dash"  iconFile="Data/LadyElyssa/Images/Adventures/Dash.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="bomb" DisplayName="Toggle Carpet Bomb"  iconFile="Data/LadyElyssa/Images/Adventures/Carpet Bomb.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="rocket" DisplayName="Toggle Vacuum Rocket"  iconFile="Data/LadyElyssa/Images/Adventures/Vacuum Rocket.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="target" DisplayName="Toggle Target"  iconFile="Data/LadyElyssa/Images/Adventures/Target.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
          </MarkerCategory>
          
          <MarkerCategory name="srft" DisplayName="Scrap Rifle Field Test">
-            <MarkerCategory name="glider"          DisplayName="Glider"          iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
-					<MarkerCategory name="medium"          DisplayName="Medium"       iconSize="0.5"/>
-            </MarkerCategory>
             <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Scrap Rifle Field Test.png" mapDisplaySize="76"/>
             <MarkerCategory name="sb" DisplayName="Toggle Shrapnel Blast"  iconFile="Data/LadyElyssa/Images/Adventures/Shrapnel Blast.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
