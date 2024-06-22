@@ -1,7 +1,7 @@
 <OverlayData>   
 	<MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
 		<MarkerCategory name="about" DisplayName="About">
-			<MarkerCategory name="version" 	 DisplayName="Version    :: 14.3.1"/>     
+			<MarkerCategory name="version" 	 DisplayName="Version    :: 14.3.2"/>     
          <MarkerCategory name="gw2" 	    DisplayName="GW2       :: Lady Elyssa.2469"/>
 			<MarkerCategory name="github" 	 DisplayName="Github     :: https://github.com/LadyElyssa/"/>
          <MarkerCategory name="wiki"    	 DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/> 
@@ -1869,7 +1869,7 @@
 		<!--  Guild Missions -->
 		<MarkerCategory name="guild" DisplayName="Guild Missions">
 			<!--  Bounties -->
-			<MarkerCategory name="bounty" DisplayName="Bounties" texture="Data/LadyElyssa/Images/Dashed Line.png" animSpeed="0.8" alpha="1"  fadeNear="1200" fadeFar="4000" color="99FF33">
+			<MarkerCategory name="bounty" DisplayName="Bounties" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="1.4" alpha="1"  fadeNear="1200" fadeFar="4000" color="99FF33">
 				<MarkerCategory name="easy"     DisplayName="EASY" IsSeparator="1"/>
 				<MarkerCategory name="brekkabek" DisplayName="Brekkabek">
 					<MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
