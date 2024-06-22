@@ -31,6 +31,8 @@
 		<Trail type="legs.jp.buriedarchives.cursed" trailData="Data/LadyElyssa/Jumping Puzzles/Buried Archives.trl"/>
 		<POI MapID="62" xpos="415.463" ypos="19.5815" zpos="-1086.38" type="legs.jp.buriedarchives.sign" GUID="+G6OiOa9sEOcIh3dClgsvA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Buried Archives.png"/>
       
+      
+      
       <Trail type="legs.jp.chaoscrystalcavern.ironmarches"  trailData="Data/LadyElyssa/Jumping Puzzles/Chaos Crystal Cavern.trl"/>
 		<POI MapID="25" xpos="-414.508" ypos="42.3736" zpos="-911.435"    type="legs.jp.chaoscrystalcavern.sign" GUID="seceKYyVqkCGtFisFv5Wow==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Chaos Crystal Cavern.png"/>
       
@@ -45,6 +47,39 @@
       <POI MapID="32" xpos="275.48" ypos="22.4009" zpos="-512.443" type="legs.jp.crimsonplateau.sign" GUID="h0Z8+pOI802RMeapnnG/qw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Crimson Plateau.png"/>
 		
       <!-- Chalice of Tears -->
+      <Trail type="legs.jp.chalice.ember"  trailData="Data/LadyElyssa/Jumping Puzzles/Chalice of Tears 1.trl"/>
+      <POI MapID="1175" xpos="-622.476" ypos="0.807168" zpos="-511.617" type="legs.jp.chalice.sign" GUID="dU9PiRy/nESY5Ff3oz/vbw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Chalice of Tears.png"/>
+      <Trail type="legs.jp.chalice.ember"  trailData="Data/LadyElyssa/Jumping Puzzles/Chalice of Tears 2.trl"/>
+      <Trail type="legs.jp.chalice.ember"  trailData="Data/LadyElyssa/Jumping Puzzles/Chalice of Tears 3.trl"/>
+      <POI MapID="1175" xpos="-591.171" ypos="150.008" zpos="50.7944" type="legs.jp.chalice.set.glider" GUID="w2kT9eN2vEWX0cKFyfWzLw=="/>
+		<POI MapID="1175" xpos="-555.523" ypos="120.859" zpos="25.8614" type="legs.jp.chalice.set.glider" GUID="inNi028YAEK2mUyvRIY/JA=="/>
+		<POI MapID="1175" xpos="-554.145" ypos="141.418" zpos="-49.9438" type="legs.jp.chalice.set.glider" GUID="4ZH8nwHsA0m19n0odr238A=="/>
+		<POI MapID="1175" xpos="-536.594" ypos="152.842" zpos="-142.493" type="legs.jp.chalice.set.glider" GUID="bZXw8s1ExEe1XKHPzh9j9Q=="/>
+		<POI MapID="1175" xpos="-557.003" ypos="166.025" zpos="-116.935" type="legs.jp.chalice.set.glider" GUID="213gjW6NbUWQrqLSN9q8vQ=="/>
+		<POI MapID="1175" xpos="-520.712" ypos="173.565" zpos="-152.545" type="legs.jp.chalice.set.glider" GUID="zW+h0WLyg0Kky3tVdjJUdA=="/>
+		<POI MapID="1175" xpos="-483.214" ypos="196.288" zpos="-154.524" type="legs.jp.chalice.set.glider" GUID="wuF7IpN6Ckmp81ytbgZzqQ=="/>
+		<POI MapID="1175" xpos="-458.627" ypos="194.556" zpos="-64.9672" type="legs.jp.chalice.set.glider" GUID="qeZiSpZXAEWTzEamAdVEVA=="/>
+		<POI MapID="1175" xpos="-471.172" ypos="194.237" zpos="-51.6921" type="legs.jp.chalice.set.glider" GUID="RBnIPjF/ik6eAXUXxbWQTg=="/>
+		<POI MapID="1175" xpos="-510.928" ypos="191.005" zpos="-47.3307" type="legs.jp.chalice.set.glider" GUID="/4s4cXVtmkSz7bMC7Vj3Rw=="/>
+		<POI MapID="1175" xpos="-528.412" ypos="207.302" zpos="-43.6107" type="legs.jp.chalice.set.glider" GUID="nb3nnX+D/kCqzZ8NFyZBgg=="/>
+		<POI MapID="1175" xpos="-511.086" ypos="206.509" zpos="-153.394" type="legs.jp.chalice.set.glider" GUID="U1vFVe7m8kK+B9ztF+IlKQ=="/>
+		<POI MapID="1175" xpos="-499.693" ypos="215.355" zpos="-197.321" type="legs.jp.chalice.set.glider" GUID="19z+f+tf5EqZltFuhmWJxA=="/>
+		<POI MapID="1175" xpos="-511.249" ypos="221.465" zpos="-164.272" type="legs.jp.chalice.set.glider" GUID="6geZ5oqmukeJLAD4ExXVfw=="/>
+		<POI MapID="1175" xpos="-477.079" ypos="206.359" zpos="-107.267" type="legs.jp.chalice.set.glider" GUID="VeTT6iKRNU+BqnDC/WiNlw=="/>
+		<POI MapID="1175" xpos="-466.362" ypos="206.432" zpos="-92.7793" type="legs.jp.chalice.set.glider" GUID="l8kiM6PQkkKVC9I866JC6Q=="/>
+		<POI MapID="1175" xpos="-473.842" ypos="211.452" zpos="-67.4831" type="legs.jp.chalice.set.glider" GUID="48vbl60BYEGQQU6bSP5T4A=="/>
+		<POI MapID="1175" xpos="-452.994" ypos="232.871" zpos="-49.0088" type="legs.jp.chalice.set.glider" GUID="+z2WS0d99EqLKgbbC7jY4g=="/>
+		<POI MapID="1175" xpos="-454.998" ypos="261.63" zpos="-57.8279" type="legs.jp.chalice.set.glider" GUID="pPELKEX8W0uCFbfQTc1s2A=="/>
+		<POI MapID="1175" xpos="-403.375" ypos="264.856" zpos="-111.391" type="legs.jp.chalice.set.glider" GUID="QS//UoaEuEepIcUwxii7iA=="/>
+		<POI MapID="1175" xpos="-431.53" ypos="263.397" zpos="-85.8207" type="legs.jp.chalice.set.glider" GUID="B+MpRWxNOUumoBt15hBvVA=="/>
+		<POI MapID="1175" xpos="-444.488" ypos="261.053" zpos="-85.6953" type="legs.jp.chalice.set.glider" GUID="FjZ2s897bkyVLHaLj2NqUA=="/>
+		<POI MapID="1175" xpos="-434.996" ypos="275.019" zpos="-81.7762" type="legs.jp.chalice.set.glider" GUID="gVDDSkS4gk2jSaMiNMbJUw=="/>
+		<POI MapID="1175" xpos="-415.414" ypos="273.914" zpos="-109.387" type="legs.jp.chalice.set.glider" GUID="FqCrWrVWwEK9foimnU2l9w=="/>
+		<POI MapID="1175" xpos="-418.931" ypos="279.298" zpos="-110.637" type="legs.jp.chalice.set.glider" GUID="zDJZlj23TU+HJvWm+EUtMg=="/>
+		<POI MapID="1175" xpos="-414.193" ypos="300.4" zpos="-126.065" type="legs.jp.chalice.set.glider" GUID="JJJk14ZsrU6Yfz9/rnWCHw=="/>
+		<POI MapID="1175" xpos="-535.884" ypos="266.624" zpos="-217.15" type="legs.jp.chalice.set.glider" GUID="820oQdx7R0qamwf4X5pmzA=="/>
+      
+      
       
       <Trail type="legs.jp.coddlerscove.timberline" trailData="Data/LadyElyssa/Jumping Puzzles/Coddler's Cove.trl"/>
       <POI MapID="29" xpos="516.731" ypos="0.51998" zpos="-526.836" type="legs.jp.coddlerscove.sign" GUID="BZfChP4amE+u4TmfTb1KhA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Coddler's Cove.png"/>
@@ -73,15 +108,24 @@
 		<POI MapID="29" xpos="311.329" ypos="30.3554" zpos="-908.67" type="legs.jp.coddlerscove.marker" GUID="wCQUmVucpUexBKma38iARA=="/>
 		<POI MapID="29" xpos="307.532" ypos="30.7936" zpos="-907.668" type="legs.jp.coddlerscove.marker" GUID="nx33QuGuq0uGTs3net5yVA=="/>
       
-      <!-- Dark Reverie -->
-      <!-- Morgan's Spiral -->
+      <Trail type="legs.jp.darkreverie.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Dark Reverie 1.trl"/>
+      <POI MapID="34" xpos="438.451" ypos="46.7817" zpos="-610.871" type="legs.jp.darkreverie.sign" GUID="+vNUKGOtgEu0vTwh6683dw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Dark Reverie.png"/>
+      <Trail type="legs.jp.darkreverie.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Dark Reverie 2.trl" fadeNear="300" fadeFar="600"/>
+      
+      <Trail type="legs.jp.morgans.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Morgan's Leap 1.trl"/>
+      <POI MapID="34" xpos="443.165" ypos="13.2476" zpos="-652.315" type="legs.jp.morgans.sign" GUID="mhDbq/XwBE+TI1TX2zzx0A==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Morgan's Leap.png"/>
+      <Trail type="legs.jp.morgans.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Morgan's Leap 2.trl" fadeNear="400" fadeFar="800"/>
       
       <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 1.trl"/>
-      <POI MapID="30" xpos="-293.04" ypos="2.084" zpos="478.432" type="legs.jp.shatterediceruins.sign" GUID="MVmDmpk6w0W9SfnwMuVlew==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Shattered Ice Ruins.png"/>
-      <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 2.trl"/>
+      <POI MapID="30" xpos="-284.926" ypos="1.33754" zpos="488.319" type="legs.jp.shatterediceruins.sign" GUID="6Rnq6M9JcEqdeSyq8/vRoA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Shattered Ice Ruins.png"/>
       
-      <!-- Spelunker's Delve -->
-      <!-- Verarium Delves -->
+      <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 2.trl"/>
+      <Trail type="legs.jp.spelunkers.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spelunker's Delve 1a.trl"/>
+      <POI MapID="34" xpos="308.56" ypos="28.375" zpos="-874.574" type="legs.jp.spelunkers.sign" GUID="viARsn326EqSxZWNRuD26A==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spelunker's Delve.png"/>
+		<POI MapID="34" xpos="-161.181" ypos="4.91833" zpos="-1014.4" type="legs.jp.spelunkers.sign" GUID="+wgOuKPxyk224u/Id/AVGg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spelunker's Delve.png"/>
+      <Trail type="legs.jp.spelunkers.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spelunker's Delve 1b.trl"/>
+      <Trail type="legs.jp.spelunkers.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spelunker's Delve 2.trl" fadeNear="800" fadeFar="1200"/>
+      
       <Trail type="legs.jp.verariumdelves.sparkfly" trailData="Data/LadyElyssa/Jumping Puzzles/Verarium Delves.trl" fadeNear="800" fadeFar="1600"/>
       <POI MapID="53" xpos="-346.899" ypos="22.2787" zpos="528.482" type="legs.jp.verariumdelves.sign" GUID="eKU4iWfJcUmBeAEYfmiqVw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Verarium Delves.png"/>
       
@@ -163,8 +207,69 @@
       <Trail type="legs.jp.skippingstones.southsun" trailData="Data/LadyElyssa/Jumping Puzzles/Skipping Stones 2.trl" fadeNear="600" fadeFar="1200"/>
       <Trail type="legs.jp.skippingstones.southsun" trailData="Data/LadyElyssa/Jumping Puzzles/Skipping Stones 3.trl" fadeNear="600" fadeFar="1200"/>
       
-		<Trail type="legs.jp.spekks.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spekks's Laboratory.trl"/>
-		<POI MapID="34" xpos="-296.38" ypos="2.94677" zpos="-536.82" type="legs.jp.spekks.sign" GUID="Cc+/UlwNz0+fT4H0URuBZQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spekks's Laboratory.png"/>
+		<Trail type="legs.jp.spekks.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spekks's Laboratory 1.trl"/>
+      <Trail type="legs.jp.spekks.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spekks's Laboratory 2.trl" fadenear="900" fadeFar="1200"/>
+		<POI MapID="34" xpos="-296.38" ypos="2.94677" zpos="-536.82" type="legs.jp.spekks.sign" GUID="Cc+/UlwNz0+fT4H0URuBZQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spekks's Laboratory.png" fadeNear="900" fadeFar="1600"/>
+      <POI MapID="34" xpos="-497.507" ypos="13.4097" zpos="-253.762" type="legs.jp.spekks.marker" GUID="G3Q8dRADoEWVBC/B9IP3JQ=="/>
+		<POI MapID="34" xpos="-498.345" ypos="15.3773" zpos="-249.187" type="legs.jp.spekks.marker" GUID="ijHAM9PkG0OVOWMYljO2+w=="/>
+		<POI MapID="34" xpos="-507.808" ypos="16.6953" zpos="-248.426" type="legs.jp.spekks.marker" GUID="OAccXbOFN0CBCNXZkEEW4w=="/>
+		<POI MapID="34" xpos="-510.629" ypos="13.1753" zpos="-254.157" type="legs.jp.spekks.marker" GUID="DCCOh1SDBkGWVI52BVu5KA=="/>
+		<POI MapID="34" xpos="-528.098" ypos="13.0571" zpos="-260.551" type="legs.jp.spekks.marker" GUID="DP+IVrImpkOgrYHtn1dJdw=="/>
+		<POI MapID="34" xpos="-533.428" ypos="13.0483" zpos="-254.38" type="legs.jp.spekks.marker" GUID="dP9dmRrtpUa3ro2Dw2AGSQ=="/>
+		<POI MapID="34" xpos="-531.687" ypos="13.7598" zpos="-247.749" type="legs.jp.spekks.marker" GUID="Eam9wKvFbUGq8ZI0/yR91Q=="/>
+		<POI MapID="34" xpos="-523.745" ypos="12.3382" zpos="-235.344" type="legs.jp.spekks.marker" GUID="hW1mkGzEq0aGnJMW4YHDUQ=="/>
+		<POI MapID="34" xpos="-525.05" ypos="13.5229" zpos="-228.719" type="legs.jp.spekks.marker" GUID="9IA1Co9PtU6hx3KAEFlXTg=="/>
+		<POI MapID="34" xpos="-532.069" ypos="15.3575" zpos="-229.02" type="legs.jp.spekks.marker" GUID="FklPUAJi9U6p5OmjdBIWYw=="/>
+		<POI MapID="34" xpos="-533.839" ypos="16.8415" zpos="-234.417" type="legs.jp.spekks.marker" GUID="LiO2EZUPPU23zoOXPe4BvQ=="/>
+		<POI MapID="34" xpos="-535.464" ypos="17.61" zpos="-239.542" type="legs.jp.spekks.marker" GUID="NoChnkAskUekI7jTH6Jr3A=="/>
+		<POI MapID="34" xpos="-541.153" ypos="20.9687" zpos="-238.329" type="legs.jp.spekks.marker" GUID="IoD3fAH+FEui1I0EbPH76g=="/>
+		<POI MapID="34" xpos="-527.145" ypos="9.25482" zpos="-240.453" type="legs.jp.spekks.marker" GUID="9YDRtlptK0eXhouvpk590w=="/>
+		<POI MapID="34" xpos="-539.187" ypos="23.1064" zpos="-232.817" type="legs.jp.spekks.marker" GUID="cqpsUuCLU0ei4t1O/4QIig=="/>
+		<POI MapID="34" xpos="-539.891" ypos="22.8523" zpos="-218.003" type="legs.jp.spekks.marker" GUID="AtJ5FwVDxkSlCk8QtaVxOw=="/>
+		<POI MapID="34" xpos="-533.22" ypos="22.9754" zpos="-212.689" type="legs.jp.spekks.marker" GUID="7Xsd6bFo8kyjVTE+rNCYIQ=="/>
+		<POI MapID="34" xpos="-528.461" ypos="19.9729" zpos="-206.959" type="legs.jp.spekks.marker" GUID="/mTxqXpDBEGa5cbEMOlzUg=="/>
+		<POI MapID="34" xpos="-521.386" ypos="20.186" zpos="-203.195" type="legs.jp.spekks.marker" GUID="wtN3C50GIk63Zke8BMYxBA=="/>
+		<POI MapID="34" xpos="-523.324" ypos="20.023" zpos="-195.997" type="legs.jp.spekks.marker" GUID="4g6bmzRmd0mWQLqpxc1J6Q=="/>
+		<POI MapID="34" xpos="-529.876" ypos="20.0651" zpos="-193.219" type="legs.jp.spekks.marker" GUID="mgyi2vps8Um6eMxrd/7c1Q=="/>
+		<POI MapID="34" xpos="-539.775" ypos="13.9432" zpos="-183.873" type="legs.jp.spekks.marker" GUID="SR5M1vg/ikC5LHJk1vzBZg=="/>
+		<POI MapID="34" xpos="-534.835" ypos="12.6066" zpos="-169.894" type="legs.jp.spekks.marker" GUID="ho31Muh5fkS8e4y+4bX4Ew=="/>
+		<POI MapID="34" xpos="-537.486" ypos="12.5657" zpos="-160.83" type="legs.jp.spekks.marker" GUID="VytETB85D0Gql2cvda8Ixg=="/>
+		<POI MapID="34" xpos="-531.274" ypos="12.56" zpos="-154.775" type="legs.jp.spekks.marker" GUID="YNXGaIWTd0isx0Otnh5zDw=="/>
+		<POI MapID="34" xpos="-535.708" ypos="12.547" zpos="-147.725" type="legs.jp.spekks.marker" GUID="j4rFzNSyCUeoNNvI8vSVog=="/>
+		<POI MapID="34" xpos="-541.056" ypos="12.4903" zpos="-130.39" type="legs.jp.spekks.marker" GUID="6tBJ+CjF80GjuzjPeWbi8A=="/>
+		<POI MapID="34" xpos="-537.153" ypos="12.698" zpos="-124.52" type="legs.jp.spekks.marker" GUID="WJtlxwqis0idfvtUhjrExw=="/>
+		<POI MapID="34" xpos="-531.181" ypos="12.4739" zpos="-121.811" type="legs.jp.spekks.marker" GUID="HHlOnC0vYk+U6yQSsofm7Q=="/>
+		<POI MapID="34" xpos="-523.955" ypos="12.904" zpos="-120.247" type="legs.jp.spekks.marker" GUID="1mwIvZyqzkKm7IoCoph/Nw=="/>
+		<POI MapID="34" xpos="-522.731" ypos="13.9652" zpos="-128.255" type="legs.jp.spekks.marker" GUID="Sj3m8Pf6nkOMKh3Xkh8IbQ=="/>
+		<POI MapID="34" xpos="-515.923" ypos="15.508" zpos="-128.841" type="legs.jp.spekks.marker" GUID="ZWhUBNpfqk2jRZ+NGSY3KA=="/>
+		<POI MapID="34" xpos="-514.625" ypos="21.0182" zpos="-149.489" type="legs.jp.spekks.marker" GUID="d4kmzAe7JkWMc/S89jonXw=="/>
+		<POI MapID="34" xpos="-511.732" ypos="25.4917" zpos="-155.084" type="legs.jp.spekks.marker" GUID="2LWGL719GUOFXF4r3KMDFQ=="/>
+		<POI MapID="34" xpos="-488.647" ypos="26.0384" zpos="-164.126" type="legs.jp.spekks.marker" GUID="X642eY/1PkuUwz3OATCu3w=="/>
+		<POI MapID="34" xpos="-486.733" ypos="21.5745" zpos="-172.937" type="legs.jp.spekks.marker" GUID="OcDLbTZzm0ijxhllUDgbeA=="/>
+		<POI MapID="34" xpos="-515.332" ypos="17.1227" zpos="-136.316" type="legs.jp.spekks.marker" GUID="QQM5aK6edkWY5qaeDotyGA=="/>
+		<POI MapID="34" xpos="-515.455" ypos="18.9186" zpos="-143.608" type="legs.jp.spekks.marker" GUID="amyz6q+ySEWdcbrUg9hz6Q=="/>
+		<POI MapID="34" xpos="-517.09" ypos="24.1778" zpos="-155.223" type="legs.jp.spekks.marker" GUID="N4LVegs3v0qd8q3a8sJGyw=="/>
+		<POI MapID="34" xpos="-487.456" ypos="22.8654" zpos="-180.301" type="legs.jp.spekks.marker" GUID="bwVnRWoroEaimgCgl+QcRQ=="/>
+		<POI MapID="34" xpos="-484.037" ypos="23.3623" zpos="-187.737" type="legs.jp.spekks.marker" GUID="EeNegqVO1Eimj67/Nh734Q=="/>
+		<POI MapID="34" xpos="-476.748" ypos="23.9691" zpos="-190.172" type="legs.jp.spekks.marker" GUID="61BS+n1Uvkab4vnwzEGyqQ=="/>
+		<POI MapID="34" xpos="-459.092" ypos="23.2736" zpos="-198.35" type="legs.jp.spekks.marker" GUID="DF94t6ehc06WjwG+zmWE1Q=="/>
+		<POI MapID="34" xpos="-463.219" ypos="23.3134" zpos="-203.647" type="legs.jp.spekks.marker" GUID="PF7MLR+KBEuJ89m7bw327g=="/>
+		<POI MapID="34" xpos="-469.022" ypos="25.1451" zpos="-207.825" type="legs.jp.spekks.marker" GUID="2mxNdKX1Hk+8uSh9cAw8xg=="/>
+		<POI MapID="34" xpos="-478.125" ypos="32.3522" zpos="-243.337" type="legs.jp.spekks.marker" GUID="hwQTj9zTw0iCMu0EgJuEDg=="/>
+		<POI MapID="34" xpos="-471.198" ypos="24.1199" zpos="-185.94" type="legs.jp.spekks.marker" GUID="YemPu3yutUuODsY775M3Lw=="/>
+		<POI MapID="34" xpos="-461.555" ypos="23.3319" zpos="-189.419" type="legs.jp.spekks.marker" GUID="/603z2UXMU6t0qKuCObHQg=="/>
+		<POI MapID="34" xpos="-473.736" ypos="26.7351" zpos="-213.853" type="legs.jp.spekks.marker" GUID="jC3CsaDS+0uVg/5PNN0PZw=="/>
+		<POI MapID="34" xpos="-471.493" ypos="28.7978" zpos="-222.273" type="legs.jp.spekks.marker" GUID="R+hX8X0fr0Sz7/ogyN/xGw=="/>
+		<POI MapID="34" xpos="-467.065" ypos="30.2773" zpos="-226.869" type="legs.jp.spekks.marker" GUID="zDYWekM080Gx2BRP5t41jA=="/>
+		<POI MapID="34" xpos="-466.695" ypos="31.2366" zpos="-233.52" type="legs.jp.spekks.marker" GUID="eMV8WqhFZU+ryM8FJSsVOw=="/>
+		<POI MapID="34" xpos="-510.027" ypos="41.41" zpos="-245.68" type="legs.jp.spekks.marker" GUID="ClLww6EK8ECFkslfyGzqSw=="/>
+		<POI MapID="34" xpos="-517.358" ypos="43.6162" zpos="-247.609" type="legs.jp.spekks.marker" GUID="s368pxZM6UyHFhuYeXObIw=="/>
+		<POI MapID="34" xpos="-525.709" ypos="43.0496" zpos="-250.165" type="legs.jp.spekks.marker" GUID="wB6mPcJiwE+LOlzW9PnSAw=="/>
+		<POI MapID="34" xpos="-532.253" ypos="43.0084" zpos="-249.205" type="legs.jp.spekks.marker" GUID="b74/bWrb10if4M69eJUhHA=="/>
+		<POI MapID="34" xpos="-540.202" ypos="43.7506" zpos="-249.094" type="legs.jp.spekks.marker" GUID="8vHLiHoSKEWgo0nXEwMUfA=="/>
+		<POI MapID="34" xpos="-541.133" ypos="44.3951" zpos="-243.768" type="legs.jp.spekks.marker" GUID="FIOTjmQ1M0GoXfLBU/Omdw=="/>
+		<POI MapID="34" xpos="-535.255" ypos="45.2687" zpos="-241.432" type="legs.jp.spekks.marker" GUID="+vSS7JDFNUulHgC5rxezDA=="/>
+		<POI MapID="34" xpos="-536.047" ypos="45.6606" zpos="-233.748" type="legs.jp.spekks.marker" GUID="TG2TQ1GMR0KYBGHlWfa0wg=="/>
       
       <Trail type="legs.jp.swashbuckler.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles/Swashbuckler's Cove.trl" fadeNear="800" fadeFar="1200"/>
       <POI MapID="24" xpos="296.181" ypos="0.265748" zpos="-465.661" type="legs.jp.swashbuckler.sign" GUID="A7fxf/c8bEi7Qn3goDQuEw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Swashbuckler's Cove.png"/>
