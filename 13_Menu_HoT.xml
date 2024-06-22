@@ -137,7 +137,7 @@
             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
          </MarkerCategory>
          
-         <MarkerCategory name="hpomb" DisplayName="Haywire Punch-o-Matic Battle (WiP)">
+         <MarkerCategory name="hpomb" DisplayName="Haywire Punch-o-Matic Battle">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Haywire Punch-o-Matic Battle.png" mapDisplaySize="76"/>
             <MarkerCategory name="uppercut" DisplayName="Toggle Uppercut"  iconFile="Data/LadyElyssa/Images/Adventures/Uppercut.png" miniMapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
             <MarkerCategory name="toot" DisplayName="Toggle The Old One-Two"  iconFile="Data/LadyElyssa/Images/Adventures/The Old One-Two.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
