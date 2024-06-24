@@ -1,8 +1,7 @@
 <OverlayData>
-	<POIs>
-            
-      <!-- Trail for no tomes leveling -->
-      <!--
+    <POIs>
+        <!-- Trail for no tomes leveling -->
+        <!--
       <Trail type="legs.keys.nornlvl.trail"                           trailData="Data/LadyElyssa/Key Run/XP/Norn Adventure Guide.trl" color="B9B992"/>
 		<POI MapID="28" xpos="-139.162" ypos="84.5155" zpos="-693.757"  type="legs.keys.nornlvl.set.scout" GUID="5fGTRVM9oky8ncSIHHz4/g=="/>
 		<POI MapID="28" xpos="-245.593" ypos="90.7401" zpos="-434.12"   type="legs.keys.nornlvl.set.scout" GUID="w7wa8xPaGEytsa76Wudmlw=="/>
@@ -10,174 +9,126 @@
 		<POI MapID="28" xpos="259.198" ypos="91.222" zpos="559.343"     type="legs.keys.nornlvl.set.scout" GUID="tjAMHtUvZEGuty1/xHlH4Q=="/>
 		<POI MapID="28" xpos="122.852" ypos="91.6779" zpos="770.644"    type="legs.keys.nornlvl.set.scout" GUID="V8qef7SwUUGqaPsC6NIb2Q=="/>
       -->
-
-      <!-- TUTORIAL - Lvl 1 - Races -->
-      
-      <!-- Norn -->
-      <POI MapID="379" xpos="14.9463" ypos="98.1284" zpos="-656.661" type="legs.keys.tutorial.set.sign" GUID="CwXa623RGkKouOPqtsPDWg==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Owl Griffon Sire.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
-		<POI MapID="379" xpos="-169.557" ypos="70.58" zpos="-887.669"  type="legs.keys.tutorial.set.sign" GUID="RfFOzJTlCUKSrWCl+NIs5w==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Owl Griffon Sire.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
-      <POI MapID="379" xpos="-281.975" ypos="82.4809" zpos="-835.737" type="legs.keys.tutorial.set.sign" GUID="e0qPMV5r7k6eiRlmvgLh+Q==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Alpine Bull Minotaur.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
-      <POI MapID="379" xpos="-72.3232" ypos="39.5847" zpos="-941.747" type="legs.keys.tutorial.set.sign" GUID="Vbi7Fc/rMUOVnne4fh1mBw==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Alpine Bull Minotaur.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
-      <POI MapID="379" xpos="20.9227" ypos="52.8619" zpos="-726.617" type="legs.keys.tutorial.set.sign" GUID="StDZkQJ8uEebJCcbgnooPQ==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Vicious Dire Boar.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
-      <POI MapID="379" xpos="-1.69953" ypos="39.6283" zpos="-768.696" type="legs.keys.tutorial.set.sign" GUID="ywH9VbPsdkC+rI42W0r+Vg==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Vicious Dire Boar.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
-
-      <Trail type="legs.keys.tutorial.norn"                         trailData="Data/LadyElyssa/Key Run/Tutorial/Norn/The Great Hunt.trl"/>
-      <Trail type="legs.keys.tutorial.norn"                         trailData="Data/LadyElyssa/Key Run/Tutorial/Norn/Alpine Bull Minotaur 1.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
-      <Trail type="legs.keys.tutorial.norn"                         trailData="Data/LadyElyssa/Key Run/Tutorial/Norn/Alpine Bull Minotaur 2.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
-      
-      <!-- CITY - Norn - Black Citadel -->
-      <Trail type="legs.keys.norn.city.trail"                       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/In to Hoelbrak.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      <POI MapID="28" xpos="-151.849" ypos="87.311" zpos="-675.693" type="legs.keys.norn.city.set.sign" GUID="/9H5qF+In0OXSP0h6jlS5A==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/In to Hoelbrak.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-             
-      <Trail type="legs.keys.norn.bank.trail"                       trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/To the Bank.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      <POI MapID="326" xpos="493.602" ypos="311.966" zpos="-191.326" type="legs.keys.norn.bank.set.sign" GUID="MSQwTK2qZkWb8R5m/SPsZQ=="/>      
-      
-      <POI MapID="326" xpos="484.144" ypos="311.187" zpos="-203.016" type="legs.keys.norn.eir.set.sign" GUID="UU0Qo6g/FUyiTCLxzZxtUg=="/>
-      
-      <!-- Chapter 1 - Lvl 10 - Mentor -->
-
-      <!-- A Pup's Illness -->
-       
-		<POI MapID="326" xpos="189.343" ypos="341.027" zpos="-242.661" type="legs.keys.norn10.mists.illness.set.sign" GUID="S/COb1RprEiLAQybaXyaqg=="/>
-       
-      <POI MapID="326" xpos="189.394" ypos="341.027" zpos="-241.199" type="legs.keys.norn10.mists.illness.set.wp" GUID="HMB9zQpx60+ySRiAnnll4A==" copy="[&BHQBAAA=]" copy-message="Horncall Waypoint"/>
-      <Trail type="legs.keys.norn10.mists.illness.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 1.trl"/>
-          
-  		<POI MapID="28" xpos="-227.311" ypos="94.2945" zpos="-618.053" type="legs.keys.norn10.mists.illness.set.sign" GUID="ITB0RI1yXEOJAmiS5m3uNA=="/>
-		<POI MapID="792" xpos="471.689" ypos="15.9315" zpos="-911.644" type="legs.keys.norn10.mists.illness.set.wp" GUID="fgh6quzlFEuxV5TcsV/Zkw==" copy="[&BI4DAAA=]" copy-message="Southern Watchpost Waypoint"/>
-      <Trail type="legs.keys.norn10.mists.illness.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 2 Instance.trl"/>
-      <Trail type="legs.keys.norn10.mists.illness.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 3.trl"/>
-      <Trail type="legs.keys.norn10.mists.illness.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 4 Instance.trl"/>
-      <POI MapID="326" xpos="281.614" ypos="329.018" zpos="-258.261" type="legs.keys.norn10.mists.illness.set.sign" GUID="GMkleLuUskuTfMdSvDDJng=="/>
-      <POI MapID="392" xpos="68.4345" ypos="342.032" zpos="-323.619" type="legs.keys.norn10.mists.illness.set.wp" GUID="AQZ0T9MaMkKssPQf7YIfhQ==" copy="[&BHQBAAA=]" copy-message="Horncall Waypoint"/>
-
-      
-      <!-- Through the Veil -->
-
-      <Trail type="legs.keys.norn10.mists.veil.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 1.trl"/>
-      <POI MapID="28" xpos="-229.943" ypos="95.0477" zpos="-619.686"  type="legs.keys.norn10.mists.veil.set.sign" GUID="QjSOJxwO2EuEFhX9eUL8Qw=="/>
-      <Trail type="legs.keys.norn10.mists.veil.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 2 Instance.trl"/>
-      <POI MapID="393" xpos="-209.215" ypos="108.395" zpos="-950.922" type="legs.keys.norn10.mists.veil.set.wp" GUID="MneBvgceb0yIMPqxazUnUQ==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
-      <POI MapID="326" xpos="73.5309" ypos="302.729" zpos="-242.283" type="legs.keys.norn.home.set.sign" GUID="BOD2JZUxX0uWRY1f7w7XOA=="/>
-      <Trail type="legs.keys.norn10.mists.veil.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 3.trl"/>
-      <Trail type="legs.keys.norn10.mists.veil.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 4 Instance.trl"/>
-      <POI MapID="401" xpos="69.4921" ypos="343.972" zpos="-333.642"  type="legs.keys.norn10.mists.veil.set.choice" GUID="inVRHIKEPUCFtrPj2ZjifA==" info="I'll take Weibe. Raven's methods seem the best. Where do I find him?&#xA;&#xA;   > To Doldenvan Passage, then. Thanks, Svena." infoRange="5"/>
-      <POI MapID="401" xpos="69.9191" ypos="341.972" zpos="-333.172"  type="legs.keys.norn10.mists.veil.set.wp" GUID="eAFHvFd1okmS9tUCioPgeA==" copy="[&BMMDAAA=]" copy-message="Grawlenfjord Waypoint"/>
-            
-      <!-- Raven's Revered -->
-
-      <Trail type="legs.keys.norn10.mists.raven.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Raven's Revered 1.trl"/>
-      <Trail type="legs.keys.norn10.mists.raven.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Raven's Revered 2 Instance.trl"/>
-      <POI MapID="28" xpos="275.873" ypos="2.25385" zpos="-912.781" type="legs.keys.norn10.mists.raven.set.sign" GUID="mUnZMw+01EygZlFTYWVE3w=="/>
-		<POI MapID="396" xpos="250.316" ypos="10.1208" zpos="-515.338" type="legs.keys.norn10.mists.raven.set.wp" GUID="lkjB1VuwxkOSUjCYwDCkVQ==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
-
-      
-      <!-- Into the Mists -->
-
-      <Trail type="legs.keys.norn10.mists.mists.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Into the Mists 1.trl"/>
-      <POI MapID="326" xpos="70.4653" ypos="302.724" zpos="-244.409" type="legs.keys.norn10.mists.mists.set.sign" GUID="0lt1fgNg4UeNnEyqf4ngOg=="/>
-      <Trail type="legs.keys.norn10.mists.mists.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Into the Mists 2 Instance.trl"/>
-		<POI MapID="400" xpos="66.0007" ypos="359.545" zpos="-250.105" type="legs.keys.norn10.mists.mists.set.wp" GUID="5by2gnHEDk6oE8bYlwKCOw==" copy="[&BHUBAAA=]" copy-message="Darkriven Waypoint"/>
-
-      <!-- The Wolf Havroun -->
-      <Trail type="legs.keys.norn10.mists.havroun.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/The Wolf Havroun 1.trl"/>
-      <Trail type="legs.keys.norn10.mists.havroun.trail"             trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/The Wolf Havroun 2 Instance.trl"/>
-      <POI MapID="28" xpos="327.908" ypos="22.7277" zpos="-373.529" type="legs.keys.norn10.mists.havroun.set.sign" GUID="yGVCQ7hJ+EO54UXkbzVdZw=="/>
-		<POI MapID="407" xpos="491.429" ypos="75.4462" zpos="190.298" type="legs.keys.norn10.mists.havroun.set.wp" GUID="93jljcFmjkOlDWtXDUxmeA==" copy="[&BI0DAAA=]" copy-message="Eastern Watchpost Waypoint"/>
-		
-      
-      <!-- Chapter 2 - lvl 20 - Shadows of the Past -->
-      
-      <!--
+        <!-- TUTORIAL - Lvl 1 - Races -->
+        <!-- Norn -->
+        <POI MapID="379" xpos="14.9463" ypos="98.1284" zpos="-656.661" type="legs.keys.tutorial.set.sign" GUID="CwXa623RGkKouOPqtsPDWg==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Owl Griffon Sire.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="379" xpos="-169.557" ypos="70.58" zpos="-887.669" type="legs.keys.tutorial.set.sign" GUID="RfFOzJTlCUKSrWCl+NIs5w==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Owl Griffon Sire.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="379" xpos="-281.975" ypos="82.4809" zpos="-835.737" type="legs.keys.tutorial.set.sign" GUID="e0qPMV5r7k6eiRlmvgLh+Q==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Alpine Bull Minotaur.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="379" xpos="-72.3232" ypos="39.5847" zpos="-941.747" type="legs.keys.tutorial.set.sign" GUID="Vbi7Fc/rMUOVnne4fh1mBw==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Alpine Bull Minotaur.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="379" xpos="20.9227" ypos="52.8619" zpos="-726.617" type="legs.keys.tutorial.set.sign" GUID="StDZkQJ8uEebJCcbgnooPQ==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Vicious Dire Boar.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="379" xpos="-1.69953" ypos="39.6283" zpos="-768.696" type="legs.keys.tutorial.set.sign" GUID="ywH9VbPsdkC+rI42W0r+Vg==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Vicious Dire Boar.png" mapVisibility="1" miniMapVisibility="0" ingameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="legs.keys.tutorial.norn" trailData="Data/LadyElyssa/Key Run/Tutorial/Norn/The Great Hunt.trl"/>
+        <Trail type="legs.keys.tutorial.norn" trailData="Data/LadyElyssa/Key Run/Tutorial/Norn/Alpine Bull Minotaur 1.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <Trail type="legs.keys.tutorial.norn" trailData="Data/LadyElyssa/Key Run/Tutorial/Norn/Alpine Bull Minotaur 2.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <!-- CITY - Norn - Black Citadel -->
+        <Trail type="legs.keys.norn.city.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/In to Hoelbrak.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="28" xpos="-151.849" ypos="87.311" zpos="-675.693" type="legs.keys.norn.city.set.sign" GUID="/9H5qF+In0OXSP0h6jlS5A==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/In to Hoelbrak.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.norn.bank.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/To the Bank.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="326" xpos="493.602" ypos="311.966" zpos="-191.326" type="legs.keys.norn.bank.set.sign" GUID="MSQwTK2qZkWb8R5m/SPsZQ=="/>
+        <POI MapID="326" xpos="484.144" ypos="311.187" zpos="-203.016" type="legs.keys.norn.eir.set.sign" GUID="UU0Qo6g/FUyiTCLxzZxtUg=="/>
+        <!-- Chapter 1 - Lvl 10 - Mentor -->
+        <!-- A Pup's Illness -->
+        <POI MapID="326" xpos="189.343" ypos="341.027" zpos="-242.661" type="legs.keys.norn10.mists.illness.set.sign" GUID="S/COb1RprEiLAQybaXyaqg=="/>
+        <POI MapID="326" xpos="189.394" ypos="341.027" zpos="-241.199" type="legs.keys.norn10.mists.illness.set.wp" GUID="HMB9zQpx60+ySRiAnnll4A==" copy="[&BHQBAAA=]" copy-message="Horncall Waypoint"/>
+        <Trail type="legs.keys.norn10.mists.illness.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 1.trl"/>
+        <POI MapID="28" xpos="-227.311" ypos="94.2945" zpos="-618.053" type="legs.keys.norn10.mists.illness.set.sign" GUID="ITB0RI1yXEOJAmiS5m3uNA=="/>
+        <POI MapID="792" xpos="471.689" ypos="15.9315" zpos="-911.644" type="legs.keys.norn10.mists.illness.set.wp" GUID="fgh6quzlFEuxV5TcsV/Zkw==" copy="[&BI4DAAA=]" copy-message="Southern Watchpost Waypoint"/>
+        <Trail type="legs.keys.norn10.mists.illness.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 2 Instance.trl"/>
+        <Trail type="legs.keys.norn10.mists.illness.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 3.trl"/>
+        <Trail type="legs.keys.norn10.mists.illness.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness 4 Instance.trl"/>
+        <POI MapID="326" xpos="281.614" ypos="329.018" zpos="-258.261" type="legs.keys.norn10.mists.illness.set.sign" GUID="GMkleLuUskuTfMdSvDDJng=="/>
+        <POI MapID="392" xpos="68.4345" ypos="342.032" zpos="-323.619" type="legs.keys.norn10.mists.illness.set.wp" GUID="AQZ0T9MaMkKssPQf7YIfhQ==" copy="[&BHQBAAA=]" copy-message="Horncall Waypoint"/>
+        <!-- Through the Veil -->
+        <Trail type="legs.keys.norn10.mists.veil.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 1.trl"/>
+        <POI MapID="28" xpos="-229.943" ypos="95.0477" zpos="-619.686" type="legs.keys.norn10.mists.veil.set.sign" GUID="QjSOJxwO2EuEFhX9eUL8Qw=="/>
+        <Trail type="legs.keys.norn10.mists.veil.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 2 Instance.trl"/>
+        <POI MapID="393" xpos="-209.215" ypos="108.395" zpos="-950.922" type="legs.keys.norn10.mists.veil.set.wp" GUID="MneBvgceb0yIMPqxazUnUQ==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <POI MapID="326" xpos="73.5309" ypos="302.729" zpos="-242.283" type="legs.keys.norn.home.set.sign" GUID="BOD2JZUxX0uWRY1f7w7XOA=="/>
+        <Trail type="legs.keys.norn10.mists.veil.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 3.trl"/>
+        <Trail type="legs.keys.norn10.mists.veil.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil 4 Instance.trl"/>
+        <POI MapID="401" xpos="69.4921" ypos="343.972" zpos="-333.642" type="legs.keys.norn10.mists.veil.set.choice" GUID="inVRHIKEPUCFtrPj2ZjifA==" info="I'll take Weibe. Raven's methods seem the best. Where do I find him?&#xA;&#xA;   > To Doldenvan Passage, then. Thanks, Svena." infoRange="5"/>
+        <POI MapID="401" xpos="69.9191" ypos="341.972" zpos="-333.172" type="legs.keys.norn10.mists.veil.set.wp" GUID="eAFHvFd1okmS9tUCioPgeA==" copy="[&BMMDAAA=]" copy-message="Grawlenfjord Waypoint"/>
+        <!-- Raven's Revered -->
+        <Trail type="legs.keys.norn10.mists.raven.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Raven's Revered 1.trl"/>
+        <Trail type="legs.keys.norn10.mists.raven.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Raven's Revered 2 Instance.trl"/>
+        <POI MapID="28" xpos="275.873" ypos="2.25385" zpos="-912.781" type="legs.keys.norn10.mists.raven.set.sign" GUID="mUnZMw+01EygZlFTYWVE3w=="/>
+        <POI MapID="396" xpos="250.316" ypos="10.1208" zpos="-515.338" type="legs.keys.norn10.mists.raven.set.wp" GUID="lkjB1VuwxkOSUjCYwDCkVQ==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <!-- Into the Mists -->
+        <Trail type="legs.keys.norn10.mists.mists.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Into the Mists 1.trl"/>
+        <POI MapID="326" xpos="70.4653" ypos="302.724" zpos="-244.409" type="legs.keys.norn10.mists.mists.set.sign" GUID="0lt1fgNg4UeNnEyqf4ngOg=="/>
+        <Trail type="legs.keys.norn10.mists.mists.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Into the Mists 2 Instance.trl"/>
+        <POI MapID="400" xpos="66.0007" ypos="359.545" zpos="-250.105" type="legs.keys.norn10.mists.mists.set.wp" GUID="5by2gnHEDk6oE8bYlwKCOw==" copy="[&BHUBAAA=]" copy-message="Darkriven Waypoint"/>
+        <!-- The Wolf Havroun -->
+        <Trail type="legs.keys.norn10.mists.havroun.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/The Wolf Havroun 1.trl"/>
+        <Trail type="legs.keys.norn10.mists.havroun.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/The Wolf Havroun 2 Instance.trl"/>
+        <POI MapID="28" xpos="327.908" ypos="22.7277" zpos="-373.529" type="legs.keys.norn10.mists.havroun.set.sign" GUID="yGVCQ7hJ+EO54UXkbzVdZw=="/>
+        <POI MapID="407" xpos="491.429" ypos="75.4462" zpos="190.298" type="legs.keys.norn10.mists.havroun.set.wp" GUID="93jljcFmjkOlDWtXDUxmeA==" copy="[&BI0DAAA=]" copy-message="Eastern Watchpost Waypoint"/>
+        <!-- Chapter 2 - lvl 20 - Shadows of the Past -->
+        <!--
       <POI MapID="218" xpos="2.4769" ypos="214.09" zpos="202.372"       type="legs.keys.norn20.shaman.set.sign" GUID="jgAdg8ZfFEKjju2BOb9G0A==" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Rytlock's Office.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
       <Trail type="legs.keys.norn20.shaman.trail"                      trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Rytlock's Office.trl"/>
       -->
-
-      <Trail type="legs.keys.norn.eir.trail"                         trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Stonewright's Steading.trl"/>
-      
-      <!-- Rumors of Trouble -->
-      
-      <Trail type="legs.keys.norn20.heirloom.trouble.trail"          trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Rumors of Trouble 1 Instance.trl"/>
-      <POI MapID="413" xpos="395.62" ypos="336.232" zpos="-366.244"  type="legs.keys.norn20.heirloom.trouble.set.wp" GUID="OGCGzUvPQ0Gc35AdsKEjYA==" copy="[&BH4BAAA=]" copy-message="Vendrake's Homestead Waypoint"/>
-      <POI MapID="28" xpos="303.074" ypos="70.4309" zpos="218.35"    type="legs.keys.norn20.heirloom.trouble.set.sign" GUID="WPkka9lnnUi0cZjzr/L05Q=="/>
-      <Trail type="legs.keys.norn20.heirloom.trouble.trail"          trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Rumors of Trouble 2.trl"/>
-      <Trail type="legs.keys.norn20.heirloom.trouble.trail"          trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Rumors of Trouble 3 Instance.trl"/>
-
-      <!-- Among the Kodan -->
-      
-      <POI MapID="28" xpos="218.498" ypos="73.3678" zpos="458.011"   type="legs.keys.norn20.heirloom.kodan.set.sign" GUID="W4jKx/+TtUWpAIpNy3E/9g=="/>
-      <Trail type="legs.keys.norn20.heirloom.kodan.trail"            trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Among the Kodan 1.trl"/>
-		<POI MapID="31" xpos="1170.87" ypos="59.029" zpos="419.976"    type="legs.keys.norn20.heirloom.kodan.set.sign" GUID="pn4XXOMysESLLOqhogVo5g=="/>
-      <Trail type="legs.keys.norn20.heirloom.kodan.trail"            trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Among the Kodan 2.trl"/>
-      <POI MapID="28" xpos="218.498" ypos="73.3678" zpos="458.011"   type="legs.keys.norn20.heirloom.kodan.set.sign" GUID="CPbwmmB6XEO3AYgIo1zlew=="/>
-      <Trail type="legs.keys.norn20.heirloom.kodan.trail"            trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Among the Kodan 3 Instance.trl"/>
-      
-      <!-- Darkness at Drakentelt -->
-
-      <Trail type="legs.keys.norn20.heirloom.drakentelt.trail"       trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Darkness at Drakentelt 1.trl"/>
-      <Trail type="legs.keys.norn20.heirloom.drakentelt.trail"       trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Darkness at Drakentelt 2 Instance.trl"/>
-		<POI MapID="31" xpos="1101.12" ypos="54.3629" zpos="380.298"   type="legs.keys.norn20.heirloom.drakentelt.set.sign" GUID="BUwrL6+9e0mUF6y7YzbSIw=="/>
-      
-      <POI MapID="430" xpos="1076.74" ypos="71.4999" zpos="-58.167"  type="legs.keys.norn20.heirloom.drakentelt.set.choice" GUID="N0X2n96JgkmGV3M9jHNLfg==" info="2. The horn is my legacy, and an important part of my ancestor's legend. I can't destroy that.&#xA;&#xA;   > Romke's legacy is important to the norn, and to me. I know now that I have to protect it." infoRange="5"/>
-
-      <POI MapID="430" xpos="1078.09" ypos="71.73" zpos="-57.5381"   type="legs.keys.norn20.heirloom.drakentelt.set.wp" GUID="+wBucXpIz0KuJvPFtLlBIg==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>            
-      
-      <!-- Means to an End  -->
-      <Trail type="legs.keys.norn20.heirloom.end.instance"           trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Means to an End 1 Instance.trl"/>
-      <POI MapID="435" xpos="61.4537" ypos="341.973" zpos="-329.203" type="legs.keys.oot.norn.dredge.set.wp" GUID="jllS5Ac0ZkSkaLQFXcBk6w==" copy="[&BI0DAAA=]" copy-message="Eastern Watchpost Waypoint"/>
-      
-      <!-- Chapter 3 - lvl 30 - The Orders of Tyria-->
-      
-      <!-- Dredge Technology -->
-      
-      <Trail type="legs.keys.oot.norn.dredge.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Technology 1.trl"/>
-      <POI MapID="436" xpos="390.932" ypos="336.13" zpos="-330.203"  type="legs.keys.oot.norn.dredge.set.wp" GUID="GPDZxnddoU+pdhOSFIctZA==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
-      <Trail type="legs.keys.oot.norn.dredge.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Technology 2 Instance.trl"/>
-      <POI MapID="375" xpos="53.685" ypos="345.5" zpos="-371.78"     type="legs.keys.oot.norn.dredge.set.sign" GUID="dwHNetP85kmPrNTpR+/xbQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 1 - Armaments.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="375" xpos="52.7328" ypos="345.5" zpos="-370.565"   type="legs.keys.oot.norn.dredge.set.sign" GUID="L46nw+L0D0K/FntAfwxx7A==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 2 - Dredge Assault.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="375" xpos="56.915" ypos="345.5" zpos="-374.091"    type="legs.keys.oot.norn.dredge.set.sign" GUID="ZJfZTg/KrEqDbZHlfv9ZUg==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 3 - Sabotage.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="375" xpos="54.89" ypos="345.5" zpos="-373.454"     type="legs.keys.oot.norn.dredge.set.sign" GUID="7vORuRS5b0eHP3k/DByNXA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 4 - Silent Warfare.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="375" xpos="53.4359" ypos="342.003" zpos="-371.673" type="legs.keys.oot.norn.dredge.set.wp" GUID="Usw+QD+s80SaxyeenPtwgA==" copy="[&BL8AAAA=]" copy-message="Snowhawk Landing Waypoint in Snowden Drifts"/>
-      
-      <!-- Armaments -->
-      
-      <Trail type="legs.keys.oot.norn.armaments.trail"               trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Armaments 1.trl"/>
-      <Trail type="legs.keys.oot.norn.armaments.trail"               trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Armaments 2 Instance.trl"/>
-      <POI MapID="31" xpos="727.404" ypos="56.3342" zpos="60.8473" type="legs.keys.oot.norn.armaments.set.sign" GUID="oBjO35+W6kOd1ju60ehfDQ=="/>
-		<POI MapID="449" xpos="432.651" ypos="154.976" zpos="1424.84" type="legs.keys.oot.norn.armaments.set.wp" GUID="DiE4IASJB0OtT5vn+qFPUA==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
-            
-      <!-- Dredge Assault -->
-      
-      <POI MapID="375" xpos="52.3607" ypos="342.005" zpos="-370.572"  type="legs.keys.oot.norn.assault.set.wp" GUID="CnnU1vhqykKPsjonXWKNIA==" copy="[&BLwAAAA=]" copy-message="Exile Waypoint in Snowden Drifts"/>
-      <Trail type="legs.keys.oot.norn.assault.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Assault 1.trl"/>
-      <Trail type="legs.keys.oot.norn.assault.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Assault 2 Instance.trl"/>
-      <POI MapID="31" xpos="336.413" ypos="31.0934" zpos="-427.926"   type="legs.keys.oot.norn.assault.set.sign" GUID="p9jjG2wVjkOos7NWvFqKNw=="/>
-		<POI MapID="440" xpos="-825.377" ypos="52.7993" zpos="-565.731" type="legs.keys.oot.norn.assault.set.wp" GUID="H+MXzdyuXk6THrSr2SD0Ig==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
-
-      
-      <!-- Sabotage -->
-      
-      <POI MapID="375" xpos="57.1514" ypos="341.998" zpos="-373.68"   type="legs.keys.oot.norn.sabotage.set.wp" GUID="paWKzMsGQEynTXtTKto9Wg==" copy="[&BLQAAAA=]" copy-message="Lornar's Waypoint"/>
-      <Trail type="legs.keys.oot.norn.sabotage.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Sabotage 1.trl"/>
-		<POI MapID="27" xpos="317.112" ypos="156.587" zpos="1420.35"    type="legs.keys.oot.norn.sabotage.set.sign" GUID="4PN1QHzD7kWBZ/PNH2z5Kg=="/>
-      <Trail type="legs.keys.oot.norn.sabotage.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Sabotage 2.trl"/>
-		<POI MapID="31" xpos="-405.114" ypos="29.653" zpos="-425.359"   type="legs.keys.oot.norn.sabotage.set.sign" GUID="t6ZaBTqyYEys0xGGCKgceA=="/>
-      <Trail type="legs.keys.oot.norn.sabotage.trail"                 trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Sabotage 3 Instance.trl"/>
-		<POI MapID="444" xpos="430.327" ypos="153.568" zpos="1420.85"   type="legs.keys.oot.norn.sabotage.set.wp" GUID="juy7N3zqxUyWGAs7J0fJ2g==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>     
-            
-      <!-- Silent Warfare -->
-      
-      <POI MapID="375" xpos="55.1076" ypos="342.001" zpos="-372.902"  type="legs.keys.oot.norn.warfare.set.wp" GUID="hXROiNqCo02Gwe/y6c+iGQ==" copy="[&BOsAAAA=]" copy-message="Thunderhorns Waypoint"/>
-      <Trail type="legs.keys.oot.norn.warfare.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Silent Warfare 1.trl"/>
-      <Trail type="legs.keys.oot.norn.warfare.trail"                  trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Silent Warfare 2 Instance.trl"/>
-      <POI MapID="27" xpos="290.87" ypos="151.942" zpos="1362.17"     type="legs.keys.oot.norn.warfare.set.sign" GUID="gRWJ0r7TaUSGE/CSaUTOoA=="/>
-		<POI MapID="454" xpos="-300.422" ypos="128.453" zpos="590.88"   type="legs.keys.oot.norn.warfare.set.wp" GUID="KhJB/e5KVkmUmYj/Y6MCTw==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
-      
-      <!-- Chapter 4 - lvl 40 -->
-      
-      <!-- To Lion's Arch -->
-      <POI MapID="326" xpos="69.584" ypos="302.724" zpos="-240.305"     type="legs.keys.settingthestage.set.sign" GUID="SkzjVOzPykupMTwGziwoOA=="           iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.settingthestage.hb"                        trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/To Lion's Arch.trl"  texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      
-	</POIs>
+        <Trail type="legs.keys.norn.eir.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Stonewright's Steading.trl"/>
+        <!-- Rumors of Trouble -->
+        <Trail type="legs.keys.norn20.heirloom.trouble.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Rumors of Trouble 1 Instance.trl"/>
+        <POI MapID="413" xpos="395.62" ypos="336.232" zpos="-366.244" type="legs.keys.norn20.heirloom.trouble.set.wp" GUID="OGCGzUvPQ0Gc35AdsKEjYA==" copy="[&BH4BAAA=]" copy-message="Vendrake's Homestead Waypoint"/>
+        <POI MapID="28" xpos="303.074" ypos="70.4309" zpos="218.35" type="legs.keys.norn20.heirloom.trouble.set.sign" GUID="WPkka9lnnUi0cZjzr/L05Q=="/>
+        <Trail type="legs.keys.norn20.heirloom.trouble.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Rumors of Trouble 2.trl"/>
+        <Trail type="legs.keys.norn20.heirloom.trouble.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Rumors of Trouble 3 Instance.trl"/>
+        <!-- Among the Kodan -->
+        <POI MapID="28" xpos="218.498" ypos="73.3678" zpos="458.011" type="legs.keys.norn20.heirloom.kodan.set.sign" GUID="W4jKx/+TtUWpAIpNy3E/9g=="/>
+        <Trail type="legs.keys.norn20.heirloom.kodan.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Among the Kodan 1.trl"/>
+        <POI MapID="31" xpos="1170.87" ypos="59.029" zpos="419.976" type="legs.keys.norn20.heirloom.kodan.set.sign" GUID="pn4XXOMysESLLOqhogVo5g=="/>
+        <Trail type="legs.keys.norn20.heirloom.kodan.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Among the Kodan 2.trl"/>
+        <POI MapID="28" xpos="218.498" ypos="73.3678" zpos="458.011" type="legs.keys.norn20.heirloom.kodan.set.sign" GUID="CPbwmmB6XEO3AYgIo1zlew=="/>
+        <Trail type="legs.keys.norn20.heirloom.kodan.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Among the Kodan 3 Instance.trl"/>
+        <!-- Darkness at Drakentelt -->
+        <Trail type="legs.keys.norn20.heirloom.drakentelt.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Darkness at Drakentelt 1.trl"/>
+        <Trail type="legs.keys.norn20.heirloom.drakentelt.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Darkness at Drakentelt 2 Instance.trl"/>
+        <POI MapID="31" xpos="1101.12" ypos="54.3629" zpos="380.298" type="legs.keys.norn20.heirloom.drakentelt.set.sign" GUID="BUwrL6+9e0mUF6y7YzbSIw=="/>
+        <POI MapID="430" xpos="1076.74" ypos="71.4999" zpos="-58.167" type="legs.keys.norn20.heirloom.drakentelt.set.choice" GUID="N0X2n96JgkmGV3M9jHNLfg==" info="2. The horn is my legacy, and an important part of my ancestor's legend. I can't destroy that.&#xA;&#xA;   > Romke's legacy is important to the norn, and to me. I know now that I have to protect it." infoRange="5"/>
+        <POI MapID="430" xpos="1078.09" ypos="71.73" zpos="-57.5381" type="legs.keys.norn20.heirloom.drakentelt.set.wp" GUID="+wBucXpIz0KuJvPFtLlBIg==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <!-- Means to an End  -->
+        <Trail type="legs.keys.norn20.heirloom.end.instance" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Means to an End 1 Instance.trl"/>
+        <POI MapID="435" xpos="61.4537" ypos="341.973" zpos="-329.203" type="legs.keys.oot.norn.dredge.set.wp" GUID="jllS5Ac0ZkSkaLQFXcBk6w==" copy="[&BI0DAAA=]" copy-message="Eastern Watchpost Waypoint"/>
+        <!-- Chapter 3 - lvl 30 - The Orders of Tyria-->
+        <!-- Dredge Technology -->
+        <Trail type="legs.keys.oot.norn.dredge.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Technology 1.trl"/>
+        <POI MapID="436" xpos="390.932" ypos="336.13" zpos="-330.203" type="legs.keys.oot.norn.dredge.set.wp" GUID="GPDZxnddoU+pdhOSFIctZA==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <Trail type="legs.keys.oot.norn.dredge.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Technology 2 Instance.trl"/>
+        <POI MapID="375" xpos="53.685" ypos="345.5" zpos="-371.78" type="legs.keys.oot.norn.dredge.set.sign" GUID="dwHNetP85kmPrNTpR+/xbQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 1 - Armaments.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="375" xpos="52.7328" ypos="345.5" zpos="-370.565" type="legs.keys.oot.norn.dredge.set.sign" GUID="L46nw+L0D0K/FntAfwxx7A==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 2 - Dredge Assault.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="375" xpos="56.915" ypos="345.5" zpos="-374.091" type="legs.keys.oot.norn.dredge.set.sign" GUID="ZJfZTg/KrEqDbZHlfv9ZUg==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 3 - Sabotage.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="375" xpos="54.89" ypos="345.5" zpos="-373.454" type="legs.keys.oot.norn.dredge.set.sign" GUID="7vORuRS5b0eHP3k/DByNXA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/OoT 4 - Silent Warfare.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="375" xpos="53.4359" ypos="342.003" zpos="-371.673" type="legs.keys.oot.norn.dredge.set.wp" GUID="Usw+QD+s80SaxyeenPtwgA==" copy="[&BL8AAAA=]" copy-message="Snowhawk Landing Waypoint in Snowden Drifts"/>
+        <!-- Armaments -->
+        <Trail type="legs.keys.oot.norn.armaments.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Armaments 1.trl"/>
+        <Trail type="legs.keys.oot.norn.armaments.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Armaments 2 Instance.trl"/>
+        <POI MapID="31" xpos="727.404" ypos="56.3342" zpos="60.8473" type="legs.keys.oot.norn.armaments.set.sign" GUID="oBjO35+W6kOd1ju60ehfDQ=="/>
+        <POI MapID="449" xpos="432.651" ypos="154.976" zpos="1424.84" type="legs.keys.oot.norn.armaments.set.wp" GUID="DiE4IASJB0OtT5vn+qFPUA==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <!-- Dredge Assault -->
+        <POI MapID="375" xpos="52.3607" ypos="342.005" zpos="-370.572" type="legs.keys.oot.norn.assault.set.wp" GUID="CnnU1vhqykKPsjonXWKNIA==" copy="[&BLwAAAA=]" copy-message="Exile Waypoint in Snowden Drifts"/>
+        <Trail type="legs.keys.oot.norn.assault.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Assault 1.trl"/>
+        <Trail type="legs.keys.oot.norn.assault.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Dredge Assault 2 Instance.trl"/>
+        <POI MapID="31" xpos="336.413" ypos="31.0934" zpos="-427.926" type="legs.keys.oot.norn.assault.set.sign" GUID="p9jjG2wVjkOos7NWvFqKNw=="/>
+        <POI MapID="440" xpos="-825.377" ypos="52.7993" zpos="-565.731" type="legs.keys.oot.norn.assault.set.wp" GUID="H+MXzdyuXk6THrSr2SD0Ig==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <!-- Sabotage -->
+        <POI MapID="375" xpos="57.1514" ypos="341.998" zpos="-373.68" type="legs.keys.oot.norn.sabotage.set.wp" GUID="paWKzMsGQEynTXtTKto9Wg==" copy="[&BLQAAAA=]" copy-message="Lornar's Waypoint"/>
+        <Trail type="legs.keys.oot.norn.sabotage.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Sabotage 1.trl"/>
+        <POI MapID="27" xpos="317.112" ypos="156.587" zpos="1420.35" type="legs.keys.oot.norn.sabotage.set.sign" GUID="4PN1QHzD7kWBZ/PNH2z5Kg=="/>
+        <Trail type="legs.keys.oot.norn.sabotage.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Sabotage 2.trl"/>
+        <POI MapID="31" xpos="-405.114" ypos="29.653" zpos="-425.359" type="legs.keys.oot.norn.sabotage.set.sign" GUID="t6ZaBTqyYEys0xGGCKgceA=="/>
+        <Trail type="legs.keys.oot.norn.sabotage.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Sabotage 3 Instance.trl"/>
+        <POI MapID="444" xpos="430.327" ypos="153.568" zpos="1420.85" type="legs.keys.oot.norn.sabotage.set.wp" GUID="juy7N3zqxUyWGAs7J0fJ2g==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <!-- Silent Warfare -->
+        <POI MapID="375" xpos="55.1076" ypos="342.001" zpos="-372.902" type="legs.keys.oot.norn.warfare.set.wp" GUID="hXROiNqCo02Gwe/y6c+iGQ==" copy="[&BOsAAAA=]" copy-message="Thunderhorns Waypoint"/>
+        <Trail type="legs.keys.oot.norn.warfare.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Silent Warfare 1.trl"/>
+        <Trail type="legs.keys.oot.norn.warfare.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/Silent Warfare 2 Instance.trl"/>
+        <POI MapID="27" xpos="290.87" ypos="151.942" zpos="1362.17" type="legs.keys.oot.norn.warfare.set.sign" GUID="gRWJ0r7TaUSGE/CSaUTOoA=="/>
+        <POI MapID="454" xpos="-300.422" ypos="128.453" zpos="590.88" type="legs.keys.oot.norn.warfare.set.wp" GUID="KhJB/e5KVkmUmYj/Y6MCTw==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
+        <!-- Chapter 4 - lvl 40 -->
+        <!-- To Lion's Arch -->
+        <POI MapID="326" xpos="69.584" ypos="302.724" zpos="-240.305" type="legs.keys.settingthestage.set.sign" GUID="SkzjVOzPykupMTwGziwoOA==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.settingthestage.hb" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+    </POIs>
 </OverlayData>

@@ -1,294 +1,256 @@
 <OverlayData>
-	<POIs>
-                  
-      <!-- Chapter 4 - lvl 40 -->
-            
-      <!-- Setting the Stage -->
-      <Trail type="legs.keys.settingthestage.la"                        trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Setting the Stage 1 LA.trl"/>
-      <POI MapID="50" xpos="-143.98" ypos="23.4277" zpos="402.34"       type="legs.keys.settingthestage.set.sign" GUID="2vZv9Dho3kyPM7u0moL/1g=="/>
-      <Trail type="legs.keys.settingthestage.instance"                  trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Setting the Stage 2 Instance.trl"/>
-      
-      <!-- Dredging up the Past -->
-      <Trail type="legs.keys.dredgingupthepast.la"                      trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 1 LA.trl"/>
-      <POI MapID="50" xpos="-101.094" ypos="23.174" zpos="305.822"      type="legs.keys.dredgingupthepast.set.sign" GUID="LhHLFP6d+UG4kSBKAfy6iw=="/>
-      <Trail type="legs.keys.dredgingupthepast.la"                      trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 2 Instance.trl"/>
-      <POI MapID="50" xpos="-173.979" ypos="20.8439" zpos="210.425"     type="legs.keys.dredgingupthepast.set.sign" GUID="/KhCDtcQmUKudZhphPWpYg=="/>
-      <Trail type="legs.keys.dredgingupthepast.la"                      trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 3 LA.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      
-      <Trail type="legs.keys.dredgingupthepast.lornars"                 trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 4.trl"/>      
-      <POI MapID="27" xpos="-421.157" ypos="168.936" zpos="497.631"     type="legs.keys.dredgingupthepast.set.sign" GUID="hydlqhnwykWBmiVSgLmvhw=="/>      
-      <Trail type="legs.keys.dredgingupthepast.instance"                trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 5 Instance.trl"/>
-      <POI MapID="497" xpos="421.32" ypos="142.177" zpos="490.754"      type="legs.keys.dredgingupthepast.set.wp" GUID="nG72nOqx9kqAEArQ2ThHrA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
-      <Trail type="legs.keys.dredgingupthepast.lornars"                 trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 6.trl"/>
-      <Trail type="legs.keys.dredgingupthepast.instance"                trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 7 Instance.trl"/>
-      <POI MapID="498" xpos="-493.899" ypos="161.085" zpos="645.772"    type="legs.keys.dredgingupthepast.set.wp" GUID="2jUr3LYKz0+p+qG6EkqvbA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
-           
-      <!-- Bad Blood -->
-      <Trail type="legs.keys.badblood.lornars"                          trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 1.trl"/>
-      <Trail type="legs.keys.badblood.lornars"                          trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 1 Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
-      <POI MapID="27" xpos="-369.473" ypos="168.931" zpos="516.969"     type="legs.keys.badblood.set.choice" GUID="NhbyyIfkokGOsqN/splO0A==" info="Follow Dashed Line if no flying mount" infoRange="5"/>
-      <POI MapID="27" xpos="-362.708" ypos="168.931" zpos="522.919"     type="legs.keys.badblood.mount.skyscale" GUID="a+mFVOmXxEaGL3RQHdoOgw=="/>
-      <POI MapID="27" xpos="-415.701" ypos="168.931" zpos="495.985"     type="legs.keys.badblood.set.sign" GUID="JPfDHS91a0qtF3lv5fVySA=="/>
-      <Trail type="legs.keys.badblood.instance"                         trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 2 Instance.trl"/>
-      <POI MapID="643" xpos="-132.311" ypos="63.871" zpos="1003.33"     type="legs.keys.badblood.set.choice" GUID="mxthMvHX5UyH6eDym9Tg1w==" info="Follow dashed line if you have a Leap skill.&#xA;&#xA;Guardian - Greatsword 3: Leap of Faith&#xA;Warrior - Sword 2: Savage Leap" infoRange="3"/>
-		<POI MapID="643" xpos="-101.321" ypos="52.7583" zpos="971.687"    type="legs.keys.badblood.set.choice" GUID="HvMMsgNRN0egVMNRx+Mtxg==" info="MAGISTER SIERAN&#xA;&#xA;2. What do we do now?&#xA;&#xA;   1. The dwarves must have made a sheathe for the sword..." infoRange="5"/>
-      <Trail type="legs.keys.badblood.instance"                         trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 2 Instance Alt 2.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      <Trail type="legs.keys.badblood.instance"                         trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 2 Instance Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
-      <POI MapID="643" xpos="-101.308" ypos="52.7583" zpos="971.666"    type="legs.keys.dredgingupthepast.set.wp" GUID="4PmJn7NQFU2aztawX8YElA==" copy="[&BFIGAAA=]" copy-message="Refuge Peak Waypoint"/>
-      
-      <!-- The Stone Sheath -->
-      <Trail type="legs.keys.thestonesheath.lornars"                    trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 1.trl"/>
-      <POI MapID="27" xpos="-173.9" ypos="94.2895" zpos="399.871"       type="legs.keys.thestonesheath.set.sign" GUID="gcHZle9aekSgkeXEYfD9nw=="/>
-      <Trail type="legs.keys.thestonesheath.instance"                   trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance In Land.trl"/>
-      <Trail type="legs.keys.thestonesheath.instance"                   trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance In Water.trl" color="33FFFF"/>
-      <Trail type="legs.keys.thestonesheath.instance"                   trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance Out Water.trl" color="33FFFF"/>
-      <Trail type="legs.keys.thestonesheath.instance"                   trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance Alt.trl" color="33FFFF"  texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
-      <POI MapID="642" xpos="-248.175" ypos="1.03725" zpos="-491.684"   type="legs.keys.thestonesheath.set.wp" GUID="cQxRjGPtYEu9gDMrkJzGcQ==" copy="[&BFQGAAA=]" copy-message="Cascade Bridge Waypoint"/>
-      
-      <!-- Mightier than the Sword -->
-      <Trail type="legs.keys.mightierthanthesword.lornars"              trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 1.trl"/>
-      <POI MapID="27" xpos="-415.517" ypos="168.931" zpos="494.452"     type="legs.keys.mightierthanthesword.set.sign" GUID="H/4T9TLDVUa/e0zXG+uMWw=="/>
-      <Trail type="legs.keys.mightierthanthesword.instance"             trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 2 Instance.trl"/>
-      <POI MapID="653" xpos="-238.431" ypos="50.2782" zpos="-1201.44"   type="legs.keys.mightierthanthesword.set.wp" GUID="Lnm6N/u+DUmAYjymjZTTpA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
-      <POI MapID="27" xpos="-117.436" ypos="64.0468" zpos="-398.152"    type="legs.keys.mightierthanthesword.set.sign" GUID="wUgkNKgk7US0SLIcJX1A6w=="/>
-      <Trail type="legs.keys.mightierthanthesword.lornars"              trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 3.trl"/>
-      <Trail type="legs.keys.mightierthanthesword.instance"             trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 4 Instance.trl"/>
-      <POI MapID="693" xpos="-365.564" ypos="168.933" zpos="478.924"    type="legs.keys.mightierthanthesword.set.choice" GUID="wP2qF6BknUq56iyFj/wBPQ==" info="MAGISTER SIERAN&#xA;&#xA;Asura, Human, Norn and Sylvari should choose:&#xA;   > The hylek are an enigma. Do we know much about them?&#xA;      > I choose to study the hylek.&#xA;&#xA;Charr should choose:&#xA;   > The ogres are one of the most ancient races, and yet we know so little about them—other than their dedication to their pets.&#xA;      > I choose to study the ogres." infoRange="5"/>
-      <POI MapID="693" xpos="-365.564" ypos="168.933" zpos="478.924"    type="legs.keys.mightierthanthesword.set.wp" GUID="F3KFmA0dAEijDkYHDnPYOQ==" copy="Non-Charr to [&BDIEAAA=], Charr to [&BMgDAAA=]" copy-message="Non-Charr to Cavern Waypoint, Lion's Arch&#xA;&#xA;Charr to Phasmatis Waypoint, Plains of Ashford"/>
-      
-      <!-- Chapter 5 - lvl 50 -->
-      <!-- Hylek -->
-      <!-- Champion's Sacrifice -->     
-      <Trail type="legs.keys.hylek.championssacrifice.bloodtide"        trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Champions Sacrifice 1.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      <POI MapID="50" xpos="613.002" ypos="32.2925" zpos="30.8454"      type="legs.keys.hylek.championssacrifice.set.sign" GUID="5IAcj5vDXUyAo/riLWL5MQ=="/>
-      <Trail type="legs.keys.hylek.championssacrifice.bloodtide"        trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Champions Sacrifice 2.trl"/>
-      <POI MapID="73" xpos="226.979" ypos="19.6516" zpos="979.054"      type="legs.keys.hylek.championssacrifice.set.sign" GUID="keiLL8Vva0G2Ke2Av3bCHw=="/>
-      <Trail type="legs.keys.hylek.championssacrifice.instance"         trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Champions Sacrifice 3 Instance.trl"/>
-      <POI MapID="683" xpos="-304.146" ypos="1.39053" zpos="919.855"    type="legs.keys.hylek.championssacrifice.set.wp" GUID="qiCXtjePEk6GPd7A8bGfng==" copy="[&BKMBAAA=]" copy-message="Archen Foreland Waypoint"/>
-      <POI MapID="683" xpos="-304.437" ypos="1.3553" zpos="919.731"     type="legs.keys.hylek.championssacrifice.set.choice" GUID="lCQqGm7M0kGIvKamFIs4mQ==" info="MAGISTER SIERAN&#xA;&#xA;3. I'm Ready to decide&#xA;&#xA;   1. I'll participate in the tournament.&#xA;&#xA;      > I'll see you there." infoRange="5"/>
-
-      <!-- Chosen of the Sun -->
-      <Trail type="legs.keys.hylek.chosenofthesun.bloodtide"            trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Chosen of the Sun 1.trl"/>
-      <POI MapID="73" xpos="222.651" ypos="14.327" zpos="962.326"       type="legs.keys.hylek.chosenofthesun.set.sign" GUID="3p8CHrylyUqXR5wzou3JHg=="/>
-      <Trail type="legs.keys.hylek.chosenofthesun.bloodtide"            trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Chosen of the Sun 2 Instance.trl"/>
-      <POI MapID="687" xpos="519.773" ypos="-0.122971" zpos="728.52"    type="legs.keys.hylek.chosenofthesun.set.wp" GUID="4He+SxJ8Zki/Md+lJJFphw==" copy="[&BKMBAAA=]" copy-message="Archen Foreland Waypoint"/>
-      
-      <Trail type="legs.keys.hylek.unholygrounds.bloodtide"             trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Unholy Grounds 1.trl"/>
-      <POI MapID="73" xpos="219.288" ypos="14.9001" zpos="963.891"      type="legs.keys.hylek.unholygrounds.set.sign" GUID="NGrj1Q182kGgBfx0jhIXYw=="/>
-      <Trail type="legs.keys.hylek.unholygrounds.instance"              trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Unholy Grounds 2 Instance.trl"/>
-      <Trail type="legs.keys.hylek.unholygrounds.instance"              trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Unholy Grounds 2b Instance.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      <POI MapID="686" xpos="-262.017" ypos="2.95059" zpos="865.733"    type="legs.keys.hylek.unholygrounds.set.wp" GUID="v7kxSYNQBk+CULKByUqkjA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
-      
-      <!-- Ogres -->
-      
-      <!-- Untamed Wilds -->
-      <POI MapID="19" xpos="623.291" ypos="13.2353" zpos="176.766"      type="legs.keys.ogres.untamed.set.sign" GUID="oI8cJhqhPkWn+Y8DM3sC3g=="/>
-      <Trail type="legs.keys.ogres.untamed.ashford"                     trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 1.trl"/>
-      <Trail type="legs.keys.ogres.untamed.blazeridge"                  trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 2.trl"/>
-      <POI MapID="20" xpos="-555.525" ypos="36.3338" zpos="-415.493"    type="legs.keys.ogres.untamed.set.sign" GUID="8Ubk/H028kuMRRBFM5g9BA=="/>
-		<POI MapID="20" xpos="-110.796" ypos="27.5367" zpos="-99.2412"    type="legs.keys.ogres.untamed.set.sign" GUID="jHhE7kAL+EiBkvGhx9rFFA=="/>
-      <Trail type="legs.keys.ogres.untamed.blazeridge"                  trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 3 Instance.trl"/>
-      <POI MapID="656" xpos="543.563" ypos="115.506" zpos="-34.5134"    type="legs.keys.ogres.untamed.set.wp" GUID="Kq1kJzKzekecESjXtUhZJg==" copy="[&BAUCAAA=]" copy-message="Refuge Sanctum Waypoint"/>            
-      <Trail type="legs.keys.ogres.untamed.blazeridge"                  trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 4.trl"/>
-      <Trail type="legs.keys.ogres.untamed.blazeridge"                  trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 5 Instance.trl"/>
-      <POI MapID="682" xpos="-181.284" ypos="15.4094" zpos="-411.776"   type="legs.keys.ogres.untamed.set.wp" GUID="959P/nBC+0qvL1Q+U4Gi1g==" copy="[&BE8DAAA=]" copy-message="Gastor Gullet Waypoint"/>
-      
-      <!-- Pets and Walls Make Stronger Kraals -->
-      <POI MapID="20" xpos="337.828" ypos="71.9411" zpos="-109.175"     type="legs.keys.ogres.pets.set.sign" GUID="KoNTWYgr/U6rj1acufym1A=="/>
-      <Trail type="legs.keys.ogres.pets.blazeridge"                     trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 1.trl"/>
-      <Trail type="legs.keys.ogres.pets.blazeridge"                     trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 2 Instance.trl"/>
-      <POI MapID="20" xpos="160.41" ypos="48.6079" zpos="1.67638"       type="legs.keys.ogres.pets.set.sign" GUID="FExdn37JQE6cl94KCkIdpQ=="/>
-      <Trail type="legs.keys.ogres.pets.blazeridge"                     trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 3.trl"/>
-      <Trail type="legs.keys.ogres.pets.blazeridge"                     trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 4 Instance.trl"/>
-      <POI MapID="668" xpos="229.495" ypos="9.08306" zpos="170.907"     type="legs.keys.ogres.pets.set.wp" GUID="c/Ib4DJMAEuKrzd0aNcn7Q==" copy="[&BE8DAAA=]" copy-message="Gastor Gullet Waypoint"/>       
-      
-      <!-- The Lost Chieftain's Return -->
-      
-      <POI MapID="20" xpos="342.166" ypos="72.3465" zpos="-111.158"     type="legs.keys.ogres.return.set.sign" GUID="F14tg+t3ikiglq4f11MYpQ=="/>
-      <Trail type="legs.keys.ogres.return.blazeridge"                   trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/The Lost Chieftain's Return 1.trl"/>
-      <Trail type="legs.keys.ogres.return.blazeridge"                   trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/The Lost Chieftain's Return 2 Instance.trl"/>
-      <POI MapID="659" xpos="574.746" ypos="111.2" zpos="-16.359"       type="legs.keys.ogres.return.set.wp" GUID="wzSF5NJjRUaoUynZpo41Kg==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>     
-      
-      <!-- Chapter 6 - lvl 60 -->
-      
-      <POI MapID="27" xpos="-415.517" ypos="170.931" zpos="494.452"  type="legs.keys.onredalert.set.sign" GUID="pYg+PkN/f0qOuX5yZqe6Rg==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/On Red Alert 1.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.onredalert.trail"                    trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 1 Instance.trl"/>
-      <POI MapID="700" xpos="-493.231" ypos="161.078" zpos="644.954" type="legs.keys.onredalert.set.wp" GUID="hZ1R7OV6VEOiMoG1unPWDA==" copy="[&BBEEAAA=]" copy-message="Gate Hub Plaza Waypoint"/>
-      <POI MapID="50" xpos="94.3198" ypos="29.0314" zpos="156.501"   type="legs.keys.onredalert.set.sign" GUID="RDjgrkX0YEq3U7TBNmn+ZA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/On Red Alert 2.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="701" xpos="-499.286" ypos="1.24543" zpos="71.3991" type="legs.keys.onredalert.set.wp" GUID="yGj8KszykkGQBtBYAL4mCQ==" copy="[&BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
-      <Trail type="legs.keys.onredalert.la"                          trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 2 LA.trl"/>
-      <Trail type="legs.keys.onredalert.instance"                    trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 3 Instance.trl"/>
-      <Trail type="legs.keys.onredalert.instance"                    trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 3b Instance.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-
-      <Trail type="legs.keys.thebattleofclawisland.la"                  trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 1 LA.trl"/>
-      <POI MapID="50" xpos="-295.843" ypos="10.3603" zpos="54.8129"     type="legs.keys.thebattleofclawisland.set.sign" GUID="tk8x7f33YE6mjb7BGm6/nQ=="/>
-      <POI MapID="50" xpos="-104.844" ypos="-1.05642" zpos="-215.113"   type="legs.keys.thebattleofclawisland.set.wp" GUID="dD1Kxj7N2kap60+Y0flcWA==" copy="[&BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
-      <POI MapID="50" xpos="-92.1073" ypos="9.82394" zpos="-219.73"     type="legs.keys.thebattleofclawisland.set.sign" GUID="lBm+/60o5kO+WFW5J9HTwg=="/>
-      <Trail type="legs.keys.thebattleofclawisland.instance"         trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 2.trl" color="ffff00"/>
-      <Trail type="legs.keys.thebattleofclawisland.instance"         trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 3.trl" color="ffcc00"/>
-      <Trail type="legs.keys.thebattleofclawisland.instance"         trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 4.trl" color="ff9900"/>
-      <Trail type="legs.keys.thebattleofclawisland.instance"         trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 5.trl" color="ff6600"/>
-      <Trail type="legs.keys.thebattleofclawisland.instance"         trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 6.trl" color="ff6600"/>
-      
-      <POI MapID="50" xpos="-67.3646" ypos="1.25242" zpos="-187.122" type="legs.keys.lws2tp.returntocampresolve.set.wp" GUID="3GOD7lXKIEeYwEEffNzwRg==" info="After completing The Battle for Claw Island.&#xA;&#xA;Attain Level 80.&#xA;&#xA;Set story to Living World Season 2: Tangled Paths&#xA;&#xA;Head to Soren Draa Waypoint in Metrica Province." infoRange="5"/>      
-      <POI MapID="50" xpos="-67.3646" ypos="1.25242" zpos="-187.122" type="legs.keys.lws2tp.returntocampresolve.set.wp" GUID="Zksko1bISUeD08RsdJF9Nw==" copy="After The Battle for Claw Island. Attain Level 80. Set story to Living World Season 2: Tangled Paths. Head to [&BEAAAAA=] in Metrica Province." copy-message=""/>
-      
-            
-      <!-- Level 80: LWS2 - Chapter 6: Tangled Paths-->
-      
-      <POI MapID="35" xpos="-479.175" ypos="47.2882" zpos="-731.138"        type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="0tk3m792fkKHtkthxFZz8w==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="23" xpos="59.5364" ypos="37.9943" zpos="385.349"          type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="iFLlOYzC00yBLorP8Clz+A==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.lws2tp.returntocampresolve.metrica"            trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Metrica Province.trl"/>
-      <Trail type="legs.keys.lws2tp.returntocampresolve.metrica"            trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Metrica Province 2.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      <Trail type="legs.keys.lws2tp.returntocampresolve.kessex"             trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Kessex Hills.trl"/>
-      <POI MapID="54" xpos="281.093" ypos="74.4142" zpos="-692.758"         type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="m21Gs9tG4USVjQMdzU+TbQ==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.lws2tp.returntocampresolve.brisban"            trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Brisban Wildlands.trl"/>
-      <Trail type="legs.keys.lws2tp.returntocampresolve.brisban"            trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Brisban Wildlands 2.trl"/>
-      <POI MapID="1015" xpos="598.565" ypos="414.801" zpos="-188.563"       type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="wK3wYdJWMkCjM9gLQ0GEvA=="        iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.lws2tp.returntocampresolve.silverwastes"       trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Silverwastes.trl"/>
-      <Trail type="legs.keys.lws2tp.returntocampresolve.instance"           trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve 1 Instance.trl"/>
-      
-      <POI MapID="1015" xpos="498.006" ypos="413.366" zpos="-182.821" type="legs.keys.lws2tp.trackingtheaspectmasters.set.sign" GUID="n1tdDpT9fUueO2y/oLpBuA=="   iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Tracking the Aspect Masters.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.lws2tp.trackingtheaspectmasters.silverwastes"  trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Tracking the Aspect Masters 1.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      <Trail type="legs.keys.lws2tp.trackingtheaspectmasters.instance"      trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Tracking the Aspect Masters 2 Instance.trl"/>
-      
-      <POI MapID="1015" xpos="184.435" ypos="413.495" zpos="-205.425" type="legs.keys.lws2tp.intothelabyrinth.set.sign" GUID="Vl8T/DYHbE+lVBKNX2RHog=="           iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.lws2tp.intothelabyrinth.silverwastes"          trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth 1.trl"/>
-      <Trail type="legs.keys.lws2tp.intothelabyrinth.instance"              trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth 2 Instance.trl"/>
-      <Trail type="legs.keys.lws2tp.intothelabyrinth.instance"              trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth 2b Instance.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-      
-      <POI MapID="1021" xpos="-76.9395" ypos="346.466" zpos="-319.593"      type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="MAsuXxVd1kij+lUxZNT9GQ==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Caithe.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
-		<POI MapID="1021" xpos="-71.125" ypos="346.472" zpos="-343.318"       type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="6gVVdVpRZ0GqRGWxr7JkYA==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Marjory_Delaqua.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
-		<POI MapID="1021" xpos="-211.757" ypos="349.071" zpos="-375.25"       type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="JjE9mmebEk+gWH7zMiOQug==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Rox.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
-      <POI MapID="1021" xpos="-347.75" ypos="338.48" zpos="-271.884"        type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="vPcSxXaOh0GOYMG9/6fgDA==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Braham_Eirsson.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
-		<POI MapID="1021" xpos="-158.769" ypos="358.191" zpos="-254.486"      type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="9xomp9VLv0u7DfTAJUfHyg==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Kasmeer_Meade.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
-      <POI MapID="1021" xpos="-243.124" ypos="373.992" zpos="-364.374"      type="legs.keys.lws2tp.intothelabyrinth.set.wp" GUID="peSuqWO0SEauIWZfxbQlsw==" copy="[&BKcHAAA=]" copy-message=""/>
-      <POI MapID="1021" xpos="-243.124" ypos="373.992" zpos="-364.374"      type="legs.keys.lws2tp.intothelabyrinth.set.wp" GUID="vWARLUe2NkKcy6TxKlR40Q==" info="Camp Resolve Waypoint.&#xA;&#xA;Set Story to Heart of Thorns - Prologue: Rally to Maguuma" infoRange="5"/>
-      
-      
-      <!-- Level 80: HoT Heart of Thorns - Chapter 11. Roots of Terror -->
-      
-      <!-- Silverwastes -->
-      <POI MapID="1015" xpos="497.506" ypos="412.254" zpos="-231.272"      type="legs.keys.one.set.sign" GUID="YGa4i5+wj0O4fOmntkzxgg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Rally to Maguuma.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.one.silverwastes"                             trailData="Data/LadyElyssa/Key Run/HoT/Chapter 1 - Rally to Maguuma 1.trl"/>
-      <Trail type="legs.keys.one.instance"                                 trailData="Data/LadyElyssa/Key Run/HoT/Chapter 1 - Rally to Maguuma 2 Instance.trl"/>
-      <!-- Verdant Brink -->      
-      <Trail type="legs.keys.two.instance"                                 trailData="Data/LadyElyssa/Key Run/HoT/Chapter 2 - Torn from the Sky Instance.trl"/>
-      <POI MapID="1052" xpos="946.67" ypos="417.003" zpos="63.9957"        type="legs.keys.three.set.sign" GUID="pByANBIlg0+Q6tVhCcSGkA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Establishing a Foothold.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1052" xpos="857.889" ypos="430.444" zpos="53.8486"       type="legs.keys.three.set.glider" GUID="Z8lh+E3bu0uY3ABbFH2Gsw=="/>
-      <Trail type="legs.keys.three.vb"                                     trailData="Data/LadyElyssa/Key Run/HoT/Chapter 3 - Establishing a Foothold.trl"/>
-      <POI MapID="1052" xpos="94.5286" ypos="376.599" zpos="-13.5095"      type="legs.keys.three.set.wp" GUID="gNzPfFninkOkBVBjq8iSwA==" copy="[&BAgIAAA=]" copy-message="Pact Encampment Waypoint"/>
-      <POI MapID="1052" xpos="132.393" ypos="429.263" zpos="-27.4701"      type="legs.keys.three.set.sign" GUID="S2IUBHy8nE2oBc2oWQ7VYQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Establishing a Foothold.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1052" xpos="110.678" ypos="434.53" zpos="-43.565"        type="legs.keys.three.set.glider" GUID="kpiQJ1BNaEW7JvoUP7r92A=="/>
-      <Trail type="legs.keys.four.vb"                                      trailData="Data/LadyElyssa/Key Run/HoT/Chapter 4 - The Jungle Provides 1.trl"/>
-		<POI MapID="1052" xpos="126.301" ypos="427.341" zpos="-19.6403"      type="legs.keys.three.set.glider" GUID="bJ97aFAJPE+06IZIVNH+4w=="/>
-      <POI MapID="1052" xpos="69.8212" ypos="414.325" zpos="-45.5311"      type="legs.keys.three.set.sign" GUID="gNJpiyfEzUyMeNUWP9k8Ow==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/The Jungle Provides.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1052" xpos="71.179" ypos="413.336" zpos="-43.2319"       type="legs.keys.three.set.glider" GUID="QaLMczagR0OL2cFM7uhO+w=="/>
-      <POI MapID="1052" xpos="102.184" ypos="434.455" zpos="160.881"       type="legs.keys.three.set.glider" GUID="nttGa0FzbE+1D4/UxM25wA=="/>
-      <Trail type="legs.keys.four.instance"  trailData="Data/LadyElyssa/Key Run/HoT/Chapter 4 - The Jungle Provides 2 Instance.trl"/>
-      <Trail type="legs.keys.five"           trailData="Data/LadyElyssa/Key Run/HoT/Chapter 5 - In Their Footsteps.trl"/>
-      <POI MapID="1052" xpos="282.197" ypos="372.978" zpos="211.572"       type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="RdndLcbif0Ki2pyLucuOLw==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/In Their Footsteps.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1052" xpos="-6.61043" ypos="426.758" zpos="129.793"      type="legs.keys.three.set.glider" GUID="LOHz/e4LT0O2tizw89il5w=="/>
-      <POI MapID="1052" xpos="-78.7221" ypos="430.501" zpos="40.0993"      type="legs.keys.three.set.glider" GUID="IZicSO0loUizsBObucxYGQ=="/>
-      <POI MapID="1052" xpos="-104.422" ypos="393.053" zpos="-74.5431"     type="legs.keys.three.set.glider" GUID="6Ge8+Ttq8kKmGUb6w753mQ=="/>
-      <POI MapID="1052" xpos="-376.74" ypos="427.538" zpos="-199.095"      type="legs.keys.six.set.sign" GUID="2VT7R5Gpbka3extBLhpkbg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Prisoners of the Dragon.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1052" xpos="-398.606" ypos="441.625" zpos="-155.646"     type="legs.keys.six.set.glider" GUID="6mu2pcrdM0yNP31Gmwlcjw=="/>
-		<POI MapID="1051" xpos="-701.785" ypos="488" zpos="71.2249"          type="legs.keys.six.set.glider" GUID="SINZw6rwDk61As9OWBH0+A=="/>
-		<POI MapID="1051" xpos="-704.821" ypos="463.576" zpos="-55.8786"     type="legs.keys.six.set.glider" GUID="V/RHdLtBjESCsJz+vIV6sQ=="/>
-      <POI MapID="1052" xpos="-785.106" ypos="379.341" zpos="-401.558"     type="legs.keys.six.set.resume" GUID="n82yC+prWEm460Mczd2U/g=="/>
-      <Trail type="legs.keys.six.vb"         trailData="Data/LadyElyssa/Key Run/HoT/Chapter 6 - Prisoners of the Dragon 1.trl"/>
-      <Trail type="legs.keys.six.instance"   trailData="Data/LadyElyssa/Key Run/HoT/Chapter 6 - Prisoners of the Dragon 2 Instance.trl"/>
-      <Trail type="legs.keys.six.vb"         trailData="Data/LadyElyssa/Key Run/HoT/Chapter 6 - Prisoners of the Dragon 3.trl"/>
-      <!-- Auric Basin -->      
-      <Trail type="legs.keys.seven.ab"       trailData="Data/LadyElyssa/Key Run/HoT/Chapter 7 - Prized Possessions 1.trl"/>
-      <POI MapID="1043" xpos="-452.391" ypos="499.501" zpos="794.491"      type="legs.keys.seven.set.sign" GUID="eyUWPjpWRU2vrG6MaBFQFg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Prized Possessions.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1032" xpos="160.023" ypos="306.506" zpos="372.359"       type="legs.keys.seven.egg.ds" GUID="T3mIoMkmDEOf0GP7FgTI2g=="/>      
-      <Trail type="legs.keys.seven.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 7 - Prized Possessions 2 Instance.trl"/>
-      <Trail type="legs.keys.seven.egg.trail"    trailData="Data/LadyElyssa/Key Run/HoT/Chapter 7 - Prized Possessions 2b Instance.trl"/>
-      <POI MapID="1032" xpos="206.722" ypos="300.918" zpos="359.488"       type="legs.keys.seven.egg.ds" GUID="ZvmkPWOntESsZHWmDfHZKQ=="/>
-		<POI MapID="1032" xpos="274.411" ypos="308.012" zpos="397.436"       type="legs.keys.seven.egg.ds" GUID="n1E2qOpIkUyjm3bY7Du5Lg=="/>
-		<POI MapID="1032" xpos="336.722" ypos="311.048" zpos="412.788"       type="legs.keys.seven.egg.dw" GUID="6sPKSkV8OU6Si7zu6US4Xw=="/>
-		<POI MapID="1032" xpos="345.265" ypos="318.746" zpos="415.597"       type="legs.keys.seven.egg.dp" GUID="O5ogb+oQBUuw2wIT2Y4ENQ=="/>
-		<POI MapID="1032" xpos="356.238" ypos="326.74" zpos="439.976"        type="legs.keys.seven.egg.dw" GUID="t8iAgaayp0eTcVh+h8Q19w=="/>
-		<POI MapID="1032" xpos="358.466" ypos="333.978" zpos="432.37"        type="legs.keys.seven.egg.dp" GUID="LTnx0RDPnkSenTKIMGnOCA=="/>
-		<POI MapID="1032" xpos="366.552" ypos="341.93" zpos="419.861"        type="legs.keys.seven.egg.dp" GUID="Gxs14W8XHEKc7Cd7Xw0yYQ=="/>
-		<POI MapID="1032" xpos="367.257" ypos="348.769" zpos="429.97"        type="legs.keys.seven.egg.dp" GUID="qtVG1SlfwU6uh36zpkFVYw=="/>
-		<POI MapID="1032" xpos="381.378" ypos="362.364" zpos="408.283"       type="legs.keys.seven.egg.ds" GUID="K1JfpnQCNE+SGrnBBhvHkw=="/>
-		<POI MapID="1032" xpos="485.291" ypos="361.018" zpos="403.216"       type="legs.keys.seven.egg.dp" GUID="Pe/RwOjInE+LVVAJ5xDuFQ=="/>
-		<POI MapID="1032" xpos="523.181" ypos="357.936" zpos="402.224"       type="legs.keys.seven.egg.dp" GUID="jt+PvExT6kKyAlvmKkaD6Q=="/>
-		<POI MapID="1032" xpos="552.384" ypos="362.792" zpos="435.529"       type="legs.keys.seven.egg.dp" GUID="Qo8hhE61tkuC6l1AFUYMkw=="/>
-		<POI MapID="1032" xpos="543.852" ypos="361.969" zpos="456.47"        type="legs.keys.seven.egg.dp" GUID="e6FXDc77pUKsjOV/TTzWNg=="/>
-		<POI MapID="1032" xpos="508.003" ypos="366.782" zpos="511.072"       type="legs.keys.seven.egg.ds" GUID="9m9fPe1Dd0a/V6W/MfqxKw=="/>
-		<POI MapID="1032" xpos="502.327" ypos="369.84" zpos="530.392"        type="legs.keys.seven.egg.dp" GUID="mial01EPq0iBuJ9ewa5sLQ=="/>
-		<POI MapID="1032" xpos="529.313" ypos="383.428" zpos="575.971"       type="legs.keys.seven.egg.dp" GUID="bpDqTuy8Zky/tY+oGqHdpQ=="/>
-		<POI MapID="1032" xpos="552.858" ypos="394.206" zpos="564.522"       type="legs.keys.seven.egg.dp" GUID="c4m1BryJFU219oECtq7UcQ=="/>
-		<POI MapID="1032" xpos="578.592" ypos="401.534" zpos="567.479"       type="legs.keys.seven.egg.dp" GUID="bDtIV5zl70C0dJbYZ9QX4Q=="/>
-		<POI MapID="1032" xpos="502.101" ypos="372.396" zpos="565.74"        type="legs.keys.seven.egg.dp" GUID="0xf230K/20yFO5cm01g/xg=="/>
-		<POI MapID="1032" xpos="579.509" ypos="418.222" zpos="607.351"       type="legs.keys.seven.egg.ds" GUID="NyBQkclbmUW/8eayDRFvNQ=="/>
-		<POI MapID="1032" xpos="505.854" ypos="436.076" zpos="670.567"       type="legs.keys.seven.set.glider" GUID="U19yu38C70G+XmxetsZB1g=="/>
-		<POI MapID="1032" xpos="484.067" ypos="427.354" zpos="670.456"       type="legs.keys.seven.egg.ds" GUID="NSuygHglyECne34JvXJlwg=="/>
-		<POI MapID="1032" xpos="315.811" ypos="382.088" zpos="660.18"        type="legs.keys.seven.egg.ds" GUID="cdoSoBKXW0mu6YvARt3DLg=="/>
-		<POI MapID="1032" xpos="287.179" ypos="378.652" zpos="630.561"       type="legs.keys.seven.egg.dp" GUID="BxdOk46naE2kCLOENr5gag=="/>
-		<POI MapID="1032" xpos="124.701" ypos="339.523" zpos="567.449"       type="legs.keys.seven.egg.dp" GUID="ZX6nHeSQx0Oi/HrR/JP6CA=="/>
-      
-      <Trail type="legs.keys.eight.ab"           trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 1.trl"/>
-      
-      <POI MapID="1043" xpos="63.5248" ypos="329.46" zpos="502.84" type="legs.keys.eight.set.sign" GUID="/gxV/jUwfEyaYa2JKjy+1w==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/City of Hope.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.eight.instance"     trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Instance.trl"/>
-      <Trail type="legs.keys.eight.strength"     trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Strength.trl"/>
-      <Trail type="legs.keys.eight.wit.portal.trail"   trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Wit.trl"/>
-      <Trail type="legs.keys.eight.wit.foot"   trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Wit 2.trl"/>
-      
-      <POI MapID="1048" xpos="-118.453" ypos="15.66" zpos="36.3346" type="legs.keys.eight.set.glider" GUID="kktUfN2AMU6HmQRjojX4jg=="/>
-		<POI MapID="1048" xpos="-119.509" ypos="15.662" zpos="94.1796" type="legs.keys.eight.set.glider" GUID="pzL3+Sz//EaQt0sgW/JUdw=="/>
-
-      <POI MapID="1048" xpos="-194.37" ypos="13.9577" zpos="85.2864"    type="legs.keys.eight.wit.portal.portals" GUID="QXTRXp2t9ki7STqnDpiB2g==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Drop Portal / Use Position Rewinder" infoRange="2.5"/>
-		<POI MapID="1048" xpos="-193.762" ypos="13.7454" zpos="42.4057"   type="legs.keys.eight.wit.portal.portals" GUID="x1H2WMsv3EyPgqHGDcexaQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Drop Portal / Use Position Rewinder" infoRange="2.5"/>
-      <POI MapID="1048" xpos="-198.211" ypos="6.971" zpos="43.4982"     type="legs.keys.eight.wit.portal.portals" GUID="QCIjnGA2OUuFO3RTZkN1DA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow Up - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Portal / Rewind back on to Top of Wall" infoRange="2.5"/>
-		<POI MapID="1048" xpos="-203.144" ypos="6.91438" zpos="92.9701"   type="legs.keys.eight.wit.portal.portals" GUID="oO5XgxG6KU2jk6SDUES42g==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow Up - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Portal / Rewind back on to Top of Wall" infoRange="2.5"/>
-      <Trail type="legs.keys.eight.leadership"   trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Leadership.trl"/>
-      <Trail type="legs.keys.eight.egg"          trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Egg.trl"/>
-      <Trail type="legs.keys.eight.instance"     trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Final.trl"/>
-      
-      <!-- Chapter 9 - The Predator's Path -->
-      <Trail type="legs.keys.nine.ab"                                trailData="Data/LadyElyssa/Key Run/HoT/Chapter 9 - The Predator's Path 1.trl"/>
-      <POI MapID="1043" xpos="45.0308" ypos="304.357" zpos="328.935" type="legs.keys.nine.set.sign" GUID="owzp/pILAkSsizvviDoyIw==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/The Predator's Path.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1043" xpos="455.801" ypos="292.158" zpos="70.1152" type="legs.keys.nine.set.sign" GUID="RcvGWY5D40CRb203CzR+KQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/The Predator's Path.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1043" xpos="432.781" ypos="282.517" zpos="82.2596" type="legs.keys.nine.set.wp" GUID="htRMV+bIP0us31D8yfpPrQ==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
-      <POI MapID="1043" xpos="502.869" ypos="292.094" zpos="-211.916" type="legs.keys.nine.set.glider" GUID="x04YGLxKl0erq73iEhuqNA=="/>
-		<POI MapID="1043" xpos="250.132" ypos="289.794" zpos="-624.302" type="legs.keys.nine.set.glider" GUID="Klm7GPH0ckWtty3xOmpq7g=="/>
-      <POI MapID="1043" xpos="525.883" ypos="295.234" zpos="11.1128" type="legs.keys.nine.set.sign" GUID="FHAsRebjgEuI+5QuH3PXdg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-		<POI MapID="1043" xpos="579.88" ypos="290.696" zpos="-168.377" type="legs.keys.nine.set.sign" GUID="Gbb2WcwvKkyLpWMW/moK2Q==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-		<POI MapID="1043" xpos="275.098" ypos="274.434" zpos="-299.832" type="legs.keys.nine.set.sign" GUID="/k0bffJn6kagi7kqg1+/Aw==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1043" xpos="247.788" ypos="290.417" zpos="-620.549" type="legs.keys.nine.set.sign" GUID="V2Ou2mIxSkujDS73VuY5Xg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1043" xpos="250.044" ypos="288.307" zpos="-624.383" type="legs.keys.nine.set.sign" GUID="208pYD3re0eNWlhGHZvsiA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Strange Observations.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <Trail type="legs.keys.nine.ab"                                trailData="Data/LadyElyssa/Key Run/HoT/Chapter 9 - The Predator's Path 2.trl"/>
-      
-      <!-- Chapter 10 - Strange Observations -->
-      <Trail type="legs.keys.ten.ab"                trailData="Data/LadyElyssa/Key Run/HoT/Chapter 10 - Strange Observations.trl"/>
-      
-      <!-- Roots of Terror -->
-      <Trail type="legs.keys.eleven.ab"             trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 1 AB.trl"/>
-      <POI MapID="1043" xpos="490.614" ypos="239.072" zpos="-729.371" type="legs.keys.eleven.set.glider" GUID="c6eyumIH8Eu5msZdfkGAOw=="/>
-		<POI MapID="1043" xpos="492.431" ypos="239.422" zpos="-726.192" type="legs.keys.eleven.set.sign" GUID="TakM8dNdfkSTHZNJL74TbA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      
-      <POI MapID="1045" xpos="-792.212" ypos="257.328" zpos="162.204"   type="legs.keys.eleven.set.sign" GUID="jL5r81yDEE2AEUaNetqHdg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1045" xpos="-702.956" ypos="241.34" zpos="194.019"    type="legs.keys.eleven.set.sign" GUID="uetl6lhrAUu1q5M8BxlxIQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror - Gliding Path.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-      <POI MapID="1045" xpos="-704.119" ypos="240.941" zpos="191.762"   type="legs.keys.eleven.set.sign" GUID="IrlS0RNutkW4QpVT4ytWnQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror - Footpath.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>      
-      <Trail type="legs.keys.eleven.td.one"      trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 1 TD.trl"/>
-      <Trail type="legs.keys.eleven.td.two"      trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 2 TD.trl"/>
-      <Trail type="legs.keys.eleven.instance"    trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 3 Instance.trl"/>
-      <Trail type="legs.keys.eleven.instance.dark"     trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 3 Dark Path.trl"/>
-      <Trail type="legs.keys.eleven.instance.troll"    trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 3 Troll Path.trl"/>
-            
-      <!-- Maps to Complete -->
-      <POI MapID="51" xpos="907.986" ypos="30.1442" zpos="147.422" type="legs.keys.orr.straits" GUID="o9R5CjlMKECf5f5kuv8ndg=="/>
-      <POI MapID="65" xpos="1025.6" ypos="30.5465" zpos="-366.628" type="legs.keys.orr.malchors" GUID="weFPXKYQXUii4l0sALYN1w=="/>
-      <POI MapID="62" xpos="377.841" ypos="87.8364" zpos="1135.09" type="legs.keys.orr.cs" GUID="SYNxDGqXeUKb43Py99BbLQ=="/>
-      <POI MapID="988" xpos="406.687" ypos="23.95" zpos="-507.775" type="legs.keys.mw.drytop" GUID="El0lQNwQyE+PGDv+BHKqfQ=="/>
-      <POI MapID="1015" xpos="499.318" ypos="412.247" zpos="-229.518" type="legs.keys.mw.silverwastes" GUID="Xg00E95YY0WHQJeWq5/eXA=="/>
-      <POI MapID="1165" xpos="-226.713" ypos="760.475" zpos="84.2442" type="legs.keys.lws3.bloodstonefen" GUID="2CFYqrswJkCN2UNP6YdyiQ=="/>
-      <POI MapID="1330" xpos="-305.522" ypos="29.6607" zpos="-39.2321" type="legs.keys.lws5.grothmar" GUID="G2GHAdpeEkWkBjHkxycROA=="/>
-
-	</POIs>
+    <POIs>
+        <!-- Chapter 4 - lvl 40 -->
+        <!-- Setting the Stage -->
+        <Trail type="legs.keys.settingthestage.la" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Setting the Stage 1 LA.trl"/>
+        <POI MapID="50" xpos="-143.98" ypos="23.4277" zpos="402.34" type="legs.keys.settingthestage.set.sign" GUID="2vZv9Dho3kyPM7u0moL/1g=="/>
+        <Trail type="legs.keys.settingthestage.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Setting the Stage 2 Instance.trl"/>
+        <!-- Dredging up the Past -->
+        <Trail type="legs.keys.dredgingupthepast.la" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 1 LA.trl"/>
+        <POI MapID="50" xpos="-101.094" ypos="23.174" zpos="305.822" type="legs.keys.dredgingupthepast.set.sign" GUID="LhHLFP6d+UG4kSBKAfy6iw=="/>
+        <Trail type="legs.keys.dredgingupthepast.la" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 2 Instance.trl"/>
+        <POI MapID="50" xpos="-173.979" ypos="20.8439" zpos="210.425" type="legs.keys.dredgingupthepast.set.sign" GUID="/KhCDtcQmUKudZhphPWpYg=="/>
+        <Trail type="legs.keys.dredgingupthepast.la" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 3 LA.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.keys.dredgingupthepast.lornars" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 4.trl"/>
+        <POI MapID="27" xpos="-421.157" ypos="168.936" zpos="497.631" type="legs.keys.dredgingupthepast.set.sign" GUID="hydlqhnwykWBmiVSgLmvhw=="/>
+        <Trail type="legs.keys.dredgingupthepast.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 5 Instance.trl"/>
+        <POI MapID="497" xpos="421.32" ypos="142.177" zpos="490.754" type="legs.keys.dredgingupthepast.set.wp" GUID="nG72nOqx9kqAEArQ2ThHrA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
+        <Trail type="legs.keys.dredgingupthepast.lornars" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 6.trl"/>
+        <Trail type="legs.keys.dredgingupthepast.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Dredging up the Past 7 Instance.trl"/>
+        <POI MapID="498" xpos="-493.899" ypos="161.085" zpos="645.772" type="legs.keys.dredgingupthepast.set.wp" GUID="2jUr3LYKz0+p+qG6EkqvbA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
+        <!-- Bad Blood -->
+        <Trail type="legs.keys.badblood.lornars" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 1.trl"/>
+        <Trail type="legs.keys.badblood.lornars" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 1 Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <POI MapID="27" xpos="-369.473" ypos="168.931" zpos="516.969" type="legs.keys.badblood.set.choice" GUID="NhbyyIfkokGOsqN/splO0A==" info="Follow Dashed Line if no flying mount" infoRange="5"/>
+        <POI MapID="27" xpos="-362.708" ypos="168.931" zpos="522.919" type="legs.keys.badblood.mount.skyscale" GUID="a+mFVOmXxEaGL3RQHdoOgw=="/>
+        <POI MapID="27" xpos="-415.701" ypos="168.931" zpos="495.985" type="legs.keys.badblood.set.sign" GUID="JPfDHS91a0qtF3lv5fVySA=="/>
+        <Trail type="legs.keys.badblood.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 2 Instance.trl"/>
+        <POI MapID="643" xpos="-132.311" ypos="63.871" zpos="1003.33" type="legs.keys.badblood.set.choice" GUID="mxthMvHX5UyH6eDym9Tg1w==" info="Follow dashed line if you have a Leap skill.&#xA;&#xA;Guardian - Greatsword 3: Leap of Faith&#xA;Warrior - Sword 2: Savage Leap" infoRange="3"/>
+        <POI MapID="643" xpos="-101.321" ypos="52.7583" zpos="971.687" type="legs.keys.badblood.set.choice" GUID="HvMMsgNRN0egVMNRx+Mtxg==" info="MAGISTER SIERAN&#xA;&#xA;2. What do we do now?&#xA;&#xA;   1. The dwarves must have made a sheathe for the sword..." infoRange="5"/>
+        <Trail type="legs.keys.badblood.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 2 Instance Alt 2.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.keys.badblood.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Bad Blood 2 Instance Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <POI MapID="643" xpos="-101.308" ypos="52.7583" zpos="971.666" type="legs.keys.dredgingupthepast.set.wp" GUID="4PmJn7NQFU2aztawX8YElA==" copy="[&BFIGAAA=]" copy-message="Refuge Peak Waypoint"/>
+        <!-- The Stone Sheath -->
+        <Trail type="legs.keys.thestonesheath.lornars" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 1.trl"/>
+        <POI MapID="27" xpos="-173.9" ypos="94.2895" zpos="399.871" type="legs.keys.thestonesheath.set.sign" GUID="gcHZle9aekSgkeXEYfD9nw=="/>
+        <Trail type="legs.keys.thestonesheath.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance In Land.trl"/>
+        <Trail type="legs.keys.thestonesheath.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance In Water.trl" color="33FFFF"/>
+        <Trail type="legs.keys.thestonesheath.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance Out Water.trl" color="33FFFF"/>
+        <Trail type="legs.keys.thestonesheath.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/The Stone Sheath 2 Instance Alt.trl" color="33FFFF" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <POI MapID="642" xpos="-248.175" ypos="1.03725" zpos="-491.684" type="legs.keys.thestonesheath.set.wp" GUID="cQxRjGPtYEu9gDMrkJzGcQ==" copy="[&BFQGAAA=]" copy-message="Cascade Bridge Waypoint"/>
+        <!-- Mightier than the Sword -->
+        <Trail type="legs.keys.mightierthanthesword.lornars" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 1.trl"/>
+        <POI MapID="27" xpos="-415.517" ypos="168.931" zpos="494.452" type="legs.keys.mightierthanthesword.set.sign" GUID="H/4T9TLDVUa/e0zXG+uMWw=="/>
+        <Trail type="legs.keys.mightierthanthesword.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 2 Instance.trl"/>
+        <POI MapID="653" xpos="-238.431" ypos="50.2782" zpos="-1201.44" type="legs.keys.mightierthanthesword.set.wp" GUID="Lnm6N/u+DUmAYjymjZTTpA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
+        <POI MapID="27" xpos="-117.436" ypos="64.0468" zpos="-398.152" type="legs.keys.mightierthanthesword.set.sign" GUID="wUgkNKgk7US0SLIcJX1A6w=="/>
+        <Trail type="legs.keys.mightierthanthesword.lornars" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 3.trl"/>
+        <Trail type="legs.keys.mightierthanthesword.instance" trailData="Data/LadyElyssa/Key Run/Chapter 4 - Order Neophyte/Durmand Priory/Mightier than the Sword 4 Instance.trl"/>
+        <POI MapID="693" xpos="-365.564" ypos="168.933" zpos="478.924" type="legs.keys.mightierthanthesword.set.choice" GUID="wP2qF6BknUq56iyFj/wBPQ==" info="MAGISTER SIERAN&#xA;&#xA;Asura, Human, Norn and Sylvari should choose:&#xA;   > The hylek are an enigma. Do we know much about them?&#xA;      > I choose to study the hylek.&#xA;&#xA;Charr should choose:&#xA;   > The ogres are one of the most ancient races, and yet we know so little about them—other than their dedication to their pets.&#xA;      > I choose to study the ogres." infoRange="5"/>
+        <POI MapID="693" xpos="-365.564" ypos="168.933" zpos="478.924" type="legs.keys.mightierthanthesword.set.wp" GUID="F3KFmA0dAEijDkYHDnPYOQ==" copy="Non-Charr to [&BDIEAAA=], Charr to [&BMgDAAA=]" copy-message="Non-Charr to Cavern Waypoint, Lion's Arch&#xA;&#xA;Charr to Phasmatis Waypoint, Plains of Ashford"/>
+        <!-- Chapter 5 - lvl 50 -->
+        <!-- Hylek -->
+        <!-- Champion's Sacrifice -->
+        <Trail type="legs.keys.hylek.championssacrifice.bloodtide" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Champions Sacrifice 1.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="50" xpos="613.002" ypos="32.2925" zpos="30.8454" type="legs.keys.hylek.championssacrifice.set.sign" GUID="5IAcj5vDXUyAo/riLWL5MQ=="/>
+        <Trail type="legs.keys.hylek.championssacrifice.bloodtide" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Champions Sacrifice 2.trl"/>
+        <POI MapID="73" xpos="226.979" ypos="19.6516" zpos="979.054" type="legs.keys.hylek.championssacrifice.set.sign" GUID="keiLL8Vva0G2Ke2Av3bCHw=="/>
+        <Trail type="legs.keys.hylek.championssacrifice.instance" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Champions Sacrifice 3 Instance.trl"/>
+        <POI MapID="683" xpos="-304.146" ypos="1.39053" zpos="919.855" type="legs.keys.hylek.championssacrifice.set.wp" GUID="qiCXtjePEk6GPd7A8bGfng==" copy="[&BKMBAAA=]" copy-message="Archen Foreland Waypoint"/>
+        <POI MapID="683" xpos="-304.437" ypos="1.3553" zpos="919.731" type="legs.keys.hylek.championssacrifice.set.choice" GUID="lCQqGm7M0kGIvKamFIs4mQ==" info="MAGISTER SIERAN&#xA;&#xA;3. I'm Ready to decide&#xA;&#xA;   1. I'll participate in the tournament.&#xA;&#xA;      > I'll see you there." infoRange="5"/>
+        <!-- Chosen of the Sun -->
+        <Trail type="legs.keys.hylek.chosenofthesun.bloodtide" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Chosen of the Sun 1.trl"/>
+        <POI MapID="73" xpos="222.651" ypos="14.327" zpos="962.326" type="legs.keys.hylek.chosenofthesun.set.sign" GUID="3p8CHrylyUqXR5wzou3JHg=="/>
+        <Trail type="legs.keys.hylek.chosenofthesun.bloodtide" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Chosen of the Sun 2 Instance.trl"/>
+        <POI MapID="687" xpos="519.773" ypos="-0.122971" zpos="728.52" type="legs.keys.hylek.chosenofthesun.set.wp" GUID="4He+SxJ8Zki/Md+lJJFphw==" copy="[&BKMBAAA=]" copy-message="Archen Foreland Waypoint"/>
+        <Trail type="legs.keys.hylek.unholygrounds.bloodtide" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Unholy Grounds 1.trl"/>
+        <POI MapID="73" xpos="219.288" ypos="14.9001" zpos="963.891" type="legs.keys.hylek.unholygrounds.set.sign" GUID="NGrj1Q182kGgBfx0jhIXYw=="/>
+        <Trail type="legs.keys.hylek.unholygrounds.instance" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Unholy Grounds 2 Instance.trl"/>
+        <Trail type="legs.keys.hylek.unholygrounds.instance" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Hylek/Unholy Grounds 2b Instance.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="686" xpos="-262.017" ypos="2.95059" zpos="865.733" type="legs.keys.hylek.unholygrounds.set.wp" GUID="v7kxSYNQBk+CULKByUqkjA==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
+        <!-- Ogres -->
+        <!-- Untamed Wilds -->
+        <POI MapID="19" xpos="623.291" ypos="13.2353" zpos="176.766" type="legs.keys.ogres.untamed.set.sign" GUID="oI8cJhqhPkWn+Y8DM3sC3g=="/>
+        <Trail type="legs.keys.ogres.untamed.ashford" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 1.trl"/>
+        <Trail type="legs.keys.ogres.untamed.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 2.trl"/>
+        <POI MapID="20" xpos="-555.525" ypos="36.3338" zpos="-415.493" type="legs.keys.ogres.untamed.set.sign" GUID="8Ubk/H028kuMRRBFM5g9BA=="/>
+        <POI MapID="20" xpos="-110.796" ypos="27.5367" zpos="-99.2412" type="legs.keys.ogres.untamed.set.sign" GUID="jHhE7kAL+EiBkvGhx9rFFA=="/>
+        <Trail type="legs.keys.ogres.untamed.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 3 Instance.trl"/>
+        <POI MapID="656" xpos="543.563" ypos="115.506" zpos="-34.5134" type="legs.keys.ogres.untamed.set.wp" GUID="Kq1kJzKzekecESjXtUhZJg==" copy="[&BAUCAAA=]" copy-message="Refuge Sanctum Waypoint"/>
+        <Trail type="legs.keys.ogres.untamed.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 4.trl"/>
+        <Trail type="legs.keys.ogres.untamed.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds 5 Instance.trl"/>
+        <POI MapID="682" xpos="-181.284" ypos="15.4094" zpos="-411.776" type="legs.keys.ogres.untamed.set.wp" GUID="959P/nBC+0qvL1Q+U4Gi1g==" copy="[&BE8DAAA=]" copy-message="Gastor Gullet Waypoint"/>
+        <!-- Pets and Walls Make Stronger Kraals -->
+        <POI MapID="20" xpos="337.828" ypos="71.9411" zpos="-109.175" type="legs.keys.ogres.pets.set.sign" GUID="KoNTWYgr/U6rj1acufym1A=="/>
+        <Trail type="legs.keys.ogres.pets.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 1.trl"/>
+        <Trail type="legs.keys.ogres.pets.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 2 Instance.trl"/>
+        <POI MapID="20" xpos="160.41" ypos="48.6079" zpos="1.67638" type="legs.keys.ogres.pets.set.sign" GUID="FExdn37JQE6cl94KCkIdpQ=="/>
+        <Trail type="legs.keys.ogres.pets.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 3.trl"/>
+        <Trail type="legs.keys.ogres.pets.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals 4 Instance.trl"/>
+        <POI MapID="668" xpos="229.495" ypos="9.08306" zpos="170.907" type="legs.keys.ogres.pets.set.wp" GUID="c/Ib4DJMAEuKrzd0aNcn7Q==" copy="[&BE8DAAA=]" copy-message="Gastor Gullet Waypoint"/>
+        <!-- The Lost Chieftain's Return -->
+        <POI MapID="20" xpos="342.166" ypos="72.3465" zpos="-111.158" type="legs.keys.ogres.return.set.sign" GUID="F14tg+t3ikiglq4f11MYpQ=="/>
+        <Trail type="legs.keys.ogres.return.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/The Lost Chieftain's Return 1.trl"/>
+        <Trail type="legs.keys.ogres.return.blazeridge" trailData="Data/LadyElyssa/Key Run/Chapter 5 - Helping Hands/Ogre/The Lost Chieftain's Return 2 Instance.trl"/>
+        <POI MapID="659" xpos="574.746" ypos="111.2" zpos="-16.359" type="legs.keys.ogres.return.set.wp" GUID="wzSF5NJjRUaoUynZpo41Kg==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint"/>
+        <!-- Chapter 6 - lvl 60 -->
+        <POI MapID="27" xpos="-415.517" ypos="170.931" zpos="494.452" type="legs.keys.onredalert.set.sign" GUID="pYg+PkN/f0qOuX5yZqe6Rg==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/On Red Alert 1.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.onredalert.trail" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 1 Instance.trl"/>
+        <POI MapID="700" xpos="-493.231" ypos="161.078" zpos="644.954" type="legs.keys.onredalert.set.wp" GUID="hZ1R7OV6VEOiMoG1unPWDA==" copy="[&BBEEAAA=]" copy-message="Gate Hub Plaza Waypoint"/>
+        <POI MapID="50" xpos="94.3198" ypos="29.0314" zpos="156.501" type="legs.keys.onredalert.set.sign" GUID="RDjgrkX0YEq3U7TBNmn+ZA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/On Red Alert 2.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="701" xpos="-499.286" ypos="1.24543" zpos="71.3991" type="legs.keys.onredalert.set.wp" GUID="yGj8KszykkGQBtBYAL4mCQ==" copy="[&BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
+        <Trail type="legs.keys.onredalert.la" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 2 LA.trl"/>
+        <Trail type="legs.keys.onredalert.instance" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 3 Instance.trl"/>
+        <Trail type="legs.keys.onredalert.instance" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/Durmand Priory/On Red Alert 3b Instance.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.keys.thebattleofclawisland.la" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 1 LA.trl"/>
+        <POI MapID="50" xpos="-295.843" ypos="10.3603" zpos="54.8129" type="legs.keys.thebattleofclawisland.set.sign" GUID="tk8x7f33YE6mjb7BGm6/nQ=="/>
+        <POI MapID="50" xpos="-104.844" ypos="-1.05642" zpos="-215.113" type="legs.keys.thebattleofclawisland.set.wp" GUID="dD1Kxj7N2kap60+Y0flcWA==" copy="[&BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
+        <POI MapID="50" xpos="-92.1073" ypos="9.82394" zpos="-219.73" type="legs.keys.thebattleofclawisland.set.sign" GUID="lBm+/60o5kO+WFW5J9HTwg=="/>
+        <Trail type="legs.keys.thebattleofclawisland.instance" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 2.trl" color="ffff00"/>
+        <Trail type="legs.keys.thebattleofclawisland.instance" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 3.trl" color="ffcc00"/>
+        <Trail type="legs.keys.thebattleofclawisland.instance" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 4.trl" color="ff9900"/>
+        <Trail type="legs.keys.thebattleofclawisland.instance" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 5.trl" color="ff6600"/>
+        <Trail type="legs.keys.thebattleofclawisland.instance" trailData="Data/LadyElyssa/Key Run/Chapter 6 - The Battle of Claw Island/The Battle of Claw Island 6.trl" color="ff6600"/>
+        <POI MapID="50" xpos="-67.3646" ypos="1.25242" zpos="-187.122" type="legs.keys.lws2tp.returntocampresolve.set.wp" GUID="3GOD7lXKIEeYwEEffNzwRg==" info="After completing The Battle for Claw Island.&#xA;&#xA;Attain Level 80.&#xA;&#xA;Set story to Living World Season 2: Tangled Paths&#xA;&#xA;Head to Soren Draa Waypoint in Metrica Province." infoRange="5"/>
+        <POI MapID="50" xpos="-67.3646" ypos="1.25242" zpos="-187.122" type="legs.keys.lws2tp.returntocampresolve.set.wp" GUID="Zksko1bISUeD08RsdJF9Nw==" copy="After The Battle for Claw Island. Attain Level 80. Set story to Living World Season 2: Tangled Paths. Head to [&BEAAAAA=] in Metrica Province." copy-message=""/>
+        <!-- Level 80: LWS2 - Chapter 6: Tangled Paths-->
+        <POI MapID="35" xpos="-479.175" ypos="47.2882" zpos="-731.138" type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="0tk3m792fkKHtkthxFZz8w==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="23" xpos="59.5364" ypos="37.9943" zpos="385.349" type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="iFLlOYzC00yBLorP8Clz+A==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.lws2tp.returntocampresolve.metrica" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Metrica Province.trl"/>
+        <Trail type="legs.keys.lws2tp.returntocampresolve.metrica" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Metrica Province 2.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.keys.lws2tp.returntocampresolve.kessex" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Kessex Hills.trl"/>
+        <POI MapID="54" xpos="281.093" ypos="74.4142" zpos="-692.758" type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="m21Gs9tG4USVjQMdzU+TbQ==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.lws2tp.returntocampresolve.brisban" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Brisban Wildlands.trl"/>
+        <Trail type="legs.keys.lws2tp.returntocampresolve.brisban" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Brisban Wildlands 2.trl"/>
+        <POI MapID="1015" xpos="598.565" ypos="414.801" zpos="-188.563" type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="wK3wYdJWMkCjM9gLQ0GEvA==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.lws2tp.returntocampresolve.silverwastes" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve - Silverwastes.trl"/>
+        <Trail type="legs.keys.lws2tp.returntocampresolve.instance" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Return to Camp Resolve 1 Instance.trl"/>
+        <POI MapID="1015" xpos="498.006" ypos="413.366" zpos="-182.821" type="legs.keys.lws2tp.trackingtheaspectmasters.set.sign" GUID="n1tdDpT9fUueO2y/oLpBuA==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Tracking the Aspect Masters.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.lws2tp.trackingtheaspectmasters.silverwastes" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Tracking the Aspect Masters 1.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.keys.lws2tp.trackingtheaspectmasters.instance" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Tracking the Aspect Masters 2 Instance.trl"/>
+        <POI MapID="1015" xpos="184.435" ypos="413.495" zpos="-205.425" type="legs.keys.lws2tp.intothelabyrinth.set.sign" GUID="Vl8T/DYHbE+lVBKNX2RHog==" iconFile="Data/LadyElyssa/Images/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.lws2tp.intothelabyrinth.silverwastes" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth 1.trl"/>
+        <Trail type="legs.keys.lws2tp.intothelabyrinth.instance" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth 2 Instance.trl"/>
+        <Trail type="legs.keys.lws2tp.intothelabyrinth.instance" trailData="Data/LadyElyssa/Key Run/LWS2 Chapter 6 - Tangled Paths/Into the Labyrinth 2b Instance.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="1021" xpos="-76.9395" ypos="346.466" zpos="-319.593" type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="MAsuXxVd1kij+lUxZNT9GQ==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Caithe.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1021" xpos="-71.125" ypos="346.472" zpos="-343.318" type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="6gVVdVpRZ0GqRGWxr7JkYA==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Marjory_Delaqua.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1021" xpos="-211.757" ypos="349.071" zpos="-375.25" type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="JjE9mmebEk+gWH7zMiOQug==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Rox.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1021" xpos="-347.75" ypos="338.48" zpos="-271.884" type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="vPcSxXaOh0GOYMG9/6fgDA==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Braham_Eirsson.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1021" xpos="-158.769" ypos="358.191" zpos="-254.486" type="legs.keys.lws2tp.intothelabyrinth.icons" GUID="9xomp9VLv0u7DfTAJUfHyg==" iconFile="Data/LadyElyssa/Images/Icons/Mini_Kasmeer_Meade.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1021" xpos="-243.124" ypos="373.992" zpos="-364.374" type="legs.keys.lws2tp.intothelabyrinth.set.wp" GUID="peSuqWO0SEauIWZfxbQlsw==" copy="[&BKcHAAA=]" copy-message=""/>
+        <POI MapID="1021" xpos="-243.124" ypos="373.992" zpos="-364.374" type="legs.keys.lws2tp.intothelabyrinth.set.wp" GUID="vWARLUe2NkKcy6TxKlR40Q==" info="Camp Resolve Waypoint.&#xA;&#xA;Set Story to Heart of Thorns - Prologue: Rally to Maguuma" infoRange="5"/>
+        <!-- Level 80: HoT Heart of Thorns - Chapter 11. Roots of Terror -->
+        <!-- Silverwastes -->
+        <POI MapID="1015" xpos="497.506" ypos="412.254" zpos="-231.272" type="legs.keys.one.set.sign" GUID="YGa4i5+wj0O4fOmntkzxgg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Rally to Maguuma.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.one.silverwastes" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 1 - Rally to Maguuma 1.trl"/>
+        <Trail type="legs.keys.one.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 1 - Rally to Maguuma 2 Instance.trl"/>
+        <!-- Verdant Brink -->
+        <Trail type="legs.keys.two.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 2 - Torn from the Sky Instance.trl"/>
+        <POI MapID="1052" xpos="946.67" ypos="417.003" zpos="63.9957" type="legs.keys.three.set.sign" GUID="pByANBIlg0+Q6tVhCcSGkA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Establishing a Foothold.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1052" xpos="857.889" ypos="430.444" zpos="53.8486" type="legs.keys.three.set.glider" GUID="Z8lh+E3bu0uY3ABbFH2Gsw=="/>
+        <Trail type="legs.keys.three.vb" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 3 - Establishing a Foothold.trl"/>
+        <POI MapID="1052" xpos="94.5286" ypos="376.599" zpos="-13.5095" type="legs.keys.three.set.wp" GUID="gNzPfFninkOkBVBjq8iSwA==" copy="[&BAgIAAA=]" copy-message="Pact Encampment Waypoint"/>
+        <POI MapID="1052" xpos="132.393" ypos="429.263" zpos="-27.4701" type="legs.keys.three.set.sign" GUID="S2IUBHy8nE2oBc2oWQ7VYQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Establishing a Foothold.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1052" xpos="110.678" ypos="434.53" zpos="-43.565" type="legs.keys.three.set.glider" GUID="kpiQJ1BNaEW7JvoUP7r92A=="/>
+        <Trail type="legs.keys.four.vb" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 4 - The Jungle Provides 1.trl"/>
+        <POI MapID="1052" xpos="126.301" ypos="427.341" zpos="-19.6403" type="legs.keys.three.set.glider" GUID="bJ97aFAJPE+06IZIVNH+4w=="/>
+        <POI MapID="1052" xpos="69.8212" ypos="414.325" zpos="-45.5311" type="legs.keys.three.set.sign" GUID="gNJpiyfEzUyMeNUWP9k8Ow==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/The Jungle Provides.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1052" xpos="71.179" ypos="413.336" zpos="-43.2319" type="legs.keys.three.set.glider" GUID="QaLMczagR0OL2cFM7uhO+w=="/>
+        <POI MapID="1052" xpos="102.184" ypos="434.455" zpos="160.881" type="legs.keys.three.set.glider" GUID="nttGa0FzbE+1D4/UxM25wA=="/>
+        <Trail type="legs.keys.four.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 4 - The Jungle Provides 2 Instance.trl"/>
+        <Trail type="legs.keys.five" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 5 - In Their Footsteps.trl"/>
+        <POI MapID="1052" xpos="282.197" ypos="372.978" zpos="211.572" type="legs.keys.lws2tp.returntocampresolve.set.sign" GUID="RdndLcbif0Ki2pyLucuOLw==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/In Their Footsteps.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1052" xpos="-6.61043" ypos="426.758" zpos="129.793" type="legs.keys.three.set.glider" GUID="LOHz/e4LT0O2tizw89il5w=="/>
+        <POI MapID="1052" xpos="-78.7221" ypos="430.501" zpos="40.0993" type="legs.keys.three.set.glider" GUID="IZicSO0loUizsBObucxYGQ=="/>
+        <POI MapID="1052" xpos="-104.422" ypos="393.053" zpos="-74.5431" type="legs.keys.three.set.glider" GUID="6Ge8+Ttq8kKmGUb6w753mQ=="/>
+        <POI MapID="1052" xpos="-376.74" ypos="427.538" zpos="-199.095" type="legs.keys.six.set.sign" GUID="2VT7R5Gpbka3extBLhpkbg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Prisoners of the Dragon.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1052" xpos="-398.606" ypos="441.625" zpos="-155.646" type="legs.keys.six.set.glider" GUID="6mu2pcrdM0yNP31Gmwlcjw=="/>
+        <POI MapID="1051" xpos="-701.785" ypos="488" zpos="71.2249" type="legs.keys.six.set.glider" GUID="SINZw6rwDk61As9OWBH0+A=="/>
+        <POI MapID="1051" xpos="-704.821" ypos="463.576" zpos="-55.8786" type="legs.keys.six.set.glider" GUID="V/RHdLtBjESCsJz+vIV6sQ=="/>
+        <POI MapID="1052" xpos="-785.106" ypos="379.341" zpos="-401.558" type="legs.keys.six.set.resume" GUID="n82yC+prWEm460Mczd2U/g=="/>
+        <Trail type="legs.keys.six.vb" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 6 - Prisoners of the Dragon 1.trl"/>
+        <Trail type="legs.keys.six.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 6 - Prisoners of the Dragon 2 Instance.trl"/>
+        <Trail type="legs.keys.six.vb" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 6 - Prisoners of the Dragon 3.trl"/>
+        <!-- Auric Basin -->
+        <Trail type="legs.keys.seven.ab" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 7 - Prized Possessions 1.trl"/>
+        <POI MapID="1043" xpos="-452.391" ypos="499.501" zpos="794.491" type="legs.keys.seven.set.sign" GUID="eyUWPjpWRU2vrG6MaBFQFg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Prized Possessions.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1032" xpos="160.023" ypos="306.506" zpos="372.359" type="legs.keys.seven.egg.ds" GUID="T3mIoMkmDEOf0GP7FgTI2g=="/>
+        <Trail type="legs.keys.seven.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 7 - Prized Possessions 2 Instance.trl"/>
+        <Trail type="legs.keys.seven.egg.trail" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 7 - Prized Possessions 2b Instance.trl"/>
+        <POI MapID="1032" xpos="206.722" ypos="300.918" zpos="359.488" type="legs.keys.seven.egg.ds" GUID="ZvmkPWOntESsZHWmDfHZKQ=="/>
+        <POI MapID="1032" xpos="274.411" ypos="308.012" zpos="397.436" type="legs.keys.seven.egg.ds" GUID="n1E2qOpIkUyjm3bY7Du5Lg=="/>
+        <POI MapID="1032" xpos="336.722" ypos="311.048" zpos="412.788" type="legs.keys.seven.egg.dw" GUID="6sPKSkV8OU6Si7zu6US4Xw=="/>
+        <POI MapID="1032" xpos="345.265" ypos="318.746" zpos="415.597" type="legs.keys.seven.egg.dp" GUID="O5ogb+oQBUuw2wIT2Y4ENQ=="/>
+        <POI MapID="1032" xpos="356.238" ypos="326.74" zpos="439.976" type="legs.keys.seven.egg.dw" GUID="t8iAgaayp0eTcVh+h8Q19w=="/>
+        <POI MapID="1032" xpos="358.466" ypos="333.978" zpos="432.37" type="legs.keys.seven.egg.dp" GUID="LTnx0RDPnkSenTKIMGnOCA=="/>
+        <POI MapID="1032" xpos="366.552" ypos="341.93" zpos="419.861" type="legs.keys.seven.egg.dp" GUID="Gxs14W8XHEKc7Cd7Xw0yYQ=="/>
+        <POI MapID="1032" xpos="367.257" ypos="348.769" zpos="429.97" type="legs.keys.seven.egg.dp" GUID="qtVG1SlfwU6uh36zpkFVYw=="/>
+        <POI MapID="1032" xpos="381.378" ypos="362.364" zpos="408.283" type="legs.keys.seven.egg.ds" GUID="K1JfpnQCNE+SGrnBBhvHkw=="/>
+        <POI MapID="1032" xpos="485.291" ypos="361.018" zpos="403.216" type="legs.keys.seven.egg.dp" GUID="Pe/RwOjInE+LVVAJ5xDuFQ=="/>
+        <POI MapID="1032" xpos="523.181" ypos="357.936" zpos="402.224" type="legs.keys.seven.egg.dp" GUID="jt+PvExT6kKyAlvmKkaD6Q=="/>
+        <POI MapID="1032" xpos="552.384" ypos="362.792" zpos="435.529" type="legs.keys.seven.egg.dp" GUID="Qo8hhE61tkuC6l1AFUYMkw=="/>
+        <POI MapID="1032" xpos="543.852" ypos="361.969" zpos="456.47" type="legs.keys.seven.egg.dp" GUID="e6FXDc77pUKsjOV/TTzWNg=="/>
+        <POI MapID="1032" xpos="508.003" ypos="366.782" zpos="511.072" type="legs.keys.seven.egg.ds" GUID="9m9fPe1Dd0a/V6W/MfqxKw=="/>
+        <POI MapID="1032" xpos="502.327" ypos="369.84" zpos="530.392" type="legs.keys.seven.egg.dp" GUID="mial01EPq0iBuJ9ewa5sLQ=="/>
+        <POI MapID="1032" xpos="529.313" ypos="383.428" zpos="575.971" type="legs.keys.seven.egg.dp" GUID="bpDqTuy8Zky/tY+oGqHdpQ=="/>
+        <POI MapID="1032" xpos="552.858" ypos="394.206" zpos="564.522" type="legs.keys.seven.egg.dp" GUID="c4m1BryJFU219oECtq7UcQ=="/>
+        <POI MapID="1032" xpos="578.592" ypos="401.534" zpos="567.479" type="legs.keys.seven.egg.dp" GUID="bDtIV5zl70C0dJbYZ9QX4Q=="/>
+        <POI MapID="1032" xpos="502.101" ypos="372.396" zpos="565.74" type="legs.keys.seven.egg.dp" GUID="0xf230K/20yFO5cm01g/xg=="/>
+        <POI MapID="1032" xpos="579.509" ypos="418.222" zpos="607.351" type="legs.keys.seven.egg.ds" GUID="NyBQkclbmUW/8eayDRFvNQ=="/>
+        <POI MapID="1032" xpos="505.854" ypos="436.076" zpos="670.567" type="legs.keys.seven.set.glider" GUID="U19yu38C70G+XmxetsZB1g=="/>
+        <POI MapID="1032" xpos="484.067" ypos="427.354" zpos="670.456" type="legs.keys.seven.egg.ds" GUID="NSuygHglyECne34JvXJlwg=="/>
+        <POI MapID="1032" xpos="315.811" ypos="382.088" zpos="660.18" type="legs.keys.seven.egg.ds" GUID="cdoSoBKXW0mu6YvARt3DLg=="/>
+        <POI MapID="1032" xpos="287.179" ypos="378.652" zpos="630.561" type="legs.keys.seven.egg.dp" GUID="BxdOk46naE2kCLOENr5gag=="/>
+        <POI MapID="1032" xpos="124.701" ypos="339.523" zpos="567.449" type="legs.keys.seven.egg.dp" GUID="ZX6nHeSQx0Oi/HrR/JP6CA=="/>
+        <Trail type="legs.keys.eight.ab" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 1.trl"/>
+        <POI MapID="1043" xpos="63.5248" ypos="329.46" zpos="502.84" type="legs.keys.eight.set.sign" GUID="/gxV/jUwfEyaYa2JKjy+1w==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/City of Hope.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.eight.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Instance.trl"/>
+        <Trail type="legs.keys.eight.strength" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Strength.trl"/>
+        <Trail type="legs.keys.eight.wit.portal.trail" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Wit.trl"/>
+        <Trail type="legs.keys.eight.wit.foot" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Wit 2.trl"/>
+        <POI MapID="1048" xpos="-118.453" ypos="15.66" zpos="36.3346" type="legs.keys.eight.set.glider" GUID="kktUfN2AMU6HmQRjojX4jg=="/>
+        <POI MapID="1048" xpos="-119.509" ypos="15.662" zpos="94.1796" type="legs.keys.eight.set.glider" GUID="pzL3+Sz//EaQt0sgW/JUdw=="/>
+        <POI MapID="1048" xpos="-194.37" ypos="13.9577" zpos="85.2864" type="legs.keys.eight.wit.portal.portals" GUID="QXTRXp2t9ki7STqnDpiB2g==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Drop Portal / Use Position Rewinder" infoRange="2.5"/>
+        <POI MapID="1048" xpos="-193.762" ypos="13.7454" zpos="42.4057" type="legs.keys.eight.wit.portal.portals" GUID="x1H2WMsv3EyPgqHGDcexaQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Drop Portal / Use Position Rewinder" infoRange="2.5"/>
+        <POI MapID="1048" xpos="-198.211" ypos="6.971" zpos="43.4982" type="legs.keys.eight.wit.portal.portals" GUID="QCIjnGA2OUuFO3RTZkN1DA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow Up - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Portal / Rewind back on to Top of Wall" infoRange="2.5"/>
+        <POI MapID="1048" xpos="-203.144" ypos="6.91438" zpos="92.9701" type="legs.keys.eight.wit.portal.portals" GUID="oO5XgxG6KU2jk6SDUES42g==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Arrow Up - Green.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400" info="Portal / Rewind back on to Top of Wall" infoRange="2.5"/>
+        <Trail type="legs.keys.eight.leadership" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Leadership.trl"/>
+        <Trail type="legs.keys.eight.egg" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Egg.trl"/>
+        <Trail type="legs.keys.eight.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 8 - City of Hope 2 Final.trl"/>
+        <!-- Chapter 9 - The Predator's Path -->
+        <Trail type="legs.keys.nine.ab" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 9 - The Predator's Path 1.trl"/>
+        <POI MapID="1043" xpos="45.0308" ypos="304.357" zpos="328.935" type="legs.keys.nine.set.sign" GUID="owzp/pILAkSsizvviDoyIw==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/The Predator's Path.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1043" xpos="455.801" ypos="292.158" zpos="70.1152" type="legs.keys.nine.set.sign" GUID="RcvGWY5D40CRb203CzR+KQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/The Predator's Path.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1043" xpos="432.781" ypos="282.517" zpos="82.2596" type="legs.keys.nine.set.wp" GUID="htRMV+bIP0us31D8yfpPrQ==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
+        <POI MapID="1043" xpos="502.869" ypos="292.094" zpos="-211.916" type="legs.keys.nine.set.glider" GUID="x04YGLxKl0erq73iEhuqNA=="/>
+        <POI MapID="1043" xpos="250.132" ypos="289.794" zpos="-624.302" type="legs.keys.nine.set.glider" GUID="Klm7GPH0ckWtty3xOmpq7g=="/>
+        <POI MapID="1043" xpos="525.883" ypos="295.234" zpos="11.1128" type="legs.keys.nine.set.sign" GUID="FHAsRebjgEuI+5QuH3PXdg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1043" xpos="579.88" ypos="290.696" zpos="-168.377" type="legs.keys.nine.set.sign" GUID="Gbb2WcwvKkyLpWMW/moK2Q==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1043" xpos="275.098" ypos="274.434" zpos="-299.832" type="legs.keys.nine.set.sign" GUID="/k0bffJn6kagi7kqg1+/Aw==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1043" xpos="247.788" ypos="290.417" zpos="-620.549" type="legs.keys.nine.set.sign" GUID="V2Ou2mIxSkujDS73VuY5Xg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Talk - Story.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1043" xpos="250.044" ypos="288.307" zpos="-624.383" type="legs.keys.nine.set.sign" GUID="208pYD3re0eNWlhGHZvsiA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Strange Observations.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.nine.ab" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 9 - The Predator's Path 2.trl"/>
+        <!-- Chapter 10 - Strange Observations -->
+        <Trail type="legs.keys.ten.ab" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 10 - Strange Observations.trl"/>
+        <!-- Roots of Terror -->
+        <Trail type="legs.keys.eleven.ab" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 1 AB.trl"/>
+        <POI MapID="1043" xpos="490.614" ypos="239.072" zpos="-729.371" type="legs.keys.eleven.set.glider" GUID="c6eyumIH8Eu5msZdfkGAOw=="/>
+        <POI MapID="1043" xpos="492.431" ypos="239.422" zpos="-726.192" type="legs.keys.eleven.set.sign" GUID="TakM8dNdfkSTHZNJL74TbA==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1045" xpos="-792.212" ypos="257.328" zpos="162.204" type="legs.keys.eleven.set.sign" GUID="jL5r81yDEE2AEUaNetqHdg==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1045" xpos="-702.956" ypos="241.34" zpos="194.019" type="legs.keys.eleven.set.sign" GUID="uetl6lhrAUu1q5M8BxlxIQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror - Gliding Path.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1045" xpos="-704.119" ypos="240.941" zpos="191.762" type="legs.keys.eleven.set.sign" GUID="IrlS0RNutkW4QpVT4ytWnQ==" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Roots of Terror - Footpath.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.eleven.td.one" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 1 TD.trl"/>
+        <Trail type="legs.keys.eleven.td.two" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 2 TD.trl"/>
+        <Trail type="legs.keys.eleven.instance" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 3 Instance.trl"/>
+        <Trail type="legs.keys.eleven.instance.dark" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 3 Dark Path.trl"/>
+        <Trail type="legs.keys.eleven.instance.troll" trailData="Data/LadyElyssa/Key Run/HoT/Chapter 11 - Roots of Terror 3 Troll Path.trl"/>
+        <!-- Maps to Complete -->
+        <POI MapID="51" xpos="907.986" ypos="30.1442" zpos="147.422" type="legs.keys.orr.straits" GUID="o9R5CjlMKECf5f5kuv8ndg=="/>
+        <POI MapID="65" xpos="1025.6" ypos="30.5465" zpos="-366.628" type="legs.keys.orr.malchors" GUID="weFPXKYQXUii4l0sALYN1w=="/>
+        <POI MapID="62" xpos="377.841" ypos="87.8364" zpos="1135.09" type="legs.keys.orr.cs" GUID="SYNxDGqXeUKb43Py99BbLQ=="/>
+        <POI MapID="988" xpos="406.687" ypos="23.95" zpos="-507.775" type="legs.keys.mw.drytop" GUID="El0lQNwQyE+PGDv+BHKqfQ=="/>
+        <POI MapID="1015" xpos="499.318" ypos="412.247" zpos="-229.518" type="legs.keys.mw.silverwastes" GUID="Xg00E95YY0WHQJeWq5/eXA=="/>
+        <POI MapID="1165" xpos="-226.713" ypos="760.475" zpos="84.2442" type="legs.keys.lws3.bloodstonefen" GUID="2CFYqrswJkCN2UNP6YdyiQ=="/>
+        <POI MapID="1330" xpos="-305.522" ypos="29.6607" zpos="-39.2321" type="legs.keys.lws5.grothmar" GUID="G2GHAdpeEkWkBjHkxycROA=="/>
+    </POIs>
 </OverlayData>
