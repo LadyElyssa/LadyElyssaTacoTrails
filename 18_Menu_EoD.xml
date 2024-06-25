@@ -2,6 +2,52 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- EoD - END OF DRAGONS -->
         <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+        <MarkerCategory name="eodad" DisplayName="Adventures" fadeNear="2000" fadeFar="4000">
+            <!-- Seitung Province -->
+            <MarkerCategory name="sp" IsSeparator="1" DisplayName="SEITUNG PROVINCE"/>
+            <MarkerCategory name="spskiff" DisplayName="Swift Skiff" fadeNear="3000" fadeFar="6000">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="slow" DisplayName="Toggle Slow Cruise" iconFile="Data/LadyElyssa/Images/Adventures/Slow Cruise.png" heightOffset="0"/>
+                <MarkerCategory name="moderate" DisplayName="Toggle Moderate Clip" iconFile="Data/LadyElyssa/Images/Adventures/Moderate Clip.png" heightOffset="0"/>
+                <MarkerCategory name="full" DisplayName="Toggle Full Throttle" iconFile="Data/LadyElyssa/Images/Adventures/Full Throttle.png" heightOffset="0"/>
+                <MarkerCategory name="turbo" DisplayName="Toggle Turbo Boost" iconFile="Data/LadyElyssa/Images/Adventures/Turbo Boost.png" heightOffset="0"/>
+                <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+            </MarkerCategory>
+            <MarkerCategory name="spsiege" DisplayName="Siege Stampede">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Adventures/Target.png" heightOffset="-0.5" miniMapVisibility="0" mapVisibility="1" minSize="32" maxSize="64" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+            </MarkerCategory>
+            <MarkerCategory name="nkc" IsSeparator="1" DisplayName="NEW KAINENG CITY"/>
+            <MarkerCategory name="nkcjb" DisplayName="Jade Bot Rally">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+            </MarkerCategory>
+            <MarkerCategory name="nkcskiff" DisplayName="Swift Skiff" fadeNear="3000" fadeFar="6000">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="slow" DisplayName="Toggle Slow Cruise" iconFile="Data/LadyElyssa/Images/Adventures/Slow Cruise.png" heightOffset="0"/>
+                <MarkerCategory name="moderate" DisplayName="Toggle Moderate Clip" iconFile="Data/LadyElyssa/Images/Adventures/Moderate Clip.png" heightOffset="0"/>
+                <MarkerCategory name="full" DisplayName="Toggle Full Throttle" iconFile="Data/LadyElyssa/Images/Adventures/Full Throttle.png" heightOffset="0"/>
+                <MarkerCategory name="turbo" DisplayName="Toggle Turbo Boost" iconFile="Data/LadyElyssa/Images/Adventures/Turbo Boost.png" heightOffset="0"/>
+                <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+            </MarkerCategory>
+            <MarkerCategory name="ew" IsSeparator="1" DisplayName="THE ECHOVALD WILDS"/>
+            <MarkerCategory name="ewjb" DisplayName="Jade Bot Rally">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+            </MarkerCategory>
+            <MarkerCategory name="ewsiege" DisplayName="Siege Stampede">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Adventures/Target.png" heightOffset="-0.5" miniMapVisibility="0" mapVisibility="1" minSize="32" maxSize="64" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+            </MarkerCategory>
+        </MarkerCategory>
         <MarkerCategory name="eodhp" DisplayName="Hero Point Run" texture="Data/LadyElyssa/Images/trailarrow-hp.png">
             <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
             <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
