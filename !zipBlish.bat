@@ -1,5 +1,5 @@
 @IF EXIST "LadyElyssa.zip" (
-  del \Q "LadyElyssa.zip"
+  del /Q "LadyElyssa.zip"
 )
 
 @IF EXIST "LadyElyssa.taco" (
