@@ -1,0 +1,62 @@
+<OverlayData>
+    <POIs>
+        <!-- PATH OF FIRE -->
+        <!-- Crystal Oasis -->
+        <!-- Refugee Supply Run -->
+        <POI MapID="1210" xpos="-707.37" ypos="1.09204" zpos="-97.0848" type="legs.pofad.rsr.sign" GUID="BT4N3HI+GkmmYN+xQftMtA==" iconFile="Data/LadyElyssa/Images/Adventures/Refugee Supply Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.pofad.rsr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Refugee Supply Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.rsr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Refugee Supply Run.trl" animSpeed="0.5"/>
+        <!-- Crystal Oasis Griffon Expert -->
+        <POI MapID="1210" xpos="693.153" ypos="122.614" zpos="187.124" type="legs.pofad.coge.sign" GUID="hX9wZW7vgkS6v23ZD5fGhA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <Trail type="legs.pofad.coge.to" trailData="Data/LadyElyssa/PoF/Adventures/CO To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.coge.trail" trailData="Data/LadyElyssa/PoF/Adventures/CO Griffon Expert.trl" animSpeed="0.5"/>
+        <!-- Crystal Oasis Griffon Master -->
+        <POI MapID="1210" xpos="-754.231" ypos="2.05998" zpos="-97.628" type="legs.pofad.cogm.sign" GUID="hHq94hXpPU+yq8KN0TMvTA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <Trail type="legs.pofad.cogm.to" trailData="Data/LadyElyssa/PoF/Adventures/CO To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.cogm.trail" trailData="Data/LadyElyssa/PoF/Adventures/CO Griffon Master.trl" animSpeed="0.5"/>
+        <!-- Desert Highlands -->
+        <!-- Cavalier Express Parcel Run -->
+        <POI MapID="1211" xpos="510.537" ypos="162.023" zpos="-675.627" type="legs.pofad.cepr.sign" GUID="MIklhdP0g0yDdeI8ViOPTQ==" iconFile="Data/LadyElyssa/Images/Adventures/Cavalier Express Parcel Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.pofad.cepr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Cavalier Express Parcel Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.cepr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Cavalier Express Parcel Run.trl" animSpeed="0.5"/>
+        <POI MapID="1211" xpos="229.207" ypos="154.064" zpos="-411.489" type="legs.pofad.cepr.mount.raptor" GUID="YDFsfSodSkaQ1/zkGxDYwg=="/>
+		  <POI MapID="1211" xpos="22.2376" ypos="144.32" zpos="-106.472" type="legs.pofad.cepr.mount.springer" GUID="x+PSORzh4E+nXkKpFR62jA=="/>
+		  <POI MapID="1211" xpos="-5.6008" ypos="198.831" zpos="-55.6581" type="legs.pofad.cepr.mount.beetle" GUID="zQvjJ0OMiUSfCbct3pckcg=="/>
+		  <POI MapID="1211" xpos="314.089" ypos="155.815" zpos="-55.2632" type="legs.pofad.cepr.mount.jackal" GUID="NZV7RogJqEOPalMfJT7bkw=="/>
+		  <POI MapID="1211" xpos="329.613" ypos="235.938" zpos="37.3402" type="legs.pofad.cepr.mount.beetle" GUID="dm8qMBzEME+hZZ/yby2vHw=="/>
+		  <POI MapID="1211" xpos="255.339" ypos="265.465" zpos="468.588" type="legs.pofad.cepr.mount.raptor" GUID="kOF8PgiPjE6OzUElEwVYxg=="/>
+		  <POI MapID="1211" xpos="309.113" ypos="260.824" zpos="529.75" type="legs.pofad.cepr.mount.jackal" GUID="cbOUFzVK40Scmf1kt1+hTA=="/>
+		  <POI MapID="1211" xpos="410.938" ypos="287.857" zpos="566.263" type="legs.pofad.cepr.mount.raptor" GUID="DYSm8MRetkOHPsB3JdxiyA=="/>
+		  <POI MapID="1211" xpos="487.364" ypos="290.111" zpos="584.761" type="legs.pofad.cepr.mount.griffon" GUID="SUYw5qUZy0mEhYlZbqVfEg=="/>
+		  <POI MapID="1211" xpos="710.904" ypos="200.999" zpos="-37.4408" type="legs.pofad.cepr.mount.beetle" GUID="SpQtWe1Z1EmJ5t1+/V22lQ=="/>
+        <!-- Highlands Griffon Expert -->
+        <POI MapID="1211" xpos="-137.791" ypos="251.312" zpos="409.515" type="legs.pofad.dhge.sign" GUID="ZBBC0m/8xkygXESC+0alYQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <Trail type="legs.pofad.dhge.to" trailData="Data/LadyElyssa/PoF/Adventures/DH To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.dhge.trail" trailData="Data/LadyElyssa/PoF/Adventures/DH Griffon Expert.trl" animSpeed="0.5"/>
+        <!-- Highlands Griffon Master -->
+        <POI MapID="1211" xpos="-1289.78" ypos="341.614" zpos="441.963" type="legs.pofad.dhgm.sign" GUID="3fl12DMm4028NN4nm9BXpg==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <Trail type="legs.pofad.dhgm.to" trailData="Data/LadyElyssa/PoF/Adventures/DH To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.dhgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/DH Griffon Master.trl" animSpeed="0.5"/>
+
+        <!-- Elon Riverlands -->
+        <!-- Skimshallow Cove Supply Run -->
+        <!-- Riverlands Griffon Expert -->
+        <!-- Riverlands Griffon Master -->
+
+        <!-- The Desolation -->
+        <!-- Shadows Intel -->
+        <!-- Desolation Griffon Expert -->
+        <!-- Desolation Griffon Master -->
+
+        <!-- Domin of Vabbi -->
+        <!-- Vehjin Noble Necessities Run -->
+        <!-- Necropolis Embalming Supply Run -->
+        <!-- Vehtendi School Supply Run -->
+        <!-- Garden Wine and Cheese Run -->
+        <!-- Vabbian Griffon Expert -->
+        <!-- Vabbian Griffon Master -->
+
+        <!-- Lion's Arch -->
+        <!-- Advanced Skimmer Course -->
+    </POIs>
+</OverlayData>
