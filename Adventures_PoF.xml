@@ -37,16 +37,36 @@
         <POI MapID="1211" xpos="-1289.78" ypos="341.614" zpos="441.963" type="legs.pofad.dhgm.sign" GUID="3fl12DMm4028NN4nm9BXpg==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
         <Trail type="legs.pofad.dhgm.to" trailData="Data/LadyElyssa/PoF/Adventures/DH To Griffon Master.trl" animSpeed="0.5"/>
         <Trail type="legs.pofad.dhgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/DH Griffon Master.trl" animSpeed="0.5"/>
-
         <!-- Elon Riverlands -->
         <!-- Skimshallow Cove Supply Run -->
+        <POI MapID="1228" xpos="-587.841" ypos="3.72521" zpos="-25.7189" type="legs.pofad.scsr.sign" GUID="zOtqgOh5ikmXLhHssZ1CHQ==" iconFile="Data/LadyElyssa/Images/Adventures/Skimshallow Cove Supply Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.pofad.scsr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Skimshallow Cove Supply Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.scsr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Skimshallow Cove Supply Run.trl" animSpeed="0.5"/>
+        <POI MapID="1228" xpos="-666.663" ypos="21.618" zpos="-115.468" type="legs.pofad.scsr.mount.skyscale" GUID="Kpm6TCVcGES26JZOp2v4VA=="/>
+		  <POI MapID="1228" xpos="-697.106" ypos="28.2353" zpos="-191.314" type="legs.pofad.scsr.mount.jackal" GUID="LnCWUUPvhEe5qs5XS5XRaw=="/>
+		  <POI MapID="1228" xpos="-847.73" ypos="79.5342" zpos="211.039" type="legs.pofad.scsr.mount.skyscale" GUID="egRvKpqmsUq5h7lOMfrUMA=="/>
+		  <POI MapID="1228" xpos="-849.947" ypos="74.2813" zpos="149.319" type="legs.pofad.scsr.mount.raptor" GUID="/R9b3YKNTkqCjFb1reNKvg=="/>
+		  <POI MapID="1228" xpos="-726.444" ypos="69.9059" zpos="275.54" type="legs.pofad.scsr.mount.beetle" GUID="l/NNKdtfHUyGE2TXtvHM5g=="/>
+		  <POI MapID="1228" xpos="-486.376" ypos="83.0273" zpos="345.411" type="legs.pofad.scsr.mount.bof" GUID="HpHSsNnLzUutd+HsplduGg=="/>
+		  <POI MapID="1228" xpos="-486.283" ypos="83.0243" zpos="345.31" type="legs.pofad.scsr.mount.raptor" GUID="GtPptgp6MESs4VlxvtxEDw=="/>
+		  <POI MapID="1228" xpos="-452.639" ypos="85.0776" zpos="328.381" type="legs.pofad.scsr.mount.skyscale" GUID="VMrtSWppEE2Sh1wJRo1xkA=="/>
+		  <POI MapID="1228" xpos="-435.295" ypos="111.469" zpos="275.296" type="legs.pofad.scsr.mount.griffon" GUID="FtSZXZMHFEmSoqk/pIDtXQ=="/>
+		  <POI MapID="1228" xpos="-699.715" ypos="79.0614" zpos="-348.267" type="legs.pofad.scsr.mount.griffon" GUID="7xoUI46oJUuZCZmyMdFMCg=="/>
         <!-- Riverlands Griffon Expert -->
+        <Trail type="legs.pofad.erge.to" trailData="Data/LadyElyssa/PoF/Adventures/ER To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.erge.trail" trailData="Data/LadyElyssa/PoF/Adventures/ER Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Riverlands Griffon Master -->
+        <Trail type="legs.pofad.ergm.to" trailData="Data/LadyElyssa/PoF/Adventures/ER To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.ergm.trail" trailData="Data/LadyElyssa/PoF/Adventures/ER Griffon Master.trl" animSpeed="0.5"/>
 
         <!-- The Desolation -->
         <!-- Shadows Intel -->
         <!-- Desolation Griffon Expert -->
+        <Trail type="legs.pofad.tdgm.to" trailData="Data/LadyElyssa/PoF/Adventures/TD To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.tdgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/TD Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Desolation Griffon Master -->
+        <Trail type="legs.pofad.tdgm.to" trailData="Data/LadyElyssa/PoF/Adventures/TD To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.tdgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/TD Griffon Master.trl" animSpeed="0.5"/>
 
         <!-- Domin of Vabbi -->
         <!-- Vehjin Noble Necessities Run -->
@@ -54,7 +74,11 @@
         <!-- Vehtendi School Supply Run -->
         <!-- Garden Wine and Cheese Run -->
         <!-- Vabbian Griffon Expert -->
+        <Trail type="legs.pofad.dovgm.to" trailData="Data/LadyElyssa/PoF/Adventures/DOV To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.dovgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/DOV Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Vabbian Griffon Master -->
+        <Trail type="legs.pofad.dovgm.to" trailData="Data/LadyElyssa/PoF/Adventures/DOV To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.pofad.dovgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/DOV Griffon Master.trl" animSpeed="0.5"/>
 
         <!-- Lion's Arch -->
         <!-- Advanced Skimmer Course -->
