@@ -65,6 +65,7 @@
         <POI MapID="1175" xpos="-418.931" ypos="279.298" zpos="-110.637" type="legs.jp.chalice.set.glider" GUID="zDJZlj23TU+HJvWm+EUtMg=="/>
         <POI MapID="1175" xpos="-414.193" ypos="300.4" zpos="-126.065" type="legs.jp.chalice.set.glider" GUID="JJJk14ZsrU6Yfz9/rnWCHw=="/>
         <POI MapID="1175" xpos="-535.884" ypos="266.624" zpos="-217.15" type="legs.jp.chalice.set.glider" GUID="820oQdx7R0qamwf4X5pmzA=="/>
+        
         <Trail type="legs.jp.coddlerscove.timberline" trailData="Data/LadyElyssa/Jumping Puzzles/Coddler's Cove.trl"/>
         <POI MapID="29" xpos="516.731" ypos="0.51998" zpos="-526.836" type="legs.jp.coddlerscove.sign" GUID="BZfChP4amE+u4TmfTb1KhA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Coddler's Cove.png"/>
         <POI MapID="29" xpos="332.604" ypos="13.8539" zpos="-911.48" type="legs.jp.coddlerscove.marker" GUID="/5F5I/AoiUqTYcrRuynhJA=="/>
@@ -91,12 +92,14 @@
         <POI MapID="29" xpos="315.964" ypos="30.3887" zpos="-908.09" type="legs.jp.coddlerscove.marker" GUID="75wq/NzBG06LFkBcMUCvAQ=="/>
         <POI MapID="29" xpos="311.329" ypos="30.3554" zpos="-908.67" type="legs.jp.coddlerscove.marker" GUID="wCQUmVucpUexBKma38iARA=="/>
         <POI MapID="29" xpos="307.532" ypos="30.7936" zpos="-907.668" type="legs.jp.coddlerscove.marker" GUID="nx33QuGuq0uGTs3net5yVA=="/>
+        
         <Trail type="legs.jp.darkreverie.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Dark Reverie 1.trl"/>
         <POI MapID="34" xpos="438.451" ypos="46.7817" zpos="-610.871" type="legs.jp.darkreverie.sign" GUID="+vNUKGOtgEu0vTwh6683dw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Dark Reverie.png"/>
         <Trail type="legs.jp.darkreverie.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Dark Reverie 2.trl" fadeNear="300" fadeFar="600"/>
         <Trail type="legs.jp.morgans.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Morgan's Leap 1.trl"/>
         <POI MapID="34" xpos="443.165" ypos="13.2476" zpos="-652.315" type="legs.jp.morgans.sign" GUID="mhDbq/XwBE+TI1TX2zzx0A==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Morgan's Leap.png"/>
         <Trail type="legs.jp.morgans.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Morgan's Leap 2.trl" fadeNear="400" fadeFar="800"/>
+        
         <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 1.trl"/>
         <POI MapID="30" xpos="-284.926" ypos="1.33754" zpos="488.319" type="legs.jp.shatterediceruins.sign" GUID="6Rnq6M9JcEqdeSyq8/vRoA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Shattered Ice Ruins.png"/>
         <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 2.trl"/>
@@ -112,25 +115,27 @@
         <POI MapID="27" xpos="-99.3819" ypos="59.7388" zpos="-910.082" type="legs.jp.griffonrook.sign" GUID="rvToNH/HaU2IdYXkxik1Cw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Griffonrook Run.png"/>
         <Trail type="legs.jp.hexfoundry.sparkfly" trailData="Data/LadyElyssa/Jumping Puzzles/Hexfoundry Unhinged.trl"/>
         <POI MapID="53" xpos="574.518" ypos="32.1182" zpos="-624.328" type="legs.jp.hexfoundry.sign" GUID="FBxYuJcw6kumbd3JrSVoXg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hexfoundry Unhinged.png"/>
+        
         <Trail type="legs.jp.hiddengarden.maelstrom" trailData="Data/LadyElyssa/Jumping Puzzles/Hidden Garden.trl"/>
         <Trail type="legs.jp.hiddengarden.maelstrom" trailData="Data/LadyElyssa/Jumping Puzzles/Hidden Garden - North.trl"/>
         <Trail type="legs.jp.hiddengarden.maelstrom" trailData="Data/LadyElyssa/Jumping Puzzles/Hidden Garden - South.trl"/>
-        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="legs.jp.hiddengarden.sign" GUID="ZkMAkvT6NUmrM6mUvxLnGg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="legs.jp.hiddengarden.sign" GUID="ZkMAkvT6NUmrM6mUvxLnGg=="  iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hidden Garden.png"/>
         <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="legs.jp.hiddengarden.sign" GUID="/a0gpNO9pUGuZokVIBI5Xg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="legs.jp.hiddengarden.sign" GUID="78W3Ts6+bUq2pzBrA/N9nQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="legs.jp.hiddengarden.sign" GUID="0G4ULP3EpUWdyXppGSJ9Rg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="legs.jp.hiddengarden.earth" GUID="3JvV5YScOEqxnnlWeD+OeA==" iconfile="Data/LadyElyssa/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="legs.jp.hiddengarden.sign" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="  iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="legs.jp.hiddengarden.sign" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="   iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="legs.jp.hiddengarden.earth" GUID="3JvV5YScOEqxnnlWeD+OeA=="  iconfile="Data/LadyElyssa/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
         <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="legs.jp.hiddengarden.light" GUID="LT6G4M/Mmk6o7FhvRDxBIw==" iconfile="Data/LadyElyssa/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
         <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="legs.jp.hiddengarden.waves" GUID="mHNX4tPue0OaoG2DTCKDVQ==" iconfile="Data/LadyElyssa/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="legs.jp.hiddengarden.winds" GUID="xUUEBMx6iU279jjFmaaAnw==" iconfile="Data/LadyElyssa/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="1081.13" ypos="26.0088" zpos="693.671" type="legs.jp.set.mount.springer" GUID="nym9Is10VUqjWQRhw/OcVQ=="/>
-        <POI MapID="39" xpos="1120.31" ypos="49.7397" zpos="672.189" type="legs.jp.set.mount.skyscale" GUID="jlQv+6dFm0um6OLmgF3NMQ=="/>
-        <POI MapID="39" xpos="1071.39" ypos="111.055" zpos="668.811" type="legs.jp.set.glider.large" GUID="5xsfNRu+QUqziTWUmpoUsQ==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="39" xpos="1150.54" ypos="6.94919" zpos="366.921" type="legs.jp.set.mount.skyscale" GUID="ak118Ah9+kKVYACjUc0cyQ=="/>
-        <POI MapID="39" xpos="1075.19" ypos="81.9213" zpos="504.444" type="legs.jp.set.glider.large" GUID="X6T/ZNJRuku/qfHS/Ebapg==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="39" xpos="1014.67" ypos="21.8861" zpos="425.905" type="legs.jp.set.glider.large" GUID="eSUZoSib10ewCjsIM/CufQ==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="39" xpos="1096" ypos="-0.300763" zpos="348.301" type="legs.jp.set.mount.skimmer" GUID="TVy/T6BnbkGzrNjpTuouuw=="/>
-        <POI MapID="39" xpos="997.437" ypos="8.7142" zpos="509.652" type="legs.jp.set.mount.raptor" GUID="vopV3KBsCE66t3sAWGN4iQ=="/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="legs.jp.hiddengarden.winds" GUID="xUUEBMx6iU279jjFmaaAnw=="   iconfile="Data/LadyElyssa/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="1081.13" ypos="26.0088" zpos="693.671" type="legs.jp.hiddengarden.mount.springer" GUID="nym9Is10VUqjWQRhw/OcVQ=="/>
+        <POI MapID="39" xpos="1120.31" ypos="49.7397" zpos="672.189" type="legs.jp.hiddengarden.mount.skyscale" GUID="jlQv+6dFm0um6OLmgF3NMQ=="/>
+        <POI MapID="39" xpos="1071.39" ypos="111.055" zpos="668.811" type="legs.jp.hiddengarden.glider.medium" GUID="5xsfNRu+QUqziTWUmpoUsQ==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="39" xpos="1150.54" ypos="6.94919" zpos="366.921" type="legs.jp.hiddengarden.mount.skyscale" GUID="ak118Ah9+kKVYACjUc0cyQ=="/>
+        <POI MapID="39" xpos="1075.19" ypos="81.9213" zpos="504.444" type="legs.jp.hiddengarden.glider.medium" GUID="X6T/ZNJRuku/qfHS/Ebapg==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="39" xpos="1014.67" ypos="21.8861" zpos="425.905" type="legs.jp.hiddengarden.glider.medium" GUID="eSUZoSib10ewCjsIM/CufQ==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="39" xpos="1096" ypos="-0.300763" zpos="348.301"  type="legs.jp.hiddengarden.mount.skimmer" GUID="TVy/T6BnbkGzrNjpTuouuw=="/>
+        <POI MapID="39" xpos="997.437" ypos="8.7142" zpos="509.652"  type="legs.jp.hiddengarden.mount.raptor" GUID="vopV3KBsCE66t3sAWGN4iQ=="/>
+        
         <Trail type="legs.jp.kingjalis.snowden" trailData="Data/LadyElyssa/Jumping Puzzles/King Jalis's Refuge.trl"/>
         <POI MapID="31" xpos="748.625" ypos="56.7938" zpos="57.0186" type="legs.jp.kingjalis.sign" GUID="fyEJXCDmykiNmL18NzA53Q==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/King Jalis's Refuge.png"/>
         <Trail type="legs.jp.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles/Loreclaw 1.trl"/>
