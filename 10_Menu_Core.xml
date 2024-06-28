@@ -2796,6 +2796,20 @@
                 <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
             </MarkerCategory>
             <MarkerCategory name="hiddengarden" DisplayName="Hidden Garden">
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                </MarkerCategory>
+                <!-- End Mounts -->
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                    <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                </MarkerCategory>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                 <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
                 <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
@@ -7002,6 +7016,27 @@
             <!-- End Settings -->
         </MarkerCategory>
         <!-- End Core MP -->
+        <MarkerCategory name="masterdiver" DisplayName="Master Diver (Circular Route)" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.75">
+            <MarkerCategory name="set" DisplayName="Settings">
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+            <!-- End Settings -->
+            <MarkerCategory name="separatormenu510" IsSeparator="1" DisplayName="ASCALON"/>
+            <MarkerCategory name="ironmarches" DisplayName="Iron Marches" color="ffff00"/>
+            <MarkerCategory name="separatormenu511" IsSeparator="1" DisplayName="KRYTA"/>
+            <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="00FFFF"/>
+            <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="ffff00"/>
+            <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="ffff00"/>
+            <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="ffff00"/>
+            <MarkerCategory name="separatormenu512" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+            <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="ffff00"/>
+            <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" color="ffff00"/>
+            <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="ffff00"/>
+            <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="ffff00"/>
+            <MarkerCategory name="separatormenu513" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+            <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="ffff00"/>
+        </MarkerCategory>
+        <!-- End Master Diver -->
         <!-- MINI DUNGEONS -->
         <MarkerCategory name="minidungeons" DisplayName="Mini-Dungeons" texture="Data/LadyElyssa/Images/trail-tiny.png" color="E6E6E6" animSpeed="0.5" alpha="0.7" fadeNear="1600" fadeFar="2400">
             <MarkerCategory name="set" DisplayName="Settings">
