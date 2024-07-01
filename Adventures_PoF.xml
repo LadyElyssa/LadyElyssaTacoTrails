@@ -113,7 +113,7 @@
         <Trail type="legs.pofad.dovvssr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Vehtendi School Supply Run.trl" animSpeed="0.5"/>
         <Trail type="legs.pofad.dovvssr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Vehtendi School Supply Run.trl" animSpeed="0.5"/>
         <POI MapID="1248" xpos="225.237" ypos="81.8561" zpos="-487.917" type="legs.pofad.dovvssr.mount.griffon" GUID="7/LGLHT9jU+86OMslbe/DA=="/>
-		  <POI MapID="1248" xpos="226.026" ypos="80.7786" zpos="-479.531" GUID="pj1fx6hvYEGz/UU7RXX3FA==" iconFile="Data/LadyElyssa/Images/Adventures/Vehtendi School Supply Run.png" mapDisplaySize="64"/>
+		  <POI MapID="1248" xpos="226.026" ypos="80.7786" zpos="-479.531" type="legs.pofad.dovvssr.sign" GUID="pj1fx6hvYEGz/UU7RXX3FA==" iconFile="Data/LadyElyssa/Images/Adventures/Vehtendi School Supply Run.png" mapDisplaySize="64"/>
         <!-- Lion's Arch -->
         <!-- Advanced Skimmer Training -->
         <Trail type="legs.pofad.laast.to" trailData="Data/LadyElyssa/PoF/Adventures/To Advanced Skimmer Training.trl" animSpeed="0.5"/>
