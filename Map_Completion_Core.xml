@@ -2176,7 +2176,8 @@
         <POI MapID="28" xpos="415.454" ypos="125.558" zpos="978.636" type="legs.map.wayfarer.wp.set.start" GUID="afeGuhgWsEq3zfVcDYzWPg=="/>
         <POI MapID="28" xpos="-285.931" ypos="148.66" zpos="-338.451" type="legs.map.wayfarer.wp.set.mount.skyscale" GUID="qwo2iijA3kyW32CkdDkPlQ=="/>
         <POI MapID="28" xpos="-304.46" ypos="125.008" zpos="-564.909" type="legs.map.wayfarer.wp.set.finish" GUID="6oL0BWVKik2ZH4o4uan1FA=="/>
-        <Trail type="legs.map.wayfarer.all.set.number.1" trailData="Data/LadyElyssa/Map Completion/Wayfarer 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.wayfarer.all.set.number.1" trailData="Data/LadyElyssa/Map Completion/Wayfarer 1a.trl" color="00FFFF"/>
+        <Trail type="legs.map.wayfarer.all.set.number.1" trailData="Data/LadyElyssa/Map Completion/Wayfarer 1b.trl" color="00FFFF"/>
         <Trail type="legs.map.wayfarer.all.set.number.2" trailData="Data/LadyElyssa/Map Completion/Wayfarer 2.trl" color="00FFFF"/>
         <Trail type="legs.map.wayfarer.all.set.number.3" trailData="Data/LadyElyssa/Map Completion/Wayfarer 3.trl" color="00FFFF"/>
         <Trail type="legs.map.wayfarer.all.set.number.4" trailData="Data/LadyElyssa/Map Completion/Wayfarer 4.trl" color="00FFFF"/>
@@ -2237,8 +2238,8 @@
         <POI MapID="28" xpos="-317.172" ypos="112.876" zpos="1023.57" type="legs.map.wayfarer.all.set.mount.raptor" GUID="+4JZqGEfP0S+M0m7uda5cA=="/>
         <POI MapID="28" xpos="-174.729" ypos="125.748" zpos="875.69" type="legs.map.wayfarer.all.set.mount.beetle" GUID="ldZZxRAmwUy3dGQgafrPCw=="/>
         <POI MapID="28" xpos="-178.026" ypos="107.227" zpos="574.604" type="legs.map.wayfarer.all.set.mount.raptor" GUID="8JEUC1tld0eWBkvnD5HOqg=="/>
-        <POI MapID="28" xpos="-207.688" ypos="99.8969" zpos="504.241" type="legs.map.wayfarer.all.set.mount.beetle" GUID="gwi/aidjeEmKf3jw9Tbvzg=="/>
-        <POI MapID="28" xpos="-204.548" ypos="100.205" zpos="486.683" type="legs.map.wayfarer.all.set.mount.beetle" GUID="y58T4ynoz0eZJeUUyidfuA=="/>
+        <POI MapID="28" xpos="-220.98" ypos="99.466" zpos="509.575" type="legs.map.wayfarer.all.set.mount.beetle" GUID="gwi/aidjeEmKf3jw9Tbvzg=="/>
+        <POI MapID="28" xpos="-213.338" ypos="102.657" zpos="495.226" type="legs.map.wayfarer.all.set.mount.beetle" GUID="y58T4ynoz0eZJeUUyidfuA=="/>
         <POI MapID="28" xpos="55.0872" ypos="85.2362" zpos="120.273" type="legs.map.wayfarer.all.set.mount.springer" GUID="s5H7qjmxa02/eFstJsOOBA=="/>
         <POI MapID="28" xpos="313.72" ypos="71.1123" zpos="225.694" type="legs.map.wayfarer.all.set.mount.raptor" GUID="/7z/0eJj8keYyCSZj8r7BA=="/>
         <POI MapID="28" xpos="392.879" ypos="70.5952" zpos="352.513" type="legs.map.wayfarer.all.set.mount.raptor" GUID="0xPg5/pYXkOH3Rwz+HGv+Q=="/>
@@ -2266,9 +2267,6 @@
         <POI MapID="28" xpos="-305.014" ypos="125.201" zpos="-565.19" type="legs.map.wayfarer.all.set.finish" GUID="UGXt6VkBJUOCxFkC+dt5xQ=="/>
         <Trail type="legs.map.wayfarer.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Wayfarer Hearts 1a.trl" color="FFFF00"/>
         <Trail type="legs.map.wayfarer.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Wayfarer Hearts 1b.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" alpha="0.8"/>
-        <Trail type="legs.map.wayfarer.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Wayfarer Hearts 1c.trl" color="CCCCCC"/>
-        <POI MapID="28" xpos="-58.2727" ypos="107.073" zpos="216.533" type="legs.map.wayfarer.all.set.heartinfo" GUID="Y27ug1YH1ki1wWts8Po/cQ==" info="Follow Grey Heart trail to next Heart&#xA;&#xA;Follow Dashed Line for the Main Trail" infoRange="5"/>
-        <Trail type="legs.map.wayfarer.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Wayfarer Hearts 1d.trl" color="FFFF00"/>
         <Trail type="legs.map.wayfarer.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Wayfarer Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.wayfarer.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Wayfarer Hearts 3.trl" color="FFFF00"/>
         <Trail type="legs.map.wayfarer.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Wayfarer Hearts 4.trl" color="FFFF00"/>
