@@ -2,6 +2,40 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- LIVING WORLD SEASON 5: The Icebrood Saga -->
         <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LIVING WORLD SEASON 5: The Icebrood Saga   "/>
+           <MarkerCategory name="lws5ad" DisplayName="Adventures" fadeNear="2000" fadeFar="4000">
+           <MarkerCategory name="drizzlewood" IsSeparator="1" DisplayName="DRIZZLEWOOD COAST"/>
+           <MarkerCategory name="dcfotes" DisplayName="Flight of the Eagle Spirit" fadeNear="3000" fadeFar="6000">
+             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+           </MarkerCategory>
+           <MarkerCategory name="dctoy" DisplayName="The Ox's Yoke" fadeNear="3000" fadeFar="6000">
+             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+           </MarkerCategory>
+           <MarkerCategory name="grothmar" IsSeparator="1" DisplayName="GROTHMAR VALLEY"/>
+           <MarkerCategory name="gvatc" DisplayName="Ash Training Course" fadeNear="3000" fadeFar="6000">
+             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+           </MarkerCategory>
+           <MarkerCategory name="gvcc" DisplayName="Crater Circuit" fadeNear="3000" fadeFar="6000">
+             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+           </MarkerCategory>
+           <MarkerCategory name="gvgt" DisplayName="Grand Tour" fadeNear="3000" fadeFar="6000">
+             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+           </MarkerCategory>
+           <MarkerCategory name="gvst" DisplayName="Skyscale Trial" fadeNear="3000" fadeFar="6000">
+             <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+             <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+             <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+           </MarkerCategory>
+        </MarkerCategory>
         <MarkerCategory name="bjora" DisplayName="Bjora Marches">
             <MarkerCategory name="raven" DisplayName="Raven Puzzles" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="1" alpha="1" fadeNear="1100" fadeFar="1200">
                 <MarkerCategory name="set" DisplayName="Settings">
