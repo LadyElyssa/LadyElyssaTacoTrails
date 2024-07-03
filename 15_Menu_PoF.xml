@@ -3,7 +3,6 @@
         <!-- PoF - Path of Fire -->
         <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
         <MarkerCategory name="pofad" DisplayName="Adventures" fadeNear="2000" fadeFar="4000">
-            <!-- Seitung Province -->
             <MarkerCategory name="co" IsSeparator="1" DisplayName="CRYSTAL OASIS"/>
             <MarkerCategory name="rsr" DisplayName="Refugee Supply Run" fadeNear="3000" fadeFar="6000">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
@@ -144,6 +143,7 @@
             <MarkerCategory name="dovvssr" DisplayName="Vehtendi School Supply Run" fadeNear="3000" fadeFar="6000">
                 <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
                     <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                 </MarkerCategory>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
