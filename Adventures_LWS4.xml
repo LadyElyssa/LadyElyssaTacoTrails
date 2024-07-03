@@ -3,20 +3,20 @@
         <!-- LIVING WORLD SEASON 4 -->
         <!-- Domain of Istan -->
         <!-- Ancient Weapons -->
-        <POI MapID="1263" xpos="-850.455" ypos="163.13" zpos="592.81" GUID="W7w9O3E1dUWiLyhQXS753g==" iconFile="Data/LadyElyssa/Images/Adventures/Ancient Weapons.png" mapDisplaySize="64"/>
+        <POI MapID="1263" xpos="-850.455" ypos="163.13" zpos="592.81" type="legs.lws4ad.doiaw.sign" GUID="W7w9O3E1dUWiLyhQXS753g==" iconFile="Data/LadyElyssa/Images/Adventures/Ancient Weapons.png" mapDisplaySize="64"/>
         <Trail type="legs.lws4ad.doiaw.to" trailData="Data/LadyElyssa/LWS4/Adventures/To Ancient Weapons.trl" animSpeed="0.5"/>
         <Trail type="legs.lws4ad.doiaw.trail" trailData="Data/LadyElyssa/LWS4/Adventures/Ancient Weapons.trl" animSpeed="0.5"/>
         <POI MapID="1263" xpos="-822.265" ypos="121.125" zpos="558.805" type="legs.lws4ad.doiaw.mount.springer" GUID="JhMyP/ucJUmZi31MOZhMYA=="/>
         <POI MapID="1263" xpos="-818.541" ypos="211.408" zpos="634.167" type="legs.lws4ad.doiaw.mount.griffon" GUID="vH09nvP2wke5Po+MMLnxlw=="/>
         <!-- Istan Griffon Expert -->
-        <POI MapID="1263" xpos="338.842" ypos="-0.0901666" zpos="478.551" GUID="OxvAKwXOiEyN72ZfvpbD8Q==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <POI MapID="1263" xpos="338.842" ypos="-0.0901666" zpos="478.551" type="legs.lws4ad.doige.sign" GUID="OxvAKwXOiEyN72ZfvpbD8Q==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
         <Trail type="legs.lws4ad.doige.to" trailData="Data/LadyElyssa/LWS4/Adventures/Istan To Griffon Expert.trl" animSpeed="0.5"/>
         <Trail type="legs.lws4ad.doige.trail" trailData="Data/LadyElyssa/LWS4/Adventures/Istan Griffon Expert.trl" animSpeed="0.5"/>
         <POI MapID="1263" xpos="-95.4609" ypos="82.7719" zpos="91.2071" type="legs.lws4ad.doige.mount.springer" GUID="KnTZXe+ewE2sombphMlZUw=="/>
 		  <POI MapID="1263" xpos="-137.036" ypos="114.902" zpos="36.8979" type="legs.lws4ad.doige.mount.springer" GUID="nf/06h6sEkWPB/Oc1C4O+Q=="/>
 		  <POI MapID="1263" xpos="-245.019" ypos="212.854" zpos="61.5659" type="legs.lws4ad.doige.mount.jackal" GUID="OMUOmjU9Okygbbssb+u2+w=="/>
         <!-- Istan Griffon Master -->
-        <POI MapID="1263" xpos="-849.261" ypos="163.343" zpos="605.708" GUID="ZXbdZjQ7i0yXaADaueARvQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <POI MapID="1263" xpos="-849.261" ypos="163.343" zpos="605.708" type="legs.lws4ad.doigm.sign" GUID="ZXbdZjQ7i0yXaADaueARvQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
         <Trail type="legs.lws4ad.doigm.to" trailData="Data/LadyElyssa/LWS4/Adventures/Istan To Griffon Master.trl" animSpeed="0.5"/>
         <Trail type="legs.lws4ad.doigm.trail" trailData="Data/LadyElyssa/LWS4/Adventures/Istan Griffon Master.trl" animSpeed="0.5"/>
         <POI MapID="1263" xpos="-843.587" ypos="169.861" zpos="610.902" type="legs.lws4ad.doigm.mount.springer" GUID="gVJGFetvk0aiyIC23USRJw=="/>
