@@ -2062,6 +2062,14 @@
         <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 3.trl" color="FFFF00"/>
         <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 4.trl" color="FFFF00"/>
         <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 5.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 6.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 7.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 8.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 9.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 10.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 11.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 12.trl" color="FFFF00"/>
+        <Trail type="legs.map.sparkfly.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Sparkfly Hearts 13.trl" color="FFFF00"/>
         <POI MapID="53" xpos="514.734" ypos="-0.0214144" zpos="909.43" type="legs.map.sparkfly.all.set.start" GUID="kTRorvvDVUK6d8GjcR1jPQ=="/>
         <POI MapID="53" xpos="537.157" ypos="45.9064" zpos="666.637" type="legs.map.sparkfly.all.set.mount.skyscale" GUID="APdy9K5HIEucy6HZOxnedw=="/>
         <POI MapID="53" xpos="205.151" ypos="27.907" zpos="760.878" type="legs.map.sparkfly.all.set.mount.springer" GUID="cBKfr0C7K0CCmS/eETJ5rw=="/>
@@ -2102,7 +2110,6 @@
         <POI MapID="53" xpos="-376.252" ypos="9.16293" zpos="845.413" type="legs.map.sparkfly.all.set.mount.beetle" GUID="H41/yYO+uUG3F/FzSv7Amw=="/>
         <POI MapID="53" xpos="-392.205" ypos="30.2497" zpos="309.479" type="legs.map.sparkfly.all.set.mount.raptor" GUID="pyVlgD+HSkm+vRDCEJWhHg=="/>
         <POI MapID="53" xpos="-535.715" ypos="-0.871335" zpos="-19.6797" type="legs.map.sparkfly.all.set.mount.skimmer" GUID="InC5riDoG0OOvtruQTzjng=="/>
-        <POI MapID="53" xpos="-413.523" ypos="-19.4149" zpos="-178.824" type="legs.map.sparkfly.all.set.mount.skimmer" GUID="IuivnsQhvE6lleaU/5wfOw=="/>
         <POI MapID="53" xpos="-592.091" ypos="-21.2757" zpos="-367.972" type="legs.map.sparkfly.all.set.mount.skimmer" GUID="lu1d8g2OuECq3ImlPgpl1A=="/>
         <POI MapID="53" xpos="-280.555" ypos="-0.0506262" zpos="-699.28" type="legs.map.sparkfly.all.set.mount.jackal" GUID="Sud3TpvzbkCQ6h3xsPbRYQ=="/>
         <POI MapID="53" xpos="45.3179" ypos="13.5305" zpos="-669.253" type="legs.map.sparkfly.all.set.mount.beetle" GUID="JowCybFhCU6DbgfxPFfDeQ=="/>
@@ -2136,8 +2143,8 @@
         <POI MapID="53" xpos="117.315" ypos="3.10606" zpos="763.705" type="legs.map.sparkfly.all.set.heartinfo" GUID="UFJ97QETI0ibSKbKsTfGIA==" info="PICK UP Flamethrower and use 1. Flame Jet on Corrupted Plants.&#xA;&#xA;DESTROY Orrian Artifacts, STOMP Risen Grub Holes, KILL Risen" infoRange="100"/>
         <POI MapID="53" xpos="96.217" ypos="19.9354" zpos="903.414" type="legs.map.sparkfly.all.set.heartinfo" GUID="qJHozDjXQUajmrABQCcSCw==" info="PICK UP Flamethrower and use 1. Flame Jet on Corrupted Plants.&#xA;&#xA;DESTROY Orrian Artifacts, STOMP Risen Grub Holes, KILL Risen" infoRange="42"/>
         <POI MapID="53" xpos="137.9" ypos="32.5294" zpos="867.282" type="legs.map.sparkfly.all.set.heartinfo" GUID="jiWrvdA41kaKP/I1qBTNlw==" info="PICK UP Flamethrower and use 1. Flame Jet on Corrupted Plants.&#xA;&#xA;DESTROY Orrian Artifacts, STOMP Risen Grub Holes, KILL Risen" infoRange="15"/>
-        <POI MapID="53" xpos="326.062" ypos="3.80966" zpos="-351.407" type="legs.map.sparkfly.all.set.heartinfo" GUID="dc6B+RgHPEieiI8QM13vHw==" info="DESTROY Corrupted Mushrooms, TALK to Wardens and Fight, KILL all hostile foes" infoRange="85"/>
-        <POI MapID="53" xpos="175.35" ypos="2.59217" zpos="-295.408" type="legs.map.sparkfly.all.set.heartinfo" GUID="VFdZlFDEuECgWa0DxjZG/Q==" info="DESTROY Corrupted Mushrooms, FIX Hylek Region Markers, KILL all hostile foes" infoRange="80"/>
+        <POI MapID="53" xpos="326.062" ypos="3.80966" zpos="-351.407" type="legs.map.sparkfly.all.set.heartinfo" GUID="dc6B+RgHPEieiI8QM13vHw==" info="DESTROY Corrupted Mushrooms, TALK to Wardens and Fight, KILL all hostile foes (not Reef Skelk)&#xA;&#xA;EVENT Kill Risen" infoRange="85"/>
+        <POI MapID="53" xpos="175.35" ypos="2.59217" zpos="-295.408" type="legs.map.sparkfly.all.set.heartinfo" GUID="VFdZlFDEuECgWa0DxjZG/Q==" info="DESTROY Corrupted Mushrooms, FIX Hylek Region Markers, KILL all hostile foes (not Reef Skelk)&#xA;&#xA;EVENT Kill Risen" infoRange="80"/>
         <POI MapID="53" xpos="4.495" ypos="0.312584" zpos="-657.805" type="legs.map.sparkfly.all.set.heartinfo" GUID="oEfEfTPfF02CDBG3L9EEJA==" info="BURN Corrupted Trees, PICK UP Discarded Tools and TALK to Brannen (Heart)" infoRange="95"/>
         <POI MapID="53" xpos="-166.669" ypos="1.93705" zpos="-641.187" type="legs.map.sparkfly.all.set.heartinfo" GUID="92PCrPYvE0el1hK3CyfFZQ==" info="ACTIVATE Plant Lights, KILL Risen,  PICK UP Discarded Tools and TALK to Brannen (Heart)" infoRange="77"/>
         <POI MapID="53" xpos="-70.7481" ypos="15.0265" zpos="214.268" type="legs.map.sparkfly.all.set.heartinfo" GUID="Igk7+vpU70maREQDg3WgKg==" info="LIGHT Signal Fires, KILL Krait, SET Spike Traps, FIX Broken Wire Traps&#xA;&#xA;EVENT Reclaim Southern Beach" infoRange="100"/>
