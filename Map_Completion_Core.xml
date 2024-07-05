@@ -238,6 +238,7 @@
         <POI MapID="91" xpos="-94.2997" ypos="-0.193227" zpos="26.3179" type="legs.map.grove.set.wp" GUID="egvBOFj+0kyiZrYlI3DVmA==" copy="[&BO8AAAA=]" copy-message="Shaemoor Waypoint&#xA;Queensdale"/>
         <!-- LION'S ARCH -->
         <Trail type="legs.map.la.all" trailData="Data/LadyElyssa/Map Completion/Lion's Arch.trl" color="00FFFF"/>
+        <POI MapID="50" xpos="635.068" ypos="26.3405" zpos="48.9313" type="legs.map.la.set.wp" GUID="z8j2ARz8Ik+wJU0FrHnrHw==" iconFile="Data/LadyElyssa/Images/Waypoints/Lion's Arch/Trader's Forum.png" copy="[&BBAEAAA=]" copy-message="Trader's Forum Waypoint"/>
         <POI MapID="50" xpos="-149.422" ypos="23.4096" zpos="414.579" type="legs.map.la.set.start" GUID="apYof/NAjkqzan8yAy0Law=="/>
         <POI MapID="50" xpos="373.418" ypos="25.5991" zpos="310.607" type="legs.map.la.set.wp" GUID="5dBtYMYvXEusNh+84lo7MA==" copy="[&BA0EAAA=]" copy-message="Guild Bluff Waypoint"/>
         <POI MapID="50" xpos="472.927" ypos="21.077" zpos="211.411" type="legs.map.la.set.number.2" GUID="WtK9B5jSWUSl78uWkB+eLw=="/>
@@ -2915,6 +2916,10 @@
         <POI MapID="51" xpos="-627.83" ypos="120.873" zpos="-544.451" type="legs.map.devastation.all.set.mount.raptor" GUID="5bqubXwDA0OXX6keab2zww=="/>
         <POI MapID="51" xpos="-899.306" ypos="40.9581" zpos="-391.185" type="legs.map.devastation.all.set.mount.jackal" GUID="wGoqAXYDtkmuZMA+wNVoag=="/>
         <POI MapID="827" xpos="621.74" ypos="28.9124" zpos="51.2449" GUID="Afqd8SEGk0Sj9A0MWXk0lw==" type="legs.map.devastation.all.set.exit"/>
+        <Trail type="legs.map.devastation.all.set.number.3" trailData="Data/LadyElyssa/Map Completion/Straits of Devastation Alt.trl" color="00FFFF" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="51" xpos="205.198" ypos="2.18614" zpos="-237.104" type="legs.map.devastation.all.set.mount.springer" GUID="qUno+w1fmk6O21tG5srFXw=="/>
+		  <POI MapID="51" xpos="192.116" ypos="35.7617" zpos="-227.83" type="legs.map.devastation.all.set.mount.skyscale" GUID="W8WbySb7+02Uce9HFUHZ/w=="/>
+		  <POI MapID="51" xpos="175.289" ypos="91.2333" zpos="-265.277" type="legs.map.devastation.all.set.glider.medium" GUID="idNiJcvTDEipPrU4nbjRvQ=="/>
         <Trail type="legs.map.devastation.wp" trailData="Data/LadyElyssa/Map Completion/Straits of Devastation WP.trl" color="CC66FF"/>
         <POI MapID="51" xpos="939.704" ypos="27.7201" zpos="165.433" type="legs.map.devastation.wp.set.start" GUID="nMpo4xhAFkKgOPuAzW1GGQ=="/>
         <POI MapID="51" xpos="861.011" ypos="24.4646" zpos="132.562" type="legs.map.devastation.wp.set.mount.springer" GUID="9z4DK4l/TkCw5Y/4zKwb9w=="/>
@@ -2934,6 +2939,7 @@
         <POI MapID="51" xpos="-502.146" ypos="40.4203" zpos="-120.882" type="legs.map.devastation.wp.set.number.4" GUID="0pq2a+Pvpkyvq3ov6wY4Xw=="/>
         <POI MapID="51" xpos="-674.388" ypos="94.2231" zpos="-466.647" type="legs.map.devastation.wp.set.mount.skyscale" GUID="2JYukYpM8karYvElDHvdTw=="/>
         <POI MapID="51" xpos="-940.822" ypos="53.042" zpos="-443.224" type="legs.map.devastation.wp.set.finish" GUID="PUdHuAZHnEmLqPQn8rOVTw=="/>
+        
         <Trail type="legs.map.malchors.all.set.number.1" trailData="Data/LadyElyssa/Map Completion/Malchor's Leap 1.trl" color="00FFFF"/>
         <Trail type="legs.map.malchors.all.set.number.2" trailData="Data/LadyElyssa/Map Completion/Malchor's Leap 2.trl" color="00FFFF"/>
         <Trail type="legs.map.malchors.all.set.number.3" trailData="Data/LadyElyssa/Map Completion/Malchor's Leap 3.trl" color="00FFFF"/>
