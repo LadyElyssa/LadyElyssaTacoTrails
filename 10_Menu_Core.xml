@@ -1,13 +1,16 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 15.2"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 15.3"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="wiki" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
         </MarkerCategory>
         <!-- TRAILS -->
         <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+        <MarkerCategory name="beetle" DisplayName="Beetle Races">
+            <MarkerCategory name="pewpews" DisplayName="See Pewpew's Marker Pack" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+        </MarkerCategory>        
         <!-- Easy Daily Dailies -->
         <MarkerCategory name="daily" DisplayName="Dailies (Easy)">
             <MarkerCategory name="forager" DisplayName="Forager" texture="Data/LadyElyssa/Images/Icons/Daily - Plants.png">
@@ -2937,6 +2940,14 @@
                 <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
                 <MarkerCategory name="oldla" DisplayName="Memory of Old Lion's Arch"/>
             </MarkerCategory>
+            <MarkerCategory name="separatormenu162" IsSeparator="1" DisplayName="LIVING WORLD SEASON 2: Glint's Prophecy   "/>
+            <MarkerCategory name="prospectvalleycrashsite" DisplayName="Prospect Valley Crash Site">
+				    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+				    <MarkerCategory name="location"     DisplayName="LOCATION" IsSeparator="1"/>
+				    <MarkerCategory name="drytop"      DisplayName="Dry Top">
+					<MarkerCategory name="colour" DisplayName="Trail Colours" color="FFFF33"/>
+            </MarkerCategory>
+			   </MarkerCategory>
             <MarkerCategory name="separatormenu162" IsSeparator="1" DisplayName="LIVING WORLD SEASON 3: Glint's Legacy   "/>
             <MarkerCategory name="abaddons" DisplayName="Abaddon's Ascent">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -3418,7 +3429,7 @@
             </MarkerCategory>
             <!--  Need to check Springer jump height, full jump or partial? Bond of Faith?
          
-			<MarkerCategory name="crashsite" DisplayName="Crash Site">
+			<MarkerCategory name="prospectvalleycrashsite" DisplayName="Prospect Valley Crash Site">
 				<MarkerCategory name="set" DisplayName="Settings">
 					<MarkerCategory name="glider"          DisplayName="Glider"          iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
 						<MarkerCategory name="medium"          DisplayName="Medium"       iconSize="0.5"/>
