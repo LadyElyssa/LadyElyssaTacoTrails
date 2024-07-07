@@ -102,7 +102,7 @@
         
         <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 1.trl"/>
         <POI MapID="30" xpos="-284.926" ypos="1.33754" zpos="488.319" type="legs.jp.shatterediceruins.sign" GUID="6Rnq6M9JcEqdeSyq8/vRoA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Shattered Ice Ruins.png"/>
-        <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 2.trl"/>
+        <Trail type="legs.jp.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles/Shattered Ice Ruins 2.trl" fadeNear="600" fadeFar="1200"/>
         <Trail type="legs.jp.spelunkers.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spelunker's Delve 1a.trl"/>
         <POI MapID="34" xpos="308.56" ypos="28.375" zpos="-874.574" type="legs.jp.spelunkers.sign" GUID="viARsn326EqSxZWNRuD26A==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spelunker's Delve.png"/>
         <POI MapID="34" xpos="-161.181" ypos="4.91833" zpos="-1014.4" type="legs.jp.spelunkers.sign" GUID="+wgOuKPxyk224u/Id/AVGg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spelunker's Delve.png"/>
@@ -165,6 +165,12 @@
         <Trail type="legs.jp.pigironquarry.fireheart" trailData="Data/LadyElyssa/Jumping Puzzles/Pig Iron Quarry 2 Alt.trl" fadeNear="400" fadeFar="800" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
         <Trail type="legs.jp.pigironquarry.fireheart" trailData="Data/LadyElyssa/Jumping Puzzles/Pig Iron Quarry 3.trl" fadeNear="600" fadeFar="1200"/>
         <Trail type="legs.jp.portmatt.bloodtide" trailData="Data/LadyElyssa/Jumping Puzzles/Portmatt.trl"/>
+        <POI MapID="988" xpos="230.931" ypos="13.348" zpos="-284.347" type="legs.jp.prospectvalleycrashsite.sign" GUID="aJ+O/SBU7UKZkvKMlNIj/g==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Prospect Valley Crash Site.png"/>
+        <POI MapID="988" xpos="402.85" ypos="24.4849" zpos="-520.169" type="legs.jp.prospectvalleycrashsite.sign" GUID="E4qn2Vh4G0SjVK44kE8Xpw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Prospect Valley Crash Site.png"/>
+        <Trail type="legs.jp.prospectvalleycrashsite.drytop" trailData="Data/LadyElyssa/Jumping Puzzles/Prospect Valley Crash Site 1.trl" fadeNear="1500" fadeFar="2000"/>
+        <Trail type="legs.jp.prospectvalleycrashsite.drytop" trailData="Data/LadyElyssa/Jumping Puzzles/Prospect Valley Crash Site 2.trl" fadeNear="1500" fadeFar="2000"/>
+        <Trail type="legs.jp.prospectvalleycrashsite.drytop" trailData="Data/LadyElyssa/Jumping Puzzles/Prospect Valley Crash Site 3.trl" fadeNear="1500" fadeFar="2000"/>
+        
         <POI MapID="73" xpos="-256.401" ypos="-51.4432" zpos="694.113" type="legs.jp.portmatt.sign" GUID="WUFriZpDHkmeXmkZHGrFnw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Professor Portmatt's Lab.png"/>
         <Trail type="legs.jp.retrospectiverunaround.silverwastes" trailData="Data/LadyElyssa/Jumping Puzzles/Retrospective Runaround 1.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png" fadeNear="1500" fadeFar="2000"/>
         <Trail type="legs.jp.retrospectiverunaround.silverwastes" trailData="Data/LadyElyssa/Jumping Puzzles/Retrospective Runaround 2.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png" fadeNear="1200" fadeFar="1600"/>
