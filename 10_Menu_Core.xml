@@ -3020,6 +3020,12 @@
                     <MarkerCategory name="short" DisplayName="Jade Bot Glide Booster Shortcut" color="00FF00"/>
                 </MarkerCategory>
             </MarkerCategory>
+            <MarkerCategory name="wvw" DisplayName="World vs. World" IsSeparator="1"/>
+            <MarkerCategory name="obsidian" DisplayName="Obsidian Sanctum" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="mists" DisplayName="The Mists"/>
+            </MarkerCategory>
         </MarkerCategory>
         <!-- END JUMPING PUZZLES -->
         <!-- Jumping Puzzle - Shortcuts -->
