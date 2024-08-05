@@ -1066,7 +1066,7 @@
         <POI MapID="73" xpos="96.1749" ypos="37.8542" zpos="-252.565" type="legs.map.bloodtide.all.set.heartinfo" GUID="wg84BcB0JE6rSp/LrSyFYw==" info="KILL Risen, DISABLE Dredge Mines, DESTROY Unstable Dredge Storm Generators&#xA;&#xA;PICK UP Dredge Sonic Rifle then Weapon Swap to Drop" infoRange="100"/>
         <POI MapID="73" xpos="244.525" ypos="17.5538" zpos="-173.395" type="legs.map.bloodtide.all.set.heartinfo" GUID="ayqh8sk1j0eUZ2UmqObwUA==" info="TALK to Crusader Aisling (Heart) and give Skritt Artifacts" infoRange="35"/>
         <POI MapID="73" xpos="650.939" ypos="-1.07663" zpos="-800.255" type="legs.map.bloodtide.all.set.heartinfo" GUID="ed0McE5LCU2w8xUjyRkvqw==" info="Gather Potion components and take them to Cesselia (Heart) for Brewing&#xA;Test completed Potions on caged Risen Spider Hatchlings near Heart&#xA;&#xA;Sparkfly - Frog Legs - Eagle Feathers&#xA;&#xA;Coral - Mushroom - Strangler Vine&#xA;&#xA;Frog - Eagle - Sparkfly&#xA;&#xA;EVENT Clear Undead from the oasis" infoRange="75"/>
-        <POI MapID="73" xpos="626.773" ypos="35.1566" zpos="-471.734" GUID="ylZ8tV0kD06kVD239vHYQQ==" iconFile="Data/LadyElyssa/Images/Waypoints/Waypoint.png" fadeNear="2000" fadeFar="4000"/>
+        <POI MapID="73" xpos="626.773" ypos="35.1566" zpos="-471.734" type="legs.map.bloodtide.all.set.wp" GUID="ylZ8tV0kD06kVD239vHYQQ==" iconFile="Data/LadyElyssa/Images/Waypoints/Waypoint.png" fadeNear="2000" fadeFar="4000"/>
         <Trail type="legs.map.bloodtide.wp" trailData="Data/LadyElyssa/Map Completion/Bloodtide Coast WP.trl" color="CC66FF"/>
         <POI MapID="73" xpos="221.562" ypos="14.6142" zpos="963.119" type="legs.map.bloodtide.wp.set.start" GUID="Rc3osZz7Jku95dxxYHwqCw=="/>
         <POI MapID="73" xpos="642.8" ypos="-2.27487" zpos="-112.687" type="legs.map.bloodtide.wp.set.wp" GUID="cwtTPP5Im0SUyVTFb7Gang==" copy="[&BLABAAA=]" copy-message="Whisperwill Waypoint"/>
@@ -1562,7 +1562,7 @@
         <Trail type="legs.map.metrica.all.set.number.5" trailData="Data/LadyElyssa/Map Completion/Metrica 5.trl" color="00FFFF"/>
         <Trail type="legs.map.metrica.all.set.number.6" trailData="Data/LadyElyssa/Map Completion/Metrica 6.trl" color="00FFFF"/>
         <Trail type="legs.map.metrica.all.set.number.7" trailData="Data/LadyElyssa/Map Completion/Metrica 7.trl" color="00FFFF"/>
-        <POI MapID="35" xpos="-480.574" ypos="47.2882" zpos="-733.038" type="legs.map.metrica.all.set.heartinfo" GUID="lNf1k39A1kGS6RJ/71WaKQ==" info="Recommended Items to Buy from Trading Post:&#xA;&#xA;- Alpha Inquest Control Key x 20&#xA;- Barracuda Meat x 25&#xA;- Caledon Lavender x 20&#xA;- Crab Meat x 34&#xA;- Cursed Pirate Artifact x 34&#xA;- Hylek Armor x 20&#xA;- Piece of Charr Scrap Metal x 20&#xA;- Pirate Outfit x 13&#xA;- Seraph Badge x 20&#xA;- Skritt Artifact x 25&#xA;- Special Root x 50&#xA;- Supplies x 20&#xA;- Volcanic Earth Elemental Core x 20" infoRange="2"/>
+        <POI MapID="35" xpos="-480.574" ypos="47.2882" zpos="-733.038" type="legs.map.metrica.all.set.heartinfo" GUID="lNf1k39A1kGS6RJ/71WaKQ==" info="Recommended Items to Buy from Trading Post:&#xA;&#xA;- Alpha OR Beta Inquest Control Key x 20&#xA;- Barracuda Meat x 25&#xA;- Caledon Lavender x 20&#xA;- Crab Meat x 34&#xA;- Cursed Pirate Artifact x 34&#xA;- Hylek Armor x 20&#xA;- Piece of Charr Scrap Metal x 20&#xA;- Pirate Outfit x 13&#xA;- Seraph Badge x 20&#xA;- Skritt Artifact x 25&#xA;- Special Root x 50&#xA;- Supplies x 20&#xA;- Volcanic Earth Elemental Core x 20" infoRange="2"/>
         <POI MapID="35" xpos="-478.775" ypos="47.2946" zpos="-730.285" type="legs.map.metrica.all.set.start" GUID="fjIj6zeiAUSw6C5baLx25w=="/>
         <POI MapID="35" xpos="-379.972" ypos="54.0343" zpos="-863.927" type="legs.map.metrica.all.set.mount.skyscale" GUID="nsa2aPYT1E+O5bZyFllD+g=="/>
         <POI MapID="35" xpos="-211.512" ypos="30.0165" zpos="-821.135" type="legs.map.metrica.all.set.mount.springer" GUID="nldXm6NO3EuhK2Ottj85wQ=="/>
@@ -1969,9 +1969,9 @@
         <POI MapID="39" xpos="-885.846" ypos="73.2971" zpos="332.577" type="legs.map.maelstrom.all.set.mount.raptor" GUID="8Uhkbs7zVU2g3hhQ8d8gkA=="/>
         <POI MapID="39" xpos="-1013.14" ypos="50.4248" zpos="-387.243" type="legs.map.maelstrom.all.set.mount.jackal" GUID="ahtSpWrYSkW9JES1L6nJzw=="/>
         <POI MapID="39" xpos="-1007.07" ypos="26.4876" zpos="-513.096" type="legs.map.maelstrom.all.set.mount.beetle" GUID="XitWulgQRkyXorzzskHS3g=="/>
-        <POI MapID="39" xpos="-176.242" ypos="13.6096" zpos="561.357" type="legs.map.maelstrom.all.set.heartinfo" GUID="v5exPjxmo0yqpT8tdZsqtA==" info="Only follow the Heart Trail if you didn't already purchase the Special Root off the TP" infoRange="10"/>
+        
         <POI MapID="39" xpos="213.634" ypos="50.3226" zpos="626.876" type="legs.map.maelstrom.all.set.heartinfo" GUID="+pkorPd240GLYLxR9d+/mg==" info="Only follow the Heart Trail if you don't already have the Supplies off the TP" infoRange="10"/>
-        <POI MapID="39" xpos="503.545" ypos="12.5526" zpos="-559.588" type="legs.map.maelstrom.all.set.heartinfo" GUID="ncnc5eo8s0yeq5Q5jj2/+A==" info="Only follow the Heart Trail if you don't already have the Alpha Inquest Control Key off the TP" infoRange="10"/>
+        <POI MapID="39" xpos="503.545" ypos="12.5526" zpos="-559.588" type="legs.map.maelstrom.all.set.heartinfo" GUID="ncnc5eo8s0yeq5Q5jj2/+A==" info="Only follow the Heart Trail if you don't already have the Alpha or Beta Inquest Control Key off the TP" infoRange="10"/>
         <Trail type="legs.map.maelstrom.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Mount Maelstrom Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.maelstrom.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Mount Maelstrom Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.maelstrom.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Mount Maelstrom Hearts 3.trl" color="FFFF00"/>
@@ -1980,10 +1980,12 @@
         <Trail type="legs.map.maelstrom.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Mount Maelstrom Hearts 6.trl" color="FFFF00"/>
         <Trail type="legs.map.maelstrom.all.set.heartpath" trailData="Data/LadyElyssa/Map Completion/Mount Maelstrom Hearts 7.trl" color="FFFF00"/>
         <!-- Hearts -->
-        <POI MapID="39" xpos="-175.087" ypos="13.6736" zpos="567.014" GUID="9P3qg4DO2EeuMI/zuPKBnQ==" type="legs.map.maelstrom.all.set.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Special Root.png" heightOffset="5" minSize="12" MaxSize="32" info="TP: Special Root x 50" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4400" fadeFar="6600"/>
+        
         <POI MapID="39" xpos="286.146" ypos="43.9513" zpos="631.377" GUID="dSwe0QbrikaSH3F05ZgXHg==" type="legs.map.maelstrom.all.set.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Supplies.png" heightOffset="5" minSize="12" MaxSize="32" info="TP: Supplies x 20" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4400" fadeFar="6600"/>
         <POI MapID="39" xpos="-430.937" ypos="92.8558" zpos="-545.219" GUID="6cQ68YDwtEOXmLwdLTVAFw==" type="legs.map.maelstrom.all.set.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Volcanic Earth Elemental Core.png" heightOffset="5" minSize="12" MaxSize="32" info="TP: Volcanic Earth Elemental Core x 20" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4400" fadeFar="6600"/>
-        <POI MapID="39" xpos="570.61" ypos="13.8299" zpos="-448.413" GUID="+w3io2JvYka9H8cYdeJQbw==" type="legs.map.maelstrom.all.set.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Alpha Inquest Control Key.png" heightOffset="5" minSize="12" MaxSize="32" info="TP: Alpha Inquest Control Key x 20" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4400" fadeFar="6600"/>
+        
+        
+        
         <POI MapID="39" xpos="-1105.1" ypos="38.3007" zpos="553.145" type="legs.map.maelstrom.all.set.start" GUID="XsBgJatpt0W1a5ojW/fe9g=="/>
         <POI MapID="39" xpos="-413.254" ypos="51.4369" zpos="533.618" type="legs.map.maelstrom.all.set.glider.medium" GUID="loaPoUk9Rki//NADoczGhg=="/>
         <POI MapID="39" xpos="-367.587" ypos="70.9864" zpos="209.196" type="legs.map.maelstrom.all.set.wp" GUID="MTvDLXYMz0qBArhYQamztA==" copy="[&BM4CAAA=]" copy-message="Ashen Waypoint"/>
@@ -2031,11 +2033,15 @@
         <POI MapID="39" xpos="471.185" ypos="50.4185" zpos="-445.993" type="legs.map.maelstrom.all.set.glider.large" GUID="sAy3JPu5bE6XXHPdXeIW8A=="/>
         <POI MapID="39" xpos="815.73" ypos="31.7145" zpos="-226.199" type="legs.map.maelstrom.all.set.mount.skyscale" GUID="gKxYbbJR0kCE+BrzxyV2Wg=="/>
         <POI MapID="39" xpos="-620.067" ypos="96.5879" zpos="602.243" type="legs.map.maelstrom.all.set.heartinfo" GUID="UIA20r2hgUaD02eKihpCdg==" info="TALK to Skritt Sparring Partners to Spar (use conditions &amp; repeat if needed)" infoRange="100"/>
-        <POI MapID="39" xpos="-175.043" ypos="13.664" zpos="566.636" type="legs.map.maelstrom.all.set.heartinfo" GUID="pfarcTA4yEScn4qdBUdXrg==" info="EVENT TALK to Drysden (Heart)" infoRange="100"/>
+        <POI MapID="39" xpos="-211.679" ypos="14.6945" zpos="540.684" type="legs.map.maelstrom.all.set.heartinfo" GUID="dCsJx07Ge0+uNnRFLqZbUg==" info="EVENT TALK to Drysdan (Heart)&#xA;TP: Special Root x 50&#xA;&#xA;Only follow the Heart route if the EVENT is active&#xA;The EVENT has a short Cooldown" infoRange="50"/>
         <POI MapID="39" xpos="286.022" ypos="43.9524" zpos="631.539" type="legs.map.maelstrom.all.set.heartinfo" GUID="N0Ay9IVHNkaGYWSb/pjtUw==" info="TALK to Zara (Heart)" infoRange="30"/>
         <POI MapID="39" xpos="456.132" ypos="-76.9879" zpos="-67.2686" type="legs.map.maelstrom.all.set.heartinfo" GUID="GgQai7w/1E6t12n636pB0w==" info="KILL Krait, CUT FREE Slaves, OPEN Krait Cages, DESTROY Blood Idols &amp; Krait Turrets" infoRange="100"/>
         <POI MapID="39" xpos="531.626" ypos="0.786576" zpos="-174.661" type="legs.map.maelstrom.all.set.heartinfo" GUID="R3sbJLSOzEOCupggGFIG2g==" info="KILL Krait, CUT FREE Slaves, OPEN Krait Cages, DESTROY Blood Idols, Krait Turrets &amp; Supplies" infoRange="80"/>
-        <POI MapID="39" xpos="533.555" ypos="9.55725" zpos="-502.563" type="legs.map.maelstrom.all.set.heartinfo" GUID="BYttqG1rH0ucSsWObwdmcg==" info="TALK to Lightbringer Krentch (Heart)" infoRange="65"/>
+        
+        <POI MapID="39" xpos="533.555" ypos="9.55725" zpos="-502.563" type="legs.map.maelstrom.all.set.heartinfo" GUID="BYttqG1rH0ucSsWObwdmcg==" info="TALK to Lightbringer Krentch (Heart)&#xA;&#xA;TP: Alpha OR Beta Inquest Control Key x 20" infoRange="65"/>
+        <POI MapID="39" xpos="570.272" ypos="13.8009" zpos="-448.587" GUID="aEyIo6lGZEq6/1ZXE3nLsQ==" type="legs.map.maelstrom.all.set.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Alpha Inquest Control Key.png" heightOffset="6.6" minSize="12" MaxSize="32" mapVisibility="0" miniMapVisibility="0" fadeNear="4400" fadeFar="6600"/>
+        <POI MapID="39" xpos="570.272" ypos="13.8009" zpos="-448.587" GUID="+w3io2JvYka9H8cYdeJQbw==" type="legs.map.maelstrom.all.set.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Beta Inquest Control Key.png" heightOffset="5" minSize="12" MaxSize="32" mapVisibility="0" miniMapVisibility="0" fadeNear="4400" fadeFar="6600"/>
+
         <POI MapID="39" xpos="886.682" ypos="-28.2924" zpos="-353.932" type="legs.map.maelstrom.all.set.heartinfo" GUID="Soo7Y3KKdk+QhbcTh4F0wg==" info="KILL Inquest, Sabotage Inquest Recording Devices, DESTROY Inquest Turrets" infoRange="64"/>
         <POI MapID="39" xpos="998.087" ypos="-32.1818" zpos="-330.208" type="legs.map.maelstrom.all.set.heartinfo" GUID="5lTEL6Ihv0+5fMgA8gB73w==" info="KILL Inquest, CLEAN UP Discarded Inquest Waste, Sabotage Inquest Recording Devices" infoRange="50"/>
         <POI MapID="39" xpos="933.372" ypos="-44.9084" zpos="-472.821" type="legs.map.maelstrom.all.set.heartinfo" GUID="7pQGYdOFf0G7rd44f4CXEg==" info="KILL Inquest, Sabotage Inquest Recording Devices, DESTROY Inquest Turrets&#xA;&#xA;CLEAN UP Discarded Inquest Waste" infoRange="64"/>
