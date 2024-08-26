@@ -147,10 +147,13 @@
         <!-- Inner Nayos -->
         
         <Trail type="legs.sotomap.innernayos" trailData="Data/LadyElyssa/SotO/Map Completion/Inner Nayos.trl" color="00FFFF"/>
+        <Trail type="legs.sotomap.innernayos" trailData="Data/LadyElyssa/SotO/Map Completion/Inner Nayos 2.trl" color="00FFFF"/>
+        <Trail type="legs.sotomap.innernayos" trailData="Data/LadyElyssa/SotO/Map Completion/Inner Nayos 3.trl" color="00FFFF"/>
+        <Trail type="legs.sotomap.innernayos" trailData="Data/LadyElyssa/SotO/Map Completion/Inner Nayos 3b.trl" color="00FFFF" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
         <POI MapID="1526" xpos="693.441" ypos="216.026" zpos="-433.862" type="legs.sotomap.innernayos.set.start" GUID="P8RANVqu1UWWAUEadCZXVg=="/>
         <POI MapID="1526" xpos="695.095" ypos="216.025" zpos="-434.292" type="legs.sotomap.innernayos.set.number.2" GUID="E/To9xpSjkGN373QdgE95w=="/>
         <POI MapID="1526" xpos="184.407" ypos="233.622" zpos="-509.461" type="legs.sotomap.innernayos.set.wp" GUID="H5tUPLYeME6cCuDgRrvayw==" copy="[&BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
-        <POI MapID="1526" xpos="494.517" ypos="197.296" zpos="244.252" type="legs.sotomap.innernayos.set.finish" GUID="9UlSrm9s5k26z2WUMOyo6Q=="/>
+        <POI MapID="1526" xpos="494.517" ypos="197.296" zpos="244.252" type="legs.sotomap.innernayos.set.wp" GUID="9UlSrm9s5k26z2WUMOyo6Q==" copy="[&BHYOAAA=]" copy-message="Forward Bivouac Waypoint"/>
         
     </POIs>
 </OverlayData>
