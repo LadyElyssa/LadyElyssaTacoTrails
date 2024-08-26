@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 15.6"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 15.7"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="wiki" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
@@ -273,6 +273,16 @@
                 </MarkerCategory>
                 <!-- End Fireworks using WPs -->
                 <MarkerCategory name="pinata" DisplayName="Pinata" texture="Data/LadyElyssa/Images/Icons/Zhaitaffy.png">
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="number" DisplayName="Trail Segment" miniMapVisibility="0">
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    </MarkerCategory>
+                    <!-- End Numbers -->
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+                <!-- End Pinatta -->
+                <MarkerCategory name="pinatawp" DisplayName="Pinata with WP's" texture="Data/LadyElyssa/Images/Icons/Zhaitaffy.png">
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
