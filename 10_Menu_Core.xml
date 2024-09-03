@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 15.8.3"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 15.8.4"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="wiki" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
@@ -2871,6 +2871,7 @@
             <MarkerCategory name="separatormenu141" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
             <MarkerCategory name="retrospectiverunaround" DisplayName="Retrospective Runaround">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="cp" DisplayName="Toggle Checkpoint" mapDisplaySize="32" iconFile="Data/LadyElyssa/Images/Checkpoint.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
                 <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
             </MarkerCategory>
@@ -3445,6 +3446,7 @@
             </MarkerCategory>
             <MarkerCategory name="separatormenu320" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
             <MarkerCategory name="retrospectiverunaround" DisplayName="Retrospective Runaround">
+                <MarkerCategory name="cp" DisplayName="Toggle Checkpoint" mapDisplaySize="32" iconFile="Data/LadyElyssa/Images/Checkpoint.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="2400" alpha="1"/>
                 <MarkerCategory name="set" DisplayName="Settings">
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
