@@ -1,0 +1,74 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="LadyElyssa's Guides" mapDisplaySize="16">
+        <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
+        
+        <MarkerCategory name="ls" DisplayName="Lowland Shore">
+            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/LadyElyssa/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run" achievementId="8342"/>
+                <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="8253"/>
+                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run" achievementId="8301"/>
+                <MarkerCategory name="rs" DisplayName="Raven Scouting"/>
+                <MarkerCategory name="wr" DisplayName="Warclaw Run" achievementId="8340"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="gathering" DisplayName="Gathering">
+                <MarkerCategory name="flower" DisplayName="Possible Honey Flower (Circle)" iconFile="Data/LadyElyssa/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine (Square)" iconFile="Data/LadyElyssa/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/LadyElyssa/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops" achievementId="8158">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Buzzy Treetops.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+                <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Hive Hopper.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="guide" DisplayName="Toggle Guide Sign" iconFile="Data/LadyElyssa/Images/Hive Hopper Guide.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+                <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Light Up the Vale.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Glider.png" maxSize="32" mapDisplaySize="16"/>
+                    <MarkerCategory name="booster" DisplayName="Toggle Jade Bot Glide Booster" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" maxSize="32" mapDisplaySize="16"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/LadyElyssa/Images/Trails/Mastery.png">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/LadyElyssa/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
+        </MarkerCategory>
+
+
+        <!-- JANTHIR SYNTRI -->
+
+        <MarkerCategory name="js" DisplayName="Janthir Syntri">
+            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/LadyElyssa/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="swc" DisplayName="Save Woodland Creatures" achievementId="8155"/>
+                <MarkerCategory name="ss" DisplayName="Swift Skiffs / River Mapping" achievementId="8234"/>
+                <MarkerCategory name="vftt" DisplayName="View from the Top" achievementId="8236"/>
+                <MarkerCategory name="jswr" DisplayName="Warclaw Run" achievementId="8340"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="gathering" DisplayName="Gathering">
+                <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber" iconFile="Data/LadyElyssa/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="diamond" DisplayName="Toggle Sign (Diamond)" iconFile="Data/LadyElyssa/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                </MarkerCategory>
+                <MarkerCategory name="titanore" DisplayName="Possible Charged Titan Ore (Triangle)" iconFile="Data/LadyElyssa/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="triangle" DisplayName="Toggle Sign (triangle)" iconFile="Data/LadyElyssa/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/LadyElyssa/Images/Trails/Mastery.png">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/LadyElyssa/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
+        </MarkerCategory>
+
+    </MarkerCategory>
+</OverlayData>
