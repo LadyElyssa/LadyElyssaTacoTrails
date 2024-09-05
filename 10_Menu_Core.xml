@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 15.8.4"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 15.9"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="wiki" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
@@ -1428,6 +1428,11 @@
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
                 <!-- End Settings -->
+                <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS   "/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00BFFF"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin" color="00BFFF"/>
+                <MarkerCategory name="td" DisplayName="Tangled Depths" color="00BFFF"/>
+                <MarkerCategory name="ds" DisplayName="Dragon Stand" color="00BFFF"/>
                 <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LIVING WORLD SEASON 3: Glint's Legacy   "/>
                 <MarkerCategory name="doric" DisplayName="Lake Doric" color="00BFFF"/>
                 <MarkerCategory name="draconis" DisplayName="Draconis Mons" color="00BFFF"/>
