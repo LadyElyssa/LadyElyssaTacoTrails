@@ -3866,9 +3866,9 @@
         <POI MapID="1550" xpos="687.148" ypos="324.635" zpos="41.7506" type="legs.ls.gathering.wood" GUID="2eqkMkARDEmeiMYZU5GE0Q=="/>
 
         <!-- Gathering - Titan Amber -->
-        <Trail type="legs.js.gathering.titanamber" trailData="Data/LadyElyssa/JW/Gathering/Titan Amber 1.trl" color="ff8c00"/>
-        <Trail type="legs.js.gathering.titanamber" trailData="Data/LadyElyssa/JW/Gathering/Titan Amber 2.trl" color="ff8c00"/>
-        <Trail type="legs.js.gathering.titanamber" trailData="Data/LadyElyssa/JW/Gathering/Titan Amber 3.trl" color="ff8c00"/>
+        <Trail type="legs.js.gathering.titanamber" trailData="Data/LadyElyssa/JW/Gathering/Titan Amber 1.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.js.gathering.titanamber" trailData="Data/LadyElyssa/JW/Gathering/Titan Amber 2.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.js.gathering.titanamber" trailData="Data/LadyElyssa/JW/Gathering/Titan Amber 3.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1554" xpos="642.674" ypos="1.18223" zpos="-160.492" type="legs.js.gathering.titanamber.diamond" GUID="0hV6Z0V9s0+UBmVT5HnbyA=="/>
         <POI MapID="1554" xpos="-276.098" ypos="30.3688" zpos="-144.906" type="legs.js.gathering.titanamber.diamond" GUID="LsYJA86k1kyIn+ckZM6Y9w=="/>
         <POI MapID="1554" xpos="-546.981" ypos="80.2483" zpos="37.6422" type="legs.js.gathering.titanamber.diamond" GUID="5Cf+qvFTKkSndB+Vmw/WTA=="/>
@@ -3902,11 +3902,11 @@
 
 
         <!-- Gathering - Titan Ore -->
-        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 1.trl" color="ddc700"/>
-        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 2.trl" color="ddc700"/>
-        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 3.trl" color="ddc700"/>
-        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 4.trl" color="ddc700"/>
-        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 5.trl" color="ddc700"/>
+        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 1.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 2.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 3.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 4.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.js.gathering.titanore" trailData="Data/LadyElyssa/JW/Gathering/Titan Ore 5.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1554" xpos="-707.63" ypos="52.8027" zpos="433.216" type="legs.js.gathering.titanore.triangle" GUID="g3uCnUtS+kaAiyWAtUDXFw=="/>
         <POI MapID="1554" xpos="-739.346" ypos="49.1165" zpos="434.467" type="legs.js.gathering.titanore.triangle" GUID="um4cjzFLBkquu1LgOCyY8g=="/>
         <POI MapID="1554" xpos="161.668" ypos="3.67332" zpos="590.696" type="legs.js.gathering.titanore.triangle" GUID="6MMTlDHATU6vQDcHgmpKYA=="/>
