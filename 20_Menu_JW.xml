@@ -1,8 +1,9 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="LadyElyssa's Guides" mapDisplaySize="16">
+        
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
         
-        <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+        <MarkerCategory name="ls" DisplayName="Lowland Shore">
             <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/LadyElyssa/Images/Trails/Trail Pointer - Small.png">
                 <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run" achievementId="8342"/>
                 <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="8253"/>
@@ -13,7 +14,7 @@
 
             <MarkerCategory name="gathering" DisplayName="Gathering">
                 <MarkerCategory name="flower" DisplayName="Possible Honey Flower (Circle)" iconFile="Data/LadyElyssa/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine (Square)" iconFile="Data/LadyElyssa/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine (Square)" iconFile="Data/LadyElyssa/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
             </MarkerCategory>
             
             <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/LadyElyssa/Images/Trails/Trail Pointer - Small.png">
