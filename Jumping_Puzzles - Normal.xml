@@ -363,7 +363,7 @@
 
         <!-- Janthir Wilds -->
         <POI MapID="1550" xpos="-331.095" ypos="217.382" zpos="-469.362" type="legs.ls.jp.light.sign" GUID="b+Mmyl31kkGiqbuw9Q6DQw=="/>
-        <Trail type="legs.ls.jp.light" trailData="Data/LadyElyssa/JW/Jumping Puzzles/To Light Up the Vale.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.ls.jp.light" trailData="Data/LadyElyssa/JW/Jumping Puzzles/To Light Up the Vale.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="legs.ls.jp.light" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Light Up the Vale.trl"/>
         <POI MapID="1550" xpos="19.348" ypos="311.818" zpos="-278.249" type="legs.ls.jp.light.glider" GUID="EKTgnLiRYkmqLc2a0X/hEQ=="/>
         <POI MapID="1550" xpos="120.205" ypos="198.529" zpos="-99.4077" type="legs.ls.jp.light.glider" GUID="WQ1CU/7D402GGcIaVHYmCg=="/>
@@ -382,10 +382,10 @@
         <POI MapID="1550" xpos="186.499" ypos="7.14597" zpos="497.359" type="legs.ls.jp.light.booster" GUID="5K8TwRKLAUWAOnfVB8od3w=="/>
         <POI MapID="1550" xpos="150.552" ypos="9.62146" zpos="463.764" type="legs.ls.jp.light.booster" GUID="Q4iG8X5CP02+lnf/t3yGiw=="/>
 
-        <Trail type="legs.ls.jp.hive" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Hive Hopper.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.ls.jp.hive" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Hive Hopper.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="-343.816" ypos="213.507" zpos="-449.306" type="legs.ls.jp.hive.sign" GUID="vMuYxbZ3dkK12/uN8Mfd9Q=="/>
-        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="legs.ls.jp.hive.guide" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
-        <Trail type="legs.ls.jp.buzzy" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Buzzy Treetops.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="legs.ls.jp.hive.guide" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/LadyElyssa/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
+        <Trail type="legs.ls.jp.buzzy" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Buzzy Treetops.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="566.899" ypos="423.046" zpos="-545.945" type="legs.ls.jp.buzzy.sign" GUID="DoXhccjPIUK59I7znIxSPg=="/>
     </POIs>
 </OverlayData>
