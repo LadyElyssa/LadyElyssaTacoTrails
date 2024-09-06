@@ -272,8 +272,8 @@
         <POI MapID="1288" xpos="-555.995" ypos="18.8671" zpos="261.001" GUID="19RT7aQGHkWETqjSBPclHw==" type="legs.gathering.richorich.set.mount.beetle"/>
         <POI MapID="1288" xpos="-301.803" ypos="52.7881" zpos="389.48" GUID="SkBrHfJSZUa+UfBTDvb1Zg==" type="legs.gathering.richorich.set.mount.springer"/>
         <POI MapID="1288" xpos="-301.803" ypos="54.6661" zpos="389.48" GUID="iBf67QHaMUyNVHasCH3Usw==" type="legs.gathering.richorich.set.mount.skyscale"/>
-        <POI MapID="1288" xpos="-252.191" ypos="128.45" zpos="383.482" GUID="9gPKO2M4V0Cf49F2apMxvg==" copy="[&BBoLAAA=]" copy="[&BBoLAAA=] (not guaranteed)" copy-message="Champion's Dawn Waypoint (not guaranteed)&#xA;Domain of Istan" type="legs.gathering.richorich.set.wp"/>
-        <POI MapID="1288" xpos="-253.143" ypos="122.053" zpos="393.347" GUID="bWO1baK+yUWHVYBfrW53AA==" copy="[&BBoLAAA=]" copy="[&BBoLAAA=] (not guaranteed)" copy-message="Champion's Dawn Waypoint (not guaranteed)&#xA;Domain of Istan" type="legs.gathering.richorich.set.wp"/>
+        <POI MapID="1288" xpos="-252.191" ypos="128.45" zpos="383.482" GUID="9gPKO2M4V0Cf49F2apMxvg==" copy="[&BBoLAAA=] (not guaranteed)" copy-message="Champion's Dawn Waypoint (not guaranteed)&#xA;Domain of Istan" type="legs.gathering.richorich.set.wp"/>
+        <POI MapID="1288" xpos="-253.143" ypos="122.053" zpos="393.347" GUID="bWO1baK+yUWHVYBfrW53AA==" copy="[&BBoLAAA=] (not guaranteed)" copy-message="Champion's Dawn Waypoint (not guaranteed)&#xA;Domain of Istan" type="legs.gathering.richorich.set.wp"/>
         <POI MapID="1288" xpos="-249.57" ypos="129.762" zpos="378.796" type="legs.gathering.richorich.set.orich" GUID="nuhqC74eM0aPbp1CKXOEAA=="/>
         <POI MapID="1288" xpos="-253.353" ypos="122.112" zpos="393.544" type="legs.gathering.richorich.set.orich" GUID="jHsLNjj0xEyIGjr7cyGtJA=="/>
         <POI MapID="1288" xpos="-956.797" ypos="-401.589" zpos="878.865" type="legs.gathering.richorich.kourna" GUID="L41UZwjDMECDyqPccOnbFg=="/>
@@ -1039,8 +1039,6 @@
         <POI MapID="1185" xpos="38.9007" ypos="37.2606" zpos="-539.461" type="legs.gathering.sawgill.set.mushrooms" GUID="G00SiGXw3kWKxOIpgPzYoA=="/>
         <POI MapID="1185" xpos="348.736" ypos="128.485" zpos="488.469" type="legs.gathering.sawgill.set.mushrooms" GUID="jP+rLs8xfEOgdSWegILAXg=="/>
         <POI MapID="1185" xpos="301.498" ypos="197.723" zpos="712.555" type="legs.gathering.sawgill.set.mushrooms" GUID="fsRFQUSTR0SDpChSQOkkzA=="/>
-
-
         <POI MapID="1185" xpos="102.748" ypos="37.8757" zpos="-496.114" type="legs.gathering.sawgill.set.mushrooms" GUID="w8XJ0vzL90OwZ9yYsUIIBQ=="/>
         <POI MapID="1185" xpos="182.173" ypos="54.2196" zpos="-594.855" type="legs.gathering.sawgill.set.mushrooms" GUID="XPHPx0w/XEe1ztwYmQsT/Q=="/>
         <POI MapID="1185" xpos="319.375" ypos="42.2669" zpos="175.502" type="legs.gathering.sawgill.set.mushrooms" GUID="qlYreEHM/0qflI1mbIr3BA=="/>
@@ -1059,6 +1057,7 @@
         <POI MapID="1185" xpos="210.06" ypos="40.5329" zpos="-488.592" type="legs.gathering.sawgill.set.mushrooms" GUID="tv3ku/ys50WfPTq/zBi9Qw=="/>
         <POI MapID="1185" xpos="88.6524" ypos="30.1205" zpos="-727.374" type="legs.gathering.sawgill.set.mushrooms" GUID="RHhqb5hnLEmiPxaG2RieHQ=="/>
         <POI MapID="1185" xpos="303.222" ypos="72.9279" zpos="-33.7267" type="legs.gathering.sawgill.set.mushrooms" GUID="S3+NXJEg0EWbpjyoBtGHZw=="/>
+        <POI MapID="1185" xpos="-149.78" ypos="93.4937" zpos="718.752" type="legs.gathering.sawgill.set.mushrooms" GUID="Lya40BHHxEWU2vNOd36PLA=="/>
         
 
 
@@ -3729,11 +3728,12 @@
 
         <!-- JANTHIR WILDS -->
 
-        <!-- Gathering - Honey Flower -->
-        <Trail type="legs.ls.gathering.flowers" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 1.trl" color="ffaa00"/>
-        <Trail type="legs.ls.gathering.flowers" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 2.trl" color="ffaa00"/>
-        <Trail type="legs.ls.gathering.flowers" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 3.trl" color="ffaa00"/>
-        <Trail type="legs.ls.gathering.flowers" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 4.trl" color="ffaa00"/>
+        <!-- Gathering - Honey Flowers -->
+
+        <Trail type="legs.ls.gathering.flower" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 1.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.flower" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 2.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.flower" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 3.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.flower" trailData="Data/LadyElyssa/JW/Gathering/Honey Flowers 4.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1550" xpos="304.948" ypos="328.938" zpos="-558.92" type="legs.ls.gathering.flower" GUID="XFWX20UoUkmMsm9wUCcpXQ=="/>
         <POI MapID="1550" xpos="198.109" ypos="308.876" zpos="-499.591" type="legs.ls.gathering.flower" GUID="8EOABTFTzkeSkIg5Af3R/g=="/>
         <POI MapID="1550" xpos="136.102" ypos="311.228" zpos="-415.751" type="legs.ls.gathering.flower" GUID="vo9z1pUpUUy742xaHj80qg=="/>
@@ -3789,13 +3789,13 @@
         <POI MapID="1550" xpos="-972.569" ypos="218.924" zpos="-152.706" type="legs.ls.gathering.flower" GUID="+o97Owew30mwZVAANFfppA=="/>
         
         <!-- Gathering - Lowland Pine -->
-        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 1.trl" color="cc9966"/>
-        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 2.trl" color="cc9966"/>
-        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 3.trl" color="cc9966"/>
-        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 4.trl" color="cc9966"/>
-        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 5.trl" color="cc9966"/>
-        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 6.trl" color="cc9966"/>
-        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 7.trl" color="cc9966"/>
+        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 1.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 2.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 3.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 4.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 5.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 6.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="legs.ls.gathering.wood" trailData="Data/LadyElyssa/JW/Gathering/Lowland Pines 7.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-655.238" ypos="2.19461" zpos="541.196" type="legs.ls.gathering.wood" GUID="i310mXG1S0mcKFav7poldA=="/>
         <POI MapID="1550" xpos="-240.851" ypos="205.936" zpos="-351.633" type="legs.ls.gathering.wood" GUID="ryOquXc6lEai/bcBA3c9EA=="/>
         <POI MapID="1550" xpos="-97.5303" ypos="309.606" zpos="-381.052" type="legs.ls.gathering.wood" GUID="nxUB/z0bVEyD3f0OZZ6yoQ=="/>
