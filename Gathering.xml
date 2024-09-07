@@ -958,6 +958,8 @@
         <POI MapID="1045" xpos="241.315" ypos="120.039" zpos="240.979" type="legs.gathering.sawgill.set.mushrooms" GUID="nQtZLR/RO02HdysRElbFaA=="/>
 
         <!-- Sawgill Mushrooms - Dragon's Stand -->
+        <Trail type="legs.gathering.sawgill.ds" trailData="Data/LadyElyssa/Gathering/Plants/Dragons Stand - Sawgill Mushroom 1.trl"/>
+        <Trail type="legs.gathering.sawgill.ds" trailData="Data/LadyElyssa/Gathering/Plants/Dragons Stand - Sawgill Mushroom 2.trl"/>
         <POI MapID="1041" xpos="400.807" ypos="113.273" zpos="786.063" type="legs.gathering.sawgill.set.mushrooms" GUID="lKSCP51PbUah6iUNX96vBA=="/>
         <POI MapID="1041" xpos="281.422" ypos="99.5625" zpos="716.011" type="legs.gathering.sawgill.set.mushrooms" GUID="+0s97dMyc0awY0Nubj7qug=="/>
         <POI MapID="1041" xpos="393.882" ypos="110.436" zpos="571.69" type="legs.gathering.sawgill.set.mushrooms" GUID="O0vq9TtbTESgRWZEY7bjMA=="/>
@@ -968,14 +970,24 @@
         <POI MapID="1041" xpos="859.061" ypos="32.5488" zpos="450.42" type="legs.gathering.sawgill.set.mushrooms" GUID="hLXk0f9cZEqjf6QmlFqgxQ=="/>
         <POI MapID="1041" xpos="783.733" ypos="17.9645" zpos="349.439" type="legs.gathering.sawgill.set.mushrooms" GUID="BZswr+coykOtSBCLQkKLQQ=="/>
         <POI MapID="1041" xpos="779.745" ypos="12.4142" zpos="187.7" type="legs.gathering.sawgill.set.mushrooms" GUID="TXTsW9sh0UOmDBFgKlfhFA=="/>
+        <POI MapID="1041" xpos="317.654" ypos="95.8941" zpos="667.981" type="legs.gathering.sawgill.set.mushrooms" GUID="gLyQLSL4kkWPQ/9d4qXvTA=="/>
+        <POI MapID="1041" xpos="706.264" ypos="7.25918" zpos="343.304" type="legs.gathering.sawgill.set.mushrooms" GUID="MucIgfls40+bbxap9gD+GA=="/>
+        <POI MapID="1041" xpos="884.856" ypos="46.5578" zpos="35.9665" type="legs.gathering.sawgill.set.mushrooms" GUID="ha6oLag0gESeZnvAPuY+bg=="/>
+        <POI MapID="1041" xpos="920.715" ypos="44.7881" zpos="-20.1294" type="legs.gathering.sawgill.set.mushrooms" GUID="sAkKP1z3FEGEkDiKqbYokg=="/>
+        <POI MapID="1041" xpos="488.329" ypos="0.948103" zpos="331.536" type="legs.gathering.sawgill.set.mushrooms" GUID="Pep2zjwT9k6dtki9no3n5g=="/>
+        <POI MapID="1041" xpos="438.303" ypos="1.62335" zpos="423.188" type="legs.gathering.sawgill.set.mushrooms" GUID="rUPi/XhRLUKhE6lkf0jRoA=="/>
+        <POI MapID="1041" xpos="705.138" ypos="3.2987" zpos="370.401" type="legs.gathering.sawgill.set.mushrooms" GUID="CaM+9PGr1kqaKPSQh3cvbQ=="/>
+        <POI MapID="1041" xpos="820.952" ypos="16.7123" zpos="374.134" type="legs.gathering.sawgill.set.mushrooms" GUID="61C+TPC3FEueR7H/MjvVhg=="/>
+        <POI MapID="1041" xpos="816.896" ypos="42.4368" zpos="399.795" type="legs.gathering.sawgill.set.mushrooms" GUID="Kc+LFbAw7UucepY/27rogQ=="/>
+        <POI MapID="1041" xpos="-96.0034" ypos="32.0285" zpos="450.222" type="legs.gathering.sawgill.set.mushrooms" GUID="ujlf3xor9k+oWW3atpbjcA=="/>
 
 
         <!-- LIVING WORLD SEASON 3 -->
 
         <!-- Sawgill Mushrooms - Bloodstone Fen -->
 
-        <Trail type="legs.gathering.sawgill" trailData="Data/LadyElyssa/Gathering/Plants/Bloodstone Fen - Sawgill Mushrooms 1.trl"/>
-        <Trail type="legs.gathering.sawgill" trailData="Data/LadyElyssa/Gathering/Plants/Bloodstone Fen - Sawgill Mushrooms 2.trl"/>
+        <Trail type="legs.gathering.sawgill.bsf" trailData="Data/LadyElyssa/Gathering/Plants/Bloodstone Fen - Sawgill Mushrooms 1.trl"/>
+        <Trail type="legs.gathering.sawgill.bsf" trailData="Data/LadyElyssa/Gathering/Plants/Bloodstone Fen - Sawgill Mushrooms 2.trl"/>
 
         <POI MapID="1165" xpos="4.23956" ypos="112.611" zpos="1.99532" type="legs.gathering.sawgill.set.mushrooms" GUID="26zVzYUEO06c/8zO7b8G5g=="/>
         <POI MapID="1165" xpos="-243.08" ypos="33.5769" zpos="6.46645" type="legs.gathering.sawgill.set.mushrooms" GUID="tK6lQty9bESsX5fWP46GLg=="/>
@@ -988,9 +1000,9 @@
 
 
         <!-- Sawgill Mushrooms - Lake Doric -->
-        <Trail type="legs.gathering.sawgill" trailData="Data/LadyElyssa/Gathering/Plants/Doric - Sawgill Mushrooms 1.trl"/>
-        <Trail type="legs.gathering.sawgill" trailData="Data/LadyElyssa/Gathering/Plants/Doric - Sawgill Mushrooms 2.trl"/>
-        <Trail type="legs.gathering.sawgill" trailData="Data/LadyElyssa/Gathering/Plants/Doric - Sawgill Mushrooms 3.trl"/>
+        <Trail type="legs.gathering.sawgill.doric" trailData="Data/LadyElyssa/Gathering/Plants/Doric - Sawgill Mushrooms 1.trl"/>
+        <Trail type="legs.gathering.sawgill.doric" trailData="Data/LadyElyssa/Gathering/Plants/Doric - Sawgill Mushrooms 2.trl"/>
+        <Trail type="legs.gathering.sawgill.doric" trailData="Data/LadyElyssa/Gathering/Plants/Doric - Sawgill Mushrooms 3.trl"/>
         <POI MapID="1185" xpos="-265.107" ypos="82.7039" zpos="485.269" type="legs.gathering.sawgill.set.mushrooms" GUID="E3t9ZEixs0yThXpFFJ3YFg=="/>
         <POI MapID="1185" xpos="-317.878" ypos="23.1781" zpos="245.373" type="legs.gathering.sawgill.set.mushrooms" GUID="3PMpOXRdS0a3/6DWqANLvg=="/>
         <POI MapID="1185" xpos="-251.025" ypos="45.4394" zpos="344.51" type="legs.gathering.sawgill.set.mushrooms" GUID="2wdlEePCdUW0CU75ULNh9A=="/>
@@ -1058,11 +1070,21 @@
         <POI MapID="1185" xpos="88.6524" ypos="30.1205" zpos="-727.374" type="legs.gathering.sawgill.set.mushrooms" GUID="RHhqb5hnLEmiPxaG2RieHQ=="/>
         <POI MapID="1185" xpos="303.222" ypos="72.9279" zpos="-33.7267" type="legs.gathering.sawgill.set.mushrooms" GUID="S3+NXJEg0EWbpjyoBtGHZw=="/>
         <POI MapID="1185" xpos="-149.78" ypos="93.4937" zpos="718.752" type="legs.gathering.sawgill.set.mushrooms" GUID="Lya40BHHxEWU2vNOd36PLA=="/>
-        
-
+        <POI MapID="1185" xpos="-130.539" ypos="61.1494" zpos="508.534" type="legs.gathering.sawgill.set.mushrooms" GUID="7fwmFGVxokmKJgevd4+Pug=="/>
+        <POI MapID="1185" xpos="-225.962" ypos="96.3621" zpos="732.001" type="legs.gathering.sawgill.set.mushrooms" GUID="XupGo7uW40WGl3XdtUxivw=="/>
+        <POI MapID="1185" xpos="-284.084" ypos="45.4839" zpos="306.545" type="legs.gathering.sawgill.set.mushrooms" GUID="xlQf7oWxZEaEe/D/Kc/7uw=="/>
+        <POI MapID="1185" xpos="0.69618" ypos="42.3641" zpos="369.175" type="legs.gathering.sawgill.set.mushrooms" GUID="9Txrn05WQkatTaljXKKLwQ=="/>
+        <POI MapID="1185" xpos="214.606" ypos="70.7809" zpos="-27.3947" type="legs.gathering.sawgill.set.mushrooms" GUID="UuxUpZB7u0G+almosLCzXA=="/>
+        <POI MapID="1185" xpos="182.355" ypos="56.4708" zpos="-104.765" type="legs.gathering.sawgill.set.mushrooms" GUID="yHEQbh/bq0OsX8fKjoF8YA=="/>
+        <POI MapID="1185" xpos="4.66391" ypos="35.436" zpos="-447.404" type="legs.gathering.sawgill.set.mushrooms" GUID="mKbZjSD+CE62gg1/mfXVhQ=="/>
+        <POI MapID="1185" xpos="197.339" ypos="31.1983" zpos="-686.732" type="legs.gathering.sawgill.set.mushrooms" GUID="KbFazPVRv0mS6/vLF0DoAw=="/>
+        <POI MapID="1185" xpos="229.445" ypos="31.0875" zpos="-724.912" type="legs.gathering.sawgill.set.mushrooms" GUID="tCmjokY3EkairYIt/Sy+gA=="/>    
 
         <!-- Sawgill Mushrooms - Draconis Mons -->
 
+        <Trail type="legs.gathering.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Draconis Mons - Sawgill Mushrooms 1.trl"/>
+        <Trail type="legs.gathering.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Draconis Mons - Sawgill Mushrooms 2.trl"/>
+        <Trail type="legs.gathering.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Draconis Mons - Sawgill Mushrooms 3.trl"/>
         <POI MapID="1195" xpos="-130.045" ypos="361.633" zpos="86.9978" type="legs.gathering.sawgill.set.mushrooms" GUID="utHWXcaXOkKoGAE7QeSjEg=="/>
         <POI MapID="1195" xpos="-214.857" ypos="363.517" zpos="58.0691" type="legs.gathering.sawgill.set.mushrooms" GUID="O+ziuyyTWkCN0cebnaKxFw=="/>
         <POI MapID="1195" xpos="420.62" ypos="414.679" zpos="24.5534" type="legs.gathering.sawgill.set.mushrooms" GUID="w4z6qUobwkaAFwu7oF0IwQ=="/>
@@ -1073,6 +1095,21 @@
         <POI MapID="1195" xpos="-40.9484" ypos="263.273" zpos="-59.0825" type="legs.gathering.sawgill.set.mushrooms" GUID="8xGDloEic06EHhJnAF6DMA=="/>
         <POI MapID="1195" xpos="33.5614" ypos="254.576" zpos="-22.438" type="legs.gathering.sawgill.set.mushrooms" GUID="KMYE5gF62EKfFXzBm+bxpQ=="/>
         <POI MapID="1195" xpos="346.723" ypos="200.561" zpos="-725.621" type="legs.gathering.sawgill.set.mushrooms" GUID="Pxs1A/wtvkWCaXnM8FQeaw=="/>
+        <POI MapID="1195" xpos="494.245" ypos="398.257" zpos="-412.797" type="legs.gathering.sawgill.set.mushrooms" GUID="yxfXkQSQ6EeiBS/QzBMStw=="/>
+        <POI MapID="1195" xpos="387.827" ypos="381.586" zpos="-479.159" type="legs.gathering.sawgill.set.mushrooms" GUID="yHot1WZnlE2aWXP/n1wnRA=="/>
+        <POI MapID="1195" xpos="-266.916" ypos="462.059" zpos="-75.2002" type="legs.gathering.sawgill.set.mushrooms" GUID="QFxOeDOQuU2Yx1gArdmLYA=="/>
+        <POI MapID="1195" xpos="-223.527" ypos="455.842" zpos="83.6832" type="legs.gathering.sawgill.set.mushrooms" GUID="yZLAxDP6dkCgybvP535ziA=="/>
+        <POI MapID="1195" xpos="-288.845" ypos="477.282" zpos="59.3736" type="legs.gathering.sawgill.set.mushrooms" GUID="zwI8XR8EFkaFawk1tyDljA=="/>
+        <POI MapID="1195" xpos="-10.9791" ypos="252.189" zpos="-8.87004" type="legs.gathering.sawgill.set.mushrooms" GUID="WbAry6Wit0q71fgFdRDOMw=="/>
+        <POI MapID="1195" xpos="-116.879" ypos="303.774" zpos="104.375" type="legs.gathering.sawgill.set.mushrooms" GUID="2ad5idQFnkuHsqkw2QNbIQ=="/>
+        <POI MapID="1195" xpos="-156.097" ypos="305.139" zpos="103.864" type="legs.gathering.sawgill.set.mushrooms" GUID="o/LzWWbC8E+IwQuHEdneBQ=="/>
+        <POI MapID="1195" xpos="-14.8971" ypos="254.097" zpos="29.482" type="legs.gathering.sawgill.set.mushrooms" GUID="XA3L5U9k+EqnSE++9+4/zQ=="/>
+        <POI MapID="1195" xpos="-223.403" ypos="455.824" zpos="83.7265" type="legs.gathering.sawgill.set.mushrooms" GUID="Cr7yxnA7B025cQEdKWEV+A=="/>
+        <POI MapID="1195" xpos="-142.934" ypos="361.721" zpos="45.0001" type="legs.gathering.sawgill.set.mushrooms" GUID="+QKMTQoFREGpH4eihfDSEA=="/>
+        <POI MapID="1195" xpos="-195.693" ypos="363.264" zpos="36.9327" type="legs.gathering.sawgill.set.mushrooms" GUID="JlemJHsjWUe/v2cPveZO+g=="/>
+        <POI MapID="1195" xpos="368.268" ypos="414.097" zpos="-26.2779" type="legs.gathering.sawgill.set.mushrooms" GUID="qEZXOGvOxUqVlnudFDhCwA=="/>
+        <POI MapID="1195" xpos="83.8893" ypos="256.833" zpos="36.751" type="legs.gathering.sawgill.set.mushrooms" GUID="a0wbOCpJOECyLKh49wOkKQ=="/>
+        <POI MapID="1195" xpos="70.8995" ypos="232.296" zpos="-9.08966" type="legs.gathering.sawgill.set.mushrooms" GUID="frr31MJfNk6TEPovytL51w=="/>
 
         
         <!-- LIVING WORLD SEASON 4 -->
