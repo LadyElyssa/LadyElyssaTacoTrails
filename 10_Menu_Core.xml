@@ -1415,24 +1415,24 @@
                 <MarkerCategory name="draconis" DisplayName="Draconis Mons - Ancient Hollow WP" color="FFCCFF"/>
             </MarkerCategory>
             <!-- End Jungle Plants -->
-            <MarkerCategory name="sawgill" DisplayName="Sawgill Mushrooms">
-                <MarkerCategory name="set" DisplayName="Settings">
+            <MarkerCategory name="sawgill" DisplayName="Sawgill Mushrooms" texture="Data/LadyElyssa/Images/Trail-Mushroom.png">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings">
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="mushrooms" DisplayName="Toggle Sawgill Mushrooms" iconFile="Data/LadyElyssa/Images/Icons/Bubble.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
                 <!-- End Settings -->
                 <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS   "/>
-                <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00BFFF"/>
-                <MarkerCategory name="ab" DisplayName="Auric Basin" color="00BFFF"/>
-                <MarkerCategory name="td" DisplayName="Tangled Depths" color="00BFFF"/>
-                <MarkerCategory name="ds" DisplayName="Dragon Stand" color="00BFFF"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin"/>
+                <MarkerCategory name="td" DisplayName="Tangled Depths"/>
+                <MarkerCategory name="ds" DisplayName="Dragon Stand"/>
                 <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LIVING WORLD SEASON 3: Glint's Legacy   "/>
-                <MarkerCategory name="doric" DisplayName="Lake Doric" color="00BFFF"/>
-                <MarkerCategory name="draconis" DisplayName="Draconis Mons" color="00BFFF"/>
+                <MarkerCategory name="bsf" DisplayName="Bloodstone Fen"/>
+                <MarkerCategory name="draconis" DisplayName="Draconis Mons"/>
+                <MarkerCategory name="doric" DisplayName="Lake Doric"/>
                 <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LIVING WORLD SEASON 4: Rise of Kralkatorrik   "/>
-                <MarkerCategory name="istan" DisplayName="Domain of Istan" color="00BFFF"/>
-                <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" color="00BFFF"/>
+                <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
+                <MarkerCategory name="jahai" DisplayName="Jahai Bluffs"/>
             </MarkerCategory>
             <!-- End Sawgill Mushrooms -->
             <MarkerCategory name="toxicseedling" DisplayName="Toxic Seedling">
