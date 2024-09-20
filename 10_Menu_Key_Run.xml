@@ -1,0 +1,1293 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!-- KEY RUN -->
+        <MarkerCategory name="keys" DisplayName="Key Farm Guide" texture="Data/LadyElyssa/Images/trail-tiny.png" animSpeed="0.5" alpha="0.8" fadeNear="3300" fadeFar="5000" mapDisplaySize="15">
+            <MarkerCategory name="notomes" IsSeparator="1" DisplayName="No Tomes or Scrolls"/>
+            <!--
+         <MarkerCategory name="asuralvl" DisplayName="Asura">
+            <MarkerCategory name="set" DisplayName="Settings">
+               <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info"  iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="info" DisplayName="Toggle Info"             iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="scout" DisplayName="Toggle Scouts"          iconFile="Data/LadyElyssa/Images/Key Run/XP/Scout.png" mapDisplaySize="40"/>
+               <MarkerCategory name="sign" DisplayName="Toggle Signs"            iconFile="Data/LadyElyssa/Images/Key Run/Asura/In to Rata Sum.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+               <MarkerCategory name="start" DisplayName="Toggle Start Marker"    iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="finish" DisplayName="Toggle Finish Marker"    iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers"   iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+            </MarkerCategory>
+            <MarkerCategory name="trail"          DisplayName="Trail Segment" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" alpha="1.0">
+                  <MarkerCategory name="1"            DisplayName="One"             iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                  <MarkerCategory name="2"            DisplayName="Two"             iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                  <MarkerCategory name="3"            DisplayName="Three"           iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                  <MarkerCategory name="4"            DisplayName="Four"            iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                  <MarkerCategory name="5"            DisplayName="Five"            iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                  <MarkerCategory name="6"            DisplayName="Six"             iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                  <MarkerCategory name="7"            DisplayName="Seven"           iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                  <MarkerCategory name="8"            DisplayName="Eight"           iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+            </MarkerCategory>
+         </MarkerCategory>  -->
+            <!-- End of Asura -->
+            <!--
+         <MarkerCategory name="charrlvl" DisplayName="Charr">
+            <MarkerCategory name="set" DisplayName="Settings">
+               <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info"  iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="info" DisplayName="Toggle Info"             iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="scout" DisplayName="Toggle Scouts"          iconFile="Data/LadyElyssa/Images/Key Run/XP/Scout.png" mapDisplaySize="40"/>
+               <MarkerCategory name="sign" DisplayName="Toggle Signs"            iconFile="Data/LadyElyssa/Images/Key Run/Charr/In to Black Citadel.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+               <MarkerCategory name="start" DisplayName="Toggle Start Marker"    iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="finish" DisplayName="Toggle Finish Marker"    iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers"   iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+            </MarkerCategory>
+            <MarkerCategory name="trail"          DisplayName="Trail Segment" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" alpha="1.0">
+                  <MarkerCategory name="1"            DisplayName="One"             iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                  <MarkerCategory name="2"            DisplayName="Two"             iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                  <MarkerCategory name="3"            DisplayName="Three"           iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                  <MarkerCategory name="4"            DisplayName="Four"            iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                  <MarkerCategory name="5"            DisplayName="Five"            iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                  <MarkerCategory name="6"            DisplayName="Six"             iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                  <MarkerCategory name="7"            DisplayName="Seven"           iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                  <MarkerCategory name="8"            DisplayName="Eight"           iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+            </MarkerCategory>
+         </MarkerCategory> -->
+            <!-- End of Charr -->
+            <MarkerCategory name="humanlvl" DisplayName="Human">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                <MarkerCategory name="scout" DisplayName="Toggle Scouts" iconFile="Data/LadyElyssa/Images/Key Run/XP/Scout.png" mapDisplaySize="40"/>
+                <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Human/To Divinity's Reach.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                <MarkerCategory name="trail" DisplayName="Trail Segment" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" alpha="1.0">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" alpha="1.0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End of Human -->
+            <!--
+         <MarkerCategory name="nornlvl" DisplayName="Norn">
+            <MarkerCategory name="set" DisplayName="Settings">
+               <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info"  iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="info" DisplayName="Toggle Info"             iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="scout" DisplayName="Toggle Scouts"          iconFile="Data/LadyElyssa/Images/Key Run/XP/Scout.png" mapDisplaySize="40"/>
+               <MarkerCategory name="sign" DisplayName="Toggle Signs"            iconFile="Data/LadyElyssa/Images/Key Run/Norn/In to Hoelbrak.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+               <MarkerCategory name="start" DisplayName="Toggle Start Marker"    iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="finish" DisplayName="Toggle Finish Marker"    iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers"   iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+            </MarkerCategory>
+            <MarkerCategory name="trail"          DisplayName="Trail Segment" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" alpha="1.0">
+                  <MarkerCategory name="1"            DisplayName="One"             iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                  <MarkerCategory name="2"            DisplayName="Two"             iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                  <MarkerCategory name="3"            DisplayName="Three"           iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                  <MarkerCategory name="4"            DisplayName="Four"            iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                  <MarkerCategory name="5"            DisplayName="Five"            iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                  <MarkerCategory name="6"            DisplayName="Six"             iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                  <MarkerCategory name="7"            DisplayName="Seven"           iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                  <MarkerCategory name="8"            DisplayName="Eight"           iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+            </MarkerCategory>
+         </MarkerCategory> -->
+            <!-- End of Norn -->
+            <!--         
+         <MarkerCategory name="sylvarilvl" DisplayName="Sylvari">
+            <MarkerCategory name="set" DisplayName="Settings">
+               <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info"  iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="info" DisplayName="Toggle Info"             iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+               <MarkerCategory name="scout" DisplayName="Toggle Scouts"          iconFile="Data/LadyElyssa/Images/Key Run/XP/Scout.png" mapDisplaySize="40"/>
+               <MarkerCategory name="sign" DisplayName="Toggle Signs"            iconFile="Data/LadyElyssa/Images/Key Run/Sylvari/In to the Grove.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+               <MarkerCategory name="start" DisplayName="Toggle Start Marker"    iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="finish" DisplayName="Toggle Finish Marker"    iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+               <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers"   iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+            </MarkerCategory>
+            <MarkerCategory name="trail"          DisplayName="Trail Segment" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" alpha="1.0">
+                  <MarkerCategory name="1"            DisplayName="One"             iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                  <MarkerCategory name="2"            DisplayName="Two"             iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                  <MarkerCategory name="3"            DisplayName="Three"           iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                  <MarkerCategory name="4"            DisplayName="Four"            iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                  <MarkerCategory name="5"            DisplayName="Five"            iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                  <MarkerCategory name="6"            DisplayName="Six"             iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                  <MarkerCategory name="7"            DisplayName="Seven"           iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                  <MarkerCategory name="8"            DisplayName="Eight"           iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+            </MarkerCategory>
+         </MarkerCategory> -->
+            <!-- End of Sylvari -->
+            <!-- End of No Tomes or Scrolls -->
+            <MarkerCategory name="cities" IsSeparator="1" DisplayName="CITIES"/>
+            <!-- ASURA -->
+            <MarkerCategory name="asura" DisplayName="Asura" alpha="1.0">
+                <MarkerCategory name="city" DisplayName="In to Rata Sum">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Asura/In to Rata Sum.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="B387F8"/>
+                </MarkerCategory>
+                <MarkerCategory name="bank" DisplayName="To the Bank">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/To the Bank.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="B387F8"/>
+                </MarkerCategory>
+                <MarkerCategory name="home" DisplayName="Applied Development Lab">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="B387F8"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- CHARR -->
+            <MarkerCategory name="charr" DisplayName="Charr" alpha="1.0">
+                <MarkerCategory name="city" DisplayName="In to Black Citadel">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Charr/In To Black Citadel.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                </MarkerCategory>
+                <MarkerCategory name="bank" DisplayName="To the Bank">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/To the Bank.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                </MarkerCategory>
+                <MarkerCategory name="home" DisplayName="Applied Development Lab">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- HUMAN -->
+            <MarkerCategory name="human" DisplayName="Human">
+                <MarkerCategory name="city" DisplayName="In to Divinty's Reach">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Charr/In To Divinity's Reach.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                </MarkerCategory>
+                <MarkerCategory name="bank" DisplayName="To the Bank">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/To the Bank.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                </MarkerCategory>
+                <MarkerCategory name="home" DisplayName="Salma District">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                </MarkerCategory>
+                <MarkerCategory name="seraph" DisplayName="Seraph Headquarters">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Norn -->
+            <MarkerCategory name="norn" DisplayName="Norn">
+                <MarkerCategory name="city" DisplayName="In to Hoelbrak">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                </MarkerCategory>
+                <MarkerCategory name="bank" DisplayName="To the Bank">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/To the Bank.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                </MarkerCategory>
+                <MarkerCategory name="home" DisplayName="Hunter's Hearth">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Hunter's Hearth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                </MarkerCategory>
+                <MarkerCategory name="eir" DisplayName="Stonewright's Steading">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Norn/Stonewright's Steading.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Sylvari -->
+            <MarkerCategory name="sylvari" DisplayName="Sylvari">
+                <MarkerCategory name="city" DisplayName="In to the Grove">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="66FF66"/>
+                </MarkerCategory>
+                <MarkerCategory name="bank" DisplayName="To the Bank">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/To the Bank.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="66FF66"/>
+                </MarkerCategory>
+                <MarkerCategory name="home" DisplayName="Dreamer's Terrace">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Sylvari/Dreamer's Terrace.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="66FF66"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="F20D0D"/>
+                </MarkerCategory>
+                <MarkerCategory name="omphalos" DisplayName="Omphalos Chamber">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Sylvari/Omphalos Chamber.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="66FF66"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="F20D0D"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Lvl 1: The Races -->
+            <MarkerCategory name="lvl1" IsSeparator="1" DisplayName="Lvl 1: THE RACES - TUTORIAL"/>
+            <MarkerCategory name="tutorial" DisplayName="Tutorial">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                <MarkerCategory name="asura" DisplayName="Asura - Explosive Intellect" color="B387F8"/>
+                <MarkerCategory name="charr" DisplayName="Charr - Fury of the Dead" color="F20D0D"/>
+                <MarkerCategory name="human" DisplayName="Human - Defending Shaemoor" color="FFCC00"/>
+                <MarkerCategory name="norn" DisplayName="Norn - The Great Hunt" color="5A9BFC"/>
+                <MarkerCategory name="sylvari" DisplayName="Sylvari - Fighting the Nightmare" color="66FF66"/>
+            </MarkerCategory>
+            <!-- Chapter 1 - lvl 10 -->
+            <MarkerCategory name="lvl10" IsSeparator="1" DisplayName="Lvl 10: CH. 1 - MENTOR"/>
+            <!-- ASURA -->
+            <MarkerCategory name="asura10" DisplayName="Asura">
+                <MarkerCategory name="synergetics" DisplayName="Synergetics">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="7F2AFF"/>
+                    <MarkerCategory name="snaff" DisplayName="The Snaff Prize">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Asura/Synergetics/The Snaff Prize.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="credit" DisplayName="Taking Credit Back">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Taking Credit Back.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="rescue" DisplayName="A Sparkling Rescue">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Asura/Synergetics/A Sparkling Rescue.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="homicide" DisplayName="Political Homicide">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Political Homicide.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hte" DisplayName="Here, There, Everywhere">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Asura/Synergetics/Here There Everywhere.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Asura -->
+            <!-- CHARR -->
+            <MarkerCategory name="charr10" DisplayName="Charr">
+                <MarkerCategory name="legion" DisplayName="Blood Legion">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="F20D0D"/>
+                    <MarkerCategory name="command" DisplayName="Chain of Command">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Charr/Legion/Chain of Command.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="promotion" DisplayName="Time for a Promotion">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Charr/Legion/Time for a Promotion.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="line" DisplayName="End of the Line">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Charr/Legion/The End of the Line.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="rage" DisplayName="Rage Suppression">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Charr/Legion/Rage Suppression.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1000" fadeFar="1500" minimapVisibility="0" color="F20D0D"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="bulwark" DisplayName="Operation: Bulwark">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Charr/Legion/Operation Bulwark.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D" alpha="1.0"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Charr -->
+            <!-- HUMAN -->
+            <MarkerCategory name="human10" DisplayName="Human">
+                <MarkerCategory name="commoner" DisplayName="Commoner">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="FFCC00"/>
+                    <MarkerCategory name="mend" DisplayName="On the Mend">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Human/Commoner/On the Mend.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="medicine" DisplayName="Desperate Medicine">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Human/Commoner/Desperate Medicine.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="infiltration" DisplayName="Infiltration">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Human/Commoner/Infiltration.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="orphanage" DisplayName="Arson at the Orphanage">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="commander" DisplayName="The Commander">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Human -->
+            <MarkerCategory name="norn10" DisplayName="Norn">
+                <MarkerCategory name="mists" DisplayName="Guard the Mists">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="5A9BFC"/>
+                    <MarkerCategory name="illness" DisplayName="A Pup's Illness">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/A Pup's Illness.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="veil" DisplayName="Through the Veil">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Through the Veil.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="raven" DisplayName="Raven's Revered">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Raven's Revered.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="mists" DisplayName="Into the Mists">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/Into the Mists.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="havroun" DisplayName="The Wolf Havroun">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Norn/Guard the Mists/The Wolf Havroun.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Norn -->
+            <MarkerCategory name="sylvari10" DisplayName="Sylvari">
+                <MarkerCategory name="knight" DisplayName="Green Knight">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="death" DisplayName="Mockery of Death">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Mockery of Death.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lost" DisplayName="Loved and Lost">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Loved and Lost.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="spoiled" DisplayName="A Good Work Spoiled">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/A Good Work Spoiled.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="steel" DisplayName="Hammer and Steel">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Hammer and Steel.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="duel" DisplayName="The Knight's Duel">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/The Knight's Duel.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="66FF66"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Sylvari -->
+            <!-- Chapter 2 - lvl 20 -->
+            <MarkerCategory name="lvl20" IsSeparator="1" DisplayName="Lvl 20: CH. 2 - SHADOWS OF THE PAST   "/>
+            <MarkerCategory name="asura20" DisplayName="Asura">
+                <MarkerCategory name="ball" DisplayName="Infinity Ball">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    <MarkerCategory name="asas" DisplayName="Any Sufficiently Advanced Science">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="beta" DisplayName="Beta Test">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Beta Test.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="carry" DisplayName="Carry A Big Stick">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Carry A Big Stick.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="industrial" DisplayName="Industrial Espionage">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Industrial Espionage.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="split" DisplayName="Split Second">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Infinity Ball/Split Second.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="asura20" DisplayName="Asura">
+                <MarkerCategory name="trans" DisplayName="Transatmospheric Converter">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    <MarkerCategory name="credit" DisplayName="Where Credit Is Due">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Where Credit Is Due.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="salt" DisplayName="Salt in the Wound">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Salt in the Wound.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="bad" DisplayName="Bad Forecast">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Bad Forecast.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="flash" DisplayName="Flash Flood">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Asura/Transatmospheric Converter/Flash Flood.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="B387F8"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- CHARR -->
+            <MarkerCategory name="charr20" DisplayName="Charr" alpha="1.0">
+                <MarkerCategory name="shaman" DisplayName="Sorcerous Shaman">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="F20D0D"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                </MarkerCategory>
+                <MarkerCategory name="truth" DisplayName="Searching for the Truth">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Searching for the Truth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="F20D0D"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                </MarkerCategory>
+                <MarkerCategory name="flame" DisplayName="Stoking the Flame">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Stoking the Flame.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                </MarkerCategory>
+                <MarkerCategory name="fork" DisplayName="A Fork in the Road">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/A Fork in the Road.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                </MarkerCategory>
+                <MarkerCategory name="effigy" DisplayName="Tribunes in Effigy">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Tribunes in Effigy.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1000" fadeFar="1500" minimapVisibility="0" color="F20D0D"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Charr -->
+            <MarkerCategory name="human20" DisplayName="Human">
+                <MarkerCategory name="sister" DisplayName="Dead Sister">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="FFCC00"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    <MarkerCategory name="queensdale2" DisplayName="Queensdale" color="FFCC00"/>
+                    <MarkerCategory name="kessex20" DisplayName="Kessex Hills" color="FFCC00"/>
+                    <MarkerCategory name="thefalloffalconcompany" DisplayName="The Fall of Falcon Company">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="FFCC00"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="confrontingcaptaintervelan" DisplayName="Confronting Captain Tervelan">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="FFCC00"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="accusation" DisplayName="Accusation">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="FFCC00"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="liberation" DisplayName="Liberation">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="FFCC00"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Sister -->
+                <MarkerCategory name="parents" DisplayName="Unknown Parents">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="600" fadeFar="600" minimapVisibility="0" color="FFCC00"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                </MarkerCategory>
+                <!-- End Parents -->
+            </MarkerCategory>
+            <!-- End Human -->
+            <MarkerCategory name="norn20" DisplayName="Norn">
+                <MarkerCategory name="heirloom" DisplayName="Lost an Heirloom">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="5A9BFC"/>
+                    <MarkerCategory name="trouble" DisplayName="Rumors of Trouble">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Rumors of Trouble.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="kodan" DisplayName="Among the Kodan">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Among the Kodan.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="drakentelt" DisplayName="Darkness at Drakentelt">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Darkness at Drakentelt.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="end" DisplayName="Means to an End">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Norn/Heirloom/Means to an End.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="5A9BFC"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="sylvari20" DisplayName="Sylvari">
+                <MarkerCategory name="life" DisplayName="Where Life Goes">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="66FF66"/>
+                    <MarkerCategory name="life" DisplayName="Where Life Goes">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Where Life Goes.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="soul" DisplayName="An Unknown Soul">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/An Unknown Soul.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="issue" DisplayName="Source of the Issue">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Source of the Issue.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="embers" DisplayName="Snuffing Out Embers">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Snuffing Out Embers.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66" alpha="1.0"/>
+                        <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="66FF66"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Chapter 3 - lvl 30 -->
+            <MarkerCategory name="lvl30" IsSeparator="1" DisplayName="Lvl 30: CH. 3 - THE ORDERS OF TYRIA   "/>
+            <MarkerCategory name="oot" DisplayName="The Orders of Tyria">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                <MarkerCategory name="asura" DisplayName="Asura" alpha="1.0">
+                    <MarkerCategory name="city" DisplayName="Rata Sum">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="home" DisplayName="Applied Development Lab (home)">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs">
+                                <MarkerCategory name="one" DisplayName="One"/>
+                                <MarkerCategory name="two" DisplayName="Two"/>
+                                <MarkerCategory name="three" DisplayName="Three"/>
+                                <MarkerCategory name="four" DisplayName="Four"/>
+                            </MarkerCategory>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="theory" DisplayName="A Bold New Theory">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/A Bold New Theory.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hazard" DisplayName="Hazardous Environment">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/Hazardous Environment.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="protest" DisplayName="Protest Too Much">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/Protest Too Much.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="test" DisplayName="Test Subject">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/OoT 2 - Test Subject.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="B387F8"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="meeting" DisplayName="A Meeting of the Minds">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Asura/A Meeting of the Minds.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="B387F8"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Asura -->
+                <!-- Charr -->
+                <MarkerCategory name="charr" DisplayName="Charr" alpha="1.0">
+                    <MarkerCategory name="city" DisplayName="Black Citadel">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="F20D0D"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="home" DisplayName="Hero's Canton (home)">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs">
+                                <MarkerCategory name="one" DisplayName="One"/>
+                                <MarkerCategory name="two" DisplayName="Two"/>
+                                <MarkerCategory name="three" DisplayName="Three"/>
+                                <MarkerCategory name="four" DisplayName="Four"/>
+                            </MarkerCategory>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="F20D0D"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="graveyard" DisplayName="Graveyard Ornaments">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/Graveyard Ornaments.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="F20D0D"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="whispers" DisplayName="Whispers in the Dark">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/Whispers in the Dark.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="F20D0D"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="digging" DisplayName="Digging Up Answers">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/Digging Up Answers.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="F20D0D"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="undead" DisplayName="Undead Detection">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/Undead Detection.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="F20D0D"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="research" DisplayName="Research and Destroy">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/Research and Destroy.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="F20D0D"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Charr -->
+                <!-- Human -->
+                <MarkerCategory name="human" DisplayName="Human">
+                    <MarkerCategory name="city" DisplayName="Divinity's Reach">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="salma" DisplayName="Salma District (home)">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs">
+                                <MarkerCategory name="one" DisplayName="One"/>
+                                <MarkerCategory name="two" DisplayName="Two"/>
+                                <MarkerCategory name="three" DisplayName="Three"/>
+                                <MarkerCategory name="four" DisplayName="Four"/>
+                            </MarkerCategory>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/The Sad Tale of the Ravenous.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="mortisvirge" DisplayName="Mortis Virge">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/Mortus Virge.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="triskellquay" DisplayName="Triskell Quay">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/Triskell Quay.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gendarran" DisplayName="Gendarran">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/The Sad Tale of the Ravenous.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ravenous" DisplayName="The Sad Tale of the Ravenous">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/The Sad Tale of the Ravenous.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="queen" DisplayName="The Queen's Justice" color="FFCC00"/>
+                </MarkerCategory>
+                <!-- Norn -->
+                <MarkerCategory name="norn" DisplayName="Norn" alpha="1.0">
+                    <MarkerCategory name="city" DisplayName="Hoelbrak">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="home" DisplayName="Hunter's Hearth (home)">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs">
+                                <MarkerCategory name="one" DisplayName="One"/>
+                                <MarkerCategory name="two" DisplayName="Two"/>
+                                <MarkerCategory name="three" DisplayName="Three"/>
+                                <MarkerCategory name="four" DisplayName="Four"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dredge" DisplayName="Dredge Technology">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/Dredge Technology.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="0.75" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="armaments" DisplayName="Armaments">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/Armaments.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="0.75" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="assault" DisplayName="Dredge Assault">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/Dredge Assault.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="0.75" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sabotage" DisplayName="Sabotage">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/Sabotage.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="5A9BFC"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="warfare" DisplayName="Silent Warfare">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Norn/Silent Warfare.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="5A9BFC"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Norn -->
+                <!-- Sylvari -->
+                <MarkerCategory name="sylvari" DisplayName="Sylvari" alpha="1.0">
+                    <MarkerCategory name="city" DisplayName="Grove">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="home" DisplayName="Dreamer's Terrace (home)">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs">
+                                <MarkerCategory name="one" DisplayName="One"/>
+                                <MarkerCategory name="two" DisplayName="Two"/>
+                                <MarkerCategory name="three" DisplayName="Three"/>
+                                <MarkerCategory name="four" DisplayName="Four"/>
+                            </MarkerCategory>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Trail" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="flesh" DisplayName="A Splinter in the Flesh">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/A Splinter in the Flesh.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="0.75" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="thorns" DisplayName="Sharpened Thorns">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/Sharpened Thorns.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="0.75" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="earth" DisplayName="Secrets in the Earth">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/Secrets in the Earth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="0.75" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="apple" DisplayName="The Bad Apple">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/The Bad Apple.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="winter" DisplayName="Dead of Winter">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                            <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/Dead of Winter.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Sylvari -->
+            </MarkerCategory>
+
+
+            <!-- End Chapter 3 -->
+
+            <!-- Chapter 4 - lvl 40 -->
+            <MarkerCategory name="lvl40" IsSeparator="1" DisplayName="Lvl 40: CH. 4 - ORDER NEOPHYTE   "/>
+            <MarkerCategory name="settingthestage" DisplayName="Setting the Stage">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/Setting the Stage.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="bs" DisplayName="Black Citadel To Lion's Arch" color="F20D0D"/>
+                <MarkerCategory name="dr" DisplayName="Divinity's Reach To Lion's Arch" color="FFCC00"/>
+                <MarkerCategory name="hb" DisplayName="Hoelbrak To Lion's Arch" color="5A9BFC"/>
+                <MarkerCategory name="rs" DisplayName="Rata Sum To Lion's Arch" color="B387F8" alpha="1.0"/>
+                <MarkerCategory name="tg" DisplayName="The Grove To Lion's Arch" color="66FF66"/>
+                <MarkerCategory name="la" DisplayName="Lions Arch" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="dredgingupthepast" DisplayName="Dredging up the Past">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/Dredging up the Past.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="la" DisplayName="Lions Arch" color="00FF20"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="badblood" DisplayName="Bad Blood">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/Bad Blood.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="mount" DisplayName="Mounts">
+                    <MarkerCategory name="skyscale" DisplayName="Toggle Skyscale Markers" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="900" fadeFar="1200" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="thestonesheath" DisplayName="The Stone Sheath">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/The Stone Sheath.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="mightierthanthesword" DisplayName="Mightier than the Sword">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/Mightier than the Sword.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <!-- Chapter 5 - lvl 50 -->
+            <MarkerCategory name="lvl50" IsSeparator="1" DisplayName="Lvl 50: CH. 5: - HELPING HANDS"/>
+            <!-- Hylek for Non-Charr characters -->
+            <MarkerCategory name="hylek" DisplayName="Hylek">
+                <MarkerCategory name="championssacrifice" DisplayName="Champions Sacrifice">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 5 - Helping Hands/Hylek/Champion's Sacrifice.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+                <MarkerCategory name="chosenofthesun" DisplayName="Chosen of the Sun">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 5 - Helping Hands/Hylek/Chosen of the Sun.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+                <MarkerCategory name="unholygrounds" DisplayName="Unholy Grounds">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 5 - Helping Hands/Hylek/Unholy Grounds.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="800" fadeFar="1200" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Ogres for Charr Characters -->
+            <MarkerCategory name="ogres" DisplayName="Ogres">
+                <MarkerCategory name="untamed" DisplayName="Untamed Wilds">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 5 - Helping Hands/Ogre/Untamed Wilds.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="00FF20"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+                <MarkerCategory name="pets" DisplayName="Pets and Walls Make Stronger Kraals">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 5 - Helping Hands/Ogre/Pets and Walls Make Stronger Kraals.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+                <MarkerCategory name="return" DisplayName="The Lost Chieftain's Return">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 5 - Helping Hands/Ogre/The Lost Chieftain's Return.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Chapter 6 - lvl 60 -->
+            <MarkerCategory name="lvl60" IsSeparator="1" DisplayName="Lvl 60: CH. 6 - CLAW ISLAND"/>
+            <MarkerCategory name="onredalert" DisplayName="On Red Alert">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="la" DisplayName="Lion's Arch" color="00FF20"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="800" fadeFar="900" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="thebattleofclawisland" DisplayName="The Battle of Claw Island">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 6 - The Battle for Claw Island/The Battle of Claw Island.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="la" DisplayName="Lions's Arch" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <!-- LWS2 - Return to Camp Resolve -->
+            <MarkerCategory name="lws2" IsSeparator="1" DisplayName="Lvl 80: LIVING WORLD SEASON 2"/>
+            <MarkerCategory name="lws2tp" DisplayName="Tangled Paths">
+                <MarkerCategory name="returntocampresolve" DisplayName="Return to Camp Resolve">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="metrica" DisplayName="Metrica" color="00FF20"/>
+                    <MarkerCategory name="brisban" DisplayName="Brisban" color="00FF20"/>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="00FF20"/>
+                    <MarkerCategory name="silverwastes" DisplayName="Silverwastes" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+                <MarkerCategory name="trackingtheaspectmasters" DisplayName="Tracking the Aspect Masters">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="silverwastes" DisplayName="Silverwastes" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+                <MarkerCategory name="intothelabyrinth" DisplayName="Into the Labyrinth">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="silverwastes" DisplayName="Silverwastes" color="00FF20"/>
+                    <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                    <MarkerCategory name="icons" DisplayName="Icons"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+            <MarkerCategory name="one" DisplayName="Prologue: Rally to Maguuma (Silverwastes)">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="silverwastes" DisplayName="Silverwastes" color="00FF20"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="two" DisplayName="Chapter 2 - Torn from the Sky">
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="three" DisplayName="Chapter 3 - Establishing a Foothold">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="four" DisplayName="Chapter 4 - The Jungle Provides">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="five" DisplayName="Chapter 5 - In Their Footsteps" color="00FF20"/>
+            <MarkerCategory name="six" DisplayName="Chapter 6 - Prisoners of the Dragon">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="resume" DisplayName="Toggle Resume Marker" iconFile="Data/LadyElyssa/Images/Resume.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="seven" DisplayName="Chapter 7 - Prized Possessions">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                <MarkerCategory name="egg" DisplayName="Egg Powers">
+                    <MarkerCategory name="trail" DisplayName="Toggle Egg Trail" texture="Data/LadyElyssa/Images/Diamond with Shadow.png" alpha="0.6" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                    <MarkerCategory name="dw" DisplayName="Toggle Dragon's Wing" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Dragon's Wing.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="ds" DisplayName="Toggle Dragon's Surge" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Dragon's Surge.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="dp" DisplayName="Toggle Dragon's Pounce" iconFile="Data/LadyElyssa/Images/Key Run/HoT/Dragon's Pounce.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                </MarkerCategory>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="eight" DisplayName="Chapter 8 - City of Hope">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.6" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                <MarkerCategory name="strength" DisplayName="Trial of Strength" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" alpha="0.6" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                <MarkerCategory name="wit" DisplayName="Trial of Wit">
+                    <MarkerCategory name="foot" DisplayName="Toggle Foot Trail" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png" alpha="0.6" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                    <MarkerCategory name="portal" DisplayName="Toggle Portal Route">
+                        <MarkerCategory name="portals" DisplayName="Toggle Portals Arrows"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="00FF20"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="leadership" DisplayName="Trial of Leadership" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" alpha="0.6" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                <MarkerCategory name="egg" DisplayName="Egg" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" alpha="0.6" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="nine" DisplayName="Chapter 9 - The Predator's Path">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="ten" DisplayName="Chapter 10 - Strange Observations">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin" color="00FF20"/>
+            </MarkerCategory>
+            <MarkerCategory name="eleven" DisplayName="Chapter 11 - Roots of Terror">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" fadeNear="1600" fadeFar="2000" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20">
+                    <MarkerCategory name="main" DisplayName="Main Path" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                    <MarkerCategory name="dark" DisplayName="Dark Path" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" alpha="0.5" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                    <MarkerCategory name="troll" DisplayName="Dark Path" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" alpha="0.5" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
+                </MarkerCategory>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin" color="00FF20"/>
+                <MarkerCategory name="td" DisplayName="Tangled Depths">
+                    <MarkerCategory name="one" DisplayName="Path 1 - Glide / Fly" color="00FF20"/>
+                    <MarkerCategory name="two" DisplayName="Path 2 - Terrestrial" color="00FF20"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="maps" IsSeparator="1" DisplayName="MAPS - See Map Completion for the Routes"/>
+            <MarkerCategory name="orr" DisplayName="Ruins of Orr" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="straits" DisplayName="(Q) Straits of Devastation"/>
+                <MarkerCategory name="malchors" DisplayName="(Q) Malchor's Leap"/>
+                <MarkerCategory name="cs" DisplayName="(Q) Cursed Shore"/>
+            </MarkerCategory>
+            <MarkerCategory name="mw" DisplayName="Living World Season 2: Maguuma Wastes" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="drytop" DisplayName="(Q) Dry Top"/>
+                <MarkerCategory name="silverwastes" DisplayName="(Q) Silverwastes"/>
+            </MarkerCategory>
+            <MarkerCategory name="hotmap" DisplayName="Heart of Thorns" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin"/>
+                <MarkerCategory name="td" DisplayName="Tangled Depths"/>
+            </MarkerCategory>
+            <MarkerCategory name="lws3" DisplayName="Living World Season 3" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="bloodstonefen" DisplayName="(Q) Bloodstone Fen"/>
+            </MarkerCategory>
+            <MarkerCategory name="lws5" DisplayName="Living World Season 5" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="grothmar" DisplayName="(Q) Grothmar Fen"/>
+            </MarkerCategory>
+            <!-- End of Maps to Complete -->
+        </MarkerCategory>
+        <!-- End of Key Run Guide -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

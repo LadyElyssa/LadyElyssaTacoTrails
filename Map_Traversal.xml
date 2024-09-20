@@ -1,435 +1,533 @@
 <OverlayData>
     <POIs>
-        <!-- Heart of Thorns -->
+        
+        <!-- Ancient Teleporters -->
+        <Trail type="legs.mapt.ajtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/Ancient Teleporters.trl"/>
+        <POI MapID="1422" xpos="-58.9244" ypos="12.3257" zpos="-756.764" type="legs.mapt.ajtt.marker" GUID="ca0b3vfr3UWENuIITj86PQ=="/>
+        <POI MapID="1422" xpos="365.165" ypos="43.1813" zpos="-756.926" type="legs.mapt.ajtt.marker" GUID="N7Tb7Tx9TUaYpETLWXpsvQ=="/>
+        <POI MapID="1422" xpos="292.378" ypos="11.4573" zpos="-768.985" type="legs.mapt.ajtt.marker" GUID="0v/oXKN8JkG4C5vEoo/sFQ=="/>
+        <POI MapID="1422" xpos="215.199" ypos="11.4419" zpos="-822.821" type="legs.mapt.ajtt.marker" GUID="Zivo5RdVUE2fOO+5jjUj0w=="/>
+        <POI MapID="1422" xpos="215.156" ypos="11.4381" zpos="-768.775" type="legs.mapt.ajtt.marker" GUID="iYRsO/hKjUiEzeruVBIO8Q=="/>
+        <POI MapID="1422" xpos="215.168" ypos="11.3638" zpos="-689.459" type="legs.mapt.ajtt.marker" GUID="Bp6H5h26LE+BKbVKrVXnFA=="/>
+        <POI MapID="1422" xpos="141.407" ypos="11.4438" zpos="-822.58" type="legs.mapt.ajtt.marker" GUID="zRRe3rXnkkyCAY1tiPzJ3g=="/>
+        <POI MapID="1422" xpos="127.216" ypos="11.2673" zpos="-751.911" type="legs.mapt.ajtt.marker" GUID="GHOP7OZedUKeqLQyKz4w6Q=="/>
+        <POI MapID="1422" xpos="133.527" ypos="11.1211" zpos="-688.939" type="legs.mapt.ajtt.marker" GUID="L9MJDMgwNkq76D79D/w8Zw=="/>
+        <POI MapID="1422" xpos="50.6564" ypos="11.6429" zpos="-756.457" type="legs.mapt.ajtt.marker" GUID="1Hs+iYW8MkOZbU9ERHy9qw=="/>
+
+        <!-- Inquest Portals -->
+        <Trail type="legs.mapt.inquest.sandswept" trailData="Data/LadyElyssa/Map Traversal/LWS4/Inquest Portals - Sandswept Isles.trl"/>
+        <POI MapID="1271" xpos="463.621" ypos="47.5694" zpos="-678.413" type="legs.mapt.inquest.blue" GUID="iIntgh5pR0uvnfvxtFEt0Q=="/>
+        <POI MapID="1271" xpos="119.609" ypos="66.6064" zpos="-650.582" type="legs.mapt.inquest.red" GUID="UfRbqBkjQU2WmXMve2HXaA=="/>
+
+        <!-- Jade Tech Launch Pads -->
+        <Trail type="legs.mapt.jtlp" trailData="Data/LadyElyssa/Map Traversal/EoD/Seitung Province/Launch Pads.trl"/>
+        <POI MapID="1442" xpos="574.025" ypos="1.58174" zpos="423.635" type="legs.mapt.jtlp.marker" GUID="mWWH/3kFc0y6btDQ5TagoA=="/>
+        <POI MapID="1442" xpos="585.68" ypos="21.3391" zpos="458.262" type="legs.mapt.jtlp.marker" GUID="GP6PIPux8E6d9dJGDBnvSg=="/>
+        <POI MapID="1442" xpos="539.575" ypos="70.963" zpos="564.571" type="legs.mapt.jtlp.marker" GUID="HEvK/5PD1kWaAFD8aaK1pA=="/>
+        <POI MapID="1442" xpos="85.8018" ypos="54.5361" zpos="478.273" type="legs.mapt.jtlp.marker" GUID="5aZFYFmgAU+gBk2JYAsC6A=="/>
+        <POI MapID="1442" xpos="87.7019" ypos="58.7637" zpos="500.403" type="legs.mapt.jtlp.marker" GUID="msz9P+fmZki0hlGmI312fw=="/>
+        <POI MapID="1442" xpos="108.836" ypos="54.5361" zpos="501.013" type="legs.mapt.jtlp.marker" GUID="7X5dl93gPkyEH8dGTLiskw=="/>
+        <POI MapID="1442" xpos="590.89" ypos="78.5151" zpos="501.539" type="legs.mapt.jtlp.marker" GUID="M4z+9XNdIkmdaW76/FttVw=="/>
+        <POI MapID="1442" xpos="-302.169" ypos="55.0841" zpos="576.775" type="legs.mapt.jtlp.marker" GUID="vHm9eOqfBEC3aTuMC/qCaQ=="/>
+        <POI MapID="1442" xpos="-337.482" ypos="43.4855" zpos="513.245" type="legs.mapt.jtlp.marker" GUID="Nqrd88VqLUeT3Cd0VIK4rw=="/>
+        <POI MapID="1442" xpos="-417.848" ypos="71.2161" zpos="385.462" type="legs.mapt.jtlp.marker" GUID="6ybpj9KJ7UquLLoBHJPRXA=="/>
+
+        <!-- Jade Tech Teleporters -->
+        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Seitung Province/Jade Tech Teleporters.trl"/>
+        <POI MapID="1442" xpos="313.077" ypos="153.847" zpos="115.82" type="legs.mapt.jtt.marker" GUID="5cNZ3aFJMEqwnzx8qHafqg=="/>
+        <POI MapID="1442" xpos="326.82" ypos="78.2654" zpos="115.758" type="legs.mapt.jtt.marker" GUID="E4kKmj6960SH7q1L1xlIwQ=="/>
+        <POI MapID="1442" xpos="350.376" ypos="77.5539" zpos="265.72" type="legs.mapt.jtt.marker" GUID="oUcbsLn7KkayqU6fvxCxrg=="/>
+        <POI MapID="1442" xpos="558.183" ypos="4.11451" zpos="343.017" type="legs.mapt.jtt.marker" GUID="oVBTbpuboUSq4bpjqxPPxg=="/>
+        <POI MapID="1442" xpos="-777.129" ypos="8.14861" zpos="588.39" type="legs.mapt.jtt.marker" GUID="sa9AJC4+TEmuFE/RbQNa7g=="/>
+        <POI MapID="1442" xpos="-776.654" ypos="83.9665" zpos="588.316" type="legs.mapt.jtt.marker" GUID="rXhv/8UfUUyiqxySwsLxmw=="/>
+        <POI MapID="1442" xpos="-720.734" ypos="36.8138" zpos="295.932" type="legs.mapt.jtt.marker" GUID="lQoMkmslxEiq0+DJ2qASaA=="/>
+        <POI MapID="1442" xpos="-720.495" ypos="117.739" zpos="296.169" type="legs.mapt.jtt.marker" GUID="/BIzsIF/k0WW17rtb9cAYQ=="/>
+        <POI MapID="1442" xpos="327.347" ypos="154.733" zpos="115.481" type="legs.mapt.jtt.marker" GUID="oft8FS1Tq0u+pIu/I+nsOA=="/>
+        <POI MapID="1442" xpos="-618.251" ypos="4.68161" zpos="539.754" type="legs.mapt.jtt.marker" GUID="C+DwqN0E5k+FWXEkRycp7g=="/>
+        <POI MapID="1442" xpos="-661.681" ypos="30.531" zpos="604.765" type="legs.mapt.jtt.marker" GUID="zLpeloJCKkaC8n9cgf9Xyg=="/>
+        <!--  New Kaineng City -->
+        <POI MapID="1438" xpos="-658.212" ypos="154.479" zpos="101.08" type="legs.mapt.jtt.marker" GUID="W0e1grC6y0W1AoJqZ48bjA=="/>
+        <POI MapID="1438" xpos="-220.431" ypos="107.423" zpos="676.36" type="legs.mapt.jtt.marker" GUID="QnCLCnXo/0WHqvKBqlJt/A=="/>
+        <POI MapID="1438" xpos="-312.985" ypos="121.176" zpos="-360.681" type="legs.mapt.jtt.marker" GUID="zdZia5TkEUac0KhhYkz13w=="/>
+        <POI MapID="1438" xpos="548.441" ypos="3.68552" zpos="-88.9344" type="legs.mapt.jtt.marker" GUID="ik3ZCAeXX06TyR0NQ8LVCg=="/>
+        <POI MapID="1438" xpos="852.142" ypos="92.615" zpos="-244.289" type="legs.mapt.jtt.marker" GUID="1vXIGmiHPUaRDiheQHvZPA=="/>
+        <POI MapID="1438" xpos="-20.881" ypos="20.6072" zpos="-70.6871" type="legs.mapt.jtt.marker" GUID="rYEvQC6qPEqlbulgHLI1zA=="/>
+        <POI MapID="1438" xpos="193.778" ypos="199.321" zpos="84.3091" type="legs.mapt.jtt.marker" GUID="xJ6zGlixqk+ScHUep4/wow=="/>
+        <POI MapID="1438" xpos="-220.224" ypos="3.97038" zpos="676.412" type="legs.mapt.jtt.marker" GUID="iruLOo2zWEKu46/9Xyl7yg=="/>
+        <POI MapID="1438" xpos="-675.423" ypos="198.879" zpos="-211.24" type="legs.mapt.jtt.marker" GUID="kt4B3awRGUWw4hRlvLeZDg=="/>
+        <POI MapID="1438" xpos="-356.349" ypos="121.074" zpos="340.166" type="legs.mapt.jtt.marker" GUID="pO4oyqtEAECdgLjHnadE6g=="/>
+        <POI MapID="1438" xpos="87.0135" ypos="3.68663" zpos="641.461" type="legs.mapt.jtt.marker" GUID="jf0WxQ14CEKazUos6o6rAA=="/>
+        <POI MapID="1438" xpos="-701.207" ypos="199.006" zpos="212.534" type="legs.mapt.jtt.marker" GUID="aPbzNBMbBEuoy/hKzpBung=="/>
+        <POI MapID="1438" xpos="582.433" ypos="110.868" zpos="632.248" type="legs.mapt.jtt.marker" GUID="8YIajqQC10GVw27JWEWbLg=="/>
+        <POI MapID="1438" xpos="-483.715" ypos="1.82029" zpos="-78.5743" type="legs.mapt.jtt.marker" GUID="R/v67wrSV0e/Ug3GpDyEmA=="/>
+        <POI MapID="1438" xpos="-480.601" ypos="1.71903" zpos="79.2474" type="legs.mapt.jtt.marker" GUID="H+Y+X80pU0+4T3IEHi4vaw=="/>
+        <POI MapID="1438" xpos="-658.28" ypos="154.479" zpos="-98.4496" type="legs.mapt.jtt.marker" GUID="lTdf3f2vAkqId4XtpYLooQ=="/>
+        <!-- Arborstone -->
+        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Arborstone/Jade Tech Teleporters.trl"/>
+        <POI MapID="1428" xpos="-710.577" ypos="96.5653" zpos="448.334" type="legs.mapt.jtt.marker" GUID="W0ESC0yD1E+VlLYj/1dkqw=="/>
+        <POI MapID="1428" xpos="-668.926" ypos="138.525" zpos="452.436" type="legs.mapt.jtt.marker" GUID="YUx8EmlC1kqOeA7ypyrfPA=="/>
+        <POI MapID="1428" xpos="-679.896" ypos="96.5272" zpos="443.388" type="legs.mapt.jtt.marker" GUID="uLxMIdEaZ0+tkAzRbxeAaQ=="/>
+        <POI MapID="1428" xpos="-744.176" ypos="96.5653" zpos="414.658" type="legs.mapt.jtt.marker" GUID="siwos5dyrkKXVW23jiheUw=="/>
+        <POI MapID="1428" xpos="-775.154" ypos="12.1387" zpos="405.784" type="legs.mapt.jtt.marker" GUID="Yc2viQth5UGkr4XJAQrrAA=="/>
+        <!--  Dragon's End -->
+        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/Jade Tech Teleporters.trl"/>
+        <POI MapID="1422" xpos="-85.9444" ypos="53.62" zpos="532.783" type="legs.mapt.jtt.marker" GUID="BoKooI7m90SpfxAfTA8yMQ=="/>
+        <POI MapID="1422" xpos="48.2121" ypos="34.6032" zpos="537.334" type="legs.mapt.jtt.marker" GUID="fd7Ek+Ofn0+MifbjGYBgew=="/>
+        <POI MapID="1422" xpos="-363.885" ypos="155.807" zpos="635.55" type="legs.mapt.jtt.marker" GUID="cgcggwQGIEqz1eOEnG+epw=="/>
+        <POI MapID="1422" xpos="475.041" ypos="61.817" zpos="526.815" type="legs.mapt.jtt.marker" GUID="lqECfd4p80OBcKVURdSlTA=="/>
+        <POI MapID="1452" xpos="-278.79" ypos="214.352" zpos="346.633" type="legs.mapt.jtt.marker" GUID="7q4YlS6OJ0aFWswctjKt7A=="/>
+        <POI MapID="1452" xpos="-279.924" ypos="216.862" zpos="300.541" type="legs.mapt.jtt.marker" GUID="9B4ZGqEFtUewQ0MPtDSyrA=="/>
+        <POI MapID="1422" xpos="-318.662" ypos="1.28253" zpos="-1005.93" type="legs.mapt.jtt.marker" GUID="KzDytHMbmEK2eVlppgP9ig=="/>
+        <POI MapID="1422" xpos="-410.048" ypos="164.868" zpos="-985.02" type="legs.mapt.jtt.marker" GUID="fdQGspnv0aw3BZY2In7MA=="/>
+
+        <!-- Launch Pad -->
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/BlazeridgeLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/FieldsofRuinLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/FireheartLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/IronMarchesLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/LionsArchLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/BloodtideLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/HarathiLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/SparkflyLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/MountMaelstromLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/EmberBayLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/CursedShoreLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/MalchorsLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/StraitsLP.trl"/>
+        <POI MapID="1175" xpos="-844.494" ypos="76.5351" zpos="-585.879" type="legs.mapt.launchpad" GUID="vZjk13nlBECWu1usldDwgA=="/>
+        <POI MapID="17" xpos="-720.349" ypos="17.7405" zpos="437.844" type="legs.mapt.launchpad" GUID="/wChKGii2U2qWzYg/awwUQ=="/>
+        <POI MapID="17" xpos="-211.65" ypos="27.8297" zpos="144.585" type="legs.mapt.launchpad" GUID="YPX9oloKWUm3v+1W9IpFbQ=="/>
+        <POI MapID="17" xpos="699.722" ypos="77.5572" zpos="-346.987" type="legs.mapt.launchpad" GUID="qeupllvlmkqqbhoTiUKEEw=="/>
+        <POI MapID="22" xpos="159.348" ypos="28.1454" zpos="-628.063" type="legs.mapt.launchpad" GUID="8yDk6dDrM0KDh4wboZp1mA=="/>
+        <POI MapID="22" xpos="-740.843" ypos="57.1099" zpos="-287.3" type="legs.mapt.launchpad" GUID="nlrIQmwTW0i/P+SyCKfZTA=="/>
+        <POI MapID="25" xpos="-307.291" ypos="54.9364" zpos="931.05" type="legs.mapt.launchpad" GUID="66esgNNB/EOkBXnRS9CgOQ=="/>
+        <POI MapID="25" xpos="-287.454" ypos="41.2431" zpos="29.4502" type="legs.mapt.launchpad" GUID="AmU1U84aNU2KLrdTJvcuyA=="/>
+        <POI MapID="25" xpos="35.16" ypos="56.1319" zpos="-15.9969" type="legs.mapt.launchpad" GUID="LRqXj2feeEi1Ph1A90IPkg=="/>
+        <POI MapID="20" xpos="-265.772" ypos="13.4018" zpos="838.3" type="legs.mapt.launchpad" GUID="jhIM93x03Uiy+bG293W1Rg=="/>
+        <POI MapID="20" xpos="-342.444" ypos="11.6233" zpos="-599.725" type="legs.mapt.launchpad" GUID="4Q1e5RTZyEC97tluomq/jw=="/>
+        <POI MapID="20" xpos="-224.712" ypos="11.8281" zpos="-638.425" type="legs.mapt.launchpad" GUID="z3ugIMTbBkmjASff2hJJaA=="/>
+        <POI MapID="20" xpos="194.661" ypos="63.4967" zpos="-715.805" type="legs.mapt.launchpad" GUID="jCTwvqs43kmMe0jI+l5vew=="/>
+        <POI MapID="39" xpos="444.835" ypos="17.6467" zpos="-341.299" type="legs.mapt.launchpad" GUID="kuRBAAQ1pkK/pLFXb0k6jA=="/>
+        <POI MapID="39" xpos="208.821" ypos="11.8247" zpos="24.592" type="legs.mapt.launchpad" GUID="yKjWXbpiRE2lYmJ81e6yiw=="/>
+        <POI MapID="39" xpos="875.618" ypos="13.1631" zpos="-61.2631" type="legs.mapt.launchpad" GUID="X436W/bZ60SXxwXP++gWow=="/>
+        <POI MapID="53" xpos="-101.009" ypos="44.8484" zpos="347.989" type="legs.mapt.launchpad" GUID="hzvTH7VdMU+7FE/YfvnEKQ=="/>
+        <POI MapID="53" xpos="-459.16" ypos="8.15734" zpos="-16.483" type="legs.mapt.launchpad" GUID="+U3tHJE2fUi3ULNPJufBhw=="/>
+        <POI MapID="53" xpos="-518.034" ypos="3.50731" zpos="-643.819" type="legs.mapt.launchpad" GUID="aAq7Fo+g00+IlVjDNnStlQ=="/>
+        <POI MapID="53" xpos="-557.254" ypos="1.5335" zpos="-752.075" type="legs.mapt.launchpad" GUID="LioxouimYEGXKhsbUdww4g=="/>
+        <POI MapID="53" xpos="-587.975" ypos="3.32408" zpos="-747.72" type="legs.mapt.launchpad" GUID="ZVJ3zZgAe0eqRj/DF7c4zw=="/>
+        <POI MapID="53" xpos="-672.718" ypos="6.84953" zpos="-741.646" type="legs.mapt.launchpad" GUID="PNjkRQt5qUiufG9u0JS4Qw=="/>
+        <POI MapID="53" xpos="-469.09" ypos="2.0467" zpos="-732.351" type="legs.mapt.launchpad" GUID="WjgTn6z7UEm9G6YZoJ6qlQ=="/>
+        <POI MapID="53" xpos="-482.219" ypos="1.60212" zpos="-757.934" type="legs.mapt.launchpad" GUID="59ypG13qsUCUzUNf9ieQEw=="/>
+        <POI MapID="53" xpos="-465.178" ypos="1.76321" zpos="-772.048" type="legs.mapt.launchpad" GUID="sOwByUZ7ikmVr4cgH2gCaA=="/>
+        <POI MapID="53" xpos="-439.931" ypos="1.56001" zpos="-753.909" type="legs.mapt.launchpad" GUID="+XmfjXT8X0miZaEP31dHpA=="/>
+        <POI MapID="53" xpos="-356.003" ypos="5.16868" zpos="-729.016" type="legs.mapt.launchpad" GUID="PvIKFKkJz0Glc48WnaPyIQ=="/>
+        <POI MapID="53" xpos="-451.582" ypos="3.79521" zpos="-837.702" type="legs.mapt.launchpad" GUID="2g/FH/nHqEeDGJ7yMjxnLw=="/>
+        <POI MapID="53" xpos="287.851" ypos="12.1403" zpos="-366.195" type="legs.mapt.launchpad" GUID="OHRMHQ/1oke/D4/oUWZBuw=="/>
+        <POI MapID="51" xpos="-551.097" ypos="33.2755" zpos="-186.342" type="legs.mapt.launchpad" GUID="u0fNzlQ/Q0eoa2Xn72e9Jg=="/>
+        <POI MapID="65" xpos="178.581" ypos="41.3486" zpos="-85.0705" type="legs.mapt.launchpad" GUID="VCJA4dFjoUiU9SiozBez4A=="/>
+        <POI MapID="65" xpos="918.331" ypos="48.5567" zpos="-47.4559" type="legs.mapt.launchpad" GUID="s7RBCxFG70Wca5njd4Uoyw=="/>
+        <POI MapID="65" xpos="-307.273" ypos="55.7268" zpos="-467.487" type="legs.mapt.launchpad" GUID="eUWmzlQVk0qWnJcJGQeVtQ=="/>
+        <POI MapID="62" xpos="68.4867" ypos="32.2135" zpos="915.726" type="legs.mapt.launchpad" GUID="xJbgFdx/vEWDZ4c8RhuA3g=="/>
+        <POI MapID="62" xpos="-8.30065" ypos="32.8383" zpos="-71.6913" type="legs.mapt.launchpad" GUID="TK/XHenNgkaRs1Oh89Vl2A=="/>
+        <POI MapID="62" xpos="-52.7476" ypos="29.9602" zpos="-436.228" type="legs.mapt.launchpad" GUID="Nb61x8Pjw0CNv25k0pKcOQ=="/>
+        <POI MapID="50" xpos="-58.7519" ypos="22.7281" zpos="325.241" type="legs.mapt.launchpad" GUID="MazFdFdo4U+iViRKTxj3xQ==" mapDisplaySize="20"/>
+        <POI MapID="50" xpos="-98.8387" ypos="22.978" zpos="327.487" type="legs.mapt.launchpad" GUID="e9pZOU0O6EeAf8a2fpvSyQ==" mapDisplaySize="20"/>
+        <POI MapID="50" xpos="-115.82" ypos="21.9412" zpos="286.764" type="legs.mapt.launchpad" GUID="/wUON0BsbkS/FUMnDgEIIA==" mapDisplaySize="20"/>
+        <POI MapID="50" xpos="-153.604" ypos="22.7329" zpos="256.233" type="legs.mapt.launchpad" GUID="+gyLutFmyUmzY15MFBd1Fg==" mapDisplaySize="20"/>
+        <POI MapID="50" xpos="-118.039" ypos="22.8212" zpos="306.818" type="legs.mapt.launchpad" GUID="F3sYEwNvu0SUvQzX7x7aSQ==" mapDisplaySize="20"/>
+        <POI MapID="21" xpos="527.829" ypos="21.0511" zpos="485.839" type="legs.mapt.launchpad" GUID="a5kJTlBzv0SgzlVhj6zV+g=="/>
+        <POI MapID="21" xpos="-347.669" ypos="43.0544" zpos="641.233" type="legs.mapt.launchpad" GUID="XUiji8Nh10uyY1rQbOgU6g=="/>
+        <POI MapID="21" xpos="-454.25" ypos="62.3961" zpos="-308.009" type="legs.mapt.launchpad" GUID="3CKqlkw/7kOTreG5tNIeIQ=="/>
+        <POI MapID="73" xpos="204.746" ypos="2.32657" zpos="876.62" type="legs.mapt.launchpad" GUID="dRvACbkwykCcVTCt8bWr4A=="/>
+        <POI MapID="73" xpos="616.121" ypos="12.7834" zpos="382.966" type="legs.mapt.launchpad" GUID="PDNrNGHNAkqMgxEYTqMwjQ=="/>
+        <POI MapID="73" xpos="7.36254" ypos="2.6679" zpos="419.939" type="legs.mapt.launchpad" GUID="C66UzCZhJ02RCJSVBZsgjg=="/>
+        <POI MapID="22" xpos="-54.1818" ypos="62.225" zpos="563.33" type="legs.mapt.launchpad" GUID="vARF64FPiky+GgeVGsVBJg=="/>
+        <POI MapID="20" xpos="-187.315" ypos="11.5525" zpos="873.434" type="legs.mapt.launchpad" GUID="yVUKOrjkcUCRGIbtxke+iA=="/>
+        <POI MapID="20" xpos="-236.867" ypos="11.3332" zpos="859.168" type="legs.mapt.launchpad" GUID="cFYUJCDSWkah7QS1/suZhw=="/>
+        <POI MapID="51" xpos="464.267" ypos="1.04437" zpos="538.739" type="legs.mapt.launchpad" GUID="/Q/f7aHa1EGl1VRQismX4w=="/>
+
         <!-- Nuhoch Wallows -->
-        <Trail type="legs.hotmaptraversal.nw.vb" trailData="Data/LadyElyssa/HoT/VB Nuhoch Wallows.trl"/>
-        <Trail type="legs.hotmaptraversal.nw.ab" trailData="Data/LadyElyssa/HoT/AB Nuhoch Wallows.trl"/>
-        <Trail type="legs.hotmaptraversal.nw.td" trailData="Data/LadyElyssa/HoT/TD Nuhoch Wallows.trl"/>
-        <Trail type="legs.hotmaptraversal.nw.ds" trailData="Data/LadyElyssa/HoT/DS Nuhoch Wallows.trl"/>
-        <!-- LIVING WORLD SEASON 3 -->
-        <!-- Sandswept Isles -->
-        <!--
-      https://wiki.guildwars2.com/wiki/File:Sandswept_Isles_with_Portals.jpg
-      -->
-        <!-- LIVING WORLD SEASON 4 -->
-        <!-- Istan -->
-        <Trail type="legs.lws4maptraversal.istan.spt.bi" trailData="Data/LadyElyssa/LWS4/Sand Portals - Istan.trl"/>
-        <POI MapID="1263" xpos="16.2221" ypos="209.357" zpos="39.3175" type="legs.lws4maptraversal.istan.sp" GUID="5ssoNSE3xUK3iUBMGiZYQg=="/>
-        <POI MapID="1263" xpos="-65.4823" ypos="218.452" zpos="67.4481" type="legs.lws4maptraversal.istan.sp" GUID="+rKs693cRkywXdNEfCJxSg=="/>
-        <POI MapID="1263" xpos="-76.4718" ypos="217.778" zpos="0.502007" type="legs.lws4maptraversal.istan.sp" GUID="t7c0EiXjXke78tcOP/EaNw=="/>
-        <POI MapID="1263" xpos="-48.7634" ypos="210.058" zpos="-114.738" type="legs.lws4maptraversal.istan.sp" GUID="2gNnm3XpnU+a1s0swYIPlA=="/>
-        <POI MapID="1263" xpos="-174.079" ypos="217.557" zpos="-82.7899" type="legs.lws4maptraversal.istan.sp" GUID="n9QsX4U98kquyI2yF4UxAQ=="/>
-        <POI MapID="1263" xpos="-249.751" ypos="216.456" zpos="56.5011" type="legs.lws4maptraversal.istan.sp" GUID="FaKlNb0mA0OrWGGW56F0tQ=="/>
-        <POI MapID="1263" xpos="43.3745" ypos="179.961" zpos="-84.3856" type="legs.lws4maptraversal.istan.sp" GUID="exoMqt468kqJJGz7fwCZHg=="/>
-        <POI MapID="1263" xpos="4.33865" ypos="221.582" zpos="-241.326" type="legs.lws4maptraversal.istan.sp" GUID="w3NIKH8KsE6ftUaqeqMBaw=="/>
-        <POI MapID="1263" xpos="80.2409" ypos="230.727" zpos="-334.469" type="legs.lws4maptraversal.istan.sp" GUID="z6Qy1zvk8EmdutKC/Lc2rQ=="/>
-        <POI MapID="1263" xpos="221.717" ypos="243.525" zpos="-468.27" type="legs.lws4maptraversal.istan.sp" GUID="7fNTYsmlfkiC3YPVT+lPxQ=="/>
-        <POI MapID="1263" xpos="307.873" ypos="197.723" zpos="-520.449" type="legs.lws4maptraversal.istan.sp" GUID="o4mpcke3iEmFcXUio4hE7w=="/>
-        <POI MapID="1263" xpos="213.877" ypos="174.759" zpos="-245.074" type="legs.lws4maptraversal.istan.sp" GUID="uvdvWfBNTUCm6g9vnVYDIQ=="/>
-        <POI MapID="1263" xpos="114.612" ypos="243.644" zpos="-232.474" type="legs.lws4maptraversal.istan.sp" GUID="dimiBuhHEUCYlS0cfDfvlQ=="/>
-        <POI MapID="1263" xpos="-22.3213" ypos="181.765" zpos="-175.422" type="legs.lws4maptraversal.istan.sp" GUID="zzgYOdOWWkWflpxf+In/Dw=="/>
-        <!-- Sandswept Isles -->
-        <Trail type="legs.lws4maptraversal.sandswept.spt.bi" trailData="Data/LadyElyssa/LWS4/Sand Portals - Sandswept Isles.trl" color="E1C148"/>
-        <POI MapID="1271" xpos="-20.5289" ypos="138.423" zpos="869.343" type="legs.lws4maptraversal.sandswept.sp" GUID="aMze0IH9ykWXkoLAo2YTeg=="/>
-        <POI MapID="1271" xpos="73.2474" ypos="159.125" zpos="119.74" type="legs.lws4maptraversal.sandswept.sp" GUID="R1qQPyVd60iEg+yC3vQm5A=="/>
-        <POI MapID="1271" xpos="95.4501" ypos="81.0537" zpos="142.786" type="legs.lws4maptraversal.sandswept.sp" GUID="1iCF6RGHokuYjDiehJGAtg=="/>
-        <POI MapID="1271" xpos="85.6641" ypos="28.1012" zpos="452.441" type="legs.lws4maptraversal.sandswept.sp" GUID="5lSn4C02Fky6BMcW9UMpaA=="/>
-        <POI MapID="1271" xpos="334.295" ypos="29.3201" zpos="521.573" type="legs.lws4maptraversal.sandswept.sp" GUID="Tv6Bd1BRekq7PtGbCSLNSA=="/>
-        <POI MapID="1271" xpos="393.147" ypos="37.9044" zpos="412.94" type="legs.lws4maptraversal.sandswept.sp" GUID="FnWXHAVmGEG5P+GPQlX8gQ=="/>
-        <POI MapID="1271" xpos="376.336" ypos="31.7251" zpos="326.183" type="legs.lws4maptraversal.sandswept.sp" GUID="q+sSCiNEJUmWvsx0CDYZVw=="/>
-        <POI MapID="1271" xpos="568.919" ypos="36.7483" zpos="-139.023" type="legs.lws4maptraversal.sandswept.sp" GUID="joSakmki/kSppW9ez9ryMA=="/>
-        <POI MapID="1271" xpos="436.986" ypos="52.9955" zpos="-432.382" type="legs.lws4maptraversal.sandswept.sp" GUID="rAFefyKw40SVSSP4+ovveA=="/>
-        <POI MapID="1271" xpos="660.097" ypos="41.1542" zpos="-623.877" type="legs.lws4maptraversal.sandswept.sp" GUID="JYKBR4/uu0Gtzl5hpswvZg=="/>
-        <POI MapID="1271" xpos="-67.3606" ypos="30.3451" zpos="-576.664" type="legs.lws4maptraversal.sandswept.sp" GUID="NyaG9XdQgkajGazNrjtelQ=="/>
-        <POI MapID="1271" xpos="135.492" ypos="97.5369" zpos="-444.916" type="legs.lws4maptraversal.sandswept.sp" GUID="RbzR6aCscUya+k1tNqVmfg=="/>
-        <POI MapID="1271" xpos="-244.985" ypos="142.075" zpos="-328.664" type="legs.lws4maptraversal.sandswept.sp" GUID="x6slAMyIDkq1ytlereL3wQ=="/>
-        <POI MapID="1271" xpos="-164.497" ypos="50.197" zpos="140.986" type="legs.lws4maptraversal.sandswept.sp" GUID="hDk7j7tZTU6SGnz9hubIyw=="/>
-        <POI MapID="1271" xpos="-434.867" ypos="135.559" zpos="-287.864" type="legs.lws4maptraversal.sandswept.sp" GUID="8//cFoLrcU+gj1sOyShWIg=="/>
-        <POI MapID="1271" xpos="-397.754" ypos="105.109" zpos="-90.8583" type="legs.lws4maptraversal.sandswept.sp" GUID="qABt+W3a4kibDg0BmjTwmQ=="/>
-        <POI MapID="1271" xpos="-544.274" ypos="1.75729" zpos="225.118" type="legs.lws4maptraversal.sandswept.sp" GUID="rmLJjA3fEEm86+yX1A6/9w=="/>
-        <POI MapID="1271" xpos="-471.543" ypos="33.8127" zpos="708.374" type="legs.lws4maptraversal.sandswept.sp" GUID="Fb4JnMZkbkWPym+DKJBm8A=="/>
-        <POI MapID="1271" xpos="-217.797" ypos="-0.210306" zpos="507.616" type="legs.lws4maptraversal.sandswept.sp" GUID="ezHz7yp4tki/GB0HzvbbLQ=="/>
-        <POI MapID="1271" xpos="-231.68" ypos="-0.0434856" zpos="319.574" type="legs.lws4maptraversal.sandswept.sp" GUID="dTjTfYoaMkS4UB1Byt2teA=="/>
-        <Trail type="legs.lws4maptraversal.sandswept.inquest.trail" trailData="Data/LadyElyssa/LWS4/Inquest Portals - Sandswept Isles.trl"/>
-        <POI MapID="1271" xpos="463.621" ypos="47.5694" zpos="-678.413" type="legs.lws4maptraversal.sandswept.inquest.blue" GUID="iIntgh5pR0uvnfvxtFEt0Q=="/>
-        <POI MapID="1271" xpos="119.609" ypos="66.6064" zpos="-650.582" type="legs.lws4maptraversal.sandswept.inquest.red" GUID="UfRbqBkjQU2WmXMve2HXaA=="/>
-        <!-- Domain of Kourna -->
-        <Trail type="legs.lws4maptraversal.kourna.spt.bi" trailData="Data/LadyElyssa/LWS4/Sand Portals - Kourna.trl"/>
-        <POI MapID="1288" xpos="-298.481" ypos="54.0994" zpos="379.764" type="legs.lws4maptraversal.kourna.sp" GUID="VmPO1y9EmEyduCNgNVVVXQ=="/>
-        <POI MapID="1288" xpos="-132.61" ypos="31.8684" zpos="335.506" type="legs.lws4maptraversal.kourna.sp" GUID="gPljoBo2nU66j88eXr0cgw=="/>
-        <POI MapID="1288" xpos="-1.94881" ypos="1.35639" zpos="171.878" type="legs.lws4maptraversal.kourna.sp" GUID="suEekp1JNk6yq312iEvi/w=="/>
-        <POI MapID="1288" xpos="90.0984" ypos="-0.690254" zpos="-52.7851" type="legs.lws4maptraversal.kourna.sp" GUID="85C7ZMnV9kKf8pBEGJiTRw=="/>
-        <POI MapID="1288" xpos="-724.495" ypos="68.4163" zpos="939.65" type="legs.lws4maptraversal.kourna.sp" GUID="Rs7RYjiP3UeMtgSGOy6MUQ=="/>
-        <POI MapID="1288" xpos="-773.439" ypos="34.957" zpos="988.544" type="legs.lws4maptraversal.kourna.sp" GUID="rq8qQcocKU+FYh/jBsFQPQ=="/>
-        <!-- Jahai Bluffs -->
-        <Trail type="legs.lws4maptraversal.jahai.spt.bi" trailData="Data/LadyElyssa/LWS4/Sand Portals - Jahai Bluffs.trl"/>
-        <POI MapID="1301" xpos="916.123" ypos="124.468" zpos="370.675" type="legs.lws4maptraversal.jahai.sp" GUID="x98GtsdJ8Uyw+dp5vOQG5w=="/>
-        <POI MapID="1301" xpos="866.941" ypos="220.004" zpos="331.174" type="legs.lws4maptraversal.jahai.sp" GUID="FgRKNgrWfUCSvXrpnpLD9g=="/>
-        <POI MapID="1301" xpos="783.08" ypos="3.05264" zpos="-152.615" type="legs.lws4maptraversal.jahai.sp" GUID="pfEWKz1mcECNEvmIs8dW1A=="/>
-        <POI MapID="1301" xpos="833.325" ypos="132.682" zpos="-101.016" type="legs.lws4maptraversal.jahai.sp" GUID="KFWWwb2+ZEilmJFeWzxb6A=="/>
-        <POI MapID="1301" xpos="480.163" ypos="55.0006" zpos="-649.001" type="legs.lws4maptraversal.jahai.sp" GUID="ROVKcDBJPk+MK9fzjFx7MA=="/>
-        <POI MapID="1301" xpos="330.186" ypos="63.348" zpos="-661.383" type="legs.lws4maptraversal.jahai.sp" GUID="H9rThTVpVkCeBnCmnMIeRg=="/>
-        <POI MapID="1301" xpos="-188.355" ypos="49.8213" zpos="-514.067" type="legs.lws4maptraversal.jahai.sp" GUID="WxmOEdnJqUGHKoS0UlTurw=="/>
-        <POI MapID="1301" xpos="-170.706" ypos="103.132" zpos="-574.017" type="legs.lws4maptraversal.jahai.sp" GUID="OfkmZivaIEiIGbpFoVMhOQ=="/>
-        <POI MapID="1301" xpos="-316.882" ypos="55.7249" zpos="-51.4256" type="legs.lws4maptraversal.jahai.sp" GUID="icK6SOn1PEa1+B4VHEUpfg=="/>
-        <POI MapID="1301" xpos="-438.704" ypos="120.099" zpos="-20.6602" type="legs.lws4maptraversal.jahai.sp" GUID="LAhy0pb6SUyNITBeVAj5yw=="/>
-        <POI MapID="1301" xpos="-421.291" ypos="76.9737" zpos="596.878" type="legs.lws4maptraversal.jahai.sp" GUID="zrN3ZZM6OE2M6z16jTdamQ=="/>
-        <POI MapID="1301" xpos="-62.7261" ypos="95.1029" zpos="585.333" type="legs.lws4maptraversal.jahai.sp" GUID="30VV/pdQXEiRH79gO1/u+A=="/>
-        <!-- Dragonfall -->
-        <Trail type="legs.lws4maptraversal.dragonfall.spt.bi" trailData="Data/LadyElyssa/LWS4/Sand Portals - Dragonfall.trl"/>
-        <POI MapID="1317" xpos="253.207" ypos="123.17" zpos="-532.746" type="legs.lws4maptraversal.dragonfall.sp" GUID="8i8ZTpjvFkCbbXM6Vj3Ycw=="/>
-        <POI MapID="1317" xpos="294.488" ypos="0.239051" zpos="-542.275" type="legs.lws4maptraversal.dragonfall.sp" GUID="lAlFZU4qokmQ5PKQ9siDvQ=="/>
-        <POI MapID="1317" xpos="374.519" ypos="211.744" zpos="21.3707" type="legs.lws4maptraversal.dragonfall.sp" GUID="WQFN02Q7M0SPoGoY7nj+cg=="/>
-        <POI MapID="1317" xpos="332.838" ypos="316.328" zpos="5.69865" type="legs.lws4maptraversal.dragonfall.sp" GUID="nglwL7CqDkaihwt9N16f4Q=="/>
-        <POI MapID="1317" xpos="-681.664" ypos="132.862" zpos="551.097" type="legs.lws4maptraversal.dragonfall.sp" GUID="O2uVhAVxj0afkNQlfyMrSA=="/>
-        <POI MapID="1317" xpos="-665.327" ypos="216.941" zpos="563.208" type="legs.lws4maptraversal.dragonfall.sp" GUID="FgwQa4y6rEGgQy2Z9BZZKg=="/>
-        <POI MapID="1317" xpos="-589.628" ypos="276.459" zpos="287.333" type="legs.lws4maptraversal.dragonfall.sp" GUID="q0/5XXXhZEStyH8+G6pIsA=="/>
-        <POI MapID="1317" xpos="-608.905" ypos="194.812" zpos="300.499" type="legs.lws4maptraversal.dragonfall.sp" GUID="kTgVsbbvx0iSq/qA3J0vOw=="/>
-        <POI MapID="1317" xpos="-960.522" ypos="217.698" zpos="339.818" type="legs.lws4maptraversal.dragonfall.sp" GUID="3KQ3U2vBwUiQZs/I9Y9bMg=="/>
-        <POI MapID="1317" xpos="-945.159" ypos="154.32" zpos="312.734" type="legs.lws4maptraversal.dragonfall.sp" GUID="th5xGPFM/UmyP2gRREybXA=="/>
-        <POI MapID="1317" xpos="-339.207" ypos="150.581" zpos="432.362" type="legs.lws4maptraversal.dragonfall.sp" GUID="3wS+WgNPxUq3rkj0ZgjfAQ=="/>
-        <POI MapID="1317" xpos="-337.479" ypos="194.158" zpos="420.06" type="legs.lws4maptraversal.dragonfall.sp" GUID="0KYuxzKhH0K+Ko1+Th3Kig=="/>
-        <POI MapID="1317" xpos="-256.631" ypos="147.748" zpos="499.452" type="legs.lws4maptraversal.dragonfall.sp" GUID="yFU8D9pjtUaMH287NdHPrQ=="/>
-        <POI MapID="1317" xpos="-251.202" ypos="193.064" zpos="511.546" type="legs.lws4maptraversal.dragonfall.sp" GUID="ms/3LypfLE20wR1ZmMN2lQ=="/>
-        <POI MapID="1317" xpos="-109.938" ypos="137.747" zpos="620.544" type="legs.lws4maptraversal.dragonfall.sp" GUID="+4Xwc/siZUK0MTwN2yRl4A=="/>
-        <POI MapID="1317" xpos="-114.656" ypos="187.337" zpos="655.582" type="legs.lws4maptraversal.dragonfall.sp" GUID="3bfBS43+VEOQNSIYP4KTRA=="/>
-        <POI MapID="1317" xpos="-465.752" ypos="146.232" zpos="-29.3323" type="legs.lws4maptraversal.dragonfall.sp" GUID="V/N8BJ1rhE6kqL3sSV+amQ=="/>
-        <POI MapID="1317" xpos="-416.699" ypos="261.794" zpos="1.29156" type="legs.lws4maptraversal.dragonfall.sp" GUID="Ar1dS0sleEy9YonMCjmEig=="/>
-        <POI MapID="1317" xpos="-843.735" ypos="171.597" zpos="-121.625" type="legs.lws4maptraversal.dragonfall.sp" GUID="VJhVdz2hdU+BXHRo3iiuow=="/>
-        <POI MapID="1317" xpos="-839.763" ypos="116.382" zpos="-134.741" type="legs.lws4maptraversal.dragonfall.sp" GUID="rXn99+ujkki5P+s8GXp5jg=="/>
-        <POI MapID="1317" xpos="-883.929" ypos="107.668" zpos="-203.369" type="legs.lws4maptraversal.dragonfall.sp" GUID="JUG2wG9HoEi8kHKpErqyBA=="/>
-        <POI MapID="1317" xpos="-903.321" ypos="0.236887" zpos="-199.561" type="legs.lws4maptraversal.dragonfall.sp" GUID="wCJTRLS8bU+ba2W0c0jNVA=="/>
-        <POI MapID="1317" xpos="-437.377" ypos="148.555" zpos="-686.756" type="legs.lws4maptraversal.dragonfall.sp" GUID="5fmYJMn0ZU+2LdP1LSOIXQ=="/>
-        <POI MapID="1317" xpos="-459.646" ypos="68.7325" zpos="-702.393" type="legs.lws4maptraversal.dragonfall.sp" GUID="5Zm0oVge3U2B1a8WSXzZHw=="/>
-        <POI MapID="1317" xpos="-348.559" ypos="81.3429" zpos="-753.82" type="legs.lws4maptraversal.dragonfall.sp" GUID="DomcMOI9H0KRVSpuTxRqqQ=="/>
-        <POI MapID="1317" xpos="-342.651" ypos="0.365239" zpos="-769.788" type="legs.lws4maptraversal.dragonfall.sp" GUID="OOqAO9EXs0ymCxrW0kO13w=="/>
+        <Trail type="legs.mapt.nw.vb" trailData="Data/LadyElyssa/Map Traversal/HoT/VB Nuhoch Wallows.trl"/>
+        <Trail type="legs.mapt.nw.ab" trailData="Data/LadyElyssa/Map Traversal/HoT/AB Nuhoch Wallows.trl"/>
+        <Trail type="legs.mapt.nw.td" trailData="Data/LadyElyssa/Map Traversal/HoT/TD Nuhoch Wallows.trl"/>
+        <Trail type="legs.mapt.nw.ds" trailData="Data/LadyElyssa/Map Traversal/HoT/DS Nuhoch Wallows.trl"/>
+
+        <!-- Sand Portals -->
+
         <!-- PATH OF FIRE -->
         <!-- Sand Portals -->
         <!-- Crystal Oasis -->
-        <Trail type="legs.pofmaptraversal.spt.bi" trailData="Data/LadyElyssa/PoF/CO Sand Portals B.trl"/>
-        <POI MapID="1210" xpos="599.427" ypos="123.108" zpos="138.019" type="legs.pofmaptraversal.sp" GUID="3duswLHB2EeTVT0n5CdYxA=="/>
-        <POI MapID="1210" xpos="740.409" ypos="50.052" zpos="139.797" type="legs.pofmaptraversal.sp" GUID="Eo5yCgmLx0WGpEFT74X93Q=="/>
-        <POI MapID="1210" xpos="1235.31" ypos="270.268" zpos="425.544" type="legs.pofmaptraversal.sp" GUID="gmME62Xe4kCkwHxTFwboSA=="/>
-        <POI MapID="1210" xpos="1146.94" ypos="318.713" zpos="497.987" type="legs.pofmaptraversal.sp" GUID="h+3snbaR4EmF6jHrEDJj+w=="/>
+        <Trail type="legs.mapt.sp.co.bi" trailData="Data/LadyElyssa/Map Traversal/PoF/CO Sand Portals B.trl"/>
+        <POI MapID="1210" xpos="599.427" ypos="123.108" zpos="138.019" type="legs.mapt.sp.co" GUID="3duswLHB2EeTVT0n5CdYxA=="/>
+        <POI MapID="1210" xpos="740.409" ypos="50.052" zpos="139.797" type="legs.mapt.sp.co" GUID="Eo5yCgmLx0WGpEFT74X93Q=="/>
+        <POI MapID="1210" xpos="1235.31" ypos="270.268" zpos="425.544" type="legs.mapt.sp.co" GUID="gmME62Xe4kCkwHxTFwboSA=="/>
+        <POI MapID="1210" xpos="1146.94" ypos="318.713" zpos="497.987" type="legs.mapt.sp.co" GUID="h+3snbaR4EmF6jHrEDJj+w=="/>
         <!-- Desert Highlands -->
-        <Trail type="legs.pofmaptraversal.spt.bi" trailData="Data/LadyElyssa/PoF/DH Sand Portals B.trl"/>
-        <Trail type="legs.pofmaptraversal.spt.uni" trailData="Data/LadyElyssa/PoF/DH Sand Portals U.trl"/>
-        <Trail type="legs.pofmaptraversal.spt.bi" trailData="Data/LadyElyssa/PoF/DH Sand Portals Alt.trl" color="333333" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <POI MapID="1211" xpos="779.976" ypos="160.509" zpos="-330.132" type="legs.pofmaptraversal.sp" GUID="ENcKA247LUq8Qp0IfGz/mA=="/>
-        <POI MapID="1211" xpos="890.609" ypos="241.426" zpos="-356.912" type="legs.pofmaptraversal.sp" GUID="ppuisAQ0NkS3Iv4CYvOkgQ=="/>
-        <POI MapID="1211" xpos="899.73" ypos="208.219" zpos="32.4411" type="legs.pofmaptraversal.sp" GUID="uVHfwzsurEyL/7TX/54h6g=="/>
-        <POI MapID="1211" xpos="903.221" ypos="266.616" zpos="86.6316" type="legs.pofmaptraversal.sp" GUID="+c702VxncEGZT/ViiVdukg=="/>
-        <POI MapID="1211" xpos="923.214" ypos="298.217" zpos="139.633" type="legs.pofmaptraversal.sp" GUID="nMEFsZKFrEmDFC9xg30dug=="/>
-        <POI MapID="1211" xpos="945.091" ypos="206.262" zpos="129.847" type="legs.pofmaptraversal.sp" GUID="JY4CSI/QGU+c8Fy7l2/Fdg=="/>
-        <POI MapID="1211" xpos="494.154" ypos="247.881" zpos="296.892" type="legs.pofmaptraversal.sp" GUID="bH95dBoRfUC44EvMIYnAsg=="/>
-        <POI MapID="1211" xpos="553.502" ypos="151.453" zpos="276.437" type="legs.pofmaptraversal.sp" GUID="w2NDuihDHkC634cbYvY7pA=="/>
-        <POI MapID="1211" xpos="81.9007" ypos="238.995" zpos="271.074" type="legs.pofmaptraversal.sp" GUID="MHLW1gojfkinDNDNxYfaew=="/>
-        <POI MapID="1211" xpos="51.0193" ypos="336.244" zpos="274.781" type="legs.pofmaptraversal.sp" GUID="oUTNCwJMRE+17bFSrobXgw=="/>
-        <POI MapID="1211" xpos="-101.657" ypos="313.593" zpos="5.40623" type="legs.pofmaptraversal.sp" GUID="cmx75VenUEagr9GHtvQCMw=="/>
-        <POI MapID="1211" xpos="-110.149" ypos="368.035" zpos="-133.923" type="legs.pofmaptraversal.sp" GUID="I2DB+mx/6k2yqi48jhlqFA=="/>
-        <POI MapID="1211" xpos="-87.202" ypos="337.027" zpos="-265.915" type="legs.pofmaptraversal.sp" GUID="+/ySw/IjX0m4BebbV5ZliQ=="/>
-        <POI MapID="1211" xpos="-31.6821" ypos="383.89" zpos="-283.095" type="legs.pofmaptraversal.sp" GUID="m6SORqpmj0u+XUO1EbENjg=="/>
-        <POI MapID="1211" xpos="47.3322" ypos="406.574" zpos="-449.496" type="legs.pofmaptraversal.sp" GUID="e1r3tjhidkuJM7mXsHTJpQ=="/>
-        <POI MapID="1211" xpos="-26.0676" ypos="463.412" zpos="-236.987" type="legs.pofmaptraversal.sp" GUID="1fohwaf99kCt5qNvW3Hx3w=="/>
-        <POI MapID="1211" xpos="-44.9149" ypos="142.999" zpos="-112.283" type="legs.pofmaptraversal.sp" GUID="GAxN7XcqtEKLCqKS4QXrvQ=="/>
-        <POI MapID="1211" xpos="-63.2026" ypos="312.323" zpos="42.4657" type="legs.pofmaptraversal.sp" GUID="+63Mp43cy0yRvg1Zywx4nw=="/>
-        <POI MapID="1211" xpos="-346.995" ypos="180.481" zpos="-268.227" type="legs.pofmaptraversal.sp" GUID="vDFJHUyALUqek3YzO9RI2g=="/>
-        <POI MapID="1211" xpos="-343.767" ypos="16.9251" zpos="-418.749" type="legs.pofmaptraversal.sp" GUID="NqRjlwhKM0mEY3h2rh5EiQ=="/>
-        <POI MapID="1211" xpos="-422.282" ypos="94.6255" zpos="-344.43" type="legs.pofmaptraversal.sp" GUID="w/DsSSBu9EygE2WQg4YdjQ=="/>
-        <POI MapID="1211" xpos="-379.984" ypos="120.314" zpos="-366.221" type="legs.pofmaptraversal.sp" GUID="LSgOfyaQK0+JouZcl9+nEw=="/>
-        <POI MapID="1211" xpos="-610.182" ypos="67.6807" zpos="-321.478" type="legs.pofmaptraversal.sp" GUID="jAAoPGrjqEKOzXEM48rJMw=="/>
-        <POI MapID="1211" xpos="-596.107" ypos="68.9112" zpos="-302.868" type="legs.pofmaptraversal.sp" GUID="QZKWC+h+O0eb1GbVK38Gcw=="/>
-        <POI MapID="1211" xpos="1322.5" ypos="192.352" zpos="227.077" type="legs.pofmaptraversal.sp" GUID="Io1VBugFNUOw5k1hVY+vCA=="/>
-        <POI MapID="1211" xpos="1376.27" ypos="282.995" zpos="139.914" type="legs.pofmaptraversal.sp" GUID="yJLLZPYl+UeE0DYeDXZJxA=="/>
-        <POI MapID="1211" xpos="377.576" ypos="152.806" zpos="-44.8522" type="legs.pofmaptraversal.sp" GUID="i2ej896bXkCSM4J/QijxwQ=="/>
-        <POI MapID="1211" xpos="284.823" ypos="236.396" zpos="33.4483" type="legs.pofmaptraversal.sp" GUID="iYg0Fk/+ikS4I1lq773E4Q=="/>
-        <POI MapID="1211" xpos="-179.192" ypos="275.728" zpos="-236.251" type="legs.pofmaptraversal.sp" GUID="T5JOSOJ1BEKux+wmiCP7RQ=="/>
-        <POI MapID="1211" xpos="-138.853" ypos="151.309" zpos="-267.194" type="legs.pofmaptraversal.sp" GUID="+4XSW5yUZUaFFIv+HBLIkQ=="/>
-        <POI MapID="1211" xpos="-1251.59" ypos="4.19021" zpos="-554.32" type="legs.pofmaptraversal.sp" GUID="xxZYKuLIKES1CZ0hNiGE4w=="/>
-        <POI MapID="1211" xpos="-1341.63" ypos="5.31965" zpos="-460.352" type="legs.pofmaptraversal.sp" GUID="NnQ8KIb28EaK0TF22V6L2A=="/>
-        <POI MapID="1211" xpos="13.7865" ypos="144.196" zpos="-547.087" type="legs.pofmaptraversal.sp" GUID="fQzqOsq2fEeCQbv4S90o1w=="/>
-        <POI MapID="1211" xpos="-31.5711" ypos="173.974" zpos="-577.356" type="legs.pofmaptraversal.sp" GUID="JHmgjexVgkadQ+MTAvg/KQ=="/>
+        <Trail type="legs.mapt.sp.dh.bi" trailData="Data/LadyElyssa/Map Traversal/PoF/DH Sand Portals B.trl"/>
+        <Trail type="legs.mapt.sp.dh.uni" trailData="Data/LadyElyssa/Map Traversal/PoF/DH Sand Portals U.trl"/>
+        <Trail type="legs.mapt.sp.dh.bi" trailData="Data/LadyElyssa/Map Traversal/PoF/DH Sand Portals Alt.trl" color="333333" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="1211" xpos="779.976" ypos="160.509" zpos="-330.132" type="legs.mapt.sp.dh" GUID="ENcKA247LUq8Qp0IfGz/mA=="/>
+        <POI MapID="1211" xpos="890.609" ypos="241.426" zpos="-356.912" type="legs.mapt.sp.dh" GUID="ppuisAQ0NkS3Iv4CYvOkgQ=="/>
+        <POI MapID="1211" xpos="899.73" ypos="208.219" zpos="32.4411" type="legs.mapt.sp.dh" GUID="uVHfwzsurEyL/7TX/54h6g=="/>
+        <POI MapID="1211" xpos="903.221" ypos="266.616" zpos="86.6316" type="legs.mapt.sp.dh" GUID="+c702VxncEGZT/ViiVdukg=="/>
+        <POI MapID="1211" xpos="923.214" ypos="298.217" zpos="139.633" type="legs.mapt.sp.dh" GUID="nMEFsZKFrEmDFC9xg30dug=="/>
+        <POI MapID="1211" xpos="945.091" ypos="206.262" zpos="129.847" type="legs.mapt.sp.dh" GUID="JY4CSI/QGU+c8Fy7l2/Fdg=="/>
+        <POI MapID="1211" xpos="494.154" ypos="247.881" zpos="296.892" type="legs.mapt.sp.dh" GUID="bH95dBoRfUC44EvMIYnAsg=="/>
+        <POI MapID="1211" xpos="553.502" ypos="151.453" zpos="276.437" type="legs.mapt.sp.dh" GUID="w2NDuihDHkC634cbYvY7pA=="/>
+        <POI MapID="1211" xpos="81.9007" ypos="238.995" zpos="271.074" type="legs.mapt.sp.dh" GUID="MHLW1gojfkinDNDNxYfaew=="/>
+        <POI MapID="1211" xpos="51.0193" ypos="336.244" zpos="274.781" type="legs.mapt.sp.dh" GUID="oUTNCwJMRE+17bFSrobXgw=="/>
+        <POI MapID="1211" xpos="-101.657" ypos="313.593" zpos="5.40623" type="legs.mapt.sp.dh" GUID="cmx75VenUEagr9GHtvQCMw=="/>
+        <POI MapID="1211" xpos="-110.149" ypos="368.035" zpos="-133.923" type="legs.mapt.sp.dh" GUID="I2DB+mx/6k2yqi48jhlqFA=="/>
+        <POI MapID="1211" xpos="-87.202" ypos="337.027" zpos="-265.915" type="legs.mapt.sp.dh" GUID="+/ySw/IjX0m4BebbV5ZliQ=="/>
+        <POI MapID="1211" xpos="-31.6821" ypos="383.89" zpos="-283.095" type="legs.mapt.sp.dh" GUID="m6SORqpmj0u+XUO1EbENjg=="/>
+        <POI MapID="1211" xpos="47.3322" ypos="406.574" zpos="-449.496" type="legs.mapt.sp.dh" GUID="e1r3tjhidkuJM7mXsHTJpQ=="/>
+        <POI MapID="1211" xpos="-26.0676" ypos="463.412" zpos="-236.987" type="legs.mapt.sp.dh" GUID="1fohwaf99kCt5qNvW3Hx3w=="/>
+        <POI MapID="1211" xpos="-44.9149" ypos="142.999" zpos="-112.283" type="legs.mapt.sp.dh" GUID="GAxN7XcqtEKLCqKS4QXrvQ=="/>
+        <POI MapID="1211" xpos="-63.2026" ypos="312.323" zpos="42.4657" type="legs.mapt.sp.dh" GUID="+63Mp43cy0yRvg1Zywx4nw=="/>
+        <POI MapID="1211" xpos="-346.995" ypos="180.481" zpos="-268.227" type="legs.mapt.sp.dh" GUID="vDFJHUyALUqek3YzO9RI2g=="/>
+        <POI MapID="1211" xpos="-343.767" ypos="16.9251" zpos="-418.749" type="legs.mapt.sp.dh" GUID="NqRjlwhKM0mEY3h2rh5EiQ=="/>
+        <POI MapID="1211" xpos="-422.282" ypos="94.6255" zpos="-344.43" type="legs.mapt.sp.dh" GUID="w/DsSSBu9EygE2WQg4YdjQ=="/>
+        <POI MapID="1211" xpos="-379.984" ypos="120.314" zpos="-366.221" type="legs.mapt.sp.dh" GUID="LSgOfyaQK0+JouZcl9+nEw=="/>
+        <POI MapID="1211" xpos="-610.182" ypos="67.6807" zpos="-321.478" type="legs.mapt.sp.dh" GUID="jAAoPGrjqEKOzXEM48rJMw=="/>
+        <POI MapID="1211" xpos="-596.107" ypos="68.9112" zpos="-302.868" type="legs.mapt.sp.dh" GUID="QZKWC+h+O0eb1GbVK38Gcw=="/>
+        <POI MapID="1211" xpos="1322.5" ypos="192.352" zpos="227.077" type="legs.mapt.sp.dh" GUID="Io1VBugFNUOw5k1hVY+vCA=="/>
+        <POI MapID="1211" xpos="1376.27" ypos="282.995" zpos="139.914" type="legs.mapt.sp.dh" GUID="yJLLZPYl+UeE0DYeDXZJxA=="/>
+        <POI MapID="1211" xpos="377.576" ypos="152.806" zpos="-44.8522" type="legs.mapt.sp.dh" GUID="i2ej896bXkCSM4J/QijxwQ=="/>
+        <POI MapID="1211" xpos="284.823" ypos="236.396" zpos="33.4483" type="legs.mapt.sp.dh" GUID="iYg0Fk/+ikS4I1lq773E4Q=="/>
+        <POI MapID="1211" xpos="-179.192" ypos="275.728" zpos="-236.251" type="legs.mapt.sp.dh" GUID="T5JOSOJ1BEKux+wmiCP7RQ=="/>
+        <POI MapID="1211" xpos="-138.853" ypos="151.309" zpos="-267.194" type="legs.mapt.sp.dh" GUID="+4XSW5yUZUaFFIv+HBLIkQ=="/>
+        <POI MapID="1211" xpos="-1251.59" ypos="4.19021" zpos="-554.32" type="legs.mapt.sp.dh" GUID="xxZYKuLIKES1CZ0hNiGE4w=="/>
+        <POI MapID="1211" xpos="-1341.63" ypos="5.31965" zpos="-460.352" type="legs.mapt.sp.dh" GUID="NnQ8KIb28EaK0TF22V6L2A=="/>
+        <POI MapID="1211" xpos="13.7865" ypos="144.196" zpos="-547.087" type="legs.mapt.sp.dh" GUID="fQzqOsq2fEeCQbv4S90o1w=="/>
+        <POI MapID="1211" xpos="-31.5711" ypos="173.974" zpos="-577.356" type="legs.mapt.sp.dh" GUID="JHmgjexVgkadQ+MTAvg/KQ=="/>
         <!-- Elon Riverlands -->
-        <Trail type="legs.pofmaptraversal.spt.bi" trailData="Data/LadyElyssa/PoF/ER Sand Portals B.trl"/>
-        <POI MapID="1228" xpos="666.953" ypos="103.526" zpos="890.657" type="legs.pofmaptraversal.sp" GUID="VO4Xt8dMHkCVCQmn6hfWTQ=="/>
-        <POI MapID="1228" xpos="781.052" ypos="107.904" zpos="840.839" type="legs.pofmaptraversal.sp" GUID="rVqoI/0Er0OfKFVF2ogIdw=="/>
-        <POI MapID="1228" xpos="940.624" ypos="105.481" zpos="708.066" type="legs.pofmaptraversal.sp" GUID="SCMkp69vzk++ih2G+pdCrg=="/>
-        <POI MapID="1228" xpos="938.302" ypos="85.7524" zpos="576.98" type="legs.pofmaptraversal.sp" GUID="2KVrvSwJoEC9UV65WMlnOA=="/>
-        <POI MapID="1228" xpos="1005.56" ypos="53.1935" zpos="356.766" type="legs.pofmaptraversal.sp" GUID="Kxgz7QAqiUyITSMY9C/bsA=="/>
-        <POI MapID="1228" xpos="991.533" ypos="63.6316" zpos="335.137" type="legs.pofmaptraversal.sp" GUID="QAbMN3Jy5kCXRYbbo/dcJQ=="/>
-        <POI MapID="1228" xpos="777.255" ypos="56.8932" zpos="192.512" type="legs.pofmaptraversal.sp" GUID="mpzpxdb6XkKNXJ1Wx3jiSw=="/>
-        <POI MapID="1228" xpos="778.702" ypos="12.8043" zpos="-191.144" type="legs.pofmaptraversal.sp" GUID="//8bvFQlRkKAg/YUrzHdrQ=="/>
-        <POI MapID="1228" xpos="808.089" ypos="6.9117" zpos="-369.778" type="legs.pofmaptraversal.sp" GUID="lWTki1+Mi0+Fbj/NduNL+A=="/>
-        <POI MapID="1228" xpos="838.787" ypos="37.935" zpos="-396.269" type="legs.pofmaptraversal.sp" GUID="Gl2w2ie+zk6FBMMgP3q19Q=="/>
-        <POI MapID="1228" xpos="550.904" ypos="74.9308" zpos="-472.641" type="legs.pofmaptraversal.sp" GUID="5V8mH0Aq20qZWaUq9WeJuw=="/>
-        <POI MapID="1228" xpos="548.271" ypos="13.2884" zpos="-501.677" type="legs.pofmaptraversal.sp" GUID="JnrzmD1MW0W/Zw72UVX/Dw=="/>
-        <POI MapID="1228" xpos="608.056" ypos="3.39963" zpos="-760.426" type="legs.pofmaptraversal.sp" GUID="9ABjb5Tl6kav9uB++EXQRg=="/>
-        <POI MapID="1228" xpos="628.576" ypos="15.8822" zpos="-824.919" type="legs.pofmaptraversal.sp" GUID="rEdRby/SyEim+5NXclms6A=="/>
-        <POI MapID="1228" xpos="599.239" ypos="9.73869" zpos="-925.361" type="legs.pofmaptraversal.sp" GUID="z7zDfmwWfEizRJez4ThdLA=="/>
-        <POI MapID="1228" xpos="574.15" ypos="0.641531" zpos="-875.173" type="legs.pofmaptraversal.sp" GUID="rQ3XZ4w8n0mf+1/mavJtVw=="/>
-        <POI MapID="1228" xpos="554.567" ypos="0.789135" zpos="-923.588" type="legs.pofmaptraversal.sp" GUID="2FL2Ko453kqr+DmIMjdxPw=="/>
-        <POI MapID="1228" xpos="642.016" ypos="23.1306" zpos="-982.587" type="legs.pofmaptraversal.sp" GUID="TcmUuR/jykmCw1hhhp/xyw=="/>
-        <POI MapID="1228" xpos="514.918" ypos="15.6036" zpos="-958.761" type="legs.pofmaptraversal.sp" GUID="7foTRkwHBkiUc/tIhrXuWA=="/>
-        <POI MapID="1228" xpos="599.739" ypos="30.2748" zpos="-845.297" type="legs.pofmaptraversal.sp" GUID="ZHPNabFb30C9vmHmMYx7xQ=="/>
-        <POI MapID="1228" xpos="-677.887" ypos="10.1906" zpos="32.0684" type="legs.pofmaptraversal.sp" GUID="EnDa5yydEEuyDhb5P8wIjA=="/>
-        <POI MapID="1228" xpos="-724.677" ypos="62.3812" zpos="399.06" type="legs.pofmaptraversal.sp" GUID="/QWnrd89pkKM+thnpFn0IA=="/>
-        <POI MapID="1228" xpos="-671.483" ypos="3.29928" zpos="-190.708" type="legs.pofmaptraversal.sp" GUID="rqGNz/sW3EyG32pmU/Z6FQ=="/>
-        <POI MapID="1228" xpos="-686.784" ypos="78.9342" zpos="-340.702" type="legs.pofmaptraversal.sp" GUID="b73xCALqIEyz2SesxCF49A=="/>
-        <POI MapID="1228" xpos="-691.113" ypos="78.132" zpos="-359.9" type="legs.pofmaptraversal.sp" GUID="j0lBD7yPNkS5ruhwpplpCw=="/>
-        <POI MapID="1228" xpos="-710.795" ypos="48.4711" zpos="-526.323" type="legs.pofmaptraversal.sp" GUID="bPLMLkiEuke7JBczVDBgyw=="/>
-        <POI MapID="1228" xpos="-228.197" ypos="0.217585" zpos="-692.421" type="legs.pofmaptraversal.sp" GUID="2hBzKDKqDUaNfpDFPEZWAA=="/>
-        <POI MapID="1228" xpos="-178.935" ypos="71.5493" zpos="-602.37" type="legs.pofmaptraversal.sp" GUID="NaJzXD4sq0+9SN8hoYafRw=="/>
-        <POI MapID="1228" xpos="179.633" ypos="104.962" zpos="621.667" type="legs.pofmaptraversal.sp" GUID="6Yb0hMZ5ZkqEAwckXrrhgA=="/>
-        <POI MapID="1228" xpos="368.244" ypos="117.188" zpos="890.041" type="legs.pofmaptraversal.sp" GUID="po1KmQEar0us7BX9xBGTqQ=="/>
-        <POI MapID="1228" xpos="-31.249" ypos="79.4944" zpos="500.674" type="legs.pofmaptraversal.sp" GUID="TXSsjkEiJ0KQoMvswLqv+g=="/>
-        <POI MapID="1228" xpos="-190.112" ypos="80.0177" zpos="589.327" type="legs.pofmaptraversal.sp" GUID="Z3FaJWfOl0GiSl/o3eVO9A=="/>
-        <POI MapID="1228" xpos="-20.4301" ypos="78.5578" zpos="422.013" type="legs.pofmaptraversal.sp" GUID="w0Y5hqzrHU+JzcAcNf36Sw=="/>
-        <POI MapID="1228" xpos="-85.9868" ypos="76.5624" zpos="309.942" type="legs.pofmaptraversal.sp" GUID="+0IOk1EEGUqS7eWzYGeSDg=="/>
-        <POI MapID="1228" xpos="87.333" ypos="95.77" zpos="968.359" type="legs.pofmaptraversal.sp" GUID="bhvJMIsVQkua9aeRXVhwFA=="/>
-        <POI MapID="1228" xpos="-63.3929" ypos="28.5129" zpos="971.773" type="legs.pofmaptraversal.sp" GUID="cyCQFieJdUiztqDBhsPRrQ=="/>
-        <POI MapID="1228" xpos="1.27299" ypos="12.4179" zpos="-272.61" type="legs.pofmaptraversal.sp" GUID="tWozBX5tz0CwH6bdO/eDeQ=="/>
-        <POI MapID="1228" xpos="-118.786" ypos="72.7983" zpos="-285.353" type="legs.pofmaptraversal.sp" GUID="MJFD1ZxXM06hPlxgAfeWMw=="/>
+        <Trail type="legs.mapt.sp.er.bi" trailData="Data/LadyElyssa/Map Traversal/PoF/ER Sand Portals B.trl"/>
+        <POI MapID="1228" xpos="666.953" ypos="103.526" zpos="890.657" type="legs.mapt.sp.er" GUID="VO4Xt8dMHkCVCQmn6hfWTQ=="/>
+        <POI MapID="1228" xpos="781.052" ypos="107.904" zpos="840.839" type="legs.mapt.sp.er" GUID="rVqoI/0Er0OfKFVF2ogIdw=="/>
+        <POI MapID="1228" xpos="940.624" ypos="105.481" zpos="708.066" type="legs.mapt.sp.er" GUID="SCMkp69vzk++ih2G+pdCrg=="/>
+        <POI MapID="1228" xpos="938.302" ypos="85.7524" zpos="576.98" type="legs.mapt.sp.er" GUID="2KVrvSwJoEC9UV65WMlnOA=="/>
+        <POI MapID="1228" xpos="1005.56" ypos="53.1935" zpos="356.766" type="legs.mapt.sp.er" GUID="Kxgz7QAqiUyITSMY9C/bsA=="/>
+        <POI MapID="1228" xpos="991.533" ypos="63.6316" zpos="335.137" type="legs.mapt.sp.er" GUID="QAbMN3Jy5kCXRYbbo/dcJQ=="/>
+        <POI MapID="1228" xpos="777.255" ypos="56.8932" zpos="192.512" type="legs.mapt.sp.er" GUID="mpzpxdb6XkKNXJ1Wx3jiSw=="/>
+        <POI MapID="1228" xpos="778.702" ypos="12.8043" zpos="-191.144" type="legs.mapt.sp.er" GUID="//8bvFQlRkKAg/YUrzHdrQ=="/>
+        <POI MapID="1228" xpos="808.089" ypos="6.9117" zpos="-369.778" type="legs.mapt.sp.er" GUID="lWTki1+Mi0+Fbj/NduNL+A=="/>
+        <POI MapID="1228" xpos="838.787" ypos="37.935" zpos="-396.269" type="legs.mapt.sp.er" GUID="Gl2w2ie+zk6FBMMgP3q19Q=="/>
+        <POI MapID="1228" xpos="550.904" ypos="74.9308" zpos="-472.641" type="legs.mapt.sp.er" GUID="5V8mH0Aq20qZWaUq9WeJuw=="/>
+        <POI MapID="1228" xpos="548.271" ypos="13.2884" zpos="-501.677" type="legs.mapt.sp.er" GUID="JnrzmD1MW0W/Zw72UVX/Dw=="/>
+        <POI MapID="1228" xpos="608.056" ypos="3.39963" zpos="-760.426" type="legs.mapt.sp.er" GUID="9ABjb5Tl6kav9uB++EXQRg=="/>
+        <POI MapID="1228" xpos="628.576" ypos="15.8822" zpos="-824.919" type="legs.mapt.sp.er" GUID="rEdRby/SyEim+5NXclms6A=="/>
+        <POI MapID="1228" xpos="599.239" ypos="9.73869" zpos="-925.361" type="legs.mapt.sp.er" GUID="z7zDfmwWfEizRJez4ThdLA=="/>
+        <POI MapID="1228" xpos="574.15" ypos="0.641531" zpos="-875.173" type="legs.mapt.sp.er" GUID="rQ3XZ4w8n0mf+1/mavJtVw=="/>
+        <POI MapID="1228" xpos="554.567" ypos="0.789135" zpos="-923.588" type="legs.mapt.sp.er" GUID="2FL2Ko453kqr+DmIMjdxPw=="/>
+        <POI MapID="1228" xpos="642.016" ypos="23.1306" zpos="-982.587" type="legs.mapt.sp.er" GUID="TcmUuR/jykmCw1hhhp/xyw=="/>
+        <POI MapID="1228" xpos="514.918" ypos="15.6036" zpos="-958.761" type="legs.mapt.sp.er" GUID="7foTRkwHBkiUc/tIhrXuWA=="/>
+        <POI MapID="1228" xpos="599.739" ypos="30.2748" zpos="-845.297" type="legs.mapt.sp.er" GUID="ZHPNabFb30C9vmHmMYx7xQ=="/>
+        <POI MapID="1228" xpos="-677.887" ypos="10.1906" zpos="32.0684" type="legs.mapt.sp.er" GUID="EnDa5yydEEuyDhb5P8wIjA=="/>
+        <POI MapID="1228" xpos="-724.677" ypos="62.3812" zpos="399.06" type="legs.mapt.sp.er" GUID="/QWnrd89pkKM+thnpFn0IA=="/>
+        <POI MapID="1228" xpos="-671.483" ypos="3.29928" zpos="-190.708" type="legs.mapt.sp.er" GUID="rqGNz/sW3EyG32pmU/Z6FQ=="/>
+        <POI MapID="1228" xpos="-686.784" ypos="78.9342" zpos="-340.702" type="legs.mapt.sp.er" GUID="b73xCALqIEyz2SesxCF49A=="/>
+        <POI MapID="1228" xpos="-691.113" ypos="78.132" zpos="-359.9" type="legs.mapt.sp.er" GUID="j0lBD7yPNkS5ruhwpplpCw=="/>
+        <POI MapID="1228" xpos="-710.795" ypos="48.4711" zpos="-526.323" type="legs.mapt.sp.er" GUID="bPLMLkiEuke7JBczVDBgyw=="/>
+        <POI MapID="1228" xpos="-228.197" ypos="0.217585" zpos="-692.421" type="legs.mapt.sp.er" GUID="2hBzKDKqDUaNfpDFPEZWAA=="/>
+        <POI MapID="1228" xpos="-178.935" ypos="71.5493" zpos="-602.37" type="legs.mapt.sp.er" GUID="NaJzXD4sq0+9SN8hoYafRw=="/>
+        <POI MapID="1228" xpos="179.633" ypos="104.962" zpos="621.667" type="legs.mapt.sp.er" GUID="6Yb0hMZ5ZkqEAwckXrrhgA=="/>
+        <POI MapID="1228" xpos="368.244" ypos="117.188" zpos="890.041" type="legs.mapt.sp.er" GUID="po1KmQEar0us7BX9xBGTqQ=="/>
+        <POI MapID="1228" xpos="-31.249" ypos="79.4944" zpos="500.674" type="legs.mapt.sp.er" GUID="TXSsjkEiJ0KQoMvswLqv+g=="/>
+        <POI MapID="1228" xpos="-190.112" ypos="80.0177" zpos="589.327" type="legs.mapt.sp.er" GUID="Z3FaJWfOl0GiSl/o3eVO9A=="/>
+        <POI MapID="1228" xpos="-20.4301" ypos="78.5578" zpos="422.013" type="legs.mapt.sp.er" GUID="w0Y5hqzrHU+JzcAcNf36Sw=="/>
+        <POI MapID="1228" xpos="-85.9868" ypos="76.5624" zpos="309.942" type="legs.mapt.sp.er" GUID="+0IOk1EEGUqS7eWzYGeSDg=="/>
+        <POI MapID="1228" xpos="87.333" ypos="95.77" zpos="968.359" type="legs.mapt.sp.er" GUID="bhvJMIsVQkua9aeRXVhwFA=="/>
+        <POI MapID="1228" xpos="-63.3929" ypos="28.5129" zpos="971.773" type="legs.mapt.sp.er" GUID="cyCQFieJdUiztqDBhsPRrQ=="/>
+        <POI MapID="1228" xpos="1.27299" ypos="12.4179" zpos="-272.61" type="legs.mapt.sp.er" GUID="tWozBX5tz0CwH6bdO/eDeQ=="/>
+        <POI MapID="1228" xpos="-118.786" ypos="72.7983" zpos="-285.353" type="legs.mapt.sp.er" GUID="MJFD1ZxXM06hPlxgAfeWMw=="/>
         <!-- The Desolation -->
-        <Trail type="legs.pofmaptraversal.spt.bi" trailData="Data/LadyElyssa/PoF/TD Sand Portals B.trl"/>
-        <Trail type="legs.pofmaptraversal.spt.uni" trailData="Data/LadyElyssa/PoF/TD Sand Portals U.trl"/>
-        <POI MapID="1226" xpos="-605.303" ypos="230.593" zpos="-1183.27" type="legs.pofmaptraversal.sp" GUID="4BNrBh0mp0OsXmxrmQ5ekg=="/>
-        <POI MapID="1226" xpos="-716.982" ypos="233.321" zpos="-1100.28" type="legs.pofmaptraversal.sp" GUID="/2/kYsaG502Ew0GebAwYhA=="/>
-        <POI MapID="1226" xpos="-893.954" ypos="277.928" zpos="-931.428" type="legs.pofmaptraversal.sp" GUID="xhmMVlRJC0ydoB+b6WWMrA=="/>
-        <POI MapID="1226" xpos="-862.188" ypos="317.282" zpos="-857.904" type="legs.pofmaptraversal.sp" GUID="hHT1vShqokiKIMPj2DjEsQ=="/>
-        <POI MapID="1226" xpos="-845.892" ypos="308.394" zpos="-729.098" type="legs.pofmaptraversal.sp" GUID="M07yzyVQ0UGKXqrwD2Jd0w=="/>
-        <POI MapID="1226" xpos="-411.715" ypos="231.459" zpos="-1177.64" type="legs.pofmaptraversal.sp" GUID="s+9AYc7vikev/IIoGhNfMg=="/>
-        <POI MapID="1226" xpos="-418.595" ypos="370.325" zpos="-1189.03" type="legs.pofmaptraversal.sp" GUID="j49/o8KWWky02I/Pyl/akA=="/>
-        <POI MapID="1226" xpos="-316.181" ypos="373.435" zpos="-1055.86" type="legs.pofmaptraversal.sp" GUID="QmEx3NpwnUaH+ZbQ3MlTNg=="/>
-        <POI MapID="1226" xpos="-309.798" ypos="452.081" zpos="-948.117" type="legs.pofmaptraversal.sp" GUID="lu1J86rpWUCXdeautOlN7Q=="/>
-        <POI MapID="1226" xpos="-369.264" ypos="370.326" zpos="-1045.19" type="legs.pofmaptraversal.sp" GUID="Br3lzbgmZUOGzyGGyRsDVw=="/>
-        <POI MapID="1226" xpos="-347.266" ypos="337.355" zpos="-1117.5" type="legs.pofmaptraversal.sp" GUID="MlELub5Of0SyAnEa3sC1tw=="/>
-        <POI MapID="1226" xpos="-395.526" ypos="370.328" zpos="-1056.98" type="legs.pofmaptraversal.sp" GUID="/bJGiDr5HEW/d0fIw4WYRQ=="/>
-        <POI MapID="1226" xpos="-496.76" ypos="280.73" zpos="-914.644" type="legs.pofmaptraversal.sp" GUID="NPfFUppjhU2X7qw5BoM46A=="/>
-        <POI MapID="1226" xpos="-266.718" ypos="373.433" zpos="-1172.13" type="legs.pofmaptraversal.sp" GUID="jbF/NDmehUqFpO3Tf+fTOw=="/>
-        <POI MapID="1226" xpos="-195.652" ypos="349.453" zpos="-1290.5" type="legs.pofmaptraversal.sp" GUID="EZoTgFQ5SEu8mKftkMjiJA=="/>
-        <POI MapID="1226" xpos="-256.474" ypos="370.326" zpos="-1129.8" type="legs.pofmaptraversal.sp" GUID="5jOtrXrZ6EKsQvbgMhMbUA=="/>
-        <POI MapID="1226" xpos="-252.214" ypos="229.699" zpos="-1210.96" type="legs.pofmaptraversal.sp" GUID="KGIg7kKasEWoUQAZt750Uw=="/>
-        <POI MapID="1226" xpos="-323.305" ypos="370.325" zpos="-1226.39" type="legs.pofmaptraversal.sp" GUID="Zrw65g58fUiHT/lcRoPX6A=="/>
-        <POI MapID="1226" xpos="-333.568" ypos="380.707" zpos="-1328.88" type="legs.pofmaptraversal.sp" GUID="bHN3hLflVU2a6aocV8jG/w=="/>
-        <POI MapID="1226" xpos="-383.684" ypos="401.891" zpos="-1214.46" type="legs.pofmaptraversal.sp" GUID="ANsp4c8vh0iG1gGsFkuLjg=="/>
-        <POI MapID="1226" xpos="-425.899" ypos="425.107" zpos="-1273.2" type="legs.pofmaptraversal.sp" GUID="aWwtePCQ3U2n4lRHwvBb6w=="/>
-        <POI MapID="1226" xpos="-539.554" ypos="280.923" zpos="-925.613" type="legs.pofmaptraversal.sp" GUID="AZHFT/4wskyuLN5s80uHXQ=="/>
-        <POI MapID="1226" xpos="-488.959" ypos="215.834" zpos="-1089.53" type="legs.pofmaptraversal.sp" GUID="EEta1bjK0U23zSBHuuXm+g=="/>
-        <POI MapID="1226" xpos="-848.073" ypos="318.035" zpos="-786.981" type="legs.pofmaptraversal.sp" GUID="uoIv05fvAE2js8X1HoCGLQ=="/>
-        <POI MapID="1226" xpos="-844.712" ypos="307.824" zpos="-730.899" type="legs.pofmaptraversal.sp" GUID="2knRmstZ10Kq6sCJekGqwg=="/>
-        <POI MapID="1226" xpos="-872.911" ypos="309.355" zpos="-708.302" type="legs.pofmaptraversal.sp" GUID="4xAKaqE70Emw15xytX//0A=="/>
-        <POI MapID="1226" xpos="-955.322" ypos="306.621" zpos="-538.208" type="legs.pofmaptraversal.sp" GUID="kWseCnIM9U2EN3r756Hq4g=="/>
-        <POI MapID="1226" xpos="-970.733" ypos="306.77" zpos="-424.873" type="legs.pofmaptraversal.sp" GUID="W4l7/L6Bo0aL/hJ7/Aca4A=="/>
-        <POI MapID="1226" xpos="-1029.21" ypos="269.062" zpos="-323.886" type="legs.pofmaptraversal.sp" GUID="3vecHxCdw0SB8RtUayuFMg=="/>
-        <POI MapID="1226" xpos="-904.762" ypos="282.196" zpos="-219.43" type="legs.pofmaptraversal.sp" GUID="Ac9EfSZB1ke2lxzFjlJ4NQ=="/>
-        <POI MapID="1226" xpos="-820.011" ypos="298.726" zpos="-88.3665" type="legs.pofmaptraversal.sp" GUID="dujyYZPQwEiHuQdg1Wca0Q=="/>
-        <POI MapID="1226" xpos="-810.705" ypos="304.169" zpos="-39.8911" type="legs.pofmaptraversal.sp" GUID="H6ijkUREy0Cnd3iYW0xevg=="/>
-        <POI MapID="1226" xpos="-665.673" ypos="284.289" zpos="70.2777" type="legs.pofmaptraversal.sp" GUID="sgE4/EqqSkC0j/mg8VVTQg=="/>
-        <POI MapID="1226" xpos="-555.196" ypos="295.903" zpos="-715.301" type="legs.pofmaptraversal.sp" GUID="iKewdz5I3EysL/klnZtIeg=="/>
-        <POI MapID="1226" xpos="-611.024" ypos="341.621" zpos="-540.482" type="legs.pofmaptraversal.sp" GUID="vSJQ9VnVnkGYvfFne70ktA=="/>
-        <POI MapID="1226" xpos="-274.289" ypos="281.763" zpos="-591.74" type="legs.pofmaptraversal.sp" GUID="bW1ff+hZ2k+JYNnjmpMqfg=="/>
-        <POI MapID="1226" xpos="-190.212" ypos="265.122" zpos="-482.679" type="legs.pofmaptraversal.sp" GUID="5ghjrVOBDEiVpOG8CC5lmA=="/>
-        <POI MapID="1226" xpos="-321.592" ypos="198.727" zpos="-521.597" type="legs.pofmaptraversal.sp" GUID="9R3gUzFsAU6vXtaeBG8oyQ=="/>
-        <POI MapID="1226" xpos="-204.249" ypos="290.132" zpos="-656.203" type="legs.pofmaptraversal.sp" GUID="3ponzJygj0ixzkTJu70o8g=="/>
-        <POI MapID="1226" xpos="-262.575" ypos="269.266" zpos="-716.647" type="legs.pofmaptraversal.sp" GUID="FiWoh9w9LEuw4o+JEYhOjA=="/>
-        <POI MapID="1226" xpos="-372.213" ypos="264.119" zpos="-761.387" type="legs.pofmaptraversal.sp" GUID="SykFCJr7e0av8ta/owvlcA=="/>
-        <POI MapID="1226" xpos="-427.523" ypos="275.172" zpos="-794.791" type="legs.pofmaptraversal.sp" GUID="iDaw4KyveEe49dbilI2Wqg=="/>
-        <POI MapID="1226" xpos="194.154" ypos="333.565" zpos="-810.987" type="legs.pofmaptraversal.sp" GUID="jq+Nc2WsGkWDleRyumtjNg=="/>
-        <POI MapID="1226" xpos="205.372" ypos="269.099" zpos="-777.861" type="legs.pofmaptraversal.sp" GUID="2KFcokXtr0CB5VnWFKOVwA=="/>
-        <POI MapID="1226" xpos="361.54" ypos="265.653" zpos="-280.496" type="legs.pofmaptraversal.sp" GUID="3fs8pZexRU2aAjJbre1R7w=="/>
-        <POI MapID="1226" xpos="393.168" ypos="315.843" zpos="-246.102" type="legs.pofmaptraversal.sp" GUID="IkBXIMIIHkCNqM0MHYgSvQ=="/>
-        <POI MapID="1226" xpos="357.755" ypos="349.892" zpos="-44.3541" type="legs.pofmaptraversal.sp" GUID="9XTXO9eN8EWzP8tUDyPwfQ=="/>
-        <POI MapID="1226" xpos="288.402" ypos="311.132" zpos="103.683" type="legs.pofmaptraversal.sp" GUID="4iFLPZHST0WHw4IS5DEMMQ=="/>
-        <POI MapID="1226" xpos="401.686" ypos="311.523" zpos="210.333" type="legs.pofmaptraversal.sp" GUID="/Yb9azB0dU6L0NgCTjcMwQ=="/>
-        <POI MapID="1226" xpos="503.105" ypos="268.336" zpos="194.299" type="legs.pofmaptraversal.sp" GUID="5PCcaDLLzU6LhhLEExvuHA=="/>
-        <POI MapID="1226" xpos="99.1782" ypos="233.013" zpos="7.72874" type="legs.pofmaptraversal.sp" GUID="nfytb1EFqUeji33CZEqtrw=="/>
-        <POI MapID="1226" xpos="69.0157" ypos="262.969" zpos="-40.8371" type="legs.pofmaptraversal.sp" GUID="CnvSAOBTH0mf7jExOpiHsQ=="/>
-        <POI MapID="1226" xpos="833.365" ypos="267.9" zpos="-312.202" type="legs.pofmaptraversal.sp" GUID="hZvT6ePbCkOH6X7GAHQyOw=="/>
-        <POI MapID="1226" xpos="840.276" ypos="305.594" zpos="-289.916" type="legs.pofmaptraversal.sp" GUID="aOLAwbi/TUOSFbKIAdcUaQ=="/>
-        <POI MapID="1226" xpos="907.128" ypos="271.87" zpos="-392.795" type="legs.pofmaptraversal.sp" GUID="lsLrIV4YY0uXM6L0qV5s4Q=="/>
-        <POI MapID="1226" xpos="967.431" ypos="313.129" zpos="-357.822" type="legs.pofmaptraversal.sp" GUID="zkiZ9CCS/ESdKf+S8MmwDg=="/>
-        <POI MapID="1226" xpos="928.784" ypos="273.969" zpos="-99.8337" type="legs.pofmaptraversal.sp" GUID="5uP3zKvkvUugX6wYfugH8w=="/>
-        <POI MapID="1226" xpos="893.46" ypos="301.786" zpos="-97.4476" type="legs.pofmaptraversal.sp" GUID="8NSW9AOF2UGC1JNGY7UPlg=="/>
-        <POI MapID="1226" xpos="966.687" ypos="278.858" zpos="104.616" type="legs.pofmaptraversal.sp" GUID="BAh/M20yC0OQjgyTwca/Bw=="/>
-        <POI MapID="1226" xpos="933.115" ypos="284.803" zpos="206.175" type="legs.pofmaptraversal.sp" GUID="RuAffWxpbECtn2nTNAXx4A=="/>
-        <POI MapID="1226" xpos="855.94" ypos="282.12" zpos="368.57" type="legs.pofmaptraversal.sp" GUID="aPp4EtojlUmd13UtrlI0ug=="/>
-        <POI MapID="1226" xpos="839.81" ypos="285.154" zpos="594.339" type="legs.pofmaptraversal.sp" GUID="85xXjMY0Sk2nxNPV7qkbsA=="/>
-        <POI MapID="1226" xpos="867.005" ypos="273.521" zpos="638.08" type="legs.pofmaptraversal.sp" GUID="DuO9J94DfUKZlflS9UkWYw=="/>
-        <POI MapID="1226" xpos="885.872" ypos="280.929" zpos="690.312" type="legs.pofmaptraversal.sp" GUID="NITBnv83REKbCR96uQfc4A=="/>
-        <POI MapID="1226" xpos="972.835" ypos="246.914" zpos="764.199" type="legs.pofmaptraversal.sp" GUID="VDuyQ/0aRUuo6kBo9hm+sQ=="/>
-        <POI MapID="1226" xpos="945.823" ypos="252.147" zpos="838.191" type="legs.pofmaptraversal.sp" GUID="xk2xoKOdi0yfPAP+YqzfUw=="/>
-        <POI MapID="1226" xpos="969.247" ypos="131.801" zpos="911.54" type="legs.pofmaptraversal.sp" GUID="RqZN3BNcrEuIevKcTrR56g=="/>
-        <POI MapID="1226" xpos="512.703" ypos="75.1885" zpos="1235.04" type="legs.pofmaptraversal.sp" GUID="/4PrdBlo2ky3IM4fDzrn1A=="/>
-        <POI MapID="1226" xpos="463.931" ypos="0.875597" zpos="1253.98" type="legs.pofmaptraversal.sp" GUID="sBM/8j5EJUqcPukwT6LIdA=="/>
-        <POI MapID="1226" xpos="1013.36" ypos="22.5177" zpos="1426.53" type="legs.pofmaptraversal.sp" GUID="axS3Hpy6qEiMh4ctRkJiwA=="/>
-        <POI MapID="1226" xpos="1009.52" ypos="55.8526" zpos="1455.73" type="legs.pofmaptraversal.sp" GUID="OL+YByHj4kqGcuixxyGqBg=="/>
-        <POI MapID="1226" xpos="-8.96283" ypos="83.6374" zpos="1045.41" type="legs.pofmaptraversal.sp" GUID="CX7jpd701kqwtphtTk4+wQ=="/>
-        <POI MapID="1226" xpos="-256.781" ypos="197.993" zpos="928.003" type="legs.pofmaptraversal.sp" GUID="WF9s3QX6AUKtflCWH1mJQA=="/>
-        <POI MapID="1226" xpos="-588.567" ypos="64.9065" zpos="987.423" type="legs.pofmaptraversal.sp" GUID="Q8+m0dVBKU2/p69XChELZA=="/>
-        <POI MapID="1226" xpos="-617.34" ypos="84.8091" zpos="875.65" type="legs.pofmaptraversal.sp" GUID="+fDwHkkQlUGgLS0DKcVHpw=="/>
-        <POI MapID="1226" xpos="-730.099" ypos="103.067" zpos="816.946" type="legs.pofmaptraversal.sp" GUID="h+jHTFz1aUSYxajW/e3U1Q=="/>
-        <POI MapID="1226" xpos="-744.071" ypos="173.874" zpos="682.29" type="legs.pofmaptraversal.sp" GUID="uK75Cf+1REir3zCr4Vjxxw=="/>
-        <POI MapID="1226" xpos="-702.687" ypos="187.375" zpos="641.787" type="legs.pofmaptraversal.sp" GUID="HQyRQrjym0y9y13LL+2rRA=="/>
-        <POI MapID="1226" xpos="-672.133" ypos="249.778" zpos="552.847" type="legs.pofmaptraversal.sp" GUID="ZoqeY7zecEGtQBfLmhsJXg=="/>
-        <POI MapID="1226" xpos="-493.932" ypos="1.77272" zpos="1272.3" type="legs.pofmaptraversal.sp" GUID="X6EwJ45v+0WJgevs3GndZg=="/>
-        <POI MapID="1226" xpos="-675.599" ypos="34.4948" zpos="1308.22" type="legs.pofmaptraversal.sp" GUID="NRikuyafSkGyNtC/LrQ+yw=="/>
-        <POI MapID="1226" xpos="-309.876" ypos="244.003" zpos="664.916" type="legs.pofmaptraversal.sp" GUID="vZd4VM2b9UGYv/xYyfzqfA=="/>
-        <POI MapID="1226" xpos="-346.368" ypos="259.547" zpos="628.801" type="legs.pofmaptraversal.sp" GUID="UZQlx1uIRUW2TwWmvEGXZA=="/>
-        <POI MapID="1226" xpos="-359.133" ypos="256.484" zpos="605.888" type="legs.pofmaptraversal.sp" GUID="vtJbNa/dPE+Y/kgc2dCm5g=="/>
-        <POI MapID="1226" xpos="-495.303" ypos="286.311" zpos="510.386" type="legs.pofmaptraversal.sp" GUID="bxY7cgfw7k+cq81rt28SIg=="/>
-        <POI MapID="1226" xpos="355.757" ypos="162.114" zpos="846.877" type="legs.pofmaptraversal.sp" GUID="TSzBZOBDaUC/MAd16NMdQA=="/>
-        <POI MapID="1226" xpos="328.594" ypos="160.383" zpos="928.571" type="legs.pofmaptraversal.sp" GUID="HYpJRYtDBkikkXsUyioUxw=="/>
-        <POI MapID="1226" xpos="334.147" ypos="159.11" zpos="876.902" type="legs.pofmaptraversal.sp" GUID="ZYBAlwjPNEast1t+Guhr9A=="/>
+        <Trail type="legs.mapt.sp.td.bi" trailData="Data/LadyElyssa/Map Traversal/PoF/TD Sand Portals B.trl"/>
+        <Trail type="legs.mapt.sp.td.uni" trailData="Data/LadyElyssa/Map Traversal/PoF/TD Sand Portals U.trl"/>
+        <POI MapID="1226" xpos="-605.303" ypos="230.593" zpos="-1183.27" type="legs.mapt.sp.td" GUID="4BNrBh0mp0OsXmxrmQ5ekg=="/>
+        <POI MapID="1226" xpos="-716.982" ypos="233.321" zpos="-1100.28" type="legs.mapt.sp.td" GUID="/2/kYsaG502Ew0GebAwYhA=="/>
+        <POI MapID="1226" xpos="-893.954" ypos="277.928" zpos="-931.428" type="legs.mapt.sp.td" GUID="xhmMVlRJC0ydoB+b6WWMrA=="/>
+        <POI MapID="1226" xpos="-862.188" ypos="317.282" zpos="-857.904" type="legs.mapt.sp.td" GUID="hHT1vShqokiKIMPj2DjEsQ=="/>
+        <POI MapID="1226" xpos="-845.892" ypos="308.394" zpos="-729.098" type="legs.mapt.sp.td" GUID="M07yzyVQ0UGKXqrwD2Jd0w=="/>
+        <POI MapID="1226" xpos="-411.715" ypos="231.459" zpos="-1177.64" type="legs.mapt.sp.td" GUID="s+9AYc7vikev/IIoGhNfMg=="/>
+        <POI MapID="1226" xpos="-418.595" ypos="370.325" zpos="-1189.03" type="legs.mapt.sp.td" GUID="j49/o8KWWky02I/Pyl/akA=="/>
+        <POI MapID="1226" xpos="-316.181" ypos="373.435" zpos="-1055.86" type="legs.mapt.sp.td" GUID="QmEx3NpwnUaH+ZbQ3MlTNg=="/>
+        <POI MapID="1226" xpos="-309.798" ypos="452.081" zpos="-948.117" type="legs.mapt.sp.td" GUID="lu1J86rpWUCXdeautOlN7Q=="/>
+        <POI MapID="1226" xpos="-369.264" ypos="370.326" zpos="-1045.19" type="legs.mapt.sp.td" GUID="Br3lzbgmZUOGzyGGyRsDVw=="/>
+        <POI MapID="1226" xpos="-347.266" ypos="337.355" zpos="-1117.5" type="legs.mapt.sp.td" GUID="MlELub5Of0SyAnEa3sC1tw=="/>
+        <POI MapID="1226" xpos="-395.526" ypos="370.328" zpos="-1056.98" type="legs.mapt.sp.td" GUID="/bJGiDr5HEW/d0fIw4WYRQ=="/>
+        <POI MapID="1226" xpos="-496.76" ypos="280.73" zpos="-914.644" type="legs.mapt.sp.td" GUID="NPfFUppjhU2X7qw5BoM46A=="/>
+        <POI MapID="1226" xpos="-266.718" ypos="373.433" zpos="-1172.13" type="legs.mapt.sp.td" GUID="jbF/NDmehUqFpO3Tf+fTOw=="/>
+        <POI MapID="1226" xpos="-195.652" ypos="349.453" zpos="-1290.5" type="legs.mapt.sp.td" GUID="EZoTgFQ5SEu8mKftkMjiJA=="/>
+        <POI MapID="1226" xpos="-256.474" ypos="370.326" zpos="-1129.8" type="legs.mapt.sp.td" GUID="5jOtrXrZ6EKsQvbgMhMbUA=="/>
+        <POI MapID="1226" xpos="-252.214" ypos="229.699" zpos="-1210.96" type="legs.mapt.sp.td" GUID="KGIg7kKasEWoUQAZt750Uw=="/>
+        <POI MapID="1226" xpos="-323.305" ypos="370.325" zpos="-1226.39" type="legs.mapt.sp.td" GUID="Zrw65g58fUiHT/lcRoPX6A=="/>
+        <POI MapID="1226" xpos="-333.568" ypos="380.707" zpos="-1328.88" type="legs.mapt.sp.td" GUID="bHN3hLflVU2a6aocV8jG/w=="/>
+        <POI MapID="1226" xpos="-383.684" ypos="401.891" zpos="-1214.46" type="legs.mapt.sp.td" GUID="ANsp4c8vh0iG1gGsFkuLjg=="/>
+        <POI MapID="1226" xpos="-425.899" ypos="425.107" zpos="-1273.2" type="legs.mapt.sp.td" GUID="aWwtePCQ3U2n4lRHwvBb6w=="/>
+        <POI MapID="1226" xpos="-539.554" ypos="280.923" zpos="-925.613" type="legs.mapt.sp.td" GUID="AZHFT/4wskyuLN5s80uHXQ=="/>
+        <POI MapID="1226" xpos="-488.959" ypos="215.834" zpos="-1089.53" type="legs.mapt.sp.td" GUID="EEta1bjK0U23zSBHuuXm+g=="/>
+        <POI MapID="1226" xpos="-848.073" ypos="318.035" zpos="-786.981" type="legs.mapt.sp.td" GUID="uoIv05fvAE2js8X1HoCGLQ=="/>
+        <POI MapID="1226" xpos="-844.712" ypos="307.824" zpos="-730.899" type="legs.mapt.sp.td" GUID="2knRmstZ10Kq6sCJekGqwg=="/>
+        <POI MapID="1226" xpos="-872.911" ypos="309.355" zpos="-708.302" type="legs.mapt.sp.td" GUID="4xAKaqE70Emw15xytX//0A=="/>
+        <POI MapID="1226" xpos="-955.322" ypos="306.621" zpos="-538.208" type="legs.mapt.sp.td" GUID="kWseCnIM9U2EN3r756Hq4g=="/>
+        <POI MapID="1226" xpos="-970.733" ypos="306.77" zpos="-424.873" type="legs.mapt.sp.td" GUID="W4l7/L6Bo0aL/hJ7/Aca4A=="/>
+        <POI MapID="1226" xpos="-1029.21" ypos="269.062" zpos="-323.886" type="legs.mapt.sp.td" GUID="3vecHxCdw0SB8RtUayuFMg=="/>
+        <POI MapID="1226" xpos="-904.762" ypos="282.196" zpos="-219.43" type="legs.mapt.sp.td" GUID="Ac9EfSZB1ke2lxzFjlJ4NQ=="/>
+        <POI MapID="1226" xpos="-820.011" ypos="298.726" zpos="-88.3665" type="legs.mapt.sp.td" GUID="dujyYZPQwEiHuQdg1Wca0Q=="/>
+        <POI MapID="1226" xpos="-810.705" ypos="304.169" zpos="-39.8911" type="legs.mapt.sp.td" GUID="H6ijkUREy0Cnd3iYW0xevg=="/>
+        <POI MapID="1226" xpos="-665.673" ypos="284.289" zpos="70.2777" type="legs.mapt.sp.td" GUID="sgE4/EqqSkC0j/mg8VVTQg=="/>
+        <POI MapID="1226" xpos="-555.196" ypos="295.903" zpos="-715.301" type="legs.mapt.sp.td" GUID="iKewdz5I3EysL/klnZtIeg=="/>
+        <POI MapID="1226" xpos="-611.024" ypos="341.621" zpos="-540.482" type="legs.mapt.sp.td" GUID="vSJQ9VnVnkGYvfFne70ktA=="/>
+        <POI MapID="1226" xpos="-274.289" ypos="281.763" zpos="-591.74" type="legs.mapt.sp.td" GUID="bW1ff+hZ2k+JYNnjmpMqfg=="/>
+        <POI MapID="1226" xpos="-190.212" ypos="265.122" zpos="-482.679" type="legs.mapt.sp.td" GUID="5ghjrVOBDEiVpOG8CC5lmA=="/>
+        <POI MapID="1226" xpos="-321.592" ypos="198.727" zpos="-521.597" type="legs.mapt.sp.td" GUID="9R3gUzFsAU6vXtaeBG8oyQ=="/>
+        <POI MapID="1226" xpos="-204.249" ypos="290.132" zpos="-656.203" type="legs.mapt.sp.td" GUID="3ponzJygj0ixzkTJu70o8g=="/>
+        <POI MapID="1226" xpos="-262.575" ypos="269.266" zpos="-716.647" type="legs.mapt.sp.td" GUID="FiWoh9w9LEuw4o+JEYhOjA=="/>
+        <POI MapID="1226" xpos="-372.213" ypos="264.119" zpos="-761.387" type="legs.mapt.sp.td" GUID="SykFCJr7e0av8ta/owvlcA=="/>
+        <POI MapID="1226" xpos="-427.523" ypos="275.172" zpos="-794.791" type="legs.mapt.sp.td" GUID="iDaw4KyveEe49dbilI2Wqg=="/>
+        <POI MapID="1226" xpos="194.154" ypos="333.565" zpos="-810.987" type="legs.mapt.sp.td" GUID="jq+Nc2WsGkWDleRyumtjNg=="/>
+        <POI MapID="1226" xpos="205.372" ypos="269.099" zpos="-777.861" type="legs.mapt.sp.td" GUID="2KFcokXtr0CB5VnWFKOVwA=="/>
+        <POI MapID="1226" xpos="361.54" ypos="265.653" zpos="-280.496" type="legs.mapt.sp.td" GUID="3fs8pZexRU2aAjJbre1R7w=="/>
+        <POI MapID="1226" xpos="393.168" ypos="315.843" zpos="-246.102" type="legs.mapt.sp.td" GUID="IkBXIMIIHkCNqM0MHYgSvQ=="/>
+        <POI MapID="1226" xpos="357.755" ypos="349.892" zpos="-44.3541" type="legs.mapt.sp.td" GUID="9XTXO9eN8EWzP8tUDyPwfQ=="/>
+        <POI MapID="1226" xpos="288.402" ypos="311.132" zpos="103.683" type="legs.mapt.sp.td" GUID="4iFLPZHST0WHw4IS5DEMMQ=="/>
+        <POI MapID="1226" xpos="401.686" ypos="311.523" zpos="210.333" type="legs.mapt.sp.td" GUID="/Yb9azB0dU6L0NgCTjcMwQ=="/>
+        <POI MapID="1226" xpos="503.105" ypos="268.336" zpos="194.299" type="legs.mapt.sp.td" GUID="5PCcaDLLzU6LhhLEExvuHA=="/>
+        <POI MapID="1226" xpos="99.1782" ypos="233.013" zpos="7.72874" type="legs.mapt.sp.td" GUID="nfytb1EFqUeji33CZEqtrw=="/>
+        <POI MapID="1226" xpos="69.0157" ypos="262.969" zpos="-40.8371" type="legs.mapt.sp.td" GUID="CnvSAOBTH0mf7jExOpiHsQ=="/>
+        <POI MapID="1226" xpos="833.365" ypos="267.9" zpos="-312.202" type="legs.mapt.sp.td" GUID="hZvT6ePbCkOH6X7GAHQyOw=="/>
+        <POI MapID="1226" xpos="840.276" ypos="305.594" zpos="-289.916" type="legs.mapt.sp.td" GUID="aOLAwbi/TUOSFbKIAdcUaQ=="/>
+        <POI MapID="1226" xpos="907.128" ypos="271.87" zpos="-392.795" type="legs.mapt.sp.td" GUID="lsLrIV4YY0uXM6L0qV5s4Q=="/>
+        <POI MapID="1226" xpos="967.431" ypos="313.129" zpos="-357.822" type="legs.mapt.sp.td" GUID="zkiZ9CCS/ESdKf+S8MmwDg=="/>
+        <POI MapID="1226" xpos="928.784" ypos="273.969" zpos="-99.8337" type="legs.mapt.sp.td" GUID="5uP3zKvkvUugX6wYfugH8w=="/>
+        <POI MapID="1226" xpos="893.46" ypos="301.786" zpos="-97.4476" type="legs.mapt.sp.td" GUID="8NSW9AOF2UGC1JNGY7UPlg=="/>
+        <POI MapID="1226" xpos="966.687" ypos="278.858" zpos="104.616" type="legs.mapt.sp.td" GUID="BAh/M20yC0OQjgyTwca/Bw=="/>
+        <POI MapID="1226" xpos="933.115" ypos="284.803" zpos="206.175" type="legs.mapt.sp.td" GUID="RuAffWxpbECtn2nTNAXx4A=="/>
+        <POI MapID="1226" xpos="855.94" ypos="282.12" zpos="368.57" type="legs.mapt.sp.td" GUID="aPp4EtojlUmd13UtrlI0ug=="/>
+        <POI MapID="1226" xpos="839.81" ypos="285.154" zpos="594.339" type="legs.mapt.sp.td" GUID="85xXjMY0Sk2nxNPV7qkbsA=="/>
+        <POI MapID="1226" xpos="867.005" ypos="273.521" zpos="638.08" type="legs.mapt.sp.td" GUID="DuO9J94DfUKZlflS9UkWYw=="/>
+        <POI MapID="1226" xpos="885.872" ypos="280.929" zpos="690.312" type="legs.mapt.sp.td" GUID="NITBnv83REKbCR96uQfc4A=="/>
+        <POI MapID="1226" xpos="972.835" ypos="246.914" zpos="764.199" type="legs.mapt.sp.td" GUID="VDuyQ/0aRUuo6kBo9hm+sQ=="/>
+        <POI MapID="1226" xpos="945.823" ypos="252.147" zpos="838.191" type="legs.mapt.sp.td" GUID="xk2xoKOdi0yfPAP+YqzfUw=="/>
+        <POI MapID="1226" xpos="969.247" ypos="131.801" zpos="911.54" type="legs.mapt.sp.td" GUID="RqZN3BNcrEuIevKcTrR56g=="/>
+        <POI MapID="1226" xpos="512.703" ypos="75.1885" zpos="1235.04" type="legs.mapt.sp.td" GUID="/4PrdBlo2ky3IM4fDzrn1A=="/>
+        <POI MapID="1226" xpos="463.931" ypos="0.875597" zpos="1253.98" type="legs.mapt.sp.td" GUID="sBM/8j5EJUqcPukwT6LIdA=="/>
+        <POI MapID="1226" xpos="1013.36" ypos="22.5177" zpos="1426.53" type="legs.mapt.sp.td" GUID="axS3Hpy6qEiMh4ctRkJiwA=="/>
+        <POI MapID="1226" xpos="1009.52" ypos="55.8526" zpos="1455.73" type="legs.mapt.sp.td" GUID="OL+YByHj4kqGcuixxyGqBg=="/>
+        <POI MapID="1226" xpos="-8.96283" ypos="83.6374" zpos="1045.41" type="legs.mapt.sp.td" GUID="CX7jpd701kqwtphtTk4+wQ=="/>
+        <POI MapID="1226" xpos="-256.781" ypos="197.993" zpos="928.003" type="legs.mapt.sp.td" GUID="WF9s3QX6AUKtflCWH1mJQA=="/>
+        <POI MapID="1226" xpos="-588.567" ypos="64.9065" zpos="987.423" type="legs.mapt.sp.td" GUID="Q8+m0dVBKU2/p69XChELZA=="/>
+        <POI MapID="1226" xpos="-617.34" ypos="84.8091" zpos="875.65" type="legs.mapt.sp.td" GUID="+fDwHkkQlUGgLS0DKcVHpw=="/>
+        <POI MapID="1226" xpos="-730.099" ypos="103.067" zpos="816.946" type="legs.mapt.sp.td" GUID="h+jHTFz1aUSYxajW/e3U1Q=="/>
+        <POI MapID="1226" xpos="-744.071" ypos="173.874" zpos="682.29" type="legs.mapt.sp.td" GUID="uK75Cf+1REir3zCr4Vjxxw=="/>
+        <POI MapID="1226" xpos="-702.687" ypos="187.375" zpos="641.787" type="legs.mapt.sp.td" GUID="HQyRQrjym0y9y13LL+2rRA=="/>
+        <POI MapID="1226" xpos="-672.133" ypos="249.778" zpos="552.847" type="legs.mapt.sp.td" GUID="ZoqeY7zecEGtQBfLmhsJXg=="/>
+        <POI MapID="1226" xpos="-493.932" ypos="1.77272" zpos="1272.3" type="legs.mapt.sp.td" GUID="X6EwJ45v+0WJgevs3GndZg=="/>
+        <POI MapID="1226" xpos="-675.599" ypos="34.4948" zpos="1308.22" type="legs.mapt.sp.td" GUID="NRikuyafSkGyNtC/LrQ+yw=="/>
+        <POI MapID="1226" xpos="-309.876" ypos="244.003" zpos="664.916" type="legs.mapt.sp.td" GUID="vZd4VM2b9UGYv/xYyfzqfA=="/>
+        <POI MapID="1226" xpos="-346.368" ypos="259.547" zpos="628.801" type="legs.mapt.sp.td" GUID="UZQlx1uIRUW2TwWmvEGXZA=="/>
+        <POI MapID="1226" xpos="-359.133" ypos="256.484" zpos="605.888" type="legs.mapt.sp.td" GUID="vtJbNa/dPE+Y/kgc2dCm5g=="/>
+        <POI MapID="1226" xpos="-495.303" ypos="286.311" zpos="510.386" type="legs.mapt.sp.td" GUID="bxY7cgfw7k+cq81rt28SIg=="/>
+        <POI MapID="1226" xpos="355.757" ypos="162.114" zpos="846.877" type="legs.mapt.sp.td" GUID="TSzBZOBDaUC/MAd16NMdQA=="/>
+        <POI MapID="1226" xpos="328.594" ypos="160.383" zpos="928.571" type="legs.mapt.sp.td" GUID="HYpJRYtDBkikkXsUyioUxw=="/>
+        <POI MapID="1226" xpos="334.147" ypos="159.11" zpos="876.902" type="legs.mapt.sp.td" GUID="ZYBAlwjPNEast1t+Guhr9A=="/>
         <!-- Domain of Vabbi -->
-        <Trail type="legs.pofmaptraversal.spt.bi" trailData="Data/LadyElyssa/PoF/DoV Sand Portals B.trl"/>
-        <POI MapID="1248" xpos="54.3604" ypos="166.78" zpos="-533.868" type="legs.pofmaptraversal.sp" GUID="2bZWoQ36fkG0B1a7JR2mTQ=="/>
-        <POI MapID="1248" xpos="80.7722" ypos="1.6616" zpos="-588.542" type="legs.pofmaptraversal.sp" GUID="iO49RlHkaU+1R/v64sToQQ=="/>
-        <POI MapID="1248" xpos="-280.189" ypos="133.286" zpos="-118.052" type="legs.pofmaptraversal.sp" GUID="kV87abORoE2UQ0eXh+DaYw=="/>
-        <POI MapID="1248" xpos="-371.937" ypos="160.882" zpos="-48.2419" type="legs.pofmaptraversal.sp" GUID="AsQEfSv7UU67WKzY5H/NAg=="/>
-        <POI MapID="1248" xpos="-637.375" ypos="149.202" zpos="19.63" type="legs.pofmaptraversal.sp" GUID="vBHSpoEHJ02iiX3fItBGrw=="/>
-        <POI MapID="1248" xpos="-747.874" ypos="115.207" zpos="27.4651" type="legs.pofmaptraversal.sp" GUID="zHmOuScQtES0Bm6M6ITLNg=="/>
-        <POI MapID="1248" xpos="-566.487" ypos="52.7699" zpos="386.869" type="legs.pofmaptraversal.sp" GUID="YOny/8tNRU2PXqbg7qvSKw=="/>
-        <POI MapID="1248" xpos="-527.229" ypos="9.80727" zpos="443.23" type="legs.pofmaptraversal.sp" GUID="9DM3BpNmlU2FVVGzAuIbkQ=="/>
-        <POI MapID="1248" xpos="-460.016" ypos="57.6928" zpos="499.332" type="legs.pofmaptraversal.sp" GUID="n53YWpBWtUaiyIDOnEsXEg=="/>
-        <POI MapID="1248" xpos="-709.926" ypos="119.656" zpos="499.341" type="legs.pofmaptraversal.sp" GUID="GuF0mQztV0iCKYJE2m67ow=="/>
-        <POI MapID="1248" xpos="-414.456" ypos="8.74637" zpos="555.469" type="legs.pofmaptraversal.sp" GUID="n/RWyfSBJUWglYGtt7K8Yg=="/>
-        <POI MapID="1248" xpos="-432.707" ypos="49.1177" zpos="622.874" type="legs.pofmaptraversal.sp" GUID="PquWtPq230ONNE7FIvKyAw=="/>
-        <POI MapID="1248" xpos="-266.218" ypos="65.8228" zpos="598.386" type="legs.pofmaptraversal.sp" GUID="8y9SaT1R7kurTLcrvA0YPw=="/>
-        <POI MapID="1248" xpos="-191.104" ypos="8.66173" zpos="574.369" type="legs.pofmaptraversal.sp" GUID="Vkws+uqRPEOh3n0bNjFkUg=="/>
-        <POI MapID="1248" xpos="-190.915" ypos="7.4259" zpos="427.394" type="legs.pofmaptraversal.sp" GUID="agsqA1mEbkGOz06mns1k6g=="/>
-        <POI MapID="1248" xpos="-266.098" ypos="65.7845" zpos="404.692" type="legs.pofmaptraversal.sp" GUID="jxG7cHEn1kOLMTF+V1IyCg=="/>
-        <POI MapID="1248" xpos="26.5218" ypos="10.0569" zpos="388.373" type="legs.pofmaptraversal.sp" GUID="0Y2mqX0HkUOJbTY+bj8pDg=="/>
-        <POI MapID="1248" xpos="44.9857" ypos="135.315" zpos="340.156" type="legs.pofmaptraversal.sp" GUID="UrpCZNdWOUmPes3UxWWhpg=="/>
-        <POI MapID="1248" xpos="26.4464" ypos="9.59601" zpos="610.913" type="legs.pofmaptraversal.sp" GUID="Fbs4Pv9GcEmQ0CcHXWr1+w=="/>
-        <POI MapID="1248" xpos="39.3176" ypos="136.501" zpos="660.611" type="legs.pofmaptraversal.sp" GUID="4K1v1L7ItU2+UojHWE8YEA=="/>
-        <POI MapID="1248" xpos="-766.25" ypos="81.8412" zpos="500.806" type="legs.pofmaptraversal.sp" GUID="7AioGFHMyUqmjrwDNBXbqg=="/>
-        <POI MapID="1248" xpos="-804.837" ypos="87.9342" zpos="515.526" type="legs.pofmaptraversal.sp" GUID="xv4j74zV1EC0Sd7Opg/Qpg=="/>
-        <POI MapID="1248" xpos="1353.96" ypos="78.0257" zpos="-94.5973" type="legs.pofmaptraversal.sp" GUID="x7Us4IjC+0eRti3teyNGEg=="/>
-        <POI MapID="1248" xpos="1312.09" ypos="124.711" zpos="-69.777" type="legs.pofmaptraversal.sp" GUID="2GlEew+xlUy7gVuXPj5sPQ=="/>
-        <POI MapID="1248" xpos="1300.38" ypos="124.716" zpos="-58.5035" type="legs.pofmaptraversal.sp" GUID="peIjf3MsTkyiDiK/WxI9Jg=="/>
-        <POI MapID="1248" xpos="1246.39" ypos="112.816" zpos="-99.4416" type="legs.pofmaptraversal.sp" GUID="1VTB3do8iUuJg6Kk1kaZ7Q=="/>
-        <POI MapID="1248" xpos="1235.6" ypos="112.79" zpos="-110.834" type="legs.pofmaptraversal.sp" GUID="VbmYlBDWFUafDhMLOYHZsQ=="/>
-        <POI MapID="1248" xpos="1402.3" ypos="123.025" zpos="-101.125" type="legs.pofmaptraversal.sp" GUID="6hzBmtbtKk60XMZOIwQEdQ=="/>
-        <POI MapID="1248" xpos="1379.75" ypos="123.023" zpos="-101.646" type="legs.pofmaptraversal.sp" GUID="zvOgk/xeoEWj7ePwj3DHRg=="/>
-        <POI MapID="1248" xpos="1355.62" ypos="124.238" zpos="-119.849" type="legs.pofmaptraversal.sp" GUID="38HNgMFGvkSzuWd9t4i0cg=="/>
-        <POI MapID="1248" xpos="1278.82" ypos="55.7287" zpos="-573.457" type="legs.pofmaptraversal.sp" GUID="/6limNQYnEGWMAFbJUvobA=="/>
-        <POI MapID="1248" xpos="1267.63" ypos="63.885" zpos="-634.717" type="legs.pofmaptraversal.sp" GUID="axUsPYUbW0SFA1ResB971A=="/>
-        <POI MapID="1248" xpos="1241.35" ypos="5.4492" zpos="-668.376" type="legs.pofmaptraversal.sp" GUID="+nHx2uJ5102rvG89ICPTMg=="/>
-        <POI MapID="1248" xpos="1266.92" ypos="60.5588" zpos="-779.202" type="legs.pofmaptraversal.sp" GUID="gcH0yxjPukmCL3MrFqlpHQ=="/>
-        <POI MapID="1248" xpos="1453.44" ypos="141.599" zpos="-767.318" type="legs.pofmaptraversal.sp" GUID="zGarIRpq1EavOSgSJHwEiw=="/>
-        <POI MapID="1248" xpos="1412.53" ypos="107.603" zpos="-709.342" type="legs.pofmaptraversal.sp" GUID="J6R6VRqRYUCqJns2xxuCmg=="/>
-        <POI MapID="1248" xpos="1315.7" ypos="94.3052" zpos="-779.832" type="legs.pofmaptraversal.sp" GUID="Tv6AidQEqk6LanQBXWSkWA=="/>
-        <POI MapID="1248" xpos="1322.27" ypos="90.6263" zpos="-634.312" type="legs.pofmaptraversal.sp" GUID="XAzw/ueCIkKUxZri3L+x1g=="/>
-        <POI MapID="1248" xpos="1201.49" ypos="54.7989" zpos="-573.217" type="legs.pofmaptraversal.sp" GUID="VcVXoDgcF0OC4/ivGTvS5w=="/>
-        <POI MapID="1248" xpos="1117.62" ypos="41.8239" zpos="-601.323" type="legs.pofmaptraversal.sp" GUID="30R2VrCDAUeiekVc22uKRg=="/>
-        <Trail type="legs.pofmaptraversal.sp.bi" trailData="Data/LadyElyssa/PoF/DoV Hanging Gardens Sand Portals.trl"/>
+        <Trail type="legs.mapt.sp.dov.bi" trailData="Data/LadyElyssa/Map Traversal/PoF/DoV Sand Portals B.trl"/>
+        <POI MapID="1248" xpos="54.3604" ypos="166.78" zpos="-533.868" type="legs.mapt.sp.dov" GUID="2bZWoQ36fkG0B1a7JR2mTQ=="/>
+        <POI MapID="1248" xpos="80.7722" ypos="1.6616" zpos="-588.542" type="legs.mapt.sp.dov" GUID="iO49RlHkaU+1R/v64sToQQ=="/>
+        <POI MapID="1248" xpos="-280.189" ypos="133.286" zpos="-118.052" type="legs.mapt.sp.dov" GUID="kV87abORoE2UQ0eXh+DaYw=="/>
+        <POI MapID="1248" xpos="-371.937" ypos="160.882" zpos="-48.2419" type="legs.mapt.sp.dov" GUID="AsQEfSv7UU67WKzY5H/NAg=="/>
+        <POI MapID="1248" xpos="-637.375" ypos="149.202" zpos="19.63" type="legs.mapt.sp.dov" GUID="vBHSpoEHJ02iiX3fItBGrw=="/>
+        <POI MapID="1248" xpos="-747.874" ypos="115.207" zpos="27.4651" type="legs.mapt.sp.dov" GUID="zHmOuScQtES0Bm6M6ITLNg=="/>
+        <POI MapID="1248" xpos="-566.487" ypos="52.7699" zpos="386.869" type="legs.mapt.sp.dov" GUID="YOny/8tNRU2PXqbg7qvSKw=="/>
+        <POI MapID="1248" xpos="-527.229" ypos="9.80727" zpos="443.23" type="legs.mapt.sp.dov" GUID="9DM3BpNmlU2FVVGzAuIbkQ=="/>
+        <POI MapID="1248" xpos="-460.016" ypos="57.6928" zpos="499.332" type="legs.mapt.sp.dov" GUID="n53YWpBWtUaiyIDOnEsXEg=="/>
+        <POI MapID="1248" xpos="-709.926" ypos="119.656" zpos="499.341" type="legs.mapt.sp.dov" GUID="GuF0mQztV0iCKYJE2m67ow=="/>
+        <POI MapID="1248" xpos="-414.456" ypos="8.74637" zpos="555.469" type="legs.mapt.sp.dov" GUID="n/RWyfSBJUWglYGtt7K8Yg=="/>
+        <POI MapID="1248" xpos="-432.707" ypos="49.1177" zpos="622.874" type="legs.mapt.sp.dov" GUID="PquWtPq230ONNE7FIvKyAw=="/>
+        <POI MapID="1248" xpos="-266.218" ypos="65.8228" zpos="598.386" type="legs.mapt.sp.dov" GUID="8y9SaT1R7kurTLcrvA0YPw=="/>
+        <POI MapID="1248" xpos="-191.104" ypos="8.66173" zpos="574.369" type="legs.mapt.sp.dov" GUID="Vkws+uqRPEOh3n0bNjFkUg=="/>
+        <POI MapID="1248" xpos="-190.915" ypos="7.4259" zpos="427.394" type="legs.mapt.sp.dov" GUID="agsqA1mEbkGOz06mns1k6g=="/>
+        <POI MapID="1248" xpos="-266.098" ypos="65.7845" zpos="404.692" type="legs.mapt.sp.dov" GUID="jxG7cHEn1kOLMTF+V1IyCg=="/>
+        <POI MapID="1248" xpos="26.5218" ypos="10.0569" zpos="388.373" type="legs.mapt.sp.dov" GUID="0Y2mqX0HkUOJbTY+bj8pDg=="/>
+        <POI MapID="1248" xpos="44.9857" ypos="135.315" zpos="340.156" type="legs.mapt.sp.dov" GUID="UrpCZNdWOUmPes3UxWWhpg=="/>
+        <POI MapID="1248" xpos="26.4464" ypos="9.59601" zpos="610.913" type="legs.mapt.sp.dov" GUID="Fbs4Pv9GcEmQ0CcHXWr1+w=="/>
+        <POI MapID="1248" xpos="39.3176" ypos="136.501" zpos="660.611" type="legs.mapt.sp.dov" GUID="4K1v1L7ItU2+UojHWE8YEA=="/>
+        <POI MapID="1248" xpos="-766.25" ypos="81.8412" zpos="500.806" type="legs.mapt.sp.dov" GUID="7AioGFHMyUqmjrwDNBXbqg=="/>
+        <POI MapID="1248" xpos="-804.837" ypos="87.9342" zpos="515.526" type="legs.mapt.sp.dov" GUID="xv4j74zV1EC0Sd7Opg/Qpg=="/>
+        <POI MapID="1248" xpos="1353.96" ypos="78.0257" zpos="-94.5973" type="legs.mapt.sp.dov" GUID="x7Us4IjC+0eRti3teyNGEg=="/>
+        <POI MapID="1248" xpos="1312.09" ypos="124.711" zpos="-69.777" type="legs.mapt.sp.dov" GUID="2GlEew+xlUy7gVuXPj5sPQ=="/>
+        <POI MapID="1248" xpos="1300.38" ypos="124.716" zpos="-58.5035" type="legs.mapt.sp.dov" GUID="peIjf3MsTkyiDiK/WxI9Jg=="/>
+        <POI MapID="1248" xpos="1246.39" ypos="112.816" zpos="-99.4416" type="legs.mapt.sp.dov" GUID="1VTB3do8iUuJg6Kk1kaZ7Q=="/>
+        <POI MapID="1248" xpos="1235.6" ypos="112.79" zpos="-110.834" type="legs.mapt.sp.dov" GUID="VbmYlBDWFUafDhMLOYHZsQ=="/>
+        <POI MapID="1248" xpos="1402.3" ypos="123.025" zpos="-101.125" type="legs.mapt.sp.dov" GUID="6hzBmtbtKk60XMZOIwQEdQ=="/>
+        <POI MapID="1248" xpos="1379.75" ypos="123.023" zpos="-101.646" type="legs.mapt.sp.dov" GUID="zvOgk/xeoEWj7ePwj3DHRg=="/>
+        <POI MapID="1248" xpos="1355.62" ypos="124.238" zpos="-119.849" type="legs.mapt.sp.dov" GUID="38HNgMFGvkSzuWd9t4i0cg=="/>
+        <POI MapID="1248" xpos="1278.82" ypos="55.7287" zpos="-573.457" type="legs.mapt.sp.dov" GUID="/6limNQYnEGWMAFbJUvobA=="/>
+        <POI MapID="1248" xpos="1267.63" ypos="63.885" zpos="-634.717" type="legs.mapt.sp.dov" GUID="axUsPYUbW0SFA1ResB971A=="/>
+        <POI MapID="1248" xpos="1241.35" ypos="5.4492" zpos="-668.376" type="legs.mapt.sp.dov" GUID="+nHx2uJ5102rvG89ICPTMg=="/>
+        <POI MapID="1248" xpos="1266.92" ypos="60.5588" zpos="-779.202" type="legs.mapt.sp.dov" GUID="gcH0yxjPukmCL3MrFqlpHQ=="/>
+        <POI MapID="1248" xpos="1453.44" ypos="141.599" zpos="-767.318" type="legs.mapt.sp.dov" GUID="zGarIRpq1EavOSgSJHwEiw=="/>
+        <POI MapID="1248" xpos="1412.53" ypos="107.603" zpos="-709.342" type="legs.mapt.sp.dov" GUID="J6R6VRqRYUCqJns2xxuCmg=="/>
+        <POI MapID="1248" xpos="1315.7" ypos="94.3052" zpos="-779.832" type="legs.mapt.sp.dov" GUID="Tv6AidQEqk6LanQBXWSkWA=="/>
+        <POI MapID="1248" xpos="1322.27" ypos="90.6263" zpos="-634.312" type="legs.mapt.sp.dov" GUID="XAzw/ueCIkKUxZri3L+x1g=="/>
+        <POI MapID="1248" xpos="1201.49" ypos="54.7989" zpos="-573.217" type="legs.mapt.sp.dov" GUID="VcVXoDgcF0OC4/ivGTvS5w=="/>
+        <POI MapID="1248" xpos="1117.62" ypos="41.8239" zpos="-601.323" type="legs.mapt.sp.dov" GUID="30R2VrCDAUeiekVc22uKRg=="/>
+        <Trail type="legs.mapt.sp.dov.bi" trailData="Data/LadyElyssa/Map Traversal/PoF/DoV Hanging Gardens Sand Portals.trl"/>
+
+        <Trail type="legs.mapt.sp.istan.bi" trailData="Data/LadyElyssa/Map Traversal/LWS4/Sand Portals - Istan.trl"/>
+        <POI MapID="1263" xpos="16.2221" ypos="209.357" zpos="39.3175" type="legs.mapt.sp.istan" GUID="5ssoNSE3xUK3iUBMGiZYQg=="/>
+        <POI MapID="1263" xpos="-65.4823" ypos="218.452" zpos="67.4481" type="legs.mapt.sp.istan" GUID="+rKs693cRkywXdNEfCJxSg=="/>
+        <POI MapID="1263" xpos="-76.4718" ypos="217.778" zpos="0.502007" type="legs.mapt.sp.istan" GUID="t7c0EiXjXke78tcOP/EaNw=="/>
+        <POI MapID="1263" xpos="-48.7634" ypos="210.058" zpos="-114.738" type="legs.mapt.sp.istan" GUID="2gNnm3XpnU+a1s0swYIPlA=="/>
+        <POI MapID="1263" xpos="-174.079" ypos="217.557" zpos="-82.7899" type="legs.mapt.sp.istan" GUID="n9QsX4U98kquyI2yF4UxAQ=="/>
+        <POI MapID="1263" xpos="-249.751" ypos="216.456" zpos="56.5011" type="legs.mapt.sp.istan" GUID="FaKlNb0mA0OrWGGW56F0tQ=="/>
+        <POI MapID="1263" xpos="43.3745" ypos="179.961" zpos="-84.3856" type="legs.mapt.sp.istan" GUID="exoMqt468kqJJGz7fwCZHg=="/>
+        <POI MapID="1263" xpos="4.33865" ypos="221.582" zpos="-241.326" type="legs.mapt.sp.istan" GUID="w3NIKH8KsE6ftUaqeqMBaw=="/>
+        <POI MapID="1263" xpos="80.2409" ypos="230.727" zpos="-334.469" type="legs.mapt.sp.istan" GUID="z6Qy1zvk8EmdutKC/Lc2rQ=="/>
+        <POI MapID="1263" xpos="221.717" ypos="243.525" zpos="-468.27" type="legs.mapt.sp.istan" GUID="7fNTYsmlfkiC3YPVT+lPxQ=="/>
+        <POI MapID="1263" xpos="307.873" ypos="197.723" zpos="-520.449" type="legs.mapt.sp.istan" GUID="o4mpcke3iEmFcXUio4hE7w=="/>
+        <POI MapID="1263" xpos="213.877" ypos="174.759" zpos="-245.074" type="legs.mapt.sp.istan" GUID="uvdvWfBNTUCm6g9vnVYDIQ=="/>
+        <POI MapID="1263" xpos="114.612" ypos="243.644" zpos="-232.474" type="legs.mapt.sp.istan" GUID="dimiBuhHEUCYlS0cfDfvlQ=="/>
+        <POI MapID="1263" xpos="-22.3213" ypos="181.765" zpos="-175.422" type="legs.mapt.sp.istan" GUID="zzgYOdOWWkWflpxf+In/Dw=="/>
+        <!-- Sandswept Isles -->
+        <Trail type="legs.mapt.sp.sandswept.bi" trailData="Data/LadyElyssa/Map Traversal/LWS4/Sand Portals - Sandswept Isles.trl" color="E1C148"/>
+        <POI MapID="1271" xpos="-20.5289" ypos="138.423" zpos="869.343" type="legs.mapt.sp.sandswept" GUID="aMze0IH9ykWXkoLAo2YTeg=="/>
+        <POI MapID="1271" xpos="73.2474" ypos="159.125" zpos="119.74" type="legs.mapt.sp.sandswept" GUID="R1qQPyVd60iEg+yC3vQm5A=="/>
+        <POI MapID="1271" xpos="95.4501" ypos="81.0537" zpos="142.786" type="legs.mapt.sp.sandswept" GUID="1iCF6RGHokuYjDiehJGAtg=="/>
+        <POI MapID="1271" xpos="85.6641" ypos="28.1012" zpos="452.441" type="legs.mapt.sp.sandswept" GUID="5lSn4C02Fky6BMcW9UMpaA=="/>
+        <POI MapID="1271" xpos="334.295" ypos="29.3201" zpos="521.573" type="legs.mapt.sp.sandswept" GUID="Tv6Bd1BRekq7PtGbCSLNSA=="/>
+        <POI MapID="1271" xpos="393.147" ypos="37.9044" zpos="412.94" type="legs.mapt.sp.sandswept" GUID="FnWXHAVmGEG5P+GPQlX8gQ=="/>
+        <POI MapID="1271" xpos="376.336" ypos="31.7251" zpos="326.183" type="legs.mapt.sp.sandswept" GUID="q+sSCiNEJUmWvsx0CDYZVw=="/>
+        <POI MapID="1271" xpos="568.919" ypos="36.7483" zpos="-139.023" type="legs.mapt.sp.sandswept" GUID="joSakmki/kSppW9ez9ryMA=="/>
+        <POI MapID="1271" xpos="436.986" ypos="52.9955" zpos="-432.382" type="legs.mapt.sp.sandswept" GUID="rAFefyKw40SVSSP4+ovveA=="/>
+        <POI MapID="1271" xpos="660.097" ypos="41.1542" zpos="-623.877" type="legs.mapt.sp.sandswept" GUID="JYKBR4/uu0Gtzl5hpswvZg=="/>
+        <POI MapID="1271" xpos="-67.3606" ypos="30.3451" zpos="-576.664" type="legs.mapt.sp.sandswept" GUID="NyaG9XdQgkajGazNrjtelQ=="/>
+        <POI MapID="1271" xpos="135.492" ypos="97.5369" zpos="-444.916" type="legs.mapt.sp.sandswept" GUID="RbzR6aCscUya+k1tNqVmfg=="/>
+        <POI MapID="1271" xpos="-244.985" ypos="142.075" zpos="-328.664" type="legs.mapt.sp.sandswept" GUID="x6slAMyIDkq1ytlereL3wQ=="/>
+        <POI MapID="1271" xpos="-164.497" ypos="50.197" zpos="140.986" type="legs.mapt.sp.sandswept" GUID="hDk7j7tZTU6SGnz9hubIyw=="/>
+        <POI MapID="1271" xpos="-434.867" ypos="135.559" zpos="-287.864" type="legs.mapt.sp.sandswept" GUID="8//cFoLrcU+gj1sOyShWIg=="/>
+        <POI MapID="1271" xpos="-397.754" ypos="105.109" zpos="-90.8583" type="legs.mapt.sp.sandswept" GUID="qABt+W3a4kibDg0BmjTwmQ=="/>
+        <POI MapID="1271" xpos="-544.274" ypos="1.75729" zpos="225.118" type="legs.mapt.sp.sandswept" GUID="rmLJjA3fEEm86+yX1A6/9w=="/>
+        <POI MapID="1271" xpos="-471.543" ypos="33.8127" zpos="708.374" type="legs.mapt.sp.sandswept" GUID="Fb4JnMZkbkWPym+DKJBm8A=="/>
+        <POI MapID="1271" xpos="-217.797" ypos="-0.210306" zpos="507.616" type="legs.mapt.sp.sandswept" GUID="ezHz7yp4tki/GB0HzvbbLQ=="/>
+        <POI MapID="1271" xpos="-231.68" ypos="-0.0434856" zpos="319.574" type="legs.mapt.sp.sandswept" GUID="dTjTfYoaMkS4UB1Byt2teA=="/>
+        
+        <!-- Domain of Kourna -->
+        <Trail type="legs.mapt.sp.kourna.bi" trailData="Data/LadyElyssa/Map Traversal/LWS4/Sand Portals - Kourna.trl"/>
+        <POI MapID="1288" xpos="-298.481" ypos="54.0994" zpos="379.764" type="legs.mapt.sp.kourna" GUID="VmPO1y9EmEyduCNgNVVVXQ=="/>
+        <POI MapID="1288" xpos="-132.61" ypos="31.8684" zpos="335.506" type="legs.mapt.sp.kourna" GUID="gPljoBo2nU66j88eXr0cgw=="/>
+        <POI MapID="1288" xpos="-1.94881" ypos="1.35639" zpos="171.878" type="legs.mapt.sp.kourna" GUID="suEekp1JNk6yq312iEvi/w=="/>
+        <POI MapID="1288" xpos="90.0984" ypos="-0.690254" zpos="-52.7851" type="legs.mapt.sp.kourna" GUID="85C7ZMnV9kKf8pBEGJiTRw=="/>
+        <POI MapID="1288" xpos="-724.495" ypos="68.4163" zpos="939.65" type="legs.mapt.sp.kourna" GUID="Rs7RYjiP3UeMtgSGOy6MUQ=="/>
+        <POI MapID="1288" xpos="-773.439" ypos="34.957" zpos="988.544" type="legs.mapt.sp.kourna" GUID="rq8qQcocKU+FYh/jBsFQPQ=="/>
+        <!-- Jahai Bluffs -->
+        <Trail type="legs.mapt.sp.jahai.bi" trailData="Data/LadyElyssa/Map Traversal/LWS4/Sand Portals - Jahai Bluffs.trl"/>
+        <POI MapID="1301" xpos="916.123" ypos="124.468" zpos="370.675" type="legs.mapt.sp.jahai" GUID="x98GtsdJ8Uyw+dp5vOQG5w=="/>
+        <POI MapID="1301" xpos="866.941" ypos="220.004" zpos="331.174" type="legs.mapt.sp.jahai" GUID="FgRKNgrWfUCSvXrpnpLD9g=="/>
+        <POI MapID="1301" xpos="783.08" ypos="3.05264" zpos="-152.615" type="legs.mapt.sp.jahai" GUID="pfEWKz1mcECNEvmIs8dW1A=="/>
+        <POI MapID="1301" xpos="833.325" ypos="132.682" zpos="-101.016" type="legs.mapt.sp.jahai" GUID="KFWWwb2+ZEilmJFeWzxb6A=="/>
+        <POI MapID="1301" xpos="480.163" ypos="55.0006" zpos="-649.001" type="legs.mapt.sp.jahai" GUID="ROVKcDBJPk+MK9fzjFx7MA=="/>
+        <POI MapID="1301" xpos="330.186" ypos="63.348" zpos="-661.383" type="legs.mapt.sp.jahai" GUID="H9rThTVpVkCeBnCmnMIeRg=="/>
+        <POI MapID="1301" xpos="-188.355" ypos="49.8213" zpos="-514.067" type="legs.mapt.sp.jahai" GUID="WxmOEdnJqUGHKoS0UlTurw=="/>
+        <POI MapID="1301" xpos="-170.706" ypos="103.132" zpos="-574.017" type="legs.mapt.sp.jahai" GUID="OfkmZivaIEiIGbpFoVMhOQ=="/>
+        <POI MapID="1301" xpos="-316.882" ypos="55.7249" zpos="-51.4256" type="legs.mapt.sp.jahai" GUID="icK6SOn1PEa1+B4VHEUpfg=="/>
+        <POI MapID="1301" xpos="-438.704" ypos="120.099" zpos="-20.6602" type="legs.mapt.sp.jahai" GUID="LAhy0pb6SUyNITBeVAj5yw=="/>
+        <POI MapID="1301" xpos="-421.291" ypos="76.9737" zpos="596.878" type="legs.mapt.sp.jahai" GUID="zrN3ZZM6OE2M6z16jTdamQ=="/>
+        <POI MapID="1301" xpos="-62.7261" ypos="95.1029" zpos="585.333" type="legs.mapt.sp.jahai" GUID="30VV/pdQXEiRH79gO1/u+A=="/>
+        <!-- Dragonfall -->
+        <Trail type="legs.mapt.sp.dragonfall.bi" trailData="Data/LadyElyssa/Map Traversal/LWS4/Sand Portals - Dragonfall.trl"/>
+        <POI MapID="1317" xpos="253.207" ypos="123.17" zpos="-532.746" type="legs.mapt.sp.dragonfall" GUID="8i8ZTpjvFkCbbXM6Vj3Ycw=="/>
+        <POI MapID="1317" xpos="294.488" ypos="0.239051" zpos="-542.275" type="legs.mapt.sp.dragonfall" GUID="lAlFZU4qokmQ5PKQ9siDvQ=="/>
+        <POI MapID="1317" xpos="374.519" ypos="211.744" zpos="21.3707" type="legs.mapt.sp.dragonfall" GUID="WQFN02Q7M0SPoGoY7nj+cg=="/>
+        <POI MapID="1317" xpos="332.838" ypos="316.328" zpos="5.69865" type="legs.mapt.sp.dragonfall" GUID="nglwL7CqDkaihwt9N16f4Q=="/>
+        <POI MapID="1317" xpos="-681.664" ypos="132.862" zpos="551.097" type="legs.mapt.sp.dragonfall" GUID="O2uVhAVxj0afkNQlfyMrSA=="/>
+        <POI MapID="1317" xpos="-665.327" ypos="216.941" zpos="563.208" type="legs.mapt.sp.dragonfall" GUID="FgwQa4y6rEGgQy2Z9BZZKg=="/>
+        <POI MapID="1317" xpos="-589.628" ypos="276.459" zpos="287.333" type="legs.mapt.sp.dragonfall" GUID="q0/5XXXhZEStyH8+G6pIsA=="/>
+        <POI MapID="1317" xpos="-608.905" ypos="194.812" zpos="300.499" type="legs.mapt.sp.dragonfall" GUID="kTgVsbbvx0iSq/qA3J0vOw=="/>
+        <POI MapID="1317" xpos="-960.522" ypos="217.698" zpos="339.818" type="legs.mapt.sp.dragonfall" GUID="3KQ3U2vBwUiQZs/I9Y9bMg=="/>
+        <POI MapID="1317" xpos="-945.159" ypos="154.32" zpos="312.734" type="legs.mapt.sp.dragonfall" GUID="th5xGPFM/UmyP2gRREybXA=="/>
+        <POI MapID="1317" xpos="-339.207" ypos="150.581" zpos="432.362" type="legs.mapt.sp.dragonfall" GUID="3wS+WgNPxUq3rkj0ZgjfAQ=="/>
+        <POI MapID="1317" xpos="-337.479" ypos="194.158" zpos="420.06" type="legs.mapt.sp.dragonfall" GUID="0KYuxzKhH0K+Ko1+Th3Kig=="/>
+        <POI MapID="1317" xpos="-256.631" ypos="147.748" zpos="499.452" type="legs.mapt.sp.dragonfall" GUID="yFU8D9pjtUaMH287NdHPrQ=="/>
+        <POI MapID="1317" xpos="-251.202" ypos="193.064" zpos="511.546" type="legs.mapt.sp.dragonfall" GUID="ms/3LypfLE20wR1ZmMN2lQ=="/>
+        <POI MapID="1317" xpos="-109.938" ypos="137.747" zpos="620.544" type="legs.mapt.sp.dragonfall" GUID="+4Xwc/siZUK0MTwN2yRl4A=="/>
+        <POI MapID="1317" xpos="-114.656" ypos="187.337" zpos="655.582" type="legs.mapt.sp.dragonfall" GUID="3bfBS43+VEOQNSIYP4KTRA=="/>
+        <POI MapID="1317" xpos="-465.752" ypos="146.232" zpos="-29.3323" type="legs.mapt.sp.dragonfall" GUID="V/N8BJ1rhE6kqL3sSV+amQ=="/>
+        <POI MapID="1317" xpos="-416.699" ypos="261.794" zpos="1.29156" type="legs.mapt.sp.dragonfall" GUID="Ar1dS0sleEy9YonMCjmEig=="/>
+        <POI MapID="1317" xpos="-843.735" ypos="171.597" zpos="-121.625" type="legs.mapt.sp.dragonfall" GUID="VJhVdz2hdU+BXHRo3iiuow=="/>
+        <POI MapID="1317" xpos="-839.763" ypos="116.382" zpos="-134.741" type="legs.mapt.sp.dragonfall" GUID="rXn99+ujkki5P+s8GXp5jg=="/>
+        <POI MapID="1317" xpos="-883.929" ypos="107.668" zpos="-203.369" type="legs.mapt.sp.dragonfall" GUID="JUG2wG9HoEi8kHKpErqyBA=="/>
+        <POI MapID="1317" xpos="-903.321" ypos="0.236887" zpos="-199.561" type="legs.mapt.sp.dragonfall" GUID="wCJTRLS8bU+ba2W0c0jNVA=="/>
+        <POI MapID="1317" xpos="-437.377" ypos="148.555" zpos="-686.756" type="legs.mapt.sp.dragonfall" GUID="5fmYJMn0ZU+2LdP1LSOIXQ=="/>
+        <POI MapID="1317" xpos="-459.646" ypos="68.7325" zpos="-702.393" type="legs.mapt.sp.dragonfall" GUID="5Zm0oVge3U2B1a8WSXzZHw=="/>
+        <POI MapID="1317" xpos="-348.559" ypos="81.3429" zpos="-753.82" type="legs.mapt.sp.dragonfall" GUID="DomcMOI9H0KRVSpuTxRqqQ=="/>
+        <POI MapID="1317" xpos="-342.651" ypos="0.365239" zpos="-769.788" type="legs.mapt.sp.dragonfall" GUID="OOqAO9EXs0ymCxrW0kO13w=="/>
+        
         <!-- END OF DRAGONS -->
         <!--- Seitung Province -->
+
         <!-- Zip Lines -->
-        <Trail type="legs.eodmaptraversal.zip.bi" trailData="Data/LadyElyssa/EoD/Seitung Province/ZiplineB.trl"/>
-        <Trail type="legs.eodmaptraversal.zip.uni" trailData="Data/LadyElyssa/EoD/Seitung Province/ZiplineU.trl"/>
-        <!-- Jade Tech Launch Pads -->
-        <Trail type="legs.eodmaptraversal.lp" trailData="Data/LadyElyssa/EoD/Seitung Province/Launch Pads.trl"/>
-        <POI MapID="1442" xpos="574.025" ypos="1.58174" zpos="423.635" type="legs.eodmaptraversal.lp.marker" GUID="mWWH/3kFc0y6btDQ5TagoA=="/>
-        <POI MapID="1442" xpos="585.68" ypos="21.3391" zpos="458.262" type="legs.eodmaptraversal.lp.marker" GUID="GP6PIPux8E6d9dJGDBnvSg=="/>
-        <POI MapID="1442" xpos="539.575" ypos="70.963" zpos="564.571" type="legs.eodmaptraversal.lp.marker" GUID="HEvK/5PD1kWaAFD8aaK1pA=="/>
-        <POI MapID="1442" xpos="85.8018" ypos="54.5361" zpos="478.273" type="legs.eodmaptraversal.lp.marker" GUID="5aZFYFmgAU+gBk2JYAsC6A=="/>
-        <POI MapID="1442" xpos="87.7019" ypos="58.7637" zpos="500.403" type="legs.eodmaptraversal.lp.marker" GUID="msz9P+fmZki0hlGmI312fw=="/>
-        <POI MapID="1442" xpos="108.836" ypos="54.5361" zpos="501.013" type="legs.eodmaptraversal.lp.marker" GUID="7X5dl93gPkyEH8dGTLiskw=="/>
-        <POI MapID="1442" xpos="590.89" ypos="78.5151" zpos="501.539" type="legs.eodmaptraversal.lp.marker" GUID="M4z+9XNdIkmdaW76/FttVw=="/>
-        <POI MapID="1442" xpos="-302.169" ypos="55.0841" zpos="576.775" type="legs.eodmaptraversal.lp.marker" GUID="vHm9eOqfBEC3aTuMC/qCaQ=="/>
-        <POI MapID="1442" xpos="-337.482" ypos="43.4855" zpos="513.245" type="legs.eodmaptraversal.lp.marker" GUID="Nqrd88VqLUeT3Cd0VIK4rw=="/>
-        <POI MapID="1442" xpos="-417.848" ypos="71.2161" zpos="385.462" type="legs.eodmaptraversal.lp.marker" GUID="6ybpj9KJ7UquLLoBHJPRXA=="/>
-        <!-- Jade Tech Teleporters -->
-        <Trail type="legs.eodmaptraversal.jtt" trailData="Data/LadyElyssa/EoD/Seitung Province/Jade Tech Teleporters.trl"/>
-        <POI MapID="1442" xpos="313.077" ypos="153.847" zpos="115.82" type="legs.eodmaptraversal.jtt.marker" GUID="5cNZ3aFJMEqwnzx8qHafqg=="/>
-        <POI MapID="1442" xpos="326.82" ypos="78.2654" zpos="115.758" type="legs.eodmaptraversal.jtt.marker" GUID="E4kKmj6960SH7q1L1xlIwQ=="/>
-        <POI MapID="1442" xpos="350.376" ypos="77.5539" zpos="265.72" type="legs.eodmaptraversal.jtt.marker" GUID="oUcbsLn7KkayqU6fvxCxrg=="/>
-        <POI MapID="1442" xpos="558.183" ypos="4.11451" zpos="343.017" type="legs.eodmaptraversal.jtt.marker" GUID="oVBTbpuboUSq4bpjqxPPxg=="/>
-        <POI MapID="1442" xpos="-777.129" ypos="8.14861" zpos="588.39" type="legs.eodmaptraversal.jtt.marker" GUID="sa9AJC4+TEmuFE/RbQNa7g=="/>
-        <POI MapID="1442" xpos="-776.654" ypos="83.9665" zpos="588.316" type="legs.eodmaptraversal.jtt.marker" GUID="rXhv/8UfUUyiqxySwsLxmw=="/>
-        <POI MapID="1442" xpos="-720.734" ypos="36.8138" zpos="295.932" type="legs.eodmaptraversal.jtt.marker" GUID="lQoMkmslxEiq0+DJ2qASaA=="/>
-        <POI MapID="1442" xpos="-720.495" ypos="117.739" zpos="296.169" type="legs.eodmaptraversal.jtt.marker" GUID="/BIzsIF/k0WW17rtb9cAYQ=="/>
-        <POI MapID="1442" xpos="327.347" ypos="154.733" zpos="115.481" type="legs.eodmaptraversal.jtt.marker" GUID="oft8FS1Tq0u+pIu/I+nsOA=="/>
-        <POI MapID="1442" xpos="-618.251" ypos="4.68161" zpos="539.754" type="legs.eodmaptraversal.jtt.marker" GUID="C+DwqN0E5k+FWXEkRycp7g=="/>
-        <POI MapID="1442" xpos="-661.681" ypos="30.531" zpos="604.765" type="legs.eodmaptraversal.jtt.marker" GUID="zLpeloJCKkaC8n9cgf9Xyg=="/>
+        <Trail type="legs.mapt.zip.sp.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Seitung Province/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.sp.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Seitung Province/ZiplineU.trl"/>
+
         <!--  New Kaineng City -->
-        <!-- Zip Lines -->
-        <Trail type="legs.eodmaptraversal.zip.bi" trailData="Data/LadyElyssa/EoD/Kaineng City/ZiplineB.trl"/>
-        <Trail type="legs.eodmaptraversal.zip.uni" trailData="Data/LadyElyssa/EoD/Kaineng City/ZiplineU.trl"/>
+        <Trail type="legs.mapt.zip.nkc.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Kaineng City/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.nkc.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Kaineng City/ZiplineU.trl"/>
+
         <!-- Jade Tech Teleporters -->
-        <POI MapID="1438" xpos="-658.212" ypos="154.479" zpos="101.08" type="legs.eodmaptraversal.jtt.marker" GUID="W0e1grC6y0W1AoJqZ48bjA=="/>
-        <POI MapID="1438" xpos="-220.431" ypos="107.423" zpos="676.36" type="legs.eodmaptraversal.jtt.marker" GUID="QnCLCnXo/0WHqvKBqlJt/A=="/>
-        <POI MapID="1438" xpos="-312.985" ypos="121.176" zpos="-360.681" type="legs.eodmaptraversal.jtt.marker" GUID="zdZia5TkEUac0KhhYkz13w=="/>
-        <POI MapID="1438" xpos="548.441" ypos="3.68552" zpos="-88.9344" type="legs.eodmaptraversal.jtt.marker" GUID="ik3ZCAeXX06TyR0NQ8LVCg=="/>
-        <POI MapID="1438" xpos="852.142" ypos="92.615" zpos="-244.289" type="legs.eodmaptraversal.jtt.marker" GUID="1vXIGmiHPUaRDiheQHvZPA=="/>
-        <POI MapID="1438" xpos="-20.881" ypos="20.6072" zpos="-70.6871" type="legs.eodmaptraversal.jtt.marker" GUID="rYEvQC6qPEqlbulgHLI1zA=="/>
-        <POI MapID="1438" xpos="193.778" ypos="199.321" zpos="84.3091" type="legs.eodmaptraversal.jtt.marker" GUID="xJ6zGlixqk+ScHUep4/wow=="/>
-        <POI MapID="1438" xpos="-220.224" ypos="3.97038" zpos="676.412" type="legs.eodmaptraversal.jtt.marker" GUID="iruLOo2zWEKu46/9Xyl7yg=="/>
-        <POI MapID="1438" xpos="-675.423" ypos="198.879" zpos="-211.24" type="legs.eodmaptraversal.jtt.marker" GUID="kt4B3awRGUWw4hRlvLeZDg=="/>
-        <POI MapID="1438" xpos="-356.349" ypos="121.074" zpos="340.166" type="legs.eodmaptraversal.jtt.marker" GUID="pO4oyqtEAECdgLjHnadE6g=="/>
-        <POI MapID="1438" xpos="87.0135" ypos="3.68663" zpos="641.461" type="legs.eodmaptraversal.jtt.marker" GUID="jf0WxQ14CEKazUos6o6rAA=="/>
-        <POI MapID="1438" xpos="-701.207" ypos="199.006" zpos="212.534" type="legs.eodmaptraversal.jtt.marker" GUID="aPbzNBMbBEuoy/hKzpBung=="/>
-        <POI MapID="1438" xpos="582.433" ypos="110.868" zpos="632.248" type="legs.eodmaptraversal.jtt.marker" GUID="8YIajqQC10GVw27JWEWbLg=="/>
-        <POI MapID="1438" xpos="-483.715" ypos="1.82029" zpos="-78.5743" type="legs.eodmaptraversal.jtt.marker" GUID="R/v67wrSV0e/Ug3GpDyEmA=="/>
-        <POI MapID="1438" xpos="-480.601" ypos="1.71903" zpos="79.2474" type="legs.eodmaptraversal.jtt.marker" GUID="H+Y+X80pU0+4T3IEHi4vaw=="/>
-        <POI MapID="1438" xpos="-658.28" ypos="154.479" zpos="-98.4496" type="legs.eodmaptraversal.jtt.marker" GUID="lTdf3f2vAkqId4XtpYLooQ=="/>
+
         <!-- Arborstone -->
         <!-- Zip Lines -->
-        <Trail type="legs.eodmaptraversal.zip.bi" trailData="Data/LadyElyssa/EoD/Arborstone/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.arb.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Arborstone/ZiplineB.trl"/>
+
         <!-- Jade Tech Teleporters -->
-        <Trail type="legs.eodmaptraversal.jtt" trailData="Data/LadyElyssa/EoD/Arborstone/Jade Tech Teleporters.trl"/>
-        <POI MapID="1428" xpos="-710.577" ypos="96.5653" zpos="448.334" type="legs.eodmaptraversal.jtt.marker" GUID="W0ESC0yD1E+VlLYj/1dkqw=="/>
-        <POI MapID="1428" xpos="-668.926" ypos="138.525" zpos="452.436" type="legs.eodmaptraversal.jtt.marker" GUID="YUx8EmlC1kqOeA7ypyrfPA=="/>
-        <POI MapID="1428" xpos="-679.896" ypos="96.5272" zpos="443.388" type="legs.eodmaptraversal.jtt.marker" GUID="uLxMIdEaZ0+tkAzRbxeAaQ=="/>
-        <POI MapID="1428" xpos="-744.176" ypos="96.5653" zpos="414.658" type="legs.eodmaptraversal.jtt.marker" GUID="siwos5dyrkKXVW23jiheUw=="/>
-        <POI MapID="1428" xpos="-775.154" ypos="12.1387" zpos="405.784" type="legs.eodmaptraversal.jtt.marker" GUID="Yc2viQth5UGkr4XJAQrrAA=="/>
+        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Arborstone/Jade Tech Teleporters.trl"/>
+        <POI MapID="1428" xpos="-710.577" ypos="96.5653" zpos="448.334" type="legs.mapt.jtt.marker" GUID="W0ESC0yD1E+VlLYj/1dkqw=="/>
+        <POI MapID="1428" xpos="-668.926" ypos="138.525" zpos="452.436" type="legs.mapt.jtt.marker" GUID="YUx8EmlC1kqOeA7ypyrfPA=="/>
+        <POI MapID="1428" xpos="-679.896" ypos="96.5272" zpos="443.388" type="legs.mapt.jtt.marker" GUID="uLxMIdEaZ0+tkAzRbxeAaQ=="/>
+        <POI MapID="1428" xpos="-744.176" ypos="96.5653" zpos="414.658" type="legs.mapt.jtt.marker" GUID="siwos5dyrkKXVW23jiheUw=="/>
+        <POI MapID="1428" xpos="-775.154" ypos="12.1387" zpos="405.784" type="legs.mapt.jtt.marker" GUID="Yc2viQth5UGkr4XJAQrrAA=="/>
         <!--  The Echovald Wilds -->
         <!-- Zip Lines -->
-        <Trail type="legs.eodmaptraversal.zip.bi" trailData="Data/LadyElyssa/EoD/Echovald Wilds/ZiplineB.trl"/>
-        <Trail type="legs.eodmaptraversal.zip.uni" trailData="Data/LadyElyssa/EoD/Echovald Wilds/ZiplineU.trl"/>
+        <Trail type="legs.mapt.zip.tew.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.tew.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/ZiplineU.trl"/>
         <!-- Jade Tech Teleporters -->
-        <Trail type="legs.eodmaptraversal.jtt" trailData="Data/LadyElyssa/EoD/Echovald Wilds/Jade Tech Teleporters.trl"/>
-        <POI MapID="1452" xpos="-403.75" ypos="144.021" zpos="-389.66" type="legs.eodmaptraversal.jtt.marker" GUID="rBjFjk8zE0SQ+CvwxWy/6w=="/>
-        <POI MapID="1452" xpos="261.395" ypos="195.696" zpos="-284.666" type="legs.eodmaptraversal.jtt.marker" GUID="sa/QiEMB5UqrOpoFB/8yqA=="/>
-        <POI MapID="1452" xpos="283.596" ypos="137.613" zpos="-253.134" type="legs.eodmaptraversal.jtt.marker" GUID="k7pMSGLL1UCIjxV/HP2JdQ=="/>
-        <POI MapID="1452" xpos="99.8617" ypos="171.48" zpos="608.429" type="legs.eodmaptraversal.jtt.marker" GUID="1fYHROOyjU6HFyZwxIxBYw=="/>
-        <POI MapID="1452" xpos="31.8777" ypos="216.217" zpos="692.493" type="legs.eodmaptraversal.jtt.marker" GUID="ZIRzBh1uKU6A9Y0zW8qlRA=="/>
-        <POI MapID="1452" xpos="96.0184" ypos="228.912" zpos="569.606" type="legs.eodmaptraversal.jtt.marker" GUID="d2hIaOpdGEWkzG5BaypdPQ=="/>
-        <POI MapID="1452" xpos="124.356" ypos="216.181" zpos="626.73" type="legs.eodmaptraversal.jtt.marker" GUID="vYDmRLyUXEWYWLC1xbUu+w=="/>
-        <POI MapID="1452" xpos="58.5056" ypos="273.719" zpos="684.782" type="legs.eodmaptraversal.jtt.marker" GUID="MFQdtECfy0+AZHbbIefbeg=="/>
-        <POI MapID="1452" xpos="-412.553" ypos="144.008" zpos="-383.137" type="legs.eodmaptraversal.jtt.marker" GUID="i/IY1lTSt0egFMTFeMh7iw=="/>
+        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/Jade Tech Teleporters.trl"/>
+        <POI MapID="1452" xpos="-403.75" ypos="144.021" zpos="-389.66" type="legs.mapt.jtt.marker" GUID="rBjFjk8zE0SQ+CvwxWy/6w=="/>
+        <POI MapID="1452" xpos="261.395" ypos="195.696" zpos="-284.666" type="legs.mapt.jtt.marker" GUID="sa/QiEMB5UqrOpoFB/8yqA=="/>
+        <POI MapID="1452" xpos="283.596" ypos="137.613" zpos="-253.134" type="legs.mapt.jtt.marker" GUID="k7pMSGLL1UCIjxV/HP2JdQ=="/>
+        <POI MapID="1452" xpos="99.8617" ypos="171.48" zpos="608.429" type="legs.mapt.jtt.marker" GUID="1fYHROOyjU6HFyZwxIxBYw=="/>
+        <POI MapID="1452" xpos="31.8777" ypos="216.217" zpos="692.493" type="legs.mapt.jtt.marker" GUID="ZIRzBh1uKU6A9Y0zW8qlRA=="/>
+        <POI MapID="1452" xpos="96.0184" ypos="228.912" zpos="569.606" type="legs.mapt.jtt.marker" GUID="d2hIaOpdGEWkzG5BaypdPQ=="/>
+        <POI MapID="1452" xpos="124.356" ypos="216.181" zpos="626.73" type="legs.mapt.jtt.marker" GUID="vYDmRLyUXEWYWLC1xbUu+w=="/>
+        <POI MapID="1452" xpos="58.5056" ypos="273.719" zpos="684.782" type="legs.mapt.jtt.marker" GUID="MFQdtECfy0+AZHbbIefbeg=="/>
+        <POI MapID="1452" xpos="-412.553" ypos="144.008" zpos="-383.137" type="legs.mapt.jtt.marker" GUID="i/IY1lTSt0egFMTFeMh7iw=="/>
+        
+
         <!-- Jade Tech Teleporters -->
+        
         <!--  Dragon's End -->
         <!-- Zip Lines -->
-        <Trail type="legs.eodmaptraversal.zip.bi" trailData="Data/LadyElyssa/EoD/Dragon's End/ZiplineB.trl"/>
-        <Trail type="legs.eodmaptraversal.zip.uni" trailData="Data/LadyElyssa/EoD/Dragon's End/ZiplineU.trl"/>
+        <Trail type="legs.mapt.zip.de.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.de.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/ZiplineU.trl"/>
         <!-- Jade Tech Teleporters -->
-        <Trail type="legs.eodmaptraversal.jtt" trailData="Data/LadyElyssa/EoD/Dragon's End/Jade Tech Teleporters.trl"/>
-        <POI MapID="1422" xpos="-85.9444" ypos="53.62" zpos="532.783" type="legs.eodmaptraversal.jtt.marker" GUID="BoKooI7m90SpfxAfTA8yMQ=="/>
-        <POI MapID="1422" xpos="48.2121" ypos="34.6032" zpos="537.334" type="legs.eodmaptraversal.jtt.marker" GUID="fd7Ek+Ofn0+MifbjGYBgew=="/>
-        <POI MapID="1422" xpos="-363.885" ypos="155.807" zpos="635.55" type="legs.eodmaptraversal.jtt.marker" GUID="cgcggwQGIEqz1eOEnG+epw=="/>
-        <POI MapID="1422" xpos="475.041" ypos="61.817" zpos="526.815" type="legs.eodmaptraversal.jtt.marker" GUID="lqECfd4p80OBcKVURdSlTA=="/>
-        <POI MapID="1452" xpos="-278.79" ypos="214.352" zpos="346.633" type="legs.eodmaptraversal.jtt.marker" GUID="7q4YlS6OJ0aFWswctjKt7A=="/>
-        <POI MapID="1452" xpos="-279.924" ypos="216.862" zpos="300.541" type="legs.eodmaptraversal.jtt.marker" GUID="9B4ZGqEFtUewQ0MPtDSyrA=="/>
-        <POI MapID="1422" xpos="-318.662" ypos="1.28253" zpos="-1005.93" type="legs.eodmaptraversal.jtt.marker" GUID="KzDytHMbmEK2eVlppgP9ig=="/>
-        <POI MapID="1422" xpos="-410.048" ypos="164.868" zpos="-985.02" type="legs.eodmaptraversal.jtt.marker" GUID="fdQGSPtnv0aw3BZY2In7MA=="/>
-        <Trail type="legs.eodmaptraversal.ajtt" trailData="Data/LadyElyssa/EoD/Dragon's End/Ancient Teleporters.trl"/>
-        <POI MapID="1422" xpos="-58.9244" ypos="12.3257" zpos="-756.764" type="legs.eodmaptraversal.ajtt.marker" GUID="ca0b3vfr3UWENuIITj86PQ=="/>
-        <POI MapID="1422" xpos="365.165" ypos="43.1813" zpos="-756.926" type="legs.eodmaptraversal.ajtt.marker" GUID="N7Tb7Tx9TUaYpETLWXpsvQ=="/>
-        <POI MapID="1422" xpos="292.378" ypos="11.4573" zpos="-768.985" type="legs.eodmaptraversal.ajtt.marker" GUID="0v/oXKN8JkG4C5vEoo/sFQ=="/>
-        <POI MapID="1422" xpos="215.199" ypos="11.4419" zpos="-822.821" type="legs.eodmaptraversal.ajtt.marker" GUID="Zivo5RdVUE2fOO+5jjUj0w=="/>
-        <POI MapID="1422" xpos="215.156" ypos="11.4381" zpos="-768.775" type="legs.eodmaptraversal.ajtt.marker" GUID="iYRsO/hKjUiEzeruVBIO8Q=="/>
-        <POI MapID="1422" xpos="215.168" ypos="11.3638" zpos="-689.459" type="legs.eodmaptraversal.ajtt.marker" GUID="Bp6H5h26LE+BKbVKrVXnFA=="/>
-        <POI MapID="1422" xpos="141.407" ypos="11.4438" zpos="-822.58" type="legs.eodmaptraversal.ajtt.marker" GUID="zRRe3rXnkkyCAY1tiPzJ3g=="/>
-        <POI MapID="1422" xpos="127.216" ypos="11.2673" zpos="-751.911" type="legs.eodmaptraversal.ajtt.marker" GUID="GHOP7OZedUKeqLQyKz4w6Q=="/>
-        <POI MapID="1422" xpos="133.527" ypos="11.1211" zpos="-688.939" type="legs.eodmaptraversal.ajtt.marker" GUID="L9MJDMgwNkq76D79D/w8Zw=="/>
-        <POI MapID="1422" xpos="50.6564" ypos="11.6429" zpos="-756.457" type="legs.eodmaptraversal.ajtt.marker" GUID="1Hs+iYW8MkOZbU9ERHy9qw=="/>
+        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/Jade Tech Teleporters.trl"/>
+        <POI MapID="1422" xpos="-85.9444" ypos="53.62" zpos="532.783" type="legs.mapt.jtt.marker" GUID="BoKooI7m90SpfxAfTA8yMQ=="/>
+        <POI MapID="1422" xpos="48.2121" ypos="34.6032" zpos="537.334" type="legs.mapt.jtt.marker" GUID="fd7Ek+Ofn0+MifbjGYBgew=="/>
+        <POI MapID="1422" xpos="-363.885" ypos="155.807" zpos="635.55" type="legs.mapt.jtt.marker" GUID="cgcggwQGIEqz1eOEnG+epw=="/>
+        <POI MapID="1422" xpos="475.041" ypos="61.817" zpos="526.815" type="legs.mapt.jtt.marker" GUID="lqECfd4p80OBcKVURdSlTA=="/>
+        <POI MapID="1452" xpos="-278.79" ypos="214.352" zpos="346.633" type="legs.mapt.jtt.marker" GUID="7q4YlS6OJ0aFWswctjKt7A=="/>
+        <POI MapID="1452" xpos="-279.924" ypos="216.862" zpos="300.541" type="legs.mapt.jtt.marker" GUID="9B4ZGqEFtUewQ0MPtDSyrA=="/>
+        <POI MapID="1422" xpos="-318.662" ypos="1.28253" zpos="-1005.93" type="legs.mapt.jtt.marker" GUID="KzDytHMbmEK2eVlppgP9ig=="/>
+        <POI MapID="1422" xpos="-410.048" ypos="164.868" zpos="-985.02" type="legs.mapt.jtt.marker" GUID="fdQGspnv0aw3BZY2In7MA=="/>
+        
+
         <!-- Gyala Delve -->
-        <Trail type="legs.eodmaptraversal.zip.bi" trailData="Data/LadyElyssa/EoD/Gyala Delve/ZiplineB.trl"/>
-        <Trail type="legs.eodmaptraversal.zip.bi" trailData="Data/LadyElyssa/EoD/Gyala Delve/Adventure - Silent Sands.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="CCCCCC"/>
+        <Trail type="legs.mapt.zip.gd.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Gyala Delve/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.gd.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Gyala Delve/Adventure - Silent Sands.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="CCCCCC"/>
         <!-- SotO - Skywatch Archipelago -->
         <!-- Zip Lines -->
-        <Trail type="legs.sotomaptraversal.zip.bi" trailData="Data/LadyElyssa/SotO/Skywatch/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.swa.bi" trailData="Data/LadyElyssa/Map Traversal/SotO/Skywatch/ZiplineB.trl"/>
     </POIs>
 </OverlayData>

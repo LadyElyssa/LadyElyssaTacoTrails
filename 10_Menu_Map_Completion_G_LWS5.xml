@@ -1,0 +1,32 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!-- MAP COMPLETION -->
+        <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10">
+            <MarkerCategory name="region" IsSeparator="1" DisplayName="MAP REGION"/>
+            <MarkerCategory name="lws5" DisplayName="LWS5: The Icebrood Saga">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="grothmar" DisplayName="Grothmar Valley">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="number" DisplayName="Trail Segment">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    </MarkerCategory>
+                    <!-- End Numbers -->
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <!-- End Gliders -->
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End -->
+        </MarkerCategory>
+        <!-- END LWS5 MAP COMPLETION -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

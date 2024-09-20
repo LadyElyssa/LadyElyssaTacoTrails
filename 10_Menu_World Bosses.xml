@@ -1,0 +1,143 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <MarkerCategory name="wb" DisplayName="World Bosses" alpha="1" mapVisibility="1" minSize="48" maxSize="84" miniMapVisibility="1">
+            <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" heightOffset="0"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" heightOffset="0"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" heightOffset="0"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" heightOffset="0"/>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" heightOffset="0"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                </MarkerCategory>
+                <!-- End Mounts -->
+            <MarkerCategory name="starterzones" DisplayName="STARTER ZONES" IsSeparator="1"/>
+            <MarkerCategory name="fe" DisplayName="Fire Elemental">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="metrica" DisplayName="Metrica Province" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="escort" DisplayName="Escort C.L.E.A.N. 5000"/>
+                <MarkerCategory name="defend" DisplayName="Defend C.L.E.A.N. 5000"/>
+                <MarkerCategory name="mck" DisplayName="   Matrix Cube Key" IsSeparator="1"/>
+                <MarkerCategory name="key" DisplayName="Key Locations" minSize="12" maxSize="16" mapDisplaySize="20" iconFile="Data/LadyElyssa/Images/Icons/MatrixCubeKey.png" alpha="0.75" behavior="4" resetLength="300" heightOffset="0.25"/>
+                <MarkerCategory name="earth" DisplayName="Earth Button" texture="Data/LadyElyssa/Images/Icons/MCK-Earth.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="fire" DisplayName="Fire Button" texture="Data/LadyElyssa/Images/Icons/MCK-Fire.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="ice" DisplayName="Ice Button" texture="Data/LadyElyssa/Images/Icons/MCK-Ice.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="water" DisplayName="Water Button" texture="Data/LadyElyssa/Images/Icons/MCK-Water.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400" color="66FFFF"/>
+            </MarkerCategory>
+            <MarkerCategory name="gjw" DisplayName="Great Jungle Wurm">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="growth" DisplayName="Destroy the Blighted Growths" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="grub" DisplayName="Kill the giant Blighted Grub" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="avatars" DisplayName="Destroy the Avatars of Blight" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="sb" DisplayName="Shadow Behemoth">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="queensdale" DisplayName="Queensdale" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="heartwoods" DisplayName="Drive back Underworld creatures at Heartwoods" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="monastery" DisplayName="Drive back Underworld creatures at the Monastery" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="foothills" DisplayName="Drive back Underworld creatures at Taminn Foothills" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="ssc" DisplayName="Svanir Shaman Chief">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="grawl" DisplayName="Protect Supplies from Grawl" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="protect" DisplayName="Protect Scholar Brogun" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="totem" DisplayName="Destroy the Dragon Totem" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="defeat" DisplayName="Defeat the Elite Guards" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="portals" DisplayName="Destroy the Corrupted Portals" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="standard" DisplayName="STANDARD" IsSeparator="1"/>
+            <MarkerCategory name="atc" DisplayName="Admiral Taidha Covington">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="cannons" DisplayName="Cannons (North West)" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="tower" DisplayName="Tower (South West)" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="gate" DisplayName="Destroy the Gate" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="coj" DisplayName="Claw of Jormag">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="crystals" DisplayName="Destroy the Crystals" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="12" maxSize="32" mapDisplaySize="25"/>
+                <MarkerCategory name="landing" DisplayName="Landing" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="igm2" DisplayName="Inquest Golem Mark II">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="containers" DisplayName="Disable the containers" iconFile="Data/LadyElyssa/Images/Icons/Event_Interact.png" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="mega" DisplayName="Megadestroyer">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="collectors" DisplayName="Stop the Inquests Collectors" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="defend" DisplayName="Defend the Advanced Arcaomnics Lab" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="slayn" DisplayName="Slay Destroyers on North side" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="slays" DisplayName="Slay Destroyers on South side" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="slayse" DisplayName="Slay Destroyers on South-East side" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="protect" DisplayName="Protect the Asura" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="mu" DisplayName="Modnir Ulgoth">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="forward" DisplayName="Take the Centaurs forward camp" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="bridgewatch" DisplayName="Take Bridgewatch Camp" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="defend" DisplayName="Defend the Seraph" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="capture" DisplayName="Capture the Camps at Cloven Hoof Pass" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="assault" DisplayName="Assault Kingsgate" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="keep" DisplayName="Keep the Modnir Invaders from retaking Kingsgate" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="warbeasts" DisplayName="Defeat the Centaur War Beasts" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="elemental" DisplayName="Defeat the Earth Elemental" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="ts" DisplayName="The Shatterer">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="collect" DisplayName="Collect Siege Weapon pieces" iconFile="Data/LadyElyssa/Images/Icons/Event_Interact.png" heightOffset="0.5" minSize="12" maxSize="32" mapDisplaySize="25"/>
+                <MarkerCategory name="escort" DisplayName="Escort the Sentinel Squad" color="FF9933"/>
+                <MarkerCategory name="mechanics" DisplayName="   MECHANICS" IsSeparator="1"/>
+                <MarkerCategory name="breakbar" DisplayName="Jump pad for Breakbar at 14:15, 12:15, 9:35, 7:45" minSize="24" maxSize="32" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="hardcore" DisplayName="HARDCORE" IsSeparator="1"/>
+            <MarkerCategory name="ejw" DisplayName="Triple Trouble">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="amber" DisplayName="Amber Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="cobalt" DisplayName="Cobalt Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="crimson" DisplayName="Crimson Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="kq" DisplayName="Karka Queen">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="southsun" DisplayName="Southsun Cove" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="   PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="karka" DisplayName="Camp Karka" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="kiels" DisplayName="Kiel's Outpost" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="pride" DisplayName="Pride Point" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="steampipe" DisplayName="Steampipe Steading" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="teq" DisplayName="Tequatl the Sunless">
+                <MarkerCategory name="location" DisplayName="   LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen" color="FF9933"/>
+                <MarkerCategory name="mechanics" DisplayName="   MECHANICS" IsSeparator="1"/>
+                <MarkerCategory name="turrets" DisplayName="Defend and Fire Turrets" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="megalaser" DisplayName="Defend Megalaser" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="north" DisplayName="Defend North Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="east" DisplayName="Defend East Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="west" DisplayName="Defend West Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <!-- End World Bosses -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

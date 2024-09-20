@@ -1,0 +1,662 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        
+        <MarkerCategory name="adventure" DisplayName="Adventures" fadeNear="2000" fadeFar="4000">
+            
+            <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+                <!-- Verdant Brink -->
+                <MarkerCategory name="vb" DisplayName="Verdant Brink">
+                    <MarkerCategory name="bitb" DisplayName="Bugs in the Branches">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0" fadeNear="900" fadeFar="1600"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fc" DisplayName="Flying Circus">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sp" DisplayName="Salvage Pit">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sg" DisplayName="Shooting Gallery">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="pos" DisplayName="Toggle Firing Positions" iconFile="Data/LadyElyssa/Images/Adventures/Circle.png" miniMapVisibility="1" mapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Adventures/Target.png" heightOffset="-0.5" miniMapVisibility="0" mapVisibility="1" minSize="32" maxSize="64" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Line - Medium with Shadow.png" animSpeed="0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tt" DisplayName="Tendril Torchers">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="napalm" DisplayName="Toggle Napalm Shots" iconFile="Data/LadyElyssa/Images/Adventures/Circle.png" heightOffset="0" fadeNear="600" fadeFar="750"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" heightOffset="0" minSize="32" maxSize="64" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0" fadeNear="900" fadeFar="1200"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- Auric Basin -->
+                <MarkerCategory name="ab" DisplayName="Auric Basin">
+                    <MarkerCategory name="afau" DisplayName="A Fungus Among Us">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/A Fungus Among Us.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="jukes" DisplayName="Toggle Shroom Jukes" iconFile="Data/LadyElyssa/Images/Adventures/Shroom Jukes.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1600" fadeFar="2000"/>
+                        <MarkerCategory name="hop" DisplayName="Toggle Cap Hop" iconFile="Data/LadyElyssa/Images/Adventures/Cap Hop.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1600" fadeFar="2000"/>
+                        <MarkerCategory name="launch" DisplayName="Toggle Cap Launch" iconFile="Data/LadyElyssa/Images/Adventures/Cap Launch.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1600" fadeFar="2000"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Cap Launch Target" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="64" heightOffset="0" fadeNear="1600" fadeFar="2000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5" fadeNear="1600" fadeFar="2400"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fm" DisplayName="Fallen Masks">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Fallen Masks.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="loc" DisplayName="Toggle Mask Locations" iconFile="Data/LadyElyssa/Images/Adventures/Circle - Large.png" miniMapVisibility="0" mapVisibility="0" minSize="8" maxSize="128" fadeNear="4000" fadeFar="4400"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="owog" DisplayName="On Wings of Gold">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/On Wings of Gold.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ss" DisplayName="Sanctum Scramble">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Sanctum Scramble.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="wing" DisplayName="Toggle Dragon's Wing" iconFile="Data/LadyElyssa/Images/Adventures/Dragon's Wing.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="surge" DisplayName="Toggle Dragon Surge" iconFile="Data/LadyElyssa/Images/Adventures/Dragon Surge.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="pounce" DisplayName="Toggle Dragon's Pounce" iconFile="Data/LadyElyssa/Images/Adventures/Dragon's Pounce.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Cap Launch Target" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="64" heightOffset="0" fadeNear="1600" fadeFar="2400"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tfil" DisplayName="The Floor is Lava">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/The Floor is Lava.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="pos" DisplayName="Toggle Landing Locations" iconFile="Data/LadyElyssa/Images/Adventures/Circle.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="48" minSize="16" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png" fadeNear="1600" fadeFar="2000" animSpeed="0.5"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- Tangled Depths -->
+                <MarkerCategory name="td" DisplayName="Tangled Depths">
+                    <MarkerCategory name="bf" DisplayName="Beetle Feast">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                            <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Beetle Feast.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="charge" DisplayName="Toggle Charge" iconFile="Data/LadyElyssa/Images/Adventures/Charge.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="burrow" DisplayName="Toggle Burrow" iconFile="Data/LadyElyssa/Images/Adventures/Burrow.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="dodge" DisplayName="Toggle Dodge" iconFile="Data/LadyElyssa/Images/Adventures/Dodge.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Target" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="collect" DisplayName="Toggle Tip - Collect" iconFile="Data/LadyElyssa/Images/Adventures/Beetle Collect Tip.png" miniMapVisibility="0" mapVisibility="0" minSize="64" maxSize="128" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="skills" DisplayName="Toggle Tip - Skills" iconFile="Data/LadyElyssa/Images/Adventures/Beetle Skills Tip.png" miniMapVisibility="0" mapVisibility="0" minSize="64" maxSize="128" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dr" DisplayName="Drone Race">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Drone Race.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="shield" DisplayName="Toggle Energy Shield" iconFile="Data/LadyElyssa/Images/Adventures/Energy Shield.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="boost" DisplayName="Toggle Boost" iconFile="Data/LadyElyssa/Images/Adventures/Boost.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="burning" DisplayName="Toggle Burning Barrel Roll" iconFile="Data/LadyElyssa/Images/Adventures/Burning Barrel Roll.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hpomb" DisplayName="Haywire Punch-o-Matic Battle">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Haywire Punch-o-Matic Battle.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="uppercut" DisplayName="Toggle Uppercut" iconFile="Data/LadyElyssa/Images/Adventures/Uppercut.png" miniMapVisibility="0" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="toot" DisplayName="Toggle The Old One-Two" iconFile="Data/LadyElyssa/Images/Adventures/The Old One-Two.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="dash" DisplayName="Toggle Dash" iconFile="Data/LadyElyssa/Images/Adventures/Dash.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="bomb" DisplayName="Toggle Carpet Bomb" iconFile="Data/LadyElyssa/Images/Adventures/Carpet Bomb.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="rocket" DisplayName="Toggle Vacuum Rocket" iconFile="Data/LadyElyssa/Images/Adventures/Vacuum Rocket.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Target" iconFile="Data/LadyElyssa/Images/Adventures/Target.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="srft" DisplayName="Scrap Rifle Field Test">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Scrap Rifle Field Test.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="sb" DisplayName="Toggle Shrapnel Blast" iconFile="Data/LadyElyssa/Images/Adventures/Shrapnel Blast.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="sap" DisplayName="Toggle Spray and Pray" iconFile="Data/LadyElyssa/Images/Adventures/Spray and Pray.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="el" DisplayName="Toggle Explosive Leap" iconFile="Data/LadyElyssa/Images/Adventures/Explosive Leap.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="ed" DisplayName="Toggle Explosive Disengagement" iconFile="Data/LadyElyssa/Images/Adventures/Explosive Disengagement.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="rs" DisplayName="Toggle Rusty Shrapnel" iconFile="Data/LadyElyssa/Images/Adventures/Rusty Shrapnel.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="cb" DisplayName="Toggle Charring Barrier" iconFile="Data/LadyElyssa/Images/Adventures/Charring Barrier.png" miniMapVisibility="0" mapVisibility="0" minSize="16" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" heightOffset="0" minSize="12" maxSize="24" fadeNear="2400" fadeFar="2800"/>
+                        <MarkerCategory name="tip" DisplayName="Toggle Tips" miniMapVisibility="0" mapVisibility="0" minSize="64" maxSize="128" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                        <MarkerCategory name="zone" DisplayName="Toggle Zone to Clear" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" animSpeed="0.5" color="FF9900" fadeNear="900" fadeFar="1600"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tllr" DisplayName="The Ley-Line Run">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/The Ley-Line Run.png" mapDisplaySize="76"/>
+                        <MarkerCategory name="ps" DisplayName="Toggle Power Surge" iconFile="Data/LadyElyssa/Images/Adventures/Power Surge.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="48" minSize="12" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="gwtf" DisplayName="Toggle Go with the Flow" iconFile="Data/LadyElyssa/Images/Adventures/Go with the Flow.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="12" minSize="24" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="el" DisplayName="Toggle Energy Leap" iconFile="Data/LadyElyssa/Images/Adventures/Energy Leap.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="48" minSize="12" maxSize="24" heightOffset="0" fadeNear="1200" fadeFar="1600"/>
+                        <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" heightOffset="0" minSize="12" maxSize="32" fadeNear="2400" fadeFar="2800"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0.5"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+            <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                <MarkerCategory name="co" DisplayName="Crystal Oasis">            
+                    <MarkerCategory name="rsr" DisplayName="Refugee Supply Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="coge" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cogm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="dh" DisplayName="Desert Highlands">
+                    <MarkerCategory name="cepr" DisplayName="Cavalier Express Parcel Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                            <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dhge" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dhgm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="er" DisplayName="Elon Riverlands">
+                    <MarkerCategory name="scsr" DisplayName="Skimshallow Cove Supply Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                            <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                            <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="erge" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ergm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                
+                <MarkerCategory name="de" DisplayName="The Desolation">
+                    <MarkerCategory name="tdge" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tdgm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tdsi" DisplayName="Shadows Intel" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                            <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                            <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            
+                <MarkerCategory name="dov" DisplayName="Domain Of Vabbi">
+                    <MarkerCategory name="dovgwcr" DisplayName="Garden Wine and Cheese Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dovge" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dovgm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dovnesr" DisplayName="Necropolis Embalming Supply Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategorykerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dovvnnr" DisplayName="Vehjin Noble Necessities Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dovvssr" DisplayName="Vehtendi School Supply Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="la" DisplayName="Lion's Arch">
+                    <MarkerCategory name="laast" DisplayName="Advanced Skimmer Training" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            
+
+            <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrok"/>
+                <MarkerCategory name="istan" DisplayName="Domain Of Istan">
+                    <MarkerCategory name="doiaw" DisplayName="Ancient Weapons" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="doige" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                            <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="doigm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                            <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles">
+                    <MarkerCategory name="sicc" DisplayName="Crystal Corral" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                            <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sige" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="kourna" DisplayName="Domain Of Kourna">
+                    <MarkerCategory name="dokge" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dokgm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dokrbt" DisplayName="Roller Beetle Training" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            
+                <MarkerCategory name="jahai" DisplayName="Jahai Bluffs">
+                    <MarkerCategory name="jbge" DisplayName="Griffon Expert" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="jbgm" DisplayName="Griffon Master" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks">
+                    <MarkerCategory name="tpifmr" DisplayName="Ice Flow Magnet Run" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tpvd" DisplayName="Volatile Delivery" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                
+                <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast">
+                    <MarkerCategory name="dcfotes" DisplayName="Flight of the Eagle Spirit" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dctoy" DisplayName="The Ox's Yoke" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="grothmar" DisplayName="Grothmar Valley">
+                    <MarkerCategory name="gvatc" DisplayName="Ash Training Course" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gvcc" DisplayName="Crater Circuit" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gvgt" DisplayName="Grand Tour" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gvst" DisplayName="Skyscale Trial" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                </MarkerCategory>   
+            
+            <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+            
+            <!-- Seitung Province -->
+            <MarkerCategory name="sp" DisplayName="Seitung Province">
+                <MarkerCategory name="spskiff" DisplayName="Swift Skiff" fadeNear="3000" fadeFar="6000">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="slow" DisplayName="Toggle Slow Cruise" iconFile="Data/LadyElyssa/Images/Adventures/Slow Cruise.png" heightOffset="0"/>
+                    <MarkerCategory name="moderate" DisplayName="Toggle Moderate Clip" iconFile="Data/LadyElyssa/Images/Adventures/Moderate Clip.png" heightOffset="0"/>
+                    <MarkerCategory name="full" DisplayName="Toggle Full Throttle" iconFile="Data/LadyElyssa/Images/Adventures/Full Throttle.png" heightOffset="0"/>
+                    <MarkerCategory name="turbo" DisplayName="Toggle Turbo Boost" iconFile="Data/LadyElyssa/Images/Adventures/Turbo Boost.png" heightOffset="0"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                </MarkerCategory>
+                <MarkerCategory name="spsiege" DisplayName="Siege Stampede">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Adventures/Target.png" heightOffset="-0.5" miniMapVisibility="0" mapVisibility="1" minSize="32" maxSize="64" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="nkc" DisplayName="New Kaineng City">
+                <MarkerCategory name="nkcjb" DisplayName="Jade Bot Rally">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="nkcskiff" DisplayName="Swift Skiff" fadeNear="3000" fadeFar="6000">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="slow" DisplayName="Toggle Slow Cruise" iconFile="Data/LadyElyssa/Images/Adventures/Slow Cruise.png" heightOffset="0"/>
+                    <MarkerCategory name="moderate" DisplayName="Toggle Moderate Clip" iconFile="Data/LadyElyssa/Images/Adventures/Moderate Clip.png" heightOffset="0"/>
+                    <MarkerCategory name="full" DisplayName="Toggle Full Throttle" iconFile="Data/LadyElyssa/Images/Adventures/Full Throttle.png" heightOffset="0"/>
+                    <MarkerCategory name="turbo" DisplayName="Toggle Turbo Boost" iconFile="Data/LadyElyssa/Images/Adventures/Turbo Boost.png" heightOffset="0"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="ew" DisplayName="The Echovald Wilds">
+                <MarkerCategory name="ewjb" DisplayName="Jade Bot Rally">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="ewsiege" DisplayName="Siege Stampede">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Adventures/Target.png" heightOffset="-0.5" miniMapVisibility="0" mapVisibility="1" minSize="32" maxSize="64" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
+
+            <!-- Skywatch Archipelago -->
+            <MarkerCategory name="sa" DisplayName="Skywatch Archipelago">
+                <MarkerCategory name="sastp" DisplayName="Skyscale Target Practice">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory Name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" fadeNear="4000" fadeFar="5000" heightOffset="2" minSize="32" maxSize="64" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Wizard's Tower -->
+            <MarkerCategory name="wt" DisplayName="Wizard's Tower">
+                <MarkerCategory name="fbn" DisplayName="Fly By Night">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="gc" DisplayName="Gauntlet Challenge">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="wtstp" DisplayName="Skyscale Target Practice">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory Name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" fadeNear="4000" fadeFar="6000" heightOffset="2" minSize="32" maxSize="64" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Amnytas -->
+            <MarkerCategory name="am" DisplayName="Amnytas">
+                <MarkerCategory name="amsr" DisplayName="Supply Run">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="amstp" DisplayName="Skyscale Target Practice">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory Name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" fadeNear="4000" fadeFar="5000" heightOffset="2" minSize="32" maxSize="64" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- Inner Nayos -->
+            <MarkerCategory name="in" DisplayName="Inner Nayos">
+                <MarkerCategory name="infke" DisplayName="Free Kryptis Essence">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="inrr" DisplayName="Recon Run">
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="inrlk" DisplayName="Reuniting Lost Kryptis">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="instp" DisplayName="Skyscale Target Practice">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory Name="target" DisplayName="Toggle Targets" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" fadeNear="4000" fadeFar="5000" heightOffset="2" minSize="32" maxSize="64" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+
+            <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS"/>
+
+            <MarkerCategory name="ls" DisplayName="Lowland Shore">
+                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run" achievementId="8342"/>
+                <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="8253"/>
+                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run" achievementId="8301"/>
+                <MarkerCategory name="rs" DisplayName="Raven Scouting"/>
+                <MarkerCategory name="lswr" DisplayName="Warclaw Run" achievementId="8340"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="js" DisplayName="Janthir Syntri">
+                <MarkerCategory name="swc" DisplayName="Save Woodland Creatures" achievementId="8155"/>
+                <MarkerCategory name="rm" DisplayName="River Mapping (Swift Skiffs)" achievementId="8234"/>
+                <MarkerCategory name="jswr" DisplayName="Warclaw Run" achievementId="8270"/>
+                <MarkerCategory name="vftt" DisplayName="The View from the Top" achievementId="8236"/>
+            </MarkerCategory>
+            
+        </MarkerCategory>
+
+        
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

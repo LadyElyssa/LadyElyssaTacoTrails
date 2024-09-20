@@ -1,0 +1,940 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!--  Guild Missions -->
+        <MarkerCategory name="guild" DisplayName="Guild Missions">
+            <!--  Bounties -->
+            <MarkerCategory name="bounty" DisplayName="Bounties" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="1.4" alpha="1" fadeNear="1200" fadeFar="4000" color="99FF33">
+                <MarkerCategory name="easy" DisplayName="EASY" IsSeparator="1"/>
+                <MarkerCategory name="brekkabek" DisplayName="Brekkabek">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                </MarkerCategory>
+                <MarkerCategory name="poobadoo" DisplayName="Poobadoo">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                </MarkerCategory>
+                <MarkerCategory name="trillia" DisplayName="Trillia Midwell">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                </MarkerCategory>
+                <MarkerCategory name="medium" DisplayName="MEDIUM" IsSeparator="1"/>
+                <MarkerCategory name="2mult" DisplayName="2-MULT">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                </MarkerCategory>
+                <MarkerCategory name="bwikki" DisplayName="Bookworm Bwikki">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                </MarkerCategory>
+                <MarkerCategory name="komali" DisplayName="Half-Baked Komali">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                </MarkerCategory>
+                <MarkerCategory name="felix" DisplayName="Short-Fuse Felix">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                </MarkerCategory>
+                <MarkerCategory name="sotzz" DisplayName="Sotzz the Scallywag">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    <MarkerCategory name="notes" DisplayName="NOTES" IsSeparator="1"/>
+                    <MarkerCategory name="note" DisplayName="Hides in 1 of 60 Suspicious Barrels"/>
+                </MarkerCategory>
+                <MarkerCategory name="yanonka" DisplayName="Yanonka the Rat-Wrangler">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                    <MarkerCategory name="notes" DisplayName="NOTES" IsSeparator="1"/>
+                    <MarkerCategory name="note" DisplayName="Can be pulled by interacting with Suspicious Rat"/>
+                </MarkerCategory>
+                <MarkerCategory name="hard" DisplayName="HARD" IsSeparator="1"/>
+                <MarkerCategory name="wildman" DisplayName="Ander 'Wildman' Westward">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    <MarkerCategory name="notes" DisplayName="NOTES" IsSeparator="1"/>
+                    <MarkerCategory name="note" DisplayName="Swallowed by a Veteran Karka"/>
+                </MarkerCategory>
+                <MarkerCategory name="mayana" DisplayName="Big Mayana">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    <MarkerCategory name="notes" DisplayName="NOTES" IsSeparator="1"/>
+                    <MarkerCategory name="note" DisplayName="Hides in a Suspicious Tree"/>
+                </MarkerCategory>
+                <MarkerCategory name="michiele" DisplayName="Crusader Michiele">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                </MarkerCategory>
+                <MarkerCategory name="brooke" DisplayName="'Deputy' Brooke">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                </MarkerCategory>
+                <MarkerCategory name="tessa" DisplayName="Devious Tessa">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                </MarkerCategory>
+                <MarkerCategory name="tarban" DisplayName="Diplomat Tarban">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                </MarkerCategory>
+                <MarkerCategory name="prisoner1141" DisplayName="Prisoner 1141">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    <MarkerCategory name="notes" DisplayName="NOTES" IsSeparator="1"/>
+                    <MarkerCategory name="note1" DisplayName="May fail to start when choosing the combat option."/>
+                    <MarkerCategory name="note2" DisplayName="She is running, bring Swiftness, Chill, Cripple, Immobilize."/>
+                </MarkerCategory>
+                <MarkerCategory name="arderus" DisplayName="Shaman Arderus">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                </MarkerCategory>
+                <MarkerCategory name="trekksa" DisplayName="Tricksy Trekksa">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes">
+                        <MarkerCategory name="east" DisplayName="East (Pink)" color="FF00FF"/>
+                        <MarkerCategory name="west" DisplayName="West (Green)" color="99FF33"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="notes" DisplayName="NOTES" IsSeparator="1"/>
+                    <MarkerCategory name="note" DisplayName="Disguised as a Curious Cow, Mysterious Moa, Peculiar Pig, Weird Wind Rider"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Guild Bounties -->
+            <!--  Rush / Race -->
+            <MarkerCategory name="race" DisplayName="Race" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.75" alpha="0.75" fadeNear="1200" fadeFar="4000">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="marker" DisplayName="Toggle Race Markers" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Race Start.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0" mapVisibility="1"/>
+                <MarkerCategory name="race" IsSeparator="1" DisplayName="RACE"/>
+                <MarkerCategory name="bear" DisplayName="Bear Lope" color="99CC00">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                </MarkerCategory>
+                <MarkerCategory name="chicken" DisplayName="Chicken Run" color="99CC00">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                </MarkerCategory>
+                <MarkerCategory name="crab" DisplayName="Crab Scuttle" color="99CC00">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                </MarkerCategory>
+                <MarkerCategory name="devourer" DisplayName="Devourer Burrow" color="99CC00">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                </MarkerCategory>
+                <MarkerCategory name="ghostwolf" DisplayName="Ghost Wolf Run" color="99CC00">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="hirathi" DisplayName="Hirathi Hinterlands"/>
+                </MarkerCategory>
+                <MarkerCategory name="quaggan" DisplayName="Quaggan Paddle" color="99CC00">
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                </MarkerCategory>
+                <MarkerCategory name="spider" DisplayName="Spider Scurry">
+                    <MarkerCategory name="spit" DisplayName="Toggle Spider Leap Marker" iconFile="Data/LadyElyssa/Images/Icons/Spit.png" alpha="0.6" minSize="12" maxSize="24" miniMapVisibility="1" heightOffset="0"/>
+                    <MarkerCategory name="leap" DisplayName="Toggle Spider Leaps" texture="Data/LadyElyssa/Images/Spider Scurry Leap.png" alpha="0.4" animSpeed="0" color=""/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="99CC00"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Guild Races -->
+            <!--  Treks -->
+            <!--  https://wiki.guildwars2.com/wiki/Guild_Trek#Possible_locations -->
+            <MarkerCategory name="trek" DisplayName="Treks" texture="Data/LadyElyssa/Images/trailarrow-small.png" alpha="1" mapVisibility="1" minSize="64" maxSize="96" miniMapVisibility="1" mapDisplaySize="10" fadeNear="2400" fadeFar="3000">
+                <MarkerCategory name="set" DisplayName="Settings"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Trek Names" alpha="1" mapDisplaySize="120"/>
+                    <MarkerCategory name="marker" DisplayName="Toggle Trek Markers" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Trek.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0"/>
+                    <MarkerCategory name="colour" DisplayName="Trail Colours" color="C2C2A3">
+                        <MarkerCategory name="cyan" DisplayName="Cyan" color="00CCFF"/>
+                        <!--  Flying Mounts                 -->
+                    </MarkerCategory>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="hover" DisplayName="Skimmer - Hover High" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer - Hover High.png"/>
+                        </MarkerCategory>
+                        <!-- End Skimmer   -->
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                        <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
+                        <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                        <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                        <MarkerCategory name="gliding" DisplayName="Gliding" iconFile="Data/LadyElyssa/Images/Icons/Gliding.png"/>
+                    </MarkerCategory>
+                    <!-- End Gliders -->
+                <MarkerCategory name="mapregion" IsSeparator="1" DisplayName="MAP REGION"/>
+                <MarkerCategory name="ascalon" DisplayName="Ascalon" color="C2C2A3">
+                    <MarkerCategory name="anyas" DisplayName="Anya's Patch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="blackblade" DisplayName="Blackblade Butte">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="blasted" DisplayName="Blasted Sepulchre">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="Diessa" DisplayName="Diessa Plateau"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="brandstrike" DisplayName="Brandstrike Dig">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="brokenfalls" DisplayName="Broken Falls Courtyard" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blackcitadel" DisplayName="Black Citadel"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="burstbubble" DisplayName="Burstbubble Blind">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cademkrall" DisplayName="Cadem Krall">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="canyonweb" DisplayName="Canyonweb Cave">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cymbels" DisplayName="Cymbel's Glen">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dirtclaw" DisplayName="Dirtclaw Cleft">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="doefalls" DisplayName="Doefalls Court">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="drakecleft" DisplayName="Drakecleft Shelf">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="drakehatch" DisplayName="Drakehatch Shore">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="firewatch" DisplayName="Firewatch Flybridge">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="forgotten" DisplayName="Forgotten Grotto">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="founders" DisplayName="Founder's Flagon Hearth">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="freestand" DisplayName="Freestand Scaffold" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blackcitadel" DisplayName="Black Citadel"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="heartspeaks" DisplayName="Heart Speaks Notch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hermits" DisplayName="Hermit's Roost">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="holystone" DisplayName="Holystone Sanctum">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="irondock" DisplayName="Irondock Viewpoint">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="junkers" DisplayName="Junker's Apex" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blackcitadel" DisplayName="Black Citadel"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lilys" DisplayName="Lily's Bivvy">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="narrowkraal" DisplayName="Narrowkraal Crossing">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fieldsofruin" DisplayName="Fields of Ruin"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="orecart" DisplayName="Orecart Hoist">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="phasmatis" DisplayName="Phasmatis Prospect">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="provatum" DisplayName="Provatum Carcer">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="raptorsaerie" DisplayName="Raptor's Aerie">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="scourgejaw" DisplayName="Scourgejaw Watchtower">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="scriptorium" DisplayName="Scriptorium Nook" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blackcitadel" DisplayName="Black Citadel"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sentinel" DisplayName="Sentinel Sink">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sharkhollows" DisplayName="Sharkhollow's Edge">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skalecatch" DisplayName="Skalecatch Butcher Shop">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skalefound" DisplayName="Skalefound Cove">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skalestash" DisplayName="Skalestash Hideaway">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sparwinds" DisplayName="Sparwind's Lounge" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blackcitadel" DisplayName="Black Citadel"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="steelbands" DisplayName="Steelband's Tunnel">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="strongpaws" DisplayName="Strongpaw's Garden">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tarstar" DisplayName="Tarstar Copse">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="vacant" DisplayName="Vacant Hermitage">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="watchpoint" DisplayName="Watchpoint Decimus">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wheelport" DisplayName="Wheelport Pub" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="blackcitadel" DisplayName="Black Citadel"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Ascalon-->
+                <MarkerCategory name="kryta" DisplayName="Kryta" color="C2C2A3">
+                    <MarkerCategory name="altarbrooklair" DisplayName="Altar Brook Lair">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="bandits" DisplayName="Bandit's Cabbage Patch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="beetlestone" DisplayName="Beetlestone Mirador">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="bloodooze" DisplayName="Blood Ooze Gallery">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="castavall" DisplayName="Castavall Corner">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="claypool" DisplayName="Claypool Bailey">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="covingtons" DisplayName="Covington's Stowage">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cutthroats" DisplayName="Cutthroat's Rest">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="defiled" DisplayName="Defiled Delve">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="destinys" DisplayName="Destiny's Guildhall">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="eastlurk" DisplayName="Eastlurk Alley">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dr" DisplayName="Divinty's Reach"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="elises" DisplayName="Elise's Surprise">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="hirathi" DisplayName="Harathi Hinterlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fawcetts" DisplayName="Fawcett's Porch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="hirathi" DisplayName="Hirathi Hinterlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="grenths" DisplayName="Grenth's Pavilion">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="guardian" DisplayName="Guardian Overwatch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="heartwoods" DisplayName="Heartwoods Honey Cache">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="heidis" DisplayName="Heidi's Showpiece">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="isgarren" DisplayName="Isgarren Viewpoint">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="karis" DisplayName="Kari's Hot Spot">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lakebottom" DisplayName="Lakebottom Underpass">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lawen" DisplayName="Lawen Grotto">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lychcroft" DisplayName="Lychcroft Wardenship">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="melandrus" DisplayName="Melandru's Fount">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="minas" DisplayName="Mina's Target Shoot">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="monument" DisplayName="Monument to the Ancient One">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="overlord" DisplayName="Overlord Ledge">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="pochtecatls" DisplayName="pochtecatl's Desire">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="portmatts" DisplayName="Portmatt's Promontory">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="raptorsperch" DisplayName="Raptor's Perch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="reefdrake" DisplayName="Reef Drake Nesting Grounds">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="risewild" DisplayName="Risewild Green">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ruriks" DisplayName="Rurik's View">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sandwurm" DisplayName="Sandwurm Prowl">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skyshine" DisplayName="Skyshine Scratch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="steampipe" DisplayName="Steampipe Perch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="steamy" DisplayName="Steamy Steps">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                        <MarkerCategory name="" DisplayName=""/>
+                    </MarkerCategory>
+                    <MarkerCategory name="stonebore" DisplayName="Stonebore Spiderhole">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="karka" DisplayName="The Karka Club">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="togatl" DisplayName="Togatl Shore">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="turai" DisplayName="Turai Tavern Stillroom">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wassas" DisplayName="Wassa's Terrace">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wrelks" DisplayName="Wrelk's Salon">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Kryta -->
+                <MarkerCategory name="maguuma" DisplayName="Maguuma Jungle" color="C2C2A3">
+                    <MarkerCategory name="backroot" DisplayName="Backroot Fountain">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="blacklionroot" DisplayName="Black Lion Root Cellar">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="bluups" DisplayName="Bluup's Comeuppance">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="rata" DisplayName="Rata Sum"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="briarthorn" DisplayName="Briarthorn Barrier">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="constellation" DisplayName="Constellation Grove">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dawngleam" DisplayName="Dawngleam Pergola">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="deepmire" DisplayName="Deepmire River">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="droknah" DisplayName="Droknah Gate">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="eastend" DisplayName="East End Falls">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="firefrog" DisplayName="Firefrog Springs">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fishers" DisplayName="Fisher's Crag">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="Metrica" DisplayName="Metrica Province"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fireimp" DisplayName="Fire Imp Pocket">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="flakks" DisplayName="Flakk's Lapidary Nook">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="rata" DisplayName="Rata Sum"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gallow" DisplayName="Gallow Canyon">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gardenroot" DisplayName="Gardenroot Alcove">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gnashers" DisplayName="Gnasher's Viewpoint">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="greenmoa" DisplayName="Green Moa Paddock">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ideation" DisplayName="Ideation Leap">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="rata" DisplayName="Rate Sum"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="imphaunt" DisplayName="Imphaunt Hollow">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="jaguar" DisplayName="Jaguar Pride Den">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="magihedron" DisplayName="Magihedron Corner">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="rata" DisplayName="Rata Sum"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="mastercontrol" DisplayName="Master Control LIN39">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="necrolith" DisplayName="necrlith Landing">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="orvanic" DisplayName="Orvanic Sourcewaters">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="portauthority" DisplayName="Port Authority Lost &amp; Found">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="rata" DisplayName="Rata Sum"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ratapten" DisplayName="Rata Pten Portico">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="restless" DisplayName="Restless Footings">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="saltflood" DisplayName="Saltflood Altar">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="shattered" DisplayName="Shattered Loft">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="siamoth" DisplayName="Siamoth Refuge">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skibohall" DisplayName="Skibo Hall Dormitory">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="rata" DisplayName="Rata Sum"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="soggorsort" DisplayName="Soggorsort Rotunda">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sorendraa" DisplayName="Soren Draa Rest Stop">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tekkis" DisplayName="Tekki's Drawing Board">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="thaumanova" DisplayName="Thaumanova Spillway">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="toxal" DisplayName="Toxal Spill">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ulta" DisplayName="Ulta Scraproom">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="unseen" DisplayName="Unseen Scratch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="caledon" DisplayName="Caldeon Forest"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="usharrs" DisplayName="Usharr's Threshold">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="whitland" DisplayName="Whitland Sinkhole">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="widds" DisplayName="Widd's Folly">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wildflame" DisplayName="Wildflame Monitor">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Maguuma -->
+                <MarkerCategory name="orr" DisplayName="Ruins of Orr" color="C2C2A3">
+                    <MarkerCategory name="anthems" DisplayName="Anthem's Hold">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cache" DisplayName="Cache of the Pursued">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="captains" DisplayName="Captain's Berth">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cathedral" DisplayName="Cathedral's Cavity">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="delights" DisplayName="Delights Balcony">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="drowned" DisplayName="Drowned Plaza">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fathomfive" DisplayName="Fathom Five Forcefield">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="forbidden" DisplayName="Forbidden Shear">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchors Leap"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lightfoot" DisplayName="Lightfoot Dock">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="seascorpions" DisplayName="Sea Scorpion's Eye">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sepulchre" DisplayName="Sepulchre Skylight">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="spectrehaunt" DisplayName="Spectrehaunt Socket">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="stentor" DisplayName="Stentor Shelter">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tactical" DisplayName="Tactical Retreat">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="upsilon" DisplayName="Upsilon Hyperboloid">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="verdance" DisplayName="VerdanceFont">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="viziers" DisplayName="Vizier's Anteport">
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts -->
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="winterknell" DisplayName="Winterknell Impass">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Orr -->
+                <MarkerCategory name="shiverpeaks" DisplayName="Shiverpeak Mountains" color="C2C2A3">
+                    <MarkerCategory name="arctodus" DisplayName="Arctodus Haunt">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="badjelly" DisplayName="Badjelly Kelpbed">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="broodmother" DisplayName="Brodmother Falls">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="brothers" DisplayName="Brothers' Notch" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cavebear" DisplayName="Cave Bear Cache">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cavespider" DisplayName="Cave Spider Nidus">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="corruptions" DisplayName="Corruptions Teeth">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ettinbreath" DisplayName="Ettinbreath Lair">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="foragers" DisplayName="Forager's Midden">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="foremans" DisplayName="Foreman's Recess">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="frozen" DisplayName="Frozen Antrum">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="grimsdottir" DisplayName="Grimsdottir's Duty" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hawkeye" DisplayName="Hawkeye Perch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hiddenowl" DisplayName="Hidden Owl Distillery">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="icewurm" DisplayName="Icewurm Trench">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="isenfell" DisplayName="Isenfell Watch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="kaldars" DisplayName="Kaldar's Hot Seat" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="kegbrawl" DisplayName="Kegbrawl Watch" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="kevachs" DisplayName="Kevach's Strongroom">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lionguard" DisplayName="Lionguard Larder">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="meltwater" DisplayName="Meltwater Cave">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="mistriven" DisplayName="Mistriven Shelf">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="moleberia" DisplayName="Moleberia Prison">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="osenfold" DisplayName="Osenfold Counterweights">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ramview" DisplayName="Ramview Peak">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="raven" DisplayName="Raven Nook" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="Hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="reverberants" DisplayName="Reverberant's Watch">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="scholars" DisplayName="Scholar's Blind">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skalesplash" DisplayName="Skalesplash Falls">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skelknest" DisplayName="Skelknest Borehole">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Safehouse">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="snowhowl" DisplayName="Snowhowl Den">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="source" DisplayName="Source of Lament">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="steamscrap" DisplayName="Steamscrap Overlook">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornars Pass"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="talus" DisplayName="Talus Steps">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="peoples" DisplayName="The People's Deadlock">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="workers" DisplayName="The Workers' Stores">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tower" DisplayName="Tower of Tribulation">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="traders" DisplayName="Trader's Stash" mapDisplaySize="10">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="trolltrap" DisplayName="Trolltrap Pit">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="venison" DisplayName="Venison Hollow">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wikks" DisplayName="Wikk's Gate">
+                        <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <!-- End Shiverpeaks-->
+            </MarkerCategory>
+            <!-- End Treks -->
+        </MarkerCategory>
+        <!-- End Guild Missions -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

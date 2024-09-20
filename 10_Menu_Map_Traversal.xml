@@ -1,0 +1,134 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!-- MAP TRAVERSAL -->
+        <MarkerCategory name="mapt" DisplayName="Map Traversal" heightOffset="3" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32">
+
+            <MarkerCategory name="ajtt" DisplayName="Ancient Teleporters" texture="Data/LadyElyssa/Images/Ancient Teleporter.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="marker" DisplayName="Toggle Ancient Teleporter" iconFile="Data/LadyElyssa/Images/Ancient Teleporter Marker Large.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="de" DisplayName="Dragon's End"/>
+            </MarkerCategory>
+            <!-- End Ancient Teleporters -->
+
+            <MarkerCategory name="inquest" DisplayName="Inquest Portals">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="blue" DisplayName="Inquest Gate - Blue" iconFile="Data/LadyElyssa/Images/Inquest Gate 1.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="48"/>
+                <MarkerCategory name="red" DisplayName="Inquest Gate - Red" iconFile="Data/LadyElyssa/Images/Inquest Gate 2.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="48"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" texture="Data/LadyElyssa/Images/Inquest Portal Trail.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" animSpeed="0"/>
+            </MarkerCategory>
+            <!-- End Inquest Portal -->
+
+            <MarkerCategory name="jtlp" DisplayName="Jade Tech Launch Pads" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="marker" DisplayName="Launch Pad Marker" iconFile="Data/LadyElyssa/Images/Jade Tech Launch Pad.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
+            </MarkerCategory>
+            <!-- End Jade Tech Launch Pads -->
+
+            <MarkerCategory name="jtt" DisplayName="Jade Tech Teleporters" texture="Data/LadyElyssa/Images/Jade Tech Teleporter.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="10">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="marker" DisplayName="Jade Tech Teleporter Marker" iconFile="Data/LadyElyssa/Images/Jade Tech Teleporter Marker Blue Large.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
+            </MarkerCategory>
+            <!-- End Jade Tech Teleporters -->
+
+            <MarkerCategory name="launchpad" DisplayName="Launch Pads" iconFile="Data/LadyElyssa/Images/Icons/Launchpad.png">
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FF99CC" inGameVisibility="0" texture="Data/LadyElyssa/Images/Line - Fine.png"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="nw" DisplayName="Nuhoch Wallows">
+                <MarkerCategory name="hotmaptraversal" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink" texture="Data/LadyElyssa/Images/Nuhoch Wallow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
+                <MarkerCategory name="ab" DisplayName="Auric Basin" texture="Data/LadyElyssa/Images/Nuhoch Wallow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
+                <MarkerCategory name="td" DisplayName="Tangled Depths" texture="Data/LadyElyssa/Images/Nuhoch Wallow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
+                <MarkerCategory name="ds" DisplayName="Dragon's Stand" texture="Data/LadyElyssa/Images/Nuhoch Wallow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
+            </MarkerCategory>
+            <!-- End Nuhoch Wallows -->
+
+            <MarkerCategory name="sp" DisplayName="Sand Portals" iconFile="Data/LadyElyssa/Images/Sand Portal Marker.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32">
+                
+                <MarkerCategory name="pofmaptraversal" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                <MarkerCategory name="co" DisplayName="Crystal Oasis">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="dh" DisplayName="Desert Highlands">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ArrowYellow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="10" color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="er" DisplayName="Elon Riverlands">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="td" DisplayName="The Desolation">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ArrowYellow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="10" color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="dov" DisplayName="Domain of Vabbi">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="lws4maptraversal" IsSeparator="1" DisplayName="LWS4"/>
+                <MarkerCategory name="istan" DisplayName="Domain of Istan">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="kourna" DisplayName="Domain of Kourna">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="jahai" DisplayName="Jahai Bluffs">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="dragonfall" DisplayName="Dragonfall">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/Sand Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"  color="E1C148"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Sand Portals -->
+
+            <MarkerCategory name="zip" DisplayName="Ziplines" mapDisplaySize="10">
+                <MarkerCategory name="eodmaptraversal" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                <MarkerCategory name="arb" DisplayName="Arborstone">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" animSpeed="0" color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="de" DisplayName="Dragon's End">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" animSpeed="0" color="E1C148"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ZiplineU.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="10" animSpeed="0.5" />
+                </MarkerCategory>
+                <MarkerCategory name="tew" DisplayName="Echovald Wilds">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ZiplineU.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="gd" DisplayName="Gyala Delve">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ZiplineU.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="nkc" DisplayName="New Kaineng City">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ZiplineU.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                </MarkerCategory>
+                <MarkerCategory name="sp" DisplayName="Seitung Province">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ZiplineU.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!-- End Zip Lines -->
+
+        </MarkerCategory>
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

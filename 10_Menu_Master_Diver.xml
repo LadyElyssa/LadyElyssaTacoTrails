@@ -1,0 +1,25 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <MarkerCategory name="masterdiver" DisplayName="Master Diver (Circular Route)" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.75">
+            <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Master Diver.png"  mapDisplaySize="64"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="separatormenu510" IsSeparator="1" DisplayName="ASCALON"/>
+            <MarkerCategory name="ironmarches" DisplayName="Iron Marches (Start)" color="00FFFF"/>
+            <MarkerCategory name="separatormenu511" IsSeparator="1" DisplayName="KRYTA"/>
+            <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="00FFFF"/>
+            <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="00FFFF"/>
+            <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="00FFFF"/>
+            <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="00FFFF"/>
+            <MarkerCategory name="separatormenu512" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+            <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="00FFFF"/>
+            <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" color="00FFFF"/>
+            <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="00FFFF"/>
+            <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="00FFFF"/>
+            <MarkerCategory name="separatormenu513" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+            <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="00FFFF"/>
+        </MarkerCategory>
+        <!-- End Master Diver -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

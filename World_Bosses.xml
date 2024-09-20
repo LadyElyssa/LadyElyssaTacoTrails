@@ -3,11 +3,8 @@
         <!-- World Bosses -->
         <!-- STARTER ZONES -->
         <!-- Fire Elemental Chest -->
-        <!--   
-   <Trail type="legs.wb.fe.metrica" trailData="Data/LadyElyssa/World Bosses/FireElemental.trl"/><POI MapID="35" xpos="-75.1221" ypos="28.4677" zpos="897.859" GUID="fy/KZFKnakuBl0wZmmi8Lg==" type="legs.wb.mount.beetle"/>
--->
         <Trail type="legs.wb.fe.metrica" trailData="Data/LadyElyssa/World Bosses/FireElemental-Mount.trl" color="00CCFF"/>
-        <POI MapID="35" xpos="-96.3663" ypos="26.9492" zpos="898.858" GUID="OhvLT20ksUCD+hTScVc95A==" type="legs.wb.set.mount.skyscale"/>
+        <POI MapID="35" xpos="-96.3663" ypos="26.9492" zpos="898.858" GUID="OhvLT20ksUCD+hTScVc95A==" type="legs.wb.mount.skyscale"/>
         <!-- South East-->
         <POI MapID="35" xpos="-304.08" ypos="18.1132" zpos="657.149" GUID="U/2u5KZtvE6/CH9uZ/zkMg==" type="legs.wb.fe" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <!-- North East -->
@@ -25,9 +22,6 @@
         <POI MapID="35" xpos="-417.16" ypos="24.5617" zpos="735.396" GUID="ytk4NsuVb069ZoCkKLku/Q==" type="legs.wb.fe.defend" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" minSize="24" maxSize="32" mapDisplaySize="25" heightOffset="0.5" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.fe.Defend" trailData="Data/LadyElyssa/World Bosses/FireElemental-Defend.trl" color="FF9933"/>
         <POI MapID="35" xpos="-371.403" ypos="21.6336" zpos="889.171" GUID="N4nWXrSfxUmq1PV7Gtq28Q==" type="legs.wb.fe" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="24" maxSize="48" mapDisplaySize="25" heightOffset="0.5" fadeNear="3000" fadeFar="5000"/>
-        <!--
-   <POI MapID="35" xpos="-382.055" ypos="21.6336" zpos="893.409" GUID="I6EZWwhQlkqMccD78buPUA=="  type="legs.wb.wp" copy="Taidha [&BKgBAAA=] / Golem Mark II [&BNQCAAA=] / The Shatterer [&BE4DAAA=]" copy-message="Admiral Taidha Covington&#xA;Golem Mark II&#xA;The Shatterer"/>
--->
         <POI MapID="35" xpos="-441.695" ypos="49.2586" zpos="708.561" type="legs.wb.fe.key" GUID="mBw9UExykEahsKFapp4MQw==" behavior="6"/>
         <POI MapID="35" xpos="-437.716" ypos="37.2526" zpos="638.487" type="legs.wb.fe.key" GUID="2b9RZqi58kW1SwigeMZMtQ==" behavior="6"/>
         <POI MapID="35" xpos="-436.603" ypos="18.6937" zpos="638.111" type="legs.wb.fe.key" GUID="Twa3EN2LvEmoteFujbFPvQ==" behavior="6"/>
@@ -52,13 +46,15 @@
         <POI MapID="35" xpos="-270.986" ypos="18.1224" zpos="688.328" type="legs.wb.fe.key" GUID="8sWMAwnl8EqfN91oXSsT4A==" behavior="6"/>
         <POI MapID="35" xpos="-270.842" ypos="18.0996" zpos="806.233" type="legs.wb.fe.key" GUID="RGQUjck6y0uc7l8O4kUzJg==" behavior="6"/>
         <POI MapID="35" xpos="-265.742" ypos="18.6367" zpos="660.201" type="legs.wb.fe.key" GUID="+WEnUBI750CEnhv1UWSP3g==" behavior="6"/>
-        <POI MapID="35" xpos="-303.221" ypos="22.9778" zpos="691.136" GUID="Q625snYT0kyejX7ETKJJhw==" type="legs.wb.set.mount.springer"/>
+        <POI MapID="35" xpos="-303.221" ypos="22.9778" zpos="691.136" GUID="Q625snYT0kyejX7ETKJJhw==" type="legs.wb.mount.springer"/>
         <Trail type="legs.wb.fe.earth" trailData="Data/LadyElyssa/World Bosses/FE-MCK-Earth.trl"/>
-        <POI MapID="35" xpos="-415.597" ypos="21.6614" zpos="667.801" GUID="UP/8AXICP0GYJlq59zGT2g==" type="legs.wb.set.mount.springer"/>
+        <POI MapID="35" xpos="-415.597" ypos="21.6614" zpos="667.801" GUID="UP/8AXICP0GYJlq59zGT2g==" type="legs.wb.mount.springer"/>
         <Trail type="legs.wb.fe.ice" trailData="Data/LadyElyssa/World Bosses/FE-MCK-Ice.trl"/>
         <Trail type="legs.wb.fe.fire" trailData="Data/LadyElyssa/World Bosses/FE-MCK-Fire.trl"/>
         <Trail type="legs.wb.fe.water" trailData="Data/LadyElyssa/World Bosses/FE-MCK-Water.trl"/>
+        
         <!--  Great Jungle Wurm Chest -->
+
         <POI MapID="34" xpos="-230.716" ypos="-0.33895" zpos="716.33" GUID="RWsR5B9cL0yXBLVyxPxWXA==" type="legs.wb.gjw.growth" iconFile="Data/LadyElyssa/Images/Icons/Event.png" minSize="24" maxSize="48" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="34" xpos="-197.081" ypos="1.32868" zpos="862.242" GUID="s/e9W2kh70yncLH7m4LG+Q==" type="legs.wb.gjw.grub" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="48" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="34" xpos="-230.754" ypos="-0.247409" zpos="974.962" GUID="efrGDIQqNEu3EZ7u008uNw==" type="legs.wb.gjw.growth" iconFile="Data/LadyElyssa/Images/Icons/Event.png" minSize="24" maxSize="48" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
@@ -70,34 +66,33 @@
         <POI MapID="34" xpos="-376.905" ypos="-0.518798" zpos="837.247" GUID="mFtes/j+fU+Fxb5D4vAMow==" type="legs.wb.gjw.avatars" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="34" xpos="-394.937" ypos="-0.499179" zpos="886.833" GUID="UjgnZBvACEqA0iImqgMNTQ==" type="legs.wb.gjw.avatars" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="34" xpos="-390.651" ypos="0.0345763" zpos="845.957" GUID="Sh2yZxKBJ0S4d/5zjRjLBQ==" type="legs.wb.gjw" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="24" maxSize="48" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
-        <!--
-   <POI MapID="34" xpos="-394.97" ypos="0.0249006" zpos="830.312" GUID="2Ky5PxLso0GKN1A6SWAvwg=="  type="legs.wb.set.wp" copy="Megadestroyer [&BM0CAAA=] / Jormag [&BHoCAAA=]" copy-message="Mega Destroyer&#xA;or&#xA;Jormag"/>
--->
+
         <!--  Shadow Behemoth   -->
+
         <Trail type="legs.wb.sb.queensdale" trailData="Data/LadyElyssa/World Bosses/ShadowBehemoth.trl"/>
         <Trail type="legs.wb.sb.queensdale" trailData="Data/LadyElyssa/World Bosses/ShadowBehemoth-Heartwoods.trl"/>
         <POI MapID="15" xpos="-67.3926" ypos="4.48141" zpos="-220.228" GUID="yXMu4WJOTUynWCrM+K4MjQ==" type="legs.wb.sb.heartwoods" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
-        <Trail type="legs.wb.set.sb.queensdale" trailData="Data/LadyElyssa/World Bosses/ShadowBehemoth-Monastery.trl"/>
+        <Trail type="legs.wb.sb.queensdale" trailData="Data/LadyElyssa/World Bosses/ShadowBehemoth-Monastery.trl"/>
         <POI MapID="15" xpos="463.306" ypos="35.9272" zpos="-1.858" GUID="CDH+gGCbREmuPceBup70eg==" type="legs.wb.sb.monastery" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.sb.queensdale" trailData="Data/LadyElyssa/World Bosses/ShadowBehemoth-Foothills.trl"/>
         <POI MapID="15" xpos="731.836" ypos="51.8463" zpos="-518.761" GUID="dIWMq3qcEEaDEC23xPO1fg==" type="legs.wb.sb.foothills" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="15" xpos="260.082" ypos="-0.743625" zpos="-431.326" GUID="6cXwTPZrgEawipxxa4wzfQ==" type="legs.wb.sb" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="48" maxSize="64" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="15" xpos="225.819" ypos="-0.603636" zpos="-411.478" GUID="Iwh+mVhKVk+aR8GstMAlMA==" type="legs.wb.sb" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="12" maxSize="12" mapDisplaySize="15" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="15" xpos="289.652" ypos="-0.753375" zpos="-425.754" GUID="hWNYmUVNikaucMJe7bzYqA==" type="legs.wb.sb" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="12" maxSize="12" mapDisplaySize="15" fadeNear="3000" fadeFar="5000"/>
-        <!--
-   <POI MapID="15" xpos="260.03" ypos="-0.743687" zpos="-435.073" GUID="I/SqLtfsgUy7BhigxVHkXQ==" copy="Golem Mark II [&BNQCAAA=] / The Shatterer [&BE4DAAA=] / Taidha Covington [&BKgBAAA=]" copy-message="Taidha Covington&#xA;The Shatterer&#xA;Golem Mark II" type="legs.wb.set.wp"/>
--->
+
         <!--  Svanir Shaman Chest -->
+
         <Trail type="legs.wb.ssc.wayfarer" trailData="Data/LadyElyssa/World Bosses/SvanirShaman.trl"/>
         <POI MapID="28" xpos="152.95" ypos="75.8309" zpos="513.875" GUID="P9vAcm7Z/UOFtSMZhuH+RA==" type="legs.wb.ssc.grawl" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" heightOffset="0" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="28" xpos="377.22" ypos="70.5249" zpos="432.465" GUID="YAKrp46g7EOeWeK4RLALzA==" type="legs.wb.ssc.grawl" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" heightOffset="0" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="28" xpos="269.474" ypos="77.5788" zpos="502.242" GUID="sO7Av+/QQUS8TRQc6FJdbQ==" type="legs.wb.ssc.grawl" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" heightOffset="0" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="28" xpos="401.138" ypos="71.3784" zpos="344.05" GUID="6xZKjxbz1Um8rgIm6LU0jg==" type="legs.wb.ssc" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="24" maxSize="48" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
-        <!--   
-   <POI MapID="28" xpos="397.805" ypos="72.0222" zpos="339.702" GUID="Ah72r+wS30KcKE4NsngacQ==" copy="Jormag [&BHoCAAA=] / Modniir Ulgoth [&BLAAAAA=] / Megadestroyer [&BM0CAAA=] / [&BLAAAAA=]" copy-message="Jormag&#xA;Modnir Ulgoth&#xA;Megadestroyer" type="legs.wb.set.wp"/>
--->
+
+
         <!-- STANDARD BOSSES -->
+
         <!--  Taidha Chest -->
+
         <Trail type="legs.wb.atc.bloodtide" trailData="Data/LadyElyssa/World Bosses/TaidhaCovington.trl"/>
         <POI MapID="73" xpos="-404.778" ypos="15.9526" zpos="287.533" GUID="jLXFKLvOF0GSkaZsuEXzHg==" type="legs.wb.atc.cannons" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="73" xpos="-327.835" ypos="27.6857" zpos="373.915" GUID="fbcLS7+mBkWSxKh4nxOa3g==" type="legs.wb.atc.tower" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
@@ -109,10 +104,9 @@
         <POI MapID="73" xpos="-145.04" ypos="18.2005" zpos="206.793" GUID="Qpc/p+VuF0yGmaHtpOhyJA==" type="legs.wb.atc.gate" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="73" xpos="-173.803" ypos="3.83188" zpos="240.439" GUID="YTjicGCZ20WXEX3Mh9fOQQ==" type="legs.wb.atc.gate" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.atc.bloodtide" trailData="Data/LadyElyssa/World Bosses/ATC-Boss.trl"/>
-        <!--
-   <POI MapID="73" xpos="-139.902" ypos="18.1284" zpos="204.336" GUID="f10Ewk9ovEKslaiS8hn6eQ==" copy="Svanir Shaman [&BMIDAAA=] / Great Jungle Wurm [&BEEFAAA=]" copy-message="Svanir Shaman&#xA;Great Jungle Wurm" type="legs.wb.wp"/>
--->
+  
         <!--  Claw of Jormag Chest -->
+
         <Trail type="legs.wb.coj.frostgorge" trailData="Data/LadyElyssa/World Bosses/Jormag.trl"/>
         <POI MapID="30" xpos="680.455" ypos="27.3804" zpos="229.2" GUID="hN/cFSPZnEeGv1wcllwfSA==" type="legs.wb.coj.crystals" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="30" xpos="604.484" ypos="22.6599" zpos="308.858" GUID="EDKlm32jHEWjG6sjEF8Mnw==" type="legs.wb.coj.crystals" fadeNear="3000" fadeFar="5000"/>
@@ -122,10 +116,9 @@
         <POI MapID="30" xpos="604.131" ypos="63.1064" zpos="435.951" GUID="SDH8xIGZ+EGLQBBViay+ig==" type="legs.wb.coj.landing" iconFile="Data/LadyElyssa/Images/Icons/Landing Skull.png" minSize="32" maxSize="32" mapDisplaySize="25" heightOffset="0" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="30" xpos="603.063" ypos="63.0362" zpos="423.423" GUID="lIxKX9OFzU2vhRNTjlEivA==" type="legs.wb.coj" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="12" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="30" xpos="450.072" ypos="22.4772" zpos="510.32" GUID="dEMohlsfP06kD2e1zA+guQ==" type="legs.wb.coj" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="12" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
-        <!--
-   <POI MapID="30" xpos="434.614" ypos="21.8064" zpos="507.747" GUID="N1PjeucX1kSn4UZzKMmhCA==" copy="Shadow Behemoth [&BPcAAAA=] / Fire Elemental [&BEcAAAA=]" copy-message="Shadow Behemoth&#xA;" type="legs.wb.set.wp"/>
--->
+
         <!--  Golem Mark II Chest -->
+
         <POI MapID="39" xpos="1041.84" ypos="2.5588" zpos="77.4533" GUID="SCOCVXa6Sk6WpO+hNK3e/A==" type="legs.wb.igm2.containers" behavior="6"/>
         <POI MapID="39" xpos="1040.51" ypos="2.09838" zpos="115.975" GUID="UlypkdlgsUqYWkoU53o04w==" type="legs.wb.igm2.containers" behavior="6"/>
         <POI MapID="39" xpos="1021.65" ypos="2.53794" zpos="0.200233" GUID="IKB7YVW0c0Wkvt+AgThW8g==" type="legs.wb.igm2.containers" behavior="6"/>
@@ -140,15 +133,14 @@
         <POI MapID="39" xpos="894.932" ypos="2.38806" zpos="1.16689" GUID="/NIuPTVQCkOoHAToiEUf2g==" type="legs.wb.igm2.containers" behavior="6"/>
         <POI MapID="39" xpos="898.26" ypos="9.59822" zpos="75.2367" GUID="5C4/lQUGakKgbWffC+1Q2A==" type="legs.wb.igm2" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="12" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.igm2.maelstrom" trailData="Data/LadyElyssa/World Bosses/GolemMarkII.trl"/>
-        <!--
-   <POI MapID="39" xpos="929.129" ypos="9.08513" zpos="54.5618" GUID="dMmMinUL7UatMrXIbWMSuQ==" copy="Great Jungle Wurm [&BEEFAAA=] / Svanir Shaman [&BMIDAAA=]" copy-message="Great Jungle Wurm&#xA;Svanir Shaman" type="legs.wb.wp"/>
--->
+  
         <!--  Mega Destroyer Chest -->
+
         <POI MapID="39" xpos="-466.401" ypos="90.0202" zpos="-524.753" GUID="skFMcFvnm0G4yIwabwbhpg==" type="legs.wb.mega" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
-        <POI MapID="39" xpos="-337.384" ypos="22.9657" zpos="-550.74" GUID="GigA2/6+4k2gzOzr384nSg==" type="legs.wb.set.mount.raptor"/>
+        <POI MapID="39" xpos="-337.384" ypos="22.9657" zpos="-550.74" GUID="GigA2/6+4k2gzOzr384nSg==" type="legs.wb.mount.raptor"/>
         <POI MapID="39" xpos="-79.1508" ypos="35.8322" zpos="-256.199" GUID="00cc6EpoJE+NaG3EokFf9g==" type="legs.wb.mega.collectors" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.mega.maelstrom" trailData="Data/LadyElyssa/World Bosses/MegaDestroyer-Inquest.trl"/>
-        <POI MapID="39" xpos="-245.631" ypos="9.83225" zpos="-289.947" GUID="I/O6Y6DtjE6bU4WksOpDEg==" type="legs.wb.set.mount.beetle"/>
+        <POI MapID="39" xpos="-245.631" ypos="9.83225" zpos="-289.947" GUID="I/O6Y6DtjE6bU4WksOpDEg==" type="legs.wb.mount.beetle"/>
         <POI MapID="39" xpos="-456.664" ypos="97.2887" zpos="-428.026" GUID="a8j7LbxxLEaQzJtNowO3hQ==" type="legs.wb.mega.defend" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.mega.maelstrom" trailData="Data/LadyElyssa/World Bosses/MegaDestroyer-Defend.trl"/>
         <POI MapID="39" xpos="-433.148" ypos="68.271" zpos="-33.5891" GUID="G4xxFwyNKUS3F1GHvxgugg==" type="legs.wb.mega.slayn" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
@@ -159,10 +151,9 @@
         <POI MapID="39" xpos="-357.403" ypos="16.9435" zpos="-208.5" GUID="KQC1ysGLNEqCealSAuRLSw==" type="legs.wb.mega.protect" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="39" xpos="-310.028" ypos="11.8951" zpos="-196.35" GUID="VLHnp2/Go0qDB7WZSpq1rA==" type="legs.wb.mega.protect" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="39" xpos="-329.556" ypos="9.70598" zpos="-225.223" GUID="0Z7gZSpfRkOEC/qA9Uk72Q==" type="legs.wb.mega" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="12" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
-        <!--
-   <POI MapID="39" xpos="-305.081" ypos="9.74251" zpos="-260.025" GUID="4FKbnbihLUqdM1oV6YDA4g==" copy="Shadow Behemoth [&BPcAAAA=] / Fire Elemental [&BEcAAAA=]" copy-message="Shadow Behemoth&#xA;Fire Elemental" type="legs.wb.set.wp"/>
--->
+      
         <!--  Modnir Ulgoth Chest -->
+
         <POI MapID="17" xpos="-504.757" ypos="19.0824" zpos="159.998" GUID="UxafjW5kb0Gpldzckp15AA==" type="legs.wb.mu.forward" iconFile="Data/LadyElyssa/Images/Icons/Event_Capture.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="17" xpos="-255.423" ypos="35.3673" zpos="390.378" GUID="NT47F3CHrk+qiO2p3FiZag==" type="legs.wb.mu.bridgewatch" iconFile="Data/LadyElyssa/Images/Icons/Event_Capture.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="17" xpos="-204.264" ypos="31.6688" zpos="396.815" GUID="DJoXdMdb4EmuSd6fIDoW9g==" type="legs.wb.mu.defend" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
@@ -175,10 +166,9 @@
         <POI MapID="17" xpos="811.601" ypos="145.082" zpos="682.27" GUID="2FCf/lbz3k6MpDyB8RY6EQ==" type="legs.wb.mu.elemental" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="17" xpos="809.911" ypos="144.388" zpos="668.148" GUID="rY+uUusVc0SSZIH+8KLPxQ==" type="legs.wb.mu" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="24" maxSize="48" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.mu.harathi" trailData="Data/LadyElyssa/World Bosses/ModnirUlgoth.trl"/>
-        <!--   
-   <POI MapID="17" xpos="800.908" ypos="145.092" zpos="667.727" GUID="00/FtoCZD0e1Eqb9ki863A==" copy="Fire Elemental [&BEcAAAA=] / Shadow Behemoth [&BPcAAAA=]" copy-message="Fire Elemental&#xA;Shadow Behemoth" type="legs.wb.wp"/>
--->
+   
         <!--  The Shatterer Chest -->
+
         <Trail type="legs.wb.ts.blazeridge" trailData="Data/LadyElyssa/World Bosses/TheShatterer.trl"/>
         <Trail type="legs.wb.ts.blazeridge" trailData="Data/LadyElyssa/World Bosses/TheShatterer-Collect.trl"/>
         <Trail type="legs.wb.ts.escort" trailData="Data/LadyElyssa/World Bosses/TheShatterer-Escort.trl"/>
@@ -211,13 +201,9 @@
         <POI MapID="20" xpos="220.977" ypos="28.0397" zpos="675.58" type="legs.wb.ts.collect" GUID="ZY+IA3V5EkmthDpe+2eyhQ==" behavior="6"/>
         <POI MapID="20" xpos="225.102" ypos="4.5225" zpos="705.724" type="legs.wb.ts.collect" GUID="dUnLEulm1k+4i7uRTwHDeQ==" behavior="6"/>
         <POI MapID="20" xpos="236.633" ypos="30.2488" zpos="661.614" type="legs.wb.ts.collect" GUID="b68p+y2QnkqGRUHQpoXitQ==" behavior="6"/>
-        <!--
-   <POI MapID="20" xpos="-282.27" ypos="3.28638" zpos="922.422" GUID="+zgGjh8cFESFpubtZduZwQ==" type="legs.wb.set.wp" copy="Great Jungle Wurm [&BEEFAAA=] / Svanir Shaman [&BMIDAAA=]" copy-message="Great Jungle Wurm&#xA;Svanir Shaman Chief"/>
--->
+       
         <!--  HARDCORE BOSSES -->
-        <!--  Evolved Jungle Wurm / Triple Trouble -->
-        <!--    copy="" copy-message="&#xA;" type="legs.wb.wp"/> -->
-        <!--  Karka Queen Chest - Near Kiel's Outpost Waypoint -->
+        
         <Trail type="legs.wb.kq.southsun" trailData="Data/LadyElyssa/World Bosses/KarkaQueen.trl"/>
         <POI MapID="873" xpos="572.727" ypos="5.98706" zpos="205.529" GUID="IsSUbvHjE02z5ZxqGGEMcA==" type="legs.wb.kq.pride" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="873" xpos="481.26" ypos="28.5759" zpos="135.491" GUID="ML46/d8FLkelBph4BG40Qg==" type="legs.wb.kq.kiels" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" fadeNear="3000" fadeFar="5000"/>
@@ -227,23 +213,6 @@
         <POI MapID="873" xpos="471.401" ypos="29.4885" zpos="92.4573" GUID="pWot3s7Ef0qiQtip8UesJg==" type="legs.wb.kq.kiels" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="873" xpos="62.9657" ypos="18.6847" zpos="-340.07" GUID="JESZltwPuU6I5RXHuqyi2w==" type="legs.wb.kq.karka" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="873" xpos="163.262" ypos="48.9822" zpos="19.6408" GUID="ImdJNj06w06EjGDjmXrHuw==" type="legs.wb.kq.steampipe" iconFile="Data/LadyElyssa/Images/Icons/Event_Interact.png" fadeNear="3000" fadeFar="5000"/>
-        <!-- Camp Karka Chest-->
-        <!--
-   <POI MapID="873" xpos="62.9657" ypos="18.6847" zpos="-340.07" GUID="oX/vNSkU8U6Y8sBWrp8JBg==" type="legs.wb.wp" copy="Fire Elemental [&BEcAAAA=] / Great Jungle Wurm [&BEEFAAA=] / Svanir [&BMIDAAA=]" copy-message="Fire Elemental&#xA;Great Jungle Wurm&#xA;Svanir Shaman Chief"/>
--->
-        <!-- Kiels Camp Chest -->
-        <!--
-	<POI MapID="873" xpos="470.661" ypos="28.4931" zpos="142.486" GUID="o/XvNSkU8U6Y8sBWrp8JBg==" type="legs.wb.wp" copy="Fire Elemental [&BEcAAAA=] / Great Jungle Wurm [&BEEFAAA=] / Svanir [&BMIDAAA=]" copy-message="Fire Elemental&#xA;Great Jungle Wurm&#xA;Svanir Shaman Chief"/>
--->
-        <!-- Pride Camp Chest -->
-        <!--
-   <POI MapID="873" xpos="635.85" ypos="1.07177" zpos="333.753" GUID="awkBhWvyPki0vK2aZ99C1A==" type="legs.wb.wp" copy="Fire Elemental [&BEcAAAA=] / Great Jungle Wurm [&BEEFAAA=] / Svanir [&BMIDAAA=]" copy-message="Fire Elemental&#xA;Great Jungle Wurm&#xA;Svanir Shaman Chief"/>
--->
-        <!-- Steampipe Chest -->
-        <!--   
-   <POI MapID="873" xpos="38.6624" ypos="38.7454" zpos="-11.6407" GUID="wakBhWvyPki0vK2aZ99C1A==" type="legs.wb.wp" copy="Fire Elemental [&BEcAAAA=] / Great Jungle Wurm [&BEEFAAA=] / Svanir [&BMIDAAA=]" copy-message="Fire Elemental&#xA;Great Jungle Wurm&#xA;Svanir Shaman Chief"/>
--->
-        <!-- Tequatl Chest -->
-        <!--    copy="" copy-message="&#xA;" type="legs.wb.wp"/> -->
+        
     </POIs>
 </OverlayData>

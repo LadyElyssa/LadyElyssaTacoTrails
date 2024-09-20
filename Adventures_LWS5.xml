@@ -3,31 +3,31 @@
         <!-- LIVING WORLD SEASON 5 -->
         <!-- Drizzlewood Coast -->
         <!-- Flight of the Eagle Spirit -->
-        <POI MapID="1371" xpos="275.841" ypos="178.769" zpos="597.238" type="legs.lws5ad.dcfotes.sign" GUID="c14CAYRUwUuBv1mSIWWQuQ==" iconFile="Data/LadyElyssa/Images/Adventures/Flight of the Eagle Spirit.png" mapDisplaySize="64"/>
-        <Trail type="legs.lws5ad.dcfotes.to" trailData="Data/LadyElyssa/LWS5/Adventures/To Flight of the Eagle Spirit.trl" animSpeed="0.5"/>
-        <Trail type="legs.lws5ad.dcfotes.trail" trailData="Data/LadyElyssa/LWS5/Adventures/Flight of the Eagle Spirit.trl" animSpeed="0.5"/>
+        <POI MapID="1371" xpos="275.841" ypos="178.769" zpos="597.238" type="legs.adventure.drizzlewood.dcfotes.sign" GUID="c14CAYRUwUuBv1mSIWWQuQ==" iconFile="Data/LadyElyssa/Images/Adventures/Flight of the Eagle Spirit.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.drizzlewood.dcfotes.to" trailData="Data/LadyElyssa/Adventures/LWS5/To Flight of the Eagle Spirit.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.drizzlewood.dcfotes.trail" trailData="Data/LadyElyssa/Adventures/LWS5/Flight of the Eagle Spirit.trl" animSpeed="0.5"/>
         <!-- The Ox's Yoke -->
-        <POI MapID="1371" xpos="-421.674" ypos="8.6316" zpos="416.685" type="legs.lws5ad.dctoy.sign" GUID="ka+wHbdtpEejmxMzMMh+nA==" iconFile="Data/LadyElyssa/Images/Adventures/The Ox's Yoke.png" mapDisplaySize="64"/>
-        <Trail type="legs.lws5ad.dctoy.to" trailData="Data/LadyElyssa/LWS5/Adventures/Drizzlewood To The Ox's Yoke.trl" animSpeed="0.5"/>
-        <Trail type="legs.lws5ad.dctoy.trail" trailData="Data/LadyElyssa/LWS5/Adventures/Drizzlewood The Ox's Yoke.trl" animSpeed="0.5"/>
+        <POI MapID="1371" xpos="-421.674" ypos="8.6316" zpos="416.685" type="legs.adventure.drizzlewood.dctoy.sign" GUID="ka+wHbdtpEejmxMzMMh+nA==" iconFile="Data/LadyElyssa/Images/Adventures/The Ox's Yoke.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.drizzlewood.dctoy.to" trailData="Data/LadyElyssa/Adventures/LWS5/Drizzlewood To The Ox's Yoke.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.drizzlewood.dctoy.trail" trailData="Data/LadyElyssa/Adventures/LWS5/Drizzlewood The Ox's Yoke.trl" animSpeed="0.5"/>
         <!-- Grothmar Valley -->
         <!-- Ash Training Course -->
-        <POI MapID="1330" xpos="481.709" ypos="16.2858" zpos="181.273" type="legs.lws5ad.gvatc.sign" GUID="zDU1gFuGlEuxCSDKYXQBeQ==" iconFile="Data/LadyElyssa/Images/Adventures/Ash Training Course.png" mapDisplaySize="64"/>
-        <Trail type="legs.lws5ad.gvatc.to" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar To Ash Training Course.trl" animSpeed="0.5"/>
-        <Trail type="legs.lws5ad.gvatc.trail" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar Ash Training Course.trl" animSpeed="0.5"/>
+        <POI MapID="1330" xpos="481.709" ypos="16.2858" zpos="181.273" type="legs.adventure.grothmar.gvatc.sign" GUID="zDU1gFuGlEuxCSDKYXQBeQ==" iconFile="Data/LadyElyssa/Images/Adventures/Ash Training Course.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.grothmar.gvatc.to" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar To Ash Training Course.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.grothmar.gvatc.trail" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar Ash Training Course.trl" animSpeed="0.5"/>
         <!-- Time Trial: Grothmar Crater Circuit -->
-        <POI MapID="1330" xpos="528.932" ypos="16.1069" zpos="164.109" type="legs.lws5ad.gvcc.sign" GUID="mo5s+Ez1c0Sgp2KtvtpJhw==" iconFile="Data/LadyElyssa/Images/Adventures/Crater Circuit and Skyscale Trial.png" mapDisplaySize="64"/>
-        <POI MapID="1330" xpos="793.303" ypos="55.1883" zpos="-166.779" type="legs.lws5ad.gvcc.sign" GUID="ZI8RKwITYUiE0xl7Qn4gOw==" iconFile="Data/LadyElyssa/Images/Adventures/Crater Circuit.png" mapDisplaySize="64"/>
-        <Trail type="legs.lws5ad.gvcc.to" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar To Crater Circuit.trl" animSpeed="0.5"/>
-        <Trail type="legs.lws5ad.gvcc.trail" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar Crater Circuit.trl" animSpeed="0.5"/>
+        <POI MapID="1330" xpos="528.932" ypos="16.1069" zpos="164.109" type="legs.adventure.grothmar.gvcc.sign" GUID="mo5s+Ez1c0Sgp2KtvtpJhw==" iconFile="Data/LadyElyssa/Images/Adventures/Crater Circuit and Skyscale Trial.png" mapDisplaySize="64"/>
+        <POI MapID="1330" xpos="793.303" ypos="55.1883" zpos="-166.779" type="legs.adventure.grothmar.gvcc.sign" GUID="ZI8RKwITYUiE0xl7Qn4gOw==" iconFile="Data/LadyElyssa/Images/Adventures/Crater Circuit.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.grothmar.gvcc.to" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar To Crater Circuit.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.grothmar.gvcc.trail" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar Crater Circuit.trl" animSpeed="0.5"/>
         <!-- Grand Tour -->
-        <POI MapID="1330" xpos="499.253" ypos="20.1144" zpos="157.269" type="legs.lws5ad.gvgt.sign" GUID="WiWty4I39EWijlfTFhVnAQ==" iconFile="Data/LadyElyssa/Images/Adventures/Grand Tour.png" mapDisplaySize="64"/>
-        <Trail type="legs.lws5ad.gvgt.to" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar To Grand Tour.trl" animSpeed="0.5"/>
-        <Trail type="legs.lws5ad.gvgt.trail" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar Grand Tour.trl" animSpeed="0.5"/>
+        <POI MapID="1330" xpos="499.253" ypos="20.1144" zpos="157.269" type="legs.adventure.grothmar.gvgt.sign" GUID="WiWty4I39EWijlfTFhVnAQ==" iconFile="Data/LadyElyssa/Images/Adventures/Grand Tour.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.grothmar.gvgt.to" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar To Grand Tour.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.grothmar.gvgt.trail" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar Grand Tour.trl" animSpeed="0.5"/>
         <!-- Grothmar Valley Skyscale Trial -->
-        <POI MapID="1330" xpos="528.932" ypos="16.1069" zpos="164.109" type="legs.lws5ad.gvst.to" GUID="3oTs1I+B0EaIJqEG7+jnwA==" iconFile="Data/LadyElyssa/Images/Adventures/Skyscale Trial and Crater Circuit.png" mapDisplaySize="64"/>
-        <POI MapID="1330" xpos="814.913" ypos="54.0557" zpos="-168.218" type="legs.lws5ad.gvst.to" GUID="K0SLW/D0yEy8c/fyiTi82g==" iconFile="Data/LadyElyssa/Images/Adventures/Skyscale Trial.png" mapDisplaySize="64"/>
-        <Trail type="legs.lws5ad.gvst.to" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar To Skyscale Trial.trl" animSpeed="0.5"/>
-        <Trail type="legs.lws5ad.gvst.trail" trailData="Data/LadyElyssa/LWS5/Adventures/Grothmar Skyscale Trial.trl" animSpeed="0.5"/>
+        <POI MapID="1330" xpos="528.932" ypos="16.1069" zpos="164.109" type="legs.adventure.grothmar.gvst.to" GUID="3oTs1I+B0EaIJqEG7+jnwA==" iconFile="Data/LadyElyssa/Images/Adventures/Skyscale Trial and Crater Circuit.png" mapDisplaySize="64"/>
+        <POI MapID="1330" xpos="814.913" ypos="54.0557" zpos="-168.218" type="legs.adventure.grothmar.gvst.to" GUID="K0SLW/D0yEy8c/fyiTi82g==" iconFile="Data/LadyElyssa/Images/Adventures/Skyscale Trial.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.grothmar.gvst.to" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar To Skyscale Trial.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.grothmar.gvst.trail" trailData="Data/LadyElyssa/Adventures/LWS5/Grothmar Skyscale Trial.trl" animSpeed="0.5"/>
     </POIs>
 </OverlayData>

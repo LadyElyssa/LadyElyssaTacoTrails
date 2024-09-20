@@ -1,0 +1,15 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <MarkerCategory name="races" DisplayName="Races">
+            <MarkerCategory name="beetle" DisplayName="Beetle">
+                <MarkerCategory name="pewpews" DisplayName="See Pewpew's Marker Pack" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+            </MarkerCategory> 
+            <!--
+            <MarkerCategory name="skiff" DisplayName="Skiff"/>
+            <MarkerCategory name="skimmer" DisplayName="Skimmer"/>
+            <MarkerCategory name="warclaw" DisplayName="Warclaw"/>
+        -->
+        </MarkerCategory> 
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

@@ -6,127 +6,127 @@
         <!-- Trail for no tomes leveling -->
         <!--
       <Trail type="legs.keys.sylvarilvl.trail.1"                        trailData="Data/LadyElyssa/Key Run/XP/Sylvari Adventure Guide.trl" color="B9B992"/>
-		<POI MapID="34" xpos="-165.26" ypos="3.96576" zpos="-988"         type="legs.keys.sylvarilvl.set.scout" GUID="3Rh6wk38p0SHw41U9jDhxA=="/>
-		<POI MapID="34" xpos="-200.625" ypos="20.8128" zpos="-867.539"    type="legs.keys.sylvarilvl.set.scout" GUID="Ih76DpnOQ0uVHckh8WpK4A=="/>
-		<POI MapID="34" xpos="-293.926" ypos="21.6944" zpos="-410.845"    type="legs.keys.sylvarilvl.set.scout" GUID="d/tydyRwJUWkVBjth3pqLg=="/>
-		<POI MapID="34" xpos="-27.388" ypos="0.599252" zpos="-63.6138"    type="legs.keys.sylvarilvl.set.scout" GUID="eyV4Ydi2o0CQFbmxU+6tzA=="/>
-		<POI MapID="34" xpos="341.129" ypos="0.359106" zpos="428.402"     type="legs.keys.sylvarilvl.set.scout" GUID="DVku1vIBNUifdABdSKpRjg=="/>
-		<POI MapID="34" xpos="-42.5544" ypos="15.6533" zpos="853.492"     type="legs.keys.sylvarilvl.set.scout" GUID="0AcRMU5Iak6KPASiDwfTQg=="/>
+		<POI MapID="34" xpos="-165.26" ypos="3.96576" zpos="-988"         type="legs.keys.sylvarilvl.scout" GUID="3Rh6wk38p0SHw41U9jDhxA=="/>
+		<POI MapID="34" xpos="-200.625" ypos="20.8128" zpos="-867.539"    type="legs.keys.sylvarilvl.scout" GUID="Ih76DpnOQ0uVHckh8WpK4A=="/>
+		<POI MapID="34" xpos="-293.926" ypos="21.6944" zpos="-410.845"    type="legs.keys.sylvarilvl.scout" GUID="d/tydyRwJUWkVBjth3pqLg=="/>
+		<POI MapID="34" xpos="-27.388" ypos="0.599252" zpos="-63.6138"    type="legs.keys.sylvarilvl.scout" GUID="eyV4Ydi2o0CQFbmxU+6tzA=="/>
+		<POI MapID="34" xpos="341.129" ypos="0.359106" zpos="428.402"     type="legs.keys.sylvarilvl.scout" GUID="DVku1vIBNUifdABdSKpRjg=="/>
+		<POI MapID="34" xpos="-42.5544" ypos="15.6533" zpos="853.492"     type="legs.keys.sylvarilvl.scout" GUID="0AcRMU5Iak6KPASiDwfTQg=="/>
       -->
         <!-- CITY - Sylvari - Grove -->
         <Trail type="legs.keys.sylvari.city.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/In to the Grove.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <POI MapID="34" xpos="-163.592" ypos="4.25331" zpos="-1002.33" type="legs.keys.sylvari.city.set.sign" GUID="AN8J5Zr0oUCRx0ito6NxPg==" iconFile="Data/LadyElyssa/Images/Key Run/Sylvari/In to the Grove.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="34" xpos="-163.592" ypos="4.25331" zpos="-1002.33" type="legs.keys.sylvari.city.sign" GUID="AN8J5Zr0oUCRx0ito6NxPg==" iconFile="Data/LadyElyssa/Images/Key Run/Sylvari/In to the Grove.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.sylvari.bank.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/To the Bank.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <POI MapID="91" xpos="-77.0415" ypos="74.0079" zpos="276.002" type="legs.keys.sylvari.bank.set.sign" GUID="jNGDFbTpFkmyDt4PhpbLlg=="/>
-        <POI MapID="91" xpos="45.8358" ypos="1.42932" zpos="35.641" type="legs.keys.sylvari.home.set.sign" GUID="wmgFNx8XA0yG9cNvC5B6iQ=="/>
+        <POI MapID="91" xpos="-77.0415" ypos="74.0079" zpos="276.002" type="legs.keys.sylvari.bank.sign" GUID="jNGDFbTpFkmyDt4PhpbLlg=="/>
+        <POI MapID="91" xpos="45.8358" ypos="1.42932" zpos="35.641" type="legs.keys.sylvari.home.sign" GUID="wmgFNx8XA0yG9cNvC5B6iQ=="/>
         <Trail type="legs.keys.sylvari.home.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Dreamer's Terrace.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
         <!-- Chapter 1 - Lvl 10 - Mentor -->
         <!-- Mockery of Death -->
-        <POI MapID="91" xpos="58.424" ypos="51.2745" zpos="3.95764" type="legs.keys.sylvari10.knight.death.set.sign" GUID="ajKBpBb7NESa2Ulcb5OUUA=="/>
+        <POI MapID="91" xpos="58.424" ypos="51.2745" zpos="3.95764" type="legs.keys.sylvari10.knight.death.sign" GUID="ajKBpBb7NESa2Ulcb5OUUA=="/>
         <Trail type="legs.keys.sylvari10.knight.death.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Mockery of Death 1.trl"/>
         <Trail type="legs.keys.sylvari10.knight.death.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Mockery of Death 2 Instance.trl"/>
-        <POI MapID="507" xpos="102.402" ypos="1.4334" zpos="49.5303" type="legs.keys.sylvari10.knight.death.set.wp" GUID="kucrGbf3+0miVqOIw1xVNQ==" copy="[&BDQBAAA=]" copy-message="Astorea Waypoint"/>
+        <POI MapID="507" xpos="102.402" ypos="1.4334" zpos="49.5303" type="legs.keys.sylvari10.knight.death.wp" GUID="kucrGbf3+0miVqOIw1xVNQ==" copy="[&BDQBAAA=]" copy-message="Astorea Waypoint"/>
         <!-- Loved and Lost -->
-        <POI MapID="34" xpos="-170.867" ypos="4.8544" zpos="-1010.75" type="legs.keys.sylvari10.knight.lost.set.sign" GUID="rvXmK/gPjkO98z0y3gjTqA=="/>
+        <POI MapID="34" xpos="-170.867" ypos="4.8544" zpos="-1010.75" type="legs.keys.sylvari10.knight.lost.sign" GUID="rvXmK/gPjkO98z0y3gjTqA=="/>
         <Trail type="legs.keys.sylvari10.knight.lost.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Loved and Lost 1.trl"/>
         <Trail type="legs.keys.sylvari10.knight.lost.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Loved and Lost 2 Instance.trl"/>
         <!-- A Good Work Spoiled -->
-        <POI MapID="34" xpos="-171.618" ypos="4.99124" zpos="-1008.34" type="legs.keys.sylvari10.knight.spoiled.set.sign" GUID="hSUnFyIuSUSUCKCTvLFSPA=="/>
+        <POI MapID="34" xpos="-171.618" ypos="4.99124" zpos="-1008.34" type="legs.keys.sylvari10.knight.spoiled.sign" GUID="hSUnFyIuSUSUCKCTvLFSPA=="/>
         <Trail type="legs.keys.sylvari10.knight.spoiled.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/A Good Work Spoiled 1.trl"/>
         <Trail type="legs.keys.sylvari10.knight.spoiled.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/A Good Work Spoiled 2 Instance.trl"/>
-        <POI MapID="516" xpos="-12.6256" ypos="0.148252" zpos="-406.295" type="legs.keys.sylvari10.knight.spoiled.set.choice" GUID="o69QCjktw0GOWTFlg6LNTQ==" info="We'll rescure Occam and strike the Nightmare Court head-on.&#xA;&#xA;   > I'll meet you there." infoRange="3"/>
-        <POI MapID="513" xpos="369.058" ypos="29.9609" zpos="-773.768" type="legs.keys.sylvari10.knight.lost.set.wp" GUID="FXkYWQCDKU6LdsESGUAGVg==" copy="[&BDQBAAA=]" copy-message="Astorea Waypoint"/>
-        <POI MapID="516" xpos="-12.828" ypos="0.159907" zpos="-406.377" type="legs.keys.sylvari10.knight.spoiled.set.wp" GUID="oQabl4wz90m2+K0RGMncRQ==" copy="[&BDcBAAA=]" copy-message="Gleaner's Cove Waypoint"/>
+        <POI MapID="516" xpos="-12.6256" ypos="0.148252" zpos="-406.295" type="legs.keys.sylvari10.knight.spoiled.choice" GUID="o69QCjktw0GOWTFlg6LNTQ==" info="We'll rescure Occam and strike the Nightmare Court head-on.&#xA;&#xA;   > I'll meet you there." infoRange="3"/>
+        <POI MapID="513" xpos="369.058" ypos="29.9609" zpos="-773.768" type="legs.keys.sylvari10.knight.lost.wp" GUID="FXkYWQCDKU6LdsESGUAGVg==" copy="[&BDQBAAA=]" copy-message="Astorea Waypoint"/>
+        <POI MapID="516" xpos="-12.828" ypos="0.159907" zpos="-406.377" type="legs.keys.sylvari10.knight.spoiled.wp" GUID="oQabl4wz90m2+K0RGMncRQ==" copy="[&BDcBAAA=]" copy-message="Gleaner's Cove Waypoint"/>
         <!-- Hammer and Steel -->
-        <POI MapID="34" xpos="-290.539" ypos="4.24457" zpos="-546.988" type="legs.keys.sylvari10.knight.steel.set.sign" GUID="wrFRSGn4uUOVeNcYJ9Fy0A=="/>
+        <POI MapID="34" xpos="-290.539" ypos="4.24457" zpos="-546.988" type="legs.keys.sylvari10.knight.steel.sign" GUID="wrFRSGn4uUOVeNcYJ9Fy0A=="/>
         <Trail type="legs.keys.sylvari10.knight.steel.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Hammer and Steel 1.trl"/>
         <Trail type="legs.keys.sylvari10.knight.steel.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/Hammer and Steel 2 Instance.trl"/>
         <!-- The Knight's Duel -->
-        <POI MapID="34" xpos="-305.051" ypos="0.754328" zpos="-490.281" type="legs.keys.sylvari10.knight.duel.set.sign" GUID="75C4lJdnakaq4n+h2e9eJQ=="/>
+        <POI MapID="34" xpos="-305.051" ypos="0.754328" zpos="-490.281" type="legs.keys.sylvari10.knight.duel.sign" GUID="75C4lJdnakaq4n+h2e9eJQ=="/>
         <Trail type="legs.keys.sylvari10.knight.duel.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/The Knight's Duel 1.trl"/>
         <Trail type="legs.keys.sylvari10.knight.duel.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/The Knight's Duel 2 Instance.trl"/>
-        <POI MapID="527" xpos="56.2777" ypos="-0.0268906" zpos="-20.8063" type="legs.keys.sylvari10.knight.duel.set.wp" GUID="3ct8le3rEEKSAINHMvhcIg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
-        <POI MapID="91" xpos="18.3594" ypos="68.8921" zpos="7.03276" type="legs.keys.sylvari.omphalos.set.sign" GUID="4YNLjsB+VkGuuCdUCqhMoQ=="/>
+        <POI MapID="527" xpos="56.2777" ypos="-0.0268906" zpos="-20.8063" type="legs.keys.sylvari10.knight.duel.wp" GUID="3ct8le3rEEKSAINHMvhcIg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
+        <POI MapID="91" xpos="18.3594" ypos="68.8921" zpos="7.03276" type="legs.keys.sylvari.omphalos.sign" GUID="4YNLjsB+VkGuuCdUCqhMoQ=="/>
         <Trail type="legs.keys.sylvari10.knight.duel.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Omphalos Chamber.trl"/>
         <Trail type="legs.keys.sylvari10.knight.duel.instance" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Sylvari/Green Knight/The Knight's Duel 3 Instance.trl"/>
-        <POI MapID="821" xpos="34.4311" ypos="101.41" zpos="17.1828" type="legs.keys.sylvari10.knight.duel.set.wp" GUID="hPhi9hQDnUyWT3FBt1/8OQ==" copy="[&BLwEAAA=]" copy-message="Ronan's Waypoint"/>
+        <POI MapID="821" xpos="34.4311" ypos="101.41" zpos="17.1828" type="legs.keys.sylvari10.knight.duel.wp" GUID="hPhi9hQDnUyWT3FBt1/8OQ==" copy="[&BLwEAAA=]" copy-message="Ronan's Waypoint"/>
         <!-- Chapter 2 - lvl 20 - Shadows of the Past -->
         <!-- Where Life Goes -->
         <Trail type="legs.keys.sylvari20.life.life.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Where Life Goes 1 Instance.trl"/>
-        <POI MapID="540" xpos="88.3482" ypos="1.37374" zpos="84.8686" type="legs.keys.sylvari20.life.life.set.wp" GUID="zcmTvB2dm0e1MAC17xA+Rg==" copy="[&BDoBAAA=]" copy-message="Mabon Waypoint"/>
-        <POI MapID="34" xpos="-84.4248" ypos="3.87329" zpos="18.3966" type="legs.keys.sylvari20.life.life.set.sign" GUID="IIZmbCIqSEGGMRxlI59y3Q=="/>
+        <POI MapID="540" xpos="88.3482" ypos="1.37374" zpos="84.8686" type="legs.keys.sylvari20.life.life.wp" GUID="zcmTvB2dm0e1MAC17xA+Rg==" copy="[&BDoBAAA=]" copy-message="Mabon Waypoint"/>
+        <POI MapID="34" xpos="-84.4248" ypos="3.87329" zpos="18.3966" type="legs.keys.sylvari20.life.life.sign" GUID="IIZmbCIqSEGGMRxlI59y3Q=="/>
         <Trail type="legs.keys.sylvari20.life.life.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Where Life Goes 2.trl"/>
         <Trail type="legs.keys.sylvari20.life.life.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Where Life Goes 3 Instance.trl"/>
         <!-- An Unknown Soul -->
-        <POI MapID="34" xpos="-306.039" ypos="34.1128" zpos="567.287" type="legs.keys.sylvari20.life.soul.set.sign" GUID="P9cdg6AvtUW581vRiiIGEQ=="/>
+        <POI MapID="34" xpos="-306.039" ypos="34.1128" zpos="567.287" type="legs.keys.sylvari20.life.soul.sign" GUID="P9cdg6AvtUW581vRiiIGEQ=="/>
         <Trail type="legs.keys.sylvari20.life.soul.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/An Unknown Soul 1.trl"/>
-        <POI MapID="54" xpos="1009.69" ypos="36.5551" zpos="-304.88" type="legs.keys.sylvari20.life.soul.set.sign" GUID="V/LXZuQcI0abqOdjue56dA=="/>
+        <POI MapID="54" xpos="1009.69" ypos="36.5551" zpos="-304.88" type="legs.keys.sylvari20.life.soul.sign" GUID="V/LXZuQcI0abqOdjue56dA=="/>
         <Trail type="legs.keys.sylvari20.life.soul.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/An Unknown Soul 2.trl"/>
         <Trail type="legs.keys.sylvari20.life.soul.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/An Unknown Soul 3 Instance.trl"/>
         <Trail type="legs.keys.sylvari20.life.soul.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/An Unknown Soul 4.trl"/>
         <Trail type="legs.keys.sylvari20.life.soul.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/An Unknown Soul 5 Instance.trl"/>
-        <POI MapID="538" xpos="930.296" ypos="43.5934" zpos="-341.68" type="legs.keys.sylvari20.life.soul.set.wp" GUID="MBGpKZFai06IlqrFB/1gEw==" copy="[&BLwEAAA=]" copy-message="Ronan's Waypoint"/>
-        <POI MapID="91" xpos="44.9841" ypos="1.41178" zpos="33.0629" type="legs.keys.sylvari20.life.soul.set.sign" GUID="NiDRoaYLh0yNpwDXFlgynQ=="/>
-        <POI MapID="539" xpos="-86.1647" ypos="0.263321" zpos="-59.0019" type="legs.keys.sylvari20.life.soul.set.choice" GUID="ZscIVf4Dz0iXwd2gUXLuwQ==" info="CAITHE&#xA;&#xA;Your idea sounds best, Caithe. We should search for evidence.&#xA;&#xA;   > Understood. Still, your plan is the more likely to find the truth." infoRange="5"/>
-        <POI MapID="539" xpos="-86.0481" ypos="0.262867" zpos="-58.8886" type="legs.keys.sylvari20.life.soul.set.wp" GUID="NOQIilYgP0S4haB8KsGbrg==" copy="[&BFwAAAA=]" copy-message="Watchful Source Waypoint"/>
+        <POI MapID="538" xpos="930.296" ypos="43.5934" zpos="-341.68" type="legs.keys.sylvari20.life.soul.wp" GUID="MBGpKZFai06IlqrFB/1gEw==" copy="[&BLwEAAA=]" copy-message="Ronan's Waypoint"/>
+        <POI MapID="91" xpos="44.9841" ypos="1.41178" zpos="33.0629" type="legs.keys.sylvari20.life.soul.sign" GUID="NiDRoaYLh0yNpwDXFlgynQ=="/>
+        <POI MapID="539" xpos="-86.1647" ypos="0.263321" zpos="-59.0019" type="legs.keys.sylvari20.life.soul.choice" GUID="ZscIVf4Dz0iXwd2gUXLuwQ==" info="CAITHE&#xA;&#xA;Your idea sounds best, Caithe. We should search for evidence.&#xA;&#xA;   > Understood. Still, your plan is the more likely to find the truth." infoRange="5"/>
+        <POI MapID="539" xpos="-86.0481" ypos="0.262867" zpos="-58.8886" type="legs.keys.sylvari20.life.soul.wp" GUID="NOQIilYgP0S4haB8KsGbrg==" copy="[&BFwAAAA=]" copy-message="Watchful Source Waypoint"/>
         <!-- Source of the Issue -->
-        <POI MapID="54" xpos="920.493" ypos="32.0196" zpos="-256.214" type="legs.keys.sylvari20.life.issue.set.sign" GUID="aVw41qduvU+HSZGm6Q6Lng=="/>
+        <POI MapID="54" xpos="920.493" ypos="32.0196" zpos="-256.214" type="legs.keys.sylvari20.life.issue.sign" GUID="aVw41qduvU+HSZGm6Q6Lng=="/>
         <Trail type="legs.keys.sylvari20.life.issue.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Source of the Issue 1.trl"/>
         <Trail type="legs.keys.sylvari20.life.issue.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Source of the Issue 2 Instance.trl"/>
-        <POI MapID="542" xpos="205.94" ypos="-0.340012" zpos="-156.557" type="legs.keys.sylvari20.life.issue.set.wp" GUID="caZ0CEG/zkCKHX/s/rK7NA==" copy="[&BFwAAAA=]" copy-message="Watchful Source Waypoint"/>
+        <POI MapID="542" xpos="205.94" ypos="-0.340012" zpos="-156.557" type="legs.keys.sylvari20.life.issue.wp" GUID="caZ0CEG/zkCKHX/s/rK7NA==" copy="[&BFwAAAA=]" copy-message="Watchful Source Waypoint"/>
         <!-- Snuffing Out Embers -->
-        <POI MapID="54" xpos="923.358" ypos="31.8713" zpos="-254.042" type="legs.keys.sylvari20.life.embers.set.sign" GUID="+0zEo/0TG0Ctpu0ibTgSDQ=="/>
+        <POI MapID="54" xpos="923.358" ypos="31.8713" zpos="-254.042" type="legs.keys.sylvari20.life.embers.sign" GUID="+0zEo/0TG0Ctpu0ibTgSDQ=="/>
         <Trail type="legs.keys.sylvari20.life.embers.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Snuffing Out Embers 1.trl"/>
         <Trail type="legs.keys.sylvari20.life.embers.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Sylvari/Life/Snuffing Out Embers 2 Instance.trl"/>
-        <POI MapID="558" xpos="761.66" ypos="84.7574" zpos="107.008" type="legs.keys.sylvari20.life.issue.set.wp" GUID="/7cFjtZYV0qNXYWzGcd0jg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
+        <POI MapID="558" xpos="761.66" ypos="84.7574" zpos="107.008" type="legs.keys.sylvari20.life.issue.wp" GUID="/7cFjtZYV0qNXYWzGcd0jg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
         <!-- Chapter 3 - lvl 30 - The Orders of Tyria-->
-        <POI MapID="91" xpos="16.6214" ypos="68.7057" zpos="8.09963" type="legs.keys.oot.sylvari.flesh.set.sign" GUID="411J4wyqmUqbVI15ZNA49g=="/>
+        <POI MapID="91" xpos="16.6214" ypos="68.7057" zpos="8.09963" type="legs.keys.oot.sylvari.flesh.sign" GUID="411J4wyqmUqbVI15ZNA49g=="/>
         <Trail type="legs.keys.oot.sylvari.flesh.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/A Splinter in the Flesh 1.trl"/>
         <Trail type="legs.keys.oot.sylvari.flesh.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/A Splinter in the Flesh 2 Instance.trl"/>
-        <POI MapID="557" xpos="33.1659" ypos="104.067" zpos="16.0291" type="legs.keys.oot.sylvari.flesh.set.choice" GUID="5st0e0lCukaIkAgnNM3DcA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 1 - Sharpened Thorns.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="557" xpos="33.3136" ypos="101.682" zpos="16.2206" type="legs.keys.oot.sylvari.flesh.set.wp" GUID="Jkbgdw6hBEixBVM3dRIGrA==" copy="[&BEEBAAA=]" copy-message="Wychmire Waypoint"/>
+        <POI MapID="557" xpos="33.1659" ypos="104.067" zpos="16.0291" type="legs.keys.oot.sylvari.flesh.choice" GUID="5st0e0lCukaIkAgnNM3DcA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 1 - Sharpened Thorns.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="557" xpos="33.3136" ypos="101.682" zpos="16.2206" type="legs.keys.oot.sylvari.flesh.wp" GUID="Jkbgdw6hBEixBVM3dRIGrA==" copy="[&BEEBAAA=]" copy-message="Wychmire Waypoint"/>
         <!-- Sharpened Thorns -->
-        <POI MapID="648" xpos="29.8917" ypos="104.383" zpos="15.2224" type="legs.keys.oot.sylvari.thorns.set.choice" GUID="uEQ0Qt96BkSbOFrnE3RPuA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 2 - Secrets in the Earth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="648" xpos="29.8917" ypos="104.383" zpos="15.2224" type="legs.keys.oot.sylvari.thorns.choice" GUID="uEQ0Qt96BkSbOFrnE3RPuA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 2 - Secrets in the Earth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.oot.sylvari.thorns.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Sharpened Thorns 1.trl"/>
-        <POI MapID="23" xpos="-176.952" ypos="45.5488" zpos="-552.985" type="legs.keys.oot.sylvari.thorns.set.sign" GUID="VRT9k5vZIEyZcKIyUheV8A=="/>
+        <POI MapID="23" xpos="-176.952" ypos="45.5488" zpos="-552.985" type="legs.keys.oot.sylvari.thorns.sign" GUID="VRT9k5vZIEyZcKIyUheV8A=="/>
         <Trail type="legs.keys.oot.sylvari.thorns.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Sharpened Thorns 2.trl"/>
-        <POI MapID="34" xpos="-458.935" ypos="6.67065" zpos="1144.52" type="legs.keys.oot.sylvari.thorns.set.sign" GUID="WAvSGMHxqUKSJ+sRze2iDg=="/>
+        <POI MapID="34" xpos="-458.935" ypos="6.67065" zpos="1144.52" type="legs.keys.oot.sylvari.thorns.sign" GUID="WAvSGMHxqUKSJ+sRze2iDg=="/>
         <Trail type="legs.keys.oot.sylvari.thorns.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Sharpened Thorns 3 Instance.trl"/>
-        <POI MapID="560" xpos="326.98" ypos="57.1836" zpos="-384.334" type="legs.keys.oot.sylvari.thorns.set.choice" GUID="AtoUXeXxp0m+rK3lYHBlWg==" info="Guard the Courtyard" infoRange="2"/>
-        <POI MapID="560" xpos="327.007" ypos="57.1575" zpos="-380.128" type="legs.keys.oot.sylvari.thorns.set.wp" GUID="B41LX6+GcEyxWuzkyLVQcA==" info="Attend the Cannons" infoRange="2"/>
-        <POI MapID="560" xpos="330.356" ypos="57.1575" zpos="-377.03" type="legs.keys.oot.sylvari.thorns.set.wp" GUID="A4dcIeU0S0+sIHcsVPEleg==" info="Fix the gate, then reinforce the ground troops." infoRange="2"/>
-        <POI MapID="560" xpos="331.759" ypos="57.1605" zpos="-382.69" type="legs.keys.oot.sylvari.thorns.set.wp" GUID="3nZ08Pzv5k6m/r0+EbV+Yg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
+        <POI MapID="560" xpos="326.98" ypos="57.1836" zpos="-384.334" type="legs.keys.oot.sylvari.thorns.choice" GUID="AtoUXeXxp0m+rK3lYHBlWg==" info="Guard the Courtyard" infoRange="2"/>
+        <POI MapID="560" xpos="327.007" ypos="57.1575" zpos="-380.128" type="legs.keys.oot.sylvari.thorns.wp" GUID="B41LX6+GcEyxWuzkyLVQcA==" info="Attend the Cannons" infoRange="2"/>
+        <POI MapID="560" xpos="330.356" ypos="57.1575" zpos="-377.03" type="legs.keys.oot.sylvari.thorns.wp" GUID="A4dcIeU0S0+sIHcsVPEleg==" info="Fix the gate, then reinforce the ground troops." infoRange="2"/>
+        <POI MapID="560" xpos="331.759" ypos="57.1605" zpos="-382.69" type="legs.keys.oot.sylvari.thorns.wp" GUID="3nZ08Pzv5k6m/r0+EbV+Yg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
         <Trail type="legs.keys.oot.sylvari.thorns.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Sharpened Thorns 4 Instance.trl"/>
-        <POI MapID="648" xpos="29.8588" ypos="101.359" zpos="15.3008" type="legs.keys.oot.sylvari.thorns.set.wp" GUID="JZEDuYFkT0aTdSm0oEBKgg==" copy="[&BAoAAAA=]" copy-message="Ireko Tradecamp Waypoint"/>
+        <POI MapID="648" xpos="29.8588" ypos="101.359" zpos="15.3008" type="legs.keys.oot.sylvari.thorns.wp" GUID="JZEDuYFkT0aTdSm0oEBKgg==" copy="[&BAoAAAA=]" copy-message="Ireko Tradecamp Waypoint"/>
         <!-- Secrets in the Earth -->
-        <POI MapID="648" xpos="33.1659" ypos="104.067" zpos="16.0291" type="legs.keys.oot.sylvari.earth.set.choice" GUID="dAnWYa1N7U61kFyz/aYESw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 3 - The Bad Apple.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="648" xpos="33.1659" ypos="104.067" zpos="16.0291" type="legs.keys.oot.sylvari.earth.choice" GUID="dAnWYa1N7U61kFyz/aYESw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 3 - The Bad Apple.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.oot.sylvari.earth.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Secrets in the Earth 1.trl"/>
         <Trail type="legs.keys.oot.sylvari.earth.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Secrets in the Earth 2 Instance.trl"/>
-        <POI MapID="23" xpos="-381.679" ypos="3.36174" zpos="-412.53" type="legs.keys.oot.sylvari.earth.set.sign" GUID="3TeU7wERHEa+QbP+LNnncg=="/>
-        <POI MapID="563" xpos="-947.166" ypos="0.947384" zpos="-517.969" type="legs.keys.oot.sylvari.earth.set.wp" GUID="Y+0XTrqaq0OEXkALUC+8Rg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
+        <POI MapID="23" xpos="-381.679" ypos="3.36174" zpos="-412.53" type="legs.keys.oot.sylvari.earth.sign" GUID="3TeU7wERHEa+QbP+LNnncg=="/>
+        <POI MapID="563" xpos="-947.166" ypos="0.947384" zpos="-517.969" type="legs.keys.oot.sylvari.earth.wp" GUID="Y+0XTrqaq0OEXkALUC+8Rg==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
         <!-- The Bade Apple -->
-        <POI MapID="648" xpos="28.6518" ypos="104.343" zpos="14.4672" type="legs.keys.oot.sylvari.apple.set.choice" GUID="4JPyZEw51kO0kwBWOxVx1g==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 4 - Dead of Winter.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="648" xpos="32.9266" ypos="101.645" zpos="16.3308" type="legs.keys.oot.sylvari.apple.set.wp" GUID="Lb02YPTZQU6sa0rvDhcHTQ==" copy="[&BO8AAAA=]" copy-message="Shaemoor Waypoint"/>
-        <POI MapID="15" xpos="-417.685" ypos="35.0721" zpos="438.801" type="legs.keys.oot.sylvari.apple.set.sign" GUID="kxxBtGaV/kSZMOEsYDsKiw=="/>
+        <POI MapID="648" xpos="28.6518" ypos="104.343" zpos="14.4672" type="legs.keys.oot.sylvari.apple.choice" GUID="4JPyZEw51kO0kwBWOxVx1g==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/OoT 4 - Dead of Winter.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="648" xpos="32.9266" ypos="101.645" zpos="16.3308" type="legs.keys.oot.sylvari.apple.wp" GUID="Lb02YPTZQU6sa0rvDhcHTQ==" copy="[&BO8AAAA=]" copy-message="Shaemoor Waypoint"/>
+        <POI MapID="15" xpos="-417.685" ypos="35.0721" zpos="438.801" type="legs.keys.oot.sylvari.apple.sign" GUID="kxxBtGaV/kSZMOEsYDsKiw=="/>
         <Trail type="legs.keys.oot.sylvari.apple.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/The Bad Apple 1.trl"/>
-        <POI MapID="24" xpos="-1191.32" ypos="6.19294" zpos="378.259" type="legs.keys.oot.sylvari.apple.set.sign" GUID="ThZv6fHGbkm/fXcxVIfolQ=="/>
+        <POI MapID="24" xpos="-1191.32" ypos="6.19294" zpos="378.259" type="legs.keys.oot.sylvari.apple.sign" GUID="ThZv6fHGbkm/fXcxVIfolQ=="/>
         <Trail type="legs.keys.oot.sylvari.apple.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/The Bad Apple 2.trl"/>
         <Trail type="legs.keys.oot.sylvari.apple.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/The Bad Apple 3 Instance.trl"/>
-        <POI MapID="566" xpos="-1133.72" ypos="9.73411" zpos="331.538" type="legs.keys.oot.sylvari.apple.set.wp" GUID="xYlEOLLbXUCVrPYcxx4ukw==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
-        <POI MapID="648" xpos="29.0506" ypos="101.326" zpos="14.5018" type="legs.keys.oot.sylvari.apple.set.wp" GUID="Qal0YMsG6UGaCH1guKPVEQ==" copy="[&BOAAAAA=]" copy-message="Stoneguard Gate Waypoint"/>
+        <POI MapID="566" xpos="-1133.72" ypos="9.73411" zpos="331.538" type="legs.keys.oot.sylvari.apple.wp" GUID="xYlEOLLbXUCVrPYcxx4ukw==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
+        <POI MapID="648" xpos="29.0506" ypos="101.326" zpos="14.5018" type="legs.keys.oot.sylvari.apple.wp" GUID="Qal0YMsG6UGaCH1guKPVEQ==" copy="[&BOAAAAA=]" copy-message="Stoneguard Gate Waypoint"/>
         <!-- Dead of Winter -->
-        <POI MapID="24" xpos="-1153.42" ypos="8.27255" zpos="347.104" type="legs.keys.oot.sylvari.winter.set.sign" GUID="pg7xijGOrkatHou4zzFbcQ=="/>
+        <POI MapID="24" xpos="-1153.42" ypos="8.27255" zpos="347.104" type="legs.keys.oot.sylvari.winter.sign" GUID="pg7xijGOrkatHou4zzFbcQ=="/>
         <Trail type="legs.keys.oot.sylvari.winter.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Dead of Winter 1.trl"/>
         <Trail type="legs.keys.oot.sylvari.winter.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Dead of Winter 2 Instance.trl"/>
         <Trail type="legs.keys.oot.sylvari.winter.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/Dead of Winter 2 Instance Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0"/>
-        <POI MapID="570" xpos="-38.3292" ypos="11.9292" zpos="487.005" type="legs.keys.oot.sylvari.winter.set.choice" GUID="gAUD82ZOyki5l5X4TZuliA==" info="INTERACT with Emote: /bow" infoRange="5"/>
-        <POI MapID="570" xpos="13.8477" ypos="3.10775" zpos="527.042" type="legs.keys.oot.sylvari.winter.set.choice" GUID="J+4zoKC02kyCKyoA5neAtA==" info="Follow Dotted Line and PICK UP Ancestor's Bone." infoRange="5"/>
-        <POI MapID="570" xpos="43.6013" ypos="3.10817" zpos="543.391" type="legs.keys.oot.sylvari.winter.set.choice" GUID="Trc4dGJ71UG4U2EbkKX9gQ==" info="INTERACT with a Brazier.&#xA;&#xA;2. Place the bones inside on Brazier.&#xA;&#xA;LIGHT the rest of the Braziers." infoRange="5"/>
-        <POI MapID="570" xpos="42.1033" ypos="-0.255679" zpos="576.761" type="legs.keys.oot.sylvari.winter.set.wp" GUID="TTHZfcqr6UmDcYMePhfV6Q==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
+        <POI MapID="570" xpos="-38.3292" ypos="11.9292" zpos="487.005" type="legs.keys.oot.sylvari.winter.choice" GUID="gAUD82ZOyki5l5X4TZuliA==" info="INTERACT with Emote: /bow" infoRange="5"/>
+        <POI MapID="570" xpos="13.8477" ypos="3.10775" zpos="527.042" type="legs.keys.oot.sylvari.winter.choice" GUID="J+4zoKC02kyCKyoA5neAtA==" info="Follow Dotted Line and PICK UP Ancestor's Bone." infoRange="5"/>
+        <POI MapID="570" xpos="43.6013" ypos="3.10817" zpos="543.391" type="legs.keys.oot.sylvari.winter.choice" GUID="Trc4dGJ71UG4U2EbkKX9gQ==" info="INTERACT with a Brazier.&#xA;&#xA;2. Place the bones inside on Brazier.&#xA;&#xA;LIGHT the rest of the Braziers." infoRange="5"/>
+        <POI MapID="570" xpos="42.1033" ypos="-0.255679" zpos="576.761" type="legs.keys.oot.sylvari.winter.wp" GUID="TTHZfcqr6UmDcYMePhfV6Q==" copy="[&BLoEAAA=]" copy-message="Upper Common's Waypoint"/>
         <!-- Chapter 4 - lvl 40 -->
         <!-- To Lion's Arch -->
-        <POI MapID="24" xpos="248.659" ypos="2.43398" zpos="-463.624" type="legs.keys.settingthestage.set.sign" GUID="U2zCw86qdkOq0MFHc8PQ5w==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="91" xpos="14.7635" ypos="68.6414" zpos="8.36352" type="legs.keys.settingthestage.set.sign" GUID="gTP1/lzNq0WVfAeBorV01g==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <Trail type="legs.keys.settingthestage.tg" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="24" xpos="248.659" ypos="2.43398" zpos="-463.624" type="legs.keystingthestage.sign" GUID="U2zCw86qdkOq0MFHc8PQ5w==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="91" xpos="14.7635" ypos="68.6414" zpos="8.36352" type="legs.keystingthestage.sign" GUID="gTP1/lzNq0WVfAeBorV01g==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keystingthestage.tg" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Sylvari/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
     </POIs>
 </OverlayData>

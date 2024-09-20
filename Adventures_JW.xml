@@ -5,28 +5,28 @@
         <!-- Lowland Shore -->
 
 
-        <Trail type="legs.ls.ad.hssr" trailData="Data/LadyElyssa/JW/Adventures/Harvest Shore Salmon Run.trl"/>
-        <POI MapID="1550" xpos="670.02" ypos="0.314446" zpos="482.421" type="legs.ls.ad.hssr" GUID="BWxX/Huzfka53sv1eGiTQA==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
-        <POI MapID="1550" xpos="681.951" ypos="101.899" zpos="207.741" type="legs.ls.ad.hssr" GUID="wgiwySe7HUu+7Rpl8uUlig==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
-        <POI MapID="1550" xpos="381.34" ypos="145.719" zpos="-11.5264" type="legs.ls.ad.hssr" GUID="ojJMMVEhTUCoIoIDvQaYFw==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
-        <POI MapID="1550" xpos="319.977" ypos="228.686" zpos="-154.404" type="legs.ls.ad.hssr" GUID="pnnC8ciWmkeP1cFfgQssEw==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
-        <POI MapID="1550" xpos="284.012" ypos="252.334" zpos="-156.1" type="legs.ls.ad.hssr" GUID="eVSWwIsIC0uGOANIs/yZsg==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
-        <POI MapID="1550" xpos="484.561" ypos="307.071" zpos="-477.839" type="legs.ls.ad.hssr" GUID="FXFy72r/LUCmCP4SyXwSVg==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <Trail type="legs.adventure.ls.hssr" trailData="Data/LadyElyssa/Adventures/JW/Harvest Shore Salmon Run.trl"/>
+        <POI MapID="1550" xpos="670.02" ypos="0.314446" zpos="482.421" type="legs.adventure.ls.hssr" GUID="BWxX/Huzfka53sv1eGiTQA==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="681.951" ypos="101.899" zpos="207.741" type="legs.adventure.ls.hssr" GUID="wgiwySe7HUu+7Rpl8uUlig==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="381.34" ypos="145.719" zpos="-11.5264" type="legs.adventure.ls.hssr" GUID="ojJMMVEhTUCoIoIDvQaYFw==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="319.977" ypos="228.686" zpos="-154.404" type="legs.adventure.ls.hssr" GUID="pnnC8ciWmkeP1cFfgQssEw==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="284.012" ypos="252.334" zpos="-156.1" type="legs.adventure.ls.hssr" GUID="eVSWwIsIC0uGOANIs/yZsg==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="484.561" ypos="307.071" zpos="-477.839" type="legs.adventure.ls.hssr" GUID="FXFy72r/LUCmCP4SyXwSVg==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
 
-        <Trail type="legs.ls.ad.has" trailData="Data/LadyElyssa/JW/Adventures/To Hide-and-Seek.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.ls.ad.has" trailData="Data/LadyElyssa/JW/Adventures/Hide-and-Seek.trl"/>
-        <Trail type="legs.ls.ad.mccsr" trailData="Data/LadyElyssa/JW/Adventures/Moon Camp Covert Salmon Run.trl"/>
-        <POI MapID="1550" xpos="345.475" ypos="307.128" zpos="-443.079" type="legs.ls.ad.mccsr" GUID="w2nMSYi2/kyerksR96CkzQ==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
-        <POI MapID="1550" xpos="156.91" ypos="307.457" zpos="-265.294" type="legs.ls.ad.mccsr" GUID="S3ql3qUhREy16r1Y+5+jBw==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
-        <Trail type="legs.ls.ad.rs" trailData="Data/LadyElyssa/JW/Adventures/Raven Scouting.trl"/>
-        <Trail type="legs.ls.ad.wr" trailData="Data/LadyElyssa/JW/Adventures/Warclaw Run.trl"/>
+        <Trail type="legs.adventure.ls.has" trailData="Data/LadyElyssa/Adventures/JW/To Hide-and-Seek.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.adventure.ls.has" trailData="Data/LadyElyssa/Adventures/JW/Hide-and-Seek.trl"/>
+        <Trail type="legs.adventure.ls.mccsr" trailData="Data/LadyElyssa/Adventures/JW/Moon Camp Covert Salmon Run.trl"/>
+        <POI MapID="1550" xpos="345.475" ypos="307.128" zpos="-443.079" type="legs.adventure.ls.mccsr" GUID="w2nMSYi2/kyerksR96CkzQ==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="156.91" ypos="307.457" zpos="-265.294" type="legs.adventure.ls.mccsr" GUID="S3ql3qUhREy16r1Y+5+jBw==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
+        <Trail type="legs.adventure.ls.rs" trailData="Data/LadyElyssa/Adventures/JW/Raven Scouting.trl"/>
+        <Trail type="legs.adventure.ls.lswr" trailData="Data/LadyElyssa/Adventures/JW/Warclaw Run.trl"/>
 
         <!-- Janthir Syntri -->
 
-        <Trail type="legs.js.ad.wr" trailData="Data/LadyElyssa/JW/Adventures/JS Warclaw Run.trl"/>
-        <Trail type="legs.js.ad.swc" trailData="Data/LadyElyssa/JW/Adventures/Save Woodland Creatures.trl"/>
-        <Trail type="legs.js.ad.ss" trailData="Data/LadyElyssa/JW/Adventures/Swift Skiffs.trl"/>
-        <Trail type="legs.js.ad.vftt" trailData="Data/LadyElyssa/JW/Adventures/The View from the Top.trl"/>
+        <Trail type="legs.adventure.js.jswr" trailData="Data/LadyElyssa/Adventures/JW/JS Warclaw Run.trl"/>
+        <Trail type="legs.adventure.js.swc" trailData="Data/LadyElyssa/Adventures/JW/Save Woodland Creatures.trl"/>
+        <Trail type="legs.adventure.js.rm" trailData="Data/LadyElyssa/Adventures/JW/Swift Skiffs.trl"/>
+        <Trail type="legs.adventure.js.vftt" trailData="Data/LadyElyssa/Adventures/JW/The View from the Top.trl"/>
 
 
     </POIs>

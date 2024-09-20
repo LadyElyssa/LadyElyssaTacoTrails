@@ -1,0 +1,698 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+
+        <!-- Festivals -->
+
+        <MarkerCategory name="festivals" DisplayName="Festivals">
+            <!-- Dragon Bash -->
+            <MarkerCategory name="dragonbash" DisplayName="Dragon Bash">
+                <MarkerCategory name="adventure1" DisplayName="Adventure - Dragon Bash Rally">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="adventure2" DisplayName="Adventure - Pinatta Bashing">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="skills" IsSeparator="1" DisplayName="SKILLS"/>
+                    <MarkerCategory name="1" DisplayName="Pinata Popper" iconFile="Data/LadyElyssa/Images/Pinata Popper.png" heightOffset="0" minSize="24" maxSize="24" fadeNear="1200" fadeFar="1600"/>
+                    <MarkerCategory name="2" DisplayName="Pinata Bowl" iconFile="Data/LadyElyssa/Images/Pinata Bowl.png" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
+                    <MarkerCategory name="3" DisplayName="Dragon Launch" iconFile="Data/LadyElyssa/Images/Dragon Launch.png" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
+                    <MarkerCategory name="target" DisplayName="Toggle Target Markers" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow - Orange.png" heightOffset="0" minimapVisibility="1" mapVisibility="0" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
+                    <!-- End Skills -->
+                </MarkerCategory>
+
+                <MarkerCategory name="fireworks" DisplayName="Fireworks" texture="Data/LadyElyssa/Images/Icons/Fireworks.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+                <!-- End Fireworks -->
+
+                <MarkerCategory name="fireworkswps" DisplayName="Fireworks using WPs" texture="Data/LadyElyssa/Images/Icons/FireworksWPS.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER" minimapVisibility="1"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                    <!-- End Numbers -->
+                </MarkerCategory>
+
+                <!-- End Fireworks using WPs -->
+                <MarkerCategory name="pinata" DisplayName="Pinata, 1 WP" texture="Data/LadyElyssa/Images/Icons/Zhaitaffy.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" mapVisibility="1" minimapVisibility="1" mapDisplaySize="96"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER" minimapVisibility="1"/>
+                    <MarkerCategory name="1" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                </MarkerCategory>
+                <!-- End Pinatta -->
+
+                <MarkerCategory name="pinatawp" DisplayName="Pinata using WP's" texture="Data/LadyElyssa/Images/Icons/ZhaitaffyWPS.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" mapVisibility="1" minimapVisibility="1" mapDisplaySize="96"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" minimapVisibility="1">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                            <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="number" DisplayName="PATH NUMBER" minimapVisibility="1">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                    </MarkerCategory>
+                    <!-- End Numbers -->
+                </MarkerCategory>
+                <!-- End Pinatta -->
+
+                <MarkerCategory name="zhaitaffy" DisplayName="Pinata and Fireworks">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" mapVisibility="1" minimapVisibility="1" mapDisplaySize="96"/>
+                    <MarkerCategory name="number" DisplayName="PATH NUMBER" minimapVisibility="1">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                    </MarkerCategory>
+                    <!-- End Numbers -->
+                </MarkerCategory>
+                <!-- End Pinatta + Fireworks -->
+
+            </MarkerCategory>
+
+
+            <!-- Festival of the Four Winds -->
+
+            <MarkerCategory name="fotfw" DisplayName="Festival of the Four Winds" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.5" alpha="0.8" fadeNear="1400" fadeFar="2000">
+                <MarkerCategory name="cp" DisplayName="Crown Pavilion">
+                    <MarkerCategory name="race" DisplayName="Race - Pavilion Pursuit" texture="Data/LadyElyssa/Images/Dashed Gradient.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="lc" DisplayName="Labyrinthine Cliffs">
+                    <MarkerCategory name="lanterns" DisplayName="Dead Quaggan Lanterns" texture="Data/LadyElyssa/Images/Bubble Trail.png"/>
+                    <MarkerCategory name="quartz" DisplayName="Quartz Crystal" color="00CCFF"/>
+                    <MarkerCategory name="race" DisplayName="Race - Flying Dolyak" texture="Data/LadyElyssa/Images/Dashed Gradient.png"/>
+                    <MarkerCategory name="treasure" DisplayName="Treasure Hunt" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+
+            <!-- Halloween -->
+
+            <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/LadyElyssa/Images/Candy Gradient.png">
+                <MarkerCategory name="clocktower" DisplayName="Clocktower" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0" fadeNear="600" fadeFar="800">
+                    <MarkerCategory name="trail" DisplayName="Mad King's Clocktower" color="FF33FF"/>
+                </MarkerCategory>
+                <MarkerCategory name="labyrinth" DisplayName="Labyrinth">
+                    <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="race" DisplayName="Race - Mad King's Labyrinth" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
+                    <MarkerCategory name="main" DisplayName="Main Labyrinth Route"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Routes" texture="Data/LadyElyssa/Images/Candy Gradient BW.png"/>
+                    <MarkerCategory name="horror" DisplayName="Labyrinthine Horror Locations" iconFile="Data/LadyElyssa/Images/Icons/Red_Boss.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="24"/>
+                </MarkerCategory>
+                <MarkerCategory name="raceway" DisplayName="Raceway">
+                    <MarkerCategory name="lebb" DisplayName="Time Trial: Li'l Eddie's Bunny Bounce" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
+                    <MarkerCategory name="pp" DisplayName="Time Trial: Pumpkin Paradise" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
+                    <MarkerCategory name="ritm" DisplayName="Time Trial: Roll in to Madness" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="pumpkin" DisplayName="Pumpkin Carving">
+                    <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATIONS"/>
+                    <MarkerCategory name="la" DisplayName="Lions Arch">
+                        <MarkerCategory name="set" DisplayName="Settings">
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                                <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
+                                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                                <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                            </MarkerCategory>
+                            <!-- End Gliders -->
+                            <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                                    <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                                </MarkerCategory>
+                                <!-- End -->
+                                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                                    <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                                </MarkerCategory>
+                                <!-- End Mounts   -->
+                                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                            </MarkerCategory>
+                            <!-- End Mounts -->
+                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                            </MarkerCategory>
+                            <!-- End Numbers -->
+                        </MarkerCategory>
+                        <!-- End Settings -->
+                    </MarkerCategory>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest">
+                        <MarkerCategory name="set" DisplayName="Settings">
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                                <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
+                                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                                <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                            </MarkerCategory>
+                            <!-- End Gliders -->
+                            <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                                    <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                                </MarkerCategory>
+                                <!-- End -->
+                                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                                    <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                                </MarkerCategory>
+                                <!-- End Mounts   -->
+                                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                            </MarkerCategory>
+                            <!-- End Mounts -->
+                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+                                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/LadyElyssa/Images/Numbers/14.png"/>
+                                <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/LadyElyssa/Images/Numbers/15.png"/>
+                                <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/LadyElyssa/Images/Numbers/16.png"/>
+                                <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/LadyElyssa/Images/Numbers/17.png"/>
+                            </MarkerCategory>
+                            <!-- End Numbers -->
+                        </MarkerCategory>
+                        <!-- End Settings -->
+                    </MarkerCategory>
+                    <!-- End Caledon Forest -->
+                    <MarkerCategory name="metrica" DisplayName="Metrica Province">
+                        <MarkerCategory name="set" DisplayName="Settings">
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                                <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
+                                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                                <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                            </MarkerCategory>
+                            <!-- End Gliders -->
+                            <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                                    <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                                </MarkerCategory>
+                                <!-- End -->
+                                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                                    <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                                </MarkerCategory>
+                                <!-- End Mounts   -->
+                                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                            </MarkerCategory>
+                            <!-- End Mounts -->
+                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+                                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/LadyElyssa/Images/Numbers/14.png"/>
+                            </MarkerCategory>
+                            <!-- End Numbers -->
+                        </MarkerCategory>
+                        <!-- End Settings -->
+                    </MarkerCategory>
+                    <!-- End Metrica Province -->
+                    <MarkerCategory name="ashford" DisplayName="Plains of Ashford">
+                        <MarkerCategory name="set" DisplayName="Settings">
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                                <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
+                                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                                <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                            </MarkerCategory>
+                            <!-- End Gliders -->
+                            <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                                    <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                                </MarkerCategory>
+                                <!-- End -->
+                                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                                    <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                                </MarkerCategory>
+                                <!-- End Mounts   -->
+                                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                            </MarkerCategory>
+                            <!-- End Mounts -->
+                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+                                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/LadyElyssa/Images/Numbers/14.png"/>
+                                <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/LadyElyssa/Images/Numbers/15.png"/>
+                                <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/LadyElyssa/Images/Numbers/16.png"/>
+                                <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/LadyElyssa/Images/Numbers/17.png"/>
+                            </MarkerCategory>
+                            <!-- End Numbers -->
+                        </MarkerCategory>
+                        <!-- End Settings -->
+                    </MarkerCategory>
+                    <!-- End Plains of Ashford -->
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale">
+                        <MarkerCategory name="set" DisplayName="Settings">
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                                <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
+                                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                                <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                            </MarkerCategory>
+                            <!-- End Gliders -->
+                            <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                                    <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                                </MarkerCategory>
+                                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                                    <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                                </MarkerCategory>
+                                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                            </MarkerCategory>
+                            <!-- End Mounts -->
+                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+                                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/LadyElyssa/Images/Numbers/14.png"/>
+                            </MarkerCategory>
+                            <!-- End Numbers -->
+                        </MarkerCategory>
+                        <!-- End Settings -->
+                    </MarkerCategory>
+                    <!-- End Queensdale -->
+                    <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills">
+                        <MarkerCategory name="set" DisplayName="Settings">
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
+                                <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
+                                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
+                                <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                            </MarkerCategory>
+                            <!-- End Gliders -->
+                            <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                                    <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                                </MarkerCategory>
+                                <!-- End -->
+                                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                                    <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                                </MarkerCategory>
+                                <!-- End Mounts   -->
+                                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                            </MarkerCategory>
+                            <!-- End Mounts -->
+                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+                                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/LadyElyssa/Images/Numbers/14.png"/>
+                                <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/LadyElyssa/Images/Numbers/15.png"/>
+                                <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/LadyElyssa/Images/Numbers/16.png"/>
+                                <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/LadyElyssa/Images/Numbers/17.png"/>
+                                <MarkerCategory name="18" DisplayName="Eighteen" iconFile="Data/LadyElyssa/Images/Numbers/18.png"/>
+                                <MarkerCategory name="19" DisplayName="Nineteen" iconFile="Data/LadyElyssa/Images/Numbers/19.png"/>
+                                <MarkerCategory name="20" DisplayName="Twenty" iconFile="Data/LadyElyssa/Images/Numbers/20.png"/>
+                                <MarkerCategory name="21" DisplayName="Twenty One" iconFile="Data/LadyElyssa/Images/Numbers/21.png"/>
+                            </MarkerCategory>
+                            <!-- End Numbers -->
+                        </MarkerCategory>
+                        <!-- End Settings -->
+                    </MarkerCategory>
+                    <!-- End Wayfarer Foothills -->
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <!--  Lunar New Year -->
+
+            <MarkerCategory name="lny" DisplayName="Lunar New Year" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.8" alpha="1" fadeNear="3300" fadeFar="5000">
+
+                <MarkerCategory name="firecrackers" DisplayName="Firecrackers" alpha="0.7">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="firecrackerlightingcw" DisplayName="Firecracker Lighting CW">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="firecrackerlightingccw" DisplayName="Firecracker Lighting CCW">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="firecrackerlightingtwo" DisplayName="Firecracker Lighting 2">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="firecrackerbiohazard" DisplayName="Firecracker Lighting 2 - Biohazard">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="firecrackerspiral" DisplayName="Firecracker Lighting 2 - Spiral">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="footrace" DisplayName="Foot Race" texture="Data/LadyElyssa/Images/Lunar New Year Foot Race.png" animSpeed="0.6" alpha="1" fadeNear="3300" fadeFar="5000">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="race" DisplayName="Race" texture="Data/LadyElyssa/Images/Lunar New Year Race.png" animSpeed="0.8" alpha="1" fadeNear="3300" fadeFar="5000">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+
+            <!-- Super Adventure Box -->
+
+            <MarkerCategory name="sab" DisplayName="Super Adventure Box" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" animSpeed="0" alpha="1" fadeNear="900" fadeFar="1200">
+                <MarkerCategory name="hub" DisplayName="Super Adventure Hub" texture="Data/LadyElyssa/Images/Line - Medium with Shadow.png" fadeNear="1200" fadeFar="1600">
+                    <MarkerCategory name="race" DisplayName="Race"/>
+                </MarkerCategory>
+                <MarkerCategory name="w1z1" DisplayName="World 1 Zone 1">
+                    <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                </MarkerCategory>
+                <MarkerCategory name="w1z2" DisplayName="World 1 Zone 2">
+                    <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="number" DisplayName="Number">
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/SAB/1.png" heightOffset="0.5"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/SAB/2.png" heightOffset="0.5"/>
+                        </MarkerCategory>
+                    </MarkerCategory>
+                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
+                    <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm Trail" color="ABCDEF"/>
+                </MarkerCategory>
+                <MarkerCategory name="w1z3" DisplayName="World 1 Zone 3">
+                    <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
+                    <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm Trail" color="ABCDEF"/>
+                </MarkerCategory>
+                <MarkerCategory name="w2z1" DisplayName="World 2 Zone 1">
+                    <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="stump" DisplayName="Toggle Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
+                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
+                    <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
+                </MarkerCategory>
+                <MarkerCategory name="w2z2" DisplayName="World 2 Zone 2">
+                    <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="stump" DisplayName="Toggle Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
+                    <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
+                </MarkerCategory>
+                <MarkerCategory name="w2z3" DisplayName="World 2 Zone 3">
+                    <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="flute" DisplayName="Toggle Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
+                        <MarkerCategory name="goat" DisplayName="Toggle Warning - Goat" iconFile="Data/LadyElyssa/Images/SAB/Goat Warning.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="info" DisplayName="Toggle Info" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="stump" DisplayName="Toggle Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
+                        <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="cfw_l2r" DisplayName="Toggle Warning - Cliff Face L2R" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="cfw_r2l" DisplayName="Toggle Warning - Cliff Face R2L" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
+                    <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
+                </MarkerCategory>
+                <MarkerCategory name="w3z1" DisplayName="World 3 Test Zone">
+                    <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
+                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+
+            <!-- Wintersday -->
+
+            <MarkerCategory name="wintersday" DisplayName="Wintersday">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="locations" DisplayName="Toggle Orphan Locations" iconFile="Data/LadyElyssa/Images/WrappedGift.png" mapDisplaySize="24" heightOffset="3" inGameVisibility="0"/>                
+
+                <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
+                <MarkerCategory name="orphans" DisplayName="Orphans No WP's" texture="Data/LadyElyssa/Images/Trail-Karma.png">
+                    <MarkerCategory name="set"  IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" mapDisplaySize="96"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                            <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                </MarkerCategory>
+                <!-- End Orphans -->
+                <MarkerCategory name="orphanswp" DisplayName="Orphans using WP's" texture="Data/LadyElyssa/Images/Trail-Karma.png">
+                    <MarkerCategory name="set"  IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" mapDisplaySize="96"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Reminders" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                            <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                </MarkerCategory>
+                <MarkerCategory name="race" DisplayName="Race"/>
+                <MarkerCategory name="footrace" DisplayName="Foot Race"/>
+            </MarkerCategory>
+        </MarkerCategory>
+        <!-- End Festivals -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

@@ -3,123 +3,123 @@
         <!-- PATH OF FIRE -->
         <!-- Crystal Oasis -->
         <!-- Refugee Supply Run -->
-        <POI MapID="1210" xpos="-707.37" ypos="1.09204" zpos="-97.0848" type="legs.pofad.rsr.sign" GUID="BT4N3HI+GkmmYN+xQftMtA==" iconFile="Data/LadyElyssa/Images/Adventures/Refugee Supply Run.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.rsr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Refugee Supply Run.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.rsr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Refugee Supply Run.trl" animSpeed="0.5"/>
+        <POI MapID="1210" xpos="-707.37" ypos="1.09204" zpos="-97.0848" type="legs.adventure.co.rsr.sign" GUID="BT4N3HI+GkmmYN+xQftMtA==" iconFile="Data/LadyElyssa/Images/Adventures/Refugee Supply Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.co.rsr.to" trailData="Data/LadyElyssa/Adventures/PoF/To Refugee Supply Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.co.rsr.trail" trailData="Data/LadyElyssa/Adventures/PoF/Refugee Supply Run.trl" animSpeed="0.5"/>
         <!-- Crystal Oasis Griffon Expert -->
-        <POI MapID="1210" xpos="693.153" ypos="122.614" zpos="187.124" type="legs.pofad.coge.sign" GUID="hX9wZW7vgkS6v23ZD5fGhA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.coge.to" trailData="Data/LadyElyssa/PoF/Adventures/CO To Griffon Expert.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.coge.trail" trailData="Data/LadyElyssa/PoF/Adventures/CO Griffon Expert.trl" animSpeed="0.5"/>
+        <POI MapID="1210" xpos="693.153" ypos="122.614" zpos="187.124" type="legs.adventure.co.coge.sign" GUID="hX9wZW7vgkS6v23ZD5fGhA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.co.coge.to" trailData="Data/LadyElyssa/Adventures/PoF/CO To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.co.coge.trail" trailData="Data/LadyElyssa/Adventures/PoF/CO Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Crystal Oasis Griffon Master -->
-        <POI MapID="1210" xpos="-754.231" ypos="2.05998" zpos="-97.628" type="legs.pofad.cogm.sign" GUID="hHq94hXpPU+yq8KN0TMvTA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.cogm.to" trailData="Data/LadyElyssa/PoF/Adventures/CO To Griffon Master.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.cogm.trail" trailData="Data/LadyElyssa/PoF/Adventures/CO Griffon Master.trl" animSpeed="0.5"/>
+        <POI MapID="1210" xpos="-754.231" ypos="2.05998" zpos="-97.628" type="legs.adventure.co.cogm.sign" GUID="hHq94hXpPU+yq8KN0TMvTA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.co.cogm.to" trailData="Data/LadyElyssa/Adventures/PoF/CO To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.co.cogm.trail" trailData="Data/LadyElyssa/Adventures/PoF/CO Griffon Master.trl" animSpeed="0.5"/>
         <!-- Desert Highlands -->
         <!-- Cavalier Express Parcel Run -->
-        <POI MapID="1211" xpos="510.537" ypos="162.023" zpos="-675.627" type="legs.pofad.cepr.sign" GUID="MIklhdP0g0yDdeI8ViOPTQ==" iconFile="Data/LadyElyssa/Images/Adventures/Cavalier Express Parcel Run.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.cepr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Cavalier Express Parcel Run.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.cepr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Cavalier Express Parcel Run.trl" animSpeed="0.5"/>
-        <POI MapID="1211" xpos="229.207" ypos="154.064" zpos="-411.489" type="legs.pofad.cepr.mount.raptor" GUID="YDFsfSodSkaQ1/zkGxDYwg=="/>
-		  <POI MapID="1211" xpos="22.2376" ypos="144.32" zpos="-106.472" type="legs.pofad.cepr.mount.springer" GUID="x+PSORzh4E+nXkKpFR62jA=="/>
-		  <POI MapID="1211" xpos="-5.6008" ypos="198.831" zpos="-55.6581" type="legs.pofad.cepr.mount.beetle" GUID="zQvjJ0OMiUSfCbct3pckcg=="/>
-		  <POI MapID="1211" xpos="314.089" ypos="155.815" zpos="-55.2632" type="legs.pofad.cepr.mount.jackal" GUID="NZV7RogJqEOPalMfJT7bkw=="/>
-		  <POI MapID="1211" xpos="329.613" ypos="235.938" zpos="37.3402" type="legs.pofad.cepr.mount.beetle" GUID="dm8qMBzEME+hZZ/yby2vHw=="/>
-		  <POI MapID="1211" xpos="255.339" ypos="265.465" zpos="468.588" type="legs.pofad.cepr.mount.raptor" GUID="kOF8PgiPjE6OzUElEwVYxg=="/>
-		  <POI MapID="1211" xpos="309.113" ypos="260.824" zpos="529.75" type="legs.pofad.cepr.mount.jackal" GUID="cbOUFzVK40Scmf1kt1+hTA=="/>
-		  <POI MapID="1211" xpos="410.938" ypos="287.857" zpos="566.263" type="legs.pofad.cepr.mount.raptor" GUID="DYSm8MRetkOHPsB3JdxiyA=="/>
-		  <POI MapID="1211" xpos="487.364" ypos="290.111" zpos="584.761" type="legs.pofad.cepr.mount.griffon" GUID="SUYw5qUZy0mEhYlZbqVfEg=="/>
-		  <POI MapID="1211" xpos="710.904" ypos="200.999" zpos="-37.4408" type="legs.pofad.cepr.mount.beetle" GUID="SpQtWe1Z1EmJ5t1+/V22lQ=="/>
+        <POI MapID="1211" xpos="510.537" ypos="162.023" zpos="-675.627" type="legs.adventure.dh.cepr.sign" GUID="MIklhdP0g0yDdeI8ViOPTQ==" iconFile="Data/LadyElyssa/Images/Adventures/Cavalier Express Parcel Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dh.cepr.to" trailData="Data/LadyElyssa/Adventures/PoF/To Cavalier Express Parcel Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dh.cepr.trail" trailData="Data/LadyElyssa/Adventures/PoF/Cavalier Express Parcel Run.trl" animSpeed="0.5"/>
+        <POI MapID="1211" xpos="229.207" ypos="154.064" zpos="-411.489" type="legs.adventure.dh.cepr.mount.raptor" GUID="YDFsfSodSkaQ1/zkGxDYwg=="/>
+		  <POI MapID="1211" xpos="22.2376" ypos="144.32" zpos="-106.472" type="legs.adventure.dh.cepr.mount.springer" GUID="x+PSORzh4E+nXkKpFR62jA=="/>
+		  <POI MapID="1211" xpos="-5.6008" ypos="198.831" zpos="-55.6581" type="legs.adventure.dh.cepr.mount.beetle" GUID="zQvjJ0OMiUSfCbct3pckcg=="/>
+		  <POI MapID="1211" xpos="314.089" ypos="155.815" zpos="-55.2632" type="legs.adventure.dh.cepr.mount.jackal" GUID="NZV7RogJqEOPalMfJT7bkw=="/>
+		  <POI MapID="1211" xpos="329.613" ypos="235.938" zpos="37.3402" type="legs.adventure.dh.cepr.mount.beetle" GUID="dm8qMBzEME+hZZ/yby2vHw=="/>
+		  <POI MapID="1211" xpos="255.339" ypos="265.465" zpos="468.588" type="legs.adventure.dh.cepr.mount.raptor" GUID="kOF8PgiPjE6OzUElEwVYxg=="/>
+		  <POI MapID="1211" xpos="309.113" ypos="260.824" zpos="529.75" type="legs.adventure.dh.cepr.mount.jackal" GUID="cbOUFzVK40Scmf1kt1+hTA=="/>
+		  <POI MapID="1211" xpos="410.938" ypos="287.857" zpos="566.263" type="legs.adventure.dh.cepr.mount.raptor" GUID="DYSm8MRetkOHPsB3JdxiyA=="/>
+		  <POI MapID="1211" xpos="487.364" ypos="290.111" zpos="584.761" type="legs.adventure.dh.cepr.mount.griffon" GUID="SUYw5qUZy0mEhYlZbqVfEg=="/>
+		  <POI MapID="1211" xpos="710.904" ypos="200.999" zpos="-37.4408" type="legs.adventure.dh.cepr.mount.beetle" GUID="SpQtWe1Z1EmJ5t1+/V22lQ=="/>
         <!-- Highlands Griffon Expert -->
-        <POI MapID="1211" xpos="-137.791" ypos="251.312" zpos="409.515" type="legs.pofad.dhge.sign" GUID="ZBBC0m/8xkygXESC+0alYQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dhge.to" trailData="Data/LadyElyssa/PoF/Adventures/DH To Griffon Expert.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dhge.trail" trailData="Data/LadyElyssa/PoF/Adventures/DH Griffon Expert.trl" animSpeed="0.5"/>
+        <POI MapID="1211" xpos="-137.791" ypos="251.312" zpos="409.515" type="legs.adventure.dh.dhge.sign" GUID="ZBBC0m/8xkygXESC+0alYQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dh.dhge.to" trailData="Data/LadyElyssa/Adventures/PoF/DH To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dh.dhge.trail" trailData="Data/LadyElyssa/Adventures/PoF/DH Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Highlands Griffon Master -->
-        <POI MapID="1211" xpos="-1289.78" ypos="341.614" zpos="441.963" type="legs.pofad.dhgm.sign" GUID="3fl12DMm4028NN4nm9BXpg==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dhgm.to" trailData="Data/LadyElyssa/PoF/Adventures/DH To Griffon Master.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dhgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/DH Griffon Master.trl" animSpeed="0.5"/>
+        <POI MapID="1211" xpos="-1289.78" ypos="341.614" zpos="441.963" type="legs.adventure.dh.dhgm.sign" GUID="3fl12DMm4028NN4nm9BXpg==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dh.dhgm.to" trailData="Data/LadyElyssa/Adventures/PoF/DH To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dh.dhgm.trail" trailData="Data/LadyElyssa/Adventures/PoF/DH Griffon Master.trl" animSpeed="0.5"/>
         <!-- Elon Riverlands -->
         <!-- Skimshallow Cove Supply Run -->
-        <POI MapID="1228" xpos="-587.841" ypos="3.72521" zpos="-25.7189" type="legs.pofad.scsr.sign" GUID="zOtqgOh5ikmXLhHssZ1CHQ==" iconFile="Data/LadyElyssa/Images/Adventures/Skimshallow Cove Supply Run.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.scsr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Skimshallow Cove Supply Run.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.scsr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Skimshallow Cove Supply Run.trl" animSpeed="0.5"/>
-        <POI MapID="1228" xpos="-666.663" ypos="21.618" zpos="-115.468" type="legs.pofad.scsr.mount.skyscale" GUID="Kpm6TCVcGES26JZOp2v4VA=="/>
-		  <POI MapID="1228" xpos="-697.106" ypos="28.2353" zpos="-191.314" type="legs.pofad.scsr.mount.jackal" GUID="LnCWUUPvhEe5qs5XS5XRaw=="/>
-		  <POI MapID="1228" xpos="-847.73" ypos="79.5342" zpos="211.039" type="legs.pofad.scsr.mount.skyscale" GUID="egRvKpqmsUq5h7lOMfrUMA=="/>
-		  <POI MapID="1228" xpos="-849.947" ypos="74.2813" zpos="149.319" type="legs.pofad.scsr.mount.raptor" GUID="/R9b3YKNTkqCjFb1reNKvg=="/>
-		  <POI MapID="1228" xpos="-726.444" ypos="69.9059" zpos="275.54" type="legs.pofad.scsr.mount.beetle" GUID="l/NNKdtfHUyGE2TXtvHM5g=="/>
-		  <POI MapID="1228" xpos="-486.376" ypos="83.0273" zpos="345.411" type="legs.pofad.scsr.mount.bof" GUID="HpHSsNnLzUutd+HsplduGg=="/>
-		  <POI MapID="1228" xpos="-486.283" ypos="83.0243" zpos="345.31" type="legs.pofad.scsr.mount.raptor" GUID="GtPptgp6MESs4VlxvtxEDw=="/>
-		  <POI MapID="1228" xpos="-452.639" ypos="85.0776" zpos="328.381" type="legs.pofad.scsr.mount.skyscale" GUID="VMrtSWppEE2Sh1wJRo1xkA=="/>
-		  <POI MapID="1228" xpos="-435.295" ypos="111.469" zpos="275.296" type="legs.pofad.scsr.mount.griffon" GUID="FtSZXZMHFEmSoqk/pIDtXQ=="/>
-		  <POI MapID="1228" xpos="-699.715" ypos="79.0614" zpos="-348.267" type="legs.pofad.scsr.mount.griffon" GUID="7xoUI46oJUuZCZmyMdFMCg=="/>
+        <POI MapID="1228" xpos="-587.841" ypos="3.72521" zpos="-25.7189" type="legs.adventure.er.scsr.sign" GUID="zOtqgOh5ikmXLhHssZ1CHQ==" iconFile="Data/LadyElyssa/Images/Adventures/Skimshallow Cove Supply Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.er.scsr.to" trailData="Data/LadyElyssa/Adventures/PoF/To Skimshallow Cove Supply Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.er.scsr.trail" trailData="Data/LadyElyssa/Adventures/PoF/Skimshallow Cove Supply Run.trl" animSpeed="0.5"/>
+        <POI MapID="1228" xpos="-666.663" ypos="21.618" zpos="-115.468" type="legs.adventure.er.scsr.mount.skyscale" GUID="Kpm6TCVcGES26JZOp2v4VA=="/>
+		  <POI MapID="1228" xpos="-697.106" ypos="28.2353" zpos="-191.314" type="legs.adventure.er.scsr.mount.jackal" GUID="LnCWUUPvhEe5qs5XS5XRaw=="/>
+		  <POI MapID="1228" xpos="-847.73" ypos="79.5342" zpos="211.039" type="legs.adventure.er.scsr.mount.skyscale" GUID="egRvKpqmsUq5h7lOMfrUMA=="/>
+		  <POI MapID="1228" xpos="-849.947" ypos="74.2813" zpos="149.319" type="legs.adventure.er.scsr.mount.raptor" GUID="/R9b3YKNTkqCjFb1reNKvg=="/>
+		  <POI MapID="1228" xpos="-726.444" ypos="69.9059" zpos="275.54" type="legs.adventure.er.scsr.mount.beetle" GUID="l/NNKdtfHUyGE2TXtvHM5g=="/>
+		  <POI MapID="1228" xpos="-486.376" ypos="83.0273" zpos="345.411" type="legs.adventure.er.scsr.mount.bof" GUID="HpHSsNnLzUutd+HsplduGg=="/>
+		  <POI MapID="1228" xpos="-486.283" ypos="83.0243" zpos="345.31" type="legs.adventure.er.scsr.mount.raptor" GUID="GtPptgp6MESs4VlxvtxEDw=="/>
+		  <POI MapID="1228" xpos="-452.639" ypos="85.0776" zpos="328.381" type="legs.adventure.er.scsr.mount.skyscale" GUID="VMrtSWppEE2Sh1wJRo1xkA=="/>
+		  <POI MapID="1228" xpos="-435.295" ypos="111.469" zpos="275.296" type="legs.adventure.er.scsr.mount.griffon" GUID="FtSZXZMHFEmSoqk/pIDtXQ=="/>
+		  <POI MapID="1228" xpos="-699.715" ypos="79.0614" zpos="-348.267" type="legs.adventure.er.scsr.mount.griffon" GUID="7xoUI46oJUuZCZmyMdFMCg=="/>
         <!-- Riverlands Griffon Expert -->
-        <POI MapID="1228" xpos="-559.415" ypos="4.12905" zpos="-12.8805" type="legs.pofad.erge.sign" GUID="AhSf5L+ZqkO7V/wC9oFsFA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.erge.to" trailData="Data/LadyElyssa/PoF/Adventures/ER To Griffon Expert.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.erge.trail" trailData="Data/LadyElyssa/PoF/Adventures/ER Griffon Expert.trl" animSpeed="0.5"/>
+        <POI MapID="1228" xpos="-559.415" ypos="4.12905" zpos="-12.8805" type="legs.adventure.er.erge.sign" GUID="AhSf5L+ZqkO7V/wC9oFsFA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.er.erge.to" trailData="Data/LadyElyssa/Adventures/PoF/ER To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.er.erge.trail" trailData="Data/LadyElyssa/Adventures/PoF/ER Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Riverlands Griffon Master -->
-        <POI MapID="1228" xpos="194.405" ypos="33.6567" zpos="86.6824" type="legs.pofad.erge.sign" GUID="y555TQ1EpkalVkiM9M5Mgg==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.ergm.to" trailData="Data/LadyElyssa/PoF/Adventures/ER To Griffon Master.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.ergm.trail" trailData="Data/LadyElyssa/PoF/Adventures/ER Griffon Master.trl" animSpeed="0.5"/>
+        <POI MapID="1228" xpos="194.405" ypos="33.6567" zpos="86.6824" type="legs.adventure.er.erge.sign" GUID="y555TQ1EpkalVkiM9M5Mgg==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.pofad.ergm.to" trailData="Data/LadyElyssa/Adventures/PoF/ER To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.pofad.ergm.trail" trailData="Data/LadyElyssa/Adventures/PoF/ER Griffon Master.trl" animSpeed="0.5"/>
         <!-- The Desolation -->
         <!-- Desolation Griffon Expert -->
-        <POI MapID="1226" xpos="246.289" ypos="263.884" zpos="291.744" type="legs.pofad.tdge.sign" GUID="DyZO7sUcH0Khd7yoOhOFXQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.tdge.to" trailData="Data/LadyElyssa/PoF/Adventures/TD To Griffon Expert.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.tdge.trail" trailData="Data/LadyElyssa/PoF/Adventures/TD Griffon Expert.trl" animSpeed="0.5"/>
+        <POI MapID="1226" xpos="246.289" ypos="263.884" zpos="291.744" type="legs.adventure.de.tdge.sign" GUID="DyZO7sUcH0Khd7yoOhOFXQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.de.tdge.to" trailData="Data/LadyElyssa/Adventures/PoF/TD To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.de.tdge.trail" trailData="Data/LadyElyssa/Adventures/PoF/TD Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Desolation Griffon Master -->
-        <POI MapID="1226" xpos="-544.314" ypos="238.258" zpos="-1192.44" type="legs.pofad.tdgm.sign" GUID="FJfwNGiXckiuzoMpycDRkA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.tdgm.to" trailData="Data/LadyElyssa/PoF/Adventures/TD To Griffon Master.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.tdgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/TD Griffon Master.trl" animSpeed="0.5"/>
+        <POI MapID="1226" xpos="-544.314" ypos="238.258" zpos="-1192.44" type="legs.adventure.de.tdgm.sign" GUID="FJfwNGiXckiuzoMpycDRkA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.de.tdgm.to" trailData="Data/LadyElyssa/Adventures/PoF/TD To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.de.tdgm.trail" trailData="Data/LadyElyssa/Adventures/PoF/TD Griffon Master.trl" animSpeed="0.5"/>
         <!-- Shadows Intel -->
-        <POI MapID="1226" xpos="852.029" ypos="265.277" zpos="-247.676" type="legs.pofad.tdsi.sign" GUID="TbqBsP7qw0Kg0eCK7IDUJg==" iconFile="Data/LadyElyssa/Images/Adventures/Shadows Intel.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.tdsi.to" trailData="Data/LadyElyssa/PoF/Adventures/TD To Shadows Intel.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.tdsi.trail" trailData="Data/LadyElyssa/PoF/Adventures/TD Shadows Intel.trl" animSpeed="0.5"/>
-        <POI MapID="1226" xpos="441.714" ypos="303.351" zpos="-255.508" type="legs.pofad.tdsi.mount.skyscale" GUID="bM2rMJoypUm/W3pLBVyElQ=="/>
-		  <POI MapID="1226" xpos="450.117" ypos="323.919" zpos="-223.986" type="legs.pofad.tdsi.mount.griffon" GUID="XyD9m3ZGnUu9kyQbIaPhyQ=="/>
-		  <POI MapID="1226" xpos="928.414" ypos="276.734" zpos="-731.258" type="legs.pofad.tdsi.mount.beetle" GUID="tCYLHtZHPEe6OSBfxvhezQ=="/>
-		  <POI MapID="1226" xpos="980.113" ypos="277.364" zpos="-557.727" type="legs.pofad.tdsi.mount.bof" GUID="LiE3pwpdo0SZw8N0ftW8Bg=="/>
-		  <POI MapID="1226" xpos="1016.49" ypos="272.99" zpos="-526.421" type="legs.pofad.tdsi.mount.raptor" GUID="OrJbuVven02QAdSBxEQXYA=="/>
-		  <POI MapID="1226" xpos="931.119" ypos="267.927" zpos="-409.559" type="legs.pofad.tdsi.mount.jackal" GUID="YrdLygrhX023Fv9JX71VHg=="/>
-		  <POI MapID="1226" xpos="954.323" ypos="313.562" zpos="-341.268" type="legs.pofad.tdsi.mount.skyscale" GUID="RCcIDkBn+E2mh/YwWakf5g=="/>
-		  <POI MapID="1226" xpos="954.264" ypos="315.86" zpos="-341.25" type="legs.pofad.tdsi.mount.griffon" GUID="CJvyjprGEE2PvIcsE3Yuxg=="/>
+        <POI MapID="1226" xpos="852.029" ypos="265.277" zpos="-247.676" type="legs.adventure.de.tdsi.sign" GUID="TbqBsP7qw0Kg0eCK7IDUJg==" iconFile="Data/LadyElyssa/Images/Adventures/Shadows Intel.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.de.tdsi.to" trailData="Data/LadyElyssa/Adventures/PoF/TD To Shadows Intel.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.de.tdsi.trail" trailData="Data/LadyElyssa/Adventures/PoF/TD Shadows Intel.trl" animSpeed="0.5"/>
+        <POI MapID="1226" xpos="441.714" ypos="303.351" zpos="-255.508" type="legs.adventure.de.tdsi.mount.skyscale" GUID="bM2rMJoypUm/W3pLBVyElQ=="/>
+		  <POI MapID="1226" xpos="450.117" ypos="323.919" zpos="-223.986" type="legs.adventure.de.tdsi.mount.griffon" GUID="XyD9m3ZGnUu9kyQbIaPhyQ=="/>
+		  <POI MapID="1226" xpos="928.414" ypos="276.734" zpos="-731.258" type="legs.adventure.de.tdsi.mount.beetle" GUID="tCYLHtZHPEe6OSBfxvhezQ=="/>
+		  <POI MapID="1226" xpos="980.113" ypos="277.364" zpos="-557.727" type="legs.adventure.de.tdsi.mount.bof" GUID="LiE3pwpdo0SZw8N0ftW8Bg=="/>
+		  <POI MapID="1226" xpos="1016.49" ypos="272.99" zpos="-526.421" type="legs.adventure.de.tdsi.mount.raptor" GUID="OrJbuVven02QAdSBxEQXYA=="/>
+		  <POI MapID="1226" xpos="931.119" ypos="267.927" zpos="-409.559" type="legs.adventure.de.tdsi.mount.jackal" GUID="YrdLygrhX023Fv9JX71VHg=="/>
+		  <POI MapID="1226" xpos="954.323" ypos="313.562" zpos="-341.268" type="legs.adventure.de.tdsi.mount.skyscale" GUID="RCcIDkBn+E2mh/YwWakf5g=="/>
+		  <POI MapID="1226" xpos="954.264" ypos="315.86" zpos="-341.25" type="legs.adventure.de.tdsi.mount.griffon" GUID="CJvyjprGEE2PvIcsE3Yuxg=="/>
         <!-- Domin of Vabbi -->
         <!-- Garden Wine and Cheese Run -->
-        <POI MapID="1248" xpos="-323.651" ypos="107.464" zpos="336.452" type="legs.pofad.dovgwcr.sign" GUID="VqXTAruju0uQceGaUcb6xA==" iconFile="Data/LadyElyssa/Images/Adventures/Garden Wine and Cheese Run.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dovgwcr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Garden Wine and Cheese Run.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dovgwcr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Garden Wine and Cheese Run.trl" animSpeed="0.5"/>
+        <POI MapID="1248" xpos="-323.651" ypos="107.464" zpos="336.452" type="legs.adventure.dov.dovgwcr.sign" GUID="VqXTAruju0uQceGaUcb6xA==" iconFile="Data/LadyElyssa/Images/Adventures/Garden Wine and Cheese Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dov.dovgwcr.to" trailData="Data/LadyElyssa/Adventures/PoF/To Garden Wine and Cheese Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dov.dovgwcr.trail" trailData="Data/LadyElyssa/Adventures/PoF/Garden Wine and Cheese Run.trl" animSpeed="0.5"/>
         <!-- Vabbian Griffon Expert -->
-        <POI MapID="1248" xpos="769.145" ypos="178.138" zpos="-23.5776" type="legs.pofad.dovge.sign" GUID="CloNpKvTmk6RRywHhgyESA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dovge.to" trailData="Data/LadyElyssa/PoF/Adventures/DOV To Griffon Expert.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dovge.trail" trailData="Data/LadyElyssa/PoF/Adventures/DOV Griffon Expert.trl" animSpeed="0.5"/>
+        <POI MapID="1248" xpos="769.145" ypos="178.138" zpos="-23.5776" type="legs.adventure.dov.dovge.sign" GUID="CloNpKvTmk6RRywHhgyESA==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Expert.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dov.dovge.to" trailData="Data/LadyElyssa/Adventures/PoF/DOV To Griffon Expert.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dov.dovge.trail" trailData="Data/LadyElyssa/Adventures/PoF/DOV Griffon Expert.trl" animSpeed="0.5"/>
         <!-- Vabbian Griffon Master -->
-        <POI MapID="1248" xpos="770.174" ypos="177.551" zpos="-8.38147" type="legs.pofad.dovgm.to" GUID="UDWaxHS9o0CFACXddeYKqQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dovgm.to" trailData="Data/LadyElyssa/PoF/Adventures/DOV To Griffon Master.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dovgm.trail" trailData="Data/LadyElyssa/PoF/Adventures/DOV Griffon Master.trl" animSpeed="0.5"/>
+        <POI MapID="1248" xpos="770.174" ypos="177.551" zpos="-8.38147" type="legs.adventure.dov.dovgm.to" GUID="UDWaxHS9o0CFACXddeYKqQ==" iconFile="Data/LadyElyssa/Images/Adventures/Griffon Master.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dov.dovgm.to" trailData="Data/LadyElyssa/Adventures/PoF/DOV To Griffon Master.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dov.dovgm.trail" trailData="Data/LadyElyssa/Adventures/PoF/DOV Griffon Master.trl" animSpeed="0.5"/>
         <!-- Necropolis Embalming Supply Run -->
-        <POI MapID="1248" xpos="-579.098" ypos="113.538" zpos="-439.613" type="legs.pofad.dovnesr.sign" GUID="tQH0RZ3FYUG7T9P30vCvHg==" iconFile="Data/LadyElyssa/Images/Adventures/Necropolis Embalming Supply Run.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dovnesr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Necropolis Embalming Supply Run.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dovnesr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Necropolis Embalming Supply Run.trl" animSpeed="0.5"/>
-        <POI MapID="1248" xpos="-834.909" ypos="185.3" zpos="-365.383" type="legs.pofad.dovnesr.mount.springer" GUID="perY+W9YykemcsIaUSZmLg=="/>
-		  <POI MapID="1248" xpos="-922.461" ypos="295.36" zpos="-320.641" type="legs.pofad.dovnesr.mount.griffon" GUID="4p9x4xgmM0SNHag1UGttDw=="/>
-		  <POI MapID="1248" xpos="-954.133" ypos="230.785" zpos="-752.751" type="legs.pofad.dovnesr.mount.jackal" GUID="udDOzPcPYEi+ed/xDBJuwQ=="/>
-		  <POI MapID="1248" xpos="-790.697" ypos="277.519" zpos="-805.599" type="legs.pofad.dovnesr.mount.griffon" GUID="prukQakEGUOWFUOaIU26AA=="/>
-		  <POI MapID="1248" xpos="-794.84" ypos="165.992" zpos="-466.499" type="legs.pofad.dovnesr.mount.griffon" GUID="kW6vN0VqFEW3uPyzGsYQGg=="/>
+        <POI MapID="1248" xpos="-579.098" ypos="113.538" zpos="-439.613" type="legs.adventure.dov.dovnesr.sign" GUID="tQH0RZ3FYUG7T9P30vCvHg==" iconFile="Data/LadyElyssa/Images/Adventures/Necropolis Embalming Supply Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dov.dovnesr.to" trailData="Data/LadyElyssa/Adventures/PoF/To Necropolis Embalming Supply Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dov.dovnesr.trail" trailData="Data/LadyElyssa/Adventures/PoF/Necropolis Embalming Supply Run.trl" animSpeed="0.5"/>
+        <POI MapID="1248" xpos="-834.909" ypos="185.3" zpos="-365.383" type="legs.adventure.dov.dovnesr.mount.springer" GUID="perY+W9YykemcsIaUSZmLg=="/>
+		  <POI MapID="1248" xpos="-922.461" ypos="295.36" zpos="-320.641" type="legs.adventure.dov.dovnesr.mount.griffon" GUID="4p9x4xgmM0SNHag1UGttDw=="/>
+		  <POI MapID="1248" xpos="-954.133" ypos="230.785" zpos="-752.751" type="legs.adventure.dov.dovnesr.mount.jackal" GUID="udDOzPcPYEi+ed/xDBJuwQ=="/>
+		  <POI MapID="1248" xpos="-790.697" ypos="277.519" zpos="-805.599" type="legs.adventure.dov.dovnesr.mount.griffon" GUID="prukQakEGUOWFUOaIU26AA=="/>
+		  <POI MapID="1248" xpos="-794.84" ypos="165.992" zpos="-466.499" type="legs.adventure.dov.dovnesr.mount.griffon" GUID="kW6vN0VqFEW3uPyzGsYQGg=="/>
         <!-- Vehjin Noble Necessities Run -->
-        <POI MapID="1248" xpos="-1077.08" ypos="139.439" zpos="418.875" type="legs.pofad.dovvnnr.sign" GUID="orG5zLGeSUKYc11nMJMoPQ==" iconFile="Data/LadyElyssa/Images/Adventures/Vehjin Noble Necessities Run.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dovvnnr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Vehjin Noble Necessities Run.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dovvnnr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Vehjin Noble Necessities Run.trl" animSpeed="0.5"/>
-        <POI MapID="1248" xpos="-1153.46" ypos="140.493" zpos="369.14" type="legs.pofad.dovvnnr.mount.griffon" GUID="fCbGUqn1O0S77z9DiiT0Sg=="/>
-		  <POI MapID="1248" xpos="-1325.7" ypos="96.006" zpos="22.4888" type="legs.pofad.dovvnnr.mount.springer" GUID="iM2jHqcSY0GJfH2VpxggKw=="/>
-		  <POI MapID="1248" xpos="-1154.49" ypos="48.9671" zpos="362.635" type="legs.pofad.dovvnnr.mount.jackal" GUID="0CewlnvwV02eDX2Y8gs5QQ=="/>
+        <POI MapID="1248" xpos="-1077.08" ypos="139.439" zpos="418.875" type="legs.adventure.dov.dovvnnr.sign" GUID="orG5zLGeSUKYc11nMJMoPQ==" iconFile="Data/LadyElyssa/Images/Adventures/Vehjin Noble Necessities Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dov.dovvnnr.to" trailData="Data/LadyElyssa/Adventures/PoF/To Vehjin Noble Necessities Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dov.dovvnnr.trail" trailData="Data/LadyElyssa/Adventures/PoF/Vehjin Noble Necessities Run.trl" animSpeed="0.5"/>
+        <POI MapID="1248" xpos="-1153.46" ypos="140.493" zpos="369.14" type="legs.adventure.dov.dovvnnr.mount.griffon" GUID="fCbGUqn1O0S77z9DiiT0Sg=="/>
+		  <POI MapID="1248" xpos="-1325.7" ypos="96.006" zpos="22.4888" type="legs.adventure.dov.dovvnnr.mount.springer" GUID="iM2jHqcSY0GJfH2VpxggKw=="/>
+		  <POI MapID="1248" xpos="-1154.49" ypos="48.9671" zpos="362.635" type="legs.adventure.dov.dovvnnr.mount.jackal" GUID="0CewlnvwV02eDX2Y8gs5QQ=="/>
         <!-- Vehtendi School Supply Run -->
-		  <POI MapID="1248" xpos="226.026" ypos="80.7786" zpos="-479.531" type="legs.pofad.dovvssr.sign" GUID="pj1fx6hvYEGz/UU7RXX3FA==" iconFile="Data/LadyElyssa/Images/Adventures/Vehtendi School Supply Run.png" mapDisplaySize="64"/>
-        <Trail type="legs.pofad.dovvssr.to" trailData="Data/LadyElyssa/PoF/Adventures/To Vehtendi School Supply Run.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.dovvssr.trail" trailData="Data/LadyElyssa/PoF/Adventures/Vehtendi School Supply Run.trl" animSpeed="0.5"/>
-        <POI MapID="1248" xpos="202.6" ypos="61.0522" zpos="-621.036" type="legs.pofad.dovvssr.mount.jackal" GUID="nwZi7feCW0Wfm2Kd5AnrAA=="/>
-        <POI MapID="1248" xpos="225.237" ypos="81.8561" zpos="-487.917" type="legs.pofad.dovvssr.mount.griffon" GUID="7/LGLHT9jU+86OMslbe/DA=="/>
+		  <POI MapID="1248" xpos="226.026" ypos="80.7786" zpos="-479.531" type="legs.adventure.dov.dovvssr.sign" GUID="pj1fx6hvYEGz/UU7RXX3FA==" iconFile="Data/LadyElyssa/Images/Adventures/Vehtendi School Supply Run.png" mapDisplaySize="64"/>
+        <Trail type="legs.adventure.dov.dovvssr.to" trailData="Data/LadyElyssa/Adventures/PoF/To Vehtendi School Supply Run.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.dov.dovvssr.trail" trailData="Data/LadyElyssa/Adventures/PoF/Vehtendi School Supply Run.trl" animSpeed="0.5"/>
+        <POI MapID="1248" xpos="202.6" ypos="61.0522" zpos="-621.036" type="legs.adventure.dov.dovvssr.mount.jackal" GUID="nwZi7feCW0Wfm2Kd5AnrAA=="/>
+        <POI MapID="1248" xpos="225.237" ypos="81.8561" zpos="-487.917" type="legs.adventure.dov.dovvssr.mount.griffon" GUID="7/LGLHT9jU+86OMslbe/DA=="/>
         <!-- Lion's Arch -->
         <!-- Advanced Skimmer Training -->
-        <POI MapID="50" xpos="469.276" ypos="22.4513" zpos="193.62" type="legs.pofad.laast.sign" GUID="ogicZ975rkm1cTNzcky9Mw==" iconFile="Data/LadyElyssa/Images/Adventures/Advanced Skimmer Training.png" mapDisplaySize="64"/>        
-        <Trail type="legs.pofad.laast.to" trailData="Data/LadyElyssa/PoF/Adventures/To Advanced Skimmer Training.trl" animSpeed="0.5"/>
-        <Trail type="legs.pofad.laast.trail" trailData="Data/LadyElyssa/PoF/Adventures/Advanced Skimmer Training.trl" animSpeed="0.5"/>
+        <POI MapID="50" xpos="469.276" ypos="22.4513" zpos="193.62" type="legs.adventure.la.laast.sign" GUID="ogicZ975rkm1cTNzcky9Mw==" iconFile="Data/LadyElyssa/Images/Adventures/Advanced Skimmer Training.png" mapDisplaySize="64"/>        
+        <Trail type="legs.adventure.la.laast.to" trailData="Data/LadyElyssa/Adventures/PoF/To Advanced Skimmer Training.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.la.laast.trail" trailData="Data/LadyElyssa/Adventures/PoF/Advanced Skimmer Training.trl" animSpeed="0.5"/>
     </POIs>
 </OverlayData>

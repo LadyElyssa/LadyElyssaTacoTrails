@@ -1,109 +1,109 @@
 <OverlayData>
     <POIs>
-        <!-- JUMPING PUZZLE - SHORTCUTS -->
-        <Trail type="legs.jpshort.chaoscrystalcavern.ironmarches.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Chaos Crystal Cavern.trl"/>
+        <!-- Jumping Puzzles - ShortcutS -->
+        <Trail type="legs.jpshort.chaoscrystalcavern.ironmarches" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Chaos Crystal Cavern.trl"/>
         <POI MapID="25" xpos="-414.508" ypos="42.3736" zpos="-911.435" type="legs.jpshort.chaoscrystalcavern.sign" GUID="swDmuHNUzESzROq56SW2RQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Chaos Crystal Cavern.png"/>
-        <Trail type="legs.jpshort.coddlerscove.timberline.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Coddler's Cove.trl"/>
+        <Trail type="legs.jpshort.coddlerscove.timberline" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Coddler's Cove.trl"/>
         <POI MapID="29" xpos="516.731" ypos="0.51998" zpos="-526.836" type="legs.jpshort.coddlerscove.sign" GUID="qmYW5wa6wEWnNUIB668EIA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Coddler's Cove.png"/>
-        <POI MapID="29" xpos="528.174" ypos="0.586497" zpos="-522.794" type="legs.jpshort.coddlerscove.set.mount.skimmer" GUID="z5hQUdkIL0Cf0ZcXu3Tn9A=="/>
-        <POI MapID="29" xpos="277.46" ypos="12.4107" zpos="-872.712" type="legs.jpshort.set.mount.springer" GUID="lLYUtN33OESofpv4VpTWmA=="/>
-        <POI MapID="29" xpos="277.473" ypos="31.8549" zpos="-873" type="legs.jpshort.set.mount.bof" GUID="UEgDur7MOkSmhqw1G6z0Yw=="/>
-        <POI MapID="29" xpos="256.931" ypos="38.4589" zpos="-885.797" type="legs.jpshort.set.mount.springer" GUID="oUZejSDeUEa0tqb7PAFYQw=="/>
-        <Trail type="legs.jpshort.conundrumcubed.maelstrom.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Conundrum Cubed.trl"/>
+        <POI MapID="29" xpos="528.174" ypos="0.586497" zpos="-522.794" type="legs.jpshort.coddlerscove.mount.skimmer" GUID="z5hQUdkIL0Cf0ZcXu3Tn9A=="/>
+        <POI MapID="29" xpos="277.46" ypos="12.4107" zpos="-872.712" type="legs.jpshort.mount.springer" GUID="lLYUtN33OESofpv4VpTWmA=="/>
+        <POI MapID="29" xpos="277.473" ypos="31.8549" zpos="-873" type="legs.jpshort.mount.bof" GUID="UEgDur7MOkSmhqw1G6z0Yw=="/>
+        <POI MapID="29" xpos="256.931" ypos="38.4589" zpos="-885.797" type="legs.jpshort.mount.springer" GUID="oUZejSDeUEa0tqb7PAFYQw=="/>
+        <Trail type="legs.jpshort.conundrumcubed.maelstrom" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Conundrum Cubed.trl"/>
         <POI MapID="39" xpos="-876.484" ypos="73.5308" zpos="361.112" type="legs.jpshort.conundrumcubed.sign" GUID="87JnAS5JrECrxi26ZPhW4w==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Conundrum Cubed.png"/>
-        <POI MapID="39" xpos="-646.81" ypos="74.7379" zpos="367.113" type="legs.jpshort.conundrumcubed.set.mount.skyscale" GUID="FR5JR8K/kEa7a+uDeW7zAg=="/>
-        <POI MapID="39" xpos="-801.923" ypos="186.575" zpos="746.847" type="legs.jpshort.conundrumcubed.set.glider.medium" GUID="mZL0dw1BbEiusSzNCLs0Kg==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="39" xpos="-1046.71" ypos="118.039" zpos="712.198" type="legs.jpshort.conundrumcubed.set.mount.springer" GUID="5ngNogbnYUGn2795REfzSQ=="/>
-        <POI MapID="39" xpos="-1046.71" ypos="120.539" zpos="712.198" type="legs.jpshort.conundrumcubed.set.mount.skyscale" GUID="ppI8dv98l0S5YgSaex2lAA=="/>
+        <POI MapID="39" xpos="-646.81" ypos="74.7379" zpos="367.113" type="legs.jpshort.conundrumcubed.mount.skyscale" GUID="FR5JR8K/kEa7a+uDeW7zAg=="/>
+        <POI MapID="39" xpos="-801.923" ypos="186.575" zpos="746.847" type="legs.jpshort.conundrumcubed.glider" GUID="mZL0dw1BbEiusSzNCLs0Kg==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="39" xpos="-1046.71" ypos="118.039" zpos="712.198" type="legs.jpshort.conundrumcubed.mount.springer" GUID="5ngNogbnYUGn2795REfzSQ=="/>
+        <POI MapID="39" xpos="-1046.71" ypos="120.539" zpos="712.198" type="legs.jpshort.conundrumcubed.mount.skyscale" GUID="ppI8dv98l0S5YgSaex2lAA=="/>
         <!--		
-        <Trail type="legs.jpshort.crashsite.drytop.colour"                trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Crash Site.trl"/>
+        <Trail type="legs.jpshort.crashsite.drytop"                trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Crash Site.trl"/>
 		<POI MapID="988" xpos="402.347" ypos="24.3" zpos="-500.701"       type="legs.jpshort.crashsite.sign" GUID="v6Q/DTGsfki5L6POTbLzgw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Crash Site.png"/>
-		<POI MapID="988" xpos="271.727" ypos="30.9191" zpos="-425.546"    type="legs.jpshort.crashsite.set.mount.springer" GUID="cg3KOeokIEaGwoZdwDyRQA=="/>
-		<POI MapID="988" xpos="313.386" ypos="42.0248" zpos="-439.207"    type="legs.jpshort.crashsite.set.mount.springer" GUID="q4G2rhZo20uOakHitMm0Bw=="/>
-		<POI MapID="988" xpos="402.347" ypos="23.1628" zpos="-500.701"    type="legs.jpshort.crashsite.set.mount.skyscale" GUID="49zY2ixeKEGcwjXpy1b6JA=="/>
-		<POI MapID="988" xpos="294.394" ypos="93.0768" zpos="-444.49"     type="legs.jpshort.crashsite.set.mount.springer" GUID="emMbOKtoWU2ONWrPZcdRBw=="  triggerRange="3" autoTrigger="1" info="Use Bond of Faith before you reach the top of the scaffolding."/>
-		<POI MapID="988" xpos="297.956" ypos="122.84" zpos="-421.808"     type="legs.jpshort.crashsite.set.glider.medium" GUID="Sv5MJXSZ3kGGhP9J64lJBQ==" fadeNear="1200" fadeFar="1400"/>
+		<POI MapID="988" xpos="271.727" ypos="30.9191" zpos="-425.546"    type="legs.jpshort.crashsite.mount.springer" GUID="cg3KOeokIEaGwoZdwDyRQA=="/>
+		<POI MapID="988" xpos="313.386" ypos="42.0248" zpos="-439.207"    type="legs.jpshort.crashsite.mount.springer" GUID="q4G2rhZo20uOakHitMm0Bw=="/>
+		<POI MapID="988" xpos="402.347" ypos="23.1628" zpos="-500.701"    type="legs.jpshort.crashsite.mount.skyscale" GUID="49zY2ixeKEGcwjXpy1b6JA=="/>
+		<POI MapID="988" xpos="294.394" ypos="93.0768" zpos="-444.49"     type="legs.jpshort.crashsite.mount.springer" GUID="emMbOKtoWU2ONWrPZcdRBw=="  triggerRange="3" autoTrigger="1" info="Use Bond of Faith before you reach the top of the scaffolding."/>
+		<POI MapID="988" xpos="297.956" ypos="122.84" zpos="-421.808"     type="legs.jpshort.crashsite.glider" GUID="Sv5MJXSZ3kGGhP9J64lJBQ==" fadeNear="1200" fadeFar="1400"/>
         -->
-        <Trail type="legs.jpshort.crimsonplateau.diessa.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Crimson Plateau.trl"/>
+        <Trail type="legs.jpshort.crimsonplateau.diessa" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Crimson Plateau.trl"/>
         <POI MapID="32" xpos="275.48" ypos="22.4009" zpos="-512.443" type="legs.jpshort.crimsonplateau.sign" GUID="Kn8+aO1bMUuGFxlwSDfdlw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Crimson Plateau.png"/>
-        <POI MapID="32" xpos="446.647" ypos="27.6407" zpos="-448.401" type="legs.jpshort.set.mount.springer" GUID="4/pTal3k2Ua1Yc2LGi4MpA=="/>
-        <POI MapID="32" xpos="458.349" ypos="78.6053" zpos="-435.564" type="legs.jpshort.set.mount.bof" GUID="7gK4z5gaQk63iEuTEb8yrA=="/>
-        <POI MapID="32" xpos="475.202" ypos="73.2581" zpos="-435.88" type="legs.jpshort.set.glider.large" GUID="pVbjIxUZVEWcNOcdiJw3ng==" fadeNear="1200" fadeFar="1400"/>
-        <Trail type="legs.jpshort.darkreverie.caledon.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Dark Reverie.trl"/>
+        <POI MapID="32" xpos="446.647" ypos="27.6407" zpos="-448.401" type="legs.jpshort.mount.springer" GUID="4/pTal3k2Ua1Yc2LGi4MpA=="/>
+        <POI MapID="32" xpos="458.349" ypos="78.6053" zpos="-435.564" type="legs.jpshort.mount.bof" GUID="7gK4z5gaQk63iEuTEb8yrA=="/>
+        <POI MapID="32" xpos="475.202" ypos="73.2581" zpos="-435.88" type="legs.jpshort.glider" GUID="pVbjIxUZVEWcNOcdiJw3ng==" fadeNear="1200" fadeFar="1400"/>
+        <Trail type="legs.jpshort.darkreverie.caledon" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Dark Reverie.trl"/>
         <POI MapID="34" xpos="453.2" ypos="23.177" zpos="-267.016" type="legs.jpshort.darkreverie.sign" GUID="rG1nSbgk/0CUeJLwmJedpg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Dark Reverie.png"/>
         <POI MapID="34" xpos="333.66" ypos="44.7581" zpos="-549.373" GUID="mMkXvS3V5k2841M2J72R+w==" type="legs.jpshort.darkreverie.caledon" triggerRange="3" autoTrigger="1" info="Use Engineer Rifle 5: Jump Shot or the Experimental Rifle to jump across." iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png"/>
         <POI MapID="34" xpos="311.297" ypos="44.0986" zpos="-547.739" GUID="VJNkqw3KlU2o97LuZLuXiw==" type="legs.jpshort.darkreverie.caledon" iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" minSize="28" maxSize="28"/>
-        <POI MapID="34" xpos="354.846" ypos="19.3873" zpos="-473.863" type="legs.jpshort.darkreverie.set.mount.springer" GUID="yKJ3TvMyJk65nYjK3OnYiA=="/>
+        <POI MapID="34" xpos="354.846" ypos="19.3873" zpos="-473.863" type="legs.jpshort.darkreverie.mount.springer" GUID="yKJ3TvMyJk65nYjK3OnYiA=="/>
         <POI MapID="34" xpos="316.566" ypos="71.8523" zpos="-520.299" type="legs.jpshort.darkreverie.caledon" GUID="JYR4kBgl3EW67EPiUQdjrA==" triggerRange="3" autoTrigger="1" info="Jump requires the Experimental Rifle, Engineer Rifle 5: Jump Shot or 600+ Range Leap." iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png"/>
         <POI MapID="34" xpos="300.443" ypos="66.3526" zpos="-521.543" type="legs.jpshort.darkreverie.caledon" GUID="3dCjyhDRCEuHjgXxRvkBcQ==" iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" minSize="28" maxSize="28"/>
         <POI MapID="34" xpos="333.66" ypos="44.7581" zpos="-549.373" GUID="4xnoaRHnJ0qkJw6CTmRCxA==" type="legs.jpshort.darkreverie.caledon" triggerRange="3" autoTrigger="1" info="Jump requires the Experimental Rifle or a 900 Range Leap." iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png"/>
-        <POI MapID="34" xpos="456.523" ypos="22.6521" zpos="-257.335" type="legs.jpshort.darkreverie.set.mount.jackal" GUID="y7sYBc07j02/26o6xA0ziA=="/>
-        <!--	<Trail type="legs.jpshort.darkreverie" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Dark Reverie Alt.trl"/> -->
-        <Trail type="legs.jpshort.demongrub.queensdale.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Demongrub Pits.trl"/>
+        <POI MapID="34" xpos="456.523" ypos="22.6521" zpos="-257.335" type="legs.jpshort.darkreverie.mount.jackal" GUID="y7sYBc07j02/26o6xA0ziA=="/>
+        <!--	<Trail type="legs.jpshort.darkreverie" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Dark Reverie Alt.trl"/> -->
+        <Trail type="legs.jpshort.demongrub.queensdale" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Demongrub Pits.trl"/>
         <POI MapID="15" xpos="519.405" ypos="4.4819" zpos="-255.631" type="legs.jpshort.demongrub.sign" GUID="K6eKwYyNdEy5KoIpX46r3w==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Demongrub Pits.png"/>
         <POI MapID="15" xpos="782.386" ypos="31.8672" zpos="89.0463" type="legs.jpshort.demongrub.sign" GUID="D3slC87sV0SWXfM/NfuinQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Demongrub Pits.png"/>
-        <POI MapID="15" xpos="782.417" ypos="30.8769" zpos="89.0166" type="legs.jpshort.demongrub.set.mount.beetle" GUID="/sdZM17jyEinP/r058qGNw=="/>
-        <POI MapID="15" xpos="522.529" ypos="2.58408" zpos="-266.744" type="legs.jpshort.demongrub.set.mount.jackal" GUID="fV/amTgklkaau2qH7Wbwvg=="/>
-        <POI MapID="15" xpos="909.405" ypos="59.0468" zpos="-528.172" type="legs.jpshort.demongrub.set.mount.skyscale" GUID="veTwroSm5ky3D1arIZU/GA=="/>
-        <POI MapID="15" xpos="909.438" ypos="93.2119" zpos="-528.319" type="legs.jpshort.demongrub.set.mount.bof" GUID="vcxO/RWkOkyxE+gbnyEGBA=="/>
-        <POI MapID="15" xpos="928.609" ypos="91.1149" zpos="-545.695" type="legs.jpshort.demongrub.set.glider.medium" GUID="y2GtWUFdaE65NA2pTZ+8MA==" fadeNear="1200" fadeFar="1400"/>
-        <Trail type="legs.jpshort.fawcett.harathi.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Fawcett's Bounty.trl"/>
+        <POI MapID="15" xpos="782.417" ypos="30.8769" zpos="89.0166" type="legs.jpshort.demongrub.mount.beetle" GUID="/sdZM17jyEinP/r058qGNw=="/>
+        <POI MapID="15" xpos="522.529" ypos="2.58408" zpos="-266.744" type="legs.jpshort.demongrub.mount.jackal" GUID="fV/amTgklkaau2qH7Wbwvg=="/>
+        <POI MapID="15" xpos="909.405" ypos="59.0468" zpos="-528.172" type="legs.jpshort.demongrub.mount.skyscale" GUID="veTwroSm5ky3D1arIZU/GA=="/>
+        <POI MapID="15" xpos="909.438" ypos="93.2119" zpos="-528.319" type="legs.jpshort.demongrub.mount.bof" GUID="vcxO/RWkOkyxE+gbnyEGBA=="/>
+        <POI MapID="15" xpos="928.609" ypos="91.1149" zpos="-545.695" type="legs.jpshort.demongrub.glider" GUID="y2GtWUFdaE65NA2pTZ+8MA==" fadeNear="1200" fadeFar="1400"/>
+        <Trail type="legs.jpshort.fawcett.harathi" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Fawcett's Bounty.trl"/>
         <POI MapID="17" xpos="-745.288" ypos="34.0079" zpos="671.867" type="legs.jpshort.fawcett.sign" GUID="kSiEdNjjukexQcAPl2ouLg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Fawcett's Bounty.png"/>
-        <POI MapID="17" xpos="-712.148" ypos="22.1894" zpos="660.19" type="legs.jpshort.fawcett.set.mount.springer" GUID="aGNOuDmgF0q1/B7EhKLDuA=="/>
-        <POI MapID="17" xpos="-660.763" ypos="-9.38926" zpos="763.337" type="legs.jpshort.fawcett.set.mount.skimmer" GUID="7E/UAhLTx0WBtjk4Gix2pg=="/>
-        <Trail type="legs.jpshort.goemm.metrica.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Goemm's Lab.trl"/>
+        <POI MapID="17" xpos="-712.148" ypos="22.1894" zpos="660.19" type="legs.jpshort.fawcett.mount.springer" GUID="aGNOuDmgF0q1/B7EhKLDuA=="/>
+        <POI MapID="17" xpos="-660.763" ypos="-9.38926" zpos="763.337" type="legs.jpshort.fawcett.mount.skimmer" GUID="7E/UAhLTx0WBtjk4Gix2pg=="/>
+        <Trail type="legs.jpshort.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Goemm's Lab.trl"/>
         <POI MapID="35" xpos="212.245" ypos="2.80526" zpos="-135.74" type="legs.jpshort.goemm.sign" GUID="rcMpY5RHbkWsIggOApxgKg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Goemm's Lab.png"/>
-        <POI MapID="35" xpos="355.047" ypos="18.157" zpos="-55.783" type="legs.jpshort.goemm.set.mount.springer" GUID="g/dfpvwh7kqNLs6JVe7ofA=="/>
-        <POI MapID="35" xpos="399.666" ypos="73.4451" zpos="-38.018" type="legs.jpshort.goemm.set.glider.medium" GUID="hPxCjF/KUkOZNNSKiV7ZXw==" fadeNear="1200" fadeFar="1400"/>
-        <Trail type="legs.jpshort.grendichgamble.diessa.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Grendich Gamble 1.trl"/>
+        <POI MapID="35" xpos="355.047" ypos="18.157" zpos="-55.783" type="legs.jpshort.goemm.mount.springer" GUID="g/dfpvwh7kqNLs6JVe7ofA=="/>
+        <POI MapID="35" xpos="399.666" ypos="73.4451" zpos="-38.018" type="legs.jpshort.goemm.glider" GUID="hPxCjF/KUkOZNNSKiV7ZXw==" fadeNear="1200" fadeFar="1400"/>
+        <Trail type="legs.jpshort.grendichgamble.diessa" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Grendich Gamble 1.trl"/>
         <POI MapID="32" xpos="-165.165" ypos="35.1848" zpos="12.118" type="legs.jpshort.grendichgamble.sign" GUID="cUvxahci9k2FGQTbKjIyYQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Grendich Gamble.png"/>
-        <POI MapID="32" xpos="-103.57" ypos="46.2085" zpos="147.289" type="legs.jpshort.grendichgamble.set.mount.springer" GUID="6cdtnZctaUSTxDg7u0RGHQ=="/>
-        <POI MapID="32" xpos="-106.755" ypos="71.039" zpos="136.158" type="legs.jpshort.grendichgamble.set.mount.bof" GUID="k1PbL5KL90eVCRCsdExdrg=="/>
-        <Trail type="legs.jpshort.grendichgamble.diessa.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Grendich Gamble 2.trl"/>
-        <POI MapID="32" xpos="-113.697" ypos="92.1615" zpos="89.4482" type="legs.jpshort.grendichgamble.set.mount.bof" GUID="vOqzj2LQ/ky44oZNgnT9gw=="/>
-        <Trail type="legs.jpshort.loreclaw.ashford.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Loreclaw Expanse.trl"/>
+        <POI MapID="32" xpos="-103.57" ypos="46.2085" zpos="147.289" type="legs.jpshort.grendichgamble.mount.springer" GUID="6cdtnZctaUSTxDg7u0RGHQ=="/>
+        <POI MapID="32" xpos="-106.755" ypos="71.039" zpos="136.158" type="legs.jpshort.grendichgamble.mount.bof" GUID="k1PbL5KL90eVCRCsdExdrg=="/>
+        <Trail type="legs.jpshort.grendichgamble.diessa" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Grendich Gamble 2.trl"/>
+        <POI MapID="32" xpos="-113.697" ypos="92.1615" zpos="89.4482" type="legs.jpshort.grendichgamble.mount.bof" GUID="vOqzj2LQ/ky44oZNgnT9gw=="/>
+        <Trail type="legs.jpshort.loreclaw.ashford" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Loreclaw Expanse.trl"/>
         <POI MapID="19" xpos="785.72" ypos="0.302061" zpos="-452.137" type="legs.jpshort.loreclaw.sign" GUID="qiM4AE0WyE6ZOhhaPIq2UA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Loreclaw Expanse.png"/>
-        <POI MapID="19" xpos="797.046" ypos="0.0963995" zpos="-451.663" type="legs.jpshort.loreclaw.set.mount.skimmer" GUID="9sqcmhha0UW0qO4vM+dQBA=="/>
-        <POI MapID="19" xpos="1075.22" ypos="24.2523" zpos="-557.603" type="legs.jpshort.loreclaw.set.mount.springer" GUID="4lvhcl3iO0evilV5me/j9w=="/>
-        <POI MapID="19" xpos="1079.85" ypos="47.8143" zpos="-564.407" type="legs.jpshort.loreclaw.set.mount.skyscale" GUID="iEWNfoODxUCj/+NWLwCd8Q=="/>
-        <POI MapID="19" xpos="1047.85" ypos="82.419" zpos="-569.566" type="legs.jpshort.loreclaw.set.glider.small" GUID="JfkPoOLj6kiPufhIL//jRQ==" fadeNear="1200" fadeFar="1400" minSize="20" maxSize="48"/>
-        <POI MapID="19" xpos="1043.6" ypos="60.905" zpos="-578.994" type="legs.jpshort.loreclaw.set.glider.small" GUID="yZ9CIjKbekKR7FyLTMHAkQ==" fadeNear="1200" fadeFar="1400" minSize="20" maxSize="48"/>
-        <POI MapID="19" xpos="1044.82" ypos="54.5104" zpos="-579.352" type="legs.jpshort.loreclaw.set.glider.small" GUID="/+V2arKCCkudt8CAhtdK4g==" fadeNear="1200" fadeFar="1400" minSize="20" maxSize="48"/>
-        <Trail type="legs.jpshort.morgan.caledon.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Morgans.trl"/>
-        <POI MapID="34" xpos="428.041" ypos="25.1598" zpos="-540.716" type="legs.jpshort.morgan.set.mount.springer" GUID="dtWFfpx7QU2IpZxl9J9x6w=="/>
+        <POI MapID="19" xpos="797.046" ypos="0.0963995" zpos="-451.663" type="legs.jpshort.loreclaw.mount.skimmer" GUID="9sqcmhha0UW0qO4vM+dQBA=="/>
+        <POI MapID="19" xpos="1075.22" ypos="24.2523" zpos="-557.603" type="legs.jpshort.loreclaw.mount.springer" GUID="4lvhcl3iO0evilV5me/j9w=="/>
+        <POI MapID="19" xpos="1079.85" ypos="47.8143" zpos="-564.407" type="legs.jpshort.loreclaw.mount.skyscale" GUID="iEWNfoODxUCj/+NWLwCd8Q=="/>
+        <POI MapID="19" xpos="1047.85" ypos="82.419" zpos="-569.566" type="legs.jpshort.loreclaw.glider" GUID="JfkPoOLj6kiPufhIL//jRQ==" fadeNear="1200" fadeFar="1400" minSize="20" maxSize="48"/>
+        <POI MapID="19" xpos="1043.6" ypos="60.905" zpos="-578.994" type="legs.jpshort.loreclaw.glider" GUID="yZ9CIjKbekKR7FyLTMHAkQ==" fadeNear="1200" fadeFar="1400" minSize="20" maxSize="48"/>
+        <POI MapID="19" xpos="1044.82" ypos="54.5104" zpos="-579.352" type="legs.jpshort.loreclaw.glider" GUID="/+V2arKCCkudt8CAhtdK4g==" fadeNear="1200" fadeFar="1400" minSize="20" maxSize="48"/>
+        <Trail type="legs.jpshort.morgan.caledon" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Morgans.trl"/>
+        <POI MapID="34" xpos="428.041" ypos="25.1598" zpos="-540.716" type="legs.jpshort.morgan.mount.springer" GUID="dtWFfpx7QU2IpZxl9J9x6w=="/>
         <POI MapID="34" xpos="430.694" ypos="13.6957" zpos="-638.025" type="legs.jpshort.darkreverie.sign" GUID="JWMQjqKRTki6LKNLX4fMmg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Morgan's Leap.png"/>
-        <Trail type="legs.jpshort.notsosecret.gendarran.one" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Not So Secret 1.trl" fadeNear="900" fadeFar="1500"/>
-        <Trail type="legs.jpshort.notsosecret.gendarran.two" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Not So Secret 2 - Rifle.trl" fadeNear="900" fadeFar="1500"/>
+        <Trail type="legs.jpshort.notsosecret.gendarran.one" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 1.trl" fadeNear="900" fadeFar="1500"/>
+        <Trail type="legs.jpshort.notsosecret.gendarran.two" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 2 - Rifle.trl" fadeNear="900" fadeFar="1500"/>
         <POI MapID="24" xpos="-134.68" ypos="3.9759" zpos="-434.302" type="legs.jpshort.notsosecret.sign" GUID="hqdrYGFK3kWshkJQnZ8BAA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Not So Secret.png"/>
-        <POI MapID="24" xpos="-137.738" ypos="4.83147" zpos="-427.082" type="legs.jpshort.notsosecret.set.mount.jackal" GUID="fHN9XoD4DUGgnOexmNTqcQ=="/>
-        <POI MapID="24" xpos="-79.3627" ypos="47.0427" zpos="-602.083" type="legs.jpshort.notsosecret.set.mount.springer" GUID="xbTs5sb8hkyuEuSljq8DJQ=="/>
-        <POI MapID="24" xpos="-134.592" ypos="69.592" zpos="-602.541" type="legs.jpshort.notsosecret.set.mount.raptor" GUID="b7m2vBmlcUeDEKadTtQy2A=="/>
-        <POI MapID="24" xpos="-230.686" ypos="65.5753" zpos="-577.375" type="legs.jpshort.notsosecret.set.mount.springer" GUID="zjViA9Znt0yrCbevBoTzxA=="/>
-        <POI MapID="24" xpos="-234.492" ypos="72.0558" zpos="-564.341" type="legs.jpshort.notsosecret.set.mount.springer" GUID="kxuSw17dP0Gujh/VzTO/ug=="/>
-        <POI MapID="24" xpos="-251.727" ypos="94.9062" zpos="-558.649" type="legs.jpshort.notsosecret.set.number.1" GUID="VBYxkA7yzE2KW82dF5waiA=="/>
-        <POI MapID="24" xpos="-249.037" ypos="92.2017" zpos="-556.182" type="legs.jpshort.notsosecret.set.mount.springer" GUID="Z4a6ZB1XPUqAFhofQyIAiQ==" triggerRange="2" autoTrigger="1" info="Requires the Experimental Rifle or a 900 range leap to proceed.&#xA;Engineer Rifle 5: Jump Shot no longer works." fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
-        <POI MapID="24" xpos="-249.037" ypos="92.2017" zpos="-556.182" type="legs.jpshort.notsosecret.set.number.2" GUID="Eg9+5jpBFU2621v8CNTnZw==" heightOffset="3.5"/>
-        <POI MapID="24" xpos="-247.946" ypos="110.831" zpos="-551.547" type="legs.jpshort.notsosecret.set.mount.skyscale" GUID="e766o1fJxkquyo7sitbrkg=="/>
-        <POI MapID="24" xpos="-248.967" ypos="145.038" zpos="-550.271" type="legs.jpshort.notsosecret.set.mount.bof" GUID="yXfeBwIXME2+qf4YpVX2HQ=="/>
-        <POI MapID="24" xpos="-265.5" ypos="90.0" zpos="-518.437" type="legs.jpshort.notsosecret.set.marker" GUID="C/1iuGWpsES/hPfy1DCivw==" triggerRange="3" autoTrigger="1" info="Use the Experimental Rifle or a 900 Range Leap to jump across." iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" alpha="0.6" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
-        <POI MapID="24" xpos="-287.228" ypos="96.3792" zpos="-516.341" type="legs.jpshort.notsosecret.set.marker" GUID="9/jnosQIRU2Oqxc4D8k/sQ==" iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" heightOffset="0" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
-        <Trail type="legs.jpshort.pigironquarry.fireheart.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Pig Iron Quarry.trl"/>
+        <POI MapID="24" xpos="-137.738" ypos="4.83147" zpos="-427.082" type="legs.jpshort.notsosecret.mount.jackal" GUID="fHN9XoD4DUGgnOexmNTqcQ=="/>
+        <POI MapID="24" xpos="-79.3627" ypos="47.0427" zpos="-602.083" type="legs.jpshort.notsosecret.mount.springer" GUID="xbTs5sb8hkyuEuSljq8DJQ=="/>
+        <POI MapID="24" xpos="-134.592" ypos="69.592" zpos="-602.541" type="legs.jpshort.notsosecret.mount.raptor" GUID="b7m2vBmlcUeDEKadTtQy2A=="/>
+        <POI MapID="24" xpos="-230.686" ypos="65.5753" zpos="-577.375" type="legs.jpshort.notsosecret.mount.springer" GUID="zjViA9Znt0yrCbevBoTzxA=="/>
+        <POI MapID="24" xpos="-234.492" ypos="72.0558" zpos="-564.341" type="legs.jpshort.notsosecret.mount.springer" GUID="kxuSw17dP0Gujh/VzTO/ug=="/>
+        <POI MapID="24" xpos="-251.727" ypos="94.9062" zpos="-558.649" type="legs.jpshort.notsosecret.number.1" GUID="VBYxkA7yzE2KW82dF5waiA=="/>
+        <POI MapID="24" xpos="-249.037" ypos="92.2017" zpos="-556.182" type="legs.jpshort.notsosecret.mount.springer" GUID="Z4a6ZB1XPUqAFhofQyIAiQ==" triggerRange="2" autoTrigger="1" info="Requires the Experimental Rifle or a 900 range leap to proceed.&#xA;Engineer Rifle 5: Jump Shot no longer works." fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="24" xpos="-249.037" ypos="92.2017" zpos="-556.182" type="legs.jpshort.notsosecret.number.2" GUID="Eg9+5jpBFU2621v8CNTnZw==" heightOffset="3.5"/>
+        <POI MapID="24" xpos="-247.946" ypos="110.831" zpos="-551.547" type="legs.jpshort.notsosecret.mount.skyscale" GUID="e766o1fJxkquyo7sitbrkg=="/>
+        <POI MapID="24" xpos="-248.967" ypos="145.038" zpos="-550.271" type="legs.jpshort.notsosecret.mount.bof" GUID="yXfeBwIXME2+qf4YpVX2HQ=="/>
+        <POI MapID="24" xpos="-265.5" ypos="90.0" zpos="-518.437" type="legs.jpshort.notsosecret.marker" GUID="C/1iuGWpsES/hPfy1DCivw==" triggerRange="3" autoTrigger="1" info="Use the Experimental Rifle or a 900 Range Leap to jump across." iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" alpha="0.6" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="24" xpos="-287.228" ypos="96.3792" zpos="-516.341" type="legs.jpshort.notsosecret.marker" GUID="9/jnosQIRU2Oqxc4D8k/sQ==" iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" heightOffset="0" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="legs.jpshort.pigironquarry.fireheart" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Pig Iron Quarry.trl"/>
         <POI MapID="22" xpos="909.021" ypos="7.54047" zpos="-571.057" type="legs.jpshort.pigironquarry.sign" GUID="d4Rxx0UbBkKUR61nTYUeCw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Pig Iron Quarry.png"/>
         <POI MapID="22" xpos="684.581" ypos="1.94659" zpos="-675.201" type="legs.jpshort.pigironquarry.sign" GUID="uoFyQZGk+ESEyKGXpY06qQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Pig Iron Quarry.png"/>
-        <POI MapID="22" xpos="694.896" ypos="1.91465" zpos="-679.827" type="legs.jpshort.pigironquarry.set.mount.raptor" GUID="SLRwtOQe6ki+zTfRCjXNAw=="/>
-        <POI MapID="22" xpos="545.17" ypos="0.139639" zpos="-680.873" type="legs.jpshort.pigironquarry.set.mount.springer" GUID="6KFNtUDP7UqMT21mgFDguA=="/>
-        <POI MapID="22" xpos="513.069" ypos="55.868" zpos="-681.834" type="legs.jpshort.pigironquarry.set.glider.medium" GUID="8P2kAXiW90K/z2CJXCpWOA==" fadeNear="1200" fadeFar="1400"/>
-        <Trail type="legs.jpshort.portmatt.bloodtide.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Portmatt.trl"/>
+        <POI MapID="22" xpos="694.896" ypos="1.91465" zpos="-679.827" type="legs.jpshort.pigironquarry.mount.raptor" GUID="SLRwtOQe6ki+zTfRCjXNAw=="/>
+        <POI MapID="22" xpos="545.17" ypos="0.139639" zpos="-680.873" type="legs.jpshort.pigironquarry.mount.springer" GUID="6KFNtUDP7UqMT21mgFDguA=="/>
+        <POI MapID="22" xpos="513.069" ypos="55.868" zpos="-681.834" type="legs.jpshort.pigironquarry.glider" GUID="8P2kAXiW90K/z2CJXCpWOA==" fadeNear="1200" fadeFar="1400"/>
+        <Trail type="legs.jpshort.portmatt.bloodtide" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Portmatt.trl"/>
         <POI MapID="73" xpos="-252.881" ypos="-47.8671" zpos="686.286" type="legs.jpshort.portmatt.sign" GUID="DZlp5wrzcUODHTiluoBZlQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Professor Portmatt's Lab.png"/>
-        <POI MapID="73" xpos="-244.08" ypos="-49.329" zpos="693.868" type="legs.jpshort.portmatt.set.mount.skimmer" GUID="c9q51Z0SO0yinD3iGZckbA=="/>
-        <POI MapID="73" xpos="-453.625" ypos="-5.83609" zpos="611.547" type="legs.jpshort.portmatt.set.mount.skimmer.hover" GUID="iicPSbB6BEC/1d99ZjBrIg=="/>
-        <Trail type="legs.jpshort.retrospectiverunaround.silverwastes.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Retrospective Runaround 1.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png"/>
-        <Trail type="legs.jpshort.retrospectiverunaround.silverwastes.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Retrospective Runaround 2.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png"/>
+        <POI MapID="73" xpos="-244.08" ypos="-49.329" zpos="693.868" type="legs.jpshort.portmatt.mount.skimmer" GUID="c9q51Z0SO0yinD3iGZckbA=="/>
+        <POI MapID="73" xpos="-453.625" ypos="-5.83609" zpos="611.547" type="legs.jpshort.portmatt.mount.skimmer.hover" GUID="iicPSbB6BEC/1d99ZjBrIg=="/>
+        <Trail type="legs.jpshort.retrospectiverunaround.silverwastes" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Retrospective Runaround 1.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png"/>
+        <Trail type="legs.jpshort.retrospectiverunaround.silverwastes" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Retrospective Runaround 2.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png"/>
         <POI MapID="1015" xpos="359.822" ypos="281.38" zpos="139.287" type="legs.jpshort.retrospectiverunaround.sign" GUID="HF02gewq60CAGqJDs7ePnw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Retrospective Runaround.png"/>
-        <POI MapID="1015" xpos="351.888" ypos="281.622" zpos="131.487" type="legs.jpshort.retrospectiverunaround.set.mount.skyscale" GUID="5jvcjuTIqUOyRWSjkseFIw=="/>
-        <POI MapID="1015" xpos="-555.64" ypos="93.8134" zpos="-268.844" type="legs.jpshort.retrospectiverunaround.set.mount.skyscale" GUID="CBQkR/oVikipG6XDgKrspA=="/>
-        <POI MapID="1015" xpos="-572.834" ypos="212.333" zpos="-232.28" type="legs.jpshort.retrospectiverunaround.set.mount.skyscale" GUID="7ia6ms18wEmJZ6s5n0AVgQ=="/>
-        <POI MapID="1015" xpos="-574.675" ypos="268.568" zpos="-275.465" type="legs.jpshort.retrospectiverunaround.set.mount.skyscale" GUID="QgTqSLfto02tGW4CLfXi0A=="/>
+        <POI MapID="1015" xpos="351.888" ypos="281.622" zpos="131.487" type="legs.jpshort.retrospectiverunaround.mount.skyscale" GUID="5jvcjuTIqUOyRWSjkseFIw=="/>
+        <POI MapID="1015" xpos="-555.64" ypos="93.8134" zpos="-268.844" type="legs.jpshort.retrospectiverunaround.mount.skyscale" GUID="CBQkR/oVikipG6XDgKrspA=="/>
+        <POI MapID="1015" xpos="-572.834" ypos="212.333" zpos="-232.28" type="legs.jpshort.retrospectiverunaround.mount.skyscale" GUID="7ia6ms18wEmJZ6s5n0AVgQ=="/>
+        <POI MapID="1015" xpos="-574.675" ypos="268.568" zpos="-275.465" type="legs.jpshort.retrospectiverunaround.mount.skyscale" GUID="QgTqSLfto02tGW4CLfXi0A=="/>
         <POI MapID="1015" xpos="235.27" ypos="308.854" zpos="-26.9023" type="legs.jpshort.retrospectiverunaround.cp" GUID="HJYxNUaVNE+E9JSN080WMg=="/>
         <POI MapID="1015" xpos="379.496" ypos="346.37" zpos="-145.094" type="legs.jpshort.retrospectiverunaround.cp" GUID="ruDzSOlCx0ubJdsx/gAg1Q=="/>
         <POI MapID="1015" xpos="407.143" ypos="453.349" zpos="-253.68" type="legs.jpshort.retrospectiverunaround.cp" GUID="NqOsRZafOUCDkHlsfG90qQ=="/>
@@ -113,93 +113,99 @@
         <POI MapID="1015" xpos="-225.782" ypos="250.211" zpos="117.59" type="legs.jpshort.retrospectiverunaround.cp" GUID="PQ1gKOrp90qKSmI0+nPBew=="/>
         <POI MapID="1015" xpos="-89.4625" ypos="207.31" zpos="155.146" type="legs.jpshort.retrospectiverunaround.cp" GUID="cqu+pzQ+dE2ZsOrnp3F+Dg=="/>
         <POI MapID="1015" xpos="-483.038" ypos="312.81" zpos="-301.248" type="legs.jpshort.retrospectiverunaround.cp" GUID="8FK5iGr3e0Wfa5jmgSl0BQ=="/>
-        <Trail type="legs.jpshort.shatterediceruins.frostgorge.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Shattered Ice Ruins.trl"/>
+        
+        <POI MapID="1015" xpos="-546.326" ypos="316.796" zpos="-347.044" type="legs.jpshort.retrospectiverunaround.goggles" GUID="5TbZtHw0PEit4pBesYUDTg==" iconFile="Data/LadyElyssa/Images/Diving Goggles.png"/>
+        <Trail type="legs.jpshort.retrospectiverunaround.goggles" trailData="Data/LadyElyssa/Diving Goggles/LWS2/SW Diving Goggles.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png" color="CC9900"/>
+
+        <Trail type="legs.jpshort.shatterediceruins.frostgorge" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Shattered Ice Ruins.trl"/>
         <POI MapID="30" xpos="-293.04" ypos="2.084" zpos="478.432" type="legs.jpshort.shatterediceruins.sign" GUID="2+A0PyiheU283G9Tei0k9Q==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Shattered Ice Ruins.png"/>
-        <POI MapID="30" xpos="-290.942" ypos="2.38208" zpos="382.532" type="legs.jpshort.shatterediceruins.set.mount.springer" GUID="Ly7YVCwgbEu2oEgiKSZgeA=="/>
-        <Trail type="legs.jpshort.skippingstones.southsun.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Skipping Stones.trl"/>
+        <POI MapID="30" xpos="-290.942" ypos="2.38208" zpos="382.532" type="legs.jpshort.shatterediceruins.mount.springer" GUID="Ly7YVCwgbEu2oEgiKSZgeA=="/>
+        <Trail type="legs.jpshort.skippingstones.southsun" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Skipping Stones.trl"/>
         <POI MapID="873" xpos="-29.1362" ypos="0.9987" zpos="358.336" type="legs.jpshort.skippingstones.sign" GUID="VqEaoFFacEyFkIHT8N1mmw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Skipping Stones.png"/>
-        <POI MapID="873" xpos="-47.6134" ypos="0.0642137" zpos="369.676" type="legs.jpshort.skippingstones.set.mount.skimmer" GUID="HDhWkh/19kSRX9VNnzGTXg=="/>
-        <POI MapID="873" xpos="-469.639" ypos="-0.619208" zpos="398.624" type="legs.jpshort.skippingstones.set.mount.skyscale" GUID="g/dqLhRhmka6E6k/HCZzZA=="/>
-        <POI MapID="873" xpos="-470.167" ypos="32.7369" zpos="397.079" type="legs.jpshort.skippingstones.set.mount.bof" GUID="2rp7+Id2HE+8OPGJ4+PKrg=="/>
-        <Trail type="legs.jpshort.spelunkers.caledon.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Spelunker's Delve.trl"/>
+        <POI MapID="873" xpos="-47.6134" ypos="0.0642137" zpos="369.676" type="legs.jpshort.skippingstones.mount.skimmer" GUID="HDhWkh/19kSRX9VNnzGTXg=="/>
+        <POI MapID="873" xpos="-469.639" ypos="-0.619208" zpos="398.624" type="legs.jpshort.skippingstones.mount.skyscale" GUID="g/dqLhRhmka6E6k/HCZzZA=="/>
+        <POI MapID="873" xpos="-470.167" ypos="32.7369" zpos="397.079" type="legs.jpshort.skippingstones.mount.bof" GUID="2rp7+Id2HE+8OPGJ4+PKrg=="/>
+        <Trail type="legs.jpshort.spelunkers.caledon" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Spelunker's Delve.trl"/>
         <POI MapID="34" xpos="316.053" ypos="27.2124" zpos="-875.969" type="legs.jpshort.spelunkers.sign" GUID="r8se4OXLAUe9LCsSiP0XaA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Spelunker's Delve.png"/>
-        <POI MapID="34" xpos="436.125" ypos="2.59972" zpos="-1080.44" type="legs.jpshort.spelunkers.set.mount.springer" GUID="NIvZaYctaEyqjxK8sD74ag=="/>
-        <POI MapID="34" xpos="438.087" ypos="23.014" zpos="-1085.81" type="legs.jpshort.spelunkers.set.mount.skyscale" GUID="DpkDc9/OK0uOITls6dsyRA=="/>
-        <POI MapID="34" xpos="438.165" ypos="43.6864" zpos="-1085.69" type="legs.jpshort.spelunkers.set.mount.bof" GUID="Bi3Is31eJEuli6sMgc3NLw=="/>
-        <Trail type="legs.jpshort.swashbuckler.gendarran.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Swashbuckler's Cove.trl"/>
+        <POI MapID="34" xpos="436.125" ypos="2.59972" zpos="-1080.44" type="legs.jpshort.spelunkers.mount.springer" GUID="NIvZaYctaEyqjxK8sD74ag=="/>
+        <POI MapID="34" xpos="438.087" ypos="23.014" zpos="-1085.81" type="legs.jpshort.spelunkers.mount.skyscale" GUID="DpkDc9/OK0uOITls6dsyRA=="/>
+        <POI MapID="34" xpos="438.165" ypos="43.6864" zpos="-1085.69" type="legs.jpshort.spelunkers.mount.bof" GUID="Bi3Is31eJEuli6sMgc3NLw=="/>
+        <Trail type="legs.jpshort.swashbuckler.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Swashbuckler's Cove.trl"/>
         <POI MapID="24" xpos="295.756" ypos="0.0960128" zpos="-465.313" type="legs.jpshort.swashbuckler.sign" GUID="ewRurRfmik6AxX4oOhzmZw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Swashbuckler's Cove.png"/>
-        <POI MapID="24" xpos="262.24" ypos="0.524385" zpos="-463.918" type="legs.jpshort.swashbuckler.set.mount.raptor" GUID="4np9pq071EKgsrI2YJiBVg=="/>
-        <POI MapID="24" xpos="529.894" ypos="35.0583" zpos="-508.97" type="legs.jpshort.swashbuckler.set.mount.skyscale" GUID="s8Ga+xDvf0KbZD+thiybuQ=="/>
-        <POI MapID="24" xpos="530.289" ypos="69.3965" zpos="-508.667" type="legs.jpshort.swashbuckler.set.mount.bof" GUID="VVdWW/SxxEOnttZprgf0fg=="/>
+        <POI MapID="24" xpos="262.24" ypos="0.524385" zpos="-463.918" type="legs.jpshort.swashbuckler.mount.raptor" GUID="4np9pq071EKgsrI2YJiBVg=="/>
+        <POI MapID="24" xpos="529.894" ypos="35.0583" zpos="-508.97" type="legs.jpshort.swashbuckler.mount.skyscale" GUID="s8Ga+xDvf0KbZD+thiybuQ=="/>
+        <POI MapID="24" xpos="530.289" ypos="69.3965" zpos="-508.667" type="legs.jpshort.swashbuckler.mount.bof" GUID="VVdWW/SxxEOnttZprgf0fg=="/>
         <POI MapID="24" xpos="662.097" ypos="31.4469" zpos="-547.646" type="legs.jpshort.swashbuckler.gendarran" GUID="7vc4iUAlUEOzvM5tpkXKmg==" iconfile="Data/LadyElyssa/Images/Icons/Drop Bundle.png" minSize="16" maxSize="32" fadeNear="900" fadeFar="1200"/>
-        <Trail type="legs.jpshort.tribulationrift.dredgehaunt.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Tribulation Rift Scaffolding.trl"/>
+        <Trail type="legs.jpshort.tribulationrift.dredgehaunt" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Tribulation Rift Scaffolding.trl"/>
         <POI MapID="26" xpos="-301.796" ypos="22.0353" zpos="-678.012" type="legs.jpshort.tribulationrift.sign" GUID="+mi6AmC/oEqNSTu5Lbh9PQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Tribulation Rift Scaffolding.png"/>
-        <POI MapID="26" xpos="-298.237" ypos="24.1386" zpos="-670.224" type="legs.jpshort.tribulationrift.set.mount.raptor" GUID="CirjQL7LOUeY3E+c0RFhOQ=="/>
-        <POI MapID="26" xpos="-487.915" ypos="14.49" zpos="-875.824" type="legs.jpshort.tribulationrift.set.mount.springer" GUID="4oId3VeB6k22mHHhEM1Zsg=="/>
-        <Trail type="legs.jpshort.trollsrevenge.la.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Troll's Revenge.trl"/>
+        <POI MapID="26" xpos="-298.237" ypos="24.1386" zpos="-670.224" type="legs.jpshort.tribulationrift.mount.raptor" GUID="CirjQL7LOUeY3E+c0RFhOQ=="/>
+        <POI MapID="26" xpos="-487.915" ypos="14.49" zpos="-875.824" type="legs.jpshort.tribulationrift.mount.springer" GUID="4oId3VeB6k22mHHhEM1Zsg=="/>
+        
+        <Trail type="legs.jpshort.trollsrevenge.la" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Troll's Revenge.trl"/>
+        
         <POI MapID="50" xpos="-288.157" ypos="10.364" zpos="66.7029" type="legs.jpshort.trollsrevenge.sign" GUID="0J/SIyStfkOofXm2q5GLKg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Troll's Revenge.png"/>
         <POI MapID="50" xpos="-438.769" ypos="13.9984" zpos="192.471" type="legs.jpshort.trollsrevenge.sign" GUID="qHMQK1gWwEmnNLf0H12eXw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Troll's Revenge.png"/>
         <POI MapID="50" xpos="-440.586" ypos="18.0539" zpos="230.413" type="legs.jpshort.trollsrevenge.sign" GUID="saImzo8LmkGexZ9ImM4CRA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Troll's Revenge.png"/>
-        <POI MapID="50" xpos="-295.046" ypos="10.3648" zpos="58.7503" type="legs.jpshort.trollsrevenge.set.number.1" GUID="KFYm3zGZgkSazivcDSggHg=="/>
-        <POI MapID="50" xpos="-170.617" ypos="17.7044" zpos="47.0686" type="legs.jpshort.trollsrevenge.set.mount.springer" GUID="GSyUMsehHU6OnryoL/dRRw=="/>
-        <POI MapID="50" xpos="-296.286" ypos="10.3647" zpos="59.5942" type="legs.jpshort.trollsrevenge.set.number.2" GUID="u7RzNxNLE0i+uHlSs2D1sA=="/>
-        <POI MapID="50" xpos="-315.578" ypos="10.6433" zpos="73.7513" type="legs.jpshort.trollsrevenge.set.mount.springer" GUID="YqqWkKIDMk2suBk60+GbWQ=="/>
-        <POI MapID="50" xpos="-454.086" ypos="14.7355" zpos="200.087" type="legs.jpshort.trollsrevenge.set.number.3" GUID="W4JNfJPq7UyxV/6hG0Btng=="/>
-        <POI MapID="50" xpos="-454.558" ypos="14.4042" zpos="205.481" type="legs.jpshort.trollsrevenge.set.number.4" GUID="vwRGUEeNwEqBJFSopQ0Ymw=="/>
-        <Trail type="legs.jpshort.undernewmanagement.southsun.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Under New Management.trl"/>
+        <POI MapID="50" xpos="-295.046" ypos="10.3648" zpos="58.7503" type="legs.jpshort.trollsrevenge.number.1" GUID="KFYm3zGZgkSazivcDSggHg=="/>
+        <POI MapID="50" xpos="-170.617" ypos="17.7044" zpos="47.0686" type="legs.jpshort.trollsrevenge.mount.springer" GUID="GSyUMsehHU6OnryoL/dRRw=="/>
+        <POI MapID="50" xpos="-296.286" ypos="10.3647" zpos="59.5942" type="legs.jpshort.trollsrevenge.number.2" GUID="u7RzNxNLE0i+uHlSs2D1sA=="/>
+        <POI MapID="50" xpos="-315.578" ypos="10.6433" zpos="73.7513" type="legs.jpshort.trollsrevenge.mount.springer" GUID="YqqWkKIDMk2suBk60+GbWQ=="/>
+        <POI MapID="50" xpos="-454.086" ypos="14.7355" zpos="200.087" type="legs.jpshort.trollsrevenge.number.3" GUID="W4JNfJPq7UyxV/6hG0Btng=="/>
+        <POI MapID="50" xpos="-454.558" ypos="14.4042" zpos="205.481" type="legs.jpshort.trollsrevenge.number.4" GUID="vwRGUEeNwEqBJFSopQ0Ymw=="/>
+        <Trail type="legs.jpshort.undernewmanagement.southsun" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Under New Management.trl"/>
         <POI MapID="873" xpos="632.641" ypos="32.0182" zpos="-349.587" type="legs.jpshort.undernewmanagement.sign" GUID="gyK3mhWp4kupPQ+2aBVYiQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Under New Management.png"/>
-        <POI MapID="873" xpos="632.641" ypos="31.0182" zpos="-349.587" type="legs.jpshort.undernewmanagement.set.mount.skyscale" GUID="kfjP9LJJDUS9NFZHHAW/PA=="/>
-        <POI MapID="873" xpos="649.296" ypos="76.6395" zpos="-354.771" type="legs.jpshort.undernewmanagement.set.mount.bof" GUID="g9DO5cCqrUig00MdCkXbPA=="/>
-        <Trail type="legs.jpshort.urmaug.la.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Urmaug's Secret.trl"/>
+        <POI MapID="873" xpos="632.641" ypos="31.0182" zpos="-349.587" type="legs.jpshort.undernewmanagement.mount.skyscale" GUID="kfjP9LJJDUS9NFZHHAW/PA=="/>
+        <POI MapID="873" xpos="649.296" ypos="76.6395" zpos="-354.771" type="legs.jpshort.undernewmanagement.mount.bof" GUID="g9DO5cCqrUig00MdCkXbPA=="/>
+        <Trail type="legs.jpshort.urmaug.la" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Urmaug's Secret.trl"/>
         <POI MapID="50" xpos="373.078" ypos="29.6033" zpos="320.334" type="legs.jpshort.urmaug.sign" GUID="9V29oTn0hk+nCOmK3POKaQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Urmaug's Secret.png"/>
-        <POI MapID="50" xpos="373.236" ypos="27.9752" zpos="320.218" type="legs.jpshort.urmaug.set.mount.skyscale" GUID="GYIrr30d1Eae41Ic75glbQ=="/>
-        <POI MapID="50" xpos="487.9" ypos="81.64" zpos="287.542" type="legs.jpshort.urmaug.set.mount.bof" GUID="od4d7+lZZ0GiuQ6HSddyrw=="/>
+        <POI MapID="50" xpos="373.236" ypos="27.9752" zpos="320.218" type="legs.jpshort.urmaug.mount.skyscale" GUID="GYIrr30d1Eae41Ic75glbQ=="/>
+        <POI MapID="50" xpos="487.9" ypos="81.64" zpos="287.542" type="legs.jpshort.urmaug.mount.bof" GUID="od4d7+lZZ0GiuQ6HSddyrw=="/>
         <POI MapID="50" xpos="480.134" ypos="24.4413" zpos="202.547" type="legs.jpshort.urmaug.sign" GUID="N6yRBkq4AUCnhUaWfKgfBQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Urmaug's Secret.png"/>
-        <POI MapID="50" xpos="492.2" ypos="26.3673" zpos="186.143" type="legs.jpshort.urmaug.set.mount.skyscale" GUID="6LX7UnRdK02CVtIA5ird9A=="/>
-        <POI MapID="50" xpos="497.86" ypos="106.396" zpos="184.732" type="legs.jpshort.urmaug.set.mount.bof" GUID="NJotSc2O4EKryLqQ+jP1sQ=="/>
-        <Trail type="legs.jpshort.wallbreachblitz.diessa.colour" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Wall Breach Blitz.trl"/>
+        <POI MapID="50" xpos="492.2" ypos="26.3673" zpos="186.143" type="legs.jpshort.urmaug.mount.skyscale" GUID="6LX7UnRdK02CVtIA5ird9A=="/>
+        <POI MapID="50" xpos="497.86" ypos="106.396" zpos="184.732" type="legs.jpshort.urmaug.mount.bof" GUID="NJotSc2O4EKryLqQ+jP1sQ=="/>
+        <Trail type="legs.jpshort.wallbreachblitz.diessa" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Wall Breach Blitz.trl"/>
         <POI MapID="32" xpos="275.547" ypos="24.4235" zpos="-523.684" type="legs.jpshort.wallbreachblitz.sign" GUID="Ehxz6X7fGEqsu2Bi4Wd/Iw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Wall Breach Blitz.png"/>
-        <POI MapID="32" xpos="309.211" ypos="24.0107" zpos="-525.178" type="legs.jpshort.wallbreachblitz.set.mount.springer" GUID="I3oGbtw1kEqbR8yDa2t3xQ=="/>
-        <POI MapID="32" xpos="336.934" ypos="60.8642" zpos="-549.158" type="legs.jpshort.wallbreachblitz.set.mount.bof" GUID="jq9mkq/lvEK6HBAIUnbgYw==" iconSize="2"/>
+        <POI MapID="32" xpos="309.211" ypos="24.0107" zpos="-525.178" type="legs.jpshort.wallbreachblitz.mount.springer" GUID="I3oGbtw1kEqbR8yDa2t3xQ=="/>
+        <POI MapID="32" xpos="336.934" ypos="60.8642" zpos="-549.158" type="legs.jpshort.wallbreachblitz.mount.bof" GUID="jq9mkq/lvEK6HBAIUnbgYw==" iconSize="2"/>
         <!-- LWS3 - Chalice of Tears - Shortcuts -->
-        <Trail type="legs.jpshort.chalice.emberbay.longer.trail" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Chalice of Tears Shortcut 1.trl"/>
+        <Trail type="legs.jpshort.chalice.emberbay.longer.trail" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Chalice of Tears Shortcut 1.trl"/>
         <POI MapID="1175" xpos="-213.053" ypos="15.006" zpos="-614.247" type="legs.jpshort.chalice.emberbay.longer.sign" GUID="mPQCrRO96ESSrpWk4t69uA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Chalice of Tears.png"/>
-        <POI MapID="1175" xpos="-46.1011" ypos="264.477" zpos="20.735" type="legs.jpshort.chalice.set.mount.bof" GUID="ka4HToHkpk+RYldhSbq5xA=="/>
-        <POI MapID="1175" xpos="-68.2049" ypos="258.803" zpos="24.7242" type="legs.jpshort.chalice.set.glider.medium" GUID="A1MjJ5bm9kyzpZLcde0zAQ==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-20.8526" ypos="108.054" zpos="-153.867" type="legs.jpshort.chalice.set.mount.springer" GUID="FmRdco39UEuBgmujzxd09Q=="/>
-        <POI MapID="1175" xpos="-33.6728" ypos="119.592" zpos="-149.053" type="legs.jpshort.chalice.set.mount.springer" GUID="Yz7bDBag7EKvOPUkoHJjQw=="/>
-        <POI MapID="1175" xpos="-22.7505" ypos="138.456" zpos="-128.313" type="legs.jpshort.chalice.set.mount.springer" GUID="p4K6/C9f9kiig3m6iu9BKg=="/>
-        <POI MapID="1175" xpos="-16.438" ypos="222.933" zpos="-16.087" type="legs.jpshort.chalice.set.mount.springer" GUID="xdxJ25K3u02ZeSV+kujDIA=="/>
-        <POI MapID="1175" xpos="-11.8588" ypos="236.982" zpos="13.8076" type="legs.jpshort.chalice.set.mount.skyscale" GUID="NKN5eHxUvkuTI+qsMUCy3w=="/>
-        <POI MapID="1175" xpos="-158.582" ypos="233.826" zpos="43.7905" type="legs.jpshort.chalice.set.glider.small" GUID="KXFGvXW6WkiSwjlvIE/qOQ==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-177.935" ypos="235.922" zpos="-0.537645" type="legs.jpshort.chalice.set.glider.small" GUID="jbMnLt9Q5UGubohwayqhAA==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-249.523" ypos="237.892" zpos="-50.7331" type="legs.jpshort.chalice.set.glider.small" GUID="lWiTZu72n0yE0DeRnRL7cw==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-301.291" ypos="244.444" zpos="-109.058" type="legs.jpshort.chalice.set.glider.small" GUID="w1BHz1WATUmxJUOiZodqTg==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-323.577" ypos="241.933" zpos="-106.165" type="legs.jpshort.chalice.set.glider.small" GUID="Vb2YpRKh6U646ycIdM8KWw==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-416.577" ypos="254.141" zpos="-160.457" type="legs.jpshort.chalice.set.glider.small" GUID="UCeV1SdxoE6ifg0Bgv7MOQ==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-479.962" ypos="218.11" zpos="-46.3035" type="legs.jpshort.chalice.set.number.1" GUID="JOLuyyuzbEyhpfrf+/oh2Q=="/>
-        <POI MapID="1175" xpos="-479.002" ypos="218.339" zpos="-48.0556" type="legs.jpshort.chalice.set.number.2" GUID="e3jspbrbukKDU9RBRQbytg=="/>
-        <POI MapID="1175" xpos="-468.787" ypos="225.342" zpos="-39.9606" type="legs.jpshort.chalice.set.number.3" GUID="0cyFSTEOIU6ezQWnLDNa+Q=="/>
-        <POI MapID="1175" xpos="-464.841" ypos="225.507" zpos="-41.7605" type="legs.jpshort.chalice.set.number.4" GUID="V/LVSdsbv0+J97SjBLGmNA=="/>
-        <POI MapID="1175" xpos="-452.737" ypos="232.827" zpos="-49.1938" type="legs.jpshort.chalice.set.glider.medium" GUID="5hJdkNXE30qrTEMJyf0+jA==" fadeNear="1200" fadeFar="1400"/>
-        <Trail type="legs.jpshort.chalice.emberbay.shorter.trail" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Chalice of Tears Shortcut 2.trl"/>
+        <POI MapID="1175" xpos="-46.1011" ypos="264.477" zpos="20.735" type="legs.jpshort.chalice.mount.bof" GUID="ka4HToHkpk+RYldhSbq5xA=="/>
+        <POI MapID="1175" xpos="-68.2049" ypos="258.803" zpos="24.7242" type="legs.jpshort.chalice.glider" GUID="A1MjJ5bm9kyzpZLcde0zAQ==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-20.8526" ypos="108.054" zpos="-153.867" type="legs.jpshort.chalice.mount.springer" GUID="FmRdco39UEuBgmujzxd09Q=="/>
+        <POI MapID="1175" xpos="-33.6728" ypos="119.592" zpos="-149.053" type="legs.jpshort.chalice.mount.springer" GUID="Yz7bDBag7EKvOPUkoHJjQw=="/>
+        <POI MapID="1175" xpos="-22.7505" ypos="138.456" zpos="-128.313" type="legs.jpshort.chalice.mount.springer" GUID="p4K6/C9f9kiig3m6iu9BKg=="/>
+        <POI MapID="1175" xpos="-16.438" ypos="222.933" zpos="-16.087" type="legs.jpshort.chalice.mount.springer" GUID="xdxJ25K3u02ZeSV+kujDIA=="/>
+        <POI MapID="1175" xpos="-11.8588" ypos="236.982" zpos="13.8076" type="legs.jpshort.chalice.mount.skyscale" GUID="NKN5eHxUvkuTI+qsMUCy3w=="/>
+        <POI MapID="1175" xpos="-158.582" ypos="233.826" zpos="43.7905" type="legs.jpshort.chalice.glider" GUID="KXFGvXW6WkiSwjlvIE/qOQ==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-177.935" ypos="235.922" zpos="-0.537645" type="legs.jpshort.chalice.glider" GUID="jbMnLt9Q5UGubohwayqhAA==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-249.523" ypos="237.892" zpos="-50.7331" type="legs.jpshort.chalice.glider" GUID="lWiTZu72n0yE0DeRnRL7cw==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-301.291" ypos="244.444" zpos="-109.058" type="legs.jpshort.chalice.glider" GUID="w1BHz1WATUmxJUOiZodqTg==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-323.577" ypos="241.933" zpos="-106.165" type="legs.jpshort.chalice.glider" GUID="Vb2YpRKh6U646ycIdM8KWw==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-416.577" ypos="254.141" zpos="-160.457" type="legs.jpshort.chalice.glider" GUID="UCeV1SdxoE6ifg0Bgv7MOQ==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-479.962" ypos="218.11" zpos="-46.3035" type="legs.jpshort.chalice.number.1" GUID="JOLuyyuzbEyhpfrf+/oh2Q=="/>
+        <POI MapID="1175" xpos="-479.002" ypos="218.339" zpos="-48.0556" type="legs.jpshort.chalice.number.2" GUID="e3jspbrbukKDU9RBRQbytg=="/>
+        <POI MapID="1175" xpos="-468.787" ypos="225.342" zpos="-39.9606" type="legs.jpshort.chalice.number.3" GUID="0cyFSTEOIU6ezQWnLDNa+Q=="/>
+        <POI MapID="1175" xpos="-464.841" ypos="225.507" zpos="-41.7605" type="legs.jpshort.chalice.number.4" GUID="V/LVSdsbv0+J97SjBLGmNA=="/>
+        <POI MapID="1175" xpos="-452.737" ypos="232.827" zpos="-49.1938" type="legs.jpshort.chalice.glider" GUID="5hJdkNXE30qrTEMJyf0+jA==" fadeNear="1200" fadeFar="1400"/>
+        <Trail type="legs.jpshort.chalice.emberbay.shorter.trail" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Chalice of Tears Shortcut 2.trl"/>
         <POI MapID="1175" xpos="-622.476" ypos="0.807168" zpos="-511.617" type="legs.jpshort.chalice.emberbay.shorter.sign" GUID="1ts7xOhfD0KBvnwfJSbcMg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Chalice of Tears.png"/>
-        <POI MapID="1175" xpos="-775.222" ypos="139.339" zpos="90.2854" type="legs.jpshort.chalice.set.mount.skyscale" GUID="ZCIA+NutQ0etQwlrbsHIcQ=="/>
-        <POI MapID="1175" xpos="-719.366" ypos="266.515" zpos="87.0125" type="legs.jpshort.chalice.set.mount.skyscale.dash" GUID="PihyPFwfDUm/87s31LszuA=="/>
-        <POI MapID="1175" xpos="-693.003" ypos="268.994" zpos="74.0089" type="legs.jpshort.chalice.set.mount.bof" GUID="IrhKgfpKCkmGcav3s5LWdQ=="/>
-        <POI MapID="1175" xpos="-786.91" ypos="271.936" zpos="121.22" type="legs.jpshort.chalice.set.mount.skyscale.dash" GUID="rD6wJGhhAUugXAdS2IiH/g=="/>
-        <POI MapID="1175" xpos="-756.931" ypos="267.361" zpos="105.749" type="legs.jpshort.chalice.set.mount.skyscale.dash" GUID="Pmyqmk5pUEK/odxboAjlcw=="/>
-        <POI MapID="1175" xpos="-725.22" ypos="264.344" zpos="90.0301" type="legs.jpshort.chalice.set.mount.bov" GUID="1oe56kVvk0a6i2l6Znx1wA=="/>
-        <POI MapID="1175" xpos="-673.284" ypos="276.647" zpos="63.7584" type="legs.jpshort.chalice.set.glider.medium" GUID="jHSnXtVZoEiYul3kjqdg8w==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-520.674" ypos="249.698" zpos="8.79453" type="legs.jpshort.chalice.set.glider.small" GUID="aMi59DH8yEulltnm2KqGYg==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="1175" xpos="-470.35" ypos="224.807" zpos="-42.0694" type="legs.jpshort.chalice.set.glider.small" GUID="AhI0/XxgMUemspNyk5uRww==" fadeNear="1200" fadeFar="1400"/>
-        <Trail type="legs.jpshort.chalice.emberbay.final" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Chalice of Tears Final.trl" color="FFFFFF"/>
+        <POI MapID="1175" xpos="-775.222" ypos="139.339" zpos="90.2854" type="legs.jpshort.chalice.mount.skyscale" GUID="ZCIA+NutQ0etQwlrbsHIcQ=="/>
+        <POI MapID="1175" xpos="-719.366" ypos="266.515" zpos="87.0125" type="legs.jpshort.chalice.mount.skyscale.dash" GUID="PihyPFwfDUm/87s31LszuA=="/>
+        <POI MapID="1175" xpos="-693.003" ypos="268.994" zpos="74.0089" type="legs.jpshort.chalice.mount.bof" GUID="IrhKgfpKCkmGcav3s5LWdQ=="/>
+        <POI MapID="1175" xpos="-786.91" ypos="271.936" zpos="121.22" type="legs.jpshort.chalice.mount.skyscale.dash" GUID="rD6wJGhhAUugXAdS2IiH/g=="/>
+        <POI MapID="1175" xpos="-756.931" ypos="267.361" zpos="105.749" type="legs.jpshort.chalice.mount.skyscale.dash" GUID="Pmyqmk5pUEK/odxboAjlcw=="/>
+        <POI MapID="1175" xpos="-725.22" ypos="264.344" zpos="90.0301" type="legs.jpshort.chalice.mount.bov" GUID="1oe56kVvk0a6i2l6Znx1wA=="/>
+        <POI MapID="1175" xpos="-673.284" ypos="276.647" zpos="63.7584" type="legs.jpshort.chalice.glider" GUID="jHSnXtVZoEiYul3kjqdg8w==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-520.674" ypos="249.698" zpos="8.79453" type="legs.jpshort.chalice.glider" GUID="aMi59DH8yEulltnm2KqGYg==" fadeNear="1200" fadeFar="1400"/>
+        <POI MapID="1175" xpos="-470.35" ypos="224.807" zpos="-42.0694" type="legs.jpshort.chalice.glider" GUID="AhI0/XxgMUemspNyk5uRww==" fadeNear="1200" fadeFar="1400"/>
+        <Trail type="legs.jpshort.chalice.emberbay.final" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Chalice of Tears Final.trl" color="FFFFFF"/>
         <!-- Heart of Thorns -->
-        <Trail type="legs.jpshort.highestgear.auric" GUID="rPptIv5rF0KHwqR2cfKmuQ==" trailData="Data/LadyElyssa/Jumping Puzzle - Shortcut/Highest Gear.trl"/>
+        <Trail type="legs.jpshort.highestgear.auric" GUID="rPptIv5rF0KHwqR2cfKmuQ==" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Highest Gear.trl"/>
         <POI MapID="1043" xpos="-364.146" ypos="270.491" zpos="236.626" type="legs.jpshort.highestgear.sign" GUID="0Qkh/Huw7U+t+9SMw8AXng==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Lastgear Standing.png"/>
         <POI MapID="1043" xpos="-497.623" ypos="268.134" zpos="-98.9263" type="legs.jpshort.highestgear.mount.springer" GUID="8LoDCE15p0SumnScJlrlaw=="/>
         <POI MapID="1043" xpos="-548.689" ypos="211.912" zpos="-316.397" type="legs.jpshort.highestgear.mount.skyscale" GUID="2YwBy4McG0iAmkbVwckTzA=="/>
         <POI MapID="1043" xpos="-535.25" ypos="285.88" zpos="-380.454" type="legs.jpshort.highestgear.mount.bof" GUID="z6YecOMIjUyRxjp6Zg2pfA=="/>
-        <POI MapID="1043" xpos="-547.553" ypos="277.556" zpos="-400.003" type="legs.jpshort.highestgear.glider.medium" GUID="9cTtiLgrJE++jS+4q3vgCQ=="/>
+        <POI MapID="1043" xpos="-547.553" ypos="277.556" zpos="-400.003" type="legs.jpshort.highestgear.glider" GUID="9cTtiLgrJE++jS+4q3vgCQ=="/>
     </POIs>
 </OverlayData>
