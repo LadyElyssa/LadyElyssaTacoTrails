@@ -1413,7 +1413,7 @@
         <POI MapID="29" xpos="57.8283" ypos="1.78127" zpos="-439.167" type="legs.gathering.general.hard.number.6" GUID="nKhEckAU3UeKxiQlHYM+YQ=="/>
         <POI MapID="29" xpos="500.203" ypos="14.9899" zpos="-349.715" type="legs.gathering.general.hard.wp" GUID="8Chu3BdKvUiQby8uOVdZ+A==" copy="[&BEkCAAA=]" copy-message="Nonmoa Waypoint"/>
         <!-- Mount Maelstrom -->
-        <Trail type="legs.gathering.general.hard.maelstrom" trailData="Data/LadyElyssa/Daily/Lumberer - Maelstrom - Ashen.trl"/>
+        <Trail type="legs.gathering.general.hard.maelstrom" trailData="Data/LadyElyssa/Gathering/Lumberer - Maelstrom - Ashen.trl"/>
         <POI MapID="39" xpos="-57.1877" ypos="11.1914" zpos="458.008" type="legs.gathering.general.hard.wood" GUID="JXCtKWTBSUa/Ob5vjaY4+Q=="/>
         <POI MapID="39" xpos="3.14619" ypos="0.670442" zpos="446.959" type="legs.gathering.general.hard.wood" GUID="jjrUX6PYl0eh8MnDyDAmSg=="/>
         <POI MapID="39" xpos="-243.619" ypos="20.8917" zpos="388.252" type="legs.gathering.general.hard.wood" GUID="hgGC8AzCHkShIC5g0rHsKQ=="/>
@@ -1711,7 +1711,7 @@
         <POI MapID="26" xpos="235.739" ypos="48.5051" zpos="171.966" type="legs.gathering.general.seasoned.wp" GUID="qQui0p9sDE+QEZpCfc6JLw==" copy="[&BF8CAAA=]" copy-message="Wide Expanse Waypoint"/>
         <POI MapID="26" xpos="361.054" ypos="87.8513" zpos="-369.248" type="legs.gathering.general.seasoned.wp" GUID="P09LeRe7QE+OcQQ9O1TwOQ==" copy="[&BFgCAAA=]" copy-message="Dociu Waypoint"/>
         <!-- Harathi Hinterlands -->
-        <Trail type="legs.gathering.general.seasoned.harathi" trailData="Data/LadyElyssa/Daily/Lumberer - Harathi - Wynchona.trl"/>
+        <Trail type="legs.gathering.general.seasoned.harathi" trailData="Data/LadyElyssa/Gathering/Lumberer - Harathi - Wynchona.trl"/>
         <POI MapID="17" xpos="-454.312" ypos="50.8553" zpos="-22.1613" type="legs.gathering.general.seasoned.wood" GUID="uEobIXtLeE+P3cFeHfyN0g=="/>
         <POI MapID="17" xpos="-432.852" ypos="37.5946" zpos="-86.074" type="legs.gathering.general.seasoned.wood" GUID="4p/t2I6Be0KtPKdezCJlNA=="/>
         <POI MapID="17" xpos="-384.793" ypos="36.7039" zpos="-96.4804" type="legs.gathering.general.seasoned.wood" GUID="OrHtW5T3dk+oZYWwGWHKxw=="/>
@@ -1738,9 +1738,9 @@
         <POI MapID="17" xpos="-512.164" ypos="39.4987" zpos="-59.1609" type="legs.gathering.general.seasoned.number.3" GUID="yN60xCr3G0Wv06e+vP3tgQ=="/>
         <!-- Soft Wood -->
         <!-- Diessa Plateau -->
-        <Trail type="legs.gathering.general.soft.diessa" trailData="Data/LadyElyssa/Daily/Lumberer - Diessa - Oldgate.trl"/>
+        <Trail type="legs.gathering.general.soft.diessa" trailData="Data/LadyElyssa/Gathering/Lumberer - Diessa - Oldgate.trl"/>
         <POI MapID="32" xpos="-363.613" ypos="35.6584" zpos="-381.198" type="legs.gathering.general.soft.wp" GUID="0qrsP67YyU2WFP10hdY/gA==" copy="[&amp;BGMBAAA=]" copy-message="Nemus Grove Waypoint"/>
-        <Trail type="legs.gathering.general.soft.diessa" trailData="Data/LadyElyssa/Daily/Lumberer - Diessa - Nemus.trl"/>
+        <Trail type="legs.gathering.general.soft.diessa" trailData="Data/LadyElyssa/Gathering/Lumberer - Diessa - Nemus.trl"/>
         <POI MapID="32" xpos="561.128" ypos="19.3409" zpos="228.406" type="legs.gathering.general.soft.wp" GUID="P8l6vCKlT06Y+ZDAy21/qw==" copy="[&amp;BGMBAAA=]" copy-message="Forlorn Waypoint&#xA;Fields of Ruin"/>
         <POI MapID="32" xpos="-656.668" ypos="26.6557" zpos="-139.327" type="legs.gathering.general.soft.wood" GUID="pH0InpfRe0+N77oIMm5NKQ=="/>
         <POI MapID="32" xpos="-678.996" ypos="38.3906" zpos="-323.42" type="legs.gathering.general.soft.wood" GUID="GWelhEG9Y0SMxbj9Vd2Xcg=="/>
@@ -1794,8 +1794,8 @@
         <POI MapID="32" xpos="-627.974" ypos="23.5337" zpos="-264.146" type="legs.gathering.general.soft.wood" GUID="xBOOgRbUIku9M3chEhBJLw=="/>
         <POI MapID="32" xpos="-475.002" ypos="24.1321" zpos="-415.423" type="legs.gathering.general.soft.wood" GUID="CRMTnnszLkm9CK8arBQZKQ=="/>
         <!-- Fields of Ruin -->
-        <Trail type="legs.gathering.general.soft.fields" trailData="Data/LadyElyssa/Daily/Lumberer - Fields - Hautclaire.trl"/>
-        <Trail type="legs.gathering.general.soft.fields" trailData="Data/LadyElyssa/Daily/Lumberer - Fields - Ogre.trl"/>
+        <Trail type="legs.gathering.general.soft.fields" trailData="Data/LadyElyssa/Gathering/Lumberer - Fields - Hautclaire.trl"/>
+        <Trail type="legs.gathering.general.soft.fields" trailData="Data/LadyElyssa/Gathering/Lumberer - Fields - Ogre.trl"/>
         <POI MapID="21" xpos="58.853" ypos="22.8931" zpos="-732.562" type="legs.gathering.general.soft.wood" GUID="30Kw1qU2Wku80UeDMc9Dbw=="/>
         <POI MapID="21" xpos="76.9593" ypos="13.7497" zpos="-656.563" type="legs.gathering.general.soft.wood" GUID="DN1rg+XKoES/+Y2JDCNI6Q=="/>
         <POI MapID="21" xpos="104.057" ypos="10.3362" zpos="-639.086" type="legs.gathering.general.soft.wood" GUID="PzBGXel1UUqg2cvndQqMGg=="/>
