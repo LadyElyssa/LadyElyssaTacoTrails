@@ -365,30 +365,29 @@
         <!-- Sapphire Sanctum   -->
 
         <!-- Janthir Wilds -->
-        <POI MapID="1550" xpos="-331.095" ypos="217.382" zpos="-469.362" type="legs.ls.jp.light.sign" GUID="b+Mmyl31kkGiqbuw9Q6DQw=="/>
-        <Trail type="legs.ls.jp.light" trailData="Data/LadyElyssa/JW/Jumping Puzzles/To Light Up the Vale.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.ls.jp.light" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Light Up the Vale.trl"/>
-        <POI MapID="1550" xpos="19.348" ypos="311.818" zpos="-278.249" type="legs.ls.jp.light.glider" GUID="EKTgnLiRYkmqLc2a0X/hEQ=="/>
-        <POI MapID="1550" xpos="120.205" ypos="198.529" zpos="-99.4077" type="legs.ls.jp.light.glider" GUID="WQ1CU/7D402GGcIaVHYmCg=="/>
-        <POI MapID="1550" xpos="101.971" ypos="151.778" zpos="1.06872" type="legs.ls.jp.light.glider" GUID="2VARgj4UV0+qtoRh91WsCg=="/>
-        <POI MapID="1550" xpos="119.451" ypos="145.566" zpos="22.0601" type="legs.ls.jp.light.booster" GUID="p89QBBymlUWop8QH5CDNYA=="/>
-        <POI MapID="1550" xpos="160.217" ypos="140.032" zpos="73.3086" type="legs.ls.jp.light.glider" GUID="tuXuq8+WJUKrTCciv1CiEg=="/>
-        <POI MapID="1550" xpos="152.65" ypos="124.558" zpos="120.753" type="legs.ls.gathering.flower" GUID="5QCe8sZtLkWhOiQVoLPZYA=="/>
-        <POI MapID="1550" xpos="154.876" ypos="129.386" zpos="107.405" type="legs.ls.jp.light.booster" GUID="9Rhcf23AtUupEYAKMEEfTQ=="/>
-        <POI MapID="1550" xpos="142.711" ypos="135.656" zpos="152.922" type="legs.ls.jp.light.glider" GUID="gd7Zlp0s5UazkhF3a3Dazw=="/>
-        <POI MapID="1550" xpos="78.4541" ypos="80.7652" zpos="201.356" type="legs.ls.jp.light.glider" GUID="7tZjAKwX+kOACPj9T9/3dQ=="/>
-        <POI MapID="1550" xpos="55.1827" ypos="47.5544" zpos="330.107" type="legs.ls.jp.light.glider" GUID="NfUGr/VyHUOA7HAmgurP5A=="/>
-        <POI MapID="1550" xpos="49.0113" ypos="38.9209" zpos="362.611" type="legs.ls.jp.light.booster" GUID="sdOLgZxjtE2PqTb5qn0RmQ=="/>
-        <POI MapID="1550" xpos="45.4483" ypos="48.8983" zpos="399.483" type="legs.ls.jp.light.glider" GUID="twTZ/hppnEi+1wiKD2iblw=="/>
-        <POI MapID="1550" xpos="148.139" ypos="8.41362" zpos="459.854" type="legs.ls.jp.light.glider" GUID="ncFtsbhyGUSUQrS5f7YecA=="/>
-        <POI MapID="1550" xpos="157.182" ypos="13.0522" zpos="472.335" type="legs.ls.jp.light.glider" GUID="+0jmDriE6UuCG1aaWkjIsA=="/>
-        <POI MapID="1550" xpos="186.499" ypos="7.14597" zpos="497.359" type="legs.ls.jp.light.booster" GUID="5K8TwRKLAUWAOnfVB8od3w=="/>
-        <POI MapID="1550" xpos="150.552" ypos="9.62146" zpos="463.764" type="legs.ls.jp.light.booster" GUID="Q4iG8X5CP02+lnf/t3yGiw=="/>
+        <POI MapID="1550" xpos="-331.095" ypos="217.382" zpos="-469.362" type="legs.jp.light.sign" GUID="b+Mmyl31kkGiqbuw9Q6DQw=="/>
+        <Trail type="legs.jp.light.ls" trailData="Data/LadyElyssa/Jumping Puzzles/JW/To Light Up the Vale.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.jp.light.ls" trailData="Data/LadyElyssa/Jumping Puzzles/JW/Light Up the Vale.trl"/>
+        <POI MapID="1550" xpos="19.348" ypos="311.818" zpos="-278.249" type="legs.jp.light.glider" GUID="EKTgnLiRYkmqLc2a0X/hEQ=="/>
+        <POI MapID="1550" xpos="120.205" ypos="198.529" zpos="-99.4077" type="legs.jp.light.glider" GUID="WQ1CU/7D402GGcIaVHYmCg=="/>
+        <POI MapID="1550" xpos="101.971" ypos="151.778" zpos="1.06872" type="legs.jp.light.glider" GUID="2VARgj4UV0+qtoRh91WsCg=="/>
+        <POI MapID="1550" xpos="119.451" ypos="145.566" zpos="22.0601" type="legs.jp.light.booster" GUID="p89QBBymlUWop8QH5CDNYA=="/>
+        <POI MapID="1550" xpos="160.217" ypos="140.032" zpos="73.3086" type="legs.jp.light.glider" GUID="tuXuq8+WJUKrTCciv1CiEg=="/>
+        <POI MapID="1550" xpos="154.876" ypos="129.386" zpos="107.405" type="legs.jp.light.booster" GUID="9Rhcf23AtUupEYAKMEEfTQ=="/>
+        <POI MapID="1550" xpos="142.711" ypos="135.656" zpos="152.922" type="legs.jp.light.glider" GUID="gd7Zlp0s5UazkhF3a3Dazw=="/>
+        <POI MapID="1550" xpos="78.4541" ypos="80.7652" zpos="201.356" type="legs.jp.light.glider" GUID="7tZjAKwX+kOACPj9T9/3dQ=="/>
+        <POI MapID="1550" xpos="55.1827" ypos="47.5544" zpos="330.107" type="legs.jp.light.glider" GUID="NfUGr/VyHUOA7HAmgurP5A=="/>
+        <POI MapID="1550" xpos="49.0113" ypos="38.9209" zpos="362.611" type="legs.jp.light.booster" GUID="sdOLgZxjtE2PqTb5qn0RmQ=="/>
+        <POI MapID="1550" xpos="45.4483" ypos="48.8983" zpos="399.483" type="legs.jp.light.glider" GUID="twTZ/hppnEi+1wiKD2iblw=="/>
+        <POI MapID="1550" xpos="148.139" ypos="8.41362" zpos="459.854" type="legs.jp.light.glider" GUID="ncFtsbhyGUSUQrS5f7YecA=="/>
+        <POI MapID="1550" xpos="157.182" ypos="13.0522" zpos="472.335" type="legs.jp.light.glider" GUID="+0jmDriE6UuCG1aaWkjIsA=="/>
+        <POI MapID="1550" xpos="186.499" ypos="7.14597" zpos="497.359" type="legs.jp.light.booster" GUID="5K8TwRKLAUWAOnfVB8od3w=="/>
+        <POI MapID="1550" xpos="150.552" ypos="9.62146" zpos="463.764" type="legs.jp.light.booster" GUID="Q4iG8X5CP02+lnf/t3yGiw=="/>
 
-        <Trail type="legs.ls.jp.hive" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Hive Hopper.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <POI MapID="1550" xpos="-343.816" ypos="213.507" zpos="-449.306" type="legs.ls.jp.hive.sign" GUID="vMuYxbZ3dkK12/uN8Mfd9Q=="/>
-        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="legs.ls.jp.hive.guide" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/LadyElyssa/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
-        <Trail type="legs.ls.jp.buzzy" trailData="Data/LadyElyssa/JW/Jumping Puzzles/Buzzy Treetops.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <POI MapID="1550" xpos="566.899" ypos="423.046" zpos="-545.945" type="legs.ls.jp.buzzy.sign" GUID="DoXhccjPIUK59I7znIxSPg=="/>
+        <Trail type="legs.jp.hive.ls" trailData="Data/LadyElyssa/Jumping Puzzles/JW/Hive Hopper.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="1550" xpos="-343.816" ypos="213.507" zpos="-449.306" type="legs.jp.hive.sign" GUID="vMuYxbZ3dkK12/uN8Mfd9Q=="/>
+        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="legs.jp.hive.guide" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/LadyElyssa/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
+        <Trail type="legs.jp.buzzy.ls" trailData="Data/LadyElyssa/Jumping Puzzles/JW/Buzzy Treetops.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="1550" xpos="566.899" ypos="423.046" zpos="-545.945" type="legs.jp.buzzy.sign" GUID="DoXhccjPIUK59I7znIxSPg=="/>
     </POIs>
 </OverlayData>
