@@ -78,21 +78,21 @@
         <POI MapID="1452" xpos="-278.79" ypos="214.352" zpos="346.633" type="legs.mapt.jtt.marker" GUID="7q4YlS6OJ0aFWswctjKt7A=="/>
         <POI MapID="1452" xpos="-279.924" ypos="216.862" zpos="300.541" type="legs.mapt.jtt.marker" GUID="9B4ZGqEFtUewQ0MPtDSyrA=="/>
         <POI MapID="1422" xpos="-318.662" ypos="1.28253" zpos="-1005.93" type="legs.mapt.jtt.marker" GUID="KzDytHMbmEK2eVlppgP9ig=="/>
-        <POI MapID="1422" xpos="-410.048" ypos="164.868" zpos="-985.02" type="legs.mapt.jtt.marker" GUID="fdQGspnv0aw3BZY2In7MA=="/>
+        <POI MapID="1422" xpos="-410.048" ypos="164.868" zpos="-985.02" type="legs.mapt.jtt.marker" GUID="Ll0hzRA3i02Q1CMS2EcrHw=="/>
 
         <!-- Launch Pad -->
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/BlazeridgeLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/FieldsofRuinLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/FireheartLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/IronMarchesLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/LionsArchLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/BloodtideLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/HarathiLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/SparkflyLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/MountMaelstromLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/EmberBayLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/CursedShoreLP.trl"/>
-        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/MalchorsLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/BlazeridgeLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/FieldsofRuinLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/FireheartLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/IronMarchesLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/LionsArchLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/BloodtideLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/HarathiLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/SparkflyLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/MountMaelstromLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/EmberBayLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/CursedShoreLP.trl"/>
+        <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/MalchorsLP.trl"/>
         <Trail type="legs.mapt.launchpad.trail" trailData="Data/LadyElyssa/Map Traversal/Map Enhancements/StraitsLP.trl"/>
         <POI MapID="1175" xpos="-844.494" ypos="76.5351" zpos="-585.879" type="legs.mapt.launchpad" GUID="vZjk13nlBECWu1usldDwgA=="/>
         <POI MapID="17" xpos="-720.349" ypos="17.7405" zpos="437.844" type="legs.mapt.launchpad" GUID="/wChKGii2U2qWzYg/awwUQ=="/>
@@ -481,13 +481,6 @@
         <!-- Zip Lines -->
         <Trail type="legs.mapt.zip.arb.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Arborstone/ZiplineB.trl"/>
 
-        <!-- Jade Tech Teleporters -->
-        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Arborstone/Jade Tech Teleporters.trl"/>
-        <POI MapID="1428" xpos="-710.577" ypos="96.5653" zpos="448.334" type="legs.mapt.jtt.marker" GUID="W0ESC0yD1E+VlLYj/1dkqw=="/>
-        <POI MapID="1428" xpos="-668.926" ypos="138.525" zpos="452.436" type="legs.mapt.jtt.marker" GUID="YUx8EmlC1kqOeA7ypyrfPA=="/>
-        <POI MapID="1428" xpos="-679.896" ypos="96.5272" zpos="443.388" type="legs.mapt.jtt.marker" GUID="uLxMIdEaZ0+tkAzRbxeAaQ=="/>
-        <POI MapID="1428" xpos="-744.176" ypos="96.5653" zpos="414.658" type="legs.mapt.jtt.marker" GUID="siwos5dyrkKXVW23jiheUw=="/>
-        <POI MapID="1428" xpos="-775.154" ypos="12.1387" zpos="405.784" type="legs.mapt.jtt.marker" GUID="Yc2viQth5UGkr4XJAQrrAA=="/>
         <!--  The Echovald Wilds -->
         <!-- Zip Lines -->
         <Trail type="legs.mapt.zip.tew.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/ZiplineB.trl"/>
@@ -503,26 +496,12 @@
         <POI MapID="1452" xpos="124.356" ypos="216.181" zpos="626.73" type="legs.mapt.jtt.marker" GUID="vYDmRLyUXEWYWLC1xbUu+w=="/>
         <POI MapID="1452" xpos="58.5056" ypos="273.719" zpos="684.782" type="legs.mapt.jtt.marker" GUID="MFQdtECfy0+AZHbbIefbeg=="/>
         <POI MapID="1452" xpos="-412.553" ypos="144.008" zpos="-383.137" type="legs.mapt.jtt.marker" GUID="i/IY1lTSt0egFMTFeMh7iw=="/>
-        
-
-        <!-- Jade Tech Teleporters -->
-        
+            
         <!--  Dragon's End -->
         <!-- Zip Lines -->
         <Trail type="legs.mapt.zip.de.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/ZiplineB.trl"/>
         <Trail type="legs.mapt.zip.de.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/ZiplineU.trl"/>
-        <!-- Jade Tech Teleporters -->
-        <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Dragon's End/Jade Tech Teleporters.trl"/>
-        <POI MapID="1422" xpos="-85.9444" ypos="53.62" zpos="532.783" type="legs.mapt.jtt.marker" GUID="BoKooI7m90SpfxAfTA8yMQ=="/>
-        <POI MapID="1422" xpos="48.2121" ypos="34.6032" zpos="537.334" type="legs.mapt.jtt.marker" GUID="fd7Ek+Ofn0+MifbjGYBgew=="/>
-        <POI MapID="1422" xpos="-363.885" ypos="155.807" zpos="635.55" type="legs.mapt.jtt.marker" GUID="cgcggwQGIEqz1eOEnG+epw=="/>
-        <POI MapID="1422" xpos="475.041" ypos="61.817" zpos="526.815" type="legs.mapt.jtt.marker" GUID="lqECfd4p80OBcKVURdSlTA=="/>
-        <POI MapID="1452" xpos="-278.79" ypos="214.352" zpos="346.633" type="legs.mapt.jtt.marker" GUID="7q4YlS6OJ0aFWswctjKt7A=="/>
-        <POI MapID="1452" xpos="-279.924" ypos="216.862" zpos="300.541" type="legs.mapt.jtt.marker" GUID="9B4ZGqEFtUewQ0MPtDSyrA=="/>
-        <POI MapID="1422" xpos="-318.662" ypos="1.28253" zpos="-1005.93" type="legs.mapt.jtt.marker" GUID="KzDytHMbmEK2eVlppgP9ig=="/>
-        <POI MapID="1422" xpos="-410.048" ypos="164.868" zpos="-985.02" type="legs.mapt.jtt.marker" GUID="fdQGspnv0aw3BZY2In7MA=="/>
-        
-
+ 
         <!-- Gyala Delve -->
         <Trail type="legs.mapt.zip.gd.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Gyala Delve/ZiplineB.trl"/>
         <Trail type="legs.mapt.zip.gd.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Gyala Delve/Adventure - Silent Sands.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="CCCCCC"/>
