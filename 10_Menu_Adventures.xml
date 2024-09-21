@@ -559,6 +559,13 @@
                     <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
                 </MarkerCategory>
             </MarkerCategory>
+            <MarkerCategory name="gd" DisplayName="Gyala Delve">
+                <MarkerCategory name="ss" DisplayName="Silent Sands">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
 
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
 

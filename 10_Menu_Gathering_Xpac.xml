@@ -29,14 +29,14 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="tog" DisplayName="Toggle Honey Flower (Hexagon)" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                        <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+                        <MarkerCategory name="ls" DisplayName="Lowland Shore" defaulttoggle="0"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="tog" DisplayName="Toggle Lowland Pine (Circle)" iconFile="Data/LadyElyssa/Images/Circle.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                        <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+                        <MarkerCategory name="ls" DisplayName="Lowland Shore" defaulttoggle="0"/>
                     </MarkerCategory>
                     <!--
                     <MarkerCategory name="titanamber" DisplayName="Titan Amber, Rotted">

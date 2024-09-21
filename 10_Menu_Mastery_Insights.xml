@@ -21,6 +21,7 @@
             <MarkerCategory name="vb" DisplayName="Verdant Brink">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider Markers" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="number" DisplayName="Trail Segment">
@@ -36,6 +37,7 @@
             <MarkerCategory name="ab" DisplayName="Auric Basin">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider Markers" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="number" DisplayName="Trail Segment">
@@ -50,6 +52,7 @@
             <MarkerCategory name="td" DisplayName="Tangled Depths">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider Markers" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="number" DisplayName="Trail Segment">
@@ -58,13 +61,12 @@
                         <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
                         <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
                     </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="ds" DisplayName="Dragon's Stand">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider Markers" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="number" DisplayName="Trail Segment">
