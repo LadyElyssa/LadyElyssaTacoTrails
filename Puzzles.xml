@@ -13,62 +13,66 @@
         <POI MapID="1330" xpos="-30.9987" ypos="31.7652" zpos="-281.283" type="legs.puzzles.acp.tree" GUID="i6cpkcozjEaaT+cOYA8+FA=="/>
 
         <!-- Raven Puzzle - Labyrinth -->
-        <Trail type="legs.puzzles.bjora.labyrinth" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Labyrinth.trl" color="99CCFF"/>
-        <POI MapID="1343" xpos="1262.49" ypos="51.7179" zpos="585.609" type="legs.puzzles.bjora.labyrinth.essence.blue" GUID="UsUYRcJddUm9CC4eBOqPgQ=="/>
-        <POI MapID="1343" xpos="1343.46" ypos="54.4544" zpos="601.615" type="legs.puzzles.bjora.labyrinth.glider" GUID="9I9CbGQRbUizHzr9v0v/ww=="/>
-        <POI MapID="1343" xpos="1344.61" ypos="34.2381" zpos="610.056" type="legs.puzzles.bjora.labyrinth.norn" GUID="+z2/ePPX9kWcSwpYK5FHiQ=="/>
-        <POI MapID="1343" xpos="1285.96" ypos="52.281" zpos="605.285" type="legs.puzzles.bjora.labyrinth.norn" GUID="pyASm7u3x0WspVGg2Mdg/w=="/>
-        <POI MapID="1343" xpos="1344.83" ypos="34.8147" zpos="497.857" type="legs.puzzles.bjora.labyrinth.norn" GUID="dWgS8uZ/FU+oMaebPfZSFg=="/>
-        <POI MapID="1343" xpos="1343.66" ypos="53.8519" zpos="567.741" type="legs.puzzles.bjora.labyrinth.glider" GUID="NqENaYiBokutmKs0oXE3ZQ=="/>
-        <POI MapID="1343" xpos="1316.93" ypos="54.919" zpos="564.616" type="legs.puzzles.bjora.labyrinth.norn" GUID="x1mP2aodskuSjoy/WyEQeg=="/>
+        <Trail type="legs.puzzles.raven.labyrinth" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Labyrinth.trl" color="99CCFF"/>
+        <POI MapID="1343" xpos="1262.49" ypos="51.7179" zpos="585.609" type="legs.puzzles.raven.labyrinth.essence.blue" GUID="UsUYRcJddUm9CC4eBOqPgQ=="/>
+        <POI MapID="1343" xpos="1343.46" ypos="54.4544" zpos="601.615" type="legs.puzzles.raven.labyrinth.glider" GUID="9I9CbGQRbUizHzr9v0v/ww=="/>
+        <POI MapID="1343" xpos="1344.61" ypos="34.2381" zpos="610.056" type="legs.puzzles.raven.labyrinth.norn" GUID="+z2/ePPX9kWcSwpYK5FHiQ=="/>
+        <POI MapID="1343" xpos="1285.96" ypos="52.281" zpos="605.285" type="legs.puzzles.raven.labyrinth.norn" GUID="pyASm7u3x0WspVGg2Mdg/w=="/>
+        <POI MapID="1343" xpos="1344.83" ypos="34.8147" zpos="497.857" type="legs.puzzles.raven.labyrinth.norn" GUID="dWgS8uZ/FU+oMaebPfZSFg=="/>
+        <POI MapID="1343" xpos="1343.66" ypos="53.8519" zpos="567.741" type="legs.puzzles.raven.labyrinth.glider" GUID="NqENaYiBokutmKs0oXE3ZQ=="/>
+        <POI MapID="1343" xpos="1316.93" ypos="54.919" zpos="564.616" type="legs.puzzles.raven.labyrinth.norn" GUID="x1mP2aodskuSjoy/WyEQeg=="/>
+        
         <!-- Raven Puzzle - Raven Gate Ruins -->
-        <Trail type="legs.puzzles.bjora.ruins" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Raven Gate Ruins.trl" color="99CCFF"/>
-        <POI MapID="1343" xpos="-744.091" ypos="150.466" zpos="668.981" type="legs.puzzles.bjora.ruins.glider" GUID="nKXdHykeS06kP0/DZ/Kf3w=="/>
-        <POI MapID="1343" xpos="-824.841" ypos="149.941" zpos="607.799" type="legs.puzzles.bjora.ruins.glider" GUID="L5rBY5ELEEyW1KQ3sBWSkw=="/>
-        <POI MapID="1343" xpos="-673.334" ypos="161.587" zpos="644.638" type="legs.puzzles.bjora.ruins.norn" GUID="VVXieoRlMUOkMUIl4tF+9A=="/>
-        <POI MapID="1343" xpos="-634.085" ypos="176.745" zpos="646.151" type="legs.puzzles.bjora.ruins.glider" GUID="0jdEC6PAZE6K5U5ItbKSDQ=="/>
-        <POI MapID="1343" xpos="-845.361" ypos="150.059" zpos="632.997" type="legs.puzzles.bjora.ruins.essence.blue" GUID="QG2XGn7/5U2RfMH/b0ydng=="/>
-        <POI MapID="1343" xpos="-767.801" ypos="150.468" zpos="666.524" type="legs.puzzles.bjora.ruins.glider" GUID="+ccF9lGiWkOLgYv4te5ZLg=="/>
-        <POI MapID="1343" xpos="-628.949" ypos="160.857" zpos="608.205" type="legs.puzzles.bjora.ruins.norn" GUID="lml/nX+ePUeH+jhJ5b3ATw=="/>
-        <POI MapID="1343" xpos="-677.559" ypos="161.112" zpos="593.016" type="legs.puzzles.bjora.ruins.norn" GUID="SzLo+KmPLEaKD6n4mCQ8Kw=="/>
-        <POI MapID="1343" xpos="-705.075" ypos="150.074" zpos="589.713" type="legs.puzzles.bjora.ruins.norn" GUID="7c5z2WGZZE2AhVW71dZIsw=="/>
-        <POI MapID="1343" xpos="-779.281" ypos="146.474" zpos="610.498" type="legs.puzzles.bjora.ruins.norn" GUID="1L2WS42qcU+0h9AWY3tPEA=="/>
+        <Trail type="legs.puzzles.raven.ruins" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Raven Gate Ruins.trl" color="99CCFF"/>
+        <POI MapID="1343" xpos="-744.091" ypos="150.466" zpos="668.981" type="legs.puzzles.raven.ruins.glider" GUID="nKXdHykeS06kP0/DZ/Kf3w=="/>
+        <POI MapID="1343" xpos="-824.841" ypos="149.941" zpos="607.799" type="legs.puzzles.raven.ruins.glider" GUID="L5rBY5ELEEyW1KQ3sBWSkw=="/>
+        <POI MapID="1343" xpos="-673.334" ypos="161.587" zpos="644.638" type="legs.puzzles.raven.ruins.norn" GUID="VVXieoRlMUOkMUIl4tF+9A=="/>
+        <POI MapID="1343" xpos="-634.085" ypos="176.745" zpos="646.151" type="legs.puzzles.raven.ruins.glider" GUID="0jdEC6PAZE6K5U5ItbKSDQ=="/>
+        <POI MapID="1343" xpos="-845.361" ypos="150.059" zpos="632.997" type="legs.puzzles.raven.ruins.essence.blue" GUID="QG2XGn7/5U2RfMH/b0ydng=="/>
+        <POI MapID="1343" xpos="-767.801" ypos="150.468" zpos="666.524" type="legs.puzzles.raven.ruins.glider" GUID="+ccF9lGiWkOLgYv4te5ZLg=="/>
+        <POI MapID="1343" xpos="-628.949" ypos="160.857" zpos="608.205" type="legs.puzzles.raven.ruins.norn" GUID="lml/nX+ePUeH+jhJ5b3ATw=="/>
+        <POI MapID="1343" xpos="-677.559" ypos="161.112" zpos="593.016" type="legs.puzzles.raven.ruins.norn" GUID="SzLo+KmPLEaKD6n4mCQ8Kw=="/>
+        <POI MapID="1343" xpos="-705.075" ypos="150.074" zpos="589.713" type="legs.puzzles.raven.ruins.norn" GUID="7c5z2WGZZE2AhVW71dZIsw=="/>
+        <POI MapID="1343" xpos="-779.281" ypos="146.474" zpos="610.498" type="legs.puzzles.raven.ruins.norn" GUID="1L2WS42qcU+0h9AWY3tPEA=="/>
+        
         <!-- Raven Puzzle - Tower -->
-        <Trail type="legs.puzzles.bjora.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Main Floor.trl" color="99CCFF"/>
-        <POI MapID="1343" xpos="-60.2274" ypos="92.6551" zpos="-517.18" type="legs.puzzles.bjora.tower.glider" GUID="qB02rwYcEkamN4rivO5dzQ=="/>
-        <POI MapID="1343" xpos="-82.9685" ypos="120.74" zpos="-515.972" type="legs.puzzles.bjora.tower.norn" GUID="mOiusBKZ6kuRqb3fX6fDTA=="/>
-        <POI MapID="1343" xpos="-52.2582" ypos="120.52" zpos="-563.614" type="legs.puzzles.bjora.tower.norn" GUID="XxIvC8EXfEqpxOOAVk+Ueg=="/>
-        <Trail type="legs.puzzles.bjora.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Upper.trl" color="99CCFF"/>
-        <POI MapID="1343" xpos="-73.2114" ypos="121.132" zpos="-555.715" type="legs.puzzles.bjora.tower.glider" GUID="le82skFGOESFZQ+npxMkWA=="/>
-        <POI MapID="1343" xpos="-93.4544" ypos="140.292" zpos="-572.313" type="legs.puzzles.bjora.tower.glider" GUID="OTGEw3Dj9E+A1U11CfTdAQ=="/>
-        <Trail type="legs.puzzles.bjora.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Lower.trl" color="99CCFF"/>
-        <POI MapID="1343" xpos="-62.2898" ypos="66.2879" zpos="-566.277" type="legs.puzzles.bjora.tower.norn" GUID="YoA7n6JbokmbEZZbXXlcyQ=="/>
-        <POI MapID="1343" xpos="-64.0865" ypos="91.498" zpos="-543.22" type="legs.puzzles.bjora.tower.glider" GUID="+5yJc7KQIkiz0Eq5MPRkJg=="/>
-        <Trail type="legs.puzzles.bjora.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Final.trl" color="339cff"/>
-        <POI MapID="1343" xpos="-83.2248" ypos="91.8524" zpos="-549.4" type="legs.puzzles.bjora.tower.essence.green" GUID="8SPHXEvHEU2huFAprV5P+A=="/>
-        <POI MapID="1343" xpos="-110.221" ypos="66.6152" zpos="-486.581" type="legs.puzzles.bjora.tower.norn" GUID="+FJ3X/6/5UK2IUyJqp9qbA=="/>
-        <POI MapID="1343" xpos="-85.8916" ypos="65.7753" zpos="-454.588" type="legs.puzzles.bjora.tower.norn" GUID="7HTbxGHr1EaZfBie3Mfq5w=="/>
-        <POI MapID="1343" xpos="-66.8925" ypos="65.8135" zpos="-523.624" type="legs.puzzles.bjora.tower.norn" GUID="mU+gx49IbECHalcPo5VKeA=="/>
-        <POI MapID="1343" xpos="-93.3223" ypos="140.292" zpos="-572.292" type="legs.puzzles.bjora.tower.glider" GUID="jmSHUCmGukSIIZvzVBaU0w=="/>
-        <POI MapID="1343" xpos="-83.4042" ypos="25.5235" zpos="-583.259" type="legs.puzzles.bjora.tower.norn" GUID="Swr1gpjfNEuPbYAOmQWa6w=="/>
-        <Trail type="legs.puzzles.bjora.drakkar" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of Drakkars Lair.trl" color="99CCFF"/>
-        <POI MapID="1343" xpos="-917.189" ypos="27.6856" zpos="-358.084" type="legs.puzzles.bjora.drakkar.glider" GUID="LGD53ZW/2UuvwHeFLDxQDA=="/>
-        <POI MapID="1343" xpos="-918.784" ypos="27.8151" zpos="-311.677" type="legs.puzzles.bjora.drakkar.glider" GUID="JXYahPUdl0agy9Mbh51aXw=="/>
-        <POI MapID="1343" xpos="-1022.8" ypos="19.0704" zpos="-259.813" type="legs.puzzles.bjora.drakkar.norn" GUID="jJ+9X/6hkEqKbt9xaIT/SQ=="/>
-        <POI MapID="1343" xpos="-1085.81" ypos="26.9177" zpos="-288.478" type="legs.puzzles.bjora.drakkar.glider" GUID="eYkvb4OD8kyobTuzsBiJ8Q=="/>
-        <POI MapID="1343" xpos="-1081.61" ypos="19.1997" zpos="-335.82" type="legs.puzzles.bjora.drakkar.norn" GUID="Pz2eqqc6U0CPYh/TPSKlUA=="/>
-        <POI MapID="1343" xpos="-1017.6" ypos="-3.59806" zpos="-395.58" type="legs.puzzles.bjora.drakkar.norn" GUID="dMtk20d8HU+xVIhyPC4z9A=="/>
-        <POI MapID="1343" xpos="-982.603" ypos="24.464" zpos="-346.323" type="legs.puzzles.bjora.drakkar.norn" GUID="OyDveXczg0ClZJUs6T4Shg=="/>
-        <POI MapID="1343" xpos="-1007.85" ypos="-2.96432" zpos="-263.455" type="legs.puzzles.bjora.drakkar.norn" GUID="Cl+iOMDZ/0yLg494iLlc6A=="/>
-        <POI MapID="1343" xpos="-918.958" ypos="18.818" zpos="-280.408" type="legs.puzzles.bjora.drakkar.norn" GUID="EVG7K9c+L0+3Y3VyJAhg8g=="/>
-        <POI MapID="1343" xpos="-1009.47" ypos="22.4314" zpos="-291.217" type="legs.puzzles.bjora.drakkar.norn" GUID="4nMW7eMCt0CaJlionv67CQ=="/>
-        <POI MapID="1343" xpos="-1046.34" ypos="18.7437" zpos="-296.735" type="legs.puzzles.bjora.drakkar.norn" GUID="vpcUbgGskkmBzC+skxJRTQ=="/>
-        <POI MapID="1343" xpos="-938.381" ypos="-2.67999" zpos="-333.846" type="legs.puzzles.bjora.drakkar.norn" GUID="rPXz3Ewtrk6R48tgV3HusQ=="/>
-        <POI MapID="1343" xpos="-1066.73" ypos="16.902" zpos="-355.761" type="legs.puzzles.bjora.drakkar.norn" GUID="wib36gvlW06nH+G2NKBdRQ=="/>
-        <Trail type="legs.puzzles.bjora.trail" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Sanctum.trl" color="CCFFFF"/>
-        <POI MapID="1343" xpos="26.5815" ypos="154.648" zpos="365.258" type="legs.puzzles.bjora.trail.norn" GUID="/aPPq7fiI0mvfMDXQCczGA=="/>
-        <POI MapID="1343" xpos="16.5535" ypos="154.648" zpos="356.632" type="legs.puzzles.bjora.trail.norn" GUID="Aq9bVcS7kEewC5OJHM8B3g=="/>
-        <POI MapID="1343" xpos="19.645" ypos="154.653" zpos="363.078" type="legs.puzzles.bjora.trail.norn" GUID="/Fqewi5oMUewES+7UxYcTA=="/>
-        <POI MapID="1343" xpos="26.2585" ypos="154.311" zpos="355.4" type="legs.puzzles.bjora.trail.essence.green" GUID="PDZgm5JKd0aF9lcOLeq06w=="/>
+        <Trail type="legs.puzzles.raven.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Main Floor.trl" color="99CCFF"/>
+        <POI MapID="1343" xpos="-60.2274" ypos="92.6551" zpos="-517.18" type="legs.puzzles.raven.tower.glider" GUID="qB02rwYcEkamN4rivO5dzQ=="/>
+        <POI MapID="1343" xpos="-82.9685" ypos="120.74" zpos="-515.972" type="legs.puzzles.raven.tower.norn" GUID="mOiusBKZ6kuRqb3fX6fDTA=="/>
+        <POI MapID="1343" xpos="-52.2582" ypos="120.52" zpos="-563.614" type="legs.puzzles.raven.tower.norn" GUID="XxIvC8EXfEqpxOOAVk+Ueg=="/>
+        <Trail type="legs.puzzles.raven.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Upper.trl" color="99CCFF"/>
+        <POI MapID="1343" xpos="-73.2114" ypos="121.132" zpos="-555.715" type="legs.puzzles.raven.tower.glider" GUID="le82skFGOESFZQ+npxMkWA=="/>
+        <POI MapID="1343" xpos="-93.4544" ypos="140.292" zpos="-572.313" type="legs.puzzles.raven.tower.glider" GUID="OTGEw3Dj9E+A1U11CfTdAQ=="/>        
+        <Trail type="legs.puzzles.raven.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Lower.trl" color="99CCFF"/>
+        <POI MapID="1343" xpos="-62.2898" ypos="66.2879" zpos="-566.277" type="legs.puzzles.raven.tower.norn" GUID="YoA7n6JbokmbEZZbXXlcyQ=="/>
+        <POI MapID="1343" xpos="-64.0865" ypos="91.498" zpos="-543.22" type="legs.puzzles.raven.tower.glider" GUID="+5yJc7KQIkiz0Eq5MPRkJg=="/>
+        <Trail type="legs.puzzles.raven.tower" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of the Hidden Tower Final.trl" color="339cff"/>
+        <POI MapID="1343" xpos="-83.2248" ypos="91.8524" zpos="-549.4" type="legs.puzzles.raven.tower.essence.green" GUID="8SPHXEvHEU2huFAprV5P+A=="/>
+        <POI MapID="1343" xpos="-110.221" ypos="66.6152" zpos="-486.581" type="legs.puzzles.raven.tower.norn" GUID="+FJ3X/6/5UK2IUyJqp9qbA=="/>
+        <POI MapID="1343" xpos="-85.8916" ypos="65.7753" zpos="-454.588" type="legs.puzzles.raven.tower.norn" GUID="7HTbxGHr1EaZfBie3Mfq5w=="/>
+        <POI MapID="1343" xpos="-66.8925" ypos="65.8135" zpos="-523.624" type="legs.puzzles.raven.tower.norn" GUID="mU+gx49IbECHalcPo5VKeA=="/>
+        <POI MapID="1343" xpos="-93.3223" ypos="140.292" zpos="-572.292" type="legs.puzzles.raven.tower.glider" GUID="jmSHUCmGukSIIZvzVBaU0w=="/>
+        <POI MapID="1343" xpos="-83.4042" ypos="25.5235" zpos="-583.259" type="legs.puzzles.raven.tower.norn" GUID="Swr1gpjfNEuPbYAOmQWa6w=="/>
+        
+        <Trail type="legs.puzzles.raven.drakkar" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Mystery of Drakkars Lair.trl" color="99CCFF"/>
+        <POI MapID="1343" xpos="-917.189" ypos="27.6856" zpos="-358.084" type="legs.puzzles.raven.drakkar.glider" GUID="LGD53ZW/2UuvwHeFLDxQDA=="/>
+        <POI MapID="1343" xpos="-918.784" ypos="27.8151" zpos="-311.677" type="legs.puzzles.raven.drakkar.glider" GUID="JXYahPUdl0agy9Mbh51aXw=="/>
+        <POI MapID="1343" xpos="-1022.8" ypos="19.0704" zpos="-259.813" type="legs.puzzles.raven.drakkar.norn" GUID="jJ+9X/6hkEqKbt9xaIT/SQ=="/>
+        <POI MapID="1343" xpos="-1085.81" ypos="26.9177" zpos="-288.478" type="legs.puzzles.raven.drakkar.glider" GUID="eYkvb4OD8kyobTuzsBiJ8Q=="/>
+        <POI MapID="1343" xpos="-1081.61" ypos="19.1997" zpos="-335.82" type="legs.puzzles.raven.drakkar.norn" GUID="Pz2eqqc6U0CPYh/TPSKlUA=="/>
+        <POI MapID="1343" xpos="-1017.6" ypos="-3.59806" zpos="-395.58" type="legs.puzzles.raven.drakkar.norn" GUID="dMtk20d8HU+xVIhyPC4z9A=="/>
+        <POI MapID="1343" xpos="-982.603" ypos="24.464" zpos="-346.323" type="legs.puzzles.raven.drakkar.norn" GUID="OyDveXczg0ClZJUs6T4Shg=="/>
+        <POI MapID="1343" xpos="-1007.85" ypos="-2.96432" zpos="-263.455" type="legs.puzzles.raven.drakkar.norn" GUID="Cl+iOMDZ/0yLg494iLlc6A=="/>
+        <POI MapID="1343" xpos="-918.958" ypos="18.818" zpos="-280.408" type="legs.puzzles.raven.drakkar.norn" GUID="EVG7K9c+L0+3Y3VyJAhg8g=="/>
+        <POI MapID="1343" xpos="-1009.47" ypos="22.4314" zpos="-291.217" type="legs.puzzles.raven.drakkar.norn" GUID="4nMW7eMCt0CaJlionv67CQ=="/>
+        <POI MapID="1343" xpos="-1046.34" ypos="18.7437" zpos="-296.735" type="legs.puzzles.raven.drakkar.norn" GUID="vpcUbgGskkmBzC+skxJRTQ=="/>
+        <POI MapID="1343" xpos="-938.381" ypos="-2.67999" zpos="-333.846" type="legs.puzzles.raven.drakkar.norn" GUID="rPXz3Ewtrk6R48tgV3HusQ=="/>
+        <POI MapID="1343" xpos="-1066.73" ypos="16.902" zpos="-355.761" type="legs.puzzles.raven.drakkar.norn" GUID="wib36gvlW06nH+G2NKBdRQ=="/>
+        
+        <Trail type="legs.puzzles.sanctum.trail" trailData="Data/LadyElyssa/Puzzles/LWS5/Raven Sanctum.trl" color="CCFFFF"/>
+        <POI MapID="1343" xpos="26.5815" ypos="154.648" zpos="365.258" type="legs.puzzles.sanctum.trail.norn" GUID="/aPPq7fiI0mvfMDXQCczGA=="/>
+        <POI MapID="1343" xpos="16.5535" ypos="154.648" zpos="356.632" type="legs.puzzles.sanctum.trail.norn" GUID="Aq9bVcS7kEewC5OJHM8B3g=="/>
+        <POI MapID="1343" xpos="19.645" ypos="154.653" zpos="363.078" type="legs.puzzles.sanctum.trail.norn" GUID="/Fqewi5oMUewES+7UxYcTA=="/>
+        <POI MapID="1343" xpos="26.2585" ypos="154.311" zpos="355.4" type="legs.puzzles.sanctum.trail.essence.green" GUID="PDZgm5JKd0aF9lcOLeq06w=="/>
     </POIs>
 </OverlayData>
