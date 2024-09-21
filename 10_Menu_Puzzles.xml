@@ -4,9 +4,8 @@
 
             <!-- A Carved Path -->
             <MarkerCategory name="acp" DisplayName="A Carved Path">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                
                 <MarkerCategory name="animal" DisplayName="Animal" iconFile="Data/LadyElyssa/Images/A Carved Path/Animal.png" mapDisplaySize="48"/>
                 <MarkerCategory name="claw" DisplayName="Claw" iconFile="Data/LadyElyssa/Images/A Carved Path/Claw.png" mapDisplaySize="48"/>
                 <MarkerCategory name="fire" DisplayName="Fire" iconFile="Data/LadyElyssa/Images/A Carved Path/Fire.png" mapDisplaySize="48"/>
@@ -18,54 +17,58 @@
             </MarkerCategory>
             <!-- End A Carved Path -->
 
-            <MarkerCategory name="bjora" DisplayName="Bjora Marches">
+            
             <MarkerCategory name="raven" DisplayName="Raven Puzzles" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="1" alpha="1" fadeNear="1100" fadeFar="1200">
-                <MarkerCategory name="set" DisplayName="Settings">
-                    <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                    <MarkerCategory name="essence" DisplayName="Essence Chests" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="42">
-                        <MarkerCategory name="red" DisplayName="Red Chest of Resilience" iconFile="Data/LadyElyssa/Images/Chest of Essence - Red.png"/>
-                        <MarkerCategory name="redsmall" DisplayName="Red Chest of Resilience (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Red - Small.png" mapDisplaySize="32"/>
-                        <MarkerCategory name="green" DisplayName="Green Chest of Valor" iconFile="Data/LadyElyssa/Images/Chest of Essence - Green.png"/>
-                        <MarkerCategory name="greensmall" DisplayName="Green Chest of Valor (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Green - Small.png" mapDisplaySize="32"/>
-                        <MarkerCategory name="blue" DisplayName="Blue Chest of Vigilance" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue.png"/>
-                        <MarkerCategory name="bluesmall" DisplayName="Blue Chest of Vigilance (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue - Small.png" mapDisplaySize="32"/>
-                    </MarkerCategory>
-                    <!-- End Essence -->
-                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
-                        <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
-                        <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
-                        <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
-                    </MarkerCategory>
-                    <!-- End Gliders -->
+                
+            <MarkerCategory name="drakkar" DisplayName="Mystery of Drakkars Lair" color="99CCFF">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="tower" DisplayName="Mystery of the Hidden Tower" color="99CCFF">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="essence" DisplayName="Essence Chests" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="42">            
+                    <MarkerCategory name="green" DisplayName="Green Chest of Valor" iconFile="Data/LadyElyssa/Images/Chest of Essence - Green.png"/>
                 </MarkerCategory>
-                <!-- End Settings -->
-                <MarkerCategory name="drakkar" DisplayName="Mystery of Drakkars Lair" color="99CCFF"/>
-                <MarkerCategory name="tower" DisplayName="Mystery of the Hidden Tower" color="99CCFF"/>
-                <MarkerCategory name="labyrinth" DisplayName="Mystery of the Labyrinth" color="99CCFF"/>
-                <MarkerCategory name="ruins" DisplayName="Mystery of the Raven Gate Ruins" color="99CCFF"/>
+                <!-- End Essence -->
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="labyrinth" DisplayName="Mystery of the Labyrinth" color="99CCFF">
+                <MarkerCategory name="essence" DisplayName="Essence Chests" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="42">
+                    <MarkerCategory name="blue" DisplayName="Blue Chest of Vigilance" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue.png"/>
+                </MarkerCategory>
+                <!-- End Essence -->
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="ruins" DisplayName="Mystery of the Raven Gate Ruins" color="99CCFF">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="essence" DisplayName="Essence Chests" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="42">
+                    <MarkerCategory name="blue" DisplayName="Blue Chest of Vigilance" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue.png"/>
+                </MarkerCategory>
+                <!-- End Essence -->
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
             </MarkerCategory>
             <!-- End Raven Puzzle -->
+            </MarkerCategory>
+
             <MarkerCategory name="sanctum" DisplayName="Raven Sanctum">
-                <MarkerCategory name="set" DisplayName="Settings">
+                <MarkerCategory name="trail" DisplayName="Trail">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="essence" DisplayName="Essence Chests" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="42">
-                        <MarkerCategory name="red" DisplayName="Red Chest of Resilience" iconFile="Data/LadyElyssa/Images/Chest of Essence - Red.png"/>
-                        <MarkerCategory name="redsmall" DisplayName="Red Chest of Resilience (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Red - Small.png" mapDisplaySize="32"/>
                         <MarkerCategory name="green" DisplayName="Green Chest of Valor" iconFile="Data/LadyElyssa/Images/Chest of Essence - Green.png"/>
-                        <MarkerCategory name="greensmall" DisplayName="Green Chest of Valor (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Green - Small.png" mapDisplaySize="32"/>
-                        <MarkerCategory name="blue" DisplayName="Blue Chest of Vigilance" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue.png"/>
-                        <MarkerCategory name="bluesmall" DisplayName="Blue Chest of Vigilance (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue - Small.png" mapDisplaySize="32"/>
                     </MarkerCategory>
                     <!-- End Essence -->
                 </MarkerCategory>
-                <!-- End Settings -->
-                <MarkerCategory name="trail" DisplayName="Trail" color="CCFFFF"/>
             </MarkerCategory>
-            <!-- End Raven Sanctum -->
+            <!-- End Raven Sanctum -->        
         </MarkerCategory>
-        <!-- End Bjora -->
-        </MarkerCategory>
-        
     </MarkerCategory>
     <!-- End of Lady Elyssa's Guides -->
 </OverlayData>
