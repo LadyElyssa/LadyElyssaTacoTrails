@@ -142,7 +142,7 @@
         <POI MapID="485" xpos="-783.748" ypos="0.134727" zpos="-564.385" type="legs.keys.oot.charr.research.wp" GUID="fK0gj/cV9ES66HzM7JJO7Q==" copy="[&BOMAAAA=]" copy-message="Cornucopian Fields Waypoint"/>
         <!-- Chapter 4 - lvl 40 -->
         <!-- To Lion's Arch -->
-        <POI MapID="24" xpos="248.659" ypos="2.43398" zpos="-463.624" type="legs.keystingthestage.sign" GUID="3Fte/6EPNEa6N1JF4VU7ew==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <Trail type="legs.settingthestage.bc" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="24" xpos="248.659" ypos="2.43398" zpos="-463.624" type="legs.keys.settingthestage.sign" GUID="3Fte/6EPNEa6N1JF4VU7ew==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.settingthestage.bc" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
     </POIs>
 </OverlayData>

@@ -995,9 +995,9 @@
             <MarkerCategory name="lvl40" IsSeparator="1" DisplayName="Lvl 40: CH. 4 - ORDER NEOPHYTE   "/>
             <MarkerCategory name="settingthestage" DisplayName="Setting the Stage">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/Setting the Stage.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/Setting the Stage.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="bc" DisplayName="Black Citadel To Lion's Arch" color="F20D0D"/>
                 <MarkerCategory name="dr" DisplayName="Divinity's Reach To Lion's Arch" color="FFCC00"/>
                 <MarkerCategory name="hb" DisplayName="Hoelbrak To Lion's Arch" color="5A9BFC"/>

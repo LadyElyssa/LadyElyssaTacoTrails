@@ -187,7 +187,7 @@
         <Trail type="legs.keys.oot.human.queen" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Queen's Justice Instance.trl"/>
         <!-- Chapter 4 - lvl 40 -->
         <!-- To Lion's Arch -->
-        <POI MapID="18" xpos="68.09" ypos="136.418" zpos="0.309386" type="legs.settingthestage.sign" GUID="nF/1kauZUEOUkprPg8lDDQ==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <Trail type="legs.settingthestage.dr" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="18" xpos="68.09" ypos="136.418" zpos="0.309386" type="legs.keys.settingthestage.sign" GUID="nF/1kauZUEOUkprPg8lDDQ==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.settingthestage.dr" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
     </POIs>
 </OverlayData>

@@ -128,7 +128,7 @@
         <POI MapID="454" xpos="-300.422" ypos="128.453" zpos="590.88" type="legs.keys.oot.norn.warfare.wp" GUID="KhJB/e5KVkmUmYj/Y6MCTw==" copy="[&BNUDAAA=]" copy-message="Great Lodge Waypoint"/>
         <!-- Chapter 4 - lvl 40 -->
         <!-- To Lion's Arch -->
-        <POI MapID="326" xpos="69.584" ypos="302.724" zpos="-240.305" type="legs.settingthestage.sign" GUID="SkzjVOzPykupMTwGziwoOA==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <Trail type="legs.settingthestage.hb" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="326" xpos="69.584" ypos="302.724" zpos="-240.305" type="legs.keys.settingthestage.sign" GUID="SkzjVOzPykupMTwGziwoOA==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.settingthestage.hb" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Norn/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
     </POIs>
 </OverlayData>
