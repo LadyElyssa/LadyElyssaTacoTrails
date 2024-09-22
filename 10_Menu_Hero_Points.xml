@@ -159,10 +159,7 @@
                 <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
             </MarkerCategory>
             <!-- End Numbers -->
-            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
-                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
-            </MarkerCategory>
-            <!-- End Gliders -->
+            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
         </MarkerCategory>
         <!-- End of EoD HP Run -->
 

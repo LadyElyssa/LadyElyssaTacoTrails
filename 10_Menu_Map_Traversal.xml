@@ -125,6 +125,11 @@
                     <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
                     <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/ZiplineU.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="E1C148"/>
                 </MarkerCategory>
+                <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
+                <MarkerCategory name="swa" DisplayName="Skywatch Archipelago">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="bi" DisplayName="Bidirectional" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" animSpeed="0" color="E1C148"/>
+                </MarkerCategory>
             </MarkerCategory>
             <!-- End Zip Lines -->
 
