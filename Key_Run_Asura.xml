@@ -151,10 +151,10 @@
         <Trail type="legs.keys.oot.asura.meeting.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/A Meeting of the Minds 2 Instance.trl"/>
         <POI MapID="652" xpos="39.4066" ypos="385.815" zpos="152.874" type="legs.keys.oot.asura.meeting.wp" GUID="h0HpD9JYPUik+xvsJQdzwQ==" copy="[&BBQEAAA=]" copy-message="Magustan Court Waypoint"/>
         <POI MapID="139" xpos="73.6323" ypos="385.835" zpos="248.212" type="legs.keys.oot.asura.city.sign" GUID="ruU5uepx6UWfcA3G+gwR5Q==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <Trail type="legs.keystingthestage.rs" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/To Lion's Arch.trl"/>
+        <Trail type="legs.settingthestage.rs" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/To Lion's Arch.trl"/>
         <!-- Chapter 4 - lvl 40 -->
         <!-- To Lion's Arch -->
-        <POI MapID="18" xpos="68.09" ypos="136.418" zpos="0.309386" type="legs.keystingthestage.sign" GUID="PsqnhiG/wEOkcGofdfnASQ==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <Trail type="legs.keystingthestage.rs" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="18" xpos="68.09" ypos="136.418" zpos="0.309386" type="legs.settingthestage.sign" GUID="PsqnhiG/wEOkcGofdfnASQ==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.settingthestage.rs" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Asura/To Lion's Arch.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
     </POIs>
 </OverlayData>
