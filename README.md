@@ -3,7 +3,7 @@ A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.
 Suitable for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs), just look for Lady Elyssa's Guides. _Please ensure your preferred option is up to date._
  
 Principles
-* Markers and Trails for Permanent, Replayable content only, no achievements or collections 
+* Markers and Trails for Permanent, Replayable content only, no achievements or collections. If you are looking for achievements and collections you can try [Lady Elyssa's Achievement & Collection Guides](https://github.com/LadyElyssa/LadyElyssaAchievementGuides).
 * Aim to provide smooth trails by:
    * avoiding un-necessary combat
    * minimising terrain obstacles, like bushes, rocks or trees
