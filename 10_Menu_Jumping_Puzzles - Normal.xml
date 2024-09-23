@@ -2,7 +2,8 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- JUMPING PUZZLES -->
         <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="0.6" alpha="1" minSize="64" maxSize="96">
-            <MarkerCategory name="separatormenu111" IsSeparator="1" DisplayName="ASCALON"/>
+        <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE TYRIA"/>
+            <MarkerCategory name="ascalon" DisplayName="Ascalon">
             <MarkerCategory name="behem" DisplayName="Behem Gauntlet">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -57,7 +58,9 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu121" IsSeparator="1" DisplayName="KRYTA"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="kryta" DisplayName="Kryta">
             <MarkerCategory name="demongrub" DisplayName="Demongrub Pits">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -124,7 +127,9 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="la" DisplayName="Lion's Arch"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu131" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="mj" DisplayName="Maguuma Jungle">
             <MarkerCategory name="conundrumcubed" DisplayName="Conundrum Cubed">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -191,16 +196,9 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="caledon" DisplayName="Sparkfly Forest"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu141" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
-            <MarkerCategory name="retrospectiverunaround" DisplayName="Retrospective Runaround">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="cp" DisplayName="Toggle Checkpoint" mapDisplaySize="32" iconFile="Data/LadyElyssa/Images/Checkpoint.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="2400"/>
-                <MarkerCategory name="goggles" DisplayName="Toggle Diving Goggles" maxSize="32" fadeNear="1200" fadeFar="2400"/>
-                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu151" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+
+            <MarkerCategory name="orr" DisplayName="Ruins of Orr">
             <MarkerCategory name="antre" DisplayName="Antre of Adjournment">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -235,7 +233,9 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu161" IsSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="shiverpeaks" DisplayName="Shiverpeak Mountains">
             <MarkerCategory name="coddlerscove" DisplayName="Coddler's Cove">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -295,21 +295,33 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
             </MarkerCategory>
-            <MarkerCategory name="lws1oldla" IsSeparator="1" DisplayName="LWS1: Memory of Old Lion's Arch"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="lws1" IsSeparator="1" DisplayName="LWS1: Memory of Old Lion's Arch"/>
             <MarkerCategory name="trollsend" DisplayName="Troll's End">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="oldla" DisplayName="Memory of Old Lion's Arch"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu162" IsSeparator="1" DisplayName="LWS2: Glint's Prophecy   "/>
-            <MarkerCategory name="prospectvalleycrashsite" DisplayName="Prospect Valley Crash Site">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="location"     DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="drytop"      DisplayName="Dry Top"/>
-            </MarkerCategory>
-            <MarkerCategory name="separatormenu162" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+
+            <MarkerCategory name="lws2" IsSeparator="1" DisplayName="LWS2: Glint's Prophecy "/>
+                <MarkerCategory name="prospectvalleycrashsite" DisplayName="Prospect Valley Crash Site">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="location"     DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="drytop"      DisplayName="Dry Top"/>
+                </MarkerCategory>
+                <MarkerCategory name="retrospectiverunaround" DisplayName="Retrospective Runaround">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="cp" DisplayName="Toggle Checkpoint" mapDisplaySize="32" iconFile="Data/LadyElyssa/Images/Checkpoint.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="goggles" DisplayName="Toggle Diving Goggles" maxSize="32" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
+                </MarkerCategory>
+
+            <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy "/>
             <MarkerCategory name="abaddons" DisplayName="Abaddon's Ascent">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -349,30 +361,24 @@
                 <!-- End Draconis -->
             </MarkerCategory>
             <!-- End Searing Ascent -->
-            <MarkerCategory name="eod" DisplayName="END OF DRAGONS" IsSeparator="1"/>
-            <MarkerCategory name="trials" DisplayName="Trials of the Tengu">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="seitung" DisplayName="Seitung Province"/>
-            </MarkerCategory>
-            <MarkerCategory name="wind" DisplayName="Wind through the Walls">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="jbglider" DisplayName="Jade Bot Glide Booster Shortcut" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" maxSize="128" iconSize="0.5"/>
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="kaineng" DisplayName="New Kaineng City" fadeNear="1200" FadeFar="2000"/>
-            </MarkerCategory>
-            <MarkerCategory name="wvw" DisplayName="World vs. World" IsSeparator="1"/>
-            <MarkerCategory name="obsidian" DisplayName="Obsidian Sanctum" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="mists" DisplayName="The Mists"/>
-            </MarkerCategory>
-            <MarkerCategory name="jw" DisplayName="JADE WILDS" IsSeparator="1"/>
+
+            <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                <MarkerCategory name="trials" DisplayName="Trials of the Tengu">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="seitung" DisplayName="Seitung Province"/>
+                </MarkerCategory>
+                <MarkerCategory name="wind" DisplayName="Wind through the Walls">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="jbglider" DisplayName="Jade Bot Glide Booster Shortcut" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" maxSize="128" iconSize="0.5"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="kaineng" DisplayName="New Kaineng City" fadeNear="1200" FadeFar="2000"/>
+                </MarkerCategory>
             
+            <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS"/>
                 <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/JW/Buzzy Treetops.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -394,6 +400,26 @@
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 </MarkerCategory>
+
+            <MarkerCategory name="wvw" IsSeparator="1" DisplayName="WORLD VS. WORLD"/>
+            <MarkerCategory name="mv" DisplayName="Mistwrought Vault - Emerald" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                <MarkerCategory name="emerald" DisplayName="Emerald - Green Borderlands"/>
+                <MarkerCategory name="sapphire" DisplayName="Sapphire - Blue Borderlands"/>
+            </MarkerCategory>
+            <MarkerCategory name="obsidian" DisplayName="Obsidian Sanctum" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                <MarkerCategory name="mists" DisplayName="Alpine Borderlands">
+                    <MarkerCategory name="location" DisplayName="MAP REGION" IsSeparator="1"/>
+                    <MarkerCategory name="emerald" DisplayName="Green Borderlands"/>
+                    <MarkerCategory name="sapphire" DisplayName="Blue Borderlands"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
         </MarkerCategory>
         <!-- END JUMPING PUZZLES -->
     </MarkerCategory>

@@ -1,11 +1,9 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
-        
         <!-- Jumping Puzzle - Shortcuts -->
-
         <MarkerCategory name="jpshort" DisplayName="Jumping Puzzles - Shortcuts" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="0.6" alpha="0.8" fadeNear="1600" fadeFar="5000" minSize="64" maxSize="96">
-            
-            <MarkerCategory name="separatormenu168" IsSeparator="1" DisplayName="ASCALON"/>
+            <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE TYRIA"/>
+            <MarkerCategory name="ascalon" DisplayName="Ascalon">
             <MarkerCategory name="chaoscrystalcavern" DisplayName="Chaos Crystal Cavern">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
@@ -73,7 +71,9 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="FFFF33"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu220" IsSeparator="1" DisplayName="KRYTA"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="kryta" DisplayName="Kryta">
             <MarkerCategory name="demongrub" DisplayName="Demongrub Pits">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
@@ -197,7 +197,9 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="la" DisplayName="Lion's Arch" color="FFFF33"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu270" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="mj" DisplayName="Maguuma Jungle">
             <MarkerCategory name="conundrumcubed" DisplayName="Conundrum Cubed">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -254,19 +256,63 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="caledon" DisplayName="Caledeon Forest" color="FFFF33"/>
             </MarkerCategory>
-            <MarkerCategory name="separatormenu320" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
-            <MarkerCategory name="retrospectiverunaround" DisplayName="Retrospective Runaround">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="cp" DisplayName="Toggle Checkpoint" mapDisplaySize="32" iconFile="Data/LadyElyssa/Images/Checkpoint.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="2400" alpha="1"/>
-                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="orr" DisplayName="Ruins of Orr">
+                <MarkerCategory name="vizierstower" DisplayName="Vizier's Tower">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" minSize="16" maxSize="32" iconSize="0.25"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
                 </MarkerCategory>
-                <!-- End Mounts -->
-                <MarkerCategory name="goggles" DisplayName="Toggle Diving Goggles" maxSize="32" fadeNear="1200" fadeFar="2400"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="shiverpeaks" DisplayName="Shiverpeak Mountains">
+            <MarkerCategory name="coddlerscove" DisplayName="Coddler's Cove">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="silverwastes" DisplayName="The Silverwastes" color="FFFF33"/>
+                <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="FFFF33"/>
             </MarkerCategory>
+            <MarkerCategory name="shatterediceruins" DisplayName="Shattered Ice Ruins">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" color="FFFF33"/>
+            </MarkerCategory>
+            <MarkerCategory name="tribulationrift" DisplayName="Tribulation Rift Scaffolding">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="FFFF33"/>
+            </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="lws2" IsSeparator="1" DisplayName="LWS2: Glint's Prophecy "/>
+            
             <!--  Need to check Springer jump height, full jump or partial? Bond of Faith?
          
             <MarkerCategory name="prospectvalleycrashsite" DisplayName="Prospect Valley Crash Site">
@@ -286,71 +332,22 @@
                     
             </MarkerCategory>
             </MarkerCategory>
-         -->
-            <MarkerCategory name="separatormenu340" IsSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
-            <MarkerCategory name="coddlerscove" DisplayName="Coddler's Cove">
+            -->
+            <MarkerCategory name="retrospectiverunaround" DisplayName="Retrospective Runaround">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscal.png"/>
-                    </MarkerCategory>
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="FFFF33"/>
-            </MarkerCategory>
-            <MarkerCategory name="shatterediceruins" DisplayName="Shattered Ice Ruins">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscal.png"/>
-                    </MarkerCategory>
-                    <!-- End Mounts -->
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" color="FFFF33"/>
-            </MarkerCategory>
-            <MarkerCategory name="tribulationrift" DisplayName="Tribulation Rift Scaffolding">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                    </MarkerCategory>
-                    <!-- End Mounts -->
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="FFFF33"/>
-            </MarkerCategory>
-            <MarkerCategory name="hotjp" IsSeparator="1" DisplayName="HoT: Heart of Thorns"/>
-            <MarkerCategory name="highestgear" DisplayName="Highest Gear">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" minSize="16" maxSize="24" iconSize="0.5"/>
+                <MarkerCategory name="cp" DisplayName="Toggle Checkpoint" mapDisplaySize="32" iconFile="Data/LadyElyssa/Images/Checkpoint.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="1200" fadeFar="2400" alpha="1"/>
                 <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
-                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
-                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
-                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
-                        <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
-                    </MarkerCategory>
-                    <!-- End Raptor   -->
-                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                        <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
-                        <MarkerCategory name="hover" DisplayName="Skimmer - Hover High" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer - Hover High.png"/>
-                    </MarkerCategory>
-                    <!-- End Skimmer   -->
-                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                     <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
-                    <MarkerCategory name="bov" DisplayName="Bond of Vigor" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Vigor.png"/>
                 </MarkerCategory>
+                <!-- End Mounts -->
+                <MarkerCategory name="goggles" DisplayName="Toggle Diving Goggles" maxSize="32" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                <MarkerCategory name="auric" DisplayName="Auric Basin" color="FFFF33"/>
-                
+                <MarkerCategory name="silverwastes" DisplayName="The Silverwastes" color="FFFF33"/>
             </MarkerCategory>
-            <MarkerCategory name="lws3" DisplayName="LWS3: Glint's Legacy   " IsSeparator="1"/>
+
+
+            <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
             <MarkerCategory name="chalice" DisplayName="Chalice of Tears">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" minSize="32" maxSize="64" iconSize="0.5"/>
@@ -386,6 +383,35 @@
                 <!-- End Ember Bay -->
             </MarkerCategory>
             <!-- End Searing Ascent -->
+
+            <MarkerCategory name="hotjp" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+            <MarkerCategory name="highestgear" DisplayName="Highest Gear">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" minSize="16" maxSize="24" iconSize="0.5"/>
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                        <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                    </MarkerCategory>
+                    <!-- End Raptor   -->
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                        <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                        <MarkerCategory name="hover" DisplayName="Skimmer - Hover High" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer - Hover High.png"/>
+                    </MarkerCategory>
+                    <!-- End Skimmer   -->
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                    <MarkerCategory name="bov" DisplayName="Bond of Vigor" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Vigor.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                <MarkerCategory name="auric" DisplayName="Auric Basin" color="FFFF33"/>
+            </MarkerCategory>    
+
         </MarkerCategory>
         <!-- END JUMPING PUZZLES - SHORTCUTS -->
     </MarkerCategory>
