@@ -310,6 +310,16 @@
                 <MarkerCategory name="gv" DisplayName="Grothmar Valley"/>
             </MarkerCategory>
             
+            <MarkerCategory name="eod" IsSeparator="1" DisplayName="End of Dragons"/>
+            <MarkerCategory name="grand" DisplayName="Grand Chest" texture="Data/LadyElyssa/Images/Jade Runestone.png">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Zone"/>
+                <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
+            </MarkerCategory>
+            <MarkerCategory name="mag" DisplayName="Magnificent Chest" texture="Data/LadyElyssa/Images/Jade Runestone.png">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Zone"/>
+                <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
+            </MarkerCategory>
+
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="Secrets of the Obscure"/>
             <MarkerCategory name="arcane" DisplayName="Arcane Chests">
                 <MarkerCategory name="greater" DisplayName="Toggle Greater Arcane Chests" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Arcane Chest Greater.png"/>

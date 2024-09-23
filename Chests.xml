@@ -1267,6 +1267,18 @@
         <POI MapID="1330" xpos="-291.164" ypos="29.4376" zpos="3.53498" type="legs.chests.gvc.glider" GUID="entfQmeGkkG+6J2Lmxd0Gw=="/>
         <POI MapID="1330" xpos="-419.471" ypos="8.95419" zpos="131.66" type="legs.chests.gvc.mount.skyscale" GUID="6jrA31Wr1ESdUiKGCUf93g=="/>
         
+
+        <!-- EoD - End of Dragons -->
+        <!-- Magnificient Chest -->
+
+        <Trail type="legs.chests.mag" trailData="Data/LadyElyssa/Chests/PoF/TEW - MC- Jade Runestone.trl"/>
+
+        <!-- Grand Chest -->
+
+        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/PoF/TEW - GC - Jade Runestone 1.trl"/>
+        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/PoF/TEW - GC - Jade Runestone 2.trl"/>
+
+
         <!-- SotO - Secrets of the Obscure-->
         <!-- Greater Arcane Chests -->
         <POI MapID="1510" xpos="543.017" ypos="29.9837" zpos="-454.27" type="legs.chests.arcane.greater" GUID="x4D9o2gZ8ESdQ/TGmMJgaA=="/>
