@@ -23,6 +23,17 @@
                         <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
+
+
+                    <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                    
+                    <MarkerCategory name="resin" DisplayName="Petrified Echovald Resin">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                        <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
+                    </MarkerCategory>
+
+
                     <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS"/>
 
                     <MarkerCategory name="honeyflower" DisplayName="Honey Flower">

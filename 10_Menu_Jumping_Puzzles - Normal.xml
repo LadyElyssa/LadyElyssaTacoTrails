@@ -362,10 +362,29 @@
             </MarkerCategory>
             <!-- End Searing Ascent -->
 
+            <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                <MarkerCategory name="flc" DisplayName="Flame Legion Camp">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="96" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/LWS5/Flame Legion Camp.png"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="gotk" DisplayName="Gauntlet of the Khan-Ur">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.25"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="96" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/LWS5/Gauntlet of the Khan-Ur.png"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+                </MarkerCategory>
+                
+
+            <!-- End of Dragons -->
             <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
                 <MarkerCategory name="trials" DisplayName="Trials of the Tengu">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="jbglider" DisplayName="Jade Bot Glide Booster" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" maxSize="128" iconSize="0.5"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="seitung" DisplayName="Seitung Province"/>

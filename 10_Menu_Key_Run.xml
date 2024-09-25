@@ -727,6 +727,7 @@
                     <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
+                
                 <MarkerCategory name="asura" DisplayName="Asura" alpha="1.0">
                     <MarkerCategory name="city" DisplayName="Rata Sum">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -837,7 +838,7 @@
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
                         <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
                     </MarkerCategory>
-                    <MarkerCategory name="salma" DisplayName="Salma District (home)">
+                    <MarkerCategory name="home" DisplayName="Salma District (home)">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                             <MarkerCategory name="sign" DisplayName="Toggle Signs">
                                 <MarkerCategory name="one" DisplayName="One"/>
