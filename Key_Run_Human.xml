@@ -63,7 +63,7 @@
         <Trail type="legs.keys.human10.commoner.mend.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Human/Commoner/On the Mend 1.trl"/>
         <POI MapID="18" xpos="111.08" ypos="139.206" zpos="-270.292" type="legs.keys.human10.commoner.mend.sign" GUID="By8Jm1zRpk+OTr3dApnVKA=="/>
         <Trail type="legs.keys.human10.commoner.instance" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Human/Commoner/On the Mend 2 Instance.trl"/>
-        <POI MapID="226" xpos="274.999" ypos="70.4659" zpos="246.546" type="legs.keys.human10.commoner.mend.wp" GUID="WeeGgJB2+0exqFrwPdC22Q==" copy="[&BO8AAAA=]" copy-message="Shaemoor Waypoint"/>
+        <POI MapID="226" xpos="273.7811" ypos="69.07182" zpos="244.4074" type="legs.keys.human10.commoner.mend.wp" GUID="WeeGgJB2+0exqFrwPdC22Q==" copy="[&BO8AAAA=]" copy-message="Shaemoor Waypoint" triggerrange="1.4"/>
         <!-- Desperate Medicine -->
         <Trail type="legs.keys.human10.commoner.medicine.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Human/Commoner/Desperate Medicine 1.trl"/>
         <POI MapID="15" xpos="-420.929" ypos="34.6647" zpos="439.897" type="legs.keys.human10.commoner.medicine.sign" GUID="45LvabI3pUu9OkfX9KuD4A=="/>
@@ -73,7 +73,9 @@
         <Trail type="legs.keys.human10.commoner.medicine.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Human/Commoner/Desperate Medicine 3.trl"/>
         <POI MapID="15" xpos="-647.736" ypos="22.3526" zpos="362.306" type="legs.keys.human10.commoner.medicine.sign" GUID="5v6y7gAX20abXdfwFKm0/g=="/>
         <Trail type="legs.keys.human10.commoner.instance" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Human/Commoner/Desperate Medicine 5 Instance.trl"/>
-        <POI MapID="327" xpos="272.631" ypos="69.0718" zpos="245.033" type="legs.keys.human10.commoner.medicine.wp" GUID="v2gBKotdGUScjDCKGmrafw==" copy="[&BO8AAAA=]" copy-message="Shaemoor Waypoint" triggerrange="1.2"/>
+
+        <POI MapID="327" xpos="274.2932" ypos="69.0772" zpos="244.6015" type="legs.keys.human10.commoner.medicine.wp" GUID="v2gBKotdGUScjDCKGmrafw==" copy="[&BO8AAAA=]" copy-message="Shaemoor Waypoint" triggerrange="1.6"/>
+        
         <!-- Infiltration -->
         <Trail type="legs.keys.human10.commoner.infiltration.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Human/Commoner/Infiltration 1.trl"/>
         <POI MapID="15" xpos="-416.757" ypos="34.9106" zpos="440.564" type="legs.keys.human10.commoner.infiltration.sign" GUID="Gmel2maC0UiQELbAGrqaIA=="/>
@@ -92,7 +94,9 @@
         <Trail type="legs.keys.human20.sister.instance" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Sister/The Fall of Falcon Company 1 Instance.trl"/>
         <POI MapID="148" xpos="129.044" ypos="134.912" zpos="21.3441" type="legs.keys.human20.sister.wp" GUID="TXH0IVc+xk+R0ybA3UH1lQ==" copy="[&BPEAAAA=]" copy-message="Garrison Waypoint"/>
         <Trail type="legs.keys.human20.sister.thefalloffalconcompany.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Sister/The Fall of Falcon Company 2.trl"/>
-        <POI MapID="15" xpos="-193.167" ypos="28.7066" zpos="308.67" type="legs.keys.human20.sister.thefalloffalconcompany.sign" GUID="gj6T3wmeIkuEL3JL9/eNIw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Sister/The Fall of Falcon Company.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="legs.keys.human20.sister.thefalloffalconcompany.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Sister/The Fall of Falcon Company 2 Alt.trl"/>
+
+        <POI MapID="15" xpos="-193.4308" ypos="28.72137" zpos="309.1222" type="legs.keys.human20.sister.thefalloffalconcompany.sign" GUID="gj6T3wmeIkuEL3JL9/eNIw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Sister/The Fall of Falcon Company.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <POI MapID="15" xpos="-162.309" ypos="3.05685" zpos="71.0604" type="legs.keys.human20.sister.thefalloffalconcompany.sign" GUID="gtt63I4hG0OAbqNk8Vbgjw==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Sister/The Fall of Falcon Company.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.human20.sister.thefalloffalconcompany.instance" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Sister/The Fall of Falcon Company 3 Instance.trl"/>
         <POI MapID="149" xpos="696.796" ypos="44.9635" zpos="21.9657" type="legs.keys.human20.sister.choice" GUID="a2irpHYvF0mKBakP1mFM0A==" info="SERGEANT BIGSBY&#xA;&#xA;2. I'm going to find Tervelan and get his side of the story.&#xA;&#xA;   > Good idea. You do that, I'll find Tervelan." infoRange="5"/>
@@ -123,13 +127,13 @@
         <POI MapID="18" xpos="79.9449" ypos="136.761" zpos="-36.8986" type="legs.keys.human20.parents.sign" GUID="xbIgw0hUyUinuzsqef7gGQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/Voices from the Past.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <POI MapID="163" xpos="62.2803" ypos="139.047" zpos="-107.324" type="legs.keys.human20.parents.wp" GUID="ZWcuhitcC0Ko26QNTeVH7g==" copy="[&BPEAAAA=]" copy-message="Garrison Waypoint"/>
         <Trail type="legs.keys.human20.parents.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/Rending the Mantle 1.trl"/>
-        <POI MapID="15" xpos="-193.205" ypos="28.6956" zpos="310.346" type="legs.keys.human20.parents.sign" GUID="BM7DYt0GsU+Zq04OrqpLcQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/Rending the Mantle.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="15" xpos="-193.758" ypos="28.6575" zpos="311.426" type="legs.keys.human20.parents.sign" GUID="BM7DYt0GsU+Zq04OrqpLcQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/Rending the Mantle.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.human20.parents.instance" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/Rending the Mantle 2 Instance.trl"/>
         <POI MapID="171" xpos="541.731" ypos="29.5965" zpos="455.019" type="legs.keys.human20.parents.wp" GUID="29kxu2t8v0eq8Z236nDG6g==" copy="[&BCkDAAA=]" copy-message="Palace Waypoint"/>
         <Trail type="legs.keys.human20.parents.instance" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/Rending the Mantle 3 Instance.trl"/>
         <POI MapID="172" xpos="127.961" ypos="134.912" zpos="21.8766" type="legs.keys.human20.parents.choice" GUID="dNHKNni1HkKbsNszIKrvmA==" info="I like the sound of luring the White Mantle in to a trap.&#xA;&#xA;   > Sounds good to me, see you there." infoRange="5" copy="[&BPEAAAA=]" copy-message="Garrison Waypoint"/>
         <POI MapID="15" xpos="-165.116" ypos="3.00501" zpos="69.785" type="legs.keys.human20.parents.sign" GUID="Gu38Xn/EnUaPQVQEsavnvQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/The Sting.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="15" xpos="-193.26" ypos="28.7243" zpos="308.844" type="legs.keys.human20.parents.sign" GUID="qEs0mEx+4U++KUbnbYoU4g==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/The Sting.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="15" xpos="-194.3086" ypos="28.71034" zpos="307.7502" type="legs.keys.human20.parents.sign" GUID="qEs0mEx+4U++KUbnbYoU4g==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/The Sting.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.human20.parents.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/The Sting 1a.trl"/>
         <Trail type="legs.keys.human20.parents.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/The Sting 1b.trl"/>
         <Trail type="legs.keys.human20.parents.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Human/Parents/The Sting 2.trl"/>
@@ -142,8 +146,8 @@
         <POI MapID="23" xpos="611.937" ypos="40.306" zpos="499.862" type="legs.keys.oot.sign" GUID="wkeEQTFnvEaNNszK0uwKwQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria 1.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <!-- Chapter 3 - lvl 30 - The Orders of Tyria-->
         <POI MapID="18" xpos="79.8298" ypos="138.000" zpos="-32.6864" type="legs.keys.oot.sign" GUID="6DStN2HeDEeG5lDJVF4GgA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria 1.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <Trail type="legs.keys.oot.city.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria 1 Instance.trl"/>
-        <POI MapID="190" xpos="67.3152" ypos="137.344" zpos="51.4437" type="legs.keys.oot.city.wp" GUID="pwZJycw/IUevyWd/1fA8UA==" copy="[&BLoDAAA=]" copy-message="Gap Waypoint"/>
+        <Trail type="legs.keys.oot.human.city.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria 1 Instance.trl"/>
+        <POI MapID="190" xpos="67.3152" ypos="137.344" zpos="51.4437" type="legs.keys.oot.human.city.wp" GUID="pwZJycw/IUevyWd/1fA8UA==" copy="[&BLoDAAA=]" copy-message="Gap Waypoint"/>
         <Trail type="legs.keys.oot.human.kessex.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria 1 from Parent.trl"/>
         <Trail type="legs.keys.oot.human.kessex.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria 2a.trl"/>
         <POI MapID="23" xpos="245.344" ypos="77.9858" zpos="521.825" type="legs.keys.oot.human.kessex.sign" GUID="D5Dmda5TlUW4v9aUXAFEpg==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria 2.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
@@ -157,7 +161,7 @@
         <POI MapID="23" xpos="-324.068" ypos="23.3447" zpos="-500.52" type="legs.keys.oot.human.mortisvirge.sign" GUID="AwivCK5gzUu+Yl5NrYDwzQ=="/>
         <Trail type="legs.keys.oot.human.mortisvirge.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/Mortus Virge 1.trl"/>
         <Trail type="legs.keys.oot.human.mortisvirge.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/Mortus Virge 2 Instance.trl"/>
-        <Trail type="legs.keys.oot.human.home.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria - Salma District.trl"/>
+        <Trail type="legs.keys.oot.human.city.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria - Salma District.trl"/>
         <POI MapID="193" xpos="-1020.79" ypos="0.549831" zpos="-505.972" type="legs.keys.oot.human.wp" GUID="QHzfoZjEkkahJB8ToHz4EA==" copy="[&BC4DAAA=]" copy-message="Salma Waypoint"/>
         <POI MapID="248" xpos="239.197" ypos="72.3782" zpos="277.428" type="legs.keys.oot.human.home.sign.one" GUID="9I1vHrO+AUGK6wBxnk4jAQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 1 - Triskell Quay.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <POI MapID="248" xpos="238.905" ypos="69.4012" zpos="276.471" type="legs.keys.human20.sister.wp" GUID="nenzGLXygU+dFy4coEWgmA==" copy="[&BLoDAAA=]" copy-message="Gap Waypoint in Kessex Hills " triggerrange="2"/>
