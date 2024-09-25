@@ -1271,12 +1271,12 @@
         <!-- EoD - End of Dragons -->
         <!-- Magnificient Chest -->
 
-        <Trail type="legs.chests.mag" trailData="Data/LadyElyssa/Chests/PoF/TEW - MC- Jade Runestone.trl"/>
+        <Trail type="legs.chests.mag.tew" trailData="Data/LadyElyssa/Chests/EoD/TEW - MC- Jade Runestone.trl"/>
 
         <!-- Grand Chest -->
 
-        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/PoF/TEW - GC - Jade Runestone 1.trl"/>
-        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/PoF/TEW - GC - Jade Runestone 2.trl"/>
+        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/EoD/TEW - GC - Jade Runestone 1.trl"/>
+        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/EoD/TEW - GC - Jade Runestone 2.trl"/>
 
 
         <!-- SotO - Secrets of the Obscure-->
@@ -1300,5 +1300,204 @@
 		  <POI MapID="1510" xpos="-891.334" ypos="554.824" zpos="116.939" type="legs.sotochests.lesser" GUID="g+Jc22buaEulY8VMNU3++g=="/>
 		  <POI MapID="1510" xpos="1021.93" ypos="333.885" zpos="334.928" type="legs.sotochests.lesser" GUID="cuNDNOmse0ykxVwKP1df1g=="/>
         -->
+
+
+        <!-- Jade Wilds -->
+        <!-- 
+        Also for the Janthiri Treasure Hunter achievement 
+        https://wiki.guildwars2.com/wiki/Janthir_(achievements)#achievement8191
+        https://wiki.guildwars2.com/wiki/Detected_Treasure 
+        -->
+        <Trail type="legs.chests.kodan.ls" trailData="Data/LadyElyssa/Chests/JW/LS Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.kodan.ls" trailData="Data/LadyElyssa/Chests/JW/LS Kodan Cache 2.trl"/>
+        <POI MapID="1550" xpos="437.7385" ypos="65.56487" zpos="201.1282" type="legs.chests.kodan.wp" GUID="VuN9WXSv9k2dQf/ihMKLlQ==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="641.181" ypos="376.857" zpos="-533.914" type="legs.chests.kodan.dig" GUID="udnd2A5yHkuemcvWfI2pQg=="/>
+        <POI MapID="1550" xpos="742.435" ypos="359.927" zpos="-557.777" type="legs.chests.kodan.dig" GUID="3kqufanWtECW/IW2FplncA=="/>
+        <POI MapID="1550" xpos="696.095" ypos="321.215" zpos="-438.866" type="legs.chests.kodan.dig" GUID="xsMqGGXGrEmCdWJD5Nlxrw=="/>
+        <POI MapID="1550" xpos="811.569" ypos="324.369" zpos="-413.213" type="legs.chests.kodan.dig" GUID="Co3PSnPmnEyNha7SAssbOw=="/>
+        <POI MapID="1550" xpos="714.985" ypos="296.828" zpos="-355.285" type="legs.chests.kodan.dig" GUID="nu7RcyRaYkau+DtPS/1a1Q=="/>
+        <POI MapID="1550" xpos="792.127" ypos="324.882" zpos="-315.317" type="legs.chests.kodan.dig" GUID="vB9/UFfBxEWhyeHr1sk/Bw=="/>
+        <POI MapID="1550" xpos="1025.6" ypos="388.039" zpos="-223.586" type="legs.chests.kodan.dig" GUID="mEn+jmRXJECCKSC1ZLk5qQ=="/>
+        <POI MapID="1550" xpos="979.941" ypos="373.249" zpos="-178.089" type="legs.chests.kodan.dig" GUID="aKOmcWh7ekKWd+uziW4UzA=="/>
+        <POI MapID="1550" xpos="898.967" ypos="408.893" zpos="-239.182" type="legs.chests.kodan.dig" GUID="RLtVguD/lUC/gVmJJl/vjg=="/>
+        <POI MapID="1550" xpos="856.207" ypos="369.594" zpos="-203.854" type="legs.chests.kodan.dig" GUID="+1WzUEgBCE6sgV8LtFQOLg=="/>
+        <POI MapID="1550" xpos="889.576" ypos="343.327" zpos="-147.603" type="legs.chests.kodan.dig" GUID="wO09CRPlNEyVVVW5PW7vXA=="/>
+        <POI MapID="1550" xpos="785.767" ypos="314.51" zpos="-166.403" type="legs.chests.kodan.dig" GUID="8tTyt9zLQEq2UABa3ipgFA=="/>
+        <POI MapID="1550" xpos="754.327" ypos="303.083" zpos="-120.725" type="legs.chests.kodan.dig" GUID="ipHNjSAXrUWWvv6VYnNVFQ=="/>
+        <POI MapID="1550" xpos="762.128" ypos="306.816" zpos="-100.859" type="legs.chests.kodan.dig" GUID="eQTgH7S+z0id+JMJpMKYmw=="/>
+        <POI MapID="1550" xpos="865.737" ypos="320.738" zpos="-73.327" type="legs.chests.kodan.dig" GUID="UhC+AvuQk0O3uBG4CMiA4A=="/>
+        <POI MapID="1550" xpos="792.579" ypos="313.6" zpos="-28.6223" type="legs.chests.kodan.dig" GUID="gy7RNCKrx0iemvfVpT5M0A=="/>
+        <POI MapID="1550" xpos="775.178" ypos="316.974" zpos="31.437" type="legs.chests.kodan.dig" GUID="qvC6maTUv0mDjs8VjN+LtQ=="/>
+        <POI MapID="1550" xpos="689.657" ypos="327.432" zpos="58.2843" type="legs.chests.kodan.dig" GUID="7+jcGWU6dUGK8YOcoqWfFQ=="/>
+        <POI MapID="1550" xpos="774.279" ypos="321.228" zpos="88.3002" type="legs.chests.kodan.dig" GUID="5/B24ryAFUO/SfiXQzU3aQ=="/>
+        <POI MapID="1550" xpos="832.827" ypos="329.971" zpos="129.464" type="legs.chests.kodan.dig" GUID="q19jA63zCEiDr0lumWOU3Q=="/>
+        <POI MapID="1550" xpos="930.882" ypos="329.706" zpos="141.63" type="legs.chests.kodan.dig" GUID="Ly9XE31d/EKmxvxfGZjltA=="/>
+        <POI MapID="1550" xpos="1006.82" ypos="358.67" zpos="130.464" type="legs.chests.kodan.dig" GUID="Px7SIsWx7USODDsyUffGaQ=="/>
+        <POI MapID="1550" xpos="987.178" ypos="339.401" zpos="232.296" type="legs.chests.kodan.dig" GUID="qBlAMZ2+tUGL/cyezBqslA=="/>
+        <POI MapID="1550" xpos="898.101" ypos="331.767" zpos="180.021" type="legs.chests.kodan.dig" GUID="RNLRsOG5SEy9jupmCb2LFg=="/>
+        <POI MapID="1550" xpos="857.938" ypos="335.385" zpos="218.897" type="legs.chests.kodan.dig" GUID="f5fIws1vj0qm/xOowkL+0g=="/>
+        <POI MapID="1550" xpos="497.357" ypos="148.063" zpos="160.821" type="legs.chests.kodan.dig" GUID="qL+KWezJTUyK5F7cF1++ZA=="/>
+        <POI MapID="1550" xpos="711.911" ypos="91.2642" zpos="236.484" type="legs.chests.kodan.dig" GUID="7YwSY2J/LUau1G/k9FRYFA=="/>
+        <POI MapID="1550" xpos="636.763" ypos="90.783" zpos="313.254" type="legs.chests.kodan.dig" GUID="ZkfYeHj300Sj4CS6FbXsyQ=="/>
+        <POI MapID="1550" xpos="618.56" ypos="65.2353" zpos="287.541" type="legs.chests.kodan.dig" GUID="Z6TyNVm4DkOkNSNjJb+/eg=="/>
+        <POI MapID="1550" xpos="944.827" ypos="333.372" zpos="51.2384" type="legs.chests.kodan.dig" GUID="9gq0y+PUXECRpYVB3PpaZg=="/>
+        <POI MapID="1550" xpos="632.488" ypos="69.031" zpos="356.455" type="legs.chests.kodan.dig" GUID="zY3fnXNRqU+GhKKLqEJqcw=="/>
+        <POI MapID="1550" xpos="773.164" ypos="114.602" zpos="353.28" type="legs.chests.kodan.dig" GUID="wHmz62vVzEuTz2G4YrAYhg=="/>
+        <POI MapID="1550" xpos="831.914" ypos="1.49012" zpos="406.83" type="legs.chests.kodan.dig" GUID="Tv9aTUmM4EmqB3RsiRWxxw=="/>
+        <POI MapID="1550" xpos="806.68" ypos="1.8149" zpos="577.525" type="legs.chests.kodan.dig" GUID="iEndUz/n0ECwY/Mai4/YDQ=="/>
+        <POI MapID="1550" xpos="665.973" ypos="2.50452" zpos="646.936" type="legs.chests.kodan.dig" GUID="QqgYkKwOh0WuExonnmmVZQ=="/>
+        <POI MapID="1550" xpos="617.1" ypos="5.39536" zpos="482.943" type="legs.chests.kodan.dig" GUID="ZkKTHL2s10uZsB5nLS2EAA=="/>
+        <POI MapID="1550" xpos="573.554" ypos="13.1025" zpos="400.693" type="legs.chests.kodan.dig" GUID="4qnhKHQ79UWZqkmAHflChg=="/>
+        <POI MapID="1550" xpos="503.555" ypos="74.1038" zpos="441.663" type="legs.chests.kodan.dig" GUID="qfigiYn5ukeNHvYviEGf9g=="/>
+        <POI MapID="1550" xpos="460.131" ypos="69.5642" zpos="549.32" type="legs.chests.kodan.dig" GUID="Q/TPDnoh/0qeTsVRxPrB3g=="/>
+        <POI MapID="1550" xpos="364.511" ypos="133.154" zpos="409.068" type="legs.chests.kodan.dig" GUID="Oz1aMtFFOUuJpo5UuTyw8w=="/>
+        <POI MapID="1550" xpos="452.685" ypos="149.328" zpos="340.109" type="legs.chests.kodan.dig" GUID="aM8TxeB+lUyH/uxD8ZOXWw=="/>
+        <POI MapID="1550" xpos="391.008" ypos="147.479" zpos="256.256" type="legs.chests.kodan.dig" GUID="vhdLicO2hUeXh2Dh3yR32g=="/>
+        <POI MapID="1550" xpos="428.354" ypos="107.355" zpos="197.488" type="legs.chests.kodan.dig" GUID="y4kGH4OQBEaZnfqzXDxwVg=="/>
+        <POI MapID="1550" xpos="440.542" ypos="107.412" zpos="202.556" type="legs.chests.kodan.dig" GUID="KE3jGJV0h0y9y/HKA2HOhg=="/>
+        <POI MapID="1550" xpos="437.739" ypos="65.5649" zpos="201.128" type="legs.chests.kodan.dig" GUID="IylkYR9Xc0mVjKmBC/iPyw=="/>
+        <POI MapID="1550" xpos="568.578" ypos="216.827" zpos="-10.697" type="legs.chests.kodan.dig" GUID="TfRU3EkimUyvZlVVtJHFrA=="/>
+        <POI MapID="1550" xpos="495.604" ypos="214.049" zpos="-65.1117" type="legs.chests.kodan.dig" GUID="4cyRD+J//EWOypwrXm0eUg=="/>
+        <POI MapID="1550" xpos="736.456" ypos="296.527" zpos="-244.049" type="legs.chests.kodan.dig" GUID="hEiL7ciBq0Gawm6eCxcWtg=="/>
+        <POI MapID="1550" xpos="622.608" ypos="304.878" zpos="-285.348" type="legs.chests.kodan.dig" GUID="ktqGGAICW0ev0c83utHOaw=="/>
+        <POI MapID="1550" xpos="645.107" ypos="314.752" zpos="-204.637" type="legs.chests.kodan.dig" GUID="nFbopxyilESQXL5dPLu+ZA=="/>
+        <POI MapID="1550" xpos="607.788" ypos="318.21" zpos="-126.406" type="legs.chests.kodan.dig" GUID="dAKzGKASQ02grjbV8WlGBw=="/>
+        <POI MapID="1550" xpos="545.186" ypos="317.132" zpos="-197.179" type="legs.chests.kodan.dig" GUID="t7YqcAJgdEW/20/WzQm0ew=="/>
+        <POI MapID="1550" xpos="552.692" ypos="311.535" zpos="-235.783" type="legs.chests.kodan.dig" GUID="S7U5JVhD4UynvJzsfpyVaA=="/>
+        <POI MapID="1550" xpos="508.404" ypos="305.622" zpos="-257.364" type="legs.chests.kodan.dig" GUID="IUh5hYckiE2jlHHEGqs4pQ=="/>
+        <POI MapID="1550" xpos="558.32" ypos="303.006" zpos="-319.234" type="legs.chests.kodan.dig" GUID="PTcz8IK6Wk+8vtdJ3Et9mw=="/>
+        <POI MapID="1550" xpos="503.539" ypos="309.731" zpos="-409.078" type="legs.chests.kodan.dig" GUID="6URzVKKBmU6Yfvg/0te7nw=="/>
+        <POI MapID="1550" xpos="354.319" ypos="323.483" zpos="-282.415" type="legs.chests.kodan.dig" GUID="ubCF8AdhMEqU89yfbyUsiQ=="/>
+        <POI MapID="1550" xpos="442.27" ypos="303.677" zpos="-215.764" type="legs.chests.kodan.dig" GUID="R3gfXUrlFEm6tSI3ADSfOw=="/>
+        <POI MapID="1550" xpos="409.334" ypos="325.623" zpos="-121.896" type="legs.chests.kodan.dig" GUID="5DHzcV6+u06vZNQQKNwaew=="/>
+        <POI MapID="1550" xpos="436.297" ypos="249.555" zpos="-67.395" type="legs.chests.kodan.dig" GUID="9t+lVjluH0Smd2c2B9OYfQ=="/>
+        <POI MapID="1550" xpos="359.476" ypos="231.972" zpos="-115.172" type="legs.chests.kodan.dig" GUID="53rU77peMUaQXHNYb3homQ=="/>
+        <POI MapID="1550" xpos="206.107" ypos="297.576" zpos="42.5369" type="legs.chests.kodan.dig" GUID="nVZsz4DfV06JgR8BxzeXIQ=="/>
+        <POI MapID="1550" xpos="276.039" ypos="289.503" zpos="69.4095" type="legs.chests.kodan.dig" GUID="QEEAmnkXok+3evXvxOqYyg=="/>
+        <POI MapID="1550" xpos="254.345" ypos="213.904" zpos="165.662" type="legs.chests.kodan.dig" GUID="VXlflWBTWkqM+4Nwgf0z6Q=="/>
+        <POI MapID="1550" xpos="272.806" ypos="108.213" zpos="345.651" type="legs.chests.kodan.dig" GUID="TFNxkfV4RUWat58hhworDQ=="/>
+        <POI MapID="1550" xpos="196.811" ypos="153.938" zpos="406.447" type="legs.chests.kodan.dig" GUID="GllPLVw7SE21gyDYEY19qQ=="/>
+        <POI MapID="1550" xpos="192.841" ypos="87.8338" zpos="453.419" type="legs.chests.kodan.dig" GUID="wNtFCJmavUmoY0Fcgqxgcw=="/>
+        <POI MapID="1550" xpos="259.253" ypos="1.24156" zpos="545.321" type="legs.chests.kodan.dig" GUID="6zlFIeAI50uN12DpWAhbww=="/>
+        <POI MapID="1550" xpos="-44.9953" ypos="2.31276" zpos="561.137" type="legs.chests.kodan.dig" GUID="9yYTyl6OzUyO/gtp2VVUrQ=="/>
+        <POI MapID="1550" xpos="-65.7351" ypos="4.07128" zpos="543.589" type="legs.chests.kodan.dig" GUID="RdVSBcIlc0C/qM7cXQTfTw=="/>
+        <POI MapID="1550" xpos="-326.654" ypos="1.52708" zpos="540.936" type="legs.chests.kodan.dig" GUID="y5JIPnSrM0eX7T23Pm3SGQ=="/>
+        <POI MapID="1550" xpos="-422.796" ypos="0.830555" zpos="552.489" type="legs.chests.kodan.dig" GUID="Rao8ajm73kSMLlKauuBKcg=="/>
+        <POI MapID="1550" xpos="-400.588" ypos="91.4846" zpos="344.56" type="legs.chests.kodan.dig" GUID="HDsfW+vBc0m4Df/qC5MO1Q=="/>
+        <POI MapID="1550" xpos="-514.117" ypos="0.243213" zpos="487.282" type="legs.chests.kodan.dig" GUID="GkRt+pTUFEKfX2/AX0v/Jw=="/>
+        <POI MapID="1550" xpos="-748.11" ypos="2.2794" zpos="538.917" type="legs.chests.kodan.dig" GUID="Z5a5NZkouU66U9ypt5ZBbA=="/>
+        <POI MapID="1550" xpos="-778.281" ypos="1.06693" zpos="547.91" type="legs.chests.kodan.dig" GUID="B7dp8RuRyEqyW0febAaenQ=="/>
+        <POI MapID="1550" xpos="-613.823" ypos="1.33646" zpos="342.039" type="legs.chests.kodan.dig" GUID="sS3u9/ylN0eZ5SeXCteSjw=="/>
+        <POI MapID="1550" xpos="-559.012" ypos="1.5649" zpos="208.838" type="legs.chests.kodan.dig" GUID="musOhMud10yOcre0lB3O5w=="/>
+        <POI MapID="1550" xpos="-469.796" ypos="1.86785" zpos="91.8398" type="legs.chests.kodan.dig" GUID="p3mjWnxxQkafr7CYYfjGdg=="/>
+        <POI MapID="1550" xpos="-392.02" ypos="7.22368" zpos="36.3116" type="legs.chests.kodan.dig" GUID="dwXqdhjUI0u38PCKfaYPrA=="/>
+        <POI MapID="1550" xpos="-562.862" ypos="0.534361" zpos="66.5723" type="legs.chests.kodan.dig" GUID="lGHccjavlU2tfjVInD2ZBQ=="/>
+        <POI MapID="1550" xpos="-643.129" ypos="28.217" zpos="123.228" type="legs.chests.kodan.dig" GUID="VsqdDvBm4EC2Iu6oUhcKAw=="/>
+        <POI MapID="1550" xpos="-729.981" ypos="1.29791" zpos="50.3115" type="legs.chests.kodan.dig" GUID="89cy7GqomUOKKowE9c1LEA=="/>
+        <POI MapID="1550" xpos="-896.988" ypos="0.687223" zpos="224.143" type="legs.chests.kodan.dig" GUID="IjuOK3HmX0mkVBjmK7Z3Sw=="/>
+        <POI MapID="1550" xpos="-862.997" ypos="210.005" zpos="29.4271" type="legs.chests.kodan.dig" GUID="FsEoLQb7TEypbJHF6MGmAw=="/>
+        <POI MapID="1550" xpos="-993.635" ypos="205.838" zpos="-33.6088" type="legs.chests.kodan.dig" GUID="fqj5/Enqk0ioUkkkjxv0Og=="/>
+        <POI MapID="1550" xpos="-1055.81" ypos="208.26" zpos="-109.009" type="legs.chests.kodan.dig" GUID="stBQZC9Os0OnTmb51FvxYw=="/>
+        <POI MapID="1550" xpos="-881.905" ypos="260.602" zpos="-267.516" type="legs.chests.kodan.dig" GUID="V6IpenmJZEebeAIQy/j7WQ=="/>
+        <POI MapID="1550" xpos="-796.396" ypos="298.863" zpos="-470.991" type="legs.chests.kodan.dig" GUID="KBXSDPEm60KchBCWeNdwtg=="/>
+        <POI MapID="1550" xpos="-783.564" ypos="303.55" zpos="-555.45" type="legs.chests.kodan.dig" GUID="pG5amcT4X0yWJxMRiX8CGQ=="/>
+        <POI MapID="1550" xpos="-543.777" ypos="304.611" zpos="-498.444" type="legs.chests.kodan.dig" GUID="GZr9e/0kikivxaR3ejbDlQ=="/>
+        <POI MapID="1550" xpos="-754.908" ypos="280.967" zpos="-349.332" type="legs.chests.kodan.dig" GUID="/3SIQddyZUKcOVMsl26qGA=="/>
+        <POI MapID="1550" xpos="-793.301" ypos="260.328" zpos="-237.032" type="legs.chests.kodan.dig" GUID="Irlh6Rda1kG2s1g4KcqWRg=="/>
+        <POI MapID="1550" xpos="-866.992" ypos="210.955" zpos="-91.1405" type="legs.chests.kodan.dig" GUID="WsuDLgrk2EyFRl/M9xBQ8g=="/>
+        <POI MapID="1550" xpos="-804.117" ypos="210.432" zpos="-47.7507" type="legs.chests.kodan.dig" GUID="R4uLlOnrjkOdhOGBQPNX7Q=="/>
+        <POI MapID="1550" xpos="-761.982" ypos="213.433" zpos="-130.6" type="legs.chests.kodan.dig" GUID="Cz28f9bXpEaCRXrMXx9jFA=="/>
+        <POI MapID="1550" xpos="-728.403" ypos="213.419" zpos="-151.501" type="legs.chests.kodan.dig" GUID="Eup7ppf++0mN5HRT7R2MVg=="/>
+        <POI MapID="1550" xpos="-636.497" ypos="202.447" zpos="-88.49" type="legs.chests.kodan.dig" GUID="UkHtgcIZF0G2d06L0GbT3A=="/>
+        <POI MapID="1550" xpos="-690.802" ypos="224.981" zpos="-218.15" type="legs.chests.kodan.dig" GUID="SUgqY8aOKUOX6IlWvmCacw=="/>
+        <POI MapID="1550" xpos="-645.712" ypos="211.644" zpos="-258.986" type="legs.chests.kodan.dig" GUID="IjvvDpy7cE6ZohRyE0W6LQ=="/>
+        <POI MapID="1550" xpos="-597.947" ypos="208.292" zpos="-212.381" type="legs.chests.kodan.dig" GUID="Aj32WkoQS0uRnOe77OJdHA=="/>
+        <POI MapID="1550" xpos="-553.736" ypos="216.259" zpos="-406.164" type="legs.chests.kodan.dig" GUID="tmEAFcFKXUyTyEDMe5mGWg=="/>
+        <POI MapID="1550" xpos="-498.939" ypos="207.497" zpos="-363.33" type="legs.chests.kodan.dig" GUID="oaFwReu/wEeRLEEYktQldw=="/>
+        <POI MapID="1550" xpos="-459.785" ypos="208.836" zpos="-450.791" type="legs.chests.kodan.dig" GUID="tr4T1mUemECL5JoT3WzDqg=="/>
+        <POI MapID="1550" xpos="-433.809" ypos="209.966" zpos="-513.684" type="legs.chests.kodan.dig" GUID="xEcfZxfRMkyVJCkex2ffsg=="/>
+        <POI MapID="1550" xpos="-373.897" ypos="208.065" zpos="-512.658" type="legs.chests.kodan.dig" GUID="Iz0Cn9SXy02vpLLf2uunGQ=="/>
+        <POI MapID="1550" xpos="-290.784" ypos="238.372" zpos="-502.994" type="legs.chests.kodan.dig" GUID="B9T017K0ykS95MUbeSxVHQ=="/>
+        <POI MapID="1550" xpos="-243.463" ypos="303.435" zpos="-647.708" type="legs.chests.kodan.dig" GUID="nq/drQgUhUWHOfu4T3TyOA=="/>
+        <POI MapID="1550" xpos="-158.196" ypos="272.21" zpos="-535.21" type="legs.chests.kodan.dig" GUID="I3VdZXNWt0eigXOES730Rw=="/>
+        <POI MapID="1550" xpos="-125.717" ypos="282.222" zpos="-546.416" type="legs.chests.kodan.dig" GUID="swsrlkGO2E2baF8BdRymbg=="/>
+        <POI MapID="1550" xpos="-79.0642" ypos="292.079" zpos="-559.974" type="legs.chests.kodan.dig" GUID="+djpMjLRGUqlSp3/dOTIyg=="/>
+        <POI MapID="1550" xpos="-62.2752" ypos="330.105" zpos="-596.2" type="legs.chests.kodan.dig" GUID="EmDBUD+vd06PKRMUZErpLQ=="/>
+        <POI MapID="1550" xpos="24.6093" ypos="302.691" zpos="-543.427" type="legs.chests.kodan.dig" GUID="8G07b2+Olkilb20xYRdU2A=="/>
+        <POI MapID="1550" xpos="59.689" ypos="298.681" zpos="-466.936" type="legs.chests.kodan.dig" GUID="b4w2M0/EO0OhHsn7GobwpQ=="/>
+        <POI MapID="1550" xpos="277.944" ypos="316.222" zpos="-513.245" type="legs.chests.kodan.dig" GUID="As05stheZEujRzkGsgnkcA=="/>
+        <POI MapID="1550" xpos="424.526" ypos="339.044" zpos="-675.129" type="legs.chests.kodan.dig" GUID="ckx8ebu7y0On+1OMMmXUEw=="/>
+        <POI MapID="1550" xpos="321.751" ypos="312.44" zpos="-368.708" type="legs.chests.kodan.dig" GUID="kDfNkCXmHkanpI1VZjDkiw=="/>
+        <POI MapID="1550" xpos="59.7038" ypos="302.833" zpos="-358.168" type="legs.chests.kodan.dig" GUID="OaMlNDgdFkmZANpqelAh2w=="/>
+        <POI MapID="1550" xpos="87.5363" ypos="319.978" zpos="-302.551" type="legs.chests.kodan.dig" GUID="en1xOJHoLkSgLojHdcBQtQ=="/>
+        <POI MapID="1550" xpos="-74.0427" ypos="295.548" zpos="-274.711" type="legs.chests.kodan.dig" GUID="1j4vemQMiUC6KD0HZxRecw=="/>
+        <POI MapID="1550" xpos="-282.536" ypos="206.539" zpos="-313.583" type="legs.chests.kodan.dig" GUID="Jp4Bfl57M0CvPM4CvFk38g=="/>
+        <POI MapID="1550" xpos="-277.835" ypos="204.796" zpos="-375.883" type="legs.chests.kodan.dig" GUID="WmXEjN4wLUCH+RRZswhH8w=="/>
+        <POI MapID="1550" xpos="-375.042" ypos="210.149" zpos="-380.421" type="legs.chests.kodan.dig" GUID="9JAOzYT2eU6UrCLgM+3HOA=="/>
+        <POI MapID="1550" xpos="-414.046" ypos="204.983" zpos="-275.712" type="legs.chests.kodan.dig" GUID="NoxrAyiTskyjnISYF7tESw=="/>
+        <POI MapID="1550" xpos="-449.357" ypos="206.053" zpos="-286.18" type="legs.chests.kodan.dig" GUID="mDfeRL/MuEyXvYcZXyOO+Q=="/>
+        <POI MapID="1550" xpos="-486.222" ypos="208.136" zpos="-297.991" type="legs.chests.kodan.dig" GUID="qVgnBekVb0ynk+nFzfRB0w=="/>
+        <POI MapID="1550" xpos="-513.036" ypos="49.3015" zpos="-116.167" type="legs.chests.kodan.dig" GUID="59a9/xSmPUyojEglXhoOSg=="/>
+        <POI MapID="1550" xpos="-403.404" ypos="2.62132" zpos="-38.7556" type="legs.chests.kodan.dig" GUID="l8A6bCMb/kiQpZ38O2TwCw=="/>
+        <POI MapID="1550" xpos="-382.975" ypos="69.2163" zpos="6.95116" type="legs.chests.kodan.dig" GUID="+z/7GelSwk+GAgKwa3T6Aw=="/>
+        <POI MapID="1550" xpos="-345.871" ypos="118.158" zpos="24.8756" type="legs.chests.kodan.dig" GUID="BIj/COEEOUCDUf6OuPCelA=="/>
+        <POI MapID="1550" xpos="-223.382" ypos="138.175" zpos="187.272" type="legs.chests.kodan.dig" GUID="dqdhhccQ2US7xlrtwWrztg=="/>
+        <POI MapID="1550" xpos="-201.325" ypos="149.239" zpos="30.3996" type="legs.chests.kodan.dig" GUID="3uiXrlAfu0Gn3+FKfyltfw=="/>
+        <POI MapID="1550" xpos="-233.744" ypos="214.877" zpos="-66.9226" type="legs.chests.kodan.dig" GUID="gXjub43hlEil5L/aLiHU8Q=="/>
+        <POI MapID="1550" xpos="-177.323" ypos="220.896" zpos="-86.1691" type="legs.chests.kodan.dig" GUID="jZBibZflpE+lDKfBWHqhpg=="/>
+        <POI MapID="1550" xpos="-69.3499" ypos="218.107" zpos="-89.1866" type="legs.chests.kodan.dig" GUID="zzxzZwDfZ0qenSNcMZjWyw=="/>
+        <POI MapID="1550" xpos="-11.562" ypos="218.019" zpos="-160.75" type="legs.chests.kodan.dig" GUID="/VLEWVAuKkuWrEY35YpDUg=="/>
+        <POI MapID="1550" xpos="46.4289" ypos="196.824" zpos="-141.843" type="legs.chests.kodan.dig" GUID="Uf1DCk/hOkeK7iiSS5CLTw=="/>
+        <POI MapID="1550" xpos="61.3367" ypos="157.956" zpos="0.0341931" type="legs.chests.kodan.dig" GUID="LNyrhrfPqUK5YLjiMw1Ovg=="/>
+        <POI MapID="1550" xpos="-69.2415" ypos="124.773" zpos="25.9132" type="legs.chests.kodan.dig" GUID="aFKZQrTzQ0u7Jcw7JIUTTg=="/>
+        <POI MapID="1550" xpos="-43.994" ypos="1.034" zpos="194.558" type="legs.chests.kodan.dig" GUID="Xs22Op0JOU2TAVg58diCug=="/>
+
+        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 2.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 3.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 4.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 5.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 6.trl"/>
+        <POI MapID="1550" xpos="-9.29137" ypos="5.64701" zpos="230.863" type="legs.chests.kodan.dig" GUID="0KIIHyoa70yy+xaqZkIQ2Q=="/>
+        <POI MapID="1550" xpos="-72.4928" ypos="4.49104" zpos="213.666" type="legs.chests.kodan.dig" GUID="LEbGauHX2kWT0xMZNWqJHw=="/>
+        <POI MapID="1550" xpos="-52.0722" ypos="94.4357" zpos="246.071" type="legs.chests.kodan.dig" GUID="W+15Co4Hj0WI0OK75Dh2tA=="/>
+        <POI MapID="1550" xpos="34.9792" ypos="149.262" zpos="419.569" type="legs.chests.kodan.dig" GUID="8jwfDL/zMk2DlT0DM4wRpA=="/>
+        <POI MapID="1550" xpos="888.075" ypos="416.693" zpos="-588.079" type="legs.chests.major.cache" GUID="kS54+m4UpUyTsgFhmM2TeQ=="/>
+        <POI MapID="1550" xpos="680.72" ypos="302.055" zpos="-256.855" type="legs.chests.major.cache" GUID="NI/A0kWViEmKmXhqUq0MhA=="/>
+        <POI MapID="1550" xpos="1035.78" ypos="390.86" zpos="-268.37" type="legs.chests.major.cache" GUID="H/jprnW8t0aQk+ztssL6ZQ=="/>
+        <POI MapID="1550" xpos="983.212" ypos="412.018" zpos="-92.0095" type="legs.chests.major.cache" GUID="X1e9IbAayECLpXPOdauVKA=="/>
+        <POI MapID="1550" xpos="665.59" ypos="333.571" zpos="25.9527" type="legs.chests.major.cache" GUID="F34bkn6+f0y+TCgg7vPbKw=="/>
+        <POI MapID="1550" xpos="758.745" ypos="299.509" zpos="192.098" type="legs.chests.major.cache" GUID="ug7wAf0qC0+VRc6kkS92kw=="/>
+        <POI MapID="1550" xpos="993.59" ypos="360.547" zpos="296.312" type="legs.chests.major.cache" GUID="y63sYbCWkkmPCVewaSJ+ZQ=="/>
+        <POI MapID="1550" xpos="875.438" ypos="273.784" zpos="278.324" type="legs.chests.major.cache" GUID="HEpU97uN5kacLaXWw7Xwiw=="/>
+        <POI MapID="1550" xpos="546.01" ypos="132.02" zpos="236.537" type="legs.chests.major.cache" GUID="sxLoefc6yUGckY1Ha997mQ=="/>
+        <POI MapID="1550" xpos="548.919" ypos="78.6936" zpos="439.182" type="legs.chests.major.cache" GUID="0LxKP1DlwEuX1J0Wz/U+RA=="/>
+        <POI MapID="1550" xpos="572.919" ypos="5.43428" zpos="490.771" type="legs.chests.major.cache" GUID="ObG9t/o4G0iITye66b5ERA=="/>
+        <POI MapID="1550" xpos="496.761" ypos="146.435" zpos="361.715" type="legs.chests.major.cache" GUID="yIbOdlacrEyfCko+48C7ig=="/>
+        <POI MapID="1550" xpos="-653.79" ypos="25.5457" zpos="99.4942" type="legs.chests.major.cache" GUID="2UjWRNP8+EevfaLmAnpTjQ=="/>
+        <POI MapID="1550" xpos="-788.138" ypos="67.6213" zpos="174.314" type="legs.chests.major.cache" GUID="ykttMCtPCEOyyycxEt3hxQ=="/>
+        <POI MapID="1550" xpos="-734.079" ypos="29.0426" zpos="468.786" type="legs.chests.major.cache" GUID="8FR4Sg+NGkOgv0Zbf+HBTg=="/>
+        <POI MapID="1550" xpos="-510.426" ypos="240.631" zpos="-486.26" type="legs.chests.major.cache" GUID="IDxaxskXiUarCq8BFNNg2w=="/>
+        <POI MapID="1550" xpos="-651.65" ypos="334.889" zpos="-560.95" type="legs.chests.major.cache" GUID="HMgCUp3F/0mxLD40ETs7rg=="/>
+        <POI MapID="1550" xpos="-203.622" ypos="336.342" zpos="-570.775" type="legs.chests.major.cache" GUID="DEOD+zHIb0a+kTFpPq8f4A=="/>
+        <POI MapID="1550" xpos="-134.846" ypos="312.392" zpos="-383.725" type="legs.chests.major.cache" GUID="WRXcOPKTg0iR7ZS5zeQSlw=="/>
+        <POI MapID="1550" xpos="-214.177" ypos="152.379" zpos="-266.927" type="legs.chests.major.cache" GUID="HXSzYIU0bkepDbogqmAr0A=="/>
+        <POI MapID="1550" xpos="-235.819" ypos="169.6" zpos="-131.417" type="legs.chests.major.cache" GUID="0lLWdHeFJEyVt6dZ1EKJNQ=="/>
+        <POI MapID="1550" xpos="-132.155" ypos="253.145" zpos="-81.7568" type="legs.chests.major.cache" GUID="VdrM+8rrnE+n2fq/Rk557Q=="/>
+        <POI MapID="1550" xpos="148.55" ypos="309.733" zpos="-250.117" type="legs.chests.major.cache" GUID="gzlfo9QRcUKd2ev+0psbCg=="/>
+        <POI MapID="1550" xpos="158.157" ypos="309.851" zpos="-31.0175" type="legs.chests.major.cache" GUID="B9YkVbIYwUOlMM96DtBDBQ=="/>
+        <POI MapID="1550" xpos="73.5052" ypos="154.426" zpos="186.04" type="legs.chests.major.cache" GUID="qImZtZ3iMk+cTxyw+eA07A=="/>
+        <POI MapID="1550" xpos="93.4612" ypos="150.704" zpos="331.229" type="legs.chests.major.cache" GUID="e7o7EoJmbkC8k3qReqJfqQ=="/>
+        <POI MapID="1550" xpos="34.778" ypos="19.7349" zpos="389.581" type="legs.chests.major.cache" GUID="kAVuKwPPOkq6vVhxiHCzJQ=="/>
+        <POI MapID="1550" xpos="273.082" ypos="97.0441" zpos="404.979" type="legs.chests.major.cache" GUID="V4HJdMxic0KgmBdXS9Zrdg=="/>
+        <POI MapID="1550" xpos="273.944" ypos="310.107" zpos="-188.099" type="legs.chests.major.cache" GUID="y85oX/iy6UeVWidKbLgRDQ=="/>
+        <POI MapID="1550" xpos="-497.625" ypos="219.602" zpos="-171.274" type="legs.chests.major.cache" GUID="GQNhMgTO/kuLa/OoNUF7Bw=="/>
+        <POI MapID="1550" xpos="-342.118" ypos="100.636" zpos="-34.0215" type="legs.chests.major.cache" GUID="Hd38/4K4qUejOR2XyCLIEQ=="/>
+        <POI MapID="1550" xpos="-420.34" ypos="208.845" zpos="147.882" type="legs.chests.major.cache" GUID="rqaByuG4KEuFG+t+y1NrvA=="/>
+        <POI MapID="1550" xpos="-306.681" ypos="139.614" zpos="218.296" type="legs.chests.major.cache" GUID="Kddtpr/GgE6FeVnbqD9Flw=="/>
+        <POI MapID="1550" xpos="-288.957" ypos="187.053" zpos="389.167" type="legs.chests.major.cache" GUID="KGEuVFaX+UOBqeMKC6Nv7A=="/>
+        <POI MapID="1550" xpos="-259.889" ypos="61.3777" zpos="349.925" type="legs.chests.major.cache" GUID="BpNwh9aWWkaL4tBbCkK0lg=="/>
+        
+
     </POIs>
 </OverlayData>
