@@ -385,6 +385,17 @@
         <POI MapID="1195" xpos="-448.567" ypos="681.953" zpos="-292.641" type="legs.jp.searingascent.target" GUID="PN4kYrJ2ekOU+UGMLz3HXg==" fadeNear="3000" fadeFar="3800"/>
         <POI MapID="1195" xpos="-379.052" ypos="730.779" zpos="-380.941" type="legs.jp.searingascent.target" GUID="fcwjQ7E3fkWzCKyqk1Cr8Q==" fadeNear="3000" fadeFar="3800"/>
         
+
+        <!-- LWS5 -->
+
+        <Trail type="legs.jp.flc.grothmar" trailData="Data/LadyElyssa/Jumping Puzzles/LWS5/Flame Legion Camp.trl"/>
+        <POI MapID="1330" xpos="-17.504" ypos="40.1727" zpos="247.879" type="legs.jp.flc.sign" GUID="1uy+BaPNgUa9OxuOLRETgw=="/>
+
+        
+        <Trail type="legs.jp.gotk.grothmar" trailData="Data/LadyElyssa/Jumping Puzzles/LWS5/Gauntlet of the Khan-Ur.trl"/>
+        <POI MapID="1330" xpos="520.073" ypos="14.7309" zpos="172.772" type="legs.jp.gotk.sign" GUID="e67cjAxVpECLqOYYm29yZQ=="/>
+        
+
         <!-- EoD - Cantha - Seitung Province - Trials of the Tengu -->
 
         <Trail type="legs.jp.trials.seitung" trailData="Data/LadyElyssa/Jumping Puzzles/Trials of the Tengu.trl"/>
