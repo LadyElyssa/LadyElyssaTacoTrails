@@ -108,11 +108,12 @@
         <Trail type="legs.jp.mj.spelunkers.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spelunker's Delve 1b.trl"/>
         <Trail type="legs.jp.mj.spelunkers.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Spelunker's Delve 2.trl" fadeNear="800" fadeFar="1200"/>
 
-        <Trail type="legs.jp.mj.verariumdelves.sparkfly" trailData="Data/LadyElyssa/Jumping Puzzles/Verarium Delves.trl" fadeNear="800" fadeFar="1600"/>
-        <POI MapID="53" xpos="-346.899" ypos="22.2787" zpos="528.482" type="legs.jp.mj.verariumdelves.sign" GUID="eKU4iWfJcUmBeAEYfmiqVw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Verarium Delves.png"/>
-        <Trail type="legs.jp.mj.griffonrook.lornars" trailData="Data/LadyElyssa/Jumping Puzzles/Griffonrook Run.trl"/>
-        <POI MapID="27" xpos="-328.528" ypos="34.9211" zpos="-687.743" type="legs.jp.mj.griffonrook.sign" GUID="jlITlg24O0eXZNzvARyDeA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Griffonrook Run.png"/>
-        <POI MapID="27" xpos="-99.3819" ypos="59.7388" zpos="-910.082" type="legs.jp.mj.griffonrook.sign" GUID="rvToNH/HaU2IdYXkxik1Cw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Griffonrook Run.png"/>
+        <Trail type="legs.jp.mj.verarium.sparkfly" trailData="Data/LadyElyssa/Jumping Puzzles/Verarium Delves.trl" fadeNear="800" fadeFar="1600"/>
+        <POI MapID="53" xpos="-346.899" ypos="22.2787" zpos="528.482" type="legs.jp.mj.verarium.sign" GUID="eKU4iWfJcUmBeAEYfmiqVw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Verarium Delves.png"/>
+        
+        <Trail type="legs.jp.shiverpeaks.griffonrook.lornars" trailData="Data/LadyElyssa/Jumping Puzzles/Griffonrook Run.trl"/>
+        <POI MapID="27" xpos="-328.528" ypos="34.9211" zpos="-687.743" type="legs.jp.shiverpeaks.griffonrook.sign" GUID="jlITlg24O0eXZNzvARyDeA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Griffonrook Run.png"/>
+        <POI MapID="27" xpos="-99.3819" ypos="59.7388" zpos="-910.082" type="legs.jp.shiverpeaks.griffonrook.sign" GUID="rvToNH/HaU2IdYXkxik1Cw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Griffonrook Run.png"/>
         
         <Trail type="legs.jp.mj.hexfoundry.sparkfly" trailData="Data/LadyElyssa/Jumping Puzzles/Hexfoundry Unhinged.trl"/>
         <POI MapID="53" xpos="574.518" ypos="32.1182" zpos="-624.328" type="legs.jp.mj.hexfoundry.sign" GUID="FBxYuJcw6kumbd3JrSVoXg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Hexfoundry Unhinged.png"/>
