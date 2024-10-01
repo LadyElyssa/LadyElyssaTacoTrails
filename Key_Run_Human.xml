@@ -162,7 +162,9 @@
         <Trail type="legs.keys.oot.human.mortisvirge.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/Mortus Virge 1.trl"/>
         <Trail type="legs.keys.oot.human.mortisvirge.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/Mortus Virge 2 Instance.trl"/>
         <Trail type="legs.keys.oot.human.city.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Orders of Tyria - Salma District.trl"/>
-        <POI MapID="193" xpos="-1020.79" ypos="0.549831" zpos="-505.972" type="legs.keys.oot.human.wp" GUID="QHzfoZjEkkahJB8ToHz4EA==" copy="[&BC4DAAA=]" copy-message="Salma Waypoint"/>
+
+        <POI MapID="193" xpos="-1020.79" ypos="0.549831" zpos="-505.972" type="legs.keys.oot.human.mortisvirge.wp" GUID="QHzfoZjEkkahJB8ToHz4EA==" copy="[&BC4DAAA=]" copy-message="Salma Waypoint"/>
+        
         <POI MapID="248" xpos="239.197" ypos="72.3782" zpos="277.428" type="legs.keys.oot.human.home.sign.one" GUID="9I1vHrO+AUGK6wBxnk4jAQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 1 - Triskell Quay.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <POI MapID="248" xpos="238.905" ypos="69.4012" zpos="276.471" type="legs.keys.human20.sister.wp" GUID="nenzGLXygU+dFy4coEWgmA==" copy="[&BLoDAAA=]" copy-message="Gap Waypoint in Kessex Hills " triggerrange="2"/>
         <POI MapID="248" xpos="238.905" ypos="69.4012" zpos="276.471" type="legs.keys.human20.parents.wp" GUID="Vzxt1AQvkEaUpLZOvzwF6w==" copy="[&BBQAAAA=]" copy-message="Kessex Haven Waypoint in Kessex Hills" triggerrange="2"/>
@@ -178,16 +180,16 @@
         <POI MapID="195" xpos="84.8637" ypos="4.14815" zpos="-81.4035" type="legs.keys.oot.human.triskellquay.wp" GUID="6PmSbrUhmEWjeC21rzvVBQ==" copy="[&BC4DAAA=]" copy-message="Salma Waypoint"/>
         <!-- The Sad Tale of the Ravenous -->
         <Trail type="legs.keys.oot.human.ravenous.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Sad Tale of the Ravenous 1.trl"/>
-        <POI MapID="248" xpos="237.149" ypos="72.4699" zpos="269.923" type="legs.keys.oot.human.home.sign.two" GUID="e8iYC2gs6kygmtsiYNlVmg==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 2 - The Sad Tale of the Ravenous.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="248" xpos="237.149" ypos="69.4699" zpos="269.923" type="legs.keys.oot.human.home.wp" GUID="CGcjD8wgVEKlweSmFbd92A==" copy="[&BAgAAAA=]" copy-message="Delanian Waypoint" triggerrange="2"/>
+        <POI MapID="248" xpos="237.149" ypos="72.4699" zpos="269.923"       type="legs.keys.oot.human.home.sign.two" GUID="e8iYC2gs6kygmtsiYNlVmg==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 2 - The Sad Tale of the Ravenous.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="248" xpos="237.149" ypos="69.4699" zpos="269.923"       type="legs.keys.oot.human.home.wp" GUID="CGcjD8wgVEKlweSmFbd92A==" copy="[&BAgAAAA=]" copy-message="Delanian Waypoint" triggerrange="2"/>
         <Trail type="legs.keys.oot.human.ravenous.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Sad Tale of the Ravenous 2.trl"/>
-        <POI MapID="23" xpos="982.043" ypos="23.6672" zpos="419.633" type="legs.keys.oot.human.ravenous.sign" GUID="fftrItT/kUW5q8oHbuC9wQ=="/>
+        <POI MapID="23" xpos="982.043" ypos="23.6672" zpos="419.633"        type="legs.keys.oot.human.ravenous.sign" GUID="fftrItT/kUW5q8oHbuC9wQ=="/>
         <Trail type="legs.keys.oot.human.ravenous.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Sad Tale of the Ravenous 3 Instance.trl"/>
-        <POI MapID="199" xpos="-442.432" ypos="0.410992" zpos="-355.298" type="legs.keys.oot.human.ravenous.choice" GUID="o9vpW/8YiUKB129lBSuA5g==" info="FIRST MATE GAETS&#xA;&#xA;2. What did you call me, you grog-guzzling blowfish?&#xA;&#xA;1. I'm not just trying, you pox-faced scab. You're shaking in your boots!&#xA;&#xA;2. Bring it on, you sea-fearing, tide-turning, half-witted poop deck!&#xA;&#xA;   > Hooray!" infoRange="2"/>
-        <POI MapID="199" xpos="-477.176" ypos="-0.350206" zpos="-282.853" type="legs.keys.oot.human.ravenous.wp" GUID="WZQw+ayKYECXZU33t0Xrlw==" copy="[&BC4DAAA=]" copy-message="Salma Waypoint" triggerrange="1.5" autotrigger="true"/>
-        <POI MapID="248" xpos="244.955" ypos="72.5352" zpos="275.38" type="legs.keys.oot.human.home.sign.three" GUID="kAjlkuegwUKbH/uOPPzHrA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 3 - Pick Me.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="248" xpos="242.991" ypos="72.3821" zpos="268.655" type="legs.keys.oot.human.home.sign.four" GUID="eXVltP2DVUOhgviNgfAA9Q==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 4 - Durmand Priory.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="248" xpos="243.04" ypos="69.3764" zpos="268.572" type="legs.keys.oot.human.home.wp" GUID="7fBWSf1dZUC1L+7Rd46bWw==" copy="[&BCkDAAA=]" copy-message="Palace Waypoint"/>
+        <POI MapID="199" xpos="-442.432" ypos="0.410992" zpos="-355.298"    type="legs.keys.oot.human.ravenous.choice" GUID="o9vpW/8YiUKB129lBSuA5g==" info="FIRST MATE GAETS&#xA;&#xA;2. What did you call me, you grog-guzzling blowfish?&#xA;&#xA;1. I'm not just trying, you pox-faced scab. You're shaking in your boots!&#xA;&#xA;2. Bring it on, you sea-fearing, tide-turning, half-witted poop deck!&#xA;&#xA;   > Hooray!" infoRange="2"/>
+        <POI MapID="199" xpos="-477.176" ypos="-0.350206" zpos="-282.853"   type="legs.keys.oot.human.ravenous.wp" GUID="WZQw+ayKYECXZU33t0Xrlw==" copy="[&BC4DAAA=]" copy-message="Salma Waypoint" triggerrange="1.5" autotrigger="true"/>
+        <POI MapID="248" xpos="244.955" ypos="72.5352" zpos="275.38"        type="legs.keys.oot.human.home.sign.three" GUID="kAjlkuegwUKbH/uOPPzHrA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 3 - Pick Me.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="248" xpos="242.991" ypos="72.3821" zpos="268.655"       type="legs.keys.oot.human.home.sign.four" GUID="eXVltP2DVUOhgviNgfAA9Q==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Human/OoT 4 - Durmand Priory.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="248" xpos="243.04" ypos="69.3764" zpos="268.572"        type="legs.keys.oot.human.home.wp" GUID="7fBWSf1dZUC1L+7Rd46bWw==" copy="[&BCkDAAA=]" copy-message="Palace Waypoint"/>
         <Trail type="legs.keys.oot.human.queen" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Human/The Queen's Justice Instance.trl"/>
         <!-- Chapter 4 - lvl 40 -->
         <!-- To Lion's Arch -->
