@@ -11,7 +11,7 @@
 
         <!-- JANTHIR WILDS -->
 
-        <!-- Gathering - Honey honeyflowers -->
+        <!-- Gathering - Honey Flowers -->
 
         <Trail type="legs.gathering.xpac.honeyflower.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Flowers 1.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeyflower.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Flowers 2.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
@@ -180,6 +180,16 @@
         <Trail type="legs.gathering.xpac.honeypine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Pine 2.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeypine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Pine 3.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeypine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Pine 4.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="557.014" ypos="423.099" zpos="-555.227" type="legs.gathering.xpac.honeypine.start" GUID="WvxHxt9C60WMkqLatuIFYw==" inGameVisibility="0"/>
+        <POI MapID="1550" xpos="775.978" ypos="98.2703" zpos="252.876" type="legs.gathering.xpac.honeypine.wp" GUID="bHj54HRJ006JttrsJUNgkA==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="559.737" ypos="423.099" zpos="-558.405" type="legs.gathering.xpac.honeypine.number.1" GUID="tYuNBSXYDUqaUPhsKDwnrg=="/>
+        <POI MapID="1550" xpos="539.003" ypos="218.329" zpos="35.3376" type="legs.gathering.xpac.honeypine.number.2" GUID="TVK3PF332EGlXVdvsKvvlg=="/>
+        <POI MapID="1550" xpos="-419.291" ypos="3.92029" zpos="433.195" type="legs.gathering.xpac.honeypine.wp" GUID="aWNgaSvKcEOg4TD45bdXpA==" copy="[&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="553.614" ypos="423.099" zpos="-558.64" type="legs.gathering.xpac.honeypine.number.3" GUID="KKHJXu4tE0W0TFauYysyOA=="/>
+        <POI MapID="1550" xpos="-717.919" ypos="282.57" zpos="-305.488" type="legs.gathering.xpac.honeypine.wp" GUID="o3XVO0gU9EW1c0ixwqpa5g==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
+        <POI MapID="1550" xpos="-715.893" ypos="210.25" zpos="-55.3811" type="legs.gathering.xpac.honeypine.number.4" GUID="sjzrC08uZEKde7mhxwGVbQ=="/>
+        <POI MapID="1550" xpos="-801.264" ypos="55.676" zpos="226.541" type="legs.gathering.xpac.honeypine.end" GUID="4iioPBLoPUSzuEqvWOqwMA=="/>
+
 
 
         <!-- Gathering - Titan Amber -->
@@ -244,8 +254,6 @@
         <POI MapID="1554" xpos="-539.961" ypos="41.3655" zpos="454.654" type="legs.gathering.xpac.amberore.tog" GUID="js9UUIcz+EaIM+7zlS0sSQ=="/>
         <POI MapID="1554" xpos="-708.65" ypos="48.1492" zpos="365.955" type="legs.gathering.xpac.amberore.tog" GUID="v8LN8WLk4UWfNk37Px659w=="/>
         <POI MapID="1554" xpos="870.976" ypos="1.901" zpos="-25.2741" type="legs.gathering.xpac.amberore.tog" GUID="nJPCiq7bBUGdFdBPQHEadQ=="/>
-        <POI MapID="1554" xpos="-184.347" ypos="8.03933" zpos="-454.086" type="legs.gathering.xpac.amberore.tog" GUID="h63XqakLOkOkJ3JOZvdeAQ=="/>
-        <POI MapID="1554" xpos="-763.452" ypos="46.1662" zpos="472.513" type="legs.gathering.xpac.amberore.tog" GUID="lVb7k2/u50iET6/9hl8zJA=="/>
         <POI MapID="1554" xpos="-550.168" ypos="58.1349" zpos="409.752" type="legs.gathering.xpac.amberore.tog" GUID="0n2EQl2oAEqNB7VpALaYXg=="/>
         <POI MapID="1554" xpos="-742.673" ypos="41.3861" zpos="341.542" type="legs.gathering.xpac.amberore.tog" GUID="ALXqrv2X9kisSncJ+Q328g=="/>
         <POI MapID="1554" xpos="-210.623" ypos="1.06348" zpos="-112.439" type="legs.gathering.xpac.amberore.tog" GUID="T2KYhLXTVkeiWEautN9GNA=="/>
@@ -323,21 +331,18 @@
         <POI MapID="1554" xpos="-759.163" ypos="78.7414" zpos="673.024" type="legs.gathering.xpac.amberore.tog" GUID="YQkUDjG6kke0ntz9LSgEbQ=="/>
         <POI MapID="1554" xpos="-474.502" ypos="104.613" zpos="-163.555" type="legs.gathering.xpac.amberore.tog" GUID="25wMMcICHE6Dgm6/oWquww=="/>
         <POI MapID="1554" xpos="-739.427" ypos="46.8992" zpos="-525.028" type="legs.gathering.xpac.amberore.tog" GUID="UvdqeGYRiUeeH1b9Q7ViAQ=="/>
-        <POI MapID="1554" xpos="-775.638" ypos="45.2902" zpos="409.644" type="legs.gathering.xpac.amberore.tog" GUID="Sk+kYM9EUEGuYYuMMlFHTQ=="/>
         <POI MapID="1554" xpos="-618.113" ypos="43.9998" zpos="535.922" type="legs.gathering.xpac.amberore.tog" GUID="B5G3r5+9xkeTgkzrzCZeuw=="/>
         <POI MapID="1554" xpos="-601.282" ypos="37.5918" zpos="497.825" type="legs.gathering.xpac.amberore.tog" GUID="TXSAXhqpwEa0O1nNxTpF8g=="/>        
         <POI MapID="1554" xpos="-343.33" ypos="29.9298" zpos="-21.4489" type="legs.gathering.xpac.amberore.tog" GUID="YnX5U66gSEunBl2LV0Q+Hg=="/>
         <POI MapID="1554" xpos="864.424" ypos="30.5286" zpos="-681.343" type="legs.gathering.xpac.amberore.tog" GUID="G1+pHPRTyE+j6wbIuhB6Ow=="/>
         <POI MapID="1554" xpos="846.603" ypos="31.3408" zpos="-482.839" type="legs.gathering.xpac.amberore.tog" GUID="TR7aXlV/RUamngm2pdq2kA=="/>
         <POI MapID="1554" xpos="733.251" ypos="2.74376" zpos="-346.822" type="legs.gathering.xpac.amberore.tog" GUID="XICf5haX7UaHYZyXoWMN2A=="/>
-
         <POI MapID="1554" xpos="-729.01" ypos="78.6304" zpos="731.331" type="legs.gathering.xpac.amberore.tog" GUID="jQgrISlOSEKVEAaGItoYBg=="/>
         <POI MapID="1554" xpos="-815.263" ypos="58.2141" zpos="500.954" type="legs.gathering.xpac.amberore.tog" GUID="osTXIrhUPEOO5rbt9mh5ZA=="/>
         <POI MapID="1554" xpos="-774.946" ypos="45.5959" zpos="408.95" type="legs.gathering.xpac.amberore.tog" GUID="9ychxWCKn0mSTCO1mBLs9w=="/>
         <POI MapID="1554" xpos="-826.331" ypos="44.5444" zpos="360.515" type="legs.gathering.xpac.amberore.tog" GUID="Zm5Z4xND4kWBxFVC8utAdA=="/>
         <POI MapID="1554" xpos="-771.595" ypos="38.6136" zpos="315.221" type="legs.gathering.xpac.amberore.tog" GUID="4QYzoVhDakuUigATTAyo2w=="/>
         <POI MapID="1554" xpos="-621.159" ypos="38.3308" zpos="426.061" type="legs.gathering.xpac.amberore.tog" GUID="yoUo43cWJkeljO5PlMZajA=="/>
-
         <POI MapID="1554" xpos="-575.085" ypos="37.0245" zpos="285.504" type="legs.gathering.xpac.amberore.tog" GUID="V2XXr0jN4keI7bzDSoXUug=="/>
         <POI MapID="1554" xpos="319.531" ypos="7.00153" zpos="-265.186" type="legs.gathering.xpac.amberore.tog" GUID="OtO0447ub065DEEoo2Le3Q=="/>
         <POI MapID="1554" xpos="-421.848" ypos="75.2122" zpos="-195.19" type="legs.gathering.xpac.amberore.tog" GUID="H6vYRjwYgk2toicAKbniEQ=="/>
