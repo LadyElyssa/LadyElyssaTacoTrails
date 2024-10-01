@@ -332,12 +332,14 @@
                 <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Warclaw Dig.png"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+                <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
             </MarkerCategory>
             <MarkerCategory name="major" DisplayName="Major Kodan Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/X Red.png"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+                <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
             </MarkerCategory>
         </MarkerCategory>       
     </MarkerCategory>
