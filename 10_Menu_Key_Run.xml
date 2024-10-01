@@ -598,8 +598,9 @@
             <MarkerCategory name="human20" DisplayName="Human">
                 <MarkerCategory name="sister" DisplayName="Dead Sister">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Signs"/>
+                    <MarkerCategory name="choice" DisplayName="Toggle Choices" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="FFCC00"/>
                     <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FFCC00"/>
                     <MarkerCategory name="queensdale2" DisplayName="Queensdale" color="FFCC00"/>
@@ -968,12 +969,14 @@
                     </MarkerCategory>
                     <MarkerCategory name="earth" DisplayName="Secrets in the Earth">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                             <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/Secrets in the Earth.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="0.75" autotrigger="true"/>
                         <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
                     </MarkerCategory>
                     <MarkerCategory name="apple" DisplayName="The Bad Apple">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="choice" DisplayName="Toggle Story Choice" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                             <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Sylvari/The Bad Apple.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="1.5" autotrigger="true"/>
                         <MarkerCategory name="trail" DisplayName="Toggle Trail" color="66FF66"/>
@@ -1022,7 +1025,7 @@
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Signs" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 4 - Order Neophyte/Priory/Bad Blood.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="mount" DisplayName="Mounts">
-                    <MarkerCategory name="skyscale" DisplayName="Toggle Skyscale Markers" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="skyscale" DisplayName="Toggle Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="00FF20"/>

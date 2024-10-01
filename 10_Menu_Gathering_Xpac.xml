@@ -66,11 +66,33 @@
                     -->
 
                     <MarkerCategory name="honeypine" DisplayName="Lowland Pine and Honey Flowers">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="number" DisplayName="Path Number" miniMapVisibility="0">
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                            <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                        </MarkerCategory>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                         <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="amberore" DisplayName="Titan Amber and Titan Ore">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="number" DisplayName="Path Number" miniMapVisibility="0">
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                            <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         <MarkerCategory name="tog" DisplayName="Toggle Titan Amber and Ore (Octagon)" iconFile="Data/LadyElyssa/Images/Octagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                         <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
