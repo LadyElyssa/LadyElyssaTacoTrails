@@ -13,6 +13,8 @@
                 <MarkerCategory name="tail" DisplayName="Tail" iconFile="Data/LadyElyssa/Images/A Carved Path/Tail.png" mapDisplaySize="48"/>
                 <MarkerCategory name="tree" DisplayName="Tree" iconFile="Data/LadyElyssa/Images/A Carved Path/Tree.png" mapDisplaySize="48"/>
                 <MarkerCategory name="waves" DisplayName="Waves" iconFile="Data/LadyElyssa/Images/A Carved Path/Waves.png" mapDisplaySize="48"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="gv" DisplayName="Grothmar Valley"/>
             </MarkerCategory>
             <!-- End A Carved Path -->
             
@@ -50,7 +52,9 @@
                 <!-- End Essence -->
                 <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                 <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-            </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="bm" DisplayName="Bjora Marches"/>
             <!-- End Raven Puzzle -->
             </MarkerCategory>
 
@@ -63,9 +67,12 @@
                     </MarkerCategory>
                     <!-- End Essence -->
                 </MarkerCategory>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="bm" DisplayName="Bjora Marches"/>
+                </MarkerCategory>
             </MarkerCategory>
-            <!-- End Raven Sanctum -->        
-        </MarkerCategory>
+            <!-- End Raven Sanctum -->  
+            
     </MarkerCategory>
     <!-- End of Lady Elyssa's Guides -->
 </OverlayData>

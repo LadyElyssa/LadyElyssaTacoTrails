@@ -328,8 +328,14 @@
             <MarkerCategory name="jw" IsSeparator="1" DisplayName="Janthir Wilds"/>
             <MarkerCategory name="kodan" DisplayName="Kodan Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Warclaw Dig.png"/>
+                <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                </MarkerCategory>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri"/>

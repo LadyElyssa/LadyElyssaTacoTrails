@@ -49,7 +49,7 @@
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" mapVisibility="1" minimapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER" minimapVisibility="1"/>
-                    <MarkerCategory name="1" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                 </MarkerCategory>
                 <!-- End Pinatta -->
@@ -71,13 +71,12 @@
                         <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
-                    <MarkerCategory name="number" DisplayName="PATH NUMBER" minimapVisibility="1">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                    </MarkerCategory>
+                    <MarkerCategory name="number" DisplayName="PATH NUMBER" minimapVisibility="1"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
                     <!-- End Numbers -->
                 </MarkerCategory>
                 <!-- End Pinatta -->
@@ -86,17 +85,16 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" mapVisibility="1" minimapVisibility="1" mapDisplaySize="96"/>
-                    <MarkerCategory name="number" DisplayName="PATH NUMBER" minimapVisibility="1">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
-                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
-                    </MarkerCategory>
+                    <MarkerCategory name="number" DisplayName="PATH NUMBER" minimapVisibility="1"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
                     <!-- End Numbers -->
                 </MarkerCategory>
                 <!-- End Pinatta + Fireworks -->

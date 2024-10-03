@@ -767,8 +767,15 @@
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri">
-                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/LadyElyssa/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/LadyElyssa/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="number" DisplayName="Path Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                    </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
         </MarkerCategory>

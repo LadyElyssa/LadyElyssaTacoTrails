@@ -140,10 +140,7 @@
                 <MarkerCategory name="set" DisplayName="Settings"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Trek Names" alpha="1" mapDisplaySize="120"/>
                     <MarkerCategory name="marker" DisplayName="Toggle Trek Markers" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Trek.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0"/>
-                    <MarkerCategory name="colour" DisplayName="Trail Colours" color="C2C2A3">
-                        <MarkerCategory name="cyan" DisplayName="Cyan" color="00CCFF"/>
-                        <!--  Flying Mounts                 -->
-                    </MarkerCategory>
+                    <MarkerCategory name="trail" DisplayName="Trail" color="00CCFF"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -159,13 +156,6 @@
                         <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
-                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
-                        <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
-                        <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
-                        <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
-                        <MarkerCategory name="gliding" DisplayName="Gliding" iconFile="Data/LadyElyssa/Images/Icons/Gliding.png"/>
-                    </MarkerCategory>
-                    <!-- End Gliders -->
                 <MarkerCategory name="mapregion" IsSeparator="1" DisplayName="MAP REGION"/>
                 <MarkerCategory name="ascalon" DisplayName="Ascalon" color="C2C2A3">
                     <MarkerCategory name="anyas" DisplayName="Anya's Patch">

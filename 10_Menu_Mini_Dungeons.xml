@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MINI DUNGEONS -->
-        <MarkerCategory name="minidungeons" DisplayName="Mini-Dungeons" texture="Data/LadyElyssa/Images/trail-tiny.png" color="E6E6E6" animSpeed="0.5" alpha="0.7" fadeNear="1600" fadeFar="2400">
+        <MarkerCategory name="minidungeons" DisplayName="Mini-Dungeons" texture="Data/LadyElyssa/Images/trail-tiny.png" animSpeed="0.5" alpha="0.7" fadeNear="1600" fadeFar="2400">
             <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
             <MarkerCategory name="sign" DisplayName="Toggle Mini-Dungeon Name" alpha="1" mapDisplaySize="120"/>
             
@@ -9,76 +9,102 @@
 
             <MarkerCategory name="fontofrhand" DisplayName="Font of Rhand">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="diessa" DisplayName="Diesssa Plateau"/>
+                <MarkerCategory name="diessa" DisplayName="Diesssa Plateau" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="rebelsseclusion" DisplayName="Rebel's Seclusion">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="vexaslab" DisplayName="Vexa's Lab">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="E6E6E6"/>
             </MarkerCategory>
             
             <MarkerCategory name="separatormenu620" IsSeparator="1" DisplayName="KRYTA"/>
             <MarkerCategory name="badneighbourhood" DisplayName="Bad Neighborhood">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                <MarkerCategory name="queensdale" DisplayName="Queensdale" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="goffsloot" DisplayName="Goff's Loot">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="provernic" DisplayName="Provernic Crypt">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="gendarran" DisplayName="Gendarren Fields"/>
+                <MarkerCategory name="gendarran" DisplayName="Gendarren Fields" color="E6E6E6"/>
             </MarkerCategory>
 
             <MarkerCategory name="separatormenu630" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>            
             <MarkerCategory name="shiny" DisplayName="Don't Touch the Shiny">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="tears" DisplayName="Tears of Itlaocol" fadeNear="1600" fadeFar="2400">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="oola" DisplayName="Old Oola Lab">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                <MarkerCategory name="metrica" DisplayName="Metrica Province" color="E6E6E6"/>
             </MarkerCategory>
 
             <MarkerCategory name="separatormenu640" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
             <MarkerCategory name="forsakenfortune" DisplayName="Forsaken Fortune" fadeNear="1600" fadeFar="2400">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="windycave" DisplayName="Windy Cave Treasure" fadeNear="1600" fadeFar="2400">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="magellansmemento" DisplayName="Magellan's Memento">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" color="E6E6E6"/>
             </MarkerCategory>
 
             <MarkerCategory name="separatormenu651" IsSeparator="1" DisplayName="RUINS OF ORR"/>
             <MarkerCategory name="shipofsorrows" DisplayName="Ship of Sorrows" fadeNear="1600" fadeFar="2400">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="tlwa" DisplayName="The Long Way Around" alpha="1" fadeNear="1200" fadeFar="1600">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="grounded" DisplayName="Grounded" fadeNear="600" fadeFar="900">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="cursed" DisplayName="Cursed Shore"/>
+                <MarkerCategory name="cursed" DisplayName="Cursed Shore" color="E6E6E6"/>
             </MarkerCategory>
             <MarkerCategory name="forgottenstream" DisplayName="Forgotten Stream" fadeNear="1600" fadeFar="2400">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="cursed" DisplayName="Cursed Shore"/>
+                <MarkerCategory name="cursed" DisplayName="Cursed Shore" color="E6E6E6"/>
             </MarkerCategory>
+
+            <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+
+            <MarkerCategory name="valdhertz" DisplayName="Valdhertz Crypts">
+                <MarkerCategory name="hot" DisplayName="Hall of Tribute" fadeNear="600" fadeFar="900">
+                    <MarkerCategory name="1" DisplayName="One"   iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two"   iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four"  iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five"  iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="hoh" DisplayName="Heads of Houses">
+                    <MarkerCategory name="one" DisplayName="Show as One Piece" color="E6E6E6"/>
+                    <MarkerCategory name="seg" DisplayName="Show as Segments" color="E6E6E6" defaulttoggle="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="tew" DisplayName="The Echovald Wilds" color="E6E6E6"/>
+            </MarkerCategory>
+            <!-- End Valdhertz Crypts -->  
+
+            <MarkerCategory name="vasburg" DisplayName="Vasburg Armory">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="tew" DisplayName="The Echovald Wilds" color="E6E6E6"/>
+            </MarkerCategory>
+            <!-- End Vasburg Armory -->  
+
         </MarkerCategory>
         
         <!-- END MINI DUNGEONS -->
