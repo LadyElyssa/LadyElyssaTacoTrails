@@ -2,6 +2,7 @@
     <POIs>
         
         <!-- MINI DUNGEONS -->
+        <!-- Core Maps -->
         <Trail type="legs.minidungeons.fontofrhand.diessa" trailData="Data/LadyElyssa/Mini Dungeons/Font of Rhand.trl"/>
         <Trail type="legs.minidungeons.rebelsseclusion.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Rebel's Seclusion.trl"/>
         <Trail type="legs.minidungeons.vexaslab.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab.trl"/>
@@ -23,6 +24,27 @@
         <Trail type="legs.minidungeons.tlwa.straits" trailData="Data/LadyElyssa/Mini Dungeons/The Long Way Around.trl"/>
         <Trail type="legs.minidungeons.grounded.cursed" trailData="Data/LadyElyssa/Mini Dungeons/Grounded.trl"/>
         <Trail type="legs.minidungeons.forgottenstream.cursed" trailData="Data/LadyElyssa/Mini Dungeons/Forgotten Stream.trl"/>
+
+        <!-- End of Dragons -->
+        <Trail type="legs.minidungeons.valdhertz.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/To Valdhertz Crypts.trl"/>
+        <Trail type="legs.minidungeons.valdhertz.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Valdhertz Crypts 1.trl"/>
+        <Trail type="legs.minidungeons.valdhertz.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Valdhertz Crypts 2 HoT.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <Trail type="legs.minidungeons.valdhertz.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Valdhertz Crypts 3.trl"/>
+        <Trail type="legs.minidungeons.valdhertz.hoh.seg" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Valdhertz Crypts 4 HoH Seg.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <Trail type="legs.minidungeons.valdhertz.hoh.one" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Valdhertz Crypts 4 HoH One.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <Trail type="legs.minidungeons.valdhertz.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Valdhertz Crypts 5.trl"/>
+        <POI MapID="1452" xpos="1126.87" ypos="30.4974" zpos="-147.974"     type="legs.minidungeons.valdhertz.hot.1" GUID="WR3aTcwYfUi93WPMA5bnUg=="/>
+        <POI MapID="1452" xpos="1124.25" ypos="30.4975" zpos="-149.328"     type="legs.minidungeons.valdhertz.hot.2" GUID="MKWfeB0LxkqKPUt7ip2hvA=="/>
+        <POI MapID="1452" xpos="1126.83" ypos="30.6703" zpos="-150.51"     type="legs.minidungeons.valdhertz.hot.3" GUID="XyQvWO6aoEiZneh/KCLQGQ=="/>
+        <POI MapID="1452" xpos="1124.41" ypos="30.4975" zpos="-151.442"     type="legs.minidungeons.valdhertz.hot.4" GUID="78WvcnFqE0yZewVK48gglg=="/>
+        <POI MapID="1452" xpos="1128.67" ypos="31.5524" zpos="-188.933"     type="legs.minidungeons.valdhertz.hot.5" GUID="fBNwjzWFwk2RkoxpCHixfw=="/>
+
+
+        <!-- Vasburg Armory -->
+        <Trail type="legs.minidungeons.vasburg.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Vasburg Armory 1.trl"/>
+        <Trail type="legs.minidungeons.vasburg.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Vasburg Armory 2.trl"/>
+        <Trail type="legs.minidungeons.vasburg.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Vasburg Armory 3.trl"/>
+        <Trail type="legs.minidungeons.vasburg.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Vasburg Armory 3b.trl"/>
         
         <!-- MINI-DUNGEONS - SHORTCUTS -->
         <Trail type="legs.mds.vexaslab.fireheart" trailData="Data/LadyElyssa/Mini Dungeons - Shortcut/Vexa's Lab.trl" color="ffff00"/>
