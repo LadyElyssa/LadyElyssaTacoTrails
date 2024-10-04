@@ -314,6 +314,46 @@
             </MarkerCategory>
             <!-- Plants -->
             <MarkerCategory name="plants" DisplayName="PLANTS" IsSeparator="1"/>
+            <MarkerCategory name="peppercorn" DisplayName="Black Peppercorn"/>
+
+            <MarkerCategory name="lettuce" DisplayName="Lettuce">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest - The Rowanwoods"/>
+                <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="onion" DisplayName="Onion">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="truffle" DisplayName="Orrian Truffle"/>
+
+            <MarkerCategory name="raspberry" DisplayName="Raspberry"/>
+
+            <MarkerCategory name="saffron" DisplayName="(Saffron Thread)">
+                <MarkerCategory name="crocus" DisplayName="Black Crocus, level 75-80 areas"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="sage" DisplayName="Sage Leaf">
+                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="seaweed" DisplayName="Seaweed">
+                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                <MarkerCategory name="ember" DisplayName="Ember Bay"/>
+                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="vanilla" DisplayName="Vanilla Bean">
+                <MarkerCategory name="seedlings" DisplayName="Herb Seedlings, level 1-25 areas"/>
+                <MarkerCategory name="sprouts" DisplayName="Herb Sprouts, level 15-45 areas"/>
+                <MarkerCategory name="mature" DisplayName="Mature Herbs, level 40-70 areas"/>
+            </MarkerCategory>
+
             <MarkerCategory name="blooming" DisplayName="Blooming Passiflora">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -378,8 +418,9 @@
                         <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
-                <MarkerCategory name="lws4" DisplayName="LWS4: Rise of Kralkatorrik   " IsSeparator="1"/>
-                <MarkerCategory name="kourna" DisplayName="Domain of Kourna" color="CEFF33"/>
+                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
             </MarkerCategory>
             <MarkerCategory name="flax" DisplayName="Flax">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -633,6 +674,38 @@
             </MarkerCategory>
             <!-- WOOD -->
             <MarkerCategory name="wood" DisplayName="WOOD" IsSeparator="1"/>
+            <!-- Ancient Wood -->
+            <MarkerCategory name="ancient" DisplayName="Ancient Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/trailarrow-wood.png">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wood" DisplayName="Toggle Hard Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Hard.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="number" DisplayName="Trail Segment">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                    </MarkerCategory>
+                    <!-- End Numbers -->
+                <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                <MarkerCategory name="LWS5" IsSeparator="1" DisplayName="LWS5"/>
+                <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+            </MarkerCategory>
             <!-- Elder Wood -->
             <MarkerCategory name="elderwood" DisplayName="Elder Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/trailarrow-wood.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>

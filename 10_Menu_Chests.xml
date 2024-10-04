@@ -163,7 +163,7 @@
                 <MarkerCategory name="ct" IsSeparator="1" DisplayName="CHEST TYPES"/>
                 <MarkerCategory name="bleached" DisplayName="Bleached Bones" iconFile="Data/LadyElyssa/Images/Icons/Bleached Bones.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="40"/>
                 <MarkerCategory name="branded" DisplayName="Branded Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_b.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="chest" DisplayName="Glorious Elonian Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="hidden" DisplayName="Hidden Chest" iconFile="Data/LadyElyssa/Images/Chest_Gold.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="lostforgotten" DisplayName="Lost &amp; Forgotten Chest" iconFile="Data/LadyElyssa/Images/Chest_Lost and Forgotten.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="scarab" DisplayName="Scarab Chest" iconFile="Data/LadyElyssa/Images/Chest_Scarab.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
@@ -323,6 +323,24 @@
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="Secrets of the Obscure"/>
             <MarkerCategory name="arcane" DisplayName="Arcane Chests">
                 <MarkerCategory name="greater" DisplayName="Toggle Greater Arcane Chests" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Arcane Chest Greater.png"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="shrine" DisplayName="Shrine Guardian Chests">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/LadyElyssa/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="chest" DisplayName="Toggle Shrine Guardian Chests" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="trail" DisplayName="Trail Segment">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                </MarkerCategory>
             </MarkerCategory>
 
             <MarkerCategory name="jw" IsSeparator="1" DisplayName="Janthir Wilds"/>

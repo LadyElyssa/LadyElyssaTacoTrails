@@ -2,8 +2,7 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP COMPLETION -->
         <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10">
-            <MarkerCategory name="region" IsSeparator="1" DisplayName="MAP REGION"/>
-            <MarkerCategory name="core" DisplayName="Core">
+            <MarkerCategory name="core" DisplayName="Core Maps">
             <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
             <MarkerCategory name="citadel" DisplayName="Black Citadel" texture="Data/LadyElyssa/Images/trailarrow-small.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
