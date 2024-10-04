@@ -608,12 +608,12 @@
         <POI MapID="1210" xpos="322.839" ypos="74.9608" zpos="-538.498" type="legs.chests.contracts.crystal.lostforgotten" GUID="ZtmpH6+ld0+GU6lDeSIleg=="/>
         <POI MapID="1210" xpos="742.934" ypos="124.641" zpos="-419.9" type="legs.chests.contracts.crystal.lostforgotten" GUID="KIYe/Mj5Pk+sNpgXmLdzSg=="/>
         <POI MapID="1210" xpos="855.07" ypos="152.68" zpos="-365.08" type="legs.chests.contracts.crystal.lostforgotten" GUID="WRturwN8xkSW9ziIs/swQg=="/>
+        <POI MapID="1210" xpos="755.104" ypos="192.538" zpos="-552.858" type="legs.chests.contracts.crystal.lostforgotten" GUID="PJNw88kg70i5Gt+wJr1IFA=="/>
         <POI MapID="1210" xpos="751.777" ypos="192.185" zpos="-541.937" type="legs.chests.contracts.crystal.branded" GUID="mcyekdvfJE2Ly/+356mN9w=="/>
-        <POI MapID="1210" xpos="755.104" ypos="192.538" zpos="-552.858" type="legs.chests.contracts.crystal.chest" GUID="PJNw88kg70i5Gt+wJr1IFA=="/>
-        <POI MapID="1210" xpos="751.896" ypos="192.212" zpos="-564.17" type="legs.chests.contracts.crystal.lostforgotten" GUID="hxfume32VUqj0Vla1O79bg=="/>
+        <POI MapID="1210" xpos="751.896" ypos="192.212" zpos="-564.17" type="legs.chests.contracts.crystal.chest" GUID="hxfume32VUqj0Vla1O79bg=="/>
         <POI MapID="1210" xpos="1208.79" ypos="385.598" zpos="474.851" type="legs.chests.contracts.crystal.branded" GUID="YHd5jPAyy0OV8bOZPiqWMw=="/>
         <POI MapID="1210" xpos="217.788" ypos="92.2385" zpos="-70.1619" type="legs.chests.contracts.crystal.lostforgotten" GUID="YSwYdK9PD067atVMCj//8A=="/>
-        <POI MapID="1210" xpos="671.378" ypos="187.537" zpos="457.573" type="legs.chests.contracts.trade" GUID="opn+B7XVy0u00ywx/ywxMA=="/>
+        <POI MapID="1210" xpos="671.378" ypos="187.537" zpos="457.573" type="legs.chests.contracts.crystal.chest" GUID="opn+B7XVy0u00ywx/ywxMA=="/>
         <POI MapID="1210" xpos="-1249" ypos="-33.0308" zpos="-212.248" type="legs.chests.contracts.crystal.bleached" GUID="R0/xINKkwESw6uvdW/5rwQ=="/>
         <POI MapID="1210" xpos="-1231.37" ypos="14.6282" zpos="-598.428" type="legs.chests.contracts.crystal.bleached" GUID="8MBpO9xsU0ugZLaQvsH6PA=="/>
         <POI MapID="1210" xpos="-895.843" ypos="87.7436" zpos="17.8732" type="legs.chests.contracts.crystal.bleached" GUID="at41Tr5u80SajAD096LvjQ=="/>
@@ -1294,14 +1294,174 @@
         <POI MapID="1517" xpos="10.1271" ypos="649.815" zpos="-115.244" type="legs.chests.arcane.greater" GUID="QxpXmrCkWEeq9gCUCads7Q=="/>
         <POI MapID="1517" xpos="79.5266" ypos="648.154" zpos="-123.404" type="legs.chests.arcane.greater" GUID="A1q29qB/60K/naGMwWtrRw=="/>
         <POI MapID="1517" xpos="413.413" ypos="384.999" zpos="426.043" type="legs.chests.arcane.greater" GUID="79+pNbrHhEm/Y5i5XLXcPQ=="/>
-        <!-- Lesser Arcane Chests -->
-        <!--
-  		  <POI MapID="1510" xpos="504.204" ypos="358.709" zpos="-104.814" type="legs.sotochests.lesser" GUID="iy7eCIicDke4H+mjOfbV+Q=="/>
-		  <POI MapID="1510" xpos="-891.334" ypos="554.824" zpos="116.939" type="legs.sotochests.lesser" GUID="g+Jc22buaEulY8VMNU3++g=="/>
-		  <POI MapID="1510" xpos="1021.93" ypos="333.885" zpos="334.928" type="legs.sotochests.lesser" GUID="cuNDNOmse0ykxVwKP1df1g=="/>
-        -->
+        <POI MapID="1517" xpos="369.342" ypos="384.975" zpos="426.339" type="legs.chests.arcane.greater" GUID="i7bYO2RAUEam/rZ07cJtQA=="/>
+        <POI MapID="1517" xpos="67.1319" ypos="648.154" zpos="-220.644" type="legs.chests.arcane.greater" GUID="FQoiQL95T0+X3iJsv5Hm7A=="/>
+        <POI MapID="1517" xpos="10.4992" ypos="679.041" zpos="-208.218" type="legs.chests.arcane.greater" GUID="jGrBqPnfYEqywEWcbTKQmg=="/>
+        <POI MapID="1526" xpos="156.424" ypos="426.646" zpos="-21.3947" type="legs.chests.arcane.greater" GUID="xohrzGbRw0a+s3lT5RqAhQ=="/>
+        <POI MapID="1526" xpos="101.41" ypos="285.087" zpos="-159.85" type="legs.chests.arcane.greater" GUID="AMl+2ZxAt0OTwVYXkjkZ+A=="/>
+        <POI MapID="1526" xpos="-164.673" ypos="310.871" zpos="-491.461" type="legs.chests.arcane.greater" GUID="H+wxN/KXV0epgPIDsrT4+A=="/>
+        <POI MapID="1526" xpos="-174.394" ypos="304.019" zpos="-69.6088" type="legs.chests.arcane.greater" GUID="2Vg75krpeUuImV8yb/PJpw=="/>
+        <POI MapID="1526" xpos="94.7113" ypos="308.159" zpos="554.087" type="legs.chests.arcane.greater" GUID="vdRdGrM91068ikGJFrd3wQ=="/>
+        <POI MapID="1526" xpos="25.1168" ypos="269.795" zpos="562.308" type="legs.chests.arcane.greater" GUID="R6VTUC9epUq4biO6DoPEMQ=="/>
+        <POI MapID="1526" xpos="966.883" ypos="226.942" zpos="355.552" type="legs.chests.arcane.greater" GUID="VRzNdI3SVk6xi7CafxAPPg=="/>
+        <POI MapID="1526" xpos="924.377" ypos="225.142" zpos="381.854" type="legs.chests.arcane.greater" GUID="y65uY1aYAkGrYTxsfSZXRQ=="/>
+        <POI MapID="1526" xpos="957.462" ypos="213.814" zpos="306.643" type="legs.chests.arcane.greater" GUID="dgLOyO+hX0eKqCdUnT88FQ=="/>
+
+        <!-- Shrine Guardian Chests -->
+        <!-- Skywatch Archipelago -->
+        <POI MapID="1510" xpos="906.705" ypos="133.644" zpos="-364.712" type="legs.chests.shrine.start" GUID="7dTv7STCFka2Yn6tOWF1Sg=="/>
+        <Trail type="legs.chests.shrine.trail.1" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 1.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.2" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 2.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.3" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 3.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.4" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 4.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.5" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 5.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.6" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 6.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.7" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 7.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.8" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 8.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.9" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 9.trl" color="ffcc00"/>
+        <POI MapID="1510" xpos="1044.75" ypos="143.792" zpos="-445.73" type="legs.chests.shrine.chest" GUID="qboO0HCiqkGEzXpTCaSO2w=="/>
+        <POI MapID="1510" xpos="1006.65" ypos="156.006" zpos="-521.249" type="legs.chests.shrine.chest" GUID="3ae/KyWXokyf4C1NJ5mEnQ=="/>
+        <POI MapID="1510" xpos="920.234" ypos="156.001" zpos="-531.9" type="legs.chests.shrine.chest" GUID="xkRakF5eZ0y8YfpFvuZWaQ=="/>
+        <POI MapID="1510" xpos="557.998" ypos="70.3148" zpos="-442.072" type="legs.chests.shrine.chest" GUID="jHtKjqxoRE+G9Ek7A8Cuow=="/>
+        <POI MapID="1510" xpos="826.726" ypos="218.409" zpos="-83.4964" type="legs.chests.shrine.chest" GUID="1DNlWNKG8kePTeikF5DyYw=="/>
+        <POI MapID="1510" xpos="606.973" ypos="305.309" zpos="0.0485522" type="legs.chests.shrine.chest" GUID="CTIIKu2jN02CDqClL03qfg=="/>
+        <POI MapID="1510" xpos="613.193" ypos="236.338" zpos="-131.766" type="legs.chests.shrine.chest" GUID="wM+LqRG/kkq/GZKa3DL3ZA=="/>
+        <POI MapID="1510" xpos="992.534" ypos="326.058" zpos="231.673" type="legs.chests.shrine.chest" GUID="QNTiL/5WakyaE5LfDBj+/w=="/>
+        <POI MapID="1510" xpos="1062.16" ypos="277.683" zpos="394.421" type="legs.chests.shrine.chest" GUID="ikBCfWnOEUW1dXXgKOorNg=="/>
+        <POI MapID="1510" xpos="706.558" ypos="404.067" zpos="264.445" type="legs.chests.shrine.chest" GUID="LKEkKBz43EOKZeMwADycMg=="/>
+        <POI MapID="1510" xpos="615.244" ypos="360.647" zpos="301.8" type="legs.chests.shrine.3chest0" GUID="9hgRAfThH0SVGHH+GFOS3Q=="/>
+        <POI MapID="1510" xpos="441.207" ypos="312.791" zpos="327.428" type="legs.chests.shrine.chest" GUID="4k3MfRkjj02hcI3W0IqDWA=="/>
+        <POI MapID="1510" xpos="602.349" ypos="343.675" zpos="342.25" type="legs.chests.shrine.chest" GUID="5mRWrHjaKUOwKyvb4opoeQ=="/>
+        <POI MapID="1510" xpos="47.9294" ypos="454.172" zpos="438.086" type="legs.chests.shrine.chest" GUID="xfkZ4rhAlUSYevfMfOX9sQ=="/>
+        <POI MapID="1510" xpos="-120.678" ypos="486.296" zpos="457.036" type="legs.chests.shrine.chest" GUID="X5RDQ2Gbukes98WSBtNVfQ=="/>
+        <POI MapID="1510" xpos="-196.111" ypos="455.328" zpos="73.334" type="legs.chests.shrine.chest" GUID="axfQgWXKukWuKHBFUKD3gQ=="/>
+        <POI MapID="1510" xpos="-79.8234" ypos="411.645" zpos="69.417" type="legs.chests.shrine.chest" GUID="dPCojaGAo062/pOIUdS7lg=="/>
+        <POI MapID="1510" xpos="65.7048" ypos="639.409" zpos="24.4559" type="legs.chests.shrine.chest" GUID="JUyOcIC6IUK8sa+Pjppd8Q=="/>
+        <POI MapID="1510" xpos="416.117" ypos="523.492" zpos="-341.45" type="legs.chests.shrine.chest" GUID="i/0ZXsnfZ0eDnmLkb5o1eQ=="/>
+        <POI MapID="1510" xpos="19.1502" ypos="300.465" zpos="-547.117" type="legs.chests.shrine.chest" GUID="zc4eLv85HkOrycR8NaUsqg=="/>
+        <POI MapID="1510" xpos="-238.59" ypos="276.461" zpos="-264.583" type="legs.chests.shrine.chest" GUID="UC0uqIdYtECENRJlHb0FeQ=="/>
+        <POI MapID="1510" xpos="-176.755" ypos="411.859" zpos="-141.195" type="legs.chests.shrine.chest" GUID="SMzRAAJ2t0mc3i5ir52hNQ=="/>
+        <POI MapID="1510" xpos="-397.648" ypos="543.518" zpos="-164.749" type="legs.chests.shrine.chest" GUID="UWajgiakCUmsKmM4FiBJHA=="/>
+        <POI MapID="1510" xpos="-344.502" ypos="275.977" zpos="-175.803" type="legs.chests.shrine.chest" GUID="UOuDLIf4Wk+PkxfEWSn3pA=="/>
+        <POI MapID="1510" xpos="-671.851" ypos="556.147" zpos="137.265" type="legs.chests.shrine.chest" GUID="vMf5EGg12EKRpdAp1L+QyQ=="/>
+        <POI MapID="1510" xpos="-870.213" ypos="824.617" zpos="402.434" type="legs.chests.shrine.chest" GUID="mE9kH9nPa06q8dvWV46+Hw=="/>
+        <POI MapID="1510" xpos="-528.12" ypos="854.606" zpos="533.326" type="legs.chests.shrine.chest" GUID="Fur9/bdEGUqd/x0Rxi09oQ=="/>
+        <POI MapID="1510" xpos="-434.533" ypos="642.409" zpos="281.04" type="legs.chests.shrine.chest" GUID="Ej+ZrgbDmkSvNudINltAGA=="/>
+        <POI MapID="1510" xpos="-461.241" ypos="503.001" zpos="239.996" type="legs.chests.shrine.chest" GUID="zHqXF6peCkWAuQlWcfFLHQ=="/>
+        <POI MapID="1510" xpos="-675.584" ypos="553.229" zpos="52.2932" type="legs.chests.shrine.chest" GUID="5DjCG6ZwUE+sRPgdkuysfg=="/>
+        <POI MapID="1510" xpos="-759.402" ypos="358.943" zpos="-218.036" type="legs.chests.shrine.chest9" GUID="lIrxyYEZpUqeJ9Dou67bdQ=="/>
+        <POI MapID="1510" xpos="-735.095" ypos="589.11" zpos="-354.589" type="legs.chests.shrine.chest" GUID="WcOXwpllqk2XIBbH9IjmWg=="/>
+        <POI MapID="1510" xpos="-830.905" ypos="442.144" zpos="-189.697" type="legs.chests.shrine.chest" GUID="nY7s8bszk0S7hOkCUDSyYg=="/>
+        <POI MapID="1510" xpos="781.96" ypos="665.947" zpos="594.784" type="legs.chests.shrine.chest" GUID="uj0GCtUDpkquAAdMiebzeg=="/>
+        <POI MapID="1510" xpos="68.3221" ypos="613.889" zpos="133.639" type="legs.chests.shrine.chest" GUID="VkZ63BB8lE23ZfRHMglW0A=="/>
+        <POI MapID="1510" xpos="285.458" ypos="556.938" zpos="173.138" type="legs.chests.shrine.chest" GUID="tHBcOvpinkOg8V+xU2W3Tg=="/>
+        <POI MapID="1510" xpos="-426.92" ypos="571.74" zpos="236.955" type="legs.chests.shrine.chest" GUID="MxyUN5DfR0ymXzSuyCGA/Q=="/>
+        <POI MapID="1510" xpos="965.952" ypos="185.85" zpos="-106.733" type="legs.chests.shrine.trail.2" GUID="IlXMDWhHrUyBF6wF/9LiGg=="/>
+        <POI MapID="1510" xpos="976.948" ypos="186.147" zpos="-102.731" type="legs.chests.shrine.trail.3" GUID="e83apjYCUES9DsPeOa/G/Q=="/>
+        <POI MapID="1510" xpos="580.422" ypos="311.769" zpos="449.775" type="legs.chests.shrine.trail.4" GUID="RYmzIkrHkUaSKNVd9AuFYA=="/>
+        <POI MapID="1510" xpos="104.062" ypos="438.194" zpos="562.535" type="legs.chests.shrine.trail.5" GUID="vf2xBDeOtk6Q3bIcmZBPLw=="/>
+        <POI MapID="1510" xpos="3.14184" ypos="400.836" zpos="-77.5823" type="legs.chests.shrine.trail.6" GUID="x933PPaQuUaCGVEJJjWOwg=="/>
+        <POI MapID="1510" xpos="10.9148" ypos="400.887" zpos="-72.5006" type="legs.chests.shrine.trail.7" GUID="sloQuojeeUmMf1jtXWFk2g=="/>
+        <POI MapID="1510" xpos="-640.048" ypos="549.607" zpos="161.082" type="legs.chests.shrine.trail.8" GUID="1QmHztw/FUeaollW8yvJmg=="/>
+        <POI MapID="1510" xpos="-648.141" ypos="549.397" zpos="159.7" type="legs.chests.shrine.trail.9" GUID="Rlc+CUkhr0GlstnlgVelSg=="/>
+        <POI MapID="1510" xpos="558.214" ypos="70.2637" zpos="-442.09" type="legs.chests.shrine.wp" GUID="+drQHnx/tEy1oouTDqBWfA==" copy="[&BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
+        <POI MapID="1510" xpos="613.251" ypos="236.393" zpos="-131.395" type="legs.chests.shrine.wp" GUID="cwVW3q5mSkmZ3+XTo88Wdg==" copy="[&BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
+        <POI MapID="1510" xpos="1062.07" ypos="277.695" zpos="394.014" type="legs.chests.shrine.wp" GUID="efHjqBRFL0G1mQ8+ndAsWw==" copy="[&BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
+        <POI MapID="1510" xpos="441.313" ypos="312.791" zpos="327.404" type="legs.chests.shrine.wp" GUID="tpA5W9ikjUG7JgIEJXzqDw==" copy="[&BEYOAAA=]" copy-message="Observation Camp Waypoint"/>
+        <POI MapID="1510" xpos="-120.892" ypos="486.27" zpos="457.031" type="legs.chests.shrine.wp" GUID="yRaQxYN37k6CkXCcs45Fbw==" copy="[&BD8OAAA=]" copy-message="Kestrel's Vow Waypoint"/>
+        <POI MapID="1510" xpos="-344.582" ypos="275.977" zpos="-175.702" type="legs.chests.shrine.wp" GUID="LZ11DiSn0EOMxXmdOLNeCQ==" copy="[&BD8OAAA=]" copy-message="Kestrel's Vow Waypoint"/>
+        <POI MapID="1510" xpos="-238.572" ypos="276.449" zpos="-264.629" type="legs.chests.shrine.wp" GUID="kdYgHziiy0eFtkdOigVKDg==" copy="[&BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
+        <!-- Amnytas -->
+        <!-- Fantastic Flying Foxes -->
+        <Trail type="legs.chests.shrine.trail.8" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 1.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.5" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 2.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.6" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 3.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.1" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 4.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.2" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 5.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.3" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 6.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.4" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 7.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.9" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 8.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.7" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 9.trl" color="e6b800"/>
+        <POI MapID="1517" xpos="110.617" ypos="458.716" zpos="326.15" type="legs.chests.shrine.chest" GUID="gqYWgQNQxUmni4EmKiqNOw=="/>
+        <POI MapID="1517" xpos="150.608" ypos="439.536" zpos="145.113" type="legs.chests.shrine.chest" GUID="VC39Q37t7U6y4yBjtJfKdA=="/>
+        <POI MapID="1517" xpos="-169.564" ypos="513.375" zpos="206.244" type="legs.chests.shrine.chest" GUID="ZRpn/1s6nESl14O4k0yzZw=="/>
+        <POI MapID="1517" xpos="-148.86" ypos="396.359" zpos="407.419" type="legs.chests.shrine.chest" GUID="7UFL10xTFk2x8fgxshUqDg=="/>
+        <POI MapID="1517" xpos="-571.996" ypos="590.171" zpos="734.381" type="legs.chests.shrine.chest" GUID="T3KqCOAckUSAFpx0qTMU3Q=="/>
+        <POI MapID="1517" xpos="-205.759" ypos="493.739" zpos="679.811" type="legs.chests.shrine.chest" GUID="CyAwxWD8nUu+9Q5Z3RoMig=="/>
+        <POI MapID="1517" xpos="-626.196" ypos="611.431" zpos="195.498" type="legs.chests.shrine.chest" GUID="QJsCYQyzVUWmk5QN0NF8hA=="/>
+        <POI MapID="1517" xpos="-633.618" ypos="510.872" zpos="-311.273" type="legs.chests.shrine.chest" GUID="7brQQGdgOUyj4Zjj/1NAZQ=="/>
+        <POI MapID="1517" xpos="-556.637" ypos="343.786" zpos="-657.356" type="legs.chests.shrine.chest" GUID="Zn7Bb6F4aEy7OkO4ib/oaQ=="/>
+        <POI MapID="1517" xpos="-436.048" ypos="274.024" zpos="-360.119" type="legs.chests.shrine.chest" GUID="DCVzpOyEBkuSUlEOw8oMgQ=="/>
+        <POI MapID="1517" xpos="-97.2287" ypos="224.852" zpos="-542.751" type="legs.chests.shrine.chest" GUID="pPwZ0ZX2SkaaXpj0JyTc4w=="/>
+        <POI MapID="1517" xpos="100.322" ypos="271.583" zpos="-341.243" type="legs.chests.shrine.chest" GUID="F5+3ybK0NUOXnRbKHOENqQ=="/>
+        <POI MapID="1517" xpos="271.24" ypos="363.365" zpos="-363.881" type="legs.chests.shrine.chest" GUID="dPoHKCOKPEq1gAOOnRRpAQ=="/>
+        <POI MapID="1517" xpos="120.564" ypos="312.151" zpos="-617.607" type="legs.chests.shrine.chest" GUID="jf7fYXC6qkS1vQ+G3k+XMA=="/>
+        <POI MapID="1517" xpos="343.4" ypos="212.202" zpos="-544.948" type="legs.chests.shrine.chest" GUID="xW8l6zFmPUqbnpu8Ox41dQ=="/>
+        <POI MapID="1517" xpos="636.881" ypos="409.532" zpos="-497.737" type="legs.chests.shrine.chest" GUID="+nEtBLOzJE+EZG4LtwehOw=="/>
+        <POI MapID="1517" xpos="701.629" ypos="319.079" zpos="-617.618" type="legs.chests.shrine.chest" GUID="y71NVE1kIUa6TyG9mOuYnA=="/>
+        <POI MapID="1517" xpos="745.393" ypos="318.527" zpos="-232.9" type="legs.chests.shrine.chest" GUID="Bg5GjnE2+EKaTMyrzirXvg=="/>
+        <POI MapID="1517" xpos="424.698" ypos="589.953" zpos="390.584" type="legs.chests.shrine.chest" GUID="8r0anUJ8e0u72VD2Myi6Aw=="/>
+        <POI MapID="1517" xpos="581.959" ypos="576.812" zpos="660.594" type="legs.chests.shrine.chest" GUID="NsbbKMhyokufJZJ8PxULMA=="/>
+        <POI MapID="1517" xpos="504.401" ypos="490.84" zpos="662.205" type="legs.chests.shrine.chest" GUID="bD3ZCOoQvUWcaiU2yLp5OQ=="/>
+        <POI MapID="1517" xpos="513.111" ypos="379.655" zpos="405.622" type="legs.chests.shrine.chest" GUID="gfG4YdXvjkGt4RJkBMsnDQ=="/>
+        <POI MapID="1517" xpos="498.236" ypos="336.026" zpos="192.434" type="legs.chests.shrine.chest" GUID="/7w/oF9/pE66Hf94ZzjERQ=="/>
+        <POI MapID="1517" xpos="49.3833" ypos="709.235" zpos="-114.624" type="legs.chests.shrine.chest" GUID="aPl/eDC3jkK/QgETFySiEA=="/>
+        <POI MapID="1517" xpos="-367.032" ypos="525.949" zpos="253.339" type="legs.chests.shrine.chest" GUID="uhde96gVekG7CEkqbLtSBQ=="/>
+        <POI MapID="1517" xpos="-79.9108" ypos="270.224" zpos="-418.452" type="legs.chests.shrine.trail.1" GUID="9piCPqXtSUO6vBGqMg7oLQ=="/>
+        <POI MapID="1517" xpos="-72.5578" ypos="270.219" zpos="-413.275" type="legs.chests.shrine.trail.2" GUID="FHRrRxIQNECaTvpvj3rmjw=="/>
+        <POI MapID="1517" xpos="687.492" ypos="290.931" zpos="-364.933" type="legs.chests.shrine.trail.3" GUID="Xrrn8eMM30eUu3Wmi84G0A=="/>
+        <POI MapID="1517" xpos="690.002" ypos="290.935" zpos="-362.008" type="legs.chests.shrine.trail.4" GUID="dcoVpxSUPUS5UCJMf8H8Tg=="/>
+        <POI MapID="1517" xpos="-164.071" ypos="395" zpos="568.715" type="legs.chests.shrine.trail.5" GUID="Tl8e+dEpdUulrh3wBUeZ3Q=="/>
+        <POI MapID="1517" xpos="-545.578" ypos="507.056" zpos="-68.5428" type="legs.chests.shrine.trail.6" GUID="2Pn0F6yYkE+oiF3mDnIsVg=="/>
+        <POI MapID="1517" xpos="38.4497" ypos="677.241" zpos="307.001" type="legs.chests.shrine.trail.9" GUID="5hpRwKrg9UGCeGA3EPhDaw=="/>
+        <POI MapID="1517" xpos="41.4557" ypos="677.24" zpos="307.007" type="legs.chests.shrine.trail.8" GUID="wplLhqLaZUeU+oCoh0EhgQ=="/>
+        <POI MapID="1517" xpos="40.2652" ypos="677.24" zpos="291.493" type="legs.chests.shrine.trail.7" GUID="iEru8NviPU6beAU6MGTUpA=="/>
+        <POI MapID="1517" xpos="-97.3113" ypos="224.851" zpos="-542.05" type="legs.chests.shrine.wp" GUID="plZ9hYZA8UGn/3Gk6mQq3Q==" copy="[&BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
+        <POI MapID="1517" xpos="343.135" ypos="212.202" zpos="-545.479" type="legs.chests.shrine.wp" GUID="7ywjdCOZ0kC0IIv46icYbA==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="701.554" ypos="319.079" zpos="-616.035" type="legs.chests.shrine.wp" GUID="B1KxFyaIZkipiZJyxycGfg==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="745.103" ypos="318.589" zpos="-233.917" type="legs.chests.shrine.wp" GUID="dFJzQB1cfU64Da5SA/ra1g==" copy="[&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="-626.482" ypos="611.43" zpos="195.657" type="legs.chests.shrine.wp" GUID="f5HsfaHouECsEq6CxYZQyQ==" copy="[&BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-436.312" ypos="274.01" zpos="-360.472" type="legs.chests.shrine.wp" GUID="el+Wl+WmCkOpIScNEOZtPQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="49.9049" ypos="709.23" zpos="-113.973" type="legs.chests.shrine.wp" GUID="mSokNQTXeUmVXLQ4lTz2TQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="-366.96" ypos="525.949" zpos="253.023" type="legs.chests.shrine.wp" GUID="G9ESrPpicUaxeEzcwba3Gw==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
 
 
+        <!-- Inner Nayos -->
+        <!-- No Chest Unopened -->
+        <POI MapID="1526" xpos="682.829" ypos="215.565" zpos="-444.164" type="legs.chests.shrine.start" GUID="JnuUwRzK00uUQ7hQJXwtMA=="/>
+        <Trail type="legs.chests.shrine.trail.1" trailData="Data/LadyElyssa/Chests/SotO/No Chest Unopened 1.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.2" trailData="Data/LadyElyssa/Chests/SotO/No Chest Unopened 2.trl" color="e6b800"/>
+        <POI MapID="1526" xpos="691.036" ypos="215.6" zpos="-435.967" type="legs.chests.shrine.trail.1" GUID="MbMxVqPuekOVSIgTguCUjw=="/>
+        <POI MapID="1526" xpos="695.372" ypos="215.188" zpos="-423.857" type="legs.chests.shrine.trail.2" GUID="fOtHyqN+ckG6ZKDKGICcaQ==" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="1526" xpos="437.207" ypos="280.808" zpos="407.195" type="legs.chests.shrine.chest" GUID="FycC64JuO0ifi14MDwY+AQ=="/>
+        <POI MapID="1526" xpos="556.444" ypos="228.832" zpos="144.205" type="legs.chests.shrine.chest" GUID="JVkbq/Q2MkODz6ftnLa5Vw=="/>
+        <POI MapID="1526" xpos="978.918" ypos="174.618" zpos="170.392" type="legs.chests.shrine.chest" GUID="33GeXESXGEyqqmeLznFMMg=="/>
+        <POI MapID="1526" xpos="818.874" ypos="190.345" zpos="-45.7944" type="legs.chests.shrine.chest" GUID="iIBgfWNpdUmPrnJ/CtPUUg=="/>
+        <POI MapID="1526" xpos="628.225" ypos="197.855" zpos="-118.219" type="legs.chests.shrine.chest" GUID="4q5YJtWjykaL/iBeKzxPjg=="/>
+        <POI MapID="1526" xpos="569.478" ypos="200.67" zpos="-232.629" type="legs.chests.shrine.chest" GUID="o9+xCPICMUyA/mh0alPdrQ=="/>
+        <POI MapID="1526" xpos="121.562" ypos="269.233" zpos="-489.902" type="legs.chests.shrine.chest" GUID="J3C2pmbR+kqocJuxJvTGgg=="/>
+        <POI MapID="1526" xpos="601.285" ypos="248.693" zpos="-452.74" type="legs.chests.shrine.chest" GUID="UvjwTYayNUaSOqoveafP+A=="/>
+        <POI MapID="1526" xpos="699.087" ypos="206.584" zpos="-359.681" type="legs.chests.shrine.chest" GUID="b44f59TWGESi6A3x7MUPpA=="/>
+        <POI MapID="1526" xpos="920.775" ypos="287.323" zpos="-266.531" type="legs.chests.shrine.chest" GUID="ULv6duOnpk6GRw1ijea3ew=="/>
+        <POI MapID="1526" xpos="978.795" ypos="174.511" zpos="170.818" type="legs.chests.shrine.wp" GUID="MVp0eLzrZkCpr/syIgSbAA==" copy="[&BHYOAAA=]" copy-message="Forward Bivouac Waypoint"/>
+        <!-- Shrine Finder -->
+        <POI MapID="1526" xpos="303.9438" ypos="186.2931" zpos="156.9433" type="legs.chests.shrine.trail.3" GUID="ut6sL0WkbECWy+fg6X0vPQ=="/>
+        <Trail type="legs.chests.shrine" trailData="Data/LadyElyssa/Chests/SotO/Shrine Finder.trl" color="e6b800"/>
+        <POI MapID="1526" xpos="151.727" ypos="283.74" zpos="359.239" type="legs.chests.shrine.chest" GUID="po3Nvoom202mY4nyW+ggMQ=="/>
+        <POI MapID="1526" xpos="116.154" ypos="309.642" zpos="474.654" type="legs.chests.shrine.chest" GUID="OEymdBxAFUW0tqDhX+YVkQ=="/>
+        <POI MapID="1526" xpos="-311.81" ypos="279.674" zpos="292.716" type="legs.chests.shrine.chest" GUID="O9hizc8kfEi7Fj6MSXC1AA=="/>
+        <POI MapID="1526" xpos="-209.724" ypos="349.998" zpos="-190.167" type="legs.chests.shrine.chest" GUID="fRUm6r+Nvku/XqxZpeTlsw=="/>
+        <POI MapID="1526" xpos="-1.28806" ypos="166.946" zpos="190.235" type="legs.chests.shrine.chest" GUID="dTw1rlue8kOt83VVqUb/Vg=="/>
+        <POI MapID="1526" xpos="-182.403" ypos="206.454" zpos="-7.04849" type="legs.chests.shrine.chest" GUID="Ga26JTi/gUeA0RwvLSURmw=="/>
+        <POI MapID="1526" xpos="321.285" ypos="202.809" zpos="-107.052" type="legs.chests.shrine.chest" GUID="jxTPRDP3gUG38ZEUy7+BfQ=="/>
+        <POI MapID="1526" xpos="433.495" ypos="296.192" zpos="184.672" type="legs.chests.shrine.chest" GUID="CAYdpeA1a0aEPwY6Rpn7lA=="/>
+        <POI MapID="1526" xpos="235.935" ypos="201.368" zpos="190.177" type="legs.chests.shrine.chest" GUID="Tw5JNUZ0CEKHOAgDvyAp1Q=="/>
+        <POI MapID="1526" xpos="53.7581" ypos="294.453" zpos="-175.632" type="legs.chests.shrine.chest" GUID="b73LJXSIikqxyjCQcmk1rw=="/>
+        <POI MapID="1526" xpos="36.0649" ypos="209.177" zpos="321.366" type="legs.chests.shrine.chest" GUID="WaP9JvDiXku/U+lQrXVZjw=="/>
+        <POI MapID="1526" xpos="-297.541" ypos="152.291" zpos="116.839" type="legs.chests.shrine.chest" GUID="+7LQXkp+2Em0KmIu+EobRQ=="/>
+        
+
+        
         <!-- Jade Wilds -->
         <!-- 
         Also for the Janthiri Treasure Hunter achievement 
