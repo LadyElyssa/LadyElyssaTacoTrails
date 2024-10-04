@@ -269,10 +269,10 @@
         <!-- Crystal Oasis -->
         <POI MapID="1210" xpos="-1126.41" ypos="30.6121" zpos="-616.497" type="legs.gathering.general.richmithril.mithril" GUID="XLvxMtUHf0qRvx5ZPnZ6CQ=="/>
         <POI MapID="1210" xpos="-903.387" ypos="37.63" zpos="688.982" type="legs.gathering.general.richmithril.mithril" GUID="yrdXuZ0ixki2xHzjEF0Z+A=="/>
+        
         <!-- LIVING WORLD SEASON 4 -->
         <!-- Domain of Istan -->
         <!-- Gathering - Rich Orichalcum Nodes -->
-        
         <Trail type="legs.gathering.general.richorich.sandswept" trailData="Data/LadyElyssa/Gathering/Rich Orich Nodes/Sandswept Isles.trl"/>
         <POI MapID="1271" xpos="-100.538" ypos="5.32453" zpos="685.841" GUID="gVY60IfUx0emzHJeLXUkDg==" type="legs.gathering.general.richorich.mount.springer"/>
         <POI MapID="1271" xpos="-70.627" ypos="24.5267" zpos="687.909" GUID="6VCXFI2INEC4eFzFlASphA==" type="legs.gathering.general.richorich.mount.raptor"/>
@@ -351,6 +351,31 @@
 
         
         <!-- PLANTS -->
+
+        <!-- Black Peppercorn -->
+
+        <!-- Lettuce -->
+        <Trail type="legs.gathering.general.lettuce.caledon" trailData="Data/LadyElyssa/Gathering/Plants/Caledon - Lettuce.trl"/>
+        <Trail type="legs.gathering.general.lettuce.queensdale" trailData="Data/LadyElyssa/Gathering/Plants/Queensdale - Lettuce.trl"/>
+
+        <!-- Onion -->
+
+        <!-- Orrian Truffle -->
+
+        <!-- Raspberry -->
+
+        <!-- Saffron -->
+
+        <!-- Sage Leaf -->
+        <Trail type="legs.gathering.general.sage.kourna" trailData="Data/LadyElyssa/Gathering/Plants/Kourna - Desert Herbs.trl"/>
+        <Trail type="legs.gathering.general.sage.sandswept" trailData="Data/LadyElyssa/Gathering/Plants/Sandswept - Desert Herbs.trl"/>
+
+        <!-- Seaweed -->
+        <Trail type="legs.gathering.general.seaweed.ember" trailData="Data/LadyElyssa/Gathering/Plants/Ember Bay - Seaweed.trl"/>
+        <Trail type="legs.gathering.general.seaweed.thunderhead" trailData="Data/LadyElyssa/Gathering/Plants/Thunderhead - Seaweed.trl"/>
+
+        <!-- Vanilla Bean -->
+
 
         <!-- Blooming Passiflora -->
         <!-- Southsun Cove -->
@@ -822,6 +847,8 @@
         <POI MapID="1288" xpos="-668.564" ypos="38.211" zpos="795.933" type="legs.gathering.general.desert.herbs" GUID="8+7+4cSJREWvROf5Ln8GzA=="/>
         <POI MapID="1288" xpos="-704.33" ypos="29.3516" zpos="792.463" type="legs.gathering.general.desert.herbs" GUID="uGn+s4B4/0eW6ry77SHRuQ=="/>
         <POI MapID="1288" xpos="-691.568" ypos="29.5516" zpos="778.239" type="legs.gathering.general.desert.herbs" GUID="ftj4saUmTUeUSFOAQv+w4A=="/>
+        <!-- Sandswept Isles -->
+        <Trail type="legs.gathering.general.desert.sandswept" trailData="Data/LadyElyssa/Gathering/Plants/Sandswept - Desert Herbs.trl"/>
         
         <!-- Janthir Wilds -->
 
