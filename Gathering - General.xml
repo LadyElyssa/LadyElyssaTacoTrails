@@ -16,12 +16,20 @@
 
         <Trail type="legs.gathering.general.richcopper.queensdale" trailData="Data/LadyElyssa/Gathering/Rich Copper Nodes/Queensdale 1.trl"/>
         <Trail type="legs.gathering.general.richcopper.queensdale" trailData="Data/LadyElyssa/Gathering/Rich Copper Nodes/Queensdale 2.trl"/>
+        <Trail type="legs.gathering.general.richcopper.queensdale" trailData="Data/LadyElyssa/Gathering/Rich Copper Nodes/Queensdale 3.trl"/>
+        <Trail type="legs.gathering.general.richcopper.queensdale" trailData="Data/LadyElyssa/Gathering/Rich Copper Nodes/Queensdale 4.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="15" xpos="699.613" ypos="57.9323" zpos="-595.795" type="legs.gathering.general.richcopper" GUID="/lt/CvWRnE64sezLNQAqTw==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="To open the door use the /threaten emote"/>
-        <POI MapID="15" xpos="70.6969" ypos="24.6564" zpos="-107.077" type="legs.gathering.general.richcopper.node" GUID="IdswsihcH0S3zhpsoSzB1w=="/>
-        <POI MapID="15" xpos="69.33533" ypos="22.55245" zpos="-108.67" GUID="j7wucTah4k2IgX84btlqgQ==" copy="[&BJgDAAA=]" copy-message="Guardpoint Decimus Waypoint&#xA;Plains of Ashford" type="legs.gathering.general.richcopper.wp"/>
+
         <POI MapID="15" xpos="687.625" ypos="60.5272" zpos="-642.22" type="legs.gathering.general.richcopper.node" GUID="vhwavbCD0ECYjjH3ZIdUEw=="/>
         <POI MapID="15" xpos="688.964" ypos="59.1917" zpos="-642.379" GUID="PqueLh8bq0uB8d3ZTlXDgA==" copy="[&BPMAAAA=]" copy-message="Phinney Ridge Waypoint" type="legs.gathering.general.richcopper.wp"/>
-        
+
+        <POI MapID="15" xpos="70.6969" ypos="24.6564" zpos="-107.077" type="legs.gathering.general.richcopper.node" GUID="IdswsihcH0S3zhpsoSzB1w=="/>
+        <POI MapID="15" xpos="69.33533" ypos="22.55245" zpos="-108.67" GUID="j7wucTah4k2IgX84btlqgQ==" copy="[&BPkAAAA=]" copy-message="Ojon's Lumbermill Waypoint" type="legs.gathering.general.richcopper.wp"/>
+
+        <POI MapID="15" xpos="343.517" ypos="-1.98898" zpos="719.955" type="legs.gathering.general.richcopper.node" GUID="ORb9OCDFBkSzS1V//QoiOQ=="/>
+        <POI MapID="15" xpos="342.3992" ypos="-3.961953" zpos="719.539" GUID="2RNAmtq+jkyROtTsx9LdGA==" copy="[&BJgDAAA=]" copy-message="Guardpoint Decimus Waypoint&#xA;Plains of Ashford" type="legs.gathering.general.richcopper.wp"/>
+
+
         <!-- Ascalon -->
 
         <Trail type="legs.gathering.general.richcopper.ashford" trailData="Data/LadyElyssa/Gathering/Rich Copper Nodes/Plains of Ashford 1.trl"/>
@@ -227,6 +235,7 @@
         <POI MapID="65" xpos="1122.05" ypos="15.8387" zpos="450.811" type="legs.gathering.general.richmithril.wp" GUID="V+FxtSs4G0emqXpiUgdY5A==" copy="[&BLICAAA=]" copy-message="Lights Waypoint"/>
         <POI MapID="65" xpos="-839.28" ypos="9.02099" zpos="158.549" type="legs.gathering.general.richmithril.mithril" GUID="CW9Jl2VTnE6bUYxcLxncdQ=="/>
         <POI MapID="65" xpos="1122.23" ypos="16.0369" zpos="451.17" type="legs.gathering.general.richmithril.mithril" GUID="peLFVDY4kEGIC7OFE6r/cQ=="/>
+        <POI MapID="65" xpos="593.25" ypos="-47.6045" zpos="345.466" type="legs.gathering.general.richmithril.mithril" GUID="9+BgTpWJ00yc9CM7CmOe7A=="/>
         <Trail type="legs.gathering.general.richmithril.cursedshore" trailData="Data/LadyElyssa/Gathering/Rich Mithril Nodes/Cursed Shore.trl"/>
         <POI MapID="62" xpos="-34.7267" ypos="28.8853" zpos="-62.5139" GUID="Ow5oIeOYrESmg/T24SRcyw==" type="legs.gathering.general.richmithril.mount.jackal"/>
         <POI MapID="62" xpos="-210.244" ypos="-0.793865" zpos="-8.97504" GUID="Hkxgeo5mMUOokAA9MxZsnw==" type="legs.gathering.general.richmithril.mount.skimmer"/>
@@ -352,29 +361,255 @@
         
         <!-- PLANTS -->
 
-        <!-- Black Peppercorn -->
+        <!-- HERBS -->
+        <!-- Fireheart Rise -->
+        <POI MapID="22" xpos="-247.151" ypos="22.4348" zpos="-605.095" type="legs.gathering.general.verdant.herbs" GUID="M/G4WTr+UEunnA+ElWberw=="/>
+        <POI MapID="22" xpos="-81.9975" ypos="17.1675" zpos="-503.337" type="legs.gathering.general.verdant.herbs" GUID="16CGPGGrQkCL5SZEDZ9XVg=="/>
+        <POI MapID="22" xpos="-664.258" ypos="47.5591" zpos="-378.095" type="legs.gathering.general.verdant.herbs" GUID="EdUH5jdBikmj6F04Nbnl6w=="/>
+        <POI MapID="22" xpos="-690.906" ypos="48.8066" zpos="-300.518" type="legs.gathering.general.verdant.herbs" GUID="0oiMGrGuxEWSB7QKEqdDww=="/>
+        <POI MapID="22" xpos="-588.594" ypos="48.8983" zpos="-212.182" type="legs.gathering.general.verdant.herbs" GUID="wXp4ehvPJEKJVJVEBgboUw=="/>
+        <POI MapID="22" xpos="-862.861" ypos="59.8476" zpos="-694.287" type="legs.gathering.general.verdant.herbs" GUID="A5EzS0Z6p0iXG0FKf/EFdw=="/>
+        <!-- Mount Maelstrom -->
+        <POI MapID="39" xpos="188.833" ypos="5.79926" zpos="-154.779" type="legs.gathering.general.herbs.node" GUID="IB8o2oW3h0KSr1HpURqGcQ=="/>
+        <POI MapID="39" xpos="209.081" ypos="3.07234" zpos="-110.457" type="legs.gathering.general.herbs.node" GUID="2KBCphEEYkugnRktFJN+WA=="/>
+        <POI MapID="39" xpos="15.3043" ypos="0.420919" zpos="240.819" type="legs.gathering.general.herbs.node" GUID="7cV+dj+gSUWvx/iL3aD7Pg=="/>
+        <POI MapID="39" xpos="51.1409" ypos="3.96115" zpos="254.349" type="legs.gathering.general.herbs.node" GUID="w17E5ujACUCSeZRcRp3/DQ=="/>
+        <POI MapID="39" xpos="72.3448" ypos="3.96733" zpos="-168.071" type="legs.gathering.general.herbs.node" GUID="10c8xbOhJk6dQWoCBt+ifg=="/>
+        <POI MapID="39" xpos="78.5534" ypos="2.90506" zpos="-98.4175" type="legs.gathering.general.herbs.node" GUID="KIVf3Si/J0yLv7WJSr2FMw=="/>
+        <!-- Straits Of Devastation -->
+        <POI MapID="51" xpos="399.289" ypos="4.27938" zpos="714.794" type="legs.gathering.general.herbs.node" GUID="hotmY4o2sESPxvFHiJiTcw=="/>
+        <POI MapID="51" xpos="766.523" ypos="14.5386" zpos="512.337" type="legs.gathering.general.herbs.node" GUID="zPvu2QI/oEedY2o5dcCmxw=="/>
+        <POI MapID="51" xpos="631.398" ypos="18.3195" zpos="381.57" type="legs.gathering.general.herbs.node" GUID="WjvWM+XDoU6QIu8nTv5ukA=="/>
+        <POI MapID="51" xpos="910.405" ypos="47.8884" zpos="20.0361" type="legs.gathering.general.herbs.node" GUID="0O3m/TpUZ02Zl2VzN7RZrg=="/>
+        <POI MapID="51" xpos="840.173" ypos="41.5679" zpos="-56.1353" type="legs.gathering.general.herbs.node" GUID="7iHUQye+1Ui1D8ZDR5HJNQ=="/>
 
-        <!-- Lettuce -->
+        <!-- ARTICHOKE -->
+        <!-- Mount Maelstrom -->
+        <Trail type="legs.gathering.general.artichoke.maelstrom" trailData="Data/LadyElyssa/Gathering/Plants/Artichoke - Mount Maelstrom.trl"/>
+        <POI MapID="39" xpos="217.561" ypos="37.7471" zpos="-156.402" type="legs.gathering.general.artichoke.node" GUID="X/+eIqKaI0W1+fW1eEZHSA=="/>
+        <!-- Straits Of Devastation -->
+        <Trail type="legs.gathering.general.artichoke.straits" trailData="Data/LadyElyssa/Gathering/Plants/Artichoke - Straits of Devastation.trl"/>
+        <POI MapID="51" xpos="820.515" ypos="58.3668" zpos="689.089" type="legs.gathering.general.artichoke.node" GUID="CRwo5aj58U2x+q2vmYdcOg=="/>
+        <!-- Path Of Fire -->
+        <Trail type="legs.gathering.general.artichoke.dov" trailData="Data/LadyElyssa/Gathering/Plants/Artichoke - Domain of Vabbi.trl"/>
+        <POI MapID="1248" xpos="-970.898" ypos="261.464" zpos="-925.667" type="legs.gathering.general.artichoke.node" GUID="ofAB6Ig38EuvOkTie+tpow=="/>
+
+        <!-- ASPARAGUS -->
+        <!-- Fireheart Rise -->
+        <POI MapID="22" xpos="-170.724" ypos="31.5145" zpos="-755.363" type="legs.gathering.general.asparagus.node" GUID="cRodUlYHJ0yZjjxsP2OJFg=="/>
+        <POI MapID="22" xpos="-149.733" ypos="16.2992" zpos="-507.074" type="legs.gathering.general.asparagus.node" GUID="Ef/LQ7qPUUS2/CxmJeVcyQ=="/>
+        <POI MapID="22" xpos="-154.764" ypos="65.7803" zpos="461.943" type="legs.gathering.general.asparagus.node" GUID="NhlE1eezCEyvXHucHPuzqg=="/>
+        <POI MapID="22" xpos="-100.08" ypos="60.1669" zpos="453.08" type="legs.gathering.general.asparagus.node" GUID="Dap6AeqlMk6PSi6bngDQ5Q=="/>
+        <POI MapID="22" xpos="-291.384" ypos="35.3853" zpos="128.544" type="legs.gathering.general.asparagus.node" GUID="Wax2pOXa/UiXn0CAj5p/mA=="/>
+        <POI MapID="22" xpos="-144.39" ypos="62.8789" zpos="-77.5769" type="legs.gathering.general.asparagus.node" GUID="+mLC2IGVAkyut651ZW79Cg=="/>
+        <!-- Mount Maelstrom -->
+        <POI MapID="39" xpos="388.5" ypos="30.1567" zpos="427.954" type="legs.gathering.general.asparagus.node" GUID="G6QFj114g0yqDP+yw1v2Tg=="/>
+        <POI MapID="39" xpos="336.759" ypos="23.7147" zpos="386.689" type="legs.gathering.general.asparagus.node" GUID="5Rk0Z++I40GjRcxmmqVJUQ=="/>
+        <POI MapID="39" xpos="-988.559" ypos="13.4973" zpos="-16.1548" type="legs.gathering.general.asparagus.node" GUID="6Pl1Q3Wu/0usrfV9flllHw=="/>
+        <POI MapID="39" xpos="-1085.6" ypos="33.8166" zpos="-79.0604" type="legs.gathering.general.asparagus.node" GUID="LuYOvrFVoEaA1UVoDbPYhA=="/>
+        <POI MapID="39" xpos="741.994" ypos="9.09478" zpos="-486.039" type="legs.gathering.general.asparagus.node" GUID="e9HBIYGQ2EG7hOTwtR+7gw=="/>
+        <POI MapID="39" xpos="824.392" ypos="5.76003" zpos="-617.866" type="legs.gathering.general.asparagus.node" GUID="NxXTf2NKf0GD5QVuww5ubw=="/>
+        <!-- Straits Of Devastation -->
+        <POI MapID="51" xpos="832.536" ypos="14.9253" zpos="335.085" type="legs.gathering.general.asparagus.node" GUID="NQ4ibIU+ckulDvpHrYXawA=="/>
+        <POI MapID="51" xpos="810.406" ypos="33.333" zpos="573.404" type="legs.gathering.general.asparagus.node" GUID="EOHD3Y+T7ECqCdDBNeGDkw=="/>
+        <POI MapID="51" xpos="761.751" ypos="79.0997" zpos="756.785" type="legs.gathering.general.asparagus.node" GUID="rQCOtPzoiUqqsgK37ES8WA=="/>
+        <POI MapID="51" xpos="460.418" ypos="36.862" zpos="721.121" type="legs.gathering.general.asparagus.node" GUID="fhTKmIlz4U62zrhSsKKD0A=="/>
+        <POI MapID="51" xpos="825.913" ypos="32.9034" zpos="-32.4277" type="legs.gathering.general.asparagus.node" GUID="28gUwc5EaES10nuqu2QNJw=="/>
+        <POI MapID="51" xpos="-640.491" ypos="7.12288" zpos="212.262" type="legs.gathering.general.asparagus.node" GUID="Ok+IBxqp7UmlnBdjHgb0jA=="/>
+        <POI MapID="51" xpos="-709.796" ypos="16.3001" zpos="282.498" type="legs.gathering.general.asparagus.node" GUID="Q2Y8RYbTlEmp/IeXVNhGQA=="/>
+        <POI MapID="51" xpos="-782.819" ypos="13.3" zpos="245.352" type="legs.gathering.general.asparagus.node" GUID="tylyVvwHD0GxA0GN+5sHYQ=="/>
+        <POI MapID="51" xpos="-591.093" ypos="31.9534" zpos="-355.685" type="legs.gathering.general.asparagus.node" GUID="fZaQOa4NmEmBrKPibnJlsQ=="/>
+        <POI MapID="51" xpos="-496.216" ypos="15.41" zpos="-332.977" type="legs.gathering.general.asparagus.node" GUID="Q3sIQQzbXkq7nsgRuxC1uA=="/>
+        <POI MapID="51" xpos="-429.791" ypos="23.1398" zpos="-566.388" type="legs.gathering.general.asparagus.node" GUID="dVJpbj1gTUCg4f7sPPK/+g=="/>
+        <!-- LWS3 - Grothmar Valley -->
+        <POI MapID="1330" xpos="-525.304" ypos="30.1364" zpos="218.886" type="legs.gathering.general.verdant.herbs" GUID="EfJWpfsgVkSwCsjk9JMvGQ=="/>
+        <POI MapID="1330" xpos="30.3991" ypos="87.4452" zpos="419.794" type="legs.gathering.general.asparagus.node" GUID="Ru7JpmY+KEeHoCKZdAKU9A=="/>
+        <POI MapID="1330" xpos="-429.909" ypos="70.815" zpos="-451.878" type="legs.gathering.general.asparagus.node" GUID="sIcaFI2KaUuRPSiXN3dOtQ=="/>
+        <POI MapID="1330" xpos="271.324" ypos="65.5156" zpos="-385.109" type="legs.gathering.general.asparagus.node" GUID="tIs28TSaAUWI+Cd4YqRY/w=="/>
+        <POI MapID="1330" xpos="154.471" ypos="26.5143" zpos="-448.117" type="legs.gathering.general.asparagus.node" GUID="Ws1G8hbBOEu4Bt1Ez7Fa5w=="/>
+
+
+        <!-- BLACK PEPPERCORN -->
+        <!-- Dredgehaunt -->
+        <POI MapID="26" xpos="159.844" ypos="93.0188" zpos="842.388" type="legs.gathering.general.herbs.peppercorn.node" GUID="qvgTkH1Vc0ihz3abyiiPeg=="/>
+        <POI MapID="26" xpos="475.52" ypos="76.7129" zpos="-185.937" type="legs.gathering.general.herbs.peppercorn.node" GUID="1uha2P/CNEqMMt4+74uCQA=="/>
+        <POI MapID="26" xpos="336.357" ypos="80.7685" zpos="-169.106" type="legs.gathering.general.herbs.peppercorn.node" GUID="zO7kiyQsyEOYysvgTzL1jw=="/>
+        <POI MapID="26" xpos="-431.926" ypos="94.9646" zpos="-515.403" type="legs.gathering.general.herbs.peppercorn.node" GUID="tlkTrW1sY0me5qcKCfvyXA=="/>
+        <POI MapID="26" xpos="-429.302" ypos="68.287" zpos="-27.1796" type="legs.gathering.general.herbs.peppercorn.node" GUID="EKcoNlLHs0SKOlUQSI0brQ=="/>
+        <POI MapID="26" xpos="-280.583" ypos="55.0665" zpos="257.863" type="legs.gathering.general.herbs.peppercorn.node" GUID="ORhCyZlOeU6uUpo5wpV72Q=="/>   
+        <POI MapID="26" xpos="-486.71" ypos="3.74027" zpos="586.771" type="legs.gathering.general.herbs.peppercorn.node" GUID="NWCT/U7GhUqcb6ZjcZIFQg=="/>
+        <!-- Lornar's Pass -->
+        <POI MapID="27" xpos="-381.606" ypos="64.1723" zpos="-8.17829" type="legs.gathering.general.herbs.peppercorn.node" GUID="gzxV4EYASkapv/UjEYYvkg=="/>
+        <POI MapID="27" xpos="-382.298" ypos="47.0657" zpos="-269.404" type="legs.gathering.general.herbs.peppercorn.node" GUID="l8Br6MrHw0qrJ97mNyH0LQ=="/>
+        <POI MapID="27" xpos="-37.7638" ypos="21.5716" zpos="-808.52" type="legs.gathering.general.herbs.peppercorn.node" GUID="azIK+5f5UkeBrxjWeNpZmw=="/>
+        <POI MapID="27" xpos="-152.051" ypos="14.2347" zpos="-1115.8" type="legs.gathering.general.herbs.peppercorn.node" GUID="O9fMtf9+wE2wzFBZ1rJjfQ=="/>
+        <POI MapID="27" xpos="-240.902" ypos="26.3682" zpos="-1077.24" type="legs.gathering.general.herbs.peppercorn.node" GUID="rrtSZeAuQUuJVU2xY7z/qw=="/>
+        <POI MapID="27" xpos="299.958" ypos="158.036" zpos="1121.34" type="legs.gathering.general.herbs.peppercorn.node" GUID="W0w9zxgVykGB4/IXgY66wQ=="/>
+        <POI MapID="27" xpos="146.251" ypos="159" zpos="1268.35" type="legs.gathering.general.herbs.peppercorn.node" GUID="bVIBQ/kGKUqvtctlIhXERQ=="/>
+        <POI MapID="27" xpos="58.2959" ypos="87.4697" zpos="1122.61" type="legs.gathering.general.herbs.peppercorn.node" GUID="ehsW8BikWE2XEq0X9FZ4rA=="/>
+        <!-- Queensdale -->
+        <POI MapID="15" xpos="863.522" ypos="22.0274" zpos="214.741" type="legs.gathering.general.herbs.peppercorn.node" GUID="v15qPQCts0qlbdYxgPnWIQ=="/>
+        <POI MapID="15" xpos="75.7981" ypos="26.1564" zpos="-347.53" type="legs.gathering.general.herbs.peppercorn.node" GUID="gm90sgFu10ia7vDcx0B+Ow=="/>
+        <POI MapID="15" xpos="-658.283" ypos="12.5188" zpos="-140.928" type="legs.gathering.general.herbs.peppercorn.node" GUID="rTdhdD8kiUSwYwlK4N0JXA=="/>
+        <POI MapID="15" xpos="-620.459" ypos="29.3119" zpos="-364.454" type="legs.gathering.general.herbs.peppercorn.node" GUID="UNFkF7lQ50O/I8PPIyLmkw=="/>
+        <!-- Wayfarer Foothills -->
+        <POI MapID="28" xpos="-108.615" ypos="66.3068" zpos="-166.415" type="legs.gathering.general.herbs.peppercorn.node" GUID="lgda3OLzv0mgr9UiYr7ENw=="/>
+        <POI MapID="28" xpos="88.1942" ypos="42.5673" zpos="-95.5116" type="legs.gathering.general.herbs.peppercorn.node" GUID="J+zDhKOqyEm+5KGrb/oUQA=="/>
+        <POI MapID="28" xpos="-129.386" ypos="47.9274" zpos="-52.6408" type="legs.gathering.general.herbs.onion.node" GUID="0NtA7rCSO0ymFPVlgobQ8Q=="/>
+        <POI MapID="28" xpos="141.57" ypos="154.947" zpos="1104.85" type="legs.gathering.general.herbs.peppercorn.node" GUID="FGfw3hik7kWINQ3gmR7uSg=="/>
+        <POI MapID="28" xpos="124.572" ypos="201.184" zpos="1211.45" type="legs.gathering.general.herbs.peppercorn.node" GUID="FzSjXngLT0C2YC//j1t8fw=="/>
+
+        <!-- LETTUCE -->
         <Trail type="legs.gathering.general.lettuce.caledon" trailData="Data/LadyElyssa/Gathering/Plants/Caledon - Lettuce.trl"/>
         <Trail type="legs.gathering.general.lettuce.queensdale" trailData="Data/LadyElyssa/Gathering/Plants/Queensdale - Lettuce.trl"/>
 
-        <!-- Onion -->
+        <!-- ONION -->
+        <!-- Dredgehaunt -->
+        <POI MapID="26" xpos="-85.212" ypos="66.8449" zpos="674.579" type="legs.gathering.general.onion.node" GUID="NoWAtxiETEGQQ90S5JBCCg=="/>
+        <POI MapID="26" xpos="505.737" ypos="63.1943" zpos="-144.918" type="legs.gathering.general.onion.node" GUID="9up2zYBEcUGlZNMBnb3YZw=="/>
+        <POI MapID="26" xpos="-463.444" ypos="4.3754" zpos="601.087" type="legs.gathering.general.onion.node" GUID="L/QzBBBK90ih1GjxG629WQ=="/>
+        <POI MapID="26" xpos="222.192" ypos="74.67" zpos="119.641" type="legs.gathering.general.onion.node" GUID="EcxfE3yjS0CHSewpvtjoqQ=="/>
+        <!-- Lornar's Pass -->
+        <POI MapID="27" xpos="146.251" ypos="159" zpos="1268.35" type="legs.gathering.general.peppercorn.node" GUID="bVIBQ/kGKUqvtctlIhXERQ=="/>
+        <POI MapID="27" xpos="58.2959" ypos="87.4697" zpos="1122.61" type="legs.gathering.general.peppercorn.node" GUID="ehsW8BikWE2XEq0X9FZ4rA=="/>
+        <POI MapID="27" xpos="-450.321" ypos="142.917" zpos="903.914" type="legs.gathering.general.onion.node" GUID="4InmAoxGMEulQJRQF9LvbA=="/>
+        <POI MapID="27" xpos="262.729" ypos="144.8" zpos="445.552" type="legs.gathering.general.onion.node" GUID="HEvAoKCQ8USbQT5c4PThaw=="/>
+        <POI MapID="27" xpos="-349.368" ypos="42.3356" zpos="-76.1296" type="legs.gathering.general.onion.node" GUID="OkVkPPy8m0aNcKS8MTb0Qw=="/>
+        <POI MapID="27" xpos="310.608" ypos="158.331" zpos="1196.43" type="legs.gathering.general.onion.node" GUID="LRwvqxSXikei8XdZ+Fac8g=="/>
+        <!-- Queensdale -->
+        <POI MapID="15" xpos="663.752" ypos="31.0234" zpos="155.449" type="legs.gathering.general.onion.node" GUID="4NSrplh1eEm9TlhCv9wllw=="/>
+        <POI MapID="15" xpos="901.09" ypos="21.9329" zpos="341.846" type="legs.gathering.general.onion.node" GUID="62tvgU3UPUaP14vhTMWNjw=="/>
+        <POI MapID="15" xpos="74.4819" ypos="0.567269" zpos="574.3" type="legs.gathering.general.onion.node" GUID="+hQNPtfPYEeUR8VsWUscHQ=="/>
+        <POI MapID="15" xpos="-986.086" ypos="14.0339" zpos="-493.401" type="legs.gathering.general.onion.node" GUID="b/RUQFVPSUy3Ax5Q8dfTMg=="/>
+        <!-- Wayfarer Foothills -->
+        <POI MapID="28" xpos="-9.49523" ypos="90.0771" zpos="575.7" type="legs.gathering.general.onion.node" GUID="Vas1lHxut06kLPv+6oPIzQ=="/>
+        <POI MapID="28" xpos="77.9823" ypos="38.0031" zpos="-142.073" type="legs.gathering.general.onion.node" GUID="kGym/O4iX06JZZ3uBX7T9A=="/>
+        <POI MapID="28" xpos="304.232" ypos="74.2566" zpos="256.97" type="legs.gathering.general.onion.node" GUID="Kyqk+NMJck6qBYRUo7OX4g=="/>
+        <POI MapID="28" xpos="-282.952" ypos="112.832" zpos="495.203" type="legs.gathering.general.onion.node" GUID="4lRAqSCBykGCrvXc8jpomg=="/>
+        <POI MapID="28" xpos="-263.048" ypos="129.692" zpos="826.153" type="legs.gathering.general.onion.node" GUID="ceHTy5KpT0iqVW171w4Png=="/>
+        <!-- Harathi Hinterlands -->
+        <POI MapID="17" xpos="-452.013" ypos="52.3871" zpos="-414.383" type="legs.gathering.general.onion.node" GUID="grGKW/ZymECkKoYbdgqyoQ=="/>
+        <POI MapID="17" xpos="-484.238" ypos="53.4796" zpos="-376.857" type="legs.gathering.general.onion.node" GUID="GTxX7KfKHEie5wLtwioMvw=="/>
 
-        <!-- Orrian Truffle -->
 
-        <!-- Raspberry -->
+        <!-- ORRIAN TRUFFLE -->
+        <!-- Straits Of Devastation -->
+        <POI MapID="51" xpos="-861.077" ypos="8.63258" zpos="59.4074" type="legs.gathering.general.truffle.node" GUID="mpX8LMxXA0avwJeP5r0R+w=="/>
+        <POI MapID="51" xpos="-587.293" ypos="16.7885" zpos="-734.816" type="legs.gathering.general.truffle.node" GUID="42zgTTjF60i2nYs9s+tl0w=="/>
+        <POI MapID="51" xpos="-441.024" ypos="13.0421" zpos="-758.252" type="legs.gathering.general.truffle.node" GUID="yQWhWc5l1kOvnjTf486q1g=="/>
+        <POI MapID="51" xpos="-763.817" ypos="27.9287" zpos="-180.052" type="legs.gathering.general.truffle.node" GUID="+k7fGv501kuAijDtUNogZQ=="/>
+        <!-- Malchor's Leap -->
+        <POI MapID="65" xpos="303.507" ypos="29.3202" zpos="-391.422" type="legs.gathering.general.truffle.node" GUID="cQl9WcP8B0m6Xi1dC7LOdw=="/>
+        <POI MapID="65" xpos="32.6938" ypos="29.8666" zpos="14.805" type="legs.gathering.general.truffle.node" GUID="pduMHSeiKk6//piNpjnFjA=="/>
+        <POI MapID="65" xpos="279.198" ypos="52.1813" zpos="287.365" type="legs.gathering.general.truffle.node" GUID="4SLMUj6AoEK3OiLniNlykA=="/>
+        <!-- Cursed Shore -->
+        <POI MapID="62" xpos="349.853" ypos="59.159" zpos="760.013" type="legs.gathering.general.truffle.node" GUID="lNOETIpgWUui8q05ya/Kcw=="/>
+        <POI MapID="62" xpos="40.2407" ypos="6.03939" zpos="592.756" type="legs.gathering.general.truffle.node" GUID="kzpeypgjSkWEeu/VMfXmng=="/>
+        <POI MapID="62" xpos="-101.765" ypos="18.9632" zpos="542.01" type="legs.gathering.general.truffle.node" GUID="Z4S9JImFPEKG2tmGXfof1w=="/>
+        <POI MapID="62" xpos="-112.887" ypos="17.1609" zpos="532.36" type="legs.gathering.general.truffle.node" GUID="DDBWhYYudkWSHR2s2c7JCQ=="/>
+        <POI MapID="62" xpos="-123.559" ypos="12.4237" zpos="506.055" type="legs.gathering.general.truffle.node" GUID="Me7JEEb1r0+hXTLFOIey9w=="/>
+        <POI MapID="62" xpos="-158.359" ypos="8.53888" zpos="454.609" type="legs.gathering.general.truffle.node" GUID="kdg6JYeiNUKwNefF5OFJqQ=="/>
+        <POI MapID="62" xpos="-11.1323" ypos="9.31292" zpos="320.772" type="legs.gathering.general.truffle.node" GUID="gczyP0OYvkSL5sSfcaGzoA=="/>
+        <POI MapID="62" xpos="396.642" ypos="14.825" zpos="-845.22" type="legs.gathering.general.truffle.node" GUID="G1wQ31bZ7kCyc5MTwsKpMQ=="/>
+        <POI MapID="62" xpos="184.181" ypos="20.7584" zpos="180.73" type="legs.gathering.general.truffle.node" GUID="SJQ2cOeHqUOhobPmI0mvZQ=="/>
+        <POI MapID="62" xpos="186.301" ypos="8.83127" zpos="254.723" type="legs.gathering.general.truffle.node" GUID="RtHwLUGRqkmUE9yQGIj+4Q=="/>
+        <!-- Siren's Landing -->
+        <POI MapID="1203" xpos="127.377" ypos="36.1193" zpos="-97.0943" type="legs.gathering.general.truffle.node" GUID="KF9EBJs7aUSO9RiAfHRxBg=="/>
+        <POI MapID="1203" xpos="-157.191" ypos="39.2596" zpos="-85.4743" type="legs.gathering.general.truffle.node" GUID="e323oU5g9Ualaa6r4DdBiA=="/>
+        <POI MapID="1203" xpos="-227.186" ypos="29.2601" zpos="-166.803" type="legs.gathering.general.truffle.node" GUID="pat3meuPZ0CG7DPt3X/+9w=="/>
+        <POI MapID="1203" xpos="-269.448" ypos="92.1083" zpos="-202.661" type="legs.gathering.general.truffle.node" GUID="GZ2D0fbpqUyH8fWfpKGQIg=="/>
+        <POI MapID="1203" xpos="-653.046" ypos="66.2816" zpos="-52.1511" type="legs.gathering.general.truffle.node" GUID="31FWauHyFESqlPZ/7p8OwQ=="/>
+        <POI MapID="1203" xpos="-57.2143" ypos="33.8072" zpos="269.465" type="legs.gathering.general.truffle.node" GUID="C5DXGnwqsESonCGSUbzLMw=="/>
 
-        <!-- Saffron -->
 
-        <!-- Sage Leaf -->
+
+
+        <!-- POTATOES -->
+        <Trail type="legs.gathering.general.potato.ashford" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Plains of Ashford.trl"/>
+        <POI MapID="19" xpos="745.771" ypos="19.5025" zpos="-547.698" type="legs.gathering.general.potato.node" GUID="4SKXlDhET0OQCbIRA88BVA=="/>
+        <Trail type="legs.gathering.general.potato.metrica" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Metrica Province.trl"/>
+        <POI MapID="35" xpos="407.341" ypos="47.6081" zpos="-385.862" type="legs.gathering.general.potato.node" GUID="pWXtpuwH00yZD1r8bii1aA=="/>
+        <Trail type="legs.gathering.general.potato.co" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Crystal Oasis.trl"/>
+        <POI MapID="1210" xpos="150.508" ypos="103.538" zpos="-79.6766" type="legs.gathering.general.potato.node" GUID="TreltyztAU+NCEGvIoSxMA=="/>
+
+
+
+        <!-- RASPBERRY -->
+
+        <!-- SAFFRON - Black Crocus -->
+        <!-- Malchor's Leap -->
+        <POI MapID="65" xpos="989.677" ypos="56.2204" zpos="-223.932" type="legs.gathering.general.saffron.node" GUID="5wYj5ecg2k+V3nyx0VigwQ=="/>
+        <POI MapID="65" xpos="1008.59" ypos="59.4859" zpos="-205.998" type="legs.gathering.general.saffron.node" GUID="o+YRBwzOMkan8fD/AnsZjA=="/>
+        <POI MapID="65" xpos="379.025" ypos="19.777" zpos="-402.83" type="legs.gathering.general.saffron.node" GUID="Zi0z2tpadUaEMcIc4x8rUA=="/>
+        <POI MapID="65" xpos="-276.832" ypos="39.6101" zpos="-355.006" type="legs.gathering.general.saffron.node" GUID="wQ9EHonV90+aTvyebhnWxg=="/>
+        <POI MapID="65" xpos="-104.393" ypos="36.6549" zpos="-376.184" type="legs.gathering.general.saffron.node" GUID="p7udueXhLUWub4CTjF0EzQ=="/>   
+        <POI MapID="65" xpos="434.6" ypos="28.6226" zpos="-152.017" type="legs.gathering.general.saffron.node" GUID="WWWk1zTPWEeMZ1djdG5w/g=="/>
+        <POI MapID="65" xpos="-377.427" ypos="22.0667" zpos="-568.043" type="legs.gathering.general.saffron.node" GUID="nCl4ZpI9Y0+CeNKDOMBR1A=="/>
+        <!-- Cursed Shore -->
+        <POI MapID="62" xpos="88.4962" ypos="80.5509" zpos="1104.2" type="legs.gathering.general.saffron.node" GUID="3VM0RjupZkGFUbqAqAzL4A=="/>
+        <POI MapID="62" xpos="-30.4097" ypos="9.16713" zpos="508.631" type="legs.gathering.general.saffron.node" GUID="915f+OGTC0CsFQ+ObxemEA=="/>
+        <POI MapID="62" xpos="-265.364" ypos="31.2487" zpos="609.355" type="legs.gathering.general.saffron.node" GUID="waG9D45EX0if1oWgoSAljA=="/>
+        <POI MapID="62" xpos="-220.163" ypos="30.8797" zpos="650.798" type="legs.gathering.general.saffron.node" GUID="es+dHWhCl0GpHD8IF3tkVg=="/>
+        <POI MapID="62" xpos="-26.3463" ypos="17.9811" zpos="98.3575" type="legs.gathering.general.saffron.node" GUID="Rz3+jOqvnEyfZyD4w88icQ=="/>
+        <POI MapID="62" xpos="50.7563" ypos="20.6884" zpos="-15.034" type="legs.gathering.general.saffron.node" GUID="+VWobwdhFEWDCAsPPwxlNQ=="/>
+        <POI MapID="62" xpos="35.7269" ypos="27.747" zpos="-276.136" type="legs.gathering.general.saffron.node" GUID="UKuA25tpD02arZbUTQqn/g=="/>
+        <POI MapID="62" xpos="115.226" ypos="27.27" zpos="-238.216" type="legs.gathering.general.saffron.node" GUID="rLPeJjadRk6m817NRGxtWQ=="/>
+        <POI MapID="62" xpos="-62.9728" ypos="29.0292" zpos="-475.654" type="legs.gathering.general.saffron.node" GUID="3TreWW/OeUCDM7ZNmzLxlw=="/>
+        <POI MapID="62" xpos="-380.372" ypos="15.5219" zpos="-314.255" type="legs.gathering.general.saffron.node" GUID="u56+Uxp130CU3OKLfzyH2g=="/>
+        <POI MapID="62" xpos="-357.858" ypos="14.3294" zpos="-289.591" type="legs.gathering.general.saffron.node" GUID="0k6Az5IXl0CIhgkoFN5A7Q=="/>
+        <POI MapID="62" xpos="427.076" ypos="88.9483" zpos="-258.215" type="legs.gathering.general.saffron.node" GUID="1g9MepOX8ESDNXgbUr3SHQ=="/>
+        <!-- Siren's Landing -->
+        <POI MapID="1203" xpos="-88.7558" ypos="28.1892" zpos="-99.9871" type="legs.gathering.general.saffron.node" GUID="orqBhrbcV0mdzNGu8h8ytg=="/>
+        <POI MapID="1203" xpos="-153.404" ypos="83.3032" zpos="-145.222" type="legs.gathering.general.saffron.node" GUID="YdlAD9LxnkGJg9uobLPVlw=="/>
+        <POI MapID="1203" xpos="-299.788" ypos="106.144" zpos="-299.737" type="legs.gathering.general.saffron.node" GUID="MNomFqVNuEi70y+XiFXfEg=="/>
+        <POI MapID="1203" xpos="-197.073" ypos="43.535" zpos="265.052" type="legs.gathering.general.saffron.node" GUID="6Km7513WXE2OwcEs7oTGiQ=="/>
+
+
+
+    
+
+        <!-- SAGE LEAF -->
         <Trail type="legs.gathering.general.sage.kourna" trailData="Data/LadyElyssa/Gathering/Plants/Kourna - Desert Herbs.trl"/>
         <Trail type="legs.gathering.general.sage.sandswept" trailData="Data/LadyElyssa/Gathering/Plants/Sandswept - Desert Herbs.trl"/>
 
-        <!-- Seaweed -->
+        <!-- SUGAR PUMPKINS -->
+        <Trail type="legs.gathering.general.pumpkins.ironmarches" trailData="Data/LadyElyssa/Gathering/Plants/Sugar Pumpkins - Iron Marches.trl"/>
+        <POI MapID="25" xpos="-434.276" ypos="36.2583" zpos="706.151" type="legs.gathering.general.pumpkins.node" GUID="/houOA/6BUiUUZmZaxrrZA=="/>
+        <POI MapID="25" xpos="-437.284" ypos="38.1719" zpos="771.358" type="legs.gathering.general.pumpkins.node" GUID="Wd2bwTAQCEmXzk8AZ2KBUQ=="/>
+        <POI MapID="25" xpos="-424.03" ypos="38.78" zpos="747.919" type="legs.gathering.general.pumpkins.node" GUID="1OW1YrhOCEuY4t8Bvjd0lw=="/>
+        <POI MapID="25" xpos="-407.13" ypos="37.8796" zpos="741.518" type="legs.gathering.general.pumpkins.node" GUID="HbBMhwSU4keGzd6JwAhzCQ=="/>
+        <POI MapID="25" xpos="-390.183" ypos="33.1895" zpos="718.298" type="legs.gathering.general.pumpkins.node" GUID="Cq34otKfM0iABe4qevZ3eg=="/>
+        <POI MapID="25" xpos="-397.399" ypos="31.8447" zpos="705.647" type="legs.gathering.general.pumpkins.node" GUID="hvBeiT+16UqoIQzT/1dY9g=="/>
+        <POI MapID="25" xpos="-419.83" ypos="35.8492" zpos="716.976" type="legs.gathering.general.pumpkins.node" GUID="Tgh9Ibp1rEWBkXADxhn6ZA=="/>
+        <POI MapID="25" xpos="-432.611" ypos="37.9994" zpos="727.57" type="legs.gathering.general.pumpkins.node" GUID="6y9te8L9CUua5fVrO7CHfQ=="/>
+        <Trail type="legs.gathering.general.pumpkins.bloodtide" trailData="Data/LadyElyssa/Gathering/Plants/Sugar Pumpkins - Bloodtide Coast.trl"/>
+        <POI MapID="73" xpos="614.713" ypos="69.7824" zpos="17.6014" type="legs.gathering.general.pumpkins.node" GUID="wYSzNI/PS0aXyuefRdMOQw=="/>
+        <POI MapID="73" xpos="618.278" ypos="69.3078" zpos="18.9533" type="legs.gathering.general.pumpkins.node" GUID="+yxcvivRT0mE9+LdNW8PLw=="/>
+        <POI MapID="73" xpos="622.104" ypos="68.3883" zpos="15.6838" type="legs.gathering.general.pumpkins.node" GUID="Z8KDIb1BBkOUx7IdcxFCzg=="/>
+        <POI MapID="73" xpos="626.705" ypos="67.5317" zpos="18.4021" type="legs.gathering.general.pumpkins.node" GUID="SWn26qoYg0++k+lodYZKSw=="/>
+        <POI MapID="73" xpos="630.998" ypos="67.062" zpos="15.6762" type="legs.gathering.general.pumpkins.node" GUID="nnuBRMJU2EimzCmTGRXUhA=="/>
+        <POI MapID="73" xpos="632.89" ypos="66.8062" zpos="10.2952" type="legs.gathering.general.pumpkins.node" GUID="4miMutJ26UGa4mGoNtdI7g=="/>
+        <POI MapID="73" xpos="626.403" ypos="67.1553" zpos="10.2879" type="legs.gathering.general.pumpkins.node" GUID="uiym3jmwB0ubRu4EPK2FMg=="/>
+        <POI MapID="73" xpos="620.38" ypos="67.9133" zpos="9.74124" type="legs.gathering.general.pumpkins.node" GUID="ZdedOws6T0O6RY1dqJTf1g=="/>
+
+        <!-- SEAWEED -->
         <Trail type="legs.gathering.general.seaweed.ember" trailData="Data/LadyElyssa/Gathering/Plants/Ember Bay - Seaweed.trl"/>
         <Trail type="legs.gathering.general.seaweed.thunderhead" trailData="Data/LadyElyssa/Gathering/Plants/Thunderhead - Seaweed.trl"/>
+        <!-- Malchor's Leap -->
+        <POI MapID="65" xpos="645.985" ypos="-27.6155" zpos="348.889" type="legs.gathering.general.seaweed.node" GUID="hOsBLT/SZkm2STR75VeIlQ=="/>
+        <POI MapID="65" xpos="490.942" ypos="-12.592" zpos="333.287" type="legs.gathering.general.seaweed.node" GUID="lrDCLeFQHE6JrrY9Nnxbpg=="/>
+        <POI MapID="65" xpos="1068.27" ypos="-14.8454" zpos="245.059" type="legs.gathering.general.seaweed.node" GUID="pjjySK21NUKv5hsO9qFk+g=="/>
+        <!-- Cursed Shore -->
+        <POI MapID="62" xpos="-439.03" ypos="-15.1633" zpos="319.822" type="legs.gathering.general.seaweed.node" GUID="wfMYHixxQUaq2aTHkbYtPQ=="/>
+        <POI MapID="62" xpos="-229.159" ypos="-4.59357" zpos="-422.751" type="legs.gathering.general.seaweed.node" GUID="+jlFZFlbq0Gz8KwWc9YC9w=="/>
 
-        <!-- Vanilla Bean -->
+        <!-- STRAWBERRIES -->
+        <Trail type="legs.gathering.general.strawberry.diessa" trailData="Data/LadyElyssa/Gathering/Plants/Strawberries - Diessa Plateau.trl"/>
+        <POI MapID="32" xpos="-1040.78" ypos="68.7922" zpos="-621.772" type="legs.gathering.general.strawberry.node" GUID="imZCJPMM90Sp55GloLBekA=="/>
+        <Trail type="legs.gathering.general.strawberry.snowden" trailData="Data/LadyElyssa/Gathering/Plants/Strawberries - Snowden Drifts.trl"/>
+        <POI MapID="31" xpos="759.273" ypos="113.092" zpos="-441.193" type="legs.gathering.general.strawberry.node" GUID="1hG+jQpCYUKCYTv3HCi4Fg=="/>
+
+        <!-- VANILLA BEAN -->
 
 
         <!-- Blooming Passiflora -->
@@ -692,7 +927,27 @@
         <POI MapID="1442" xpos="-149.094" ypos="43.7393" zpos="-464.969" type="legs.gathering.general.flax.flax" GUID="wajc7/QkWUucuWL909NRJA=="/>
         <POI MapID="1442" xpos="-156.336" ypos="43.709" zpos="-459.045" type="legs.gathering.general.flax.flax" GUID="Y59r/Nldw02VkaIBw3cWrw=="/>
         <POI MapID="1442" xpos="-151.309" ypos="43.7448" zpos="-466.058" type="legs.gathering.general.flax.flax" GUID="ej12xR1Kk0OA8tJvhnUSog=="/>
+        
+        <!-- VERDANT HERBS -->
+
+        <!-- Fireheart Rise -->
+
+        <POI MapID="22" xpos="224.982" ypos="28.6461" zpos="565.848" type="legs.gathering.general.verdant.herbs" GUID="obIm+WDiNkuzRURyB3CiuQ=="/>
+
+        <!-- Mount Maelstrom -->
+
+        <POI MapID="39" xpos="-4.91424" ypos="13.0306" zpos="560.961" type="legs.gathering.general.verdant.herbs" GUID="On728I4/FEeasXnSNcrhkw=="/>
+        <POI MapID="39" xpos="-28.4088" ypos="25.5918" zpos="669.329" type="legs.gathering.general.verdant.herbs" GUID="whaN5zDezEOsTKdjZkyIDw=="/>
+        <POI MapID="39" xpos="-110.738" ypos="14.1267" zpos="480.16" type="legs.gathering.general.verdant.herbs" GUID="E356oSUxbEKqu8wy3M72Wg=="/>
+        <POI MapID="39" xpos="-165.637" ypos="14.8724" zpos="455.486" type="legs.gathering.general.verdant.herbs" GUID="wfi3kPDv8kSal8nhnOcjlg=="/>
+        <POI MapID="39" xpos="516.558" ypos="9.24624" zpos="273.189" type="legs.gathering.general.verdant.herbs" GUID="kv1iEqr5UkGphllfznyS0Q=="/>
+        <POI MapID="39" xpos="579.501" ypos="22.9271" zpos="227.844" type="legs.gathering.general.verdant.herbs" GUID="NVYe7NZVA0ynpyOOPapMaw=="/>
+        <POI MapID="39" xpos="595.236" ypos="22.4558" zpos="229.877" type="legs.gathering.general.verdant.herbs" GUID="u0RgNYQayE2Bod6YKlp8Sw=="/>
+        <POI MapID="39" xpos="635.055" ypos="11.6286" zpos="207.226" type="legs.gathering.general.verdant.herbs" GUID="P0sO0bvo/Ees8KvK4Q3vAg=="/>
+
+
         <!-- Verdant Herbs - Lake Doric -->
+
         <Trail type="legs.gathering.general.verdant.doric" trailData="Data/LadyElyssa/Gathering/Plants/Lake Doric - Verdant Herbs.trl"/>
         <POI MapID="1185" xpos="-338.812" ypos="102.042" zpos="567.887" type="legs.gathering.general.verdant.start" GUID="15UOgU//Sk+O5Yk6lABHfQ=="/>
         <POI MapID="1185" xpos="226.177" ypos="61.2472" zpos="-588.6" type="legs.gathering.general.verdant.finish" GUID="bOO+KP5pfU6gptfDquz/Mw=="/>
@@ -721,7 +976,9 @@
         <POI MapID="1185" xpos="129.369" ypos="44.4446" zpos="-477.041" type="legs.gathering.general.verdant.herbs" GUID="R5vTIVSRSUu8KOrwp7pZZA=="/>
         <POI MapID="1185" xpos="101.19" ypos="40.1498" zpos="-578.751" type="legs.gathering.general.verdant.herbs" GUID="U5YllKxTeEWDLsyFebyXhQ=="/>
         <POI MapID="1185" xpos="225.822" ypos="61.2311" zpos="-588.465" type="legs.gathering.general.verdant.herbs" GUID="Y3Ep/kyvNkKb6YO+3Ir/yg=="/>
+
         <!-- Verdant Herbs - Bjora Marches -->
+
         <Trail type="legs.gathering.general.verdant.bjora" trailData="Data/LadyElyssa/Gathering/Plants/Bjora Marches - Verdant Herbs.trl"/>
         <POI MapID="1343" xpos="-286.157" ypos="170.632" zpos="184.538" type="legs.gathering.general.verdant.start" GUID="OJrCZDHU9Uuzb8EpNTLXuA=="/>
         <POI MapID="1343" xpos="-477.508" ypos="178.884" zpos="-473.292" type="legs.gathering.general.verdant.finish" GUID="Eoq4ZuPINkmkUQiHXnBFpQ=="/>
@@ -813,6 +1070,8 @@
         <POI MapID="1330" xpos="769.028" ypos="1.58519" zpos="325.94" type="legs.gathering.general.verdant.herbs" GUID="VHOAPlblv0S0wTwRqLHdEw=="/>
         <POI MapID="1330" xpos="835.651" ypos="1.16151" zpos="390.856" type="legs.gathering.general.verdant.herbs" GUID="sIyrbGOfCEO0fNiJZADoxA=="/>
         <POI MapID="1330" xpos="725.656" ypos="0.249777" zpos="449.984" type="legs.gathering.general.verdant.herbs" GUID="shxLezLmjUSWDE6NhamLAQ=="/>
+        <POI MapID="1330" xpos="-525.304" ypos="30.1364" zpos="218.886" type="legs.gathering.general.verdant.herbs" GUID="EfJWpfsgVkSwCsjk9JMvGQ=="/>
+        <POI MapID="1330" xpos="800.289" ypos="7.24638" zpos="511.27" type="legs.gathering.general.verdant.herbs" GUID="qp9o/EtPcU+mGqNISujFfQ=="/>
         
 
         <!-- Desert Herbs - Kourna -->
@@ -1270,6 +1529,7 @@
         <POI MapID="1185" xpos="170.134" ypos="41.1997" zpos="-466.204" type="legs.gathering.general.sawgill.mushrooms" GUID="cF+vq/q0Ski58J4p5+MMqQ=="/>
         <POI MapID="1185" xpos="343.986" ypos="10.4424" zpos="-657.979" type="legs.gathering.general.sawgill.mushrooms" GUID="8rUE3JPb5k6jtfRTqmrucg=="/>
         <POI MapID="1185" xpos="344.511" ypos="193.994" zpos="753.312" type="legs.gathering.general.sawgill.mushrooms" GUID="yUYnhNFbUEmX0XvjA3lejA=="/>
+        <POI MapID="1185" xpos="318.68" ypos="26.4361" zpos="-650.897" type="legs.gathering.general.sawgill.mushrooms" GUID="yitpcnCDx0+ySGD3Gysg3A=="/>
 
         <!-- Sawgill Mushrooms - Draconis Mons -->
 
