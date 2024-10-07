@@ -6,7 +6,7 @@
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="skywatch" DisplayName="Skywatch Archipelago">
 
-                <MarkerCategory name="lanterns" DisplayName="Lantern Route">
+                <MarkerCategory name="lanterns" DisplayName="Lantern Route" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
                     <!--
@@ -70,7 +70,7 @@
                 </MarkerCategory>
 
                 <MarkerCategory name="amnytas" DisplayName="Amnytas">
-                    <MarkerCategory name="lanterns" DisplayName="Lantern Route">
+                    <MarkerCategory name="lanterns" DisplayName="Lantern Route" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
                     <!--
@@ -135,7 +135,7 @@
                 
 
                 <MarkerCategory name="innernayos" DisplayName="Inner Nayos">
-                    <MarkerCategory name="lanterns" DisplayName="Lantern Route">
+                    <MarkerCategory name="lanterns" DisplayName="Lantern Route" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
                     <!--
