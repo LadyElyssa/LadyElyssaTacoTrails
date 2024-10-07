@@ -2,8 +2,8 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="gathering" DisplayName="Gathering">
             <!-- General Gathering -->
-            <MarkerCategory name="general" DisplayName="General Gathering">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="GENERAL GATHERING SETTINGS"/>
+            <MarkerCategory name="general" DisplayName="General">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="warning" DisplayName="Toggle Warning Signs">
                         <MarkerCategory name="smogscale" DisplayName="Smogscale" iconFile="Data/LadyElyssa/Images/Warning - Smogscale.png" triggerrange="15" autotrigger="true"/>
                         <MarkerCategory name="bristleback" DisplayName="Bristleback" iconFile="Data/LadyElyssa/Images/Warning - Bristleback.png" triggerrange="15" autotrigger="true"/>
@@ -314,44 +314,158 @@
             </MarkerCategory>
             <!-- Plants -->
             <MarkerCategory name="plants" DisplayName="PLANTS" IsSeparator="1"/>
-            <MarkerCategory name="peppercorn" DisplayName="Black Peppercorn"/>
+
+            <MarkerCategory name="herbs" DisplayName="Herbs, Chance of">
+                <MarkerCategory name="node" DisplayName="Toggle Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="bayleaf" DisplayName="Bay Leaf"/>
+                <MarkerCategory name="peppercorn" DisplayName="Black Peppercorn"/>
+                <MarkerCategory name="chili" DisplayName="Chili Pepper"/>
+                <MarkerCategory name="dill" DisplayName="Dill Sprig"/>
+                <MarkerCategory name="garlic" DisplayName="Garlic"/>
+                <MarkerCategory name="lemongrass" DisplayName="Lemongrass"/>
+                <MarkerCategory name="mint" DisplayName="Mint Leaf"/>
+                <MarkerCategory name="oregano" DisplayName="Oregano Leaf"/>
+                <MarkerCategory name="parsley" DisplayName="Parsley Leaf"/>
+                <MarkerCategory name="rosemary" DisplayName="Rosemary Sprig"/>
+                <MarkerCategory name="sage" DisplayName="Sage Leaf"/>
+                <MarkerCategory name="sesame" DisplayName="Sesame Seed"/>
+                <MarkerCategory name="tarragon" DisplayName="Tarragon Leaves"/>
+                <MarkerCategory name="thyme" DisplayName="Thyme Leaf"/>
+                <MarkerCategory name="vanilla" DisplayName="Vanilla Bean"/>
+                                
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
+                <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="  : Kryta"/>
+                <MarkerCategory name="gendarran" DisplayName="Gendarran"/>
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks (Mature Herbs)"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+
+            </MarkerCategory>
+
+            <MarkerCategory name="artichoke" DisplayName="Artichoke">
+                <MarkerCategory name="node" DisplayName="Toggle Artichoke Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Teal.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                <MarkerCategory name="dov" DisplayName="Domain of Vabbi"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="asparagus" DisplayName="Asparagus Spear">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="node" DisplayName="Toggle Asparagus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="lws5" IsSeparator="1" DisplayName="  : LWS5 - The Icebrood Saga"/>
+                <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+            </MarkerCategory>
 
             <MarkerCategory name="lettuce" DisplayName="Lettuce">
+                <MarkerCategory name="node" DisplayName="Toggle Lettuce Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
                 <MarkerCategory name="caledon" DisplayName="Caledon Forest - The Rowanwoods"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="  : Kryta"/>
                 <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
             </MarkerCategory>
 
             <MarkerCategory name="onion" DisplayName="Onion">
+                <MarkerCategory name="node" DisplayName="Toggle Onion Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="  : Kryta"/>
                 <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                
             </MarkerCategory>
             
-            <MarkerCategory name="truffle" DisplayName="Orrian Truffle"/>
+            <MarkerCategory name="truffle" DisplayName="Orrian Truffle">
+                <MarkerCategory name="node" DisplayName="Toggle Truffle Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Orange.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                <MarkerCategory name="sirens" DisplayName="Siren's Landing"/>
+            </MarkerCategory>
 
-            <MarkerCategory name="raspberry" DisplayName="Raspberry"/>
+            <MarkerCategory name="potato" DisplayName="Potatoes">
+                <MarkerCategory name="node" DisplayName="Toggle Potato Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
+                <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                <MarkerCategory name="pof" IsSeparator="1" DisplayName="  : Path of Fire"/>
+                <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+            </MarkerCategory>
+            <!--
+            
+            https://wiki.guildwars2.com/wiki/Raspberries
 
-            <MarkerCategory name="saffron" DisplayName="Saffron Thread">
-                <MarkerCategory name="crocus" DisplayName="Black Crocus, level 75-80 areas"/>
+            <MarkerCategory name="raspberry" DisplayName="Raspberry">
+                <MarkerCategory name="node" DisplayName="Toggle Raspberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="unknown" DisplayName="Unknown"/>
+            </MarkerCategory>
+            -->
+
+            <MarkerCategory name="saffron" DisplayName="Black Crocus (Saffron)">
+                <MarkerCategory name="node" DisplayName="Toggle Black Crocus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
             </MarkerCategory>
 
             <MarkerCategory name="sage" DisplayName="Sage Leaf">
+                <MarkerCategory name="node" DisplayName="Toggle Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
                 <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
                 <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
             </MarkerCategory>
 
             <MarkerCategory name="seaweed" DisplayName="Seaweed">
+                <MarkerCategory name="node" DisplayName="Toggle Seaweed Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
                 <MarkerCategory name="ember" DisplayName="Ember Bay"/>
                 <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
                 <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
             </MarkerCategory>
 
-            <MarkerCategory name="vanilla" DisplayName="Vanilla Bean">
-                <MarkerCategory name="seedlings" DisplayName="Herb Seedlings, level 1-25 areas"/>
-                <MarkerCategory name="sprouts" DisplayName="Herb Sprouts, level 15-45 areas"/>
-                <MarkerCategory name="mature" DisplayName="Mature Herbs, level 40-70 areas"/>
+            <MarkerCategory name="strawberry" DisplayName="Strawberries">
+                <MarkerCategory name="node" DisplayName="Toggle Strawberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="Ascalon"/>
+                <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="Shiverpeaks"/>
+                <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="pumpkins" DisplayName="Sugar Pumpkins">
+                <MarkerCategory name="node" DisplayName="Toggle Sugar Pumpkin Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="Ascalon"/>
+                <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="Kryta"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
             </MarkerCategory>
 
             <MarkerCategory name="blooming" DisplayName="Blooming Passiflora">
@@ -473,12 +587,12 @@
                 <MarkerCategory name="seitung" DisplayName="Seitung Province - Village WP" color="D2B48C"/>
             </MarkerCategory>
             <!-- End FLAX -->
-            <MarkerCategory name="lily" DisplayName="Maguuma Lily (Jungle Plants)">
+            <MarkerCategory name="lily" DisplayName="Jungle Plants (Maguuma Lily)">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
                     <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
-                    <MarkerCategory name="lily" DisplayName="Toggle Maguuma Lily" iconFile="Data/LadyElyssa/Images/Maguuma Lily.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="lily" DisplayName="Toggle Jungle Plants" iconFile="Data/LadyElyssa/Images/Maguuma Lily.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
@@ -582,7 +696,7 @@
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
                     <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
-                    <MarkerCategory name="herbs" DisplayName="Toggle Verdant Herbs" iconFile="Data/LadyElyssa/Images/Square.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="1" defaulttoggle="0"/>
+                    <MarkerCategory name="herbs" DisplayName="Toggle Verdant Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="1" defaulttoggle="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
