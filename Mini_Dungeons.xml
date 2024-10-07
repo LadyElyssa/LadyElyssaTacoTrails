@@ -25,6 +25,29 @@
         <Trail type="legs.minidungeons.grounded.cursed" trailData="Data/LadyElyssa/Mini Dungeons/Grounded.trl"/>
         <Trail type="legs.minidungeons.forgottenstream.cursed" trailData="Data/LadyElyssa/Mini Dungeons/Forgotten Stream.trl"/>
 
+        <!-- LWS3 -->
+        
+        <Trail type="legs.minidungeons.nsr.doric" trailData="Data/LadyElyssa/Mini Dungeons/LWS3/Noran's Safe Room.trl"/>
+        <POI MapID="1185" xpos="-329.696" ypos="63.7198" zpos="615.15" GUID="uMRRbDNUKkCZq5UCCfrJXA==" iconFile="Data/LadyElyssa/Images/Noran's Key Oil.png" fadeNear="900" fadeFar="1200" maxSize="16"/>
+        <POI MapID="1185" xpos="-348.527" ypos="39.7175" zpos="596.961" type="legs.minidungeons.nsr.glider" GUID="RfJmKn4J8EGFz2hIyX9c4Q=="/>
+        <POI MapID="1185" xpos="-323.266" ypos="36.4035" zpos="555.568" type="legs.minidungeons.nsr.glider" GUID="Vbr5mDyUTUWoYRXiBad2Og=="/>
+        <POI MapID="1185" xpos="-307.72" ypos="34.842" zpos="569.201" type="legs.minidungeons.nsr.glider" GUID="lpv/bbEHTE+ViEGb9PiBig=="/>
+
+        <Trail type="legs.minidungeons.nawwal.doric" trailData="Data/LadyElyssa/Mini Dungeons/LWS3/Not All Who Wander Are Lost.trl"/>
+        <POI MapID="1185" xpos="26.1405" ypos="32.8741" zpos="-699.174" type="legs.minidungeons.nawwal.talk" GUID="PrKfwGbsKUGfJlvB5Qbuhw=="/>
+        <POI MapID="1185" xpos="343.648" ypos="27.0404" zpos="-631.085" type="legs.minidungeons.nawwal.glider" GUID="fwaVhoAfek+sd58kImxvbA=="/>
+        <POI MapID="1185" xpos="335.332" ypos="25.5948" zpos="-653.518" type="legs.minidungeons.nawwal.glider" GUID="F5FfX2dEM0GloVX0N23U1Q=="/>
+        <POI MapID="1185" xpos="337.312" ypos="39.8843" zpos="-687.337" type="legs.minidungeons.nawwal.glider" GUID="RgdLBqd0NkaX/e7qQOmqxA=="/>
+        
+        <Trail type="legs.minidungeons.nawwal.doric" trailData="Data/LadyElyssa/Mini Dungeons/LWS3/Not All Who Wander Are Lost Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+        <POI MapID="1185" xpos="364.092" ypos="10.5721" zpos="-717.856" type="legs.minidungeons.nawwal.glider" GUID="M5Yt4ntGW0q4i7vnzxbltw=="/>
+        <POI MapID="1185" xpos="104.265" ypos="32.5677" zpos="-683.64" type="legs.minidungeons.nawwal.torch" GUID="tz/sizVvFEeQ9BDRzUlyKA=="/>
+        <POI MapID="1185" xpos="133.869" ypos="32.7992" zpos="-694.159" type="legs.minidungeons.nawwal.torch" GUID="nv53DBEqKUelPEaVt9qQpg=="/>
+        <POI MapID="1185" xpos="182.996" ypos="32.6307" zpos="-706.894" type="legs.minidungeons.nawwal.torch" GUID="Ljc3Oyw+fkSkzylk/Yo+3A=="/>
+        <POI MapID="1185" xpos="217.253" ypos="32.6913" zpos="-688.333" type="legs.minidungeons.nawwal.torch" GUID="WxuimokqVkq6e4ws7py55A=="/>
+        <POI MapID="1185" xpos="259.705" ypos="31.9333" zpos="-690.456" type="legs.minidungeons.nawwal.torch" GUID="m4QPeTWFpkWCIkkQ56pFNA=="/>
+        <POI MapID="1185" xpos="78.8281" ypos="30.5025" zpos="-698.295" type="legs.minidungeons.nawwal.torch" GUID="FdnpdS6FZEO8zL/x4cdcWw=="/>
+
         <!-- End of Dragons -->
         <Trail type="legs.minidungeons.valdhertz.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/To Valdhertz Crypts.trl"/>
         <Trail type="legs.minidungeons.valdhertz.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Valdhertz Crypts 1.trl"/>
