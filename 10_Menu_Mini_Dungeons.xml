@@ -80,6 +80,25 @@
                 <MarkerCategory name="cursed" DisplayName="Cursed Shore" color="E6E6E6"/>
             </MarkerCategory>
 
+            
+            <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+
+            <MarkerCategory name="nsr" DisplayName="Noran's Safe Room" fadeNear="1600" fadeFar="2400">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" alpha="0.8" iconSize="0.25"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="doric" DisplayName="Lake Doric" color="E6E6E6"/>
+            </MarkerCategory>
+            <MarkerCategory name="nawwal" DisplayName="Not All Who Wander Are Lost" fadeNear="1600" fadeFar="2400">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" alpha="0.8" iconSize="0.25"/>
+                <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/LadyElyssa/Images/Talk.png" alpha="0.9" mapDisplaySize="32"/>
+                <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/Icons/Flame - Blue.png" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="doric" DisplayName="Lake Doric" color="E6E6E6"/>
+            </MarkerCategory>
+
+
             <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
 
             <MarkerCategory name="valdhertz" DisplayName="Valdhertz Crypts">
