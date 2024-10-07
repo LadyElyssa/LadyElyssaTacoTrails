@@ -422,7 +422,6 @@
         <POI MapID="51" xpos="-496.216" ypos="15.41" zpos="-332.977" type="legs.gathering.general.asparagus.node" GUID="Q3sIQQzbXkq7nsgRuxC1uA=="/>
         <POI MapID="51" xpos="-429.791" ypos="23.1398" zpos="-566.388" type="legs.gathering.general.asparagus.node" GUID="dVJpbj1gTUCg4f7sPPK/+g=="/>
         <!-- LWS3 - Grothmar Valley -->
-        <POI MapID="1330" xpos="-525.304" ypos="30.1364" zpos="218.886" type="legs.gathering.general.verdant.herbs" GUID="EfJWpfsgVkSwCsjk9JMvGQ=="/>
         <POI MapID="1330" xpos="30.3991" ypos="87.4452" zpos="419.794" type="legs.gathering.general.asparagus.node" GUID="Ru7JpmY+KEeHoCKZdAKU9A=="/>
         <POI MapID="1330" xpos="-429.909" ypos="70.815" zpos="-451.878" type="legs.gathering.general.asparagus.node" GUID="sIcaFI2KaUuRPSiXN3dOtQ=="/>
         <POI MapID="1330" xpos="271.324" ypos="65.5156" zpos="-385.109" type="legs.gathering.general.asparagus.node" GUID="tIs28TSaAUWI+Cd4YqRY/w=="/>
@@ -470,8 +469,6 @@
         <POI MapID="26" xpos="-463.444" ypos="4.3754" zpos="601.087" type="legs.gathering.general.onion.node" GUID="L/QzBBBK90ih1GjxG629WQ=="/>
         <POI MapID="26" xpos="222.192" ypos="74.67" zpos="119.641" type="legs.gathering.general.onion.node" GUID="EcxfE3yjS0CHSewpvtjoqQ=="/>
         <!-- Lornar's Pass -->
-        <POI MapID="27" xpos="146.251" ypos="159" zpos="1268.35" type="legs.gathering.general.peppercorn.node" GUID="bVIBQ/kGKUqvtctlIhXERQ=="/>
-        <POI MapID="27" xpos="58.2959" ypos="87.4697" zpos="1122.61" type="legs.gathering.general.peppercorn.node" GUID="ehsW8BikWE2XEq0X9FZ4rA=="/>
         <POI MapID="27" xpos="-450.321" ypos="142.917" zpos="903.914" type="legs.gathering.general.onion.node" GUID="4InmAoxGMEulQJRQF9LvbA=="/>
         <POI MapID="27" xpos="262.729" ypos="144.8" zpos="445.552" type="legs.gathering.general.onion.node" GUID="HEvAoKCQ8USbQT5c4PThaw=="/>
         <POI MapID="27" xpos="-349.368" ypos="42.3356" zpos="-76.1296" type="legs.gathering.general.onion.node" GUID="OkVkPPy8m0aNcKS8MTb0Qw=="/>
@@ -528,6 +525,7 @@
         <Trail type="legs.gathering.general.potato.ashford" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Plains of Ashford.trl"/>
         <POI MapID="19" xpos="745.771" ypos="19.5025" zpos="-547.698" type="legs.gathering.general.potato.node" GUID="4SKXlDhET0OQCbIRA88BVA=="/>
         <Trail type="legs.gathering.general.potato.metrica" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Metrica Province.trl"/>
+        <Trail type="legs.gathering.general.potato.metrica" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Metrica Province Alt.trl"/>
         <POI MapID="35" xpos="407.341" ypos="47.6081" zpos="-385.862" type="legs.gathering.general.potato.node" GUID="pWXtpuwH00yZD1r8bii1aA=="/>
         <Trail type="legs.gathering.general.potato.co" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Crystal Oasis.trl"/>
         <POI MapID="1210" xpos="150.508" ypos="103.538" zpos="-79.6766" type="legs.gathering.general.potato.node" GUID="TreltyztAU+NCEGvIoSxMA=="/>
