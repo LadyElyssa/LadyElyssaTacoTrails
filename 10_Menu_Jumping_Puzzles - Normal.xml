@@ -315,6 +315,22 @@
                     <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
                 </MarkerCategory>
 
+            <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+                <MarkerCategory name="hg" DisplayName="Highest Gear">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" minSize="16" maxSize="24" iconSize="0.5"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="ab" DisplayName="Auric Basin"/>
+                </MarkerCategory>
+                <MarkerCategory name="mms" DisplayName="Master Mushroom Spelunker">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="location"     DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="td"      DisplayName="Tangled Depths"/>
+                </MarkerCategory>
+                
+
             <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy "/>
             <MarkerCategory name="abaddons" DisplayName="Abaddon's Ascent">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
