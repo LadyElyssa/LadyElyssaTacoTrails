@@ -210,6 +210,8 @@
         <POI MapID="1015" xpos="-546.326" ypos="316.796" zpos="-347.044" type="legs.jpshort.retrospectiverunaround.goggles" GUID="5TbZtHw0PEit4pBesYUDTg==" iconFile="Data/LadyElyssa/Images/Diving Goggles.png"/>
         <Trail type="legs.jpshort.retrospectiverunaround.goggles" trailData="Data/LadyElyssa/Diving Goggles/LWS2/SW Diving Goggles.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png" color="CC9900"/>
 
+        <!-- Heart of Thorns -->
+
         <!-- LWS3 -->
         
         <!-- Chalice of Tears - Shortcuts -->
@@ -249,10 +251,13 @@
         <!-- Heart of Thorns -->
 
         <Trail type="legs.jpshort.highestgear.auric" GUID="rPptIv5rF0KHwqR2cfKmuQ==" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Highest Gear.trl"/>
-        <POI MapID="1043" xpos="-364.146" ypos="270.491" zpos="236.626" type="legs.jpshort.highestgear.sign" GUID="0Qkh/Huw7U+t+9SMw8AXng==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Lastgear Standing.png"/>
+        <POI MapID="1043" xpos="-364.146" ypos="270.491" zpos="236.626" type="legs.jpshort.highestgear.sign" GUID="0Qkh/Huw7U+t+9SMw8AXng==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/HoT/Highest Gear.png"/>
         <POI MapID="1043" xpos="-497.623" ypos="268.134" zpos="-98.9263" type="legs.jpshort.highestgear.mount.springer" GUID="8LoDCE15p0SumnScJlrlaw=="/>
         <POI MapID="1043" xpos="-548.689" ypos="211.912" zpos="-316.397" type="legs.jpshort.highestgear.mount.skyscale" GUID="2YwBy4McG0iAmkbVwckTzA=="/>
         <POI MapID="1043" xpos="-535.25" ypos="285.88" zpos="-380.454" type="legs.jpshort.highestgear.mount.bof" GUID="z6YecOMIjUyRxjp6Zg2pfA=="/>
         <POI MapID="1043" xpos="-547.553" ypos="277.556" zpos="-400.003" type="legs.jpshort.highestgear.glider" GUID="9cTtiLgrJE++jS+4q3vgCQ=="/>
+
+        <!-- Heart of Thorns -->
+        <Trail type="legs.jpshort.mms.td" trailData="Data/LadyElyssa/Jumping Puzzles/HoT/Master Mushroom Spelunker.trl.trl"/>
     </POIs>
 </OverlayData>

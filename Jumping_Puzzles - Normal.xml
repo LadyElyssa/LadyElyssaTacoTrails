@@ -305,6 +305,23 @@
         <Trail type="legs.jp.retrospectiverunaround.goggles" trailData="Data/LadyElyssa/Diving Goggles/LWS2/SW Diving Goggles.trl" texture="Data/LadyElyssa/Images/Trail - Stubby.png" color="CC9900"/>
 
 
+        <!-- HEART OF THORNS -->
+
+        <!-- Highest Gear -->
+
+        <Trail type="legs.jp.hg.ab"  trailData="Data/LadyElyssa/Jumping Puzzles/HoT/Highest Gear.trl"/>
+        <POI MapID="1043" xpos="-364.146" ypos="270.491" zpos="236.626" type="legs.jp.hg.sign" GUID="Uj/ylMgePEqSKVnwHZaUlw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/HoT/Highest Gear.png"/>
+        <POI MapID="1043" xpos="-572.402" ypos="279.389" zpos="-288.855" type="legs.jp.hg.glider" GUID="2g1B5JFHrE+hW0se4ysX+A=="/>
+        <POI MapID="1043" xpos="-568.744" ypos="275.187" zpos="-334.488" type="legs.jp.hg.glider" GUID="c2fMAj9Wy0icMVytb4FCmg=="/>
+        <POI MapID="1043" xpos="-477.462" ypos="280.466" zpos="-374.996" type="legs.jp.hg.glider" GUID="9gaarfkxIkuKhFIhGPyNVg=="/>
+        <POI MapID="1043" xpos="-546.033" ypos="245.568" zpos="-420.122" type="legs.jp.hg.glider" GUID="EGuwHvYS3kGuT65n/VNaqg=="/>
+        
+        <!-- Master Mushroom Spelunker -->
+
+        <Trail type="legs.jp.mms.td" trailData="Data/LadyElyssa/Jumping Puzzles/HoT/Master Mushroom Spelunker.trl"/>
+        <POI MapID="1045" xpos="443.026" ypos="0.867863" zpos="147.157" type="legs.jp.mms.sign" GUID="uhrEhV+CkUmBaWDkk+G+9A==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/HoT/Master Mushroom Spelunker.png"/>
+        
+
         <!-- LWS3 -->
 
         <!-- Abaddon's Ascent -->
