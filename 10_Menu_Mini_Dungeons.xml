@@ -101,6 +101,17 @@
 
             <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
 
+            <MarkerCategory name="spirit" DisplayName="Spirit Vestibule">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
+                <MarkerCategory name="chest" DisplayName="Toggle Chest Paths" color="FFD800" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png"/>
+                <MarkerCategory name="blue" DisplayName="Toggle Blue" color="0099FF" alpha="1.0"/>
+                <MarkerCategory name="green" DisplayName="Toggle Green" color="00FF00" alpha="1.0"/>
+                <MarkerCategory name="red" DisplayName="Toggle Red" color="FF0000" alpha="1.0"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="sp" DisplayName="Seitung Province" color="E6E6E6"/>
+            </MarkerCategory>
+
             <MarkerCategory name="valdhertz" DisplayName="Valdhertz Crypts">
                 <MarkerCategory name="hot" DisplayName="Hall of Tribute" fadeNear="600" fadeFar="900">
                     <MarkerCategory name="1" DisplayName="One"   iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>

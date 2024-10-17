@@ -135,37 +135,37 @@
                     <MarkerCategory name="pp" DisplayName="Time Trial: Pumpkin Paradise" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
                     <MarkerCategory name="ritm" DisplayName="Time Trial: Roll in to Madness" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
                 </MarkerCategory>
+
                 <MarkerCategory name="pumpkin" DisplayName="Pumpkin Carving">
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATIONS"/>
-                    <MarkerCategory name="la" DisplayName="Lions Arch">
-                        <MarkerCategory name="set" DisplayName="Settings">
-                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="la" DisplayName="Lions Arch">                
+                            <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
-                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
-                                <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
-                                <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
-                                <MarkerCategory name="large" DisplayName="Large" iconSize="0.75"/>
+                            <MarkerCategory name="foot" DisplayName="Foot Trail Path">
+                                <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                                <MarkerCategory name="wp" DisplayName="Toggle WP Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                                <MarkerCategory name="path" IsSeparator="1" DisplayName="Path Number"/>
+                                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
                             </MarkerCategory>
-                            <!-- End Gliders -->
-                            <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
-                                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
-                                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
-                                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
-                                    <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+
+                            <MarkerCategory name="mounted" DisplayName="Mounted">
+                                <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                                <MarkerCategory name="wp" DisplayName="Toggle WP Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                                
+                                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.25"/>
+                                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
                                 </MarkerCategory>
-                                <!-- End -->
-                                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                                    <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
-                                </MarkerCategory>
-                                <!-- End Mounts   -->
-                                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-                                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-                                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
-                            </MarkerCategory>
-                            <!-- End Mounts -->
-                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                                <!-- End Mounts -->
+                                <MarkerCategory name="path" IsSeparator="1" DisplayName="Path Number"/>
                                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
@@ -174,12 +174,11 @@
                                 <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
                                 <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
                             </MarkerCategory>
-                            <!-- End Numbers -->
-                        </MarkerCategory>
-                        <!-- End Settings -->
+                            <!-- End Mounted -->
                     </MarkerCategory>
                     <MarkerCategory name="caledon" DisplayName="Caledon Forest">
-                        <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                            <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -206,7 +205,7 @@
                                 <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                             </MarkerCategory>
                             <!-- End Mounts -->
-                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                            <MarkerCategory name="number" DisplayName="Mount Trail Segment">
                                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
@@ -226,12 +225,11 @@
                                 <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/LadyElyssa/Images/Numbers/17.png"/>
                             </MarkerCategory>
                             <!-- End Numbers -->
-                        </MarkerCategory>
-                        <!-- End Settings -->
                     </MarkerCategory>
                     <!-- End Caledon Forest -->
                     <MarkerCategory name="metrica" DisplayName="Metrica Province">
-                        <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                            <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -258,7 +256,7 @@
                                 <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                             </MarkerCategory>
                             <!-- End Mounts -->
-                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                            <MarkerCategory name="number" DisplayName="Mount Trail Segment">
                                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
@@ -275,12 +273,11 @@
                                 <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/LadyElyssa/Images/Numbers/14.png"/>
                             </MarkerCategory>
                             <!-- End Numbers -->
-                        </MarkerCategory>
-                        <!-- End Settings -->
                     </MarkerCategory>
                     <!-- End Metrica Province -->
                     <MarkerCategory name="ashford" DisplayName="Plains of Ashford">
-                        <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                            <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -307,7 +304,7 @@
                                 <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                             </MarkerCategory>
                             <!-- End Mounts -->
-                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                            <MarkerCategory name="number" DisplayName="Mount Trail Segment">
                                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
@@ -327,12 +324,11 @@
                                 <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/LadyElyssa/Images/Numbers/17.png"/>
                             </MarkerCategory>
                             <!-- End Numbers -->
-                        </MarkerCategory>
-                        <!-- End Settings -->
                     </MarkerCategory>
                     <!-- End Plains of Ashford -->
                     <MarkerCategory name="queensdale" DisplayName="Queensdale">
-                        <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                            <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -357,7 +353,7 @@
                                 <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                             </MarkerCategory>
                             <!-- End Mounts -->
-                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                            <MarkerCategory name="number" DisplayName="Mount Trail Segment">
                                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
@@ -374,12 +370,11 @@
                                 <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/LadyElyssa/Images/Numbers/14.png"/>
                             </MarkerCategory>
                             <!-- End Numbers -->
-                        </MarkerCategory>
-                        <!-- End Settings -->
                     </MarkerCategory>
                     <!-- End Queensdale -->
                     <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills">
-                        <MarkerCategory name="set" DisplayName="Settings">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                            <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -406,7 +401,7 @@
                                 <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                             </MarkerCategory>
                             <!-- End Mounts -->
-                            <MarkerCategory name="number" DisplayName="Trail Segment">
+                            <MarkerCategory name="number" DisplayName="Mount Trail Segment">
                                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
@@ -430,8 +425,6 @@
                                 <MarkerCategory name="21" DisplayName="Twenty One" iconFile="Data/LadyElyssa/Images/Numbers/21.png"/>
                             </MarkerCategory>
                             <!-- End Numbers -->
-                        </MarkerCategory>
-                        <!-- End Settings -->
                     </MarkerCategory>
                     <!-- End Wayfarer Foothills -->
                 </MarkerCategory>

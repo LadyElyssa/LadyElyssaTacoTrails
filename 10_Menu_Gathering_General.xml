@@ -43,12 +43,12 @@
                             <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
                         </MarkerCategory>
                         <!-- End Mounts -->
-                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
-                    <MarkerCategory name="caledon" DisplayName="Caledon Forest (start)" color="D98D26"/>
-                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
-                    <MarkerCategory name="queensdale" DisplayName="Queensdale" color="D98D26"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="D98D26"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale" color="D98D26"/>
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest (start)" color="D98D26"/>
                 </MarkerCategory>
                 <!-- Rich Silver -->
                 <MarkerCategory name="richsilver" DisplayName="Rich Silver" texture="Data/LadyElyssa/Images/trailarrow grey.png">
@@ -72,13 +72,13 @@
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="fields" DisplayName="Fields of Ruin (start)" color="ACC3DB"/>
                     <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="ACC3DB"/>
-                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
-                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="ACC3DB"/>
-                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="ACC3DB"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
                     <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="ACC3DB"/>
                     <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
                     <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" color="ACC3DB"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="ACC3DB"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="ACC3DB"/>
                 </MarkerCategory>
                 <!-- Rich Gold -->
                 <MarkerCategory name="richgold" DisplayName="Rich Gold" texture="Data/LadyElyssa/Images/trailarrow grey.png">
@@ -88,14 +88,14 @@
                         <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                         <MarkerCategory name="node" DisplayName="Toggle Rich Gold Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Gold.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="FFD700"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin" color="FFD700"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
                     <MarkerCategory name="hirathi" DisplayName="Hirathi Hinterlands (start)" color="FFD700"/>
                     <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
                     <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="FFD700"/>
                     <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="FFD700"/>
-                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
-                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="FFD700"/>
-                    <MarkerCategory name="fields" DisplayName="Fields of Ruin" color="FFD700"/>
                 </MarkerCategory>
                 <!-- Rich Iron -->
                 <MarkerCategory name="richiron" DisplayName="Rich Iron" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
@@ -136,20 +136,21 @@
                         <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
-                <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="7198C1"/>
-                <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
-                <MarkerCategory name="brisban" DisplayName="Brisban" color="7198C1"/>
-                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
-                <MarkerCategory name="gendarren" DisplayName="Gendarren Fields" color="7198C1"/>
-                <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="7198C1"/>
-                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
-                <MarkerCategory name="dredge" DisplayName="Dredgehaunt Cliffs" color="7198C1"/>
-                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="7198C1"/>
-                <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="7198C1"/>
                 <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                 <MarkerCategory name="blazeridge" DisplayName="Blazeridge" color="7198C1"/>
                 <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="7198C1"/>
                 <MarkerCategory name="fields" DisplayName="Fields of Ruin (start)" color="7198C1"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                <MarkerCategory name="gendarren" DisplayName="Gendarren Fields" color="7198C1"/>
+                <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="7198C1"/>
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="7198C1"/>
+                <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                <MarkerCategory name="brisban" DisplayName="Brisban" color="7198C1"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                <MarkerCategory name="dredge" DisplayName="Dredgehaunt Cliffs" color="7198C1"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="7198C1"/>
+                <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="7198C1"/>
+                
             </MarkerCategory>
             <!-- Rich Platinum -->
             <MarkerCategory name="richplat" DisplayName="Rich Platinum" texture="Data/LadyElyssa/Images/trailarrow grey.png">
@@ -190,9 +191,6 @@
                         <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
-                <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE"/>
-                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
-                <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="CCCCCC"/>
                 <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                 <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="CCCCCC"/>
                 <MarkerCategory name="ironmarches" DisplayName="Iron Marches" color="CCCCCC"/>
@@ -201,6 +199,9 @@
                 <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
                 <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="CCCCCC"/>
                 <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen (start)" color="CCCCCC"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="CCCCCC"/>
+                
             </MarkerCategory>
             <!-- Rich Mithril -->
             <MarkerCategory name="richmithril" DisplayName="Rich Mithril" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
@@ -241,13 +242,16 @@
                         <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
-                <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                 <MarkerCategory name="fireheart" DisplayName="Fireheart Rise (start)" color="00BFFF"/>
-                <MarkerCategory name="frostgorge" DisplayName="Frostgorge" color="00BFFF"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
                 <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="00BFFF"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
                 <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="00BFFF"/>
                 <MarkerCategory name="malchors" DisplayName="Malchor's Leap" color="00BFFF"/>
                 <MarkerCategory name="cursedshore" DisplayName="Cursed Shore" color="00BFFF"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge" color="00BFFF"/>
                 <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS   "/>
                 <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00BFFF"/>
                 <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
@@ -313,43 +317,8 @@
                 <MarkerCategory name="grothmar" DisplayName="Grothmar Valley" color="FFAC00"/>
             </MarkerCategory>
             <!-- Plants -->
-            <MarkerCategory name="plants" DisplayName="PLANTS" IsSeparator="1"/>
-
-            <MarkerCategory name="herbs" DisplayName="Herbs, Chance of">
-                <MarkerCategory name="node" DisplayName="Toggle Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="bayleaf" DisplayName="Bay Leaf"/>
-                <MarkerCategory name="peppercorn" DisplayName="Black Peppercorn"/>
-                <MarkerCategory name="chili" DisplayName="Chili Pepper"/>
-                <MarkerCategory name="dill" DisplayName="Dill Sprig"/>
-                <MarkerCategory name="garlic" DisplayName="Garlic"/>
-                <MarkerCategory name="lemongrass" DisplayName="Lemongrass"/>
-                <MarkerCategory name="mint" DisplayName="Mint Leaf"/>
-                <MarkerCategory name="oregano" DisplayName="Oregano Leaf"/>
-                <MarkerCategory name="parsley" DisplayName="Parsley Leaf"/>
-                <MarkerCategory name="rosemary" DisplayName="Rosemary Sprig"/>
-                <MarkerCategory name="sage" DisplayName="Sage Leaf"/>
-                <MarkerCategory name="sesame" DisplayName="Sesame Seed"/>
-                <MarkerCategory name="tarragon" DisplayName="Tarragon Leaves"/>
-                <MarkerCategory name="thyme" DisplayName="Thyme Leaf"/>
-                <MarkerCategory name="vanilla" DisplayName="Vanilla Bean"/>
-                                
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
-                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
-                <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
-                <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
-                <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
-                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="  : Kryta"/>
-                <MarkerCategory name="gendarran" DisplayName="Gendarran"/>
-                <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
-                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
-                <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
-                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks (Mature Herbs)"/>
-                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
-                <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
-                <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
-
-            </MarkerCategory>
-
+            <MarkerCategory name="plants" DisplayName="PLANTS (WiP)" IsSeparator="1"/>
+ 
             <MarkerCategory name="artichoke" DisplayName="Artichoke">
                 <MarkerCategory name="node" DisplayName="Toggle Artichoke Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Teal.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
@@ -359,113 +328,31 @@
                 <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
                 <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
                 <MarkerCategory name="dov" DisplayName="Domain of Vabbi"/>
+                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
             </MarkerCategory>
 
             <MarkerCategory name="asparagus" DisplayName="Asparagus Spear">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="node" DisplayName="Toggle Asparagus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="node" DisplayName="Toggle Asparagus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Purple.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
                 <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
-                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise - Havoc Waypoint"/>
                 <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
-                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom - Judgement Waypoint"/>
                 <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
                 <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
-                <MarkerCategory name="lws5" IsSeparator="1" DisplayName="  : LWS5 - The Icebrood Saga"/>
+                <!--
+                <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5 - The Icebrood Saga"/>
                 <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+                -->
             </MarkerCategory>
 
-            <MarkerCategory name="lettuce" DisplayName="Lettuce">
-                <MarkerCategory name="node" DisplayName="Toggle Lettuce Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
-                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
-                <MarkerCategory name="caledon" DisplayName="Caledon Forest - The Rowanwoods"/>
-                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="  : Kryta"/>
-                <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
-                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks"/>
-                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
-            </MarkerCategory>
-
-            <MarkerCategory name="onion" DisplayName="Onion">
-                <MarkerCategory name="node" DisplayName="Toggle Onion Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
-                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="  : Kryta"/>
-                <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
-                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks"/>
-                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
-                <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
-                
-            </MarkerCategory>
-            
-            <MarkerCategory name="truffle" DisplayName="Orrian Truffle">
-                <MarkerCategory name="node" DisplayName="Toggle Truffle Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Orange.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
-                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
-                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+            <MarkerCategory name="crocus" DisplayName="Black Crocus (Saffron)" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
+                <MarkerCategory name="node" DisplayName="Toggle Black Crocus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Dark Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
                 <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
                 <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
-                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
-                <MarkerCategory name="sirens" DisplayName="Siren's Landing"/>
-            </MarkerCategory>
-
-            <MarkerCategory name="potato" DisplayName="Potatoes">
-                <MarkerCategory name="node" DisplayName="Toggle Potato Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
-                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
-                <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
-                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
-                <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
-                <MarkerCategory name="pof" IsSeparator="1" DisplayName="  : Path of Fire"/>
-                <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
-            </MarkerCategory>
-            <!--
-            
-            https://wiki.guildwars2.com/wiki/Raspberries
-
-            <MarkerCategory name="raspberry" DisplayName="Raspberry">
-                <MarkerCategory name="node" DisplayName="Toggle Raspberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
-                <MarkerCategory name="unknown" DisplayName="Unknown"/>
-            </MarkerCategory>
-            -->
-
-            <MarkerCategory name="saffron" DisplayName="Black Crocus (Saffron)">
-                <MarkerCategory name="node" DisplayName="Toggle Black Crocus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
-                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
-                <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
-                <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
-            </MarkerCategory>
-
-            <MarkerCategory name="sage" DisplayName="Sage Leaf">
-                <MarkerCategory name="node" DisplayName="Toggle Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
-                <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
-                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
-            </MarkerCategory>
-
-            <MarkerCategory name="seaweed" DisplayName="Seaweed">
-                <MarkerCategory name="node" DisplayName="Toggle Seaweed Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
-                <MarkerCategory name="ember" DisplayName="Ember Bay"/>
-                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
-                <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
-            </MarkerCategory>
-
-            <MarkerCategory name="strawberry" DisplayName="Strawberries">
-                <MarkerCategory name="node" DisplayName="Toggle Strawberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="Ascalon"/>
-                <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
-                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="Shiverpeaks"/>
-                <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
-            </MarkerCategory>
-
-            <MarkerCategory name="pumpkins" DisplayName="Sugar Pumpkins">
-                <MarkerCategory name="node" DisplayName="Toggle Sugar Pumpkin Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="Ascalon"/>
-                <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
-                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="Kryta"/>
-                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
             </MarkerCategory>
 
             <MarkerCategory name="blooming" DisplayName="Blooming Passiflora">
@@ -503,39 +390,22 @@
                         <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
-                <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
                 <MarkerCategory name="southsun" DisplayName="Southsun Cove" texture="Data/LadyElyssa/Images/Trail-Textured.png" color="FF65CD"/>
                 <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3"/>
                 <MarkerCategory name="ember" DisplayName="Ember Bay" texture="Data/LadyElyssa/Images/Trail-Textured.png" color="FF65CD"/>
             </MarkerCategory>
             <!-- End Blooming Passiflora -->
-            <MarkerCategory name="desert" DisplayName="Desert Herbs">
+
+            <MarkerCategory name="desert" DisplayName="Desert Herbs"> 
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                    <MarkerCategory name="herbs" DisplayName="Toggle Desert Herbs" iconFile="Data/LadyElyssa/Images/Verdant.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="1" defaulttoggle="0"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
-                            <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
-                        </MarkerCategory>
-                        <!-- End Mounts   -->
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
-                        </MarkerCategory>
-                        <!-- End Mounts   -->
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
-                    </MarkerCategory>
-                    <!-- End Mounts -->
+                    <MarkerCategory name="herbs" DisplayName="Toggle Desert Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
                 <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
-                <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
-                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
+                <MarkerCategory name="kourna" DisplayName="Domain of Kourna" color="CEFF33"/>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" color="CEFF33"/>
             </MarkerCategory>
+
             <MarkerCategory name="flax" DisplayName="Flax">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -587,6 +457,24 @@
                 <MarkerCategory name="seitung" DisplayName="Seitung Province - Village WP" color="D2B48C"/>
             </MarkerCategory>
             <!-- End FLAX -->
+
+            <MarkerCategory name="herbs" DisplayName="Herbs">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="node" DisplayName="Toggle Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Yellow.png" miniMapVisibility="1" inGameVisibility="0" fadefar="20000" mapDisplaySize="32" />
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>                
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom - Oxbow Isle Waypoint"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks (Mature Herbs)"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
+
+            </MarkerCategory>
+
             <MarkerCategory name="lily" DisplayName="Jungle Plants (Maguuma Lily)">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -631,6 +519,67 @@
                 <MarkerCategory name="draconis" DisplayName="Draconis Mons - Ancient Hollow WP" color="FFCCFF"/>
             </MarkerCategory>
             <!-- End Jungle Plants -->
+
+            <MarkerCategory name="lettuce" DisplayName="Lettuce">
+                <MarkerCategory name="node" DisplayName="Toggle Lettuce Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest - The Rowanwoods"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="onion" DisplayName="Onion">
+                <MarkerCategory name="node" DisplayName="Toggle Onion Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="truffle" DisplayName="Orrian Truffle">
+                <MarkerCategory name="node" DisplayName="Toggle Truffle Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Gold.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                <MarkerCategory name="sirens" DisplayName="Siren's Landing"/>
+            </MarkerCategory>    
+            
+            <MarkerCategory name="potato" DisplayName="Potatoes">
+                <MarkerCategory name="node" DisplayName="Toggle Potato Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
+                <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="pumpkins" DisplayName="Sugar Pumpkins">
+                <MarkerCategory name="node" DisplayName="Toggle Sugar Pumpkin Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Orange.png" miniMapVisibility="0" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+            </MarkerCategory>
+
+            <!--
+            
+            https://wiki.guildwars2.com/wiki/Raspberries
+
+            <MarkerCategory name="raspberry" DisplayName="Raspberry">
+                <MarkerCategory name="node" DisplayName="Toggle Raspberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="unknown" DisplayName="Unknown"/>
+            </MarkerCategory>
+            -->
+
             <MarkerCategory name="sawgill" DisplayName="Sawgill Mushrooms" texture="Data/LadyElyssa/Images/Trail-Mushroom.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -649,6 +598,23 @@
                 <MarkerCategory name="jahai" DisplayName="Jahai Bluffs"/>
             </MarkerCategory>
             <!-- End Sawgill Mushrooms -->
+
+            <MarkerCategory name="seaweed" DisplayName="Seaweed">
+                <MarkerCategory name="node" DisplayName="Toggle Seaweed Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                <MarkerCategory name="ember" DisplayName="Ember Bay"/>
+                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="strawberry" DisplayName="Strawberries">
+                <MarkerCategory name="node" DisplayName="Toggle Strawberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Red.png" miniMapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+            </MarkerCategory>
+            
             <MarkerCategory name="toxicseedling" DisplayName="Toxic Seedling">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -720,7 +686,9 @@
                         <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
-            
+                <MarkerCategory name="map"  IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise - Apostate Waypoint" color="CEFF33"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom - Broken Arrow Waypoint" color="CEFF33"/>
                 <MarkerCategory name="lws3"  IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
                 <MarkerCategory name="doric" DisplayName="Lake Doric - Red Leaf Retreat" color="CEFF33"/>
                 <MarkerCategory name="lws5"  IsSeparator="1" DisplayName="LWS55: Icebrood Saga   "/>
@@ -730,7 +698,6 @@
                 <MarkerCategory name="ls" DisplayName="Lowland Shore" color="CEFF33"/>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri" color="CEFF33"/>
             </MarkerCategory>
-
 
             <!-- Quartz Crystal -->
             <MarkerCategory name="crystal" DisplayName="QUARTZ CRYSTAL" IsSeparator="1"/>
@@ -744,7 +711,7 @@
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
-                <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
                 <MarkerCategory name="drytop" DisplayName="Dry Top" color="00CCFF"/>
             </MarkerCategory>
             <MarkerCategory name="richquartz" DisplayName="Rich Quartz Crystal">
@@ -792,7 +759,7 @@
             <MarkerCategory name="ancient" DisplayName="Ancient Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/trailarrow-wood.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                    <MarkerCategory name="wood" DisplayName="Toggle Hard Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Hard.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="wood" DisplayName="Toggle Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Hard.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
@@ -892,7 +859,7 @@
                     </MarkerCategory>
                     <!-- End Numbers -->
                 <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
-                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom, Ashen WP"/>
                 <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
                 <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
                 <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
@@ -925,7 +892,7 @@
                 <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
                 <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
                 <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
-                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs, Graupel WP"/>
             </MarkerCategory>
 
             <MarkerCategory name="soft" DisplayName="Soft Wood" texture="Data/LadyElyssa/Images/trailarrow-wood.png">
