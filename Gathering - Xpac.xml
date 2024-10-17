@@ -17,6 +17,11 @@
         <Trail type="legs.gathering.xpac.honeyflower.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Flowers 2.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeyflower.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Flowers 3.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeyflower.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Flowers 4.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="556.556" ypos="423.126" zpos="-553.877" type="legs.gathering.xpac.honeyflower.start" GUID="tVD/UoiThE+syk7YA/gCiw==" inGameVisibility="0"/>
+        <POI MapID="1550" xpos="94.2176" ypos="151.802" zpos="-0.0149542" type="legs.gathering.xpac.honeyflower.end" GUID="f9MwFhlBEE2lFkXBbzDnBA=="/>
+        <POI MapID="1550" xpos="-721.944" ypos="211.597" zpos="-184.362" type="legs.gathering.xpac.honeyflower.wp" GUID="Ykwf8xDlWUCYZ4VylgdlIA==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
+        <POI MapID="1550" xpos="-193.743" ypos="311.322" zpos="-648.325" type="legs.gathering.xpac.honeyflower.wp" GUID="bi5aiDt5NU+2UGxpjNCteA==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-728.044" ypos="0.511159" zpos="15.7838" type="legs.gathering.xpac.honeyflower.wp" GUID="CjKSMAK2wUKksmi4eow1GA==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="304.948" ypos="328.938" zpos="-558.92" type="legs.gathering.xpac.honeyflower.tog" GUID="XFWX20UoUkmMsm9wUCcpXQ=="/>
         <POI MapID="1550" xpos="198.109" ypos="308.876" zpos="-499.591" type="legs.gathering.xpac.honeyflower.tog" GUID="8EOABTFTzkeSkIg5Af3R/g=="/>
         <POI MapID="1550" xpos="136.102" ypos="311.228" zpos="-415.751" type="legs.gathering.xpac.honeyflower.tog" GUID="vo9z1pUpUUy742xaHj80qg=="/>
@@ -80,6 +85,7 @@
         <Trail type="legs.gathering.xpac.lowlandpine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Lowland Pines 5.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.lowlandpine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Lowland Pines 6.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.lowlandpine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Lowland Pines 7.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="556.556" ypos="423.126" zpos="-553.877" type="legs.gathering.xpac.lowlandpine.start" GUID="brCT1HGZHk67w2AX+NGglA==" inGameVisibility="0"/>
         <POI MapID="1550" xpos="-655.238" ypos="2.19461" zpos="541.196" type="legs.gathering.xpac.lowlandpine.tog" GUID="i310mXG1S0mcKFav7poldA=="/>
         <POI MapID="1550" xpos="-240.851" ypos="205.936" zpos="-351.633" type="legs.gathering.xpac.lowlandpine.tog" GUID="ryOquXc6lEai/bcBA3c9EA=="/>
         <POI MapID="1550" xpos="-97.5303" ypos="309.606" zpos="-381.052" type="legs.gathering.xpac.lowlandpine.tog" GUID="nxUB/z0bVEyD3f0OZZ6yoQ=="/>
@@ -180,7 +186,7 @@
         <Trail type="legs.gathering.xpac.honeypine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Pine 2.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeypine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Pine 3.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeypine.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Pine 4.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
-        <POI MapID="1550" xpos="557.014" ypos="423.099" zpos="-555.227" type="legs.gathering.xpac.honeypine.start" GUID="WvxHxt9C60WMkqLatuIFYw==" inGameVisibility="0"/>
+        <POI MapID="1550" xpos="556.556" ypos="423.126" zpos="-553.877" type="legs.gathering.xpac.honeypine.start" GUID="DojUGhEXBUSkKwov/e0Ggg==" inGameVisibility="0"/>
         <POI MapID="1550" xpos="775.978" ypos="98.2703" zpos="252.876" type="legs.gathering.xpac.honeypine.wp" GUID="bHj54HRJ006JttrsJUNgkA==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="559.737" ypos="423.099" zpos="-558.405" type="legs.gathering.xpac.honeypine.number.1" GUID="tYuNBSXYDUqaUPhsKDwnrg=="/>
         <POI MapID="1550" xpos="539.003" ypos="218.329" zpos="35.3376" type="legs.gathering.xpac.honeypine.number.2" GUID="TVK3PF332EGlXVdvsKvvlg=="/>
@@ -189,6 +195,7 @@
         <POI MapID="1550" xpos="-717.919" ypos="282.57" zpos="-305.488" type="legs.gathering.xpac.honeypine.wp" GUID="o3XVO0gU9EW1c0ixwqpa5g==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
         <POI MapID="1550" xpos="-715.893" ypos="210.25" zpos="-55.3811" type="legs.gathering.xpac.honeypine.number.4" GUID="sjzrC08uZEKde7mhxwGVbQ=="/>
         <POI MapID="1550" xpos="-801.264" ypos="55.676" zpos="226.541" type="legs.gathering.xpac.honeypine.end" GUID="4iioPBLoPUSzuEqvWOqwMA=="/>
+        
 
 
 
