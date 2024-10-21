@@ -433,7 +433,7 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                    <MarkerCategory name="flax" DisplayName="Toggle Flax Seeds" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="1" defaulttoggle="0"/>
+                    <MarkerCategory name="flax" DisplayName="Toggle Flax Seeds" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
