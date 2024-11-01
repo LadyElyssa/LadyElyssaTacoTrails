@@ -416,8 +416,8 @@
 
         <!-- EoD - Cantha - Seitung Province - Trials of the Tengu -->
 
-        <Trail type="legs.jp.trials.seitung" trailData="Data/LadyElyssa/Jumping Puzzles/Trials of the Tengu.trl"/>
-        <POI MapID="1442" xpos="-831.677" ypos="115.501" zpos="-114.811" type="legs.jp.trials.sign" GUID="m0Ck45FYGEeC84QvfyMJYw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Trials of the Tengu.png"/>
+        <Trail type="legs.jp.trials.seitung" trailData="Data/LadyElyssa/Jumping Puzzles/EoD/Trials of the Tengu.trl"/>
+        <POI MapID="1442" xpos="-860.2476" ypos="120.4227" zpos="-108.0494" type="legs.jp.trials.sign" GUID="m0Ck45FYGEeC84QvfyMJYw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/EoD/Trials of the Tengu.png"/>
         <POI MapID="1442" xpos="-593.251" ypos="169.747" zpos="162.216" type="legs.jp.trials.glider" GUID="itSAnYARe06dWmQE6u2Ixw==" fadeNear="1200" fadeFar="1400"/>
         <POI MapID="1442" xpos="-745.992" ypos="170.003" zpos="181.25" type="legs.jp.trials.glider" GUID="XZ8A0Y7oEUSKbhlA0J0CJg==" fadeNear="1200" fadeFar="1400"/>
         <POI MapID="1442" xpos="-752.235" ypos="193.574" zpos="246.774" type="legs.jp.trials.glider" GUID="RCa7wMQOTUieRsiEEZui9g==" fadeNear="1200" fadeFar="1400"/>
@@ -427,10 +427,10 @@
         <POI MapID="1442" xpos="-868.799" ypos="179.287" zpos="354.215" type="legs.jp.trials.glider" GUID="AfghcoiNnEiZPn8J3y186g==" fadeNear="1200" fadeFar="1400"/>
         <POI MapID="1442" xpos="-926.613" ypos="194.16" zpos="466.071" type="legs.jp.trials.glider" GUID="OhNwv9xdfku4604GReRGKA==" fadeNear="1200" fadeFar="1400"/>
         
-        <Trail type="legs.jp.wind.kaineng" GUID="U4Zkaj1WtEyJOF/hUL8rIg==" trailData="Data/LadyElyssa/Jumping Puzzles/Wind Through the Walls Start.trl"/>
-        <POI MapID="1438" xpos="583.659" ypos="2.48471" zpos="-5.10766" type="legs.jp.wind.sign" GUID="ZCc1suCS9UytKSLBYAH6YQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Wind Through the Walls.png"/>
-        <Trail type="legs.jp.wind.kaineng" GUID="cTTcWF68QkWA0ixLgCkPBg==" trailData="Data\LadyElyssa\Jumping Puzzles\Wind Through the Walls Main.trl"/>
-        <Trail type="legs.jp.wind.jbglider" GUID="LjXVRbEK5ky8SjuxrabX5Q==" trailData="Data\LadyElyssa\Jumping Puzzles\Wind Through the Walls Short.trl" color="00FF00"/>
+        <Trail type="legs.jp.wind.kaineng" trailData="Data/LadyElyssa/Jumping Puzzles/EoD/Wind Through the Walls Start.trl"/>
+        <POI MapID="1438" xpos="583.659" ypos="2.48471" zpos="-5.10766" type="legs.jp.wind.sign" GUID="ZCc1suCS9UytKSLBYAH6YQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/EoD/Wind Through the Walls.png"/>
+        <Trail type="legs.jp.wind.kaineng" trailData="Data/LadyElyssa/Jumping Puzzles/EoD/Wind Through the Walls Main.trl"/>
+        <Trail type="legs.jp.wind.jbglider" trailData="Data/LadyElyssa/Jumping Puzzles/EoD/Wind Through the Walls Short.trl" color="00FF00"/>
         <POI MapID="1438" xpos="882.439" ypos="94.336" zpos="731.315" type="legs.jp.wind.jbglider" GUID="nLRjQ63GZUepk7o+aDH2hg==" fadeNear="1200" fadeFar="1400"/>
         <POI MapID="1438" xpos="791.093" ypos="101.17" zpos="743.197" type="legs.jp.wind.jbglider" GUID="rOtk+8P1qEWBdFFO3doh4A==" fadeNear="1200" fadeFar="1400"/>
         <POI MapID="1438" xpos="799.313" ypos="107.012" zpos="760.589" type="legs.jp.wind.jbglider" GUID="l11+96oUgEe/LQnqL6fCUw==" fadeNear="1200" fadeFar="1400"/>
