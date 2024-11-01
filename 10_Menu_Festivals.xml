@@ -120,9 +120,14 @@
             <!-- Halloween -->
 
             <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/LadyElyssa/Images/Candy Gradient.png">
-                <MarkerCategory name="clocktower" DisplayName="Clocktower" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0" fadeNear="600" fadeFar="800">
-                    <MarkerCategory name="trail" DisplayName="Mad King's Clocktower" color="FF33FF"/>
+                <MarkerCategory name="candy" DisplayName="Candy Corn">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="corn" DisplayName="Toggle Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="rich" DisplayName="Toggle Rich Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Rich Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATIONS"/>
+                    <MarkerCategory name="la" DisplayName="Lions Arch"/>                
                 </MarkerCategory>
+                <MarkerCategory name="clocktower" DisplayName="Clocktower" texture="Data/LadyElyssa/Images/Candy Gradient.png" animSpeed="0" fadeNear="600" fadeFar="800"/>
                 <MarkerCategory name="labyrinth" DisplayName="Labyrinth">
                     <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                     <MarkerCategory name="race" DisplayName="Race - Mad King's Labyrinth" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
@@ -134,7 +139,7 @@
                     <MarkerCategory name="lebb" DisplayName="Time Trial: Li'l Eddie's Bunny Bounce" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
                     <MarkerCategory name="pp" DisplayName="Time Trial: Pumpkin Paradise" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
                     <MarkerCategory name="ritm" DisplayName="Time Trial: Roll in to Madness" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
-                </MarkerCategory>
+                </MarkerCategory>                
 
                 <MarkerCategory name="pumpkin" DisplayName="Pumpkin Carving">
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATIONS"/>
