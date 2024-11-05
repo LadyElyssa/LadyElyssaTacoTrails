@@ -155,6 +155,61 @@
         <Trail type="legs.festivals.fotfw.lc.lanterns" trailData="Data/LadyElyssa/Festivals/Festival of the Four Winds/Dead Quaggan.trl" color="FFFFFF"/>
         
         <!-- Halloween -->
+
+        <!-- Possible Candy Corn -->
+        <!-- mapID -->
+        <!-- 
+            15 Queensdale
+            34 Caledon Forest 
+            65 Malchor's Leap
+            31 Snowden Drifts
+            19 Ascalon
+            54 Brisban 
+            1370 Eye of the North needs to use eithe a 24 or 16 for the mapDisplaySize
+        -->
+        <!-- ASCALON -->
+        <!-- Ashford -->
+        <POI MapID="19" xpos="587.137" ypos="80.3348" zpos="538.078" type="legs.festivals.halloween.candy.rich.ashford" GUID="OTVptOw4OE6PYG+MxjuLdg=="/>
+        <!-- Diessa -->
+        <POI MapID="32" xpos="505.519" ypos="43.681" zpos="-654.947" type="legs.festivals.halloween.candy.rich.diessa" GUID="WxneVEe9pUOhBkCrrfOtNA=="/>
+        
+        <!-- KRYTA -->
+        <!-- Queensdale -->
+        <POI MapID="15" xpos="343.841" ypos="-2.66228" zpos="719.713" type="legs.festivals.halloween.candy.rich.queensdale" GUID="BJijVijazUOnBVE8ihNpeA=="/>
+        
+
+        <!-- MAGUUMA JUNGLE -->
+        <!-- Caledon -->
+        <POI MapID="34" xpos="-271.846" ypos="0.882216" zpos="1115.23" type="legs.festivals.halloween.candy.corn.caledon" GUID="BNnHO2epaUy8lRRFSMFXLw=="/>
+        <POI MapID="34" xpos="503.625" ypos="-16.6614" zpos="415.087" type="legs.festivals.halloween.candy.corn.caledon" GUID="aaS1tS0gxUi96pSfvDhzMQ=="/>
+        <!-- Brisban -->
+        <POI MapID="54" xpos="714.533" ypos="96.2532" zpos="501.678" type="legs.festivals.halloween.candy.rich.brisban" GUID="VqSf9L4ouESyglzeTbCwvA=="/>
+        <!-- Mount Maelstrom -->
+        <POI MapID="53" xpos="564.643" ypos="12.3261" zpos="737.615" type="legs.festivals.halloween.candy.corn.maelstrom" GUID="DKAOktceqUis211aPad3VQ=="/>
+
+        <!-- RUINS OF ORR -->
+        <!-- Malchors -->
+        <POI MapID="65" xpos="838.749" ypos="80.6419" zpos="-527.293" type="legs.festivals.halloween.candy.rich.malchors" GUID="jEcujofvWU+IqBY4hIVRbA=="/>
+        <POI MapID="65" xpos="822.297" ypos="79.5014" zpos="-526.533" type="legs.festivals.halloween.candy.corn.malchors" GUID="0AxthzTNdEChMgDYDsUGLA=="/>
+        <!-- Cursed Shore -->
+        <POI MapID="62" xpos="355.661" ypos="55.2569" zpos="804.391" type="legs.festivals.halloween.candy.rich.cs" GUID="abRyezYcgke2tvO7ZkXx5Q=="/>
+        <POI MapID="62" xpos="480.616" ypos="33.7364" zpos="-688.574" type="legs.festivals.halloween.candy.rich.cs" GUID="ADtk4bbpM0+n+SqBgA5xOw=="/>
+        <POI MapID="62" xpos="-306.992" ypos="49.3184" zpos="-731.186" type="legs.festivals.halloween.candy.corn.cs" GUID="deTMqn74/Emamo46kR512Q=="/>
+        <POI MapID="62" xpos="-338.044" ypos="40.8463" zpos="-674.238" type="legs.festivals.halloween.candy.corn.cs" GUID="8MX3NjKqJk+zVMrorpBckQ=="/>
+
+        <!-- SHIVERPEAKS -->
+        <!-- Snowden -->
+        <POI MapID="31" xpos="-888.351" ypos="53.2761" zpos="-444.069" type="legs.festivals.halloween.candy.corn.snowden" GUID="83VSl8AQo0q/92xX5fsMUw=="/>
+        <!-- EotN -->
+        <POI MapID="1370" xpos="-226.574" ypos="1.88522" zpos="159.887" type="legs.festivals.halloween.candy.corn.eotn" GUID="2NOCDKBEyEKBsLbaNj1vig==" mapDisplaySize="16"/>
+        <POI MapID="1370" xpos="-211.964" ypos="1.76034" zpos="183.349" type="legs.festivals.halloween.candy.corn.eotn" GUID="8ish8cfJLky9Q395bKlL+w==" mapDisplaySize="16"/>
+
+        <!-- THE MISTS -->
+        <!-- Mad King's Labyrinth -->
+        
+        
+        
+
         <!-- Pumpkins - LA -->
 
         <Trail type="legs.festivals.halloween.pumpkin.la.foot" trailData="Data/LadyElyssa/Festivals/Halloween/Pumpkins - Lions Arch - Foot 1.trl"/>

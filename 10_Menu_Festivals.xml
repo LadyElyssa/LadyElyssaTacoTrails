@@ -120,13 +120,47 @@
             <!-- Halloween -->
 
             <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/LadyElyssa/Images/Candy Gradient.png">
-                <MarkerCategory name="candy" DisplayName="Candy Corn">
+                <MarkerCategory name="candy" DisplayName="Candy Corn (Chance)">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
-                    <MarkerCategory name="corn" DisplayName="Toggle Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
-                    <MarkerCategory name="rich" DisplayName="Toggle Rich Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Rich Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
-                    <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATIONS"/>
-                    <MarkerCategory name="la" DisplayName="Lions Arch"/>                
+                    <MarkerCategory name="corn" DisplayName="Toggle Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0">
+                        <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                        <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                        <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                        <MarkerCategory name="shiverpeaks" DisplayName="SHIVERPEAKS"/>
+                        <MarkerCategory name="eotn" DisplayName="Eye of the North (Guaranteed)"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                        <MarkerCategory name="mists" IsSeparator="1" DisplayName="THE MISTS"/>
+                        <MarkerCategory name="mkl" DisplayName="Mad King's Labyrinth"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="rich" DisplayName="Toggle Rich Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Rich Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0">
+                        <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                        <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                        <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                        <MarkerCategory name="shiverpeaks" DisplayName="SHIVERPEAKS"/>
+                        <MarkerCategory name="eotn" DisplayName="Eye of the North (Guaranteed)"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                        <MarkerCategory name="mists" IsSeparator="1" DisplayName="THE MISTS"/>
+                        <MarkerCategory name="mkl" DisplayName="Mad King's Labyrinth"/>
+                    </MarkerCategory>
                 </MarkerCategory>
+
                 <MarkerCategory name="clocktower" DisplayName="Clocktower" texture="Data/LadyElyssa/Images/Candy Gradient.png" animSpeed="0" fadeNear="600" fadeFar="800"/>
                 <MarkerCategory name="labyrinth" DisplayName="Labyrinth">
                     <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
