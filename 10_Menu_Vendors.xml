@@ -1,0 +1,210 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!-- MAP ENHANCEMENTS -->
+        <MarkerCategory name="vendors" DisplayName="Vendors">
+            <MarkerCategory name="psna" DisplayName="Pact Supply Network Agents" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" inGameVisibility="1">
+                <MarkerCategory name="mon" DisplayName="Monday">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="drytop" DisplayName="Dry Top"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                </MarkerCategory>
+                <MarkerCategory name="tue" DisplayName="Tuesday">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                </MarkerCategory>
+                <MarkerCategory name="wed" DisplayName="Wednesday">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="drytop" DisplayName="Dry Top" iconFile="Data/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                </MarkerCategory>
+                <MarkerCategory name="thu" DisplayName="Thursday">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="iron" DisplayName="Iron Marches"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="brisban" DisplayName="Brisban"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                </MarkerCategory>
+                <MarkerCategory name="fri" DisplayName="Friday">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="drytop" DisplayName="Dry Top"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                </MarkerCategory>
+                <MarkerCategory name="sat" DisplayName="Saturday">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                </MarkerCategory>
+                <MarkerCategory name="sun" DisplayName="Sunday">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="drytop" DisplayName="Dry Top"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <!--
+            <MarkerCategory name="elisa" DisplayName="Priory Historian Elisa" texture="Data/LadyElyssa/Images/Diamond with Shadow.png" inGameVisibility="1">
+                <MarkerCategory name="dh" DisplayName="Desert Highlands">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle Elisa (Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
+                    <MarkerCategory name="1" DisplayName="1"/>
+                    <MarkerCategory name="6" DisplayName="6"/>
+                    <MarkerCategory name="11" DisplayName="11"/>
+                    <MarkerCategory name="16" DisplayName="16"/>
+                    <MarkerCategory name="21" DisplayName="21"/>
+                    <MarkerCategory name="26" DisplayName="26"/>
+                    <MarkerCategory name="31" DisplayName="31"/>
+                    <MarkerCategory name="36" DisplayName="36"/>
+                    <MarkerCategory name="41" DisplayName="41"/>
+                    <MarkerCategory name="46" DisplayName="46"/>
+                    <MarkerCategory name="51" DisplayName="51"/>
+                </MarkerCategory>
+                <MarkerCategory name="dov" DisplayName="Domain of Vabbi">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle Elisa (Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
+                    <MarkerCategory name="2" DisplayName="2"/>
+                    <MarkerCategory name="7" DisplayName="7"/>
+                    <MarkerCategory name="12" DisplayName="12"/>
+                    <MarkerCategory name="17" DisplayName="17"/>
+                    <MarkerCategory name="22" DisplayName="22"/>
+                    <MarkerCategory name="27" DisplayName="27"/>
+                    <MarkerCategory name="32" DisplayName="32"/>
+                    <MarkerCategory name="37" DisplayName="37"/>
+                    <MarkerCategory name="42" DisplayName="42"/>
+                    <MarkerCategory name="47" DisplayName="47"/>
+                </MarkerCategory>
+                <MarkerCategory name="co" DisplayName="Crystal Oasis">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle Elisa (Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
+                    <MarkerCategory name="3" DisplayName="3"/>
+                    <MarkerCategory name="8" DisplayName="8"/>
+                    <MarkerCategory name="13" DisplayName="13"/>
+                    <MarkerCategory name="18" DisplayName="18"/>
+                    <MarkerCategory name="23" DisplayName="23"/>
+                    <MarkerCategory name="28" DisplayName="28"/>
+                    <MarkerCategory name="33" DisplayName="33"/>
+                    <MarkerCategory name="38" DisplayName="38"/>
+                    <MarkerCategory name="43" DisplayName="43"/>
+                    <MarkerCategory name="48" DisplayName="48"/>
+                </MarkerCategory>
+                <MarkerCategory name="er" DisplayName="Elon Riverlands">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle Elisa (Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
+                    <MarkerCategory name="4" DisplayName="4"/>
+                    <MarkerCategory name="9" DisplayName="9"/>
+                    <MarkerCategory name="14" DisplayName="14"/>
+                    <MarkerCategory name="19" DisplayName="19"/>
+                    <MarkerCategory name="24" DisplayName="24"/>
+                    <MarkerCategory name="29" DisplayName="29"/>
+                    <MarkerCategory name="34" DisplayName="34"/>
+                    <MarkerCategory name="39" DisplayName="39"/>
+                    <MarkerCategory name="44" DisplayName="44"/>
+                    <MarkerCategory name="49" DisplayName="49"/>
+                </MarkerCategory>
+                <MarkerCategory name="td" DisplayName="The Desolation">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="square" DisplayName="Toggle Elisa (Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
+                    <MarkerCategory name="5" DisplayName="5"/>
+                    <MarkerCategory name="10" DisplayName="10"/>
+                    <MarkerCategory name="15" DisplayName="15"/>
+                    <MarkerCategory name="20" DisplayName="20"/>
+                    <MarkerCategory name="25" DisplayName="25"/>
+                    <MarkerCategory name="30" DisplayName="30"/>
+                    <MarkerCategory name="35" DisplayName="35"/>
+                    <MarkerCategory name="40" DisplayName="40"/>
+                    <MarkerCategory name="45" DisplayName="45"/>
+                    <MarkerCategory name="50" DisplayName="50"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            -->
+        </MarkerCategory>
+        <!-- END VENDORS -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

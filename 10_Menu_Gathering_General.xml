@@ -400,8 +400,13 @@
                 <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="node" DisplayName="Toggle Clam Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                <MarkerCategory name="brisban" DisplayName="Brisban Wildlands - Mrot Bru Waypoint" color="A93100"/>
                 <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
                 <MarkerCategory name="co" DisplayName="Crystal Oasis - Amnoon Waypoint" color="A93100"/>
+                <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp Waypoint" color="A93100"/>
+                <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                <MarkerCategory name="nkc" DisplayName="New Kaineng City" color="A93100"/>
             </MarkerCategory>
 
             <MarkerCategory name="coral" DisplayName="Coral">
@@ -410,6 +415,8 @@
                 <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="node" DisplayName="Toggle Coral Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                <MarkerCategory name="siren" DisplayName="Siren's Landing" color="DD0C00"/>
                 <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
                 <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp Waypoint" color="DD0C00"/>
             </MarkerCategory>
@@ -434,6 +441,24 @@
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="flax" DisplayName="Toggle Flax Seeds" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png">
+                            <MarkerCategory name="leap" DisplayName="Raptor - Leap" iconFile="Data/LadyElyssa/Images/Mounts/Raptor - Leap.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts   -->
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                        </MarkerCategory>
+                        <!-- End Mounts   -->
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
                     <MarkerCategory name="number" DisplayName="Trail Segment">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
@@ -448,7 +473,9 @@
                     </MarkerCategory>
                     <!-- End Numbers -->
                 <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
-                <MarkerCategory name="vb" DisplayName="Verdant Brink - Jaka Itzel WP" color="D2B48C"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink - Jaka Itzel WP" color="D2B48C">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                </MarkerCategory>
                 <MarkerCategory name="td" DisplayName="Tangled Depths" color="D2B48C">
                     <MarkerCategory name="glider" DisplayName="Glider Route"/>
                     <MarkerCategory name="mount" DisplayName="Mount Route"/>
@@ -600,6 +627,19 @@
             </MarkerCategory>
             -->
 
+            <MarkerCategory name="om" DisplayName="Omnomberry">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="node" DisplayName="Toggle Omnomberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Plum Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                <MarkerCategory name="orr" IsSeparator="1" DisplayName="Ruins of Orr"/>
+                <MarkerCategory name="malchors" DisplayName="Malchor's Leap" color="D2405D"/>
+                <MarkerCategory name="cs" DisplayName="Cursed Shore" color="D2405D"/>
+                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                <MarkerCategory name="siren" DisplayName="Siren's Landing" color="D2405D"/>
+            </MarkerCategory>
+
             <MarkerCategory name="truffle" DisplayName="Orrian Truffle">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
@@ -630,6 +670,8 @@
                 <MarkerCategory name="metrica" DisplayName="Metrica Province - Akk Wilds Waypoint"/>
                 <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
                 <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp Waypoint"/>
             </MarkerCategory>
 
             <!--
@@ -686,12 +728,15 @@
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                <MarkerCategory name="node" DisplayName="Toggle Seaweed Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="node" DisplayName="Toggle Seaweed Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Dark Green.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                 <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
                 <MarkerCategory name="ember" DisplayName="Ember Bay - Promontory Waypoint"/>
                 <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
                 <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
+                <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp Waypoint"/>
             </MarkerCategory>
 
             <MarkerCategory name="strawberry" DisplayName="Strawberries">
@@ -798,6 +843,7 @@
                 <MarkerCategory name="doric" DisplayName="Lake Doric - Red Leaf Retreat" color="CEFF33"/>
                 <MarkerCategory name="lws5"  IsSeparator="1" DisplayName="LWS55: Icebrood Saga   "/>
                 <MarkerCategory name="bjora" DisplayName="Bjora Marches - Still Waters Speaking WP" color="CEFF33"/>
+                <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp Waypoint" color="CEFF33"/>
                 <MarkerCategory name="grothmar" DisplayName="Grothmar Valley - Blood Keep WP" color="CEFF33"/>
                 <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS   "/>
                 <MarkerCategory name="ls" DisplayName="Lowland Shore" color="CEFF33"/>
@@ -810,7 +856,7 @@
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                <MarkerCategory name="quartz" DisplayName="Toggle Quartz Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Quartz.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                <MarkerCategory name="quartz" DisplayName="Toggle Quartz Nodes" iconFile="Data/LadyElyssa/Images/Square - Teal.png" mapVisibility="1" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                 <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>

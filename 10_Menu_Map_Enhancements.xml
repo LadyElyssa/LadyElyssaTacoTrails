@@ -11,7 +11,7 @@
                 <MarkerCategory name="rs" DisplayName="Rata Sum" mapDisplaySize="24"/>
                 <MarkerCategory name="tg" DisplayName="The Grove" mapDisplaySize="24"/>
             </MarkerCategory>
-            
+
             <MarkerCategory name="speedboons" DisplayName="Speed Boons" iconFile="Data/LadyElyssa/Images/Icons/Speed Boons.png">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CITY"/>
                 <MarkerCategory name="bc" DisplayName="Black Citadel" mapDisplaySize="16"/>
@@ -21,7 +21,8 @@
                 <MarkerCategory name="rs" DisplayName="Rata Sum" mapDisplaySize="24"/>
                 <MarkerCategory name="tg" DisplayName="The Grove" mapDisplaySize="24"/>
             </MarkerCategory>
-            <MarkerCategory name="zone" DisplayName="Toggle Zone Portals" iconFile="Data/LadyElyssa/Images/Zone Gate.png" mapDisplaySize="64"/>
+
+            <MarkerCategory name="zone" DisplayName="Zone Portals" iconFile="Data/LadyElyssa/Images/Zone Gate.png" inGameVisibility="0" mapDisplaySize="64"/>
         </MarkerCategory>
         <!-- END CORE MAP ENHANCEMENTS -->
     </MarkerCategory>
