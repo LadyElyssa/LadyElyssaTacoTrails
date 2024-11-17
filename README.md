@@ -186,6 +186,10 @@ Added Trails for Map Mastery Insights for:
 * Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
    * End of Dragons
 
+## Vendors ##
+* PSNA - Pact Supply Network Agents
+* Priory Historian Elisa (Work in Progress)
+
 ## World Bosses ##
 * All core map world bosses including Pre-Event locations
 
