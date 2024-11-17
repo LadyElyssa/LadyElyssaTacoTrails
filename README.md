@@ -61,9 +61,28 @@ Ore
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
 
-Plants
+Plants - Many are used for [Plant Fibres](https://wiki.guildwars2.com/wiki/Homestead_Refinement%E2%80%94Farm) in the [Homestead](https://wiki.guildwars2.com/wiki/Homestead)
+   * Artichoke
+   * Asparagus Spear
+   * Black Crocus
+   * Blooming Passiflora
+   * Clams
+   * Coral
+   * Desert Herbs
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
-   * Toxic Seedling locations in Kessex Hills
+   * Herbs
+   * Jungle Plants
+   * Mixed Vegetables
+   * Mussels
+   * Omnomberry
+   * Orrian Truffle
+   * Potatoes
+   * Sawgill Mushrooms
+   * Seaweed
+   * Strawberries
+   * Sugar Pumpkins
+   * Toxic Seedlings (various locations in Kessex Hills)
+   * Verdant Herbs
  
 Quartz Crystal
    * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
@@ -115,6 +134,10 @@ It is recommended to train the Masteries in the following order:
   * Domain of Vabbi
 
 **End of Dragons** - Requires: Skyscale
+* Seitung Province
+* New Kaineng City
+* The Echovald Wilds
+* Dragon's End
 
 ## Jumping Puzzles ##
 * Core Tyria Maps
