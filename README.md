@@ -1,6 +1,8 @@
 A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) with over **_150,000_** downloads (as of April 2024). [[1]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000) [[2]](https://qwertycube.com/github-release-stats/) [[3]](https://mp-repo.blishhud.com/LadyElyssa.taco.html) comprising of **_2000+ Trails_** and **_12,000+ Markers_**
 
 Suitable for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs), just look for Lady Elyssa's Guides. _Please ensure your preferred option is up to date._
+
+For more information on Getting Started, see [here](https://github.com/LadyElyssa/LadyElyssaTacoTrails/wiki/Getting-Started).
  
 Principles
 * Markers and Trails for Permanent, Replayable content only, no achievements or collections. If you are looking for achievements and collections you can try [Lady Elyssa's Achievement & Collection Guides](https://github.com/LadyElyssa/LadyElyssaAchievementGuides).
@@ -61,9 +63,28 @@ Ore
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
    * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
 
-Plants
+Plants - Many are used for [Plant Fibres](https://wiki.guildwars2.com/wiki/Homestead_Refinement%E2%80%94Farm) in the [Homestead](https://wiki.guildwars2.com/wiki/Homestead)
+   * Artichoke
+   * Asparagus Spear
+   * Black Crocus
+   * Blooming Passiflora
+   * Clams
+   * Coral
+   * Desert Herbs
    * Flax (HoT) - starts at Jaka Itzel Waypoint in Verdant Brink `[&BOAHAAA=]`
-   * Toxic Seedling locations in Kessex Hills
+   * Herbs
+   * Jungle Plants
+   * Mixed Vegetables
+   * Mussels
+   * Omnomberry
+   * Orrian Truffle
+   * Potatoes
+   * Sawgill Mushrooms
+   * Seaweed
+   * Strawberries
+   * Sugar Pumpkins
+   * Toxic Seedlings (various locations in Kessex Hills)
+   * Verdant Herbs
  
 Quartz Crystal
    * Quartz Crystal - starts at Prosperity Waypoint in Dry Top `[&BHoHAAA=]`
@@ -115,6 +136,10 @@ It is recommended to train the Masteries in the following order:
   * Domain of Vabbi
 
 **End of Dragons** - Requires: Skyscale
+* Seitung Province
+* New Kaineng City
+* The Echovald Wilds
+* Dragon's End
 
 ## Jumping Puzzles ##
 * Core Tyria Maps
@@ -185,6 +210,10 @@ Added Trails for Map Mastery Insights for:
 
 * Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
    * End of Dragons
+
+## Vendors ##
+* PSNA - Pact Supply Network Agents
+* Priory Historian Elisa (Work in Progress)
 
 ## World Bosses ##
 * All core map world bosses including Pre-Event locations
