@@ -104,9 +104,19 @@
 
         <!-- Priory Historian Elisa -->
         <!-- https://wiki.guildwars2.com/wiki/Priory_Historian_Elisa -->
-        <!-- Desert Highlands -->
-        <!--
+        <!-- Desert Highlands -->    
         <Trail type="legs.vendors.elisa.dh.1" trailData="Data/LadyElyssa/Vendors/Elisa 1.trl"/>
+        <Trail type="legs.vendors.elisa.dh.6" trailData="Data/LadyElyssa/Vendors/Elisa 6.trl"/>
+        <Trail type="legs.vendors.elisa.dh.11" trailData="Data/LadyElyssa/Vendors/Elisa 11 Alt.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.elisa.dh.11" trailData="Data/LadyElyssa/Vendors/Elisa 11.trl"/>
+        <Trail type="legs.vendors.elisa.dh.16" trailData="Data/LadyElyssa/Vendors/Elisa 16.trl"/>
+        <Trail type="legs.vendors.elisa.dh.21" trailData="Data/LadyElyssa/Vendors/Elisa 21.trl"/>
+        <Trail type="legs.vendors.elisa.dh.26" trailData="Data/LadyElyssa/Vendors/Elisa 26.trl"/>
+        <Trail type="legs.vendors.elisa.dh.31" trailData="Data/LadyElyssa/Vendors/Elisa 31.trl"/>
+        <Trail type="legs.vendors.elisa.dh.36" trailData="Data/LadyElyssa/Vendors/Elisa 36.trl"/>
+        <Trail type="legs.vendors.elisa.dh.41" trailData="Data/LadyElyssa/Vendors/Elisa 41.trl"/>
+        <Trail type="legs.vendors.elisa.dh.46" trailData="Data/LadyElyssa/Vendors/Elisa 46.trl"/>
+        <Trail type="legs.vendors.elisa.dh.51" trailData="Data/LadyElyssa/Vendors/Elisa 51.trl"/>
         <POI MapID="1211" xpos="-201.319" ypos="273.579" zpos="-277.661" type="legs.vendors.elisa.dh.square" GUID="0PwzIdnu5kqCWczfQCcaAA=="/>
         <POI MapID="1211" xpos="1138.6" ypos="179.924" zpos="-561.37" type="legs.vendors.elisa.dh.square" GUID="R9lb+NR0/UiYVXyQk8rhCw=="/>
         <POI MapID="1211" xpos="1453.69" ypos="253.907" zpos="169" type="legs.vendors.elisa.dh.square" GUID="W/foNbKgmEuHukaDzrppUg=="/>
@@ -117,15 +127,98 @@
         <POI MapID="1211" xpos="-1185.95" ypos="367.358" zpos="-149.846" type="legs.vendors.elisa.dh.square" GUID="8sYUPhwSe02Og2nQTzuJ5A=="/>
         <POI MapID="1211" xpos="-1306.43" ypos="442.051" zpos="280.062" type="legs.vendors.elisa.dh.square" GUID="MqFjWxItrUu6fxH49LdUYQ=="/>
         <POI MapID="1211" xpos="-1210.5" ypos="133.588" zpos="-339.492" type="legs.vendors.elisa.dh.square" GUID="rauQke7GmkSVyAOKZNMVrw=="/>
-        -->
 
         <!-- Domain of Vabbi -->
+        <Trail type="legs.vendors.elisa.dov.2" trailData="Data/LadyElyssa/Vendors/Elisa 2.trl"/>
+        <Trail type="legs.vendors.elisa.dov.7" trailData="Data/LadyElyssa/Vendors/Elisa 7.trl"/>
+        <Trail type="legs.vendors.elisa.dov.12" trailData="Data/LadyElyssa/Vendors/Elisa 12.trl"/>
+        <Trail type="legs.vendors.elisa.dov.17" trailData="Data/LadyElyssa/Vendors/Elisa 17.trl"/>
+        <Trail type="legs.vendors.elisa.dov.22" trailData="Data/LadyElyssa/Vendors/Elisa 22.trl"/>
+        <Trail type="legs.vendors.elisa.dov.27" trailData="Data/LadyElyssa/Vendors/Elisa 27.trl"/>
+        <Trail type="legs.vendors.elisa.dov.32" trailData="Data/LadyElyssa/Vendors/Elisa 32.trl"/>
+        <Trail type="legs.vendors.elisa.dov.37" trailData="Data/LadyElyssa/Vendors/Elisa 37.trl"/>
+        <Trail type="legs.vendors.elisa.dov.42" trailData="Data/LadyElyssa/Vendors/Elisa 42.trl"/>
+        <Trail type="legs.vendors.elisa.dov.47" trailData="Data/LadyElyssa/Vendors/Elisa 47.trl"/>
+        <POI MapID="1248" xpos="439.981" ypos="290.152" zpos="19.379" type="legs.vendors.elisa.dov.square" GUID="9FzgJrAOT0WcvpHV6ipR4Q=="/>
+        <POI MapID="1248" xpos="1233.57" ypos="65.8528" zpos="-99.7063" type="legs.vendors.elisa.dov.square" GUID="rzXmrTylcU+HE74IaOBGrA=="/>
+        <POI MapID="1248" xpos="877.933" ypos="141.441" zpos="435.168" type="legs.vendors.elisa.dov.square" GUID="vYXwj3ZiuEmTol5CVkVKMQ=="/>
+        <POI MapID="1248" xpos="599.893" ypos="115.014" zpos="-866.387" type="legs.vendors.elisa.dov.square" GUID="Ex1IawmDe0y02qlQ3q46wg=="/>
+        <POI MapID="1248" xpos="-1249.02" ypos="51.4398" zpos="319.109" type="legs.vendors.elisa.dov.square" GUID="E47Bhyu3H0OEiiHKNHK1FQ=="/>
+        <POI MapID="1248" xpos="-700.034" ypos="303.015" zpos="-845.064" type="legs.vendors.elisa.dov.square" GUID="kmt3Hu+irUSKYp+5HE83Ig=="/>
+        <POI MapID="1248" xpos="-314.497" ypos="221.758" zpos="-478.293" type="legs.vendors.elisa.dov.square" GUID="n5sge3qA20yibmmpXwYr1w=="/>
+        <POI MapID="1248" xpos="-1184.3" ypos="141.617" zpos="722.64" type="legs.vendors.elisa.dov.square" GUID="zoedJIHdk0Kr6Ut0gP+0/g=="/>
+        <POI MapID="1248" xpos="-69.6636" ypos="160.23" zpos="880.781" type="legs.vendors.elisa.dov.square" GUID="83IXrRJAYEmX5nsOYhHk1Q=="/>
+        <POI MapID="1248" xpos="-393.595" ypos="144.221" zpos="-184.536" type="legs.vendors.elisa.dov.square" GUID="j+8UNIu7TECB7EaabnCJ3A=="/>
+        
+
 
         <!-- Crystal Oasis -->
+        <Trail type="legs.vendors.elisa.co.3" trailData="Data/LadyElyssa/Vendors/Elisa 3.trl"/>
+        <Trail type="legs.vendors.elisa.co.8" trailData="Data/LadyElyssa/Vendors/Elisa 8.trl"/>
+        <Trail type="legs.vendors.elisa.co.13" trailData="Data/LadyElyssa/Vendors/Elisa 13.trl"/>
+        <Trail type="legs.vendors.elisa.co.18" trailData="Data/LadyElyssa/Vendors/Elisa 18.trl"/>
+        <Trail type="legs.vendors.elisa.co.23" trailData="Data/LadyElyssa/Vendors/Elisa 23.trl"/>
+        <Trail type="legs.vendors.elisa.co.28" trailData="Data/LadyElyssa/Vendors/Elisa 28.trl"/>
+        <Trail type="legs.vendors.elisa.co.33" trailData="Data/LadyElyssa/Vendors/Elisa 33 Alt.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.elisa.co.33" trailData="Data/LadyElyssa/Vendors/Elisa 33.trl"/>
+        <Trail type="legs.vendors.elisa.co.38" trailData="Data/LadyElyssa/Vendors/Elisa 38.trl"/>
+        <Trail type="legs.vendors.elisa.co.43" trailData="Data/LadyElyssa/Vendors/Elisa 43.trl"/>
+        <Trail type="legs.vendors.elisa.co.48" trailData="Data/LadyElyssa/Vendors/Elisa 48.trl"/>
+        <POI MapID="1210" xpos="11.8658" ypos="170.927" zpos="572.83" type="legs.vendors.elisa.co.square" GUID="6Tw4tIy6kU+BeonTCX9okQ=="/>
+        <POI MapID="1210" xpos="-1206.33" ypos="43.0383" zpos="140.252" type="legs.vendors.elisa.co.square" GUID="8OP2YBfFWUS4lZehXX4WKA=="/>
+        <POI MapID="1210" xpos="-346.105" ypos="80.1472" zpos="-622.626" type="legs.vendors.elisa.co.square" GUID="oLXOq3SRWUSjKPLHB+G79Q=="/>
+        <POI MapID="1210" xpos="529.221" ypos="80.6048" zpos="-485.548" type="legs.vendors.elisa.co.square" GUID="uOKJOSB+WEmQDdw9L+xwyA=="/>
+        <POI MapID="1210" xpos="206.617" ypos="70.3103" zpos="-166.674" type="legs.vendors.elisa.co.square" GUID="gSlwesZk+0+0b2Z+QqnH0A=="/>
+        <POI MapID="1210" xpos="1021.04" ypos="111.044" zpos="-509.814" type="legs.vendors.elisa.co.square" GUID="eIBuXegEBUiclDVkbGJhWQ=="/>
+        <POI MapID="1210" xpos="613.433" ypos="197.819" zpos="467.494" type="legs.vendors.elisa.co.square" GUID="8zQkh4ZLHkSk7PkzyN2hEg=="/>
+        <POI MapID="1210" xpos="863.65" ypos="183.945" zpos="206.593" type="legs.vendors.elisa.co.square" GUID="HYl5FzsFB0SqrIsoU6A4kw=="/>
+        <POI MapID="1210" xpos="1393.64" ypos="206.639" zpos="657.061" type="legs.vendors.elisa.co.square" GUID="o/NJejiJHkKcYQHYwwOeWg=="/>
+        <POI MapID="1210" xpos="-661.268" ypos="99.8076" zpos="477.442" type="legs.vendors.elisa.co.square" GUID="S/10GNJOKUqpVogWWAHPqQ=="/>
 
         <!-- Elon Riverlands -->
+        <Trail type="legs.vendors.elisa.er.4" trailData="Data/LadyElyssa/Vendors/Elisa 4.trl"/>
+        <Trail type="legs.vendors.elisa.er.9" trailData="Data/LadyElyssa/Vendors/Elisa 9.trl"/>
+        <Trail type="legs.vendors.elisa.er.14" trailData="Data/LadyElyssa/Vendors/Elisa 14.trl"/>
+        <Trail type="legs.vendors.elisa.er.19" trailData="Data/LadyElyssa/Vendors/Elisa 19.trl"/>
+        <Trail type="legs.vendors.elisa.er.24" trailData="Data/LadyElyssa/Vendors/Elisa 24.trl"/>
+        <Trail type="legs.vendors.elisa.er.29" trailData="Data/LadyElyssa/Vendors/Elisa 29.trl"/>
+        <Trail type="legs.vendors.elisa.er.34" trailData="Data/LadyElyssa/Vendors/Elisa 34.trl"/>
+        <Trail type="legs.vendors.elisa.er.39" trailData="Data/LadyElyssa/Vendors/Elisa 39.trl"/>
+        <Trail type="legs.vendors.elisa.er.44" trailData="Data/LadyElyssa/Vendors/Elisa 44.trl"/>
+        <Trail type="legs.vendors.elisa.er.49" trailData="Data/LadyElyssa/Vendors/Elisa 49.trl"/>
+        <POI MapID="1228" xpos="372.601" ypos="164.151" zpos="874.439" type="legs.vendors.elisa.er.square" GUID="DAgRlUBkV0Gxbz3RgvFqBA=="/>
+        <POI MapID="1228" xpos="-155.252" ypos="136.183" zpos="781.704" type="legs.vendors.elisa.er.square" GUID="rwvE7OXHx0GvDLJAWRueqQ=="/>
+        <POI MapID="1228" xpos="46.8662" ypos="78.1569" zpos="383.918" type="legs.vendors.elisa.er.square" GUID="Dp8tKpIeIUGCJherWJ8/HA=="/>
+        <POI MapID="1228" xpos="-722.663" ypos="79.976" zpos="194.729" type="legs.vendors.elisa.er.square" GUID="/wRknjLAmk247UHirS5oww=="/>
+        <POI MapID="1228" xpos="943.238" ypos="7.65327" zpos="-748.337" type="legs.vendors.elisa.er.square" GUID="VI9q+sQo0UOxa3KdFbbuSA=="/>
+        <POI MapID="1228" xpos="652.494" ypos="60.7095" zpos="-404.514" type="legs.vendors.elisa.er.square" GUID="l+vUV5bvYEOPyKPez/AqRw=="/>
+        <POI MapID="1228" xpos="777.835" ypos="64.6512" zpos="97.8225" type="legs.vendors.elisa.er.square" GUID="4PPSwv/LLEWKWJkpMnH1nQ=="/>
+        <POI MapID="1228" xpos="752.931" ypos="150.406" zpos="954.696" type="legs.vendors.elisa.er.square" GUID="oCSjMfvMQk23ZddL/veghQ=="/>
+        <POI MapID="1228" xpos="-266.021" ypos="42.6668" zpos="-297.061" type="legs.vendors.elisa.er.square" GUID="Urv2ev4FJ06c0hQsefeyiQ=="/>
+        <POI MapID="1228" xpos="-954.533" ypos="24.989" zpos="-722.583" type="legs.vendors.elisa.er.square" GUID="BXZ9cKn6rkmobsZy0A+G1Q=="/>
 
         <!-- The Desolation -->
+        <Trail type="legs.vendors.elisa.td.5" trailData="Data/LadyElyssa/Vendors/Elisa 5.trl"/>
+        <Trail type="legs.vendors.elisa.td.10" trailData="Data/LadyElyssa/Vendors/Elisa 10.trl"/>
+        <Trail type="legs.vendors.elisa.td.15" trailData="Data/LadyElyssa/Vendors/Elisa 15.trl"/>
+        <Trail type="legs.vendors.elisa.td.20" trailData="Data/LadyElyssa/Vendors/Elisa 20.trl"/>
+        <Trail type="legs.vendors.elisa.td.25" trailData="Data/LadyElyssa/Vendors/Elisa 25.trl"/>
+        <Trail type="legs.vendors.elisa.td.30" trailData="Data/LadyElyssa/Vendors/Elisa 30.trl"/>
+        <Trail type="legs.vendors.elisa.td.35" trailData="Data/LadyElyssa/Vendors/Elisa 35.trl"/>
+        <Trail type="legs.vendors.elisa.td.40" trailData="Data/LadyElyssa/Vendors/Elisa 40.trl"/>
+        <Trail type="legs.vendors.elisa.td.45" trailData="Data/LadyElyssa/Vendors/Elisa 45.trl"/>
+        <Trail type="legs.vendors.elisa.td.50" trailData="Data/LadyElyssa/Vendors/Elisa 50.trl"/>
+        <POI MapID="1226" xpos="529.36" ypos="103.669" zpos="1214.79" type="legs.vendors.elisa.td.square" GUID="WfYs4PRCNkq2rxNKi+F/Dw=="/>
+        <POI MapID="1226" xpos="942.431" ypos="177.332" zpos="1116.92" type="legs.vendors.elisa.td.square" GUID="8xS4mRcO8U2qqntHVqV8eQ=="/>
+        <POI MapID="1226" xpos="-610.508" ypos="171.055" zpos="723.908" type="legs.vendors.elisa.td.square" GUID="9Ms5oO5mKECyQKRa8s7dmw=="/>
+        <POI MapID="1226" xpos="-1007" ypos="269.17" zpos="-307.063" type="legs.vendors.elisa.td.square" GUID="fCxO2/x7G0qEWyu0DMQH/A=="/>
+        <POI MapID="1226" xpos="-787.148" ypos="270.334" zpos="-966.218" type="legs.vendors.elisa.td.square" GUID="YUV13hMAxkyOXLGYLCCdCw=="/>
+        <POI MapID="1226" xpos="784.155" ypos="294.678" zpos="-451.422" type="legs.vendors.elisa.td.square" GUID="luXto0MZKEOf/tMTk2kZtQ=="/>
+        <POI MapID="1226" xpos="967.746" ypos="304.539" zpos="125.492" type="legs.vendors.elisa.td.square" GUID="p7XIwD31RUGyY8RSKE98lQ=="/>
+        <POI MapID="1226" xpos="-243.183" ypos="308.604" zpos="723.901" type="legs.vendors.elisa.td.square" GUID="1wXf5hq66kiCwPAUj5kJhw=="/>
+        <POI MapID="1226" xpos="-9.30909" ypos="302.682" zpos="187.921" type="legs.vendors.elisa.td.square" GUID="NHUbRP6Lfk2HBCI/MXeh6Q=="/>
+        <POI MapID="1226" xpos="-40.5397" ypos="272.91" zpos="-1384.66" type="legs.vendors.elisa.td.square" GUID="SJBk7a5DQ0+EEi/t828cWA=="/>
+
 
     </POIs>
 </OverlayData>
