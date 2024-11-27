@@ -9,6 +9,7 @@
                 <MarkerCategory name="lanterns" DisplayName="Lantern Route" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/LadyElyssa/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
                     <!--
                     <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" minSize="32" maxSize="48">    
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -73,6 +74,7 @@
                     <MarkerCategory name="lanterns" DisplayName="Lantern Route" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/LadyElyssa/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
                     <!--
                     <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" minSize="32" maxSize="48">    
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -138,6 +140,7 @@
                     <MarkerCategory name="lanterns" DisplayName="Lantern Route" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/LadyElyssa/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
                     <!--
                     <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" minSize="32" maxSize="48">    
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
