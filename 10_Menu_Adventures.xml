@@ -560,11 +560,30 @@
                 </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="gd" DisplayName="Gyala Delve">
+                
+                <MarkerCategory name="jbr" DisplayName="Jade Bot Rally">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Jade Bot Rally.png" mapDisplaySize="64"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="beetle" DisplayName="Rolling into the Deep">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Rolling into the Deep.png" mapDisplaySize="64"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="ss" DisplayName="Silent Sands">
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000" iconFile="Data/LadyElyssa/Images/Adventures/Silent Sands.png" mapDisplaySize="64"/>
                     <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
                     <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"/>
                 </MarkerCategory>
+
+                <!--
+
+                - Gyala Delve Siege Turtle Ace
+                https://www.youtube.com/watch?v=dw-m5dN55o0
+
+                -->  
+
             </MarkerCategory>
 
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>

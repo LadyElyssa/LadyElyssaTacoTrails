@@ -49,7 +49,9 @@
 		<POI MapID="1438" xpos="23.2401" ypos="-1.135" zpos="-321.737" type="legs.adventure.nkc.nkcskiff.slow" GUID="3wFqfpQP+kSfgj9Ho/sV4Q=="/>
 		<POI MapID="1438" xpos="-8.68591" ypos="-1.135" zpos="-359.195" type="legs.adventure.nkc.nkcskiff.turbo" GUID="U5R3RVBZcUOZv2iqDssk0A=="/>
 		<POI MapID="1438" xpos="-317.483" ypos="-1.05501" zpos="200.313" type="legs.adventure.nkc.nkcskiff.turbo" GUID="wTmtJ8t0IkKYlISBqQkDSA=="/>
+        
         <!-- The Echovald Wilds -->
+
         <!-- Jade Bot Rally -->
         <POI MapID="1452" xpos="1049.12" ypos="7.75721" zpos="-518.377" type="legs.adventure.ew.ewjb.sign" GUID="5yzqGBcD5k6lxoQxbOX9ow==" iconFile="Data/LadyElyssa/Images/Adventures/Jade Bot Rally.png" mapDisplaySize="64"/>
         <Trail type="legs.adventure.ew.ewjb.to" trailData="Data/LadyElyssa/Adventures/EoD/EW To Jade Bot Rally.trl" animSpeed="0.5"/>
@@ -58,7 +60,34 @@
         <POI MapID="1452" xpos="-124.675" ypos="162.826" zpos="697.86" type="legs.adventure.ew.ewsiege.sign" GUID="HgUJ3dgkMEm+K5J8nkMS+w==" iconFile="Data/LadyElyssa/Images/Adventures/Siege Stampede.png" mapDisplaySize="64"/>
         <Trail type="legs.adventure.ew.ewsiege.to" trailData="Data/LadyElyssa/Adventures/EoD/EW To Siege Stampede.trl" animSpeed="0.5"/>
         <Trail type="legs.adventure.ew.ewsiege.trail" trailData="Data/LadyElyssa/Adventures/EoD/EW Siege Stampede.trl"/>
+        
         <!-- Gyala Delve -->
+ 
+        <!-- Jade Bot Rally -->
+        <Trail type="legs.adventure.gd.jbr.trail" trailData="Data/LadyElyssa/Adventures/EoD/GD Jade Bot Rally.trl"/>
+        <POI MapID="1490" xpos="71.1131" ypos="17.6716" zpos="-453.517" type="legs.adventure.gd.jbr.sign" GUID="X+HNBoXCnUCZoD9leXldsg=="/>
+
+        <!-- Gyala Delve Rolling into the Deep -->
+        <Trail type="legs.adventure.gd.jbr.trail" trailData="Data/LadyElyssa/Adventures/EoD/GD Rolling into the Deep.trl"/>
+        <POI MapID="1490" xpos="76.4783" ypos="273.944" zpos="895.924" type="legs.adventure.gd.beetle.sign" GUID="R5s6JNyL/kS2cMtW+BEYNQ=="/>
+
+
+        <!-- Silent Sands -->
+        <Trail type="legs.adventure.gd.ss.trail" trailData="Data/LadyElyssa/Adventures/EoD/GD To Silent Sands.trl"/>
         <Trail type="legs.adventure.gd.ss.trail" trailData="Data/LadyElyssa/Adventures/EoD/GD Silent Sands.trl"/>
+        <POI MapID="1490" xpos="392.656" ypos="245.738" zpos="116.376" type="legs.adventure.gd.ss.sign" GUID="OQRVzrQfFUa1QO0XdpJo1A=="/>
+
+        <!--
+
+                - Gyala Delve Beetle Racer
+                https://www.youtube.com/watch?v=RUsyYZzhX9k
+
+                - 
+                https://www.youtube.com/watch?v=JLxMHsoQL3k
+
+                - Gyala Delve Siege Turtle Ace
+                https://www.youtube.com/watch?v=dw-m5dN55o0
+
+                -->  
     </POIs>
 </OverlayData>
