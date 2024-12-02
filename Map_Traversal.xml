@@ -486,9 +486,7 @@
         <Trail type="legs.mapt.zip.arb.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Arborstone/ZiplineB.trl"/>
 
         <!--  The Echovald Wilds -->
-        <!-- Zip Lines -->
-        <Trail type="legs.mapt.zip.tew.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/ZiplineB.trl"/>
-        <Trail type="legs.mapt.zip.tew.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/ZiplineU.trl"/>
+        
         <!-- Jade Tech Teleporters -->
         <Trail type="legs.mapt.jtt" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/Jade Tech Teleporters.trl"/>
         <POI MapID="1452" xpos="-403.75" ypos="144.021" zpos="-389.66" type="legs.mapt.jtt.marker" GUID="rBjFjk8zE0SQ+CvwxWy/6w=="/>
@@ -500,6 +498,12 @@
         <POI MapID="1452" xpos="124.356" ypos="216.181" zpos="626.73" type="legs.mapt.jtt.marker" GUID="vYDmRLyUXEWYWLC1xbUu+w=="/>
         <POI MapID="1452" xpos="58.5056" ypos="273.719" zpos="684.782" type="legs.mapt.jtt.marker" GUID="MFQdtECfy0+AZHbbIefbeg=="/>
         <POI MapID="1452" xpos="-412.553" ypos="144.008" zpos="-383.137" type="legs.mapt.jtt.marker" GUID="i/IY1lTSt0egFMTFeMh7iw=="/>
+        <!-- Portal -->
+        <Trail type="legs.mapt.portal.tew.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/PortalU.trl"/>
+        <POI MapID="1452" xpos="-352.4846" ypos="181.989" zpos="-305.5645" type="legs.mapt.portal.tew.entre" GUID="37hUqn1q8EywRfA8ACqsRw=="/>
+        <!-- Zip Lines -->
+        <Trail type="legs.mapt.zip.tew.bi" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/ZiplineB.trl"/>
+        <Trail type="legs.mapt.zip.tew.uni" trailData="Data/LadyElyssa/Map Traversal/EoD/Echovald Wilds/ZiplineU.trl"/>
             
         <!--  Dragon's End -->
         <!-- Zip Lines -->

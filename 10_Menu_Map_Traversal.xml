@@ -93,6 +93,13 @@
                 </MarkerCategory>
             </MarkerCategory>
             <!-- End Sand Portals -->
+            <MarkerCategory name="portal" DisplayName="Portal" mapDisplaySize="10">
+                <MarkerCategory name="tew" DisplayName="Echovald Wilds">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="entre" DisplayName="Entre" iconFile="Data/LadyElyssa/Images/Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="16"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="FF44FF"/>
+                </MarkerCategory>
+            </MarkerCategory>
 
             <MarkerCategory name="zip" DisplayName="Ziplines" mapDisplaySize="10">
                 <MarkerCategory name="eodmaptraversal" IsSeparator="1" DisplayName="END OF DRAGONS"/>
