@@ -28,6 +28,12 @@ This pack currently contains trails for:
 ## Easy Dailies ##
    * Foraging, Lumberer, Mining and Vista's
 
+## Events ##
+* Casino Blitz
+* Piñata
+* R.I.B.A.
+* Treasure Mushroom
+
 ## Festivals ##
    * Lunar New Year (Late January to early February)
       * Mount Race & Foot Race
@@ -211,9 +217,19 @@ Added Trails for Map Mastery Insights for:
 * Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
    * End of Dragons
 
+## Ranger Pets ##
+* Added All Pets including:
+   * Core
+   * Heart of Thorns
+   * Path of Fire
+   * End of Dragons
+   * Secrets of the Obscure
+   * Janthir Wilds
+
 ## Vendors ##
 * PSNA - Pact Supply Network Agents
 * Priory Historian Elisa (Work in Progress)
+* Sous-Chef Seimur Oxbone
 
 ## World Bosses ##
 * All core map world bosses including Pre-Event locations
