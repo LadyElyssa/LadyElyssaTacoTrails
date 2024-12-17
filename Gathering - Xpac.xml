@@ -18,7 +18,11 @@
         <Trail type="legs.gathering.xpac.honeyflower.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Flowers 3.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.honeyflower.ls" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Honey Flowers 4.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1550" xpos="556.556" ypos="423.126" zpos="-553.877" type="legs.gathering.xpac.honeyflower.start" GUID="tVD/UoiThE+syk7YA/gCiw==" inGameVisibility="0"/>
+        <!--
+            Also Waypoints get called out, consider placing under / after Lowland Shore menu reference
         <POI MapID="1550" xpos="94.2176" ypos="151.802" zpos="-0.0149542" type="legs.gathering.xpac.honeyflower.end" GUID="f9MwFhlBEE2lFkXBbzDnBA=="/>
+        -->
+
         <POI MapID="1550" xpos="-721.944" ypos="211.597" zpos="-184.362" type="legs.gathering.xpac.honeyflower.wp" GUID="Ykwf8xDlWUCYZ4VylgdlIA==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
         <POI MapID="1550" xpos="-193.743" ypos="311.322" zpos="-648.325" type="legs.gathering.xpac.honeyflower.wp" GUID="bi5aiDt5NU+2UGxpjNCteA==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
         <POI MapID="1550" xpos="-728.044" ypos="0.511159" zpos="15.7838" type="legs.gathering.xpac.honeyflower.wp" GUID="CjKSMAK2wUKksmi4eow1GA==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint"/>
@@ -223,6 +227,8 @@
         <Trail type="legs.gathering.xpac.amberore.js" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Amber Ore 2.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.amberore.js" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Amber Ore 3.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
         <Trail type="legs.gathering.xpac.amberore.js" trailData="Data/LadyElyssa/Gathering/Xpac/JW/Amber Ore 4.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
+        <POI MapID="1554" xpos="77.41824" ypos="23.68582" zpos="421.7102" type="legs.gathering.xpac.amberore.wp" GUID="NIzQFK3eKECH2VUg1rxVag==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
+        <POI MapID="1554" xpos="-664.1154" ypos="51.83611" zpos="-290.5304"  type="legs.gathering.xpac.amberore.wp" GUID="accRjqgj70W4ZO0xVGqgxA==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
         <!-- Titan Amber -->
         <POI MapID="1554" xpos="642.674" ypos="1.18223" zpos="-160.492" type="legs.gathering.xpac.amberore.tog" GUID="0hV6Z0V9s0+UBmVT5HnbyA=="/>
         <POI MapID="1554" xpos="-276.098" ypos="30.3688" zpos="-144.906" type="legs.gathering.xpac.amberore.tog" GUID="LsYJA86k1kyIn+ckZM6Y9w=="/>
