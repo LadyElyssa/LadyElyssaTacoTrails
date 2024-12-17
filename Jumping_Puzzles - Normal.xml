@@ -98,6 +98,18 @@
         <Trail type="legs.jp.mj.darkreverie.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Dark Reverie 1.trl"/>
         <POI MapID="34" xpos="438.451" ypos="46.7817" zpos="-610.871" type="legs.jp.mj.darkreverie.sign" GUID="+vNUKGOtgEu0vTwh6683dw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Dark Reverie.png"/>
         <Trail type="legs.jp.mj.darkreverie.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Dark Reverie 2.trl" fadeNear="300" fadeFar="600"/>
+
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 0.trl"/>
+        <POI MapID="35" xpos="580.6905" ypos="25.83124" zpos="37.09636" type="legs.jp.mj.goemm.sign" GUID="kCh2DhdseEyNHt+iXgch4w==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Goemm's Lab.png"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 1a.trl"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 1b.trl"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 2a.trl"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 2b Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 2b.trl"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 3a.trl"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 3b.trl"/>
+        <Trail type="legs.jp.mj.goemm.metrica" trailData="Data/LadyElyssa/Jumping Puzzles/Goemm's Lab 4.trl"/>
+
         <Trail type="legs.jp.mj.morgans.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Morgan's Leap 1.trl"/>
         <POI MapID="34" xpos="443.165" ypos="13.2476" zpos="-652.315" type="legs.jp.mj.morgans.sign" GUID="mhDbq/XwBE+TI1TX2zzx0A==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Morgan's Leap.png"/>
         <Trail type="legs.jp.mj.morgans.caledon" trailData="Data/LadyElyssa/Jumping Puzzles/Morgan's Leap 2.trl" fadeNear="400" fadeFar="800"/>
@@ -492,11 +504,11 @@
         <POI MapID="96" xpos="-722.208" ypos="28.1163" zpos="409.43" type="legs.jp.mv.sign" GUID="IueCPB6ppUirJz0+5dgK7A==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/WvW/Mistwrought Vault.png" fadeNear="600" fadeFar="900" mapDisplaySize="64" mapVisibility="1"/>
         <POI MapID="96" xpos="-592.4669" ypos="27.19559" zpos="499.3625" type="legs.jp.mv.sign" GUID="aCPJ61lbBUmzU+leoelctg==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/WvW/Mistwrought Vault.png" fadeNear="600" fadeFar="900" mapDisplaySize="64" mapVisibility="1"/>
 
-        <Trail type="legs.jp.mv.sapphire" trailData="Data/LadyElyssa/Jumping Puzzles/WvW/Mistwrought Vault - Emerald 1.trl" fadeNear="1200" fadeFar="2000"/>
-        <Trail type="legs.jp.mv.sapphire" trailData="Data/LadyElyssa/Jumping Puzzles/WvW/Mistwrought Vault - Emerald 2.trl" fadeNear="1200" fadeFar="2000"/>
+        <Trail type="legs.jp.mv.emerald" trailData="Data/LadyElyssa/Jumping Puzzles/WvW/Mistwrought Vault - Emerald 1.trl" fadeNear="1200" fadeFar="2000"/>
+        <Trail type="legs.jp.mv.emerald" trailData="Data/LadyElyssa/Jumping Puzzles/WvW/Mistwrought Vault - Emerald 2.trl" fadeNear="1200" fadeFar="2000"/>
         <POI MapID="95" xpos="-722.208" ypos="28.1163" zpos="409.43" type="legs.jp.mv.sign" GUID="PClV9egW1EazZnCXgByvMA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/WvW/Mistwrought Vault.png" fadeNear="600" fadeFar="900" mapDisplaySize="64" mapVisibility="1"/>
         <POI MapID="95" xpos="-592.467" ypos="27.1956" zpos="499.363" type="legs.jp.mv.sign" GUID="4SzGxjoua0ec6T4MbTlPOw==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/WvW/Mistwrought Vault.png" fadeNear="600" fadeFar="900" mapDisplaySize="64" mapVisibility="1"/>
         
-
+        
     </POIs>
 </OverlayData>
