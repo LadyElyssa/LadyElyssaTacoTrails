@@ -1,5 +1,6 @@
 <OverlayData>
     <POIs>
+
         <!-- LWS2 - Silverwastes - R.I.B.A. -->
         <Trail type="legs.events.riba.sw" trailData="Data/LadyElyssa/Events/LWS2/RIBA.trl" color="00FFFF"/>
         <POI MapID="1015" xpos="98.6696" ypos="445.104" zpos="-353.406" type="legs.events.riba.annihilator" GUID="1uIoXONFMUuc5DQIg3cGqA=="/>
@@ -47,5 +48,16 @@
         <POI MapID="1165" xpos="-54.8553" ypos="518.848" zpos="110.307" type="legs.events.tm.bsf" GUID="GlL5sb3j9UODO+bXoVUC8A=="/>
         <!-- Draconis Mons -->
         <POI MapID="1195" xpos="-137.651" ypos="361.353" zpos="56.3807" type="legs.events.tm.dm" GUID="gBWHjw66mEakkYtM9j+Wkg=="/>
+
+        <!-- Path of Fire --> 
+        <POI MapID="1210" xpos="-741.411" ypos="1.47808" zpos="-108.957" type="legs.events.casino.start" GUID="cRbc665+gE+cHyrnCwKS4Q=="/>
+        <POI MapID="1210" xpos="-741.411" ypos="2.47808" zpos="-108.957" type="legs.events.casino.co" GUID="F8uiQOlVF0Crg8UMHtL2Bw=="/>
+        <Trail type="legs.events.casino.1" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 1 To.trl" color="00cc00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.events.casino.1" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 1.trl" color="00cc00"/>
+        <Trail type="legs.events.casino.2" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 2 To.trl" color="ffcc00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.events.casino.2" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 2.trl" color="ffcc00"/>
+        <Trail type="legs.events.casino.3" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 3 To.trl" color="ff1a1a" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.events.casino.3" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 3.trl" color="ff1a1a"/>
+
     </POIs>
 </OverlayData>
