@@ -1,0 +1,455 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!-- MAP ENHANCEMENTS -->
+        <MarkerCategory name="ranger" DisplayName="Ranger Pets"  texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" inGameVisibility="0">
+            <MarkerCategory name="family" isSeparator="1" DisplayName="PET FAMILY"/>
+
+                <MarkerCategory name="aether" DisplayName="Aether Hunter" iconFile="Data/LadyElyssa/Images/Ranger Pets/Aether Hunter.png" mapDisplaySize="64">
+                    <MarkerCategory name="map" isSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
+                    <MarkerCategory name="amnytas" DisplayName="Amnytas"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="armored" DisplayName="Armored Fish">
+                    <MarkerCategory name="armor" DisplayName="Armor Fish" iconFile="Data/LadyElyssa/Images/Ranger Pets/Armor Fish.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                        <MarkerCategory name="la" DisplayName="Lion's Arch"/>
+                        <MarkerCategory name="mj" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="bear" DisplayName="Bear">
+                    <MarkerCategory name="arctodus" DisplayName="Arctodus" iconFile="Data/LadyElyssa/Images/Ranger Pets/Arctodus.png" mapDisplaySize="64">
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="black" DisplayName="Black Bear" iconFile="Data/LadyElyssa/Images/Ranger Pets/Black Bear.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="brown" DisplayName="Brown Bear" iconFile="Data/LadyElyssa/Images/Ranger Pets/Brown Bear.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="murellow" DisplayName="Murellow" iconFile="Data/LadyElyssa/Images/Ranger Pets/Murellow.png" mapDisplaySize="64">
+                        <MarkerCategory name="mj" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="polar" DisplayName="Polar Bear" iconFile="Data/LadyElyssa/Images/Ranger Pets/Polar Bear.png" mapDisplaySize="64">
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="bird" DisplayName="Bird">
+                    <MarkerCategory name="eagle" DisplayName="Eagle" iconFile="Data/LadyElyssa/Images/Ranger Pets/Eagle.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hawk" DisplayName="Hawk" iconFile="Data/LadyElyssa/Images/Ranger Pets/Hawk.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="iron" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="owl" DisplayName="Owl" iconFile="Data/LadyElyssa/Images/Ranger Pets/Owl.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="raven" DisplayName="Raven" iconFile="Data/LadyElyssa/Images/Ranger Pets/Raven.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="white" DisplayName="White Raven [HoM]" iconFile="Data/LadyElyssa/Images/Ranger Pets/White Raven.png" mapDisplaySize="48">
+                        <MarkerCategory name="far" isSeparator="1" DisplayName="FAR SHIVERPEAKS"/>
+                        <MarkerCategory name="hom" DisplayName="Hall of Monuments Portal Stone"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="bristleback" DisplayName="Bristleback" iconFile="Data/LadyElyssa/Images/Ranger Pets/Bristleback.png" mapDisplaySize="64">
+                    <MarkerCategory name="map" isSeparator="1" DisplayName="HEART OF THORNS"/>
+                    <MarkerCategory name="ab" DisplayName="Auric Basin"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="canine" DisplayName="Canine">
+                    <MarkerCategory name="alpine" DisplayName="Alpine Wolf" iconFile="Data/LadyElyssa/Images/Ranger Pets/Alpine Wolf.png" mapDisplaySize="64">
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fern" DisplayName="Fern Hound" iconFile="Data/LadyElyssa/Images/Ranger Pets/Fern Hound.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="mj" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                        <MarkerCategory name="orr" isSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hyena" DisplayName="Hyena" iconFile="Data/LadyElyssa/Images/Ranger Pets/Hyena.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="krytan" DisplayName="Krytan Drakehound" iconFile="Data/LadyElyssa/Images/Ranger Pets/Krytan Drakehound.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="la" DisplayName="Lion's Arch" mapDisplaySize="42"/>
+                        <MarkerCategory name="orr" isSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wolf" DisplayName="Wolf" iconFile="Data/LadyElyssa/Images/Ranger Pets/Wolf.png" mapDisplaySize="64">
+                        <MarkerCategory name="mists" isSeparator="1" DisplayName="THE MISTS"/>
+                        <MarkerCategory name="eb" DisplayName="Eternal Battlegrounds"/>
+                        <MarkerCategory name="red" DisplayName="Red Desert Borderlands"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="chak" DisplayName="Chak">
+                    <MarkerCategory name="striker" DisplayName="Sky-Chak Striker" iconFile="Data/LadyElyssa/Images/Ranger Pets/Sky-Chak Striker.png" mapDisplaySize="64">
+                        <MarkerCategory name="map" isSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="demon" DisplayName="Demon">
+                    <MarkerCategory name="spinegazer" DisplayName="Spinegazer" iconFile="Data/LadyElyssa/Images/Ranger Pets/Spinegazer.png" mapDisplaySize="64" mapDisplaySize="64">
+                        <MarkerCategory name="map" isSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
+                        <MarkerCategory name="in" DisplayName="Inner Nayos"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="devourer" DisplayName="Devourer">
+                    <MarkerCategory name="carrion" DisplayName="Carrior Devourer" iconFile="Data/LadyElyssa/Images/Ranger Pets/Carrion Devourer.png" mapDisplaySize="64" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                        <MarkerCategory name="iron" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lashtail" DisplayName="Lashtail Devourer" iconFile="Data/LadyElyssa/Images/Ranger Pets/Lashtail Devourer.png" mapDisplaySize="64" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="bc" DisplayName="Black Citadel"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="whiptail" DisplayName="Whiptail Devourer" iconFile="Data/LadyElyssa/Images/Ranger Pets/Whiptail Devourer.png" mapDisplaySize="64" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="bc" DisplayName="Black Citadel"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="drake" DisplayName="Drake">
+                    <MarkerCategory name="ice" DisplayName="Ice Drake" iconFile="Data/LadyElyssa/Images/Ranger Pets/Ice Drake.png" mapDisplaySize="64">
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="marsh" DisplayName="Marsh Drake" iconFile="Data/LadyElyssa/Images/Ranger Pets/Marsh Drake.png" mapDisplaySize="64">
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="reef" DisplayName="Reef Drake" iconFile="Data/LadyElyssa/Images/Ranger Pets/Reef Drake.png" mapDisplaySize="64">
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="river" DisplayName="River Drake" iconFile="Data/LadyElyssa/Images/Ranger Pets/River Drake.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="salamander" DisplayName="Salamander Drake" iconFile="Data/LadyElyssa/Images/Ranger Pets/Salamander Drake.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                        <MarkerCategory name="iron" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="feline" DisplayName="Feline">
+                    <MarkerCategory name="cheetah" DisplayName="Cheetah" iconFile="Data/LadyElyssa/Images/Ranger Pets/Cheetah.png" mapDisplaySize="64">
+                        <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
+                        <MarkerCategory name="er" DisplayName="Elon Riverlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="jaguar" DisplayName="Jaguar" iconFile="Data/LadyElyssa/Images/Ranger Pets/Jaguar.png" mapDisplaySize="64">
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="jungle" DisplayName="Jungle Stalker" iconFile="Data/LadyElyssa/Images/Ranger Pets/Jungle Stalker.png" mapDisplaySize="64">
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/> 
+                    </MarkerCategory>
+                    <MarkerCategory name="lynx" DisplayName="Lynx" iconFile="Data/LadyElyssa/Images/Ranger Pets/Lynx.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="la" DisplayName="Lion's Arch" mapDisplaySize="42"/>
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sand" DisplayName="Sand Lion" iconFile="Data/LadyElyssa/Images/Ranger Pets/Sand Lion.png" mapDisplaySize="64">
+                        <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
+                        <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="snow" DisplayName="Snow Leopard" iconFile="Data/LadyElyssa/Images/Ranger Pets/Snow Leopard.png" mapDisplaySize="64">
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tiger" DisplayName="Tiger" iconFile="Data/LadyElyssa/Images/Ranger Pets/Tiger.png" mapDisplaySize="64">
+                        <MarkerCategory name="hot" isSeparator="1" DisplayName="HEART OF THORNS"/>
+                        <MarkerCategory name="ds" DisplayName="Dragon's Stand"/>
+                        <MarkerCategory name="lws3" isSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                        <MarkerCategory name="draconis" DisplayName="Draconis Mons"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="white" DisplayName="White Tiger" iconFile="Data/LadyElyssa/Images/Ranger Pets/White Tiger.png" mapDisplaySize="64">
+                        <MarkerCategory name="eod" isSeparator="1" DisplayName="END OF DRAGONS"/>
+                        <MarkerCategory name="sp" DisplayName="Seitung Province"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="iboga" DisplayName="Iboga">
+                    <MarkerCategory name="fanged" DisplayName="Fanged Iboga" iconFile="Data/LadyElyssa/Images/Ranger Pets/Fanged Iboga.png" mapDisplaySize="64">
+                        <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
+                        <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="jacaranda" DisplayName="Jacaranda" iconFile="Data/LadyElyssa/Images/Ranger Pets/Jacaranda.png" mapDisplaySize="64">
+                    <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="dov" DisplayName="Domain of Vabbi"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="jellyfish" DisplayName="Jellyfish">
+                    <MarkerCategory name="blue" DisplayName="Blue Jellyfish" iconFile="Data/LadyElyssa/Images/Ranger Pets/Blue Jellyfish.png" mapDisplaySize="64">
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="la" DisplayName="Lion's Arch"/>
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                        <MarkerCategory name="eod" isSeparator="1" DisplayName="END OF DRAGONS"/>
+                        <MarkerCategory name="de" DisplayName="Dragon's End"/>
+                        <MarkerCategory name="jw" isSeparator="1" DisplayName="JANTHIR WILDS"/>
+                        <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="red" DisplayName="Red Jellyfish" iconFile="Data/LadyElyssa/Images/Ranger Pets/Red Jellyfish.png" mapDisplaySize="64">
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                        <MarkerCategory name="mount" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="rata" DisplayName="Rata Sum"/>
+                        <MarkerCategory name="eod" isSeparator="1" DisplayName="END OF DRAGONS"/>
+                        <MarkerCategory name="de" DisplayName="Dragon's End"/>
+                        <MarkerCategory name="jw" isSeparator="1" DisplayName="JANTHIR WILDS"/>
+                        <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="rainbow" DisplayName="Rainbow Jellyfish" iconFile="Data/LadyElyssa/Images/Ranger Pets/Rainbow Jellyfish.png" mapDisplaySize="48">
+                        <MarkerCategory name="far" isSeparator="1" DisplayName="FAR SHIVERPEAKS"/>
+                        <MarkerCategory name="hom" DisplayName="Hall of Monuments Portal Stone"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="moa" DisplayName="Moa">
+                    <MarkerCategory name="black" DisplayName="Black Moa" iconFile="Data/LadyElyssa/Images/Ranger Pets/Black Moa.png" mapDisplaySize="48">
+                        <MarkerCategory name="far" isSeparator="1" DisplayName="FAR SHIVERPEAKS"/>
+                        <MarkerCategory name="hom" DisplayName="Hall of Monuments Portal Stone"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="blue" DisplayName="Blue Moa" iconFile="Data/LadyElyssa/Images/Ranger Pets/Blue Moa.png" mapDisplaySize="64">
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>                        
+                        <MarkerCategory name="orr" isSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="pink" DisplayName="Pink Moa" iconFile="Data/LadyElyssa/Images/Ranger Pets/Pink Moa.png" mapDisplaySize="64">
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="rata" DisplayName="Rata Sum"/>
+                        <MarkerCategory name="tg" DisplayName="The Grove"/>
+                        <MarkerCategory name="wastes" isSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                        <MarkerCategory name="dt" DisplayName="Dry Top"/>
+
+                    </MarkerCategory>
+                    <MarkerCategory name="red" DisplayName="Red Moa" iconFile="Data/LadyElyssa/Images/Ranger Pets/Red Moa.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="white" DisplayName="White Moa" iconFile="Data/LadyElyssa/Images/Ranger Pets/White Moa.png" mapDisplaySize="64">
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                        <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="phoenix" DisplayName="Phoenix" iconFile="Data/LadyElyssa/Images/Ranger Pets/Phoenix.png" mapDisplaySize="64">
+                    <MarkerCategory name="eod" isSeparator="1" DisplayName="END OF DRAGONS"/>
+                    <MarkerCategory name="nkc" DisplayName="New Kaineng City"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="porcine" DisplayName="Porcine">
+                    <MarkerCategory name="boar" DisplayName="Boar" iconFile="Data/LadyElyssa/Images/Ranger Pets/Boar.png" mapDisplaySize="64">
+                        <MarkerCategory name="orr" isSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="pig" DisplayName="Pig" iconFile="Data/LadyElyssa/Images/Ranger Pets/Pig.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="la" DisplayName="Lion's Arch"/>
+                        <MarkerCategory name="orr" isSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="siamoth" DisplayName="Siamoth" iconFile="Data/LadyElyssa/Images/Ranger Pets/Siamoth.png" mapDisplaySize="64">
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                        <MarkerCategory name="rs" DisplayName="Rata Sum"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="warthog" DisplayName="Warthog" iconFile="Data/LadyElyssa/Images/Ranger Pets/Warthog.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa"/>
+                        <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                        <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="hot" isSeparator="1" DisplayName="HEART OF THORNS"/>
+                        <MarkerCategory name="ab" DisplayName="Auric Basin"/>
+
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="gazelle" DisplayName="Rock Gazelle" iconFile="Data/LadyElyssa/Images/Ranger Pets/Rock Gazelle.png" mapDisplaySize="64">
+                    <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="td" DisplayName="The Desolation"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="shark" DisplayName="Shark" iconFile="Data/LadyElyssa/Images/Ranger Pets/Shark.png" mapDisplaySize="64">
+                    <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+                    <MarkerCategory name="la" DisplayName="Lion's Arch"/>
+                    <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                    <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="siege" DisplayName="Siege Turtle" iconFile="Data/LadyElyssa/Images/Ranger Pets/Siege Turtle.png" mapDisplaySize="64">
+                    <MarkerCategory name="eod" isSeparator="1" DisplayName="END OF DRAGONS"/>
+                    <MarkerCategory name="de" DisplayName="Dragon's End"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="smokescale" DisplayName="Smokescale" iconFile="Data/LadyElyssa/Images/Ranger Pets/Smokescale.png" mapDisplaySize="64">
+                    <MarkerCategory name="hot" isSeparator="1" DisplayName="HEART OF THORNS"/>
+                    <MarkerCategory name="td" DisplayName="Tangled Depths"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="spider" DisplayName="Spider">
+                    <MarkerCategory name="black" DisplayName="Black Widow" iconFile="Data/LadyElyssa/Images/Ranger Pets/Black Widow Spider.png" mapDisplaySize="48">
+                        <MarkerCategory name="far" isSeparator="1" DisplayName="FAR SHIVERPEAKS"/>
+                        <MarkerCategory name="hom" DisplayName="Hall of Monuments Portal Stone"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cave" DisplayName="Cave Spider" iconFile="Data/LadyElyssa/Images/Ranger Pets/Cave Spider.png" mapDisplaySize="64">
+                        <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
+                        <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                        <MarkerCategory name="shiverpeaks" isSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                        <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="forest" DisplayName="Forest Spider" iconFile="Data/LadyElyssa/Images/Ranger Pets/Forest Spider.png" mapDisplaySize="64">
+                        <MarkerCategory name="ascalon" isSeparator="1" DisplayName="ASCALON"/>
+                        <MarkerCategory name="iron" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="jungle" DisplayName="Jungle Spider" iconFile="Data/LadyElyssa/Images/Ranger Pets/Jungle Spider.png" mapDisplaySize="64">
+                        <MarkerCategory name="jungle" isSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                        <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+                        <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                        <MarkerCategory name="orr" isSeparator="1" DisplayName="RUINS OF ORR"/>
+                        <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="wallow" DisplayName="Wallow" iconFile="Data/LadyElyssa/Images/Ranger Pets/Wallow.png" mapDisplaySize="64">
+                    <MarkerCategory name="eod" isSeparator="1" DisplayName="END OF DRAGONS"/>
+                    <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="warclaw" DisplayName="Warclaw" iconFile="Data/LadyElyssa/Images/Ranger Pets/Warclaw.png" mapDisplaySize="64">
+                    <MarkerCategory name="jw" isSeparator="1" DisplayName="JANTHIR WILDS"/>
+                    <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="wyvern" DisplayName="Wyvern">
+                    <MarkerCategory name="electric" DisplayName="Electric Wyvern" iconFile="Data/LadyElyssa/Images/Ranger Pets/Electric Wyvern.png" mapDisplaySize="64">
+                        <MarkerCategory name="hot" isSeparator="1" DisplayName="HEART OF THORNS"/>
+                        <MarkerCategory name="ds" DisplayName="Dragon's Stand"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fire" DisplayName="Fire Wyvern" iconFile="Data/LadyElyssa/Images/Ranger Pets/Fire Wyvern.png" mapDisplaySize="64">
+                        <MarkerCategory name="hot" isSeparator="1" DisplayName="HEART OF THORNS"/>
+                        <MarkerCategory name="vb" DisplayName="Verdant Brink"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            
+            
+            
+            
+        </MarkerCategory>
+        <!-- END VENDORS -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>
