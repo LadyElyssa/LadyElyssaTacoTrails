@@ -39,9 +39,9 @@
                     <MarkerCategory name="honeyflower" DisplayName="Honey Flower">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" defaulttoggle="0"/>
                         <MarkerCategory name="tog" DisplayName="Toggle Honey Flower (Hexagon)" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                        <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" defaulttoggle="0"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                         <MarkerCategory name="ls" DisplayName="Lowland Shore" defaulttoggle="0"/>
                     </MarkerCategory>
@@ -49,9 +49,9 @@
                     <MarkerCategory name="lowlandpine" DisplayName="Lowland Pine">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" defaulttoggle="0"/>
                         <MarkerCategory name="tog" DisplayName="Toggle Lowland Pine (Circle)" iconFile="Data/LadyElyssa/Images/Circle.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                        <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" defaulttoggle="0"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                         <MarkerCategory name="ls" DisplayName="Lowland Shore" defaulttoggle="0"/>
                     </MarkerCategory>

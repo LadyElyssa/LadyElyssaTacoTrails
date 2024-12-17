@@ -34,6 +34,14 @@
                             <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
                         </MarkerCategory>
                         <!-- End Numbers -->
+
+                    <MarkerCategory name="ef_ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="33CCFF"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="33CCFF"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="33CCFF"/>
+                    <MarkerCategory name="ironmarches" DisplayName="Iron Marches" color="33CCFF"/>
+                    <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="33CCFF"/>
+
                     <MarkerCategory name="ef_kryta" IsSeparator="1" DisplayName="KRYTA"/>
                     <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="33CCFF"/>
                     <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="33CCFF"/>
@@ -41,17 +49,12 @@
                     <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="33CCFF"/>
                     <MarkerCategory name="queensdale" DisplayName="Queensdale" color="33CCFF"/>
                     <MarkerCategory name="southsun" DisplayName="Southsun Cove" color="33CCFF"/>
-                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen" color="33CCFF"/>
+
                     <MarkerCategory name="ef_maguumajungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
                     <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" color="33CCFF"/>
                     <MarkerCategory name="metrica" DisplayName="Metrica Province (start)" color="33CCFF"/>
-                    <MarkerCategory name="ef_ascalon" IsSeparator="1" DisplayName="ASCALON"/>
-                    <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="33CCFF"/>
-                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="33CCFF"/>
-                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="33CCFF"/>
-                    <MarkerCategory name="fields" DisplayName="Fields of Ruin" color="33CCFF"/>
-                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="33CCFF"/>
-                    <MarkerCategory name="ironmarches" DisplayName="Iron Marches" color="33CCFF"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen" color="33CCFF"/>
+                    
                     <MarkerCategory name="ef_shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
                     <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="33CCFF"/>
                     <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="33CCFF"/>
@@ -60,6 +63,7 @@
                     <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="33CCFF"/>
                     <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="33CCFF"/>
                     <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills" color="33CCFF"/>
+                    
                     <MarkerCategory name="ef_orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
                     <MarkerCategory name="cursedshore" DisplayName="Cursed Shore" color="33CCFF"/>
                     <MarkerCategory name="devastation" DisplayName="Strait of Devastation" color="33CCFF"/>
