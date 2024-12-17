@@ -142,6 +142,12 @@
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
             </MarkerCategory>
+            <MarkerCategory name="goemm" DisplayName="Goemm's Lab">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+            </MarkerCategory>
             <MarkerCategory name="hexfoundry" DisplayName="Hexfoundry Unhinged">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -432,7 +438,7 @@
                 </MarkerCategory>
 
             <MarkerCategory name="wvw" IsSeparator="1" DisplayName="WORLD VS. WORLD"/>
-            <MarkerCategory name="mv" DisplayName="Mistwrought Vault - Emerald" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
+            <MarkerCategory name="mv" DisplayName="Mistwrought Vault" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
