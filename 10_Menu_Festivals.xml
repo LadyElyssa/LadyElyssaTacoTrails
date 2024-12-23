@@ -684,8 +684,9 @@
 
             <MarkerCategory name="wintersday" DisplayName="Wintersday">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="locations" DisplayName="Toggle Orphan Locations" iconFile="Data/LadyElyssa/Images/WrappedGift.png" mapDisplaySize="24" heightOffset="3" inGameVisibility="0"/>                
-
+                <MarkerCategory name="finders" DisplayName="Finders Keepers"/>
+                <MarkerCategory name="presents" DisplayName="Toggle Presents" iconFile="Data/LadyElyssa/Images/Present.png" mapDisplaySize="32" inGameVisibility="0"/>
+                <MarkerCategory name="locations" DisplayName="Toggle Orphan Locations" iconFile="Data/LadyElyssa/Images/WrappedGift.png" mapDisplaySize="24" heightOffset="3" inGameVisibility="0"/>
                 <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
                 <MarkerCategory name="orphans" DisplayName="Orphans No WP's" texture="Data/LadyElyssa/Images/Trail-Karma.png">
                     <MarkerCategory name="set"  IsSeparator="1" DisplayName="SETTINGS"/>
