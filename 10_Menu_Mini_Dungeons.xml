@@ -98,6 +98,38 @@
                 <MarkerCategory name="doric" DisplayName="Lake Doric" color="E6E6E6"/>
             </MarkerCategory>
 
+            <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+
+            <!-- Rune-Locked Doors -->
+            
+            <MarkerCategory name="rune" DisplayName="Rune-Locked Doors" achievementId="3583">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="path" DisplayName="Path">
+                        <MarkerCategory name="to" DisplayName="Start To First Rune" mapDisplaySize="8"/>
+                        <MarkerCategory name="cold" DisplayName="Cold" mapDisplaySize="8" color="00ffff"/>
+                        <MarkerCategory name="lava" DisplayName="Lava" mapDisplaySize="8" color="ff6600"/>
+                        <MarkerCategory name="cobweb" DisplayName="Cobweb" mapDisplaySize="8" color="9494b8"/>
+                        <MarkerCategory name="water" DisplayName="Water" mapDisplaySize="8" color="33cccc"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="rune" DisplayName="Rune Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/n1.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/n2.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/n3.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/n4.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/n5.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/n6.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/n7.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/n8.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/n9.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/n10.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    </MarkerCategory>
+                </MarkerCategory>
 
             <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
 
@@ -133,7 +165,7 @@
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="tew" DisplayName="The Echovald Wilds" color="E6E6E6"/>
             </MarkerCategory>
-            <!-- End Vasburg Armory -->  
+            <!-- End Vasburg Armory --> 
 
         </MarkerCategory>
         
