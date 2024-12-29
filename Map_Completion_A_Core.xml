@@ -750,6 +750,7 @@
         <POI MapID="20" xpos="-326.655" ypos="38.3035" zpos="-51.0915" type="legs.map.core.blazeridge.wp.mount.skyscale" GUID="7zO+wYaepU6dbfqs66ZUVg=="/>
         <POI MapID="20" xpos="-365.099" ypos="0.930174" zpos="392.03" type="legs.map.core.blazeridge.wp.mount.springer" GUID="I8lRY+fLTUOAnqxktOguzw=="/>
         <POI MapID="20" xpos="-538.172" ypos="18.2182" zpos="971.025" type="legs.map.core.blazeridge.wp.finish" GUID="kjurQ8N2J0aImlbyKgzybg=="/>
+        <Trail type="legs.map.core.blazeridge.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Blazeridge WP Barefoot.trl"/>
         <Trail type="legs.map.core.ironmarches.all.number.1" trailData="Data/LadyElyssa/Map Completion/Iron Marches 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.ironmarches.all.number.2" trailData="Data/LadyElyssa/Map Completion/Iron Marches 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.ironmarches.all.number.3" trailData="Data/LadyElyssa/Map Completion/Iron Marches 3.trl" color="00FFFF"/>
@@ -849,6 +850,7 @@
         <POI MapID="25" xpos="564.895" ypos="11.3198" zpos="-565.588" type="legs.map.core.ironmarches.wp.start" GUID="hxFpGWnQc0iLnu7nifDg0Q=="/>
         <POI MapID="25" xpos="-357.899" ypos="29.5536" zpos="-940.498" type="legs.map.core.ironmarches.wp.mount.springer" GUID="kBRVnQcTk0W5BCbxPGpYkA=="/>
         <POI MapID="25" xpos="-559.607" ypos="26.1357" zpos="459.854" type="legs.map.core.ironmarches.wp.finish" GUID="KuHY6TTJX0afXi8P4lUz3g=="/>
+        <Trail type="legs.map.core.ironmarches.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Iron Marches WP Barefoot.trl"/>
         <Trail type="legs.map.core.fireheart.all.number.1" trailData="Data/LadyElyssa/Map Completion/Fireheart 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.fireheart.all.number.2" trailData="Data/LadyElyssa/Map Completion/Fireheart 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.fireheart.all.number.3" trailData="Data/LadyElyssa/Map Completion/Fireheart 3.trl" color="00FFFF"/>
@@ -864,6 +866,7 @@
         <POI MapID="22" xpos="439.896" ypos="19.3248" zpos="345.309" type="legs.map.core.fireheart.wp.number.2" GUID="6Ebb14WQRk+7Fl4RTZqXuA=="/>
         <POI MapID="22" xpos="386.593" ypos="22.8755" zpos="-0.0665643" type="legs.map.core.fireheart.wp.wp" GUID="lczB35V92kKh2mIOi3veGA==" copy="[&BCUCAAA=]" copy-message="Simurgh Waypoint"/>
         <POI MapID="22" xpos="869.312" ypos="55.9372" zpos="658.126" type="legs.map.core.fireheart.wp.wp" GUID="Lp+v8ltdbEGPx6kLqKooig==" copy="[&BCUCAAA=]" copy-message="Simurgh Waypoint"/>
+        <Trail type="legs.map.core.fireheart.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Fireheart WP Barefoot.trl"/>
         <POI MapID="22" xpos="955.82" ypos="7.71301" zpos="-558.512" type="legs.map.core.fireheart.all.mount.raptor" GUID="ZeM1JsPRzECzeinVo29LNg=="/>
         <POI MapID="22" xpos="729.306" ypos="2.6245" zpos="-680.899" type="legs.map.core.fireheart.all.mount.beetle" GUID="9CQWo2/GvEO+p0LQEmhcdw=="/>
         <POI MapID="22" xpos="882.151" ypos="7.02494" zpos="-544.347" type="legs.map.core.fireheart.all.mount.skimmer" GUID="Og5GiF3f6kG29opL53xUgg=="/>
@@ -1075,6 +1078,7 @@
         <POI MapID="15" xpos="-417.599" ypos="34.862" zpos="440.543" type="legs.map.core.queensdale.wp.start" GUID="Z+EB1PGS4E6gQOA0LwCguA=="/>
         <POI MapID="15" xpos="598.877" ypos="59.346" zpos="429.396" type="legs.map.core.queensdale.wp.mount.skyscale" GUID="MpCiIBsbMEWteH0k6sej+A=="/>
         <POI MapID="15" xpos="-385.7" ypos="71.976" zpos="589.657" type="legs.map.core.queensdale.wp.finish" GUID="/effs+08kkCFXt3/alRxmA=="/>
+        <Trail type="legs.map.core.queensdale.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Queensdale WP Barefoot.trl"/>
         <Trail type="legs.map.core.queensdale.all.number.1" trailData="Data/LadyElyssa/Map Completion/Queensdale 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.queensdale.all.number.2" trailData="Data/LadyElyssa/Map Completion/Queensdale 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.queensdale.all.number.3" trailData="Data/LadyElyssa/Map Completion/Queensdale 3.trl" color="00FFFF"/>
@@ -1325,7 +1329,7 @@
         <POI MapID="23" xpos="-872.423" ypos="94.2742" zpos="490.541" type="legs.map.core.kessex.wp.mount.springer" GUID="mhaMI1/sb0W6dHwcNA5myA=="/>
         <POI MapID="23" xpos="-864.558" ypos="110.855" zpos="491.516" type="legs.map.core.kessex.wp.mount.skyscale" GUID="+axi5BDApU2DD1aDAse0Cg=="/>
         <POI MapID="23" xpos="-179.467" ypos="46.0598" zpos="-554.602" type="legs.map.core.kessex.wp.finish" GUID="2XFPwCPvCkeIE1gsDzVs3Q=="/>
-        <Trail type="legs.map.core.kessex.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Kessex Barefoot.trl"/>
+        <Trail type="legs.map.core.kessex.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Kessex WP Barefoot.trl"/>
 
 
         <Trail type="legs.map.core.gendarran.all.number.1" trailData="Data/LadyElyssa/Map Completion/Gendarran 1.trl" color="00FFFF"/>
@@ -1808,6 +1812,7 @@
         <Trail type="legs.map.core.brisban.wp" trailData="Data/LadyElyssa/Map Completion/Brisban WP.trl" color="CC66FF"/>
         <POI MapID="54" xpos="279.764" ypos="76.6377" zpos="-695.478" type="legs.map.core.brisban.wp.start" GUID="EmvG6hIHB0icfV6pbPumtw=="/>
         <POI MapID="54" xpos="1009.7" ypos="67.0917" zpos="730.183" type="legs.map.core.brisban.wp.finish" GUID="kzIE+XdT0kqYKbeaal40eA=="/>
+        
         <Trail type="legs.map.core.caledon.wp" trailData="Data/LadyElyssa/Map Completion/Caledon Forest WP.trl" color="CC66FF"/>
         <POI MapID="34" xpos="490.719" ypos="15.8596" zpos="1201.36" type="legs.map.core.caledon.wp.start" GUID="Ma60QeM5gEKS0EdPyBT+tg=="/>
         <POI MapID="34" xpos="-24.0824" ypos="3.19682" zpos="-211.315" type="legs.map.core.caledon.wp.mount.springer" GUID="q4pTAp1bpEC4ONUVNVOI6w=="/>
@@ -1815,6 +1820,8 @@
         <POI MapID="34" xpos="193.169" ypos="56.2384" zpos="-251.252" type="legs.map.core.caledon.wp.mount.skyscale" GUID="TYxUs+X6x0q/vqsOa4AHUg=="/>
         <POI MapID="34" xpos="366.627" ypos="13.3481" zpos="-752.209" type="legs.map.core.caledon.wp.mount.springer" GUID="0hom+VpgNkS1Et6ZLTVBXQ=="/>
         <POI MapID="34" xpos="-190.245" ypos="21.0609" zpos="-1126.34" type="legs.map.core.caledon.wp.finish" GUID="xA2E18NFvk2t+iDY9tIoWA=="/>
+        <Trail type="legs.map.core.caledon.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Caledon WP Barefoot.trl"/>
+
         <Trail type="legs.map.core.caledon.all.number.1" trailData="Data/LadyElyssa/Map Completion/Caledon 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.caledon.all.number.2" trailData="Data/LadyElyssa/Map Completion/Caledon 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.caledon.all.number.3" trailData="Data/LadyElyssa/Map Completion/Caledon 3.trl" color="00FFFF"/>
@@ -2071,6 +2078,7 @@
         <POI MapID="39" xpos="11.1077" ypos="80.4725" zpos="-249.567" type="legs.map.core.maelstrom.wp.mount.skyscale" GUID="gMULQbicUkSyre1B53LodA=="/>
         <POI MapID="39" xpos="450.846" ypos="20.1506" zpos="-344.532" type="legs.map.core.maelstrom.wp.mount.springer" GUID="KxtZceqWSkOlqh7OPKkzsw=="/>
         <POI MapID="39" xpos="-753.121" ypos="61.0042" zpos="-214.685" type="legs.map.core.maelstrom.wp.mount.skyscale" GUID="w5vQV6VDF0+S9irhYUYaRQ=="/>
+        <Trail type="legs.map.core.maelstrom.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Mount Maelstrom WP Barefoot.trl"/>
         <Trail type="legs.map.core.sparkfly.run" trailData="Data/LadyElyssa/Map Completion/Sparkfly Fen to Orr.trl" color="99FFCC"/>
         <Trail type="legs.map.core.sparkfly.all.number.1" trailData="Data/LadyElyssa/Map Completion/Sparkfly 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.sparkfly.all.number.2" trailData="Data/LadyElyssa/Map Completion/Sparkfly 2.trl" color="00FFFF"/>
@@ -2197,6 +2205,9 @@
         <POI MapID="53" xpos="394.547" ypos="15.6073" zpos="629.507" type="legs.map.core.sparkfly.wp.mount.skyscale" GUID="oQbkGFbcC02UzJ3mHwX6fw=="/>
         <POI MapID="53" xpos="-321.238" ypos="2.97782" zpos="511.937" type="legs.map.core.sparkfly.wp.mount.springer" GUID="trnqA5tG/EitXabXlZIUdg=="/>
         <POI MapID="53" xpos="681.85" ypos="42.2414" zpos="-650.292" type="legs.map.core.sparkfly.wp.finish" GUID="XFeb9YiamkO8YH6mgQ0ayA=="/>
+
+        <Trail type="legs.map.core.sparkfly.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Sparkfly WP Barefoot.trl"/>
+
         <!-- SHIVERPEAKS -->
         <Trail type="legs.map.core.wayfarer.wp" trailData="Data/LadyElyssa/Map Completion/Wayfarer Foothills WP.trl" color="CC66FF"/>
         <POI MapID="28" xpos="415.454" ypos="125.558" zpos="978.636" type="legs.map.core.wayfarer.wp.start" GUID="afeGuhgWsEq3zfVcDYzWPg=="/>
@@ -2576,6 +2587,7 @@
         <POI MapID="30" xpos="619.429" ypos="30.2987" zpos="-63.6004" type="legs.map.core.frostgorge.wp.mount.raptor.leap" GUID="6gBjZ6jCEEGYXnR7XFO2kQ=="/>
         <POI MapID="30" xpos="611.084" ypos="22.2772" zpos="-124.312" type="legs.map.core.frostgorge.wp.mount.raptor.leap" GUID="5fW2G93RT0uolzJip5iiXQ=="/>
         <POI MapID="30" xpos="-746.961" ypos="48.5192" zpos="-898.841" type="legs.map.core.frostgorge.wp.finish" GUID="OQDuk9CQeES5/1j40+dJ2g=="/>
+        <Trail type="legs.map.core.frostgorge.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Frostgorge WP Barefoot.trl"/>
         <Trail type="legs.map.core.lornars.all.number.1" trailData="Data/LadyElyssa/Map Completion/Lornar's 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.lornars.all.number.2" trailData="Data/LadyElyssa/Map Completion/Lornar's 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.lornars.all.number.3" trailData="Data/LadyElyssa/Map Completion/Lornar's 3.trl" color="00FFFF"/>
@@ -2768,6 +2780,7 @@
         <POI MapID="31" xpos="771.765" ypos="41.0157" zpos="544.47" type="legs.map.core.snowden.wp.start" GUID="qROQj3IbAUuMdTcMJtERhA=="/>
         <POI MapID="31" xpos="-313.293" ypos="59.4511" zpos="-45.0701" type="legs.map.core.snowden.wp.mount.skyscale" GUID="6fIfXj5Df0+sQspJ+caDQg=="/>
         <POI MapID="31" xpos="-1173.81" ypos="36.1521" zpos="-279.77" type="legs.map.core.snowden.wp.finish" GUID="DgRYM8xbF0ip6PNc9kNbbQ=="/>
+        <Trail type="legs.map.core.snowden.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Snowden WP Barefoot.trl"/>
         <Trail type="legs.map.core.snowden.all.heartpath" trailData="Data/LadyElyssa/Map Completion/Snowden Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.snowden.all.heartpath" trailData="Data/LadyElyssa/Map Completion/Snowden Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.timberline.all.number.1" trailData="Data/LadyElyssa/Map Completion/Timberline 1.trl" color="00FFFF"/>
@@ -2958,7 +2971,7 @@
         <POI MapID="51" xpos="-502.146" ypos="40.4203" zpos="-120.882" type="legs.map.core.devastation.wp.number.4" GUID="0pq2a+Pvpkyvq3ov6wY4Xw=="/>
         <POI MapID="51" xpos="-674.388" ypos="94.2231" zpos="-466.647" type="legs.map.core.devastation.wp.mount.skyscale" GUID="2JYukYpM8karYvElDHvdTw=="/>
         <POI MapID="51" xpos="-940.822" ypos="53.042" zpos="-443.224" type="legs.map.core.devastation.wp.finish" GUID="PUdHuAZHnEmLqPQn8rOVTw=="/>
-        
+        <Trail type="legs.map.core.devastation.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Straits of Devastation WP Barefoot.trl"/>
         <Trail type="legs.map.core.malchors.all.number.1" trailData="Data/LadyElyssa/Map Completion/Malchor's Leap 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.malchors.all.number.2" trailData="Data/LadyElyssa/Map Completion/Malchor's Leap 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.malchors.all.number.3" trailData="Data/LadyElyssa/Map Completion/Malchor's Leap 3.trl" color="00FFFF"/>
@@ -3055,6 +3068,8 @@
         <POI MapID="65" xpos="-173.733" ypos="105.296" zpos="-68.6794" type="legs.map.core.malchors.wp.wp" GUID="JDBX68IT00uM8m5LYs6WAg==" copy="[&BKwCAAA=]" copy-message="Wren Waypoint"/>
         <POI MapID="65" xpos="503.573" ypos="100.734" zpos="374.48" type="legs.map.core.malchors.wp.wp" GUID="Dr2Dh/tC0UqXwzF++MbMyQ==" copy="[&BK4CAAA=]" copy-message="Blighted Arch Waypoint"/>
         <POI MapID="65" xpos="-757.377" ypos="-35.4688" zpos="400.946" type="legs.map.core.malchors.wp.wp" GUID="Zb8QnUCL6Em6HLWMMM3WVg==" copy="[&BK8CAAA=]" copy-message="Murmur Waypoint"/>
+        <Trail type="legs.map.core.malchors.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Malchor's Leap WP Barefoot.trl"/>
+        <POI MapID="65" xpos="1027.466" ypos="7.463893" zpos="74.48229" GUID="0hlKnzckQU+t8/85hnRdgA==" type="legs.map.core.malchors.wp.wp" copy="[&BKYCAAA=]" copy-message="Pagga's Waypoint"/>
         <Trail type="legs.map.core.cs.all.number.1" trailData="Data/LadyElyssa/Map Completion/Cursed Shore 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.cs.all.number.2" trailData="Data/LadyElyssa/Map Completion/Cursed Shore 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.cs.all.number.3" trailData="Data/LadyElyssa/Map Completion/Cursed Shore 3.trl" color="00FFFF"/>
@@ -3124,5 +3139,7 @@
         <POI MapID="62" xpos="-251.302" ypos="22.3311" zpos="-717.925" type="legs.map.core.cs.wp.mount.springer" GUID="Tr9yJ8O0v0qvubbVA79E4A=="/>
         <POI MapID="62" xpos="-384.391" ypos="8.11947" zpos="477.984" type="legs.map.core.cs.wp.wp" GUID="P8/08NMf1UKQnIdrmNu5Zg==" copy="[&BCEDAAA=]" copy-message="Caer Shadowfain Waypoint"/>
         <POI MapID="62" xpos="-372.622" ypos="43.4282" zpos="-858.113" type="legs.map.core.cs.wp.finish" GUID="Cjrx/0bQdUSXGVm2dkxWvQ=="/>
+        <Trail type="legs.map.core.cs.wp.barefoot" trailData="Data/LadyElyssa/Map Completion/Cursed Shore WP Barefoot.trl"/>
+        <POI MapID="62" xpos="-393.966" ypos="4.71104" zpos="477.238" type="legs.map.core.cs.wp.wp" GUID="iNf6Uanql0CXz4qKDLbWww==" copy="[&BCEDAAA=]" copy-message="Caer Shadowfain Waypoint"/>
     </POIs>
 </OverlayData>
