@@ -3,7 +3,7 @@
         <!-- MAP ENHANCEMENTS -->
         <MarkerCategory name="mape" DisplayName="Map Enhancements" heightOffset="3" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32">
             
-            <MarkerCategory name="caves" DisplayName="Caves and Tunnels" texture="Data/LadyElyssa/Images/Line - Fine.png" color="000000" animSpeed="0"/>
+            <MarkerCategory name="caves" DisplayName="Caves and Tunnels (WiP)" texture="Data/LadyElyssa/Images/Line - Medium No Shadow.png" color="1a1a1a" animSpeed="0"/>
 
             <MarkerCategory name="jbterminal" DisplayName="Jade Bot Terminal" iconFile="Data/LadyElyssa/Images/Icons/Jade Bot Terminal.png">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CITY"/>
