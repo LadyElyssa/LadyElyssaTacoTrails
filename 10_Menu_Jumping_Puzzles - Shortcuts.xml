@@ -96,8 +96,10 @@
             <MarkerCategory name="fawcett" DisplayName="Fawcett's Bounty">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="bov" DisplayName="Bond of Vigor" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Vigor.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
