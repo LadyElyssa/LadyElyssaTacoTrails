@@ -6,10 +6,12 @@
         <Trail type="legs.minidungeons.fontofrhand.diessa" trailData="Data/LadyElyssa/Mini Dungeons/Font of Rhand.trl"/>
         <Trail type="legs.minidungeons.rebelsseclusion.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Rebel's Seclusion.trl"/>
         <Trail type="legs.minidungeons.vexaslab.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab.trl"/>
-        <Trail type="legs.minidungeons.vexaslab.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 1.trl"/>
-        <Trail type="legs.minidungeons.vexaslab.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 2.trl"/>
-        <Trail type="legs.minidungeons.vexaslab.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 3.trl"/>
-        <Trail type="legs.minidungeons.vexaslab.fireheart" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 4.trl"/>
+        <POI MapID="22" xpos="-341.4566" ypos="20.50152" zpos="-713.7335" type="legs.minidungeons.vexaslab.fireheart" GUID="4Fsj4jIeK02DtEBZJbJ2ww==" info="Pick one trail colour and follow it&#xa;&#xa;If it doesn't work, try a different colour" infoRange="2"/>
+        <Trail type="legs.minidungeons.vexaslab" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 1.trl" color="ffffff"/>
+        <Trail type="legs.minidungeons.vexaslab" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 2.trl" color="4CFF00"/>
+        <Trail type="legs.minidungeons.vexaslab" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 2n3.trl" texture="Data/LadyElyssa/Images/trail-tiny two-tone.png"/>
+        <Trail type="legs.minidungeons.vexaslab" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 3.trl" color="00FFFF"/>
+        <Trail type="legs.minidungeons.vexaslab" trailData="Data/LadyElyssa/Mini Dungeons/Vexa's Lab 4.trl" color="FFD800"/>
         <Trail type="legs.minidungeons.badneighbourhood.queensdale" trailData="Data/LadyElyssa/Mini Dungeons/Bad Neighbourhood.trl"/>
         <Trail type="legs.minidungeons.goffsloot.kessex" trailData="Data/LadyElyssa/Mini Dungeons/Goff's Loot.trl"/>
         <Trail type="legs.minidungeons.provernic.gendarran" trailData="Data/LadyElyssa/Mini Dungeons/Provernic Crypt.trl"/>
