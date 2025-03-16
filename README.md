@@ -226,6 +226,19 @@ Added Trails for Map Mastery Insights for:
    * Secrets of the Obscure
    * Janthir Wilds
 
+## Rift Hunting (Work in Progress) ##
+
+* Core Maps
+* LWS1: Southsun
+* LWS2: Dry Top
+* Heart of Thorns
+* LWS3
+* Path of Fire
+* LWS4
+* End of Dragons
+* Secrets of the Obscure
+* Janthir Wilds
+
 ## Vendors ##
 * PSNA - Pact Supply Network Agents
 * Priory Historian Elisa (Work in Progress)
