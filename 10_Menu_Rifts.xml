@@ -1,0 +1,222 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <MarkerCategory name="rifts" DisplayName="Rift Hunting (Work in Progress)">
+            <!--
+                See: https://wiki.guildwars2.com/wiki/Rift_Hunting
+                for weekly schedule
+            -->
+            <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE MAPS"/>
+            <MarkerCategory name="ascalon" DisplayName="Ascalon">
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+                <MarkerCategory name="iron" DisplayName="Iron Marches">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="kryta" DisplayName="Kryta">
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="maguuma" DisplayName="Maguuma Jungle">
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            </MarkerCategory> 
+            <MarkerCategory name="orr" DisplayName="Ruins of Orr">
+                <MarkerCategory name="cursed" DisplayName="Cursed Shore">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+                <MarkerCategory name="malchors" DisplayName="Malchor's Leap">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+                <MarkerCategory name="straits" DisplayName="Straits of Devastation">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            </MarkerCategory> 
+            <MarkerCategory name="shiverpeaks" DisplayName="Shiverpeak Mountains">
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+                <MarkerCategory name="timberline" DisplayName="Timberline Falls">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            </MarkerCategory> 
+
+            <MarkerCategory name="lws1" IsSeparator="1" DisplayName="LWS1: Scarlet's War"/>
+            <MarkerCategory name="southsun" DisplayName="Southsun">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="lws2" IsSeparator="1" DisplayName="LWS2: Glint's Prophecy"/>
+            <MarkerCategory name="dt" DisplayName="Dry Top">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+            <MarkerCategory name="ab" DisplayName="Auric Basin">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="td" DisplayName="Tangled Depths">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="vb" DisplayName="Verdant Brink">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+            <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="bsf" DisplayName="Bloodstone Fen">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="ember" DisplayName="Ember Bay">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="doric" DisplayName="Lake Doric">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+            <MarkerCategory name="co" DisplayName="Crystal Oasis">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="dh" DisplayName="Desert Highlands">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="dov" DisplayName="Domain of Vabbi">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="er" DisplayName="Elon Riverlands">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+            <MarkerCategory name="doi" DisplayName="Domain of Istan">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="jahai" DisplayName="Jahai Bluffs">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="sandswept" DisplayName="Sandswept Isles">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+            <MarkerCategory name="ew" DisplayName="Echovald Wilds">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="nkc" DisplayName="New Kaineng City">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="sp" DisplayName="Seitung Province">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
+            <MarkerCategory name="amnytas" DisplayName="Amnytas">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="nayos" DisplayName="Inner Nayos">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="skywatch" DisplayName="Skywatch Arhipelago">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS"/>
+            <MarkerCategory name="ls" DisplayName="Lowland Shore">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            <MarkerCategory name="js" DisplayName="Janthir Syntri">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="mb" DisplayName="Mistburned Barrens">
+                <MarkerCategory name="t1" DisplayName="Tier 1" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 1.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t2" DisplayName="Tier 2" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 2.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+                <MarkerCategory name="t3" DisplayName="Tier 3" iconFile="Data/LadyElyssa/Images/Icons/Rift Tier 3.png" maxSize="16" heightOffset="0" mapDisplaySize="56"/>
+            </MarkerCategory>
+            
+        </MarkerCategory>
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>
