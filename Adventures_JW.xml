@@ -4,7 +4,6 @@
 
         <!-- Lowland Shore -->
 
-
         <Trail type="legs.adventure.ls.hssr" trailData="Data/LadyElyssa/Adventures/JW/Harvest Shore Salmon Run.trl"/>
         <POI MapID="1550" xpos="670.02" ypos="0.314446" zpos="482.421" type="legs.adventure.ls.hssr" GUID="BWxX/Huzfka53sv1eGiTQA==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
         <POI MapID="1550" xpos="681.951" ypos="101.899" zpos="207.741" type="legs.adventure.ls.hssr" GUID="wgiwySe7HUu+7Rpl8uUlig==" iconFile="Data/LadyElyssa/Images/Icons/Flop!.png"/>
@@ -28,6 +27,14 @@
         <Trail type="legs.adventure.js.rm" trailData="Data/LadyElyssa/Adventures/JW/Swift Skiffs.trl"/>
         <Trail type="legs.adventure.js.vftt" trailData="Data/LadyElyssa/Adventures/JW/The View from the Top.trl"/>
 
+        <!-- Mistburned Barrens -->
+        <Trail type="legs.adventure.mb.research.warclaw" trailData="Data/LadyElyssa/Adventures/JW/Hazardous Research 1 Warclaw.trl" color="FFFF00"/>
+        <Trail type="legs.adventure.mb.research.warclaw" trailData="Data/LadyElyssa/Adventures/JW/Hazardous Research 2 Warclaw.trl" color="FFFF00"/>
+        <Trail type="legs.adventure.mb.research.skyscale" trailData="Data/LadyElyssa/Adventures/JW/Hazardous Research 3 Skyscale.trl" color="66FFFF"/>
+        <POI MapID="1575" xpos="-329.372" ypos="134.988" zpos="-608.476" type="legs.adventure.mb.research.warclaw" GUID="g1/cMpVsFEmau8ujpdDSgA=="/>
+        <POI MapID="1575" xpos="-323.247" ypos="135.476" zpos="-602.444" type="legs.adventure.mb.research.skyscale" GUID="rTfRn5kUZkas7CCB7R0tdw=="/>
+        
+        <Trail type="legs.adventure.mb.scout" trailData="Data/LadyElyssa/Adventures/JW/Missing Scout.trl"/>
 
     </POIs>
 </OverlayData>
