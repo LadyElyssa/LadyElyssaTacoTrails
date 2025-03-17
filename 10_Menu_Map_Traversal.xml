@@ -140,6 +140,13 @@
             </MarkerCategory>
             <!-- End Zip Lines -->
 
+            <MarkerCategory name="mirrors" DisplayName="Mursaat Mirror" mapDisplaySize="10">
+                <MarkerCategory name="mb" DisplayName="Mistburned Barrens">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/Trails/Mursaat Mirror.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="FF44FF"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
         </MarkerCategory>
     </MarkerCategory>
     <!-- End of Lady Elyssa's Guides -->
