@@ -357,6 +357,7 @@
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
+                <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
             </MarkerCategory>
             <MarkerCategory name="major" DisplayName="Major Kodan Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -364,6 +365,13 @@
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
+                <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
+            </MarkerCategory>
+            <MarkerCategory name="mursaat" DisplayName="Mursaat Ruins Cache">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Mursaat Ruins Cache.png"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
             </MarkerCategory>
         </MarkerCategory>       
     </MarkerCategory>
