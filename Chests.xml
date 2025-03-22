@@ -814,7 +814,10 @@
         <POI MapID="1211" xpos="-56.2895" ypos="320.907" zpos="419.004" type="legs.chests.contracts.wp" GUID="LOEZJB+kKU6E/ibw08O5vw==" copy="[&BD8KAAA=]" copy-message="Lommuld Kraal Waypoint"/>
         <POI MapID="1211" xpos="604.266" ypos="190.689" zpos="608.016" type="legs.chests.contracts.wp" GUID="N3GWSV15REKJpZ8eaAQQ7w==" copy="[&BD8KAAA=]" copy-message="Lommuld Kraal Waypoint"/>
         <POI MapID="1211" xpos="1403.51" ypos="246.689" zpos="-12.4772" type="legs.chests.contracts.wp" GUID="Qi38jZGFEEOkETD+ql++Ew==" copy="[&BD8KAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        
+
         <!-- Elon Riverlands -->
+
         <Trail type="legs.chests.contracts.elon" trailData="Data/LadyElyssa/Chests/PoF/Elon Riverlands - Trade Contracts.trl" color="D0BC96"/>
         <Trail type="legs.chests.contracts.elon" trailData="Data/LadyElyssa/Chests/PoF/ER - Hall of Ascension.trl" texture="Data/LadyElyssa/Images/Dashed Line.png" animSpeed="0.8" alpha="1" fadeNear="900" fadeFar="2000" color="FF7733"/>
         <POI MapID="1228" xpos="266.464" ypos="80.4754" zpos="749.029" type="legs.chests.contracts.mount.springer" GUID="GmGAli3C6kiGPM1xzLFnzQ=="/>
@@ -921,7 +924,11 @@
         <POI MapID="1228" xpos="-791.624" ypos="105.303" zpos="931.679" type="legs.chests.contracts.mount.skimmer" GUID="k479OVIdB0mOjstykTik8A=="/>
         <POI MapID="1228" xpos="425.793" ypos="151.435" zpos="810.611" type="legs.chests.contracts.elon.chest" GUID="gdyAakaY302idcgwxW3s0g=="/>
         <POI MapID="1228" xpos="-189.552" ypos="78.5421" zpos="-5.6723" type="legs.chests.contracts.elon.lostforgotten" GUID="Ub8q80Zuq06f8FWlC5LFzQ=="/>
+        <POI MapID="1228" xpos="-1080.31" ypos="5.85634" zpos="311.643" type="legs.chests.contracts.elon.lostforgotten" GUID="yZCCjJyAkEqyAFAUe2QqhA=="/>
+
+        
         <!-- The Desolation -->
+
         <Trail type="legs.chests.contracts.desolation" trailData="Data/LadyElyssa/Chests/PoF/The Desolation - Trade Contracts.trl" color="D0BC96"/>
         <POI MapID="1226" xpos="320.957" ypos="66.3664" zpos="1211.15" type="legs.chests.contracts.desolation.lostforgotten" GUID="1mP0qSQt30ehcccWrokl6Q=="/>
         <POI MapID="1226" xpos="769.156" ypos="271.878" zpos="571.349" type="legs.chests.contracts.desolation.lostforgotten" GUID="skGMgWw2+0yaCBcTb3GXdg=="/>
