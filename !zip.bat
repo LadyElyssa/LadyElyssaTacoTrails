@@ -10,5 +10,5 @@
   del /Q "LadyElyssa.taco"
 )
 
-@powershell Compress-Archive "'Data\'","*.xml" LadyElyssa.zip -Force
+7z a -mx -r LadyElyssa.zip Data\ *.xml
 @ren LadyElyssa.zip LadyElyssa.taco
