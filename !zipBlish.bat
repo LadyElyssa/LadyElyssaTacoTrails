@@ -7,7 +7,7 @@
   Goto Done
 )
 
-@powershell Compress-Archive "'Data\'","*.xml" LadyElyssa.zip -Force
+7z a -mx -r LadyElyssa.zip Data\ *.xml
 @ren LadyElyssa.zip LadyElyssa.taco
 @MOVE /Y "LadyElyssa.taco" "E:\Documents\Guild Wars 2\addons\blishhud\markers"
 
