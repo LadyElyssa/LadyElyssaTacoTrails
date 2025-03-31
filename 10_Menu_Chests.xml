@@ -361,7 +361,16 @@
             </MarkerCategory>
             <MarkerCategory name="major" DisplayName="Major Kodan Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/X Red.png"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="1" iconFile="Data/LadyElyssa/Images/Major Kodan Cache.png" fadeNear="10000" fadeFar="15000"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                </MarkerCategory>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
