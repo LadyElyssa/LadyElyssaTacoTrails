@@ -378,7 +378,7 @@
             </MarkerCategory>
             <MarkerCategory name="mursaat" DisplayName="Mursaat Ruins Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Mursaat Ruins Cache.png"/>
+                <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" maxSize="12" mapDisplaySize="32" inGameVisibility="1" iconFile="Data/LadyElyssa/Images/Mursaat Ruins Cache.png" fadeNear="5000" fadeFar="10000"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
             </MarkerCategory>
