@@ -525,7 +525,7 @@
 
             <!-- Super Adventure Box -->
 
-            <MarkerCategory name="sab" DisplayName="Super Adventure Box" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" animSpeed="0" alpha="1" fadeNear="900" fadeFar="1200">
+            <MarkerCategory name="sab" DisplayName="Super Adventure Box" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" animSpeed="0" alpha="1" fadeNear="900" fadeFar="1200" miniMapVisibility="0">
                 <MarkerCategory name="hub" DisplayName="Super Adventure Hub" texture="Data/LadyElyssa/Images/Line - Medium with Shadow.png" fadeNear="1200" fadeFar="1600">
                     <MarkerCategory name="race" DisplayName="Race"/>
                 </MarkerCategory>
@@ -534,26 +534,26 @@
                         <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
-                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="w1z2" DisplayName="World 1 Zone 2">
                     <MarkerCategory name="set" DisplayName="Settings">
                         <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="number" DisplayName="Number">
@@ -561,13 +561,17 @@
                             <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/SAB/2.png" heightOffset="0.5"/>
                         </MarkerCategory>
                     </MarkerCategory>
-                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="warmup" DisplayName="Basic Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
                     <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
                     <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm Trail" color="ABCDEF"/>
                 </MarkerCategory>
@@ -576,18 +580,20 @@
                         <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
-                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="warmup" DisplayName="Basic Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
                     <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
                     <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm Trail" color="ABCDEF"/>
                 </MarkerCategory>
@@ -597,18 +603,21 @@
                         <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="stump" DisplayName="Toggle Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
                     </MarkerCategory>
-                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
-                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
                     <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
                     <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
                 </MarkerCategory>
@@ -617,19 +626,21 @@
                         <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="stump" DisplayName="Toggle Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
                     </MarkerCategory>
-                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
                     <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
                     <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
                 </MarkerCategory>
@@ -638,10 +649,8 @@
                         <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="flute" DisplayName="Toggle Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
                         <MarkerCategory name="goat" DisplayName="Toggle Warning - Goat" iconFile="Data/LadyElyssa/Images/SAB/Goat Warning.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="info" DisplayName="Toggle Info" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="stump" DisplayName="Toggle Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
@@ -649,13 +658,17 @@
                         <MarkerCategory name="cfw_l2r" DisplayName="Toggle Warning - Cliff Face L2R" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="cfw_r2l" DisplayName="Toggle Warning - Cliff Face R2L" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
-                    <MarkerCategory name="warmup" DisplayName="Warm-Up Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
                     <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
                     <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
                 </MarkerCategory>
@@ -664,17 +677,20 @@
                         <MarkerCategory name="bomb" DisplayName="Toggle Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="chest" DisplayName="Toggle Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="dig" DisplayName="Toggle Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Toggle Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="shop" DisplayName="Toggle Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
+                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bubble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
-                    <MarkerCategory name="coins" DisplayName="Furniture Coins" color="FFCC00"/>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5" color="FFCC33"/>
+                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
+                        <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Toggle Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
                     <MarkerCategory name="shop" DisplayName="Shop Trail" color="FFCC00"/>
                 </MarkerCategory>
             </MarkerCategory>
