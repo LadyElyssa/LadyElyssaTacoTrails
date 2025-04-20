@@ -109,7 +109,7 @@
                     <MarkerCategory name="race" DisplayName="Race - Pavilion Pursuit" texture="Data/LadyElyssa/Images/Dashed Gradient.png"/>
                 </MarkerCategory>
                 <MarkerCategory name="lc" DisplayName="Labyrinthine Cliffs">
-                    <MarkerCategory name="lanterns" DisplayName="Dead Quaggan Lanterns" texture="Data/LadyElyssa/Images/Bauble Trail.png"/>
+                    <MarkerCategory name="lanterns" DisplayName="Dead Quaggan Lanterns" texture="Data/LadyElyssa/Images/Bubble Trail.png"/>
                     <MarkerCategory name="quartz" DisplayName="Quartz Crystal" color="00CCFF"/>
                     <MarkerCategory name="race" DisplayName="Race - Flying Dolyak" texture="Data/LadyElyssa/Images/Dashed Gradient.png"/>
                     <MarkerCategory name="treasure" DisplayName="Treasure Hunt" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
@@ -572,8 +572,8 @@
                     <MarkerCategory name="classic" DisplayName="Classic Trail">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="number" DisplayName="Number">
-                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Festivals/SAB/1.png" heightOffset="0.5"/>
-                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Festivals/SAB/2.png" heightOffset="0.5"/>
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/SAB/1.png" heightOffset="0.5"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/SAB/2.png" heightOffset="0.5"/>
                         </MarkerCategory>
                     </MarkerCategory>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
