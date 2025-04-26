@@ -630,6 +630,7 @@
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
+                    <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
                     <MarkerCategory name="furniture" DisplayName="Furniture Coins">
                         <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
@@ -658,6 +659,7 @@
                         <MarkerCategory name="backtrack" DisplayName="Backtrack (Requires: Exploration Mode)" texture="Data/LadyElyssa/Images/Trails/Dark Dashed Line - Fine with Shadow.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                    <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
                     <MarkerCategory name="furniture" DisplayName="Furniture Coins">
                         <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
@@ -684,35 +686,9 @@
                     <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
                     <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5">
-                        <MarkerCategory name="1" DisplayName="One"/>
-                        <MarkerCategory name="2" DisplayName="Two"/>
-                        <MarkerCategory name="3" DisplayName="Three"/>
-                        <MarkerCategory name="4" DisplayName="Four"/>
-                        <MarkerCategory name="5" DisplayName="Five"/>
-                        <MarkerCategory name="6" DisplayName="Six"/>
-                        <MarkerCategory name="7" DisplayName="Seven"/>
-                        <MarkerCategory name="8" DisplayName="Eight"/>
-                        <MarkerCategory name="9" DisplayName="Nine"/>
-                        <MarkerCategory name="10" DisplayName="Ten"/>
-                        <MarkerCategory name="11" DisplayName="Eleven"/>
-                        <MarkerCategory name="12" DisplayName="Twelve"/>
-                        <MarkerCategory name="13" DisplayName="Thirteen"/>
-                        <MarkerCategory name="14" DisplayName="Fourteen"/>
-                        <MarkerCategory name="15" DisplayName="Fifteen"/>
-                        <MarkerCategory name="16" DisplayName="Sixteen"/>
-                        <MarkerCategory name="17" DisplayName="Seventeen"/>
-                        <MarkerCategory name="18" DisplayName="Eighteen"/>
-                        <MarkerCategory name="19" DisplayName="Nineteen"/>
-                        <MarkerCategory name="20" DisplayName="Twenty"/>
-                        <MarkerCategory name="21" DisplayName="Twenty One"/>
-                        <MarkerCategory name="22" DisplayName="Twenty Two"/>
-                        <MarkerCategory name="23" DisplayName="Twenty Three"/>
-                        <MarkerCategory name="24" DisplayName="Twenty Four"/>
-                        <MarkerCategory name="25" DisplayName="Twenty Five"/>
-                    </MarkerCategory>
-
+                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                    <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
                     <MarkerCategory name="furniture" DisplayName="Furniture Coins">
                         <MarkerCategory name="coin" DisplayName="Toggle Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
