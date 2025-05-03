@@ -820,7 +820,9 @@
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 2.trl"/>
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 3.trl"/>
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 4.trl" animSpeed="0"/>
-        <Trail type="legs.festivals.sab.w1z3.coins" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 5.trl"/>
+
+        <Trail type="legs.festivals.sab.w1z3.furniture" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 5.trl"/>
+
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 6.trl"/> 
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 7.trl" color="FFD800"/>
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 8.trl"/>
@@ -1037,7 +1039,7 @@
         <Trail type="legs.festivals.sab.w2z2.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Classic 8.trl"/>
         <POI MapID="934" xpos="377.702" ypos="253.193" zpos="-295.979" type="legs.festivals.sab.w2z2.set.dig" GUID="08WBosEUNES2V8r8QJ9q2w=="/>
         <POI MapID="934" xpos="470.846" ypos="257.497" zpos="-200.745" type="legs.festivals.sab.w2z2.set.bomb" GUID="WbIEKrk+LU2gGp7NZ/kt9w=="/>
-        <POI MapID="934" xpos="410.4439" ypos="280.204" zpos="114.4839" type="legs.festivals.sab.w2z2.baubles" GUID="Ly/Wjn90qU2HgcWBR3X6Kw==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="For BACHELOR OF BAUBLES&#xA;Backtrack to Shortcut Eagle" infoRange="3" autoTrigger="1"/>
+        <POI MapID="934" xpos="410.4439" ypos="280.204" zpos="114.4839" type="legs.festivals.sab.w2z2.bubble" GUID="Ly/Wjn90qU2HgcWBR3X6Kw==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="For BACHELOR OF BAUBLES&#xA;Backtrack to Shortcut Eagle" infoRange="3" autoTrigger="1"/>
         <Trail type="legs.festivals.sab.w2z2.bubble.backtrack" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Backtrack.trl"/>
         <POI MapID="934" xpos="455.762" ypos="245.0037" zpos="-206.8895" type="legs.festivals.sab.w2z2.bubble.backtrack" GUID="Ih8V52MHEEawVrMH0aN0sA==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="STOP!&#xA;Did you activate the Exploration Cloud you just passed?&#xA;You will need it to return to the Shortcut Eagle later." infoRange="3" autoTrigger="1"/>
         <Trail type="legs.festivals.sab.w2z2.furniture" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Coins 1.trl" color="FFCC00"/>
