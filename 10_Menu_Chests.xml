@@ -348,7 +348,7 @@
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Warclaw Dig.png"/>
+                <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="1" iconFile="Data/LadyElyssa/Images/Warclaw Dig.png" heightOffset="-0.5" maxSize="16"/>
                 <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
@@ -358,11 +358,12 @@
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
                 <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
+                <MarkerCategory name="bn" DisplayName="Bava Nisos"/>
             </MarkerCategory>
             <MarkerCategory name="major" DisplayName="Major Kodan Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="1" iconFile="Data/LadyElyssa/Images/Major Kodan Cache.png" fadeNear="10000" fadeFar="15000"/>
+                <MarkerCategory name="cache" DisplayName="Possible Cache Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="1" iconFile="Data/LadyElyssa/Images/Major Kodan Cache.png" heightOffset="-0.5" maxSize="16"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
@@ -375,6 +376,7 @@
                 <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
                 <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
+                <MarkerCategory name="bn" DisplayName="Bava Nisos"/>
             </MarkerCategory>
             <MarkerCategory name="mursaat" DisplayName="Mursaat Ruins Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
