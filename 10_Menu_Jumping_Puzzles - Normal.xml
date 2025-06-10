@@ -436,6 +436,14 @@
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
                 </MarkerCategory>
+                <MarkerCategory name="titan" DisplayName="Traversing the Titan">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/JW/Light Up the Vale.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Glider.png" maxSize="32" mapDisplaySize="16"/>
+                    <MarkerCategory name="booster" DisplayName="Toggle Jade Bot Glide Booster" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" maxSize="32" mapDisplaySize="16"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="bn" DisplayName="Bava Nisos"/>
+                </MarkerCategory>
 
             <MarkerCategory name="wvw" IsSeparator="1" DisplayName="WORLD VS. WORLD"/>
             <MarkerCategory name="mv" DisplayName="Mistwrought Vault" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
