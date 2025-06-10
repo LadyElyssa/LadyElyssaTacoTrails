@@ -1,4 +1,5 @@
 @ECHO OFF
+@IF EXIST "%temp%\gw2cache*." FOR /d %%G in ("%temp%\GW2Cache*") DO RMDIR /s /q "%%G"
 @IF EXIST "E:\Games\GW2TacO\GW2TacO.log" (
   del /Q "E:\Games\GW2TacO\GW2TacO.log"
 )
