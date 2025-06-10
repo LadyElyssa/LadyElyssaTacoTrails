@@ -1,0 +1,63 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <MarkerCategory name="races" DisplayName="Beetle Races" texture="Data/LadyElyssa/Images/Races/Track 5.png" animSpeed="0">
+            <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+            <MarkerCategory name="boost" DisplayName="Toggle Boost" iconFile="Data/LadyElyssa/Images/Races/Boost.png" maxSize="48" heightOffset="0"/>
+            <MarkerCategory name="bov" DisplayName="Toggle Bond of Vigor" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Vigor.png"/>
+            <MarkerCategory name="left" DisplayName="Toggle Drift" iconFile="Data/LadyElyssa/Images/Races/Drift Left.png" maxSize="48" heightOffset="0"/>
+            <MarkerCategory name="right" DisplayName="Toggle Drift" iconFile="Data/LadyElyssa/Images/Races/Drift Right.png" maxSize="48" heightOffset="0"/>
+            
+            <MarkerCategory name="tracks" IsSeparator="1" DisplayName="TRACKS"/>
+
+            <MarkerCategory name="ghostfire" DisplayName="Ghostfire Run">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="grothmar" DisplayName="Grothmar Grand Tour">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="infernal" DisplayName="Infernal Leap">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+            </MarkerCategory>
+                
+            <MarkerCategory name="jormags" DisplayName="Jormag's Fang">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="kessex" DisplayName="Kessex Corner">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+            </MarkerCategory>
+                
+            <MarkerCategory name="lakeside" DisplayName="Lakeside Loop">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                <MarkerCategory name="gendarran" DisplayName="Gendarran Fields"/>
+            </MarkerCategory>
+                
+            <MarkerCategory name="southsun" DisplayName="Southsun Sprint">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="lws1" IsSeparator="1" DisplayName="LWS1: The Lost Shores"/>
+                <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="tropic" DisplayName="Tropic Valley">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
+            </MarkerCategory>
+                
+        </MarkerCategory> 
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>
