@@ -1,11 +1,13 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
-        <MarkerCategory name="races" DisplayName="Beetle Races" texture="Data/LadyElyssa/Images/Races/Track 5.png" animSpeed="0">
+        <MarkerCategory name="races" DisplayName="Beetle Races" texture="Data/LadyElyssa/Images/Races/Track.png" animSpeed="0">
             <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+            <!--
             <MarkerCategory name="boost" DisplayName="Toggle Boost" iconFile="Data/LadyElyssa/Images/Races/Boost.png" maxSize="48" heightOffset="0"/>
             <MarkerCategory name="bov" DisplayName="Toggle Bond of Vigor" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Vigor.png"/>
             <MarkerCategory name="left" DisplayName="Toggle Drift" iconFile="Data/LadyElyssa/Images/Races/Drift Left.png" maxSize="48" heightOffset="0"/>
             <MarkerCategory name="right" DisplayName="Toggle Drift" iconFile="Data/LadyElyssa/Images/Races/Drift Right.png" maxSize="48" heightOffset="0"/>
+            -->
             
             <MarkerCategory name="tracks" IsSeparator="1" DisplayName="TRACKS"/>
 
