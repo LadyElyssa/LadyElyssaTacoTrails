@@ -126,6 +126,14 @@
             </MarkerCategory>
             
             <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                <MarkerCategory name="burglar" DisplayName="Caffeinated Skritt Burglar">
+                    <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis" iconFile="Data/LadyElyssa/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands" iconFile="Data/LadyElyssa/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
+                    <MarkerCategory name="dov" DisplayName="Domain of Vabbi" iconFile="Data/LadyElyssa/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
+                    <MarkerCategory name="er" DisplayName="Elon Riverlands" iconFile="Data/LadyElyssa/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
+                    <MarkerCategory name="td" DisplayName="The Desolation" iconFile="Data/LadyElyssa/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
+                </MarkerCategory>
             <MarkerCategory name="contracts" DisplayName="Trade Contracts">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
