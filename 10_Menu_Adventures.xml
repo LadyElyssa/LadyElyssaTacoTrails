@@ -308,7 +308,7 @@
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
-                        <MarkerCategorykerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
                         <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
                     </MarkerCategory>
                     <MarkerCategory name="dovvnnr" DisplayName="Vehjin Noble Necessities Run" fadeNear="3000" fadeFar="6000">
@@ -450,6 +450,7 @@
                         <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5"/>
                         <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
                     </MarkerCategory>
+                    <MarkerCategory name="rafnr" DisplayName="Run Around for No Reason" texture="Data/LadyElyssa/Images/Trails/Line - Fine with Shadow.png" color="00FFFF"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks">
