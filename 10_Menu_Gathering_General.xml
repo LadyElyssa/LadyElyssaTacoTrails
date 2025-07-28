@@ -913,7 +913,7 @@
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wood" DisplayName="Toggle Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Ancient.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="1" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="wood" DisplayName="Toggle Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Ancient.png" miniMapVisibility="1" inGameVisibility="0" mapVisibility="1" mapDisplaySize="32" defaulttoggle="0"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
