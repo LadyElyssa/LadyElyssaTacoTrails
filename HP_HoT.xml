@@ -32,6 +32,7 @@
         <Trail type="legs.hp.hothp.basic.number.3" trailData="Data/LadyElyssa/Hero Points/HoT/VB Basic 3.trl" color="00FF00"/>
         <Trail type="legs.hp.hothp.basic.number.3" trailData="Data/LadyElyssa/Hero Points/HoT/VB Basic 3b.trl" texture="Data/LadyElyssa/Images/HP Trail Small.png" color="DDDDDD"/>
         <POI MapID="1052" xpos="-79.311" ypos="27.1144" zpos="-133.732" type="legs.hp.hothp.basic.wp" GUID="nl71TNcRQ0KJzioNx11XeA==" copy="[&BAgIAAA=]" copy-message="Pact Encampment Waypoint"/>
+        <POI MapID="1052" xpos="-603.854" ypos="442.323" zpos="192.261" type="legs.hp.hothp.main.wp" GUID="pzcK1OS40U2EyXCFeG5Hlg==" copy="[&BO8HAAA=]" copy-message="Faren's Flyer Waypoint"/>
         <POI MapID="1052" xpos="132.66" ypos="429.21" zpos="-26.0289" type="legs.hp.hothp.basic.number.4" GUID="pwVP8Zq8UEydciGW5t/dXQ=="/>
         <Trail type="legs.hp.hothp.basic.number.4" trailData="Data/LadyElyssa/Hero Points/HoT/VB Basic 4.trl" color="00FF00"/>
         <Trail type="legs.hp.hothp.basic.number.4" trailData="Data/LadyElyssa/Hero Points/HoT/VB Basic 4b.trl" texture="Data/LadyElyssa/Images/HP Trail Small.png" color="DDDDDD"/>
@@ -69,6 +70,9 @@
         <POI MapID="1052" xpos="-772.049" ypos="378.228" zpos="-399.127" GUID="Iv2h7/DOhEySLZQ17OARDw==" type="legs.hp.hothp.main.number.6"/>
         <Trail type="legs.hp.hothp.main.number.2" trailData="Data/LadyElyssa/Hero Points/HoT/VB Main 6.trl" color="00FF00"/>
         <POI MapID="1052" xpos="-791.5" ypos="379.429" zpos="-425.288" GUID="wVxAiubSgUClDGo6xpD29g==" type="legs.hp.hothp.main.finish"/>
+        <POI MapID="1052" xpos="-603.854" ypos="442.323" zpos="192.261" type="legs.hp.hothp.main.wp" GUID="pzcK1OS40U2EyXCFeG5Hlg=="/>
+        <POI MapID="1052" xpos="657.134" ypos="435.958" zpos="-404.386" type="legs.hp.hothp.main.mount.skyscale" GUID="z6COLw6FgE6+OABvhI0UQA=="/>
+        <POI MapID="1052" xpos="931.093" ypos="419.022" zpos="48.1676" type="legs.hp.hothp.main.number.2" GUID="hpM0jX2tPk6b8VTXbOWe8w=="/>
         <!-- Auric Basin - Basic -->
         <POI MapID="1043" xpos="-451.13" ypos="498.114" zpos="790.353" type="legs.hp.hothp.basic.start" GUID="wb0iQ76XY0iAnrme5rI7Uw=="/>
         <Trail type="legs.hp.hothp.basic.number.1" trailData="Data/LadyElyssa/Hero Points/HoT/AB Basic 1.trl" color="00FF00"/>
@@ -178,14 +182,12 @@
         <POI MapID="1045" xpos="-550.695" ypos="204.8" zpos="-78.1357" GUID="yJRTT9JLX0ey/5ZqVfKdBQ==" type="legs.hp.hothp.main.mount.springer"/>
         <POI MapID="1045" xpos="-488.571" ypos="322.193" zpos="-54.5531" GUID="BOVgxDkv60C3kgjDeHPDqg==" type="legs.hp.hothp.main.mount.jackal"/>
         <POI MapID="1045" xpos="-599.806" ypos="277.071" zpos="-233.366" GUID="BX0flceS4EmNcjyTmxNvCg==" type="legs.hp.hothp.main.mount.skyscale"/>
-        <POI MapID="1045" xpos="-475.422" ypos="1.37492" zpos="-338.958" GUID="3BvnnOUYtki6GXcGSBTsAA==" type="legs.hp.hothp.main.mount.skimmer"/>
-        <POI MapID="1045" xpos="-804.758" ypos="34.8673" zpos="-408.582" GUID="/pR7vGpYo0OI5W4J1iTCyw==" type="legs.hp.hothp.main.mount.raptor"/>
         <POI MapID="1045" xpos="-621.754" ypos="-221.521" zpos="-262.922" type="legs.hp.hothp.main.wp" GUID="BaWn1mVe10uFZd9ORZekbA==" copy="[&BIgIAAA=]" copy-message="Dragon's Passage Waypoint"/>
         <POI MapID="1045" xpos="-708.663" ypos="241.687" zpos="204.928" GUID="JUA4l0YmlkekEVHSIAcC0g==" type="legs.hp.hothp.main.number.5"/>
         <POI MapID="1045" xpos="-709.602" ypos="241.662" zpos="203.497" GUID="fvZx4WL9EEiHr8X5ZUXdpw==" type="legs.hp.hothp.main.number.6"/>
         <POI MapID="1045" xpos="-397.526" ypos="72.8148" zpos="520.774" GUID="/kws/TpbR0KH6G8kh9hbAQ==" type="legs.hp.hothp.main.mount.jackal"/>
         <POI MapID="1045" xpos="254.145" ypos="158.831" zpos="96.935" GUID="bJSS6shqbUSXelMuzbEUEA==" type="legs.hp.hothp.main.mount.springer"/>
-        <POI MapID="1045" xpos="183.941" ypos="185.706" zpos="134.4" type="legs.hp.hothp.main.wp" GUID="Dc+muzSO3k2XeysmdE9iHQ==" copy="[&BAwIAAA=]" copy-message="Teku Nuhoch Waypoint"/>
+        <POI MapID="1045" xpos="183.941" ypos="185.706" zpos="134.4" type="legs.hp.hothp.main.wp" GUID="Dc+muzSO3k2XeysmdE9iHQ==" copy="[&BA4IAAA=]" copy-message="Order of Whispers Camp Waypoint"/>
         <POI MapID="1045" xpos="305.77" ypos="14.3905" zpos="-79.728" type="legs.hp.hothp.main.wp" GUID="CINfVpCSkkqjFEwdCKm30A==" copy="[&BAwIAAA=]" copy-message="Teku Nuhoch Waypoint"/>
         <!--
       <POI MapID="1045" xpos="417.097" ypos="19.5416" zpos="449.107" type="legs.hp.hothp.main.wp" GUID="WwXBdAs68EKEFuCgsEXcEg==" copy="[&BAMIAAA=]" copy-message="Rata Novus Waypoint"/>
@@ -204,7 +206,10 @@
         <!-- Dragon's Stand - Basic -->
         <POI MapID="1041" xpos="593.324" ypos="80.9623" zpos="816.814" type="legs.hp.hothp.basic.start" GUID="bCLym1NeQEmjWiPO+tktfA=="/>
         <Trail type="legs.hp.hothp.basic.number.1" trailData="Data/LadyElyssa/Hero Points/HoT/DS Basic 1.trl" color="00FF00"/>
-        <POI MapID="1041" xpos="647.355" ypos="71.1245" zpos="773.84" type="legs.hp.hothp.basic.number.2" GUID="8I8Z4PSuZUGAoO1ne6Nbzg=="/>
-        <Trail type="legs.hp.hothp.basic.number.2" trailData="Data/LadyElyssa/Hero Points/HoT/DS Basic 2.trl" texture="Data/LadyElyssa/Images/HP Trail Small.png" color="00FF00"/>
+        <Trail type="legs.hp.hothp.main.number.1" trailData="Data/LadyElyssa/Hero Points/HoT/DS Main 1.trl" color="00FF00"/>
+        <Trail type="legs.hp.hothp.main.number.2" trailData="Data/LadyElyssa/Hero Points/HoT/DS Main 2.trl" color="00FF00"/>
+        <POI MapID="1041" xpos="246.542" ypos="43.1599" zpos="66.1608" type="legs.hp.hothp.main.wp" GUID="Ta1lKNnXqEGR+FypjjxrDA=="/>
+        <POI MapID="1041" xpos="677.923" ypos="94.3887" zpos="214.322" type="legs.hp.hothp.main.mount.skyscale" GUID="kGTcCgpdGkuXfBoUgmp4xw=="/>
+        <POI MapID="1041" xpos="746.062" ypos="52.8624" zpos="592.311" type="legs.hp.hothp.main.number.2" GUID="std4RXbKekO3AGlgnhg3Nw=="/>
     </POIs>
 </OverlayData>
