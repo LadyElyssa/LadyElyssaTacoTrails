@@ -2567,6 +2567,16 @@
         <POI MapID="30" xpos="751.913" ypos="33.0887" zpos="168.183" type="legs.gathering.general.ancient.wood" GUID="wJvLcw+8KkSl7noUnPXjaA=="/>
         <!-- Cursed Shore -->
         <POI MapID="62" xpos="137.985" ypos="17.7643" zpos="-560.618" type="legs.gathering.general.ancient.wood" GUID="uljw1cmHokmvn1XVfwd1pA=="/>
+        <POI MapID="62" xpos="-73.8913" ypos="8.12427" zpos="152.661" type="legs.gathering.general.ancient.wood" GUID="uBRL5RyuVUCWZAu3X97glw=="/>
+        <POI MapID="62" xpos="81.8409" ypos="26.0818" zpos="358.472" type="legs.gathering.general.ancient.wood" GUID="W8K2fYLW6EixHtLMQsCTbQ=="/>
+        <POI MapID="62" xpos="-6.66751" ypos="30.5386" zpos="-507.838" type="legs.gathering.general.ancient.wood" GUID="APn+hy/cdkaYbJtTf/mPEw=="/>
+        <POI MapID="62" xpos="298.87" ypos="11.2561" zpos="-830.815" type="legs.gathering.general.ancient.wood" GUID="F5kz0ZTlrECZyJV5J6KIzA=="/>
+        <POI MapID="62" xpos="-272.394" ypos="22.6734" zpos="-680.815" type="legs.gathering.general.ancient.wood" GUID="co3Uaz4uTE6omE7Kx3glow=="/>
+        <!-- -->
+        <POI MapID="65" xpos="1052.78" ypos="36.7705" zpos="-43.6958" type="legs.gathering.general.ancient.wood" GUID="YJo4kSS7PEWd8HRUW7vpFg=="/>
+        <POI MapID="65" xpos="396.298" ypos="33.8667" zpos="-436.163" type="legs.gathering.general.ancient.wood" GUID="xVhnIp5xoEGxObw/pjjxaQ=="/>
+        <POI MapID="65" xpos="251.361" ypos="51.5756" zpos="256.378" type="legs.gathering.general.ancient.wood" GUID="mfGCZZ9u5kKWIVokylicFw=="/>
+        <POI MapID="65" xpos="-399.69" ypos="40.8413" zpos="-335.595" type="legs.gathering.general.ancient.wood" GUID="fk1mYHeQ8EmMS/6UUuiEaQ=="/>
         <!-- Dry Top -->
         <POI MapID="988" xpos="32.9953" ypos="27.5918" zpos="-503.066" type="legs.gathering.general.ancient.wood" GUID="qzkEM3RFbkiaCZjshoeAPQ=="/>
         <POI MapID="988" xpos="-425.254" ypos="69.8705" zpos="-185.11" type="legs.gathering.general.ancient.wood" GUID="0zyAFztvfkC6MtILX+E43A=="/>
@@ -2576,6 +2586,8 @@
         <POI MapID="1015" xpos="-442.636" ypos="430.452" zpos="175.222" type="legs.gathering.general.ancient.wood" GUID="yRwS2O/h/EGUxrB+BiOfyQ=="/>
         <POI MapID="1015" xpos="-205.498" ypos="418.423" zpos="-133.809" type="legs.gathering.general.ancient.wood" GUID="8+fyRbFzBU2nAEsYvZKNaw=="/>
         <!-- Crystal Oasis -->
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Crystal Oasis 1.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Crystal Oasis 2.trl"/>
         <POI MapID="1210" xpos="-417.54" ypos="18.694" zpos="-557.555" type="legs.gathering.general.ancient.wood" GUID="H0nknVX/0EWuO8l1l+GvEQ=="/>
         <POI MapID="1210" xpos="-341.108" ypos="6.89952" zpos="-117.136" type="legs.gathering.general.ancient.wood" GUID="z4Eh2MGaz0OXLdjgUljyBQ=="/>
         <POI MapID="1210" xpos="-477.525" ypos="4.3202" zpos="102.422" type="legs.gathering.general.ancient.wood" GUID="wTblvDkc00OvFH05Qq9W1A=="/>
@@ -2601,7 +2613,21 @@
         <POI MapID="1210" xpos="220.914" ypos="74.497" zpos="-113.857" type="legs.gathering.general.ancient.wood" GUID="Vh9G6Uy/k0uZ8On20LZ8Zw=="/>
         <POI MapID="1210" xpos="-332.698" ypos="5.19974" zpos="203.797" type="legs.gathering.general.ancient.wood" GUID="7ouwzZESQ0Cy4h43fMeDkQ=="/>
         <POI MapID="1210" xpos="1501.71" ypos="158.453" zpos="62.6629" type="legs.gathering.general.ancient.wood" GUID="IHqq2HIWuE+V/OUzt5sMyg=="/>
+        <POI MapID="1210" xpos="-1254.26" ypos="2.50881" zpos="-53.6519" type="legs.gathering.general.ancient.wood" GUID="2gmcb2BFoEWfLYmVt+ImLw=="/>
+        <POI MapID="1210" xpos="1157.53" ypos="179.533" zpos="269.204" type="legs.gathering.general.ancient.wood" GUID="cN5F8ZFm1kmZ9iRoLrXahw=="/>
+        <POI MapID="1210" xpos="907.3935" ypos="137.4422" zpos="248.219" type="legs.gathering.general.ancient" GUID="25G/8+XjvEmgtgPhKtW44g==" iconFile="Data/LadyElyssa/Images/Warning - Hydra.png"/>
         <!-- Desert Highlands -->
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Desert Highlands 1.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Desert Highlands 2.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Desert Highlands 3.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Desert Highlands 4.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Desert Highlands 5.trl"/>
+        <POI MapID="1211" xpos="515.107" ypos="167.175" zpos="-699.618" type="legs.gathering.general.ancient.start" GUID="jHsK16RJZ0GwBT441XYwhw=="/>
+        <POI MapID="1211" xpos="-275.531" ypos="14.9596" zpos="-525.585" type="legs.gathering.general.ancient.number.2" GUID="sql4I7Ol9k+itTFpx+meUA=="/>
+        <POI MapID="1211" xpos="-288.169" ypos="14.7345" zpos="-526.806" type="legs.gathering.general.ancient.number.3" GUID="whCKUROb1Ei1HLWrbZ82Lg=="/>
+        <POI MapID="1211" xpos="-130.833" ypos="253.642" zpos="427.584" type="legs.gathering.general.ancient.number.4" GUID="BzZ1Nfp4kkegiCHbBCFFaQ=="/>
+        <POI MapID="1211" xpos="-133.251" ypos="251.926" zpos="415.226" type="legs.gathering.general.ancient.number.5" GUID="F45acipNh0K4Q7Rt00JKYg=="/>
+        <POI MapID="1211" xpos="-138.902" ypos="259.491" zpos="450.37" type="legs.gathering.general.ancient.wood" GUID="jSzLdAffIEO8Ug45rgWsMw=="/>
         <POI MapID="1211" xpos="-915.547" ypos="22.3297" zpos="-638.899" type="legs.gathering.general.ancient.wood" GUID="ZOnDTCnb906rM+dJunKExw=="/>
         <POI MapID="1211" xpos="-205.341" ypos="234.799" zpos="320.529" type="legs.gathering.general.ancient.wood" GUID="09gC7gLjLk+9UM1z9xpAmw=="/>
         <POI MapID="1211" xpos="-73.5568" ypos="281.644" zpos="139.878" type="legs.gathering.general.ancient.wood" GUID="Hte0K/9MhE6S2I18dRpeDw=="/>
@@ -2617,13 +2643,21 @@
         <POI MapID="1211" xpos="472.459" ypos="182.684" zpos="155.251" type="legs.gathering.general.ancient.wood" GUID="4/vkPpOLM0iXLuNEAuwyTw=="/>
         <POI MapID="1211" xpos="282.08" ypos="238.284" zpos="54.2894" type="legs.gathering.general.ancient.wood" GUID="VtBnNC6O60C1W22/J75p5A=="/>
         <POI MapID="1211" xpos="54.9106" ypos="262.804" zpos="102.51" type="legs.gathering.general.ancient.wood" GUID="F2SxGZOU7U+h1dxbsdVX+A=="/>
+        <POI MapID="1211" xpos="676.215" ypos="137.001" zpos="-693.651" type="legs.gathering.general.ancient.wood" GUID="7w36Rj+Gj0KaZ6ZzXIJj7w=="/>
+        <POI MapID="1211" xpos="-84.8277" ypos="69.7036" zpos="-521.39" type="legs.gathering.general.ancient.wood" GUID="AHbzrUeYH0GlXFRDgDPj9g=="/>
+        <POI MapID="1211" xpos="192.441" ypos="258.68" zpos="278.554" type="legs.gathering.general.ancient.wood" GUID="uU0krJhiUE205lCcWh3uhA=="/>
         <!-- Elon Riverlands -->
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/Elon Riverlands.trl"/>
         <POI MapID="1228" xpos="374.194" ypos="60.4904" zpos="332.836" type="legs.gathering.general.ancient.wood" GUID="3FFRpuzWtEmGuv3rWl0Obg=="/>
         <POI MapID="1228" xpos="668.751" ypos="50.2737" zpos="293.474" type="legs.gathering.general.ancient.wood" GUID="kPWUc3l8aEmwmqMBjOP4GQ=="/>
         <POI MapID="1228" xpos="791.69" ypos="57.2123" zpos="-591.429" type="legs.gathering.general.ancient.wood" GUID="rBN/RGNVeUG3qW6csEi/bQ=="/>
         <POI MapID="1228" xpos="678.123" ypos="4.6169" zpos="-377.403" type="legs.gathering.general.ancient.wood" GUID="wLusfGBsxkef8vXcx749zQ=="/>
         <POI MapID="1228" xpos="27.8083" ypos="2.26218" zpos="-773.115" type="legs.gathering.general.ancient.wood" GUID="dtzwyDCZj0GwIcIGR32VpQ=="/>
         <!-- The Desolation -->
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/The Desolation 1.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/The Desolation 2.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/The Desolation 3.trl"/>
+        <Trail type="legs.gathering.general.ancient" trailData="Data/LadyElyssa/Gathering/Ancient Wood/The Desolation 4.trl"/>
         <POI MapID="1226" xpos="-1031" ypos="17.1387" zpos="1131.57" type="legs.gathering.general.ancient.wood" GUID="UR1SSZFLUkiYamhU6LzFOg=="/>
         <POI MapID="1226" xpos="434.128" ypos="7.27043" zpos="1205.7" type="legs.gathering.general.ancient.wood" GUID="jY8Q3lHLokuhvM3LMJlPZg=="/>
         <POI MapID="1226" xpos="-22.6947" ypos="273.681" zpos="365.559" type="legs.gathering.general.ancient.wood" GUID="3SJ4kXMo20un5bqbatunZg=="/>
@@ -2633,6 +2667,8 @@
         <POI MapID="1226" xpos="991.257" ypos="270.417" zpos="-565.94" type="legs.gathering.general.ancient.wood" GUID="kaPV/7LlC0iVCNuDLsrQug=="/>
         <POI MapID="1226" xpos="480.574" ypos="320.853" zpos="-871.767" type="legs.gathering.general.ancient.wood" GUID="hCaxp6mVLUewdvF+r9fr7Q=="/>
         <POI MapID="1226" xpos="159.873" ypos="320.395" zpos="-902.267" type="legs.gathering.general.ancient.wood" GUID="eY8POAYEX06qzTttJ1ecOg=="/>
+        <POI MapID="1226" xpos="-753.961" ypos="61.424" zpos="749.975" type="legs.gathering.general.ancient.wood" GUID="jrxNEuIwjUqRpohvNpmA0g=="/>
+        <POI MapID="1226" xpos="-394.276" ypos="2.71573" zpos="1341.45" type="legs.gathering.general.ancient.wood" GUID="+S+GFToCW0iJodBRLMTaZw=="/>
         <!-- Domain of Vabbi -->
         <POI MapID="1248" xpos="1333.85" ypos="139.044" zpos="446.214" type="legs.gathering.general.ancient.wood" GUID="bDiZn52P2EyzgoQQgppV2g=="/>
         <POI MapID="1248" xpos="-784.336" ypos="279.562" zpos="-809.521" type="legs.gathering.general.ancient.wood" GUID="ZGGoPgXw9U6XfXb+k8iPvg=="/>
