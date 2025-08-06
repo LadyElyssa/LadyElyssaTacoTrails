@@ -909,11 +909,11 @@
             <!-- WOOD -->
             <MarkerCategory name="wood" DisplayName="WOOD" IsSeparator="1"/>
             <!-- Ancient Wood -->
-            <MarkerCategory name="ancient" DisplayName="Ancient Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/trailarrow-wood.png">
+            <MarkerCategory name="ancient" DisplayName="Ancient Wood (WIP)" mapDisplaySize="10" texture="Data/LadyElyssa/Images/trailarrow-wood.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wood" DisplayName="Toggle Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Ancient.png" miniMapVisibility="1" inGameVisibility="0" mapVisibility="1" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="wood" DisplayName="Toggle Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Ancient.png" miniMapVisibility="1" inGameVisibility="1" mapVisibility="1" mapDisplaySize="32" defaulttoggle="0"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -937,16 +937,18 @@
                 <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
                 <MarkerCategory name="drytop" DisplayName="Dry Top"/>
                 <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
-                
                 <!--
                 <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
                 <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
                 -->
                 <MarkerCategory name="desert" IsSeparator="1" DisplayName="CRYSTAL DESERT"/>
                 <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
-
+                <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
+                <MarkerCategory name="td" DisplayName="The Desolation"/>
+                <!--
                 <MarkerCategory name="LWS5" IsSeparator="1" DisplayName="LWS5"/>
                 <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+                -->
             </MarkerCategory>
             <!-- Elder Wood -->
             <MarkerCategory name="elderwood" DisplayName="Elder Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/trailarrow-wood.png">

@@ -335,7 +335,9 @@
 
             <MarkerCategory name="shrine" DisplayName="Shrine Guardian Chests">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/LadyElyssa/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="chest" DisplayName="Toggle Shrine Guardian Chests" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="chest" DisplayName="Toggle Shrine Guardian Chests" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32">
+                    <MarkerCategory name="icon" DisplayName="Toggle Marker" iconFile="Data/LadyElyssa/Images/Icons/Orb - Yellow - S.png" maxSize="20" inGameVisibility="1" heightOffset="-0.1"/>
+                </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="trail" DisplayName="Trail Segment">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>

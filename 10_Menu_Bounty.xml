@@ -1,0 +1,268 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!-- BOUNTY BOSSES -->
+        <MarkerCategory name="bounty" DisplayName="Bounty (WiP)" alpha="1" mapVisibility="1" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="128">
+
+            <!-- Crystal Oasis -->
+        
+            <MarkerCategory name="co" DisplayName="Crystal Oasis">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="amnoon" DisplayName="Amnoon">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="tazula" DisplayName="Tazula Mindclouder" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="braek" DisplayName="Braek Baredfang" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="zelke" DisplayName="Zelke the Shameless" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="maneater" DisplayName="Man-Eater" iconFile="Data/LadyElyssa/Images/Bounty/Shark.png"/>
+                    <MarkerCategory name="maverick" DisplayName="Forged Maverick" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="choya" DisplayName="Distraught Choya" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="destiny" DisplayName="Destiny's Gorge">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="shardcrest" DisplayName="Shardcrest" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="scragglebeard" DisplayName="Scragglebeard" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="uussh" DisplayName="Uussh Visshta" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="kronon" DisplayName="Chief Kronon" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="leyspark" DisplayName="Chaotic Leyspark" iconFile="Data/LadyElyssa/Images/Bounty/Elemental.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="facet" DisplayName="Corrupted Facet" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="kormir" DisplayName="Temple of Kormir">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="punisher" DisplayName="Forged Punisher" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="ambusher" DisplayName="Forged Ambusher" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="butch" DisplayName="Butch" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="xedra" DisplayName="Xedra Tahz Tahom" iconFile="Data/LadyElyssa/Images/Bounty/Hydra.png"/>
+                    <MarkerCategory name="sorcerer" DisplayName="Forged Sorcerer" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="yidaxu" DisplayName="Queen Yidaxu" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+        
+            <!-- Desert Highlands -->
+
+            <MarkerCategory name="dh" DisplayName="Desert Highlands">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="delve" DisplayName="Derelict Delve">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="ignis" DisplayName="Ignis" iconFile="Data/LadyElyssa/Images/Bounty/Destroyer.png"/>
+                    <MarkerCategory name="sheerfeather" DisplayName="Matriarch Sheerfeather" iconFile="Data/LadyElyssa/Images/Bounty/Elemental.png"/>
+                    <MarkerCategory name="silkears" DisplayName="Silkears the Fierce" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="axel" DisplayName="Avel Stonejaw" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="havocwreaker" DisplayName="Havocwreaker" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="ellutherius" DisplayName="Ellutherius Wintergust" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="kraal" DisplayName="Lommuld Kraal">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="krella" DisplayName="Chieftain Krella" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="mandulis" DisplayName="Mandulis" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="sandsnare" DisplayName="Sandsnare" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="brandspark" DisplayName="Crackling Brandspark" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="lost" DisplayName="Balthazar's Lost" iconFile="Data/LadyElyssa/Images/Bounty/Ghost.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="inssani" DisplayName="Wissper Inssani" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="outpost" DisplayName="Makali Outpost">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="occultist" DisplayName="Awakened Occultist" iconFile="Data/LadyElyssa/Images/Bounty/Awakened.png"/>
+                    <MarkerCategory name="grinteeth" DisplayName="Grinteeth" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="snag" DisplayName="Snag Seizeclaw" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="dhael" DisplayName="Dhael Skyspeaker" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="wayfarer" DisplayName="Wayfarer" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="tormentor" DisplayName="Forged Tormentor" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+        
+            <!-- Elon Riverlands -->
+
+            <MarkerCategory name="er" DisplayName="Elon Riverlands">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="augury" DisplayName="Augury's Shadow">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="adal" DisplayName="Adal, Unyielding Firmament" iconFile="Data/LadyElyssa/Images/Bounty/Djinn.png"/>
+                    <MarkerCategory name="tohg" DisplayName="Tohg Atta Awoth" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="brandclaw" DisplayName="Brandclaw" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="dorrik" DisplayName="Dorrik the Wanderer" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="morg" DisplayName="Morg" iconFile="Data/LadyElyssa/Images/Bounty/Giant.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="zehlon" DisplayName="Zehlon Ossa" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="olishar" DisplayName="Olishar's Oasis">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="talonslayer" DisplayName="Matriarch Talonslayer" iconFile="Data/LadyElyssa/Images/Bounty/Elemental.png"/>
+                    <MarkerCategory name="stray" DisplayName="Awakened Stray" iconFile="Data/LadyElyssa/Images/Bounty/Awakened.png"/>
+                    <MarkerCategory name="terror" DisplayName="The Terror of the Sands" iconFile="Data/LadyElyssa/Images/Bounty/Insect.png"/>
+                    <MarkerCategory name="pekknik" DisplayName="First Mate Pekknik" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="stormbringer" DisplayName="Shoot of Stormbringer" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="xoul" DisplayName="Xoul Igra Zhoss" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+        
+            <!-- The Desolation -->
+
+            <MarkerCategory name="desolation" DisplayName="The Desolation">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="bonestrand" DisplayName="Bonestrand">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="perturbed" DisplayName="Perturbed Choya" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="zawadi" DisplayName="Zawadi the Turncoat" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="abhorrence" DisplayName="Awakened Abhorrence" iconFile="Data/LadyElyssa/Images/Bounty/Awakened.png"/>
+                    <MarkerCategory name="muckstalker" DisplayName="Muckstalker" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="ooze" DisplayName="Ley-Charged Ooze" iconFile="Data/LadyElyssa/Images/Bounty/Ooze.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="hoarder" DisplayName="Awakened Hoarder" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="lair" DisplayName="Lair of the Forgotten">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="jahnus" DisplayName="King Jahnus" iconFile="Data/LadyElyssa/Images/Bounty/Ghost.png"/>
+                    <MarkerCategory name="necrophage" DisplayName="Necrophage" iconFile="Data/LadyElyssa/Images/Bounty/Awakened.png"/>
+                    <MarkerCategory name="monifa" DisplayName="Monifa the Wrathful" iconFile="Data/LadyElyssa/Images/Bounty/Ghost.png"/>
+                    <MarkerCategory name="crackedhoof" DisplayName="Crackedhoof" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="aszar" DisplayName="Aszar, Swinging Pendulum" iconFile="Data/LadyElyssa/Images/Bounty/Djinn.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="ishraa" DisplayName="Queen Ishraa" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="darklands" DisplayName="The Darklands">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="sulfurscale" DisplayName="Sulfurscale" iconFile="Data/LadyElyssa/Images/Bounty/Wurm.png"/>
+                    <MarkerCategory name="proliferator" DisplayName="Forged Proliferator" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="xadd" DisplayName="Xadd Honn Tarr" iconFile="Data/LadyElyssa/Images/Bounty/Hydra.png"/>
+                    <MarkerCategory name="lieutenant" DisplayName="Forged Lieutenant" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="thrash" DisplayName="Thrash Tailclobber" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="rampager" DisplayName="Forged Rampager" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+        
+            <!-- Domain of Vabbi -->
+
+            <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="seborhin" DisplayName="Garden of Seborhin">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="wolfhound" DisplayName="Forged Wolfhound" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="yasia" DisplayName="Yasia Glacierfalls" iconFile="Data/LadyElyssa/Images/Bounty/Djinn.png"/>
+                    <MarkerCategory name="grath" DisplayName="Grath Clashcrag" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="safiri" DisplayName="Safiri the Carver" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="kahraman" DisplayName="Lady Kahraman" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                <MarkerCategory name="rubedon" DisplayName="Rubedon, Trembling Earth" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="necropolis" DisplayName="The Necropolis">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="marauder" DisplayName="Forged Marauder" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="eweje" DisplayName="Embalmer Eweje" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="fycros" DisplayName="Fycros Venomweeper" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="brutalizer" DisplayName="Forged Brutalizer" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="dunechaser" DisplayName="Dunechaser" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="triq" DisplayName="Triq Griz Grolak" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="vehjin" DisplayName="Vehjin Palace">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="megalith" DisplayName="Megalith" iconFile="Data/LadyElyssa/Images/Bounty/Elemental.png"/>
+                    <MarkerCategory name="kharkaris" DisplayName="Kharkaris" iconFile="Data/LadyElyssa/Images/Bounty/Shark.png"/>
+                    <MarkerCategory name="warmonger" DisplayName="Forged Warmonger" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="hanif" DisplayName="Lord Hanif" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="lurker" DisplayName="Forged Lurker" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="corpsrazer" DisplayName="Forged Corpsrazer" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="vehtendi" DisplayName="Vehtendi Academy">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="devastator" DisplayName="Awakened Devastator" iconFile="Data/LadyElyssa/Images/Bounty/Awakened.png"/>
+                    <MarkerCategory name="wildhound" DisplayName="Forged Wildhound" iconFile="Data/LadyElyssa/Images/Bounty/Forged.png"/>
+                    <MarkerCategory name="diwaana" DisplayName="Diwaana" iconFile="Data/LadyElyssa/Images/Bounty/Wurm.png"/>
+                    <MarkerCategory name="effazu" DisplayName="Effazu the Lodestar" iconFile="Data/LadyElyssa/Images/Bounty/Djinn.png"/>
+                    <MarkerCategory name="spinecrack" DisplayName="Snap Spinecrack" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="daol" DisplayName="Daol Brol Shiol" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+
+            <!-- Domain if Istan -->
+            
+            <MarkerCategory name="istan" DisplayName="Domain of Istan">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="chalon" DisplayName="Chalon Docks">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="shamshir" DisplayName="Lady Shamshir" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="shrilliss" DisplayName="Matriarch Shrilliss" iconFile="Data/LadyElyssa/Images/Bounty/Elemental.png"/>
+                    <MarkerCategory name="simoom" DisplayName="Simoom the Accursed" iconFile="Data/LadyElyssa/Images/Bounty/Ghost.png"/>
+                    <MarkerCategory name="suneh" DisplayName="Suneh Stormbringer" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="smoldge" DisplayName="Smoldge" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+        
+            <!-- Sandswept Isles -->
+
+            <MarkerCategory name="si" DisplayName="Sandswept Isles">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="anniogel" DisplayName="Anniogel Encampment">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="vebis" DisplayName="Vebis the Inquisitor" iconFile="Data/LadyElyssa/Images/Bounty/Asura.png"/>
+                    <MarkerCategory name="magneton" DisplayName="Magneton Manipulator" iconFile="Data/LadyElyssa/Images/Bounty/Golem.png"/>
+                    <MarkerCategory name="prickly" DisplayName="The Prickly Pair" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="crystalwing" DisplayName="Crystalwing" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="nepheretes" DisplayName="Nepheretes" iconFile="Data/LadyElyssa/Images/Bounty/Awakened.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="seneb" DisplayName="Seneb the Desecrated" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="atholma" DisplayName="Atholma">
+                    <MarkerCategory name="stonehoof" DisplayName="Old Stonehoof" iconFile="Data/LadyElyssa/Images/Bounty/Animal.png"/>
+                    <MarkerCategory name="ig04" DisplayName="Exterminator IG-04" iconFile="Data/LadyElyssa/Images/Bounty/Golem.png"/>
+                    <MarkerCategory name="ironshell" DisplayName="Ironshell" iconFile="Data/LadyElyssa/Images/Bounty/Karka.png"/>
+                    <MarkerCategory name="oakenscorn" DisplayName="Oakenscorn" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="emogg" DisplayName="Emogg the Soulbeast" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="starcaller" DisplayName="Starcaller" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+        
+            <!-- Domain of Kourna -->
+
+            <MarkerCategory name="kourna" DisplayName="Domain of Kourna">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                <MarkerCategory name="allied" DisplayName="Allied Encampment">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="cabochon" DisplayName="Cabochon" iconFile="Data/LadyElyssa/Images/Bounty/Branded.png"/>
+                    <MarkerCategory name="asphodel" DisplayName="Asphodel" iconFile="Data/LadyElyssa/Images/Bounty/Plant.png"/>
+                    <MarkerCategory name="agasaya" DisplayName="Agasaya" iconFile="Data/LadyElyssa/Images/Bounty/Humanoid.png"/>
+                    <MarkerCategory name="enbilulu" DisplayName="Enbilulu" iconFile="Data/LadyElyssa/Images/Bounty/Shark.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="troopmarshal" DisplayName="Troopmarshal Olori Ogun" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        
+        
+            <!-- Jahai Bluffs -->
+            <MarkerCategory name="jahai" DisplayName="Jahai Bluffs">
+                <MarkerCategory name="bb" IsSeparator="1" DisplayName="BOUNTY BOARD"/>
+                    <MarkerCategory name="yatendi" DisplayName="Yatendi Village">
+                    <MarkerCategory name="champion" IsSeparator="1" DisplayName="CHAMPION"/>
+                    <MarkerCategory name="rock" DisplayName="Angry Pet Rock" iconFile="Data/LadyElyssa/Images/Bounty/Elemental.png"/>
+                    <MarkerCategory name="ettin" DisplayName="Badly Confused Ettin" iconFile="Data/LadyElyssa/Images/Bounty/Ettin.png"/>
+                    <MarkerCategory name="zommoros" DisplayName="Zommoros's Weapons" iconFile="Data/LadyElyssa/Images/Bounty/Construct.png"/>
+                    <MarkerCategory name="legendary" IsSeparator="1" DisplayName="LEGENDARY"/>
+                    <MarkerCategory name="wyverns" DisplayName="Legendary Wyverns" iconFile="Data/LadyElyssa/Images/Bounty/Legendary.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+        <!-- End Bounty -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

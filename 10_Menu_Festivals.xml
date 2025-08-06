@@ -104,14 +104,25 @@
 
             <!-- Festival of the Four Winds -->
 
-            <MarkerCategory name="fotfw" DisplayName="Festival of the Four Winds" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.5" alpha="0.8" fadeNear="1400" fadeFar="2000">
+            <MarkerCategory name="fotfw" DisplayName="Festival of the Four Winds" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.5" fadeNear="1400" fadeFar="2000">
                 <MarkerCategory name="cp" DisplayName="Crown Pavilion">
                     <MarkerCategory name="race" DisplayName="Race - Pavilion Pursuit" texture="Data/LadyElyssa/Images/Dashed Gradient.png"/>
                 </MarkerCategory>
                 <MarkerCategory name="lc" DisplayName="Labyrinthine Cliffs">
+                    <MarkerCategory name="adventure" DisplayName="Adventure" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png">
+                        <MarkerCategory name="expert" DisplayName="Griffon Expert"/>
+                        <MarkerCategory name="master" DisplayName="Griffon Master"/>
+                    </MarkerCategory>
                     <MarkerCategory name="lanterns" DisplayName="Dead Quaggan Lanterns" texture="Data/LadyElyssa/Images/Bubble Trail.png"/>
+                    <MarkerCategory name="dolyak" DisplayName="Race - Flying Dolyak" texture="Data/LadyElyssa/Images/Trails/Line - Fine with Shadow.png">
+                        <MarkerCategory name="leap" DisplayName="Assisted Leap" iconFile="Data/LadyElyssa/Images/Festivals/Assisted Leap.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+                        <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/LadyElyssa/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+                        <MarkerCategory name="pull" DisplayName="Lightning Pull" iconFile="Data/LadyElyssa/Images/Festivals/Lightning Pull.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher" texture="Data/LadyElyssa/Images/Dashed Gradient.png" color="ff3300"/>
+                    <MarkerCategory name="skiff" DisplayName="Race - Labyrinthine Skiffs" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png"/>
+                    <MarkerCategory name="skimmer" DisplayName="Race - Slalom Skimmer" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png"/>
                     <MarkerCategory name="quartz" DisplayName="Quartz Crystal" color="00CCFF"/>
-                    <MarkerCategory name="race" DisplayName="Race - Flying Dolyak" texture="Data/LadyElyssa/Images/Dashed Gradient.png"/>
                     <MarkerCategory name="treasure" DisplayName="Treasure Hunt" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
                 </MarkerCategory>
             </MarkerCategory>
