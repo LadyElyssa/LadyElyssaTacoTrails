@@ -1,6 +1,6 @@
 ## ArenaNet Partner ##
 You can Buy Guild Wars 2 using these links:
-* Partner Link: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
+* BUY Guild Wars 2 Expansion: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
 * Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
   
 ## Lady Elyssa's TacO Trail Guides ##
