@@ -35,7 +35,14 @@
             <MarkerCategory name="launchpad" DisplayName="Launch Pads" iconFile="Data/LadyElyssa/Images/Icons/Launch Pad.png">
                 <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FF99CC" inGameVisibility="0" texture="Data/LadyElyssa/Images/Line - Fine.png"/>
             </MarkerCategory>
-            
+
+            <MarkerCategory name="mirrors" DisplayName="Mursaat Mirror" mapDisplaySize="10">
+                <MarkerCategory name="mb" DisplayName="Mistburned Barrens">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/Trails/Mursaat Mirror.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="FF44FF"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
             <MarkerCategory name="nw" DisplayName="Nuhoch Wallows">
                 <MarkerCategory name="hotmaptraversal" IsSeparator="1" DisplayName="HEART OF THORNS"/>
                 <MarkerCategory name="vb" DisplayName="Verdant Brink" texture="Data/LadyElyssa/Images/Nuhoch Wallow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
@@ -44,6 +51,14 @@
                 <MarkerCategory name="ds" DisplayName="Dragon's Stand" texture="Data/LadyElyssa/Images/Nuhoch Wallow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
             </MarkerCategory>
             <!-- End Nuhoch Wallows -->
+
+            <MarkerCategory name="portal" DisplayName="Portal" mapDisplaySize="10">
+                <MarkerCategory name="tew" DisplayName="Echovald Wilds">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="entre" DisplayName="Entre" iconFile="Data/LadyElyssa/Images/Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="16"/>
+                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="FF44FF"/>
+                </MarkerCategory>
+            </MarkerCategory>
 
             <MarkerCategory name="sp" DisplayName="Sand Portals" iconFile="Data/LadyElyssa/Images/Sand Portal Marker.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32">
                 
@@ -93,13 +108,6 @@
                 </MarkerCategory>
             </MarkerCategory>
             <!-- End Sand Portals -->
-            <MarkerCategory name="portal" DisplayName="Portal" mapDisplaySize="10">
-                <MarkerCategory name="tew" DisplayName="Echovald Wilds">
-                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="entre" DisplayName="Entre" iconFile="Data/LadyElyssa/Images/Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="16"/>
-                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="FF44FF"/>
-                </MarkerCategory>
-            </MarkerCategory>
 
             <MarkerCategory name="zip" DisplayName="Ziplines" mapDisplaySize="10">
                 <MarkerCategory name="eodmaptraversal" IsSeparator="1" DisplayName="END OF DRAGONS"/>
@@ -139,13 +147,6 @@
                 </MarkerCategory>
             </MarkerCategory>
             <!-- End Zip Lines -->
-
-            <MarkerCategory name="mirrors" DisplayName="Mursaat Mirror" mapDisplaySize="10">
-                <MarkerCategory name="mb" DisplayName="Mistburned Barrens">
-                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/Trails/Mursaat Mirror.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="FF44FF"/>
-                </MarkerCategory>
-            </MarkerCategory>
 
         </MarkerCategory>
     </MarkerCategory>

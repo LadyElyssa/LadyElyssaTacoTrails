@@ -1,0 +1,55 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        
+        <MarkerCategory name="convergence" DisplayName="Convergence (WiP)" alpha="1" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="48" inGameVisibility="1">
+            
+            <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
+            <MarkerCategory name="on" DisplayName="Outer Nayos">
+                <MarkerCategory name="champion" DisplayName="Champion" iconFile="Data/LadyElyssa/Images/Convergence/Champion.png"/>
+                <MarkerCategory name="legendary" DisplayName="Legendary" iconFile="Data/LadyElyssa/Images/Convergence/Legendary.png"/>
+                
+                <MarkerCategory name="week1" IsSeparator="1" DisplayName="WEEK 1"/>
+                <MarkerCategory name="demon" DisplayName="Demon Knight" iconFile="Data/LadyElyssa/Images/Convergence/Demon Knight.png"/>
+                <MarkerCategory name="sorrow" DisplayName="Sorrow" iconFile="Data/LadyElyssa/Images/Convergence/Sorrow.png"/>
+                <MarkerCategory name="week2" IsSeparator="1" DisplayName="WEEK 2"/>
+                <MarkerCategory name="dreadwing" DisplayName="Dreadwing" iconFile="Data/LadyElyssa/Images/Convergence/Legendary.png"/>
+                <MarkerCategory name="sister" DisplayName="Hell Sister" iconFile="Data/LadyElyssa/Images/Convergence/Legendary.png"/>
+                <MarkerCategory name="boss" IsSeparator="1" DisplayName="MAIN BOSS"/>
+                <MarkerCategory name="umbriel" DisplayName="Umbriel" iconFile="Data/LadyElyssa/Images/Convergence/Umbriel.png"/>
+                
+
+            </MarkerCategory>
+
+            <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS"/>
+            <MarkerCategory name="mb" DisplayName="Mount Balrior">
+                <MarkerCategory name="thumper" DisplayName="Thumper Trail" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png" mapDisplaySize="10"/>
+                <MarkerCategory name="ura" DisplayName="Ura, the Steamshrieker" iconFile="Data/LadyElyssa/Images/Convergence/Ura.png"/>
+                    <!--
+                    <MarkerCategory name="100" DisplayName="100% Health" iconFile="Data/LadyElyssa/Images/Convergence/Ura100.png"/>
+                    <MarkerCategory name="75" DisplayName="75% Health" iconFile="Data/LadyElyssa/Images/Convergence/Ura75.png"/>
+                    <MarkerCategory name="50" DisplayName="50% Health" iconFile="Data/LadyElyssa/Images/Convergence/Ura50.png"/>
+                    <MarkerCategory name="25" DisplayName="25% Health" iconFile="Data/LadyElyssa/Images/Convergence/Ura25.png"/>
+                </MarkerCategory>
+                -->
+                <!--
+                <MarkerCategory name="decima" DisplayName="Decima, the Stormsinger" iconFile="Data/LadyElyssa/Images/Legendary.png">
+                    <MarkerCategory name="100" DisplayName="100% Health" iconFile="Data/LadyElyssa/Images/Convergence/Decima100.png"/>
+                    <MarkerCategory name="75" DisplayName="75% Health" iconFile="Data/LadyElyssa/Images/Convergence/Decima75.png"/>
+                    <MarkerCategory name="50" DisplayName="50% Health" iconFile="Data/LadyElyssa/Images/Convergence/Decima50.png"/>
+                    <MarkerCategory name="25" DisplayName="25% Health" iconFile="Data/LadyElyssa/Images/Convergence/Decima25.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="greer" DisplayName="Greer, the Blightbringer" iconFile="Data/LadyElyssa/Images/Legendary.png">
+                    <MarkerCategory name="100" DisplayName="100% Health" iconFile="Data/LadyElyssa/Images/Convergence/Greer100.png"/>
+                    <MarkerCategory name="75" DisplayName="75% Health" iconFile="Data/LadyElyssa/Images/Convergence/Greer75.png"/>
+                    <MarkerCategory name="50" DisplayName="50% Health" iconFile="Data/LadyElyssa/Images/Convergence/Greer50.png"/>
+                    <MarkerCategory name="25" DisplayName="25% Health" iconFile="Data/LadyElyssa/Images/Convergence/Greer25.png"/>
+                </MarkerCategory>
+                -->
+            </MarkerCategory>
+
+        </MarkerCategory>
+        <!-- End Convergence -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

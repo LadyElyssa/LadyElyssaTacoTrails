@@ -267,6 +267,18 @@
             </MarkerCategory>
 
             <MarkerCategory name="orr" DisplayName="Ruins of Orr">
+                <MarkerCategory name="buriedarchives" DisplayName="Buried Archives">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" maxSize="32" iconSize="0.25"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="cursed" DisplayName="Cursed Shore" color="FFFF33"/>
+                </MarkerCategory>
                 <MarkerCategory name="vizierstower" DisplayName="Vizier's Tower">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" maxSize="32" iconSize="0.25"/>
@@ -278,7 +290,7 @@
                     <!-- End Mounts -->
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                    <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="FFFF33"/>
                 </MarkerCategory>
             </MarkerCategory>
             
