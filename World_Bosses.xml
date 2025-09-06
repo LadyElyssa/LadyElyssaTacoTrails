@@ -6,13 +6,13 @@
         <Trail type="legs.wb.fe.metrica" trailData="Data/LadyElyssa/World Bosses/FireElemental-Mount.trl" color="00CCFF"/>
         <POI MapID="35" xpos="-96.3663" ypos="26.9492" zpos="898.858" GUID="OhvLT20ksUCD+hTScVc95A==" type="legs.wb.mount.skyscale"/>
         <!-- South East-->
-        <POI MapID="35" xpos="-304.08" ypos="18.1132" zpos="657.149" GUID="U/2u5KZtvE6/CH9uZ/zkMg==" type="legs.wb.fe" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
+        <POI MapID="35" xpos="-304.08" ypos="18.1132" zpos="657.149" GUID="U/2u5KZtvE6/CH9uZ/zkMg==" type="legs.wb.fe.event" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <!-- North East -->
-        <POI MapID="35" xpos="-280.379" ypos="18.0985" zpos="788.179" GUID="7BlcgeESXkinfYpuhl8feg==" type="legs.wb.fe" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
+        <POI MapID="35" xpos="-280.379" ypos="18.0985" zpos="788.179" GUID="7BlcgeESXkinfYpuhl8feg==" type="legs.wb.fe.event" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <!-- South West -->
-        <POI MapID="35" xpos="-427.453" ypos="21.668" zpos="662.982" GUID="noS8v6yZTUWvklIlHk5erg==" type="legs.wb.fe" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
+        <POI MapID="35" xpos="-427.453" ypos="21.668" zpos="662.982" GUID="noS8v6yZTUWvklIlHk5erg==" type="legs.wb.fe.event" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <!--South-->
-        <POI MapID="35" xpos="-367.774" ypos="6.92431" zpos="612.906" GUID="9x2a/7Es/kqdFYFreeFdzQ==" type="legs.wb.fe" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
+        <POI MapID="35" xpos="-367.774" ypos="6.92431" zpos="612.906" GUID="9x2a/7Es/kqdFYFreeFdzQ==" type="legs.wb.fe.event" iconFile="Data/LadyElyssa/Images/Icons/Event_Fight.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <!-- Starts at Golem -->
         <POI MapID="35" xpos="-137.469" ypos="11.0989" zpos="700.374" GUID="TtgX2zy6+EC9Xeu1vNsP7A==" type="legs.wb.fe.escort" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" minSize="24" maxSize="32" mapDisplaySize="25" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.fe.escort" trailData="Data/LadyElyssa/World Bosses/FireElemental-Escort.trl" color="FF9933"/>
@@ -22,30 +22,39 @@
         <POI MapID="35" xpos="-417.16" ypos="24.5617" zpos="735.396" GUID="ytk4NsuVb069ZoCkKLku/Q==" type="legs.wb.fe.defend" iconFile="Data/LadyElyssa/Images/Icons/Event_Defend.png" minSize="24" maxSize="32" mapDisplaySize="25" heightOffset="0.5" fadeNear="3000" fadeFar="5000"/>
         <Trail type="legs.wb.fe.Defend" trailData="Data/LadyElyssa/World Bosses/FireElemental-Defend.trl" color="FF9933"/>
         <POI MapID="35" xpos="-371.403" ypos="21.6336" zpos="889.171" GUID="N4nWXrSfxUmq1PV7Gtq28Q==" type="legs.wb.fe" iconFile="Data/LadyElyssa/Images/Icons/Event_Boss.png" minSize="24" maxSize="48" mapDisplaySize="25" heightOffset="0.5" fadeNear="3000" fadeFar="5000"/>
-        <POI MapID="35" xpos="-441.695" ypos="49.2586" zpos="708.561" type="legs.wb.fe.key" GUID="mBw9UExykEahsKFapp4MQw==" behavior="6"/>
-        <POI MapID="35" xpos="-437.716" ypos="37.2526" zpos="638.487" type="legs.wb.fe.key" GUID="2b9RZqi58kW1SwigeMZMtQ==" behavior="6"/>
-        <POI MapID="35" xpos="-436.603" ypos="18.6937" zpos="638.111" type="legs.wb.fe.key" GUID="Twa3EN2LvEmoteFujbFPvQ==" behavior="6"/>
-        <POI MapID="35" xpos="-431.202" ypos="21.7246" zpos="678.533" type="legs.wb.fe.key" GUID="ikBIUvFpOkW0qlBwDaFDgA==" behavior="6"/>
-        <POI MapID="35" xpos="-421.212" ypos="24.6468" zpos="717.103" type="legs.wb.fe.key" GUID="Pk0LYENpXEikj+rOKXiTcQ==" behavior="6"/>
-        <POI MapID="35" xpos="-398.769" ypos="9.74733" zpos="821.911" type="legs.wb.fe.key" GUID="370cWwGrzkSUzy8Gi8HDIQ==" behavior="6"/>
-        <POI MapID="35" xpos="-376.5" ypos="11.7" zpos="832.92" type="legs.wb.fe.key" GUID="9FP0Io5O+UKb110FPrklxw==" behavior="6"/>
-        <POI MapID="35" xpos="-376.009" ypos="24.6397" zpos="930.262" type="legs.wb.fe.key" GUID="D1hwb2TlzkKtMnExLqLufA==" behavior="6"/>
-        <POI MapID="35" xpos="-365.207" ypos="21.6336" zpos="846.123" type="legs.wb.fe.key" GUID="Tg/y5lzcR0C5VqXWIKUn8A==" behavior="6"/>
-        <POI MapID="35" xpos="-347.343" ypos="21.6343" zpos="852.571" type="legs.wb.fe.key" GUID="kbgI8VKzuke9ohaOMxDnAA==" behavior="6"/>
-        <POI MapID="35" xpos="-340.445" ypos="9.69198" zpos="839.6" type="legs.wb.fe.key" GUID="bSXivncsPkO01EiZTMrv2w==" behavior="6"/>
-        <POI MapID="35" xpos="-339.988" ypos="13.5241" zpos="804.765" type="legs.wb.fe.key" GUID="/TAAidvUckCjeEuRwaLVlQ==" behavior="6"/>
-        <POI MapID="35" xpos="-334.349" ypos="23.53" zpos="909.494" type="legs.wb.fe.key" GUID="cxvrvMZsR0qkZAyhjL616A==" behavior="6"/>
-        <POI MapID="35" xpos="-333.372" ypos="26.7202" zpos="647.61" type="legs.wb.fe.key" GUID="u0LG5ul/n0ieNCTYR7nsSw==" behavior="6"/>
-        <POI MapID="35" xpos="-323.849" ypos="18.7288" zpos="630.262" type="legs.wb.fe.key" GUID="jQo8n6VTr0W17kBXjeFBRQ==" behavior="6"/>
-        <POI MapID="35" xpos="-321.584" ypos="10.6085" zpos="822.73" type="legs.wb.fe.key" GUID="2nxdLH1CxkOJmHHcLm3MDA==" behavior="6"/>
-        <POI MapID="35" xpos="-318.204" ypos="21.7315" zpos="872.946" type="legs.wb.fe.key" GUID="BjS3K/83q0WP+kXX8kwzMA==" behavior="6"/>
-        <POI MapID="35" xpos="-307.137" ypos="16.3272" zpos="796.536" type="legs.wb.fe.key" GUID="fnvd5rjYt0mU52IZBKJdSw==" behavior="6"/>
-        <POI MapID="35" xpos="-288.974" ypos="18.1782" zpos="807.792" type="legs.wb.fe.key" GUID="nDCCMFr7wUWOTq4fSW75Ug==" behavior="6"/>
-        <POI MapID="35" xpos="-286.12" ypos="19.7895" zpos="764.819" type="legs.wb.fe.key" GUID="Xm6yCIAOZEmy45EOr87ceg==" behavior="6"/>
-        <POI MapID="35" xpos="-278.895" ypos="36.386" zpos="639.849" type="legs.wb.fe.key" GUID="zNZGyRRK3EaX1djTY9ScAg==" behavior="6"/>
-        <POI MapID="35" xpos="-270.986" ypos="18.1224" zpos="688.328" type="legs.wb.fe.key" GUID="8sWMAwnl8EqfN91oXSsT4A==" behavior="6"/>
-        <POI MapID="35" xpos="-270.842" ypos="18.0996" zpos="806.233" type="legs.wb.fe.key" GUID="RGQUjck6y0uc7l8O4kUzJg==" behavior="6"/>
-        <POI MapID="35" xpos="-265.742" ypos="18.6367" zpos="660.201" type="legs.wb.fe.key" GUID="+WEnUBI750CEnhv1UWSP3g==" behavior="6"/>
+        <Trail type="legs.wb.fe.trail" trailData="Data/LadyElyssa/World Bosses/FireElemental-MatrixKey.trl"/>
+        <POI MapID="35" xpos="-339.9673" ypos="24.61807" zpos="727.3843" type="legs.wb.fe.mkey" GUID="3YZZAXRCxEiB8F+oZLvn2A=="/>
+        <POI MapID="35" xpos="-441.839" ypos="49.098" zpos="708.754" type="legs.wb.fe.key" GUID="dzmtnjazk0ioi2QGnt//hQ=="/>
+        <POI MapID="35" xpos="-436.683" ypos="18.7636" zpos="638.029" type="legs.wb.fe.key" GUID="nAk9GSm4MEmP/+wWTfUbOg=="/>
+        <POI MapID="35" xpos="-340.189" ypos="14.2662" zpos="801.713" type="legs.wb.fe.key" GUID="RVfCW/yybUi56Btmhz9rzg=="/>
+        <POI MapID="35" xpos="-365.187" ypos="21.6326" zpos="846.495" type="legs.wb.fe.key" GUID="2LTHvmDgU02+xrsF6yBMfw=="/>
+        <POI MapID="35" xpos="-289.08" ypos="18.1738" zpos="807.74" type="legs.wb.fe.key" GUID="1u+hnkIkvUWO1VRWdozTJw=="/>
+        <POI MapID="35" xpos="-318.182" ypos="21.7194" zpos="872.963" type="legs.wb.fe.key" GUID="FPEVBZq8nkmD0Pjx4EbIeA=="/>
+        <POI MapID="35" xpos="-286.104" ypos="19.884" zpos="764.714" type="legs.wb.fe.key" GUID="ZMDzd83Rt06hPAeFvasNOQ=="/>
+        <POI MapID="35" xpos="-278.982" ypos="36.3675" zpos="639.689" type="legs.wb.fe.key" GUID="bfVaJ99NKU28TGHfv2vAIQ=="/>
+        <POI MapID="35" xpos="-421.069" ypos="24.6894" zpos="717.308" type="legs.wb.fe.key" GUID="zHIvIYM/j064djVc0kCC0g=="/>
+        <POI MapID="35" xpos="-333.741" ypos="26.7281" zpos="647.7" type="legs.wb.fe.key" GUID="1LgynwOAAk+sO+NN0uYYaA=="/>
+        <POI MapID="35" xpos="-307.014" ypos="16.5027" zpos="796.132" type="legs.wb.fe.key" GUID="J1zwPfj1hkCYpo6JhqCrZQ=="/>
+        <POI MapID="35" xpos="-347.125" ypos="21.6771" zpos="852.519" type="legs.wb.fe.key" GUID="1DqaK/ianU+DGvUccWV8CA=="/>
+        <POI MapID="35" xpos="-340.577" ypos="9.76064" zpos="839.704" type="legs.wb.fe.key" GUID="EbBYRngsf0Sj8OMRXWgBPw=="/>
+        <POI MapID="35" xpos="-334.545" ypos="23.6592" zpos="909.317" type="legs.wb.fe.key" GUID="fo9DrnbHjkSVpCOQn+EEoQ=="/>
+        <POI MapID="35" xpos="-323.998" ypos="18.7119" zpos="630.056" type="legs.wb.fe.key" GUID="FN4Y5EbEsUGcdVp60gM/eA=="/>
+        <POI MapID="35" xpos="-321.725" ypos="10.8486" zpos="822.392" type="legs.wb.fe.key" GUID="0uTJfkyV20uhKjJ32FY41g=="/>
+        <POI MapID="35" xpos="-270.57" ypos="18.2015" zpos="806.689" type="legs.wb.fe.key" GUID="JLdJXWjNHUS0uJGMwjUAug=="/>
+        <POI MapID="35" xpos="-270.9" ypos="18.1262" zpos="688.393" type="legs.wb.fe.key" GUID="4hpVTYxyYkS//AMPIPORJA=="/>
+        <POI MapID="35" xpos="-431.158" ypos="21.8877" zpos="678.452" type="legs.wb.fe.key" GUID="S70j9sRG4EKPOztScFhlOQ=="/>
+        <POI MapID="35" xpos="-265.737" ypos="18.762" zpos="660.037" type="legs.wb.fe.key" GUID="3IfICe++f0+8rkcqBmM6hw=="/>
+        <!--
+        <POI MapID="35" xpos="-437.716" ypos="37.2526" zpos="638.487" type="legs.wb.fe.key" GUID="2b9RZqi58kW1SwigeMZMtQ=="/>
+        <POI MapID="35" xpos="-398.769" ypos="9.74733" zpos="821.911" type="legs.wb.fe.key" GUID="370cWwGrzkSUzy8Gi8HDIQ=="/>
+        <POI MapID="35" xpos="-376.5" ypos="11.7" zpos="832.92" type="legs.wb.fe.key" GUID="9FP0Io5O+UKb110FPrklxw=="/>
+        <POI MapID="35" xpos="-376.009" ypos="24.6397" zpos="930.262" type="legs.wb.fe.key" GUID="D1hwb2TlzkKtMnExLqLufA=="/>
+        -->
+        <POI MapID="35" xpos="-321.086" ypos="30.2139" zpos="644.75" type="legs.wb.mount.skyscale" GUID="/kZ27xQynU2Y+0rrE02HuQ=="/>
+        <POI MapID="35" xpos="-441.322" ypos="24.7034" zpos="694.839" type="legs.wb.mount.springer" GUID="oAmDjv5UbEytFVvbgJuf0g=="/>
+        <POI MapID="35" xpos="-325.979" ypos="18.6026" zpos="647.128" type="legs.wb.mount.springer" GUID="57gKeRPC+0C4vRlNGGn5hg=="/>
+        <POI MapID="35" xpos="-340.44" ypos="9.57708" zpos="837.609" type="legs.wb.mount.springer" GUID="6d4fqyOo4UyIOaFEFBA/3g=="/>
+        
         <POI MapID="35" xpos="-303.221" ypos="22.9778" zpos="691.136" GUID="Q625snYT0kyejX7ETKJJhw==" type="legs.wb.mount.springer"/>
         <Trail type="legs.wb.fe.earth" trailData="Data/LadyElyssa/World Bosses/FE-MCK-Earth.trl"/>
         <POI MapID="35" xpos="-415.597" ypos="21.6614" zpos="667.801" GUID="UP/8AXICP0GYJlq59zGT2g==" type="legs.wb.mount.springer"/>
