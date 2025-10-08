@@ -4,7 +4,7 @@ You can Buy Guild Wars 2 using these links:
 * Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
   
 ## Lady Elyssa's TacO Trail Guides ##
-A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_2500+ Trails_** and **_15,000+ Markers_** [[1]](https://mp-repo.blishhud.com/LadyElyssa.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/)
+A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_2800+ Trails_** and **_17,000+ Markers_** [[1]](https://mp-repo.blishhud.com/LadyElyssa.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/)
 
 Suitable for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs), just look for Lady Elyssa's Guides. _Please ensure your preferred option is up to date._
 
