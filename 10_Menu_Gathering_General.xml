@@ -643,7 +643,6 @@
             <MarkerCategory name="truffle" DisplayName="Orrian Truffle">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="node" DisplayName="Toggle Truffle Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Gold.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
