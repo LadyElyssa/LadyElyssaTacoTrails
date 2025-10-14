@@ -140,13 +140,14 @@
                         <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
                         <MarkerCategory name="brisban" DisplayName="Brisban Wildlands"/>
                         <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
-                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                        <MarkerCategory name="metrica" DisplayName="Metrica Province"/>
+                        <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
                         <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
                         <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
                         <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
                         <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
                         <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
-                        <MarkerCategory name="shiverpeaks" DisplayName="SHIVERPEAKS"/>
+                        <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
                         <MarkerCategory name="eotn" DisplayName="Eye of the North (Guaranteed)"/>
                         <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
                         <MarkerCategory name="mists" IsSeparator="1" DisplayName="THE MISTS"/>
@@ -165,9 +166,12 @@
                         <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
                         <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
                         <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
-                        <MarkerCategory name="shiverpeaks" DisplayName="SHIVERPEAKS"/>
-                        <MarkerCategory name="eotn" DisplayName="Eye of the North (Guaranteed)"/>
+                        <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                        <!--
+                        <MarkerCategory name="eotn" DisplayName="Eye of the North"/>
+                        -->
                         <MarkerCategory name="snowden" DisplayName="Snowden Drifts"/>
+                        <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
                         <MarkerCategory name="mists" IsSeparator="1" DisplayName="THE MISTS"/>
                         <MarkerCategory name="mkl" DisplayName="Mad King's Labyrinth"/>
                     </MarkerCategory>
