@@ -18,6 +18,8 @@ Principles
    * minimising the need to adjust the camera
    * why jump when you can walk
 
+__NOTE:__ When a Waypoint is shown on screen, it is also being copied to your clipboard. You can Press Enter to activate your xurrent chat chanel and then Press and Hold CTRL and the press V to paste it in to chat, then press Enter again to send it. You can then click on that link to show you the waypoint so you can go straight to it.
+
 This pack currently contains trails for:
 
 ## Chest Run ##
