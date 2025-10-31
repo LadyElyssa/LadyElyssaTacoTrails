@@ -43,6 +43,11 @@
                 </MarkerCategory>
             </MarkerCategory>
 
+            <MarkerCategory name="ms" DisplayName="Mysterious Sand">
+                <MarkerCategory name="voemaptraversal" IsSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
+                <MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand" iconFile="Data/LadyElyssa/Images/Mysterious Sand.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
+            </MarkerCategory>
+
             <MarkerCategory name="nw" DisplayName="Nuhoch Wallows">
                 <MarkerCategory name="hotmaptraversal" IsSeparator="1" DisplayName="HEART OF THORNS"/>
                 <MarkerCategory name="vb" DisplayName="Verdant Brink" texture="Data/LadyElyssa/Images/Nuhoch Wallow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1"/>
@@ -58,6 +63,12 @@
                     <MarkerCategory name="entre" DisplayName="Entre" iconFile="Data/LadyElyssa/Images/Portal.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="16"/>
                     <MarkerCategory name="uni" DisplayName="Unidirectional" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" color="FF44FF"/>
                 </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="smash" DisplayName="Roller Beetle Barrior Smash" mapDisplaySize="10">
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATIONS"/>
+                <MarkerCategory name="dok" DisplayName="Domain of Kourna" iconFile="Data/LadyElyssa/Images/Mounts/Barrier Smash.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="48"/>
+                <MarkerCategory name="dragonfall" DisplayName="Dragonfall" iconFile="Data/LadyElyssa/Images/Mounts/Barrier Smash.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="48"/>
             </MarkerCategory>
 
             <MarkerCategory name="sp" DisplayName="Sand Portals" iconFile="Data/LadyElyssa/Images/Sand Portal Marker.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="32">

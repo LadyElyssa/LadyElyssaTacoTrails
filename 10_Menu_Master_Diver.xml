@@ -3,7 +3,7 @@
         <MarkerCategory name="masterdiver" DisplayName="Master Diver (Circular Route)" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.75">
             <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
             <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Master Diver.png"  mapDisplaySize="64"/>
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="separatormenu510" IsSeparator="1" DisplayName="ASCALON"/>
             <MarkerCategory name="ironmarches" DisplayName="Iron Marches (Start)" color="00FFFF"/>
             <MarkerCategory name="separatormenu511" IsSeparator="1" DisplayName="KRYTA"/>

@@ -1130,7 +1130,7 @@
                 <MarkerCategory name="instance" DisplayName="Instance" texture="Data/LadyElyssa/Images/trail-tiny.png" alpha="0.8" fadeNear="1200" fadeFar="1600" minimapVisibility="0" color="00FF20"/>
             </MarkerCategory>
             <!-- LWS2 - Return to Camp Resolve -->
-            <MarkerCategory name="lws2" IsSeparator="1" DisplayName="Lvl 80: LIVING WORLD SEASON 2"/>
+            <MarkerCategory name="lws2" IsSeparator="1" DisplayName="Lvl 80: SEASON 2"/>
             <MarkerCategory name="lws2tp" DisplayName="Tangled Paths">
                 <MarkerCategory name="returntocampresolve" DisplayName="Return to Camp Resolve">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -1282,11 +1282,11 @@
                 <MarkerCategory name="ab" DisplayName="Auric Basin"/>
                 <MarkerCategory name="td" DisplayName="Tangled Depths"/>
             </MarkerCategory>
-            <MarkerCategory name="lws3" DisplayName="Living World Season 3" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
+            <MarkerCategory name="lws3" DisplayName="Season 3" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="bloodstonefen" DisplayName="(Q) Bloodstone Fen"/>
             </MarkerCategory>
-            <MarkerCategory name="lws5" DisplayName="Living World Season 5" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
+            <MarkerCategory name="lws5" DisplayName="Season 5" iconFile="Data/LadyElyssa/Images/Icons/Blank.png">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="grothmar" DisplayName="(Q) Grothmar Fen"/>
             </MarkerCategory>

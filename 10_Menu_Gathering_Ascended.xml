@@ -13,7 +13,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" mapDisplaySize="96"/>
-                        <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Cyan.png" triggerrange="3.9" autotrigger="true" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" iconSize="0.5" heightOffset="2.5" mapDisplaySize="25"/>
+                        <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Cyan.png" fadeNear="1200" fadeFar="1400" triggerrange="3.9" autotrigger="true" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" iconSize="0.5" heightOffset="2.5" mapDisplaySize="25"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>

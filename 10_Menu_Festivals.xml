@@ -131,6 +131,7 @@
             <!-- Halloween -->
 
             <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/LadyElyssa/Images/Candy Gradient.png">
+                <MarkerCategory name="atm" DisplayName="Ascent to Madness" texture="Data/LadyElyssa/Images/Candy Gradient.png" animSpeed="0" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="candy" DisplayName="Candy Corn (Chance)">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                     <MarkerCategory name="corn" DisplayName="Toggle Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0">
@@ -234,7 +235,7 @@
                     <MarkerCategory name="caledon" DisplayName="Caledon Forest">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
@@ -285,7 +286,7 @@
                     <MarkerCategory name="metrica" DisplayName="Metrica Province">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
@@ -333,7 +334,7 @@
                     <MarkerCategory name="ashford" DisplayName="Plains of Ashford">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
@@ -384,7 +385,7 @@
                     <MarkerCategory name="queensdale" DisplayName="Queensdale">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
@@ -430,7 +431,7 @@
                     <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                             <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
