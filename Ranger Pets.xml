@@ -3,20 +3,20 @@
         <!-- RANGER PET - FAMILY -->
 
         <!-- Aether Hunter -->
-        <POI MapID="1517" xpos="59.6682" ypos="209.408" zpos="-454.506" type="legs.ranger.aether.amnytas" GUID="6PWsanqdRE26ll9VtczmXg=="/>
-        <POI MapID="1517" xpos="359.372" ypos="316.493" zpos="16.7588" type="legs.ranger.aether.amnytas" GUID="NLpr6YEFlUm9qG7vEfeGkQ=="/>
+        <POI MapID="1517" xpos="59.6682" ypos="209.408" zpos="-454.506" type="legs.ranger.unique.aether.amnytas" GUID="6PWsanqdRE26ll9VtczmXg=="/>
+        <POI MapID="1517" xpos="359.372" ypos="316.493" zpos="16.7588" type="legs.ranger.unique.aether.amnytas" GUID="NLpr6YEFlUm9qG7vEfeGkQ=="/>
 
         <!-- Armored Fish -->
-        <POI MapID="50" xpos="-182.017" ypos="-53.2361" zpos="-154.493" type="legs.ranger.armored.armor.la" GUID="vRZRmdOpDEiK0yulNwtEwA=="/>
-        <POI MapID="50" xpos="-247.837" ypos="-62.264" zpos="-180.123" type="legs.ranger.armored.armor.la" GUID="F2LL43FrTUC1JkbPFIM6Aw=="/>
-        <POI MapID="50" xpos="-285.868" ypos="-71.1175" zpos="-187.675" type="legs.ranger.armored.armor.la" GUID="hsM23bk4PEyyW0ESsYDp3g=="/>
-        <POI MapID="50" xpos="-299.293" ypos="-75.246" zpos="-119.015" type="legs.ranger.armored.armor.la" GUID="kPtUej7f1Uu6YIl9fx/25Q=="/>
-        <POI MapID="73" xpos="-566.688" ypos="-14.6727" zpos="-334.009" type="legs.ranger.armored.armor.bloodtide" GUID="jrYQKMCyYUuPdpAWkUEdOg=="/>
-        <POI MapID="73" xpos="-560.929" ypos="-22.9015" zpos="-353.003" type="legs.ranger.armored.armor.bloodtide" GUID="uYpz6x7Y7kyWH+YziXn7Jw=="/>
-        <POI MapID="73" xpos="-538.243" ypos="-10.7405" zpos="-335.084" type="legs.ranger.armored.armor.bloodtide" GUID="16D8FVMy8Ui2h8jKSPmD/A=="/>
-        <POI MapID="20" xpos="571.289" ypos="-19.5076" zpos="-541.588" type="legs.ranger.armored.armor.blazeridge" GUID="16sE2WadtEC3tqyOHr4z/g=="/>
-        <POI MapID="20" xpos="596.385" ypos="-13.5954" zpos="-540.879" type="legs.ranger.armored.armor.blazeridge" GUID="Bgdde//yAEmoeEfD76Hjcw=="/>
-        <POI MapID="39" xpos="1113.62" ypos="-11.461" zpos="24.851" type="legs.ranger.armored.armor.maelstrom" GUID="gR3704DA2UWl6ckGAZOUHA=="/>
+        <POI MapID="50" xpos="-182.017" ypos="-53.2361" zpos="-154.493" type="legs.ranger.unique.armor.la" GUID="vRZRmdOpDEiK0yulNwtEwA=="/>
+        <POI MapID="50" xpos="-247.837" ypos="-62.264" zpos="-180.123" type="legs.ranger.unique.armor.la" GUID="F2LL43FrTUC1JkbPFIM6Aw=="/>
+        <POI MapID="50" xpos="-285.868" ypos="-71.1175" zpos="-187.675" type="legs.ranger.unique.armor.la" GUID="hsM23bk4PEyyW0ESsYDp3g=="/>
+        <POI MapID="50" xpos="-299.293" ypos="-75.246" zpos="-119.015" type="legs.ranger.unique.armor.la" GUID="kPtUej7f1Uu6YIl9fx/25Q=="/>
+        <POI MapID="73" xpos="-566.688" ypos="-14.6727" zpos="-334.009" type="legs.ranger.unique.armor.bloodtide" GUID="jrYQKMCyYUuPdpAWkUEdOg=="/>
+        <POI MapID="73" xpos="-560.929" ypos="-22.9015" zpos="-353.003" type="legs.ranger.unique.armor.bloodtide" GUID="uYpz6x7Y7kyWH+YziXn7Jw=="/>
+        <POI MapID="73" xpos="-538.243" ypos="-10.7405" zpos="-335.084" type="legs.ranger.unique.armor.bloodtide" GUID="16D8FVMy8Ui2h8jKSPmD/A=="/>
+        <POI MapID="20" xpos="571.289" ypos="-19.5076" zpos="-541.588" type="legs.ranger.unique.armor.blazeridge" GUID="16sE2WadtEC3tqyOHr4z/g=="/>
+        <POI MapID="20" xpos="596.385" ypos="-13.5954" zpos="-540.879" type="legs.ranger.unique.armor.blazeridge" GUID="Bgdde//yAEmoeEfD76Hjcw=="/>
+        <POI MapID="39" xpos="1113.62" ypos="-11.461" zpos="24.851" type="legs.ranger.unique.armor.maelstrom" GUID="gR3704DA2UWl6ckGAZOUHA=="/>
         
         <!-- BEAR -->
         <POI MapID="28" xpos="493.395" ypos="75.4457" zpos="188.851" type="legs.ranger.bear.arctodus.wayfarer" GUID="SuxUrHmkQUm1rmulnR/BdQ=="/>
@@ -148,8 +148,8 @@
         
 
         <!-- BRISTLEBACK -->
-        <POI MapID="1043" xpos="456.812" ypos="246.192" zpos="-156.318" type="legs.ranger.bristleback.ab" GUID="CWOfw9GOnUSRsM8CRsTPzg=="/>
-        <POI MapID="1043" xpos="439.488" ypos="248.495" zpos="-275.153" type="legs.ranger.bristleback.ab" GUID="f/iOpSebQUeQUHVZ72otUw=="/>
+        <POI MapID="1043" xpos="456.812" ypos="246.192" zpos="-156.318" type="legs.ranger.unique.bristleback.ab" GUID="CWOfw9GOnUSRsM8CRsTPzg=="/>
+        <POI MapID="1043" xpos="439.488" ypos="248.495" zpos="-275.153" type="legs.ranger.unique.bristleback.ab" GUID="f/iOpSebQUeQUHVZ72otUw=="/>
 
         <!-- CANINE -->
 
@@ -219,22 +219,21 @@
 
         <POI MapID="1099" xpos="-898.614" ypos="35.1492" zpos="385.801" type="legs.ranger.canine.wolf.red" GUID="8mhVDxPe6Uu6NDpcJ4ZFhg=="/>
         <POI MapID="38" xpos="582.451" ypos="13.8049" zpos="5.66512" type="legs.ranger.canine.wolf.eb" GUID="UbU19rAUr0qWWgX3tZ+29A=="/>
-
         
         <!-- CHAK -->
-        <POI MapID="1510" xpos="437.998" ypos="523.508" zpos="-304.962" type="legs.ranger.chak.striker.sa" GUID="4ItdEOaffE2d5ePw4dPQlA=="/>
-        <POI MapID="1510" xpos="466.862" ypos="523.901" zpos="-313.146" type="legs.ranger.chak.striker.sa" GUID="u7jJ6ZTiOE+3JUW4IKTUfA=="/>
-        <POI MapID="1510" xpos="462.769" ypos="523.08" zpos="-282.098" type="legs.ranger.chak.striker.sa" GUID="nEtHlDBL40OwrT8gG9xZyA=="/>
-        <POI MapID="1510" xpos="463.454" ypos="539.437" zpos="-185.448" type="legs.ranger.chak.striker.sa" GUID="h5ZJcpR6H0uFq6BZZXgymw=="/>
-        <POI MapID="1510" xpos="469.933" ypos="539.341" zpos="-170.082" type="legs.ranger.chak.striker.sa" GUID="EoElPmueaUe1yEw8kmahSA=="/>
-        <POI MapID="1510" xpos="432.755" ypos="548.932" zpos="-189.661" type="legs.ranger.chak.striker.sa" GUID="8Kw5G/dZkE6USv52gSW2rw=="/>
+        <POI MapID="1510" xpos="437.998" ypos="523.508" zpos="-304.962" type="legs.ranger.unique.striker.sa" GUID="4ItdEOaffE2d5ePw4dPQlA=="/>
+        <POI MapID="1510" xpos="466.862" ypos="523.901" zpos="-313.146" type="legs.ranger.unique.striker.sa" GUID="u7jJ6ZTiOE+3JUW4IKTUfA=="/>
+        <POI MapID="1510" xpos="462.769" ypos="523.08" zpos="-282.098" type="legs.ranger.unique.striker.sa" GUID="nEtHlDBL40OwrT8gG9xZyA=="/>
+        <POI MapID="1510" xpos="463.454" ypos="539.437" zpos="-185.448" type="legs.ranger.unique.striker.sa" GUID="h5ZJcpR6H0uFq6BZZXgymw=="/>
+        <POI MapID="1510" xpos="469.933" ypos="539.341" zpos="-170.082" type="legs.ranger.unique.striker.sa" GUID="EoElPmueaUe1yEw8kmahSA=="/>
+        <POI MapID="1510" xpos="432.755" ypos="548.932" zpos="-189.661" type="legs.ranger.unique.striker.sa" GUID="8Kw5G/dZkE6USv52gSW2rw=="/>
 
         <!-- DEMON -->
-        <POI MapID="1526" xpos="153.759" ypos="436.024" zpos="50.1492" type="legs.ranger.demon.spinegazer.in" GUID="HH+4i3XdRUKZHT8O/UpGlg=="/>
-        <POI MapID="1526" xpos="179.716" ypos="305.47" zpos="124.349" type="legs.ranger.demon.spinegazer.in" GUID="ygmDfbVWWkG5z6DtckzUow=="/>
-        <POI MapID="1526" xpos="208.449" ypos="304.798" zpos="119.251" type="legs.ranger.demon.spinegazer.in" GUID="73HprpNrZkGPHNLKbWtM5w=="/>
-        <POI MapID="1526" xpos="691.923" ypos="261.586" zpos="232.581" type="legs.ranger.demon.spinegazer.in" GUID="yNZRL8Wr7kK1G87SWpXVog=="/>
-        <POI MapID="1526" xpos="689.06" ypos="266.835" zpos="266.715" type="legs.ranger.demon.spinegazer.in" GUID="jErphNh+HkyrrMpybhV4pQ=="/>
+        <POI MapID="1526" xpos="153.759" ypos="436.024" zpos="50.1492" type="legs.ranger.unique.spinegazer.in" GUID="HH+4i3XdRUKZHT8O/UpGlg=="/>
+        <POI MapID="1526" xpos="179.716" ypos="305.47" zpos="124.349" type="legs.ranger.unique.spinegazer.in" GUID="ygmDfbVWWkG5z6DtckzUow=="/>
+        <POI MapID="1526" xpos="208.449" ypos="304.798" zpos="119.251" type="legs.ranger.unique.spinegazer.in" GUID="73HprpNrZkGPHNLKbWtM5w=="/>
+        <POI MapID="1526" xpos="691.923" ypos="261.586" zpos="232.581" type="legs.ranger.unique.spinegazer.in" GUID="yNZRL8Wr7kK1G87SWpXVog=="/>
+        <POI MapID="1526" xpos="689.06" ypos="266.835" zpos="266.715" type="legs.ranger.unique.spinegazer.in" GUID="jErphNh+HkyrrMpybhV4pQ=="/>
 
         <!-- DEVOURER -->
         <POI MapID="22" xpos="101.882" ypos="34.4016" zpos="265.145" type="legs.ranger.devourer.carrion.fireheart" GUID="LV01KZjL406ojOTRTROF8g=="/>
@@ -434,26 +433,26 @@
         <POI MapID="1210" xpos="475.596" ypos="23.5485" zpos="-269.441" type="legs.ranger.feline.sand.co" GUID="cng/BQfYh0Okzbvqi6b5QQ=="/>
 
         <!-- IBOGA-->
-        <POI MapID="1211" xpos="-363.157" ypos="222.243" zpos="330.571" type="legs.ranger.iboga.fanged.dh" GUID="Y8/e9mL+gkeyhcPXmMI3Ng=="/>
-        <POI MapID="1211" xpos="-330.377" ypos="208.848" zpos="147.425" type="legs.ranger.iboga.fanged.dh" GUID="wiceL4POgUeZJrwOjdvQ7A=="/>
-        <POI MapID="1211" xpos="-250.439" ypos="218.889" zpos="218.204" type="legs.ranger.iboga.fanged.dh" GUID="jXt6TQEfzUSlUrwjeW3ZNA=="/>
-        <POI MapID="1211" xpos="-224.082" ypos="219.245" zpos="206.564" type="legs.ranger.iboga.fanged.dh" GUID="+z8Cz9foZ0KbupM8s9I+kA=="/>
-        <POI MapID="1211" xpos="-375.199" ypos="231.94" zpos="155.444" type="legs.ranger.iboga.fanged.dh" GUID="hwp1WL0PC0OfetMBuGlVvw=="/>
-        <POI MapID="1211" xpos="-347.071" ypos="230.425" zpos="235.758" type="legs.ranger.iboga.fanged.dh" GUID="nyHSewlxvke18NfffFKROQ=="/>
+        <POI MapID="1211" xpos="-363.157" ypos="222.243" zpos="330.571" type="legs.ranger.unique.iboga.fanged.dh" GUID="Y8/e9mL+gkeyhcPXmMI3Ng=="/>
+        <POI MapID="1211" xpos="-330.377" ypos="208.848" zpos="147.425" type="legs.ranger.unique.iboga.fanged.dh" GUID="wiceL4POgUeZJrwOjdvQ7A=="/>
+        <POI MapID="1211" xpos="-250.439" ypos="218.889" zpos="218.204" type="legs.ranger.unique.iboga.fanged.dh" GUID="jXt6TQEfzUSlUrwjeW3ZNA=="/>
+        <POI MapID="1211" xpos="-224.082" ypos="219.245" zpos="206.564" type="legs.ranger.unique.iboga.fanged.dh" GUID="+z8Cz9foZ0KbupM8s9I+kA=="/>
+        <POI MapID="1211" xpos="-375.199" ypos="231.94" zpos="155.444" type="legs.ranger.unique.iboga.fanged.dh" GUID="hwp1WL0PC0OfetMBuGlVvw=="/>
+        <POI MapID="1211" xpos="-347.071" ypos="230.425" zpos="235.758" type="legs.ranger.unique.iboga.fanged.dh" GUID="nyHSewlxvke18NfffFKROQ=="/>
 
         <!-- JACARANDA -->
-        <POI MapID="1248" xpos="-1231.31" ypos="232.495" zpos="-504.752" type="legs.ranger.jacaranda.dov" GUID="TF+yja/nJUePxi6JKRCnwA=="/>
-        <POI MapID="1248" xpos="-1223.82" ypos="229.703" zpos="-495.616" type="legs.ranger.jacaranda.dov" GUID="tT2uuCSYhkiFi3Hghb2eFg=="/>
-        <POI MapID="1248" xpos="-1246.79" ypos="236.65" zpos="-483.985" type="legs.ranger.jacaranda.dov" GUID="8s5vOWcklEmQiqMPoD82ag=="/>
-        <POI MapID="1248" xpos="-1260.29" ypos="234.464" zpos="-477.497" type="legs.ranger.jacaranda.dov" GUID="/1TT+/4prkCEJQa8bzKNcg=="/>
-        <POI MapID="1248" xpos="-1272.56" ypos="248.99" zpos="-488.9" type="legs.ranger.jacaranda.dov" GUID="/AaD967wD0erbsYBuC+eOw=="/>
-        <POI MapID="1248" xpos="-1260.65" ypos="245.38" zpos="-495.441" type="legs.ranger.jacaranda.dov" GUID="Ia+sybRXqUGE5FkGQXB80g=="/>
+        <POI MapID="1248" xpos="-1231.31" ypos="232.495" zpos="-504.752" type="legs.ranger.unique.jacaranda.dov" GUID="TF+yja/nJUePxi6JKRCnwA=="/>
+        <POI MapID="1248" xpos="-1223.82" ypos="229.703" zpos="-495.616" type="legs.ranger.unique.jacaranda.dov" GUID="tT2uuCSYhkiFi3Hghb2eFg=="/>
+        <POI MapID="1248" xpos="-1246.79" ypos="236.65" zpos="-483.985" type="legs.ranger.unique.jacaranda.dov" GUID="8s5vOWcklEmQiqMPoD82ag=="/>
+        <POI MapID="1248" xpos="-1260.29" ypos="234.464" zpos="-477.497" type="legs.ranger.unique.jacaranda.dov" GUID="/1TT+/4prkCEJQa8bzKNcg=="/>
+        <POI MapID="1248" xpos="-1272.56" ypos="248.99" zpos="-488.9" type="legs.ranger.unique.jacaranda.dov" GUID="/AaD967wD0erbsYBuC+eOw=="/>
+        <POI MapID="1248" xpos="-1260.65" ypos="245.38" zpos="-495.441" type="legs.ranger.unique.jacaranda.dov" GUID="Ia+sybRXqUGE5FkGQXB80g=="/>
 
         <!-- JANTHIRI BEE -->
-        <POI MapID="1575" xpos="-788.905" ypos="175.283" zpos="202.456" type="legs.ranger.janthiribee.mb" GUID="/zO+lHrjv0+akXs0Iik+IQ=="/>
-        <POI MapID="1575" xpos="-242.53" ypos="128.818" zpos="302.303" type="legs.ranger.janthiribee.mb" GUID="4Kp4oVggcE+bSGwMv1qBvQ=="/>
-        <POI MapID="1575" xpos="-437.98" ypos="156.744" zpos="550.105" type="legs.ranger.janthiribee.mb" GUID="KN+RSM2R3U6xOl9Mq9KwrA=="/>
-        <POI MapID="1575" xpos="-1036.46" ypos="127.085" zpos="-386.574" type="legs.ranger.janthiribee.mb" GUID="vuuNRdXohEu9kS+m3H3J7w=="/>
+        <POI MapID="1575" xpos="-788.905" ypos="175.283" zpos="202.456" type="legs.ranger.unique.janthiribee.mb" GUID="/zO+lHrjv0+akXs0Iik+IQ=="/>
+        <POI MapID="1575" xpos="-242.53" ypos="128.818" zpos="302.303" type="legs.ranger.unique.janthiribee.mb" GUID="4Kp4oVggcE+bSGwMv1qBvQ=="/>
+        <POI MapID="1575" xpos="-437.98" ypos="156.744" zpos="550.105" type="legs.ranger.unique.janthiribee.mb" GUID="KN+RSM2R3U6xOl9Mq9KwrA=="/>
+        <POI MapID="1575" xpos="-1036.46" ypos="127.085" zpos="-386.574" type="legs.ranger.unique.janthiribee.mb" GUID="vuuNRdXohEu9kS+m3H3J7w=="/>
 
         <!-- JELLYFISH -->
         <POI MapID="1422" xpos="178.802" ypos="-13.7154" zpos="848.645" type="legs.ranger.jellyfish.blue.de" GUID="CYNoiW8nTkKoZbXX2QL/2g=="/>
@@ -661,44 +660,54 @@
         <POI MapID="24" xpos="549.298" ypos="26.9981" zpos="319.881" type="legs.ranger.porcine.warthog.gendarran" GUID="rK3evXVz1025hS3mXg3AbQ=="/>
         <POI MapID="21" xpos="323.324" ypos="43.5103" zpos="-334.572" type="legs.ranger.porcine.warthog.fireheart" GUID="i7aKd6xi0kCPuYk3+IyL5A=="/>
 
+        <!-- RAPTOR SWIFTWING -->
+        <POI MapID="1593" xpos="-82.0141" ypos="3.02227" zpos="635.683" type="legs.ranger.raptor.sw" GUID="WUTjJG9mC0eaOk2bLzvItg=="/>
+        <POI MapID="1593" xpos="-244.029" ypos="4.47926" zpos="345.699" type="legs.ranger.raptor.sw" GUID="E42xZJNLDkmTiNbpuKKbYQ=="/>
+        <POI MapID="1593" xpos="-227.709" ypos="2.62128" zpos="427.492" type="legs.ranger.raptor.sw" GUID="mcEtgm6fYkykC95ixKxLvA=="/>
+        <POI MapID="1593" xpos="-220.897" ypos="2.57684" zpos="433.300" type="legs.ranger.raptor.sw" GUID="ar9CzixqCUSLUPcdJIxqgw=="/>
+        <POI MapID="1593" xpos="-203.704" ypos="71.6169" zpos="367.309" type="legs.ranger.raptor.sw" GUID="8+kMwXqMMkKLG9NWMltsfg=="/>
+        <POI MapID="1593" xpos="-196.056" ypos="71.7043" zpos="371.137" type="legs.ranger.raptor.sw" GUID="FdFJPF9YhUiL9Jl2sUO/9w=="/>
+        <POI MapID="1593" xpos="-252.505" ypos="3.91835" zpos="361.629" type="legs.ranger.raptor.sw" GUID="NvHuPAPv506SoHFZQscDyw=="/>
+        <POI MapID="1593" xpos="-199.491" ypos="73.883" zpos="302.99" type="legs.ranger.raptor.sw" GUID="/c05oNTnzUaJqHC7Bg/xrg=="/>
+
         <!-- ROCK GAZELLE -->
-        <POI MapID="1226" xpos="540.961" ypos="315.516" zpos="-890.054" type="legs.ranger.gazelle.td" GUID="J5hG0eR+sE+rYOK7jZcZgQ=="/>
-        <POI MapID="1226" xpos="480.559" ypos="309.181" zpos="-919.693" type="legs.ranger.gazelle.td" GUID="iorPalKAmkiGxW55RobXUw=="/>
-        <POI MapID="1226" xpos="447.343" ypos="313.249" zpos="-899.141" type="legs.ranger.gazelle.td" GUID="QpVAtqsspkWaWMjR+1HMPg=="/>
-        <POI MapID="1226" xpos="395.109" ypos="317.989" zpos="-934.728" type="legs.ranger.gazelle.td" GUID="nmimJBMKs0+tSh17WcuYPQ=="/>
-        <POI MapID="1226" xpos="410.599" ypos="318.931" zpos="-864.24" type="legs.ranger.gazelle.td" GUID="/mFtSwGYBUOoeOxCC+Ja/A=="/>
+        <POI MapID="1226" xpos="540.961" ypos="315.516" zpos="-890.054" type="legs.ranger.unique.gazelle.td" GUID="J5hG0eR+sE+rYOK7jZcZgQ=="/>
+        <POI MapID="1226" xpos="480.559" ypos="309.181" zpos="-919.693" type="legs.ranger.unique.gazelle.td" GUID="iorPalKAmkiGxW55RobXUw=="/>
+        <POI MapID="1226" xpos="447.343" ypos="313.249" zpos="-899.141" type="legs.ranger.unique.gazelle.td" GUID="QpVAtqsspkWaWMjR+1HMPg=="/>
+        <POI MapID="1226" xpos="395.109" ypos="317.989" zpos="-934.728" type="legs.ranger.unique.gazelle.td" GUID="nmimJBMKs0+tSh17WcuYPQ=="/>
+        <POI MapID="1226" xpos="410.599" ypos="318.931" zpos="-864.24" type="legs.ranger.unique.gazelle.td" GUID="/mFtSwGYBUOoeOxCC+Ja/A=="/>
 
         <!-- SHARK -->
-        <POI MapID="53" xpos="-46.3474" ypos="-28.2632" zpos="-47.7264" type="legs.ranger.shark.sparkfly" GUID="NaXqWmrN6UqrxhuYPt9uGg=="/>
-        <POI MapID="53" xpos="-117.233" ypos="-25.5815" zpos="801.48" type="legs.ranger.shark.sparkfly" GUID="e5KHhMpgb0O1eNY7Z7oz6w=="/>
-        <POI MapID="53" xpos="-132.947" ypos="-37.0704" zpos="921.955" type="legs.ranger.shark.sparkfly" GUID="E+Wl3tGRXkSILSz3OtuGnw=="/>
-        <POI MapID="50" xpos="656.453" ypos="-8.57651" zpos="-427.003" type="legs.ranger.shark.la" GUID="ggSxLD4/10uQAqIhJnF1EA=="/>
-        <POI MapID="29" xpos="160.369" ypos="-47.7566" zpos="-546.387" type="legs.ranger.shark.timberline" GUID="nI7mfoYOe0e4odfryN5NAw=="/>
-        <POI MapID="29" xpos="119.525" ypos="-61.7821" zpos="-533.712" type="legs.ranger.shark.timberline" GUID="qxwKgWgy60GMMLcfUSJZCg=="/>
-        <POI MapID="29" xpos="71.7142" ypos="-29.0018" zpos="-522.743" type="legs.ranger.shark.timberline" GUID="M3O/EThFGUSh9Lch7GuNEw=="/>
-        <POI MapID="23" xpos="139.684" ypos="-50.7032" zpos="-294.403" type="legs.ranger.shark.kessex" GUID="HgVKxKyzC02wkj84UOF8+Q=="/>
-        <POI MapID="23" xpos="-428.039" ypos="-88.2577" zpos="-44.0357" type="legs.ranger.shark.kessex" GUID="LO2jLPW0uUa/4pkvZHHQQg=="/>
-        <POI MapID="23" xpos="-487.219" ypos="-71.1168" zpos="-121.46" type="legs.ranger.shark.kessex" GUID="iW+X31JYIUeg83LH3cWiHw=="/>
-        <POI MapID="23" xpos="-405.272" ypos="-53.094" zpos="-178.209" type="legs.ranger.shark.kessex" GUID="HT6ZkHd2fUWXi4uiRrm6QQ=="/>
-        <POI MapID="39" xpos="921.487" ypos="-26.053" zpos="-427.698" type="legs.ranger.shark.maelstrom" GUID="R3GE5vTfs0izhREzOR2bnw=="/>
-        <POI MapID="73" xpos="-484.245" ypos="-27.2683" zpos="87.066" type="legs.ranger.shark.bloodtide" GUID="+EB/6jPG9EutpXBqP6M8QA=="/>
-        <POI MapID="73" xpos="-595.039" ypos="-14.3417" zpos="185.693" type="legs.ranger.shark.bloodtide" GUID="Zn7KvvjdI028qq9j3T1KkA=="/>
-        <POI MapID="73" xpos="-161.59" ypos="-70.9385" zpos="-2.64739" type="legs.ranger.shark.bloodtide" GUID="gVY3x9aQQUyf8qXbppQscQ=="/>
-        <POI MapID="73" xpos="129.589" ypos="-31.1268" zpos="359.554" type="legs.ranger.shark.bloodtide" GUID="f/TNtB+qjUefFOwLAc89mg=="/>
-        <POI MapID="73" xpos="164.053" ypos="-72.8606" zpos="382.02" type="legs.ranger.shark.bloodtide" GUID="BT4SxKWIPk2ATzh67efBSg=="/>
-        <POI MapID="73" xpos="201.06" ypos="-38.411" zpos="389.008" type="legs.ranger.shark.bloodtide" GUID="Wflm/0lY8EG7H5n26+miIA=="/>
-        <POI MapID="73" xpos="275.351" ypos="-22.3152" zpos="383.564" type="legs.ranger.shark.bloodtide" GUID="HYJBvh05v0ew3r6OqchWKA=="/>
+        <POI MapID="53" xpos="-46.3474" ypos="-28.2632" zpos="-47.7264" type="legs.ranger.unique.shark.sparkfly" GUID="NaXqWmrN6UqrxhuYPt9uGg=="/>
+        <POI MapID="53" xpos="-117.233" ypos="-25.5815" zpos="801.48" type="legs.ranger.unique.shark.sparkfly" GUID="e5KHhMpgb0O1eNY7Z7oz6w=="/>
+        <POI MapID="53" xpos="-132.947" ypos="-37.0704" zpos="921.955" type="legs.ranger.unique.shark.sparkfly" GUID="E+Wl3tGRXkSILSz3OtuGnw=="/>
+        <POI MapID="50" xpos="656.453" ypos="-8.57651" zpos="-427.003" type="legs.ranger.unique.shark.la" GUID="ggSxLD4/10uQAqIhJnF1EA=="/>
+        <POI MapID="29" xpos="160.369" ypos="-47.7566" zpos="-546.387" type="legs.ranger.unique.shark.timberline" GUID="nI7mfoYOe0e4odfryN5NAw=="/>
+        <POI MapID="29" xpos="119.525" ypos="-61.7821" zpos="-533.712" type="legs.ranger.unique.shark.timberline" GUID="qxwKgWgy60GMMLcfUSJZCg=="/>
+        <POI MapID="29" xpos="71.7142" ypos="-29.0018" zpos="-522.743" type="legs.ranger.unique.shark.timberline" GUID="M3O/EThFGUSh9Lch7GuNEw=="/>
+        <POI MapID="23" xpos="139.684" ypos="-50.7032" zpos="-294.403" type="legs.ranger.unique.shark.kessex" GUID="HgVKxKyzC02wkj84UOF8+Q=="/>
+        <POI MapID="23" xpos="-428.039" ypos="-88.2577" zpos="-44.0357" type="legs.ranger.unique.shark.kessex" GUID="LO2jLPW0uUa/4pkvZHHQQg=="/>
+        <POI MapID="23" xpos="-487.219" ypos="-71.1168" zpos="-121.46" type="legs.ranger.unique.shark.kessex" GUID="iW+X31JYIUeg83LH3cWiHw=="/>
+        <POI MapID="23" xpos="-405.272" ypos="-53.094" zpos="-178.209" type="legs.ranger.unique.shark.kessex" GUID="HT6ZkHd2fUWXi4uiRrm6QQ=="/>
+        <POI MapID="39" xpos="921.487" ypos="-26.053" zpos="-427.698" type="legs.ranger.unique.shark.maelstrom" GUID="R3GE5vTfs0izhREzOR2bnw=="/>
+        <POI MapID="73" xpos="-484.245" ypos="-27.2683" zpos="87.066" type="legs.ranger.unique.shark.bloodtide" GUID="+EB/6jPG9EutpXBqP6M8QA=="/>
+        <POI MapID="73" xpos="-595.039" ypos="-14.3417" zpos="185.693" type="legs.ranger.unique.shark.bloodtide" GUID="Zn7KvvjdI028qq9j3T1KkA=="/>
+        <POI MapID="73" xpos="-161.59" ypos="-70.9385" zpos="-2.64739" type="legs.ranger.unique.shark.bloodtide" GUID="gVY3x9aQQUyf8qXbppQscQ=="/>
+        <POI MapID="73" xpos="129.589" ypos="-31.1268" zpos="359.554" type="legs.ranger.unique.shark.bloodtide" GUID="f/TNtB+qjUefFOwLAc89mg=="/>
+        <POI MapID="73" xpos="164.053" ypos="-72.8606" zpos="382.02" type="legs.ranger.unique.shark.bloodtide" GUID="BT4SxKWIPk2ATzh67efBSg=="/>
+        <POI MapID="73" xpos="201.06" ypos="-38.411" zpos="389.008" type="legs.ranger.unique.shark.bloodtide" GUID="Wflm/0lY8EG7H5n26+miIA=="/>
+        <POI MapID="73" xpos="275.351" ypos="-22.3152" zpos="383.564" type="legs.ranger.unique.shark.bloodtide" GUID="HYJBvh05v0ew3r6OqchWKA=="/>
 
         <!-- SIEGE TURTLE -->
-        <POI MapID="1422" xpos="522.685" ypos="154.905" zpos="-47.7361" type="legs.ranger.siege.de" GUID="R1lfjAt/20OcvJa4Pxa34Q=="/>
-        <POI MapID="1422" xpos="533.611" ypos="155.486" zpos="-88.8333" type="legs.ranger.siege.de" GUID="geN3onv/2ECGnGteb7hGWw=="/>
-        <POI MapID="1422" xpos="538.85" ypos="148.987" zpos="-137.156" type="legs.ranger.siege.de" GUID="RhmMNnj0BEmQcia1anlcVA=="/>
-        <POI MapID="1422" xpos="444.25" ypos="158.702" zpos="-185.234" type="legs.ranger.siege.de" GUID="0T4M5bkmNECkvKTcv7smdA=="/>
-        <POI MapID="1422" xpos="453.035" ypos="161.014" zpos="-111.193" type="legs.ranger.siege.de" GUID="S6AcarXk5kuM0VJuBXSO/Q=="/>
+        <POI MapID="1422" xpos="522.685" ypos="154.905" zpos="-47.7361" type="legs.ranger.unique.siege.de" GUID="R1lfjAt/20OcvJa4Pxa34Q=="/>
+        <POI MapID="1422" xpos="533.611" ypos="155.486" zpos="-88.8333" type="legs.ranger.unique.siege.de" GUID="geN3onv/2ECGnGteb7hGWw=="/>
+        <POI MapID="1422" xpos="538.85" ypos="148.987" zpos="-137.156" type="legs.ranger.unique.siege.de" GUID="RhmMNnj0BEmQcia1anlcVA=="/>
+        <POI MapID="1422" xpos="444.25" ypos="158.702" zpos="-185.234" type="legs.ranger.unique.siege.de" GUID="0T4M5bkmNECkvKTcv7smdA=="/>
+        <POI MapID="1422" xpos="453.035" ypos="161.014" zpos="-111.193" type="legs.ranger.unique.siege.de" GUID="S6AcarXk5kuM0VJuBXSO/Q=="/>
 
         <!-- SMOKESCALE -->
-        <POI MapID="1045" xpos="730.497" ypos="275.396" zpos="-458.721" type="legs.ranger.smokescale.td" GUID="xZ3XO+2GakaHu2QVxEUdIQ=="/>
-        <POI MapID="1045" xpos="58.7852" ypos="117.105" zpos="140.279" type="legs.ranger.smokescale.td" GUID="hwDj7gaFeU6bPO23yD5ZFg=="/>
+        <POI MapID="1045" xpos="730.497" ypos="275.396" zpos="-458.721" type="legs.ranger.unique.smokescale.td" GUID="xZ3XO+2GakaHu2QVxEUdIQ=="/>
+        <POI MapID="1045" xpos="58.7852" ypos="117.105" zpos="140.279" type="legs.ranger.unique.smokescale.td" GUID="hwDj7gaFeU6bPO23yD5ZFg=="/>
 
         <!-- SPIDER -->
         <POI MapID="807" xpos="-138.135" ypos="1.77242" zpos="63.3773" type="legs.ranger.spider.black.hom" GUID="wddaSft7H0yP8WU9JNaUKQ=="/>
