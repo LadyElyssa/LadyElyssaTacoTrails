@@ -152,12 +152,28 @@
         <POI MapID="1301" xpos="-653.219" ypos="60.5935" zpos="717.562" type="legs.mapt.launchpad" GUID="+YzB1ZgUWEawzqSdmycWRg=="/>
         <POI MapID="1301" xpos="-709.013" ypos="60.3267" zpos="717.384" type="legs.mapt.launchpad" GUID="aIfYZ/LsHki7uvR6utGLow=="/>
 
+        <!-- Mysterious Sand -->
+        <Trail type="legs.mapt.ms.shipwreck" trailData="Data/LadyElyssa/Map Traversal/VoE/Mysterious Sand - Shipwreck Strand.trl" texture="Data/LadyElyssa/Images/Line - Medium with Shadow.png"/>
+        <POI MapID="1663" xpos="181.715" ypos="0.522925" zpos="539.02" type="legs.mapt.ms.shipwreck" GUID="xcw97RUT70GWkeSqyleDxQ=="/>
+        <POI MapID="1663" xpos="384.754" ypos="4.14777" zpos="347.534" type="legs.mapt.ms.shipwreck" GUID="5Twhm4NGZ0SpTNa/HH+mXw=="/>
 
         <!-- Nuhoch Wallows -->
         <Trail type="legs.mapt.nw.vb" trailData="Data/LadyElyssa/Map Traversal/HoT/VB Nuhoch Wallows.trl"/>
         <Trail type="legs.mapt.nw.ab" trailData="Data/LadyElyssa/Map Traversal/HoT/AB Nuhoch Wallows.trl"/>
         <Trail type="legs.mapt.nw.td" trailData="Data/LadyElyssa/Map Traversal/HoT/TD Nuhoch Wallows.trl"/>
         <Trail type="legs.mapt.nw.ds" trailData="Data/LadyElyssa/Map Traversal/HoT/DS Nuhoch Wallows.trl"/>
+
+        <!-- Roller Beetle Barrier Smash -->
+        <POI MapID="1288" xpos="-972.165" ypos="41.262" zpos="658.309" type="legs.mapt.smash.dok" GUID="vLu5X7dnvk27IA2W1b8J+g=="/>
+        <POI MapID="1288" xpos="-1016.22" ypos="37.6118" zpos="679.478" type="legs.mapt.smash.dok" GUID="H98mGToVrUGZ4pgX875MfQ=="/>
+        <POI MapID="1288" xpos="-499.483" ypos="3.2698" zpos="772.264" type="legs.mapt.smash.dok" GUID="StJIiDEDR0aCACuy9zse7Q=="/>
+        <POI MapID="1288" xpos="-433.27" ypos="6.69423" zpos="1243.57" type="legs.mapt.smash.dok" GUID="90Hibd9eTkKK85ehzyPtIA=="/>
+        <POI MapID="1288" xpos="-183.701" ypos="4.96198" zpos="1337.34" type="legs.mapt.smash.dok" GUID="qRmOf6gBmEeG1/xKfQ6qqg=="/>
+        <POI MapID="1288" xpos="-204.799" ypos="16.7677" zpos="431.248" type="legs.mapt.smash.dok" GUID="7PvhKra/6EySolK90MQ3ww=="/>
+        <POI MapID="1288" xpos="-261.059" ypos="94.9625" zpos="495.514" type="legs.mapt.smash.dok" GUID="vJ8VI4GOIUu8wev35sBIrA=="/>
+        <POI MapID="1288" xpos="528.966" ypos="-0.264398" zpos="202.297" type="legs.mapt.smash.dok" GUID="YAsYSf9o1kq6GjKCkheSUg=="/>
+        <POI MapID="1288" xpos="42.8038" ypos="23.3895" zpos="-650.688" type="legs.mapt.smash.dok" GUID="dXonJdZyLkeQo+kHh4BQWw=="/>
+        <POI MapID="1317" xpos="-609.011" ypos="129.679" zpos="-131.064" type="legs.mapt.smash.dragonfall" GUID="YKC7Sp0zOUWlerVZIFmS/w=="/>
 
         <!-- Sand Portals -->
 
