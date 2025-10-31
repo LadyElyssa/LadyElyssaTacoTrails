@@ -6,9 +6,9 @@
             <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
             <MarkerCategory name="citadel" DisplayName="Black Citadel" texture="Data/LadyElyssa/Images/trailarrow-small.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/LadyElyssa/Images/Icons/ExitInstance.png"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -41,11 +41,11 @@
             <MarkerCategory name="ashford" DisplayName="Plains of Ashford" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -77,9 +77,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="number" DisplayName="Trail Segment">
                             <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
@@ -97,13 +97,13 @@
             <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartportal" DisplayName="Toggle Heart Portal" iconFile="Data/LadyElyssa/Images/Portal.png" minSize="16" maxSize="24"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="stealthheart" DisplayName="Toggle Stealth Heart Path" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -135,9 +135,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -168,11 +168,11 @@
             <MarkerCategory name="diessa" DisplayName="Diessa Plateau" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -204,9 +204,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -237,11 +237,11 @@
             <MarkerCategory name="fields" DisplayName="Fields of Ruin" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -273,9 +273,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -306,11 +306,11 @@
             <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -343,9 +343,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -376,11 +376,11 @@
             <MarkerCategory name="ironmarches" DisplayName="Iron Marches" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -412,9 +412,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -446,10 +446,10 @@
             <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
             <MarkerCategory name="divinity" DisplayName="Divinity's Reach" texture="Data/LadyElyssa/Images/trailarrow-small.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="jade" DisplayName="Toggle Jade Protocol Reminder" iconFile="Data/LadyElyssa/Images/Jade Protocol Reminder.png" mapVisibility="1" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -457,10 +457,8 @@
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
                         <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
                     <MarkerCategory name="number" DisplayName="Trail Segment">
@@ -469,7 +467,6 @@
                         <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
                         <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -481,11 +478,11 @@
                 <MarkerCategory name="run" DisplayName="Bloodtide Coast to Sparkfly Fen Run"/>
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -518,9 +515,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -551,11 +548,11 @@
             <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -587,9 +584,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -620,11 +617,11 @@
             <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -657,9 +654,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -690,11 +687,11 @@
             <MarkerCategory name="kessex" DisplayName="Kessex Hills" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png">
@@ -726,9 +723,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -758,9 +755,9 @@
             </MarkerCategory>
             <MarkerCategory name="la" DisplayName="Lion's Arch" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -770,8 +767,6 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
                     <MarkerCategory name="number" DisplayName="Trail Segment">
@@ -782,24 +777,22 @@
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
                         <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
                         <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                         <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
                     </MarkerCategory>
                     <!-- End Gliders -->
-                <MarkerCategory name="all" DisplayName="Map Completion">
-                    <MarkerCategory name="divert" DisplayName="Rata Sum Diversion" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-                </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="queensdale" DisplayName="Queensdale" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -831,9 +824,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="number" DisplayName="Trail Segment">
                             <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
@@ -866,9 +859,9 @@
             <MarkerCategory name="rata" DisplayName="Rata Sum" texture="Data/LadyElyssa/Images/trailarrow-small.png">
                 <MarkerCategory name="la" DisplayName="from Lion's Arch">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="64"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="64"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/LadyElyssa/Images/Icons/ExitInstance.png"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -876,10 +869,7 @@
                                 <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png"/>
                             </MarkerCategory>
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                            <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
                             <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-                            <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-                            <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                         </MarkerCategory>
                         <!-- End Mounts -->
                         <MarkerCategory name="number" DisplayName="Trail Segment">
@@ -902,9 +892,9 @@
             </MarkerCategory>
             <MarkerCategory name="grove" DisplayName="The Grove" texture="Data/LadyElyssa/Images/trailarrow-small.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/LadyElyssa/Images/Icons/ExitInstance.png"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -920,13 +910,6 @@
                     <!-- End Mounts -->
                     <MarkerCategory name="number" DisplayName="Trail Segment">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -938,8 +921,8 @@
             <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="heartmarkers" DisplayName="Toggle Heart Markers">
@@ -947,7 +930,7 @@
                             <MarkerCategory name="mines" DisplayName="Toggle Bandit Mine Markers" iconFile="Data/LadyElyssa/Images/Icons/Death.png" minSize="12" maxSize="32" heightOffset="0"/>
                             <MarkerCategory name="combat" DisplayName="Toggle Combat Markers" iconFile="Data/LadyElyssa/Images/Combat.png" minSize="12" maxSize="32" heightOffset="3.0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -975,9 +958,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1008,11 +991,11 @@
             <MarkerCategory name="caledon" DisplayName="Caledon Forest" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1041,9 +1024,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1074,11 +1057,11 @@
             <MarkerCategory name="metrica" DisplayName="Metrica Province (Start)" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1109,9 +1092,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1142,11 +1125,11 @@
             <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1179,9 +1162,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1213,11 +1196,11 @@
                 <MarkerCategory name="run" DisplayName="Sparkfly Fen to Orr Run"/>
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1249,9 +1232,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1284,10 +1267,10 @@
             <MarkerCategory name="devastation" DisplayName="Straits of Devastation">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/LadyElyssa/Images/Icons/ExitInstance.png" maxSize="32"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1319,9 +1302,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1353,9 +1336,9 @@
             <MarkerCategory name="malchors" DisplayName="Malchor's Leap">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1389,9 +1372,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1426,9 +1409,9 @@
             <MarkerCategory name="cs" DisplayName="Cursed Shore">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1462,9 +1445,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1496,11 +1479,11 @@
             <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
             <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak" texture="Data/LadyElyssa/Images/trailarrow-small.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/LadyElyssa/Images/Icons/ExitInstance.png"/>
                     <MarkerCategory name="jade" DisplayName="Toggle Jade Protocol Reminder" iconFile="Data/LadyElyssa/Images/Jade Protocol Reminder.png" mapVisibility="1" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1525,6 +1508,7 @@
                         <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
                         <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
                         <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                        <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
@@ -1535,11 +1519,11 @@
             <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="jotun" DisplayName="Jotun Trading Heart" iconFile="Data/LadyElyssa/Images/Hearts/Renown Heart Empty.png" mapVisibility="0" miniMapVisibility="0" minSize="8" maxSize="16" fadeNear="600" fadeFar="1200"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1572,9 +1556,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1605,11 +1589,11 @@
             <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1641,9 +1625,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1674,11 +1658,11 @@
             <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1710,9 +1694,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1743,11 +1727,11 @@
             <MarkerCategory name="lornars" DisplayName="Lornars Pass" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1779,9 +1763,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1812,11 +1796,11 @@
             <MarkerCategory name="snowden" DisplayName="Snowden Drifts" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1848,9 +1832,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
@@ -1881,11 +1865,11 @@
             <MarkerCategory name="timberline" DisplayName="Timberline Falls" texture="Data/LadyElyssa/Images/trailpoint-white.png">
                 <MarkerCategory name="all" DisplayName="Map Completion">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -1917,9 +1901,9 @@
                 </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoints Only" texture="Data/LadyElyssa/Images/Trail - Stubby.png" animSpeed="2" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" miniMapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="barefoot" DisplayName="Toggle Barefoot" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0" color="CC66FF"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
