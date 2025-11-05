@@ -328,7 +328,7 @@
                 <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
             </MarkerCategory>
 
-            <MarkerCategory name="soto" IsSeparator="1" DisplayName="Secrets of the Obscure"/>
+            <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
             <MarkerCategory name="arcane" DisplayName="Arcane Chests">
                 <MarkerCategory name="greater" DisplayName="Toggle Greater Arcane Chests" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Arcane Chest Greater.png"/>
             </MarkerCategory>
@@ -353,7 +353,7 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="jw" IsSeparator="1" DisplayName="Janthir Wilds"/>
+            <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS"/>
             <MarkerCategory name="kodan" DisplayName="Kodan Cache">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -394,6 +394,55 @@
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
             </MarkerCategory>
+
+            <MarkerCategory name="voe" IsSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
+            
+            <MarkerCategory name="aether" DisplayName="Aetherlocation Treasure (Unusual Coins) (WIP)">
+
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <!--                
+                <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                </MarkerCategory>
+                -->
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ss" DisplayName="Shipwreck Strand" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png" inGameVisibility="0"/>
+                <MarkerCategory name="sw" DisplayName="Starlit Weald" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png" inGameVisibility="0"/>
+                <!--
+                <MarkerCategory name="" DisplayName=""/>
+                <MarkerCategory name="" DisplayName=""/>
+                -->
+            </MarkerCategory>
+
+            <MarkerCategory name="magic" DisplayName="Magic Mirror (WIP)">
+
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="small" DisplayName="Toggle Small Chests" iconFile="Data/LadyElyssa/Images/Square - Blue.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
+                <MarkerCategory name="medium" DisplayName="Toggle Medium Chests" iconFile="Data/LadyElyssa/Images/Square - Green.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
+                <MarkerCategory name="large" DisplayName="Toggle Large Chests" iconFile="Data/LadyElyssa/Images/Square - Gold.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
+                <MarkerCategory name="mirror" DisplayName="Toggle Magic Mirror" iconFile="Data/LadyElyssa/Images/Icons/Magic Mirror.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48" inGameVisibility="0"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <!--
+                <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                </MarkerCategory>
+                -->
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ss" DisplayName="Shipwreck Strand" texture="Data/LadyElyssa/Images/trailarrow grey.png" color="BB32FF"/>
+                <MarkerCategory name="sw" DisplayName="Starlit Weald" texture="Data/LadyElyssa/Images/trailarrow grey.png" color="BB32FF"/>
+                <!--
+                <MarkerCategory name="" DisplayName=""/>
+                <MarkerCategory name="" DisplayName=""/>
+                -->
+            </MarkerCategory>
+
         </MarkerCategory>       
     </MarkerCategory>
     <!-- End of Lady Elyssa's Guides -->

@@ -3,7 +3,7 @@
         <!-- MINI DUNGEONS -->
         <MarkerCategory name="minidungeons" DisplayName="Mini-Dungeons" texture="Data/LadyElyssa/Images/trail-tiny.png" animSpeed="0.5" alpha="0.7" fadeNear="1600" fadeFar="2400">
             <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-            <MarkerCategory name="sign" DisplayName="Toggle Mini-Dungeon Name" alpha="1" mapDisplaySize="120"/>
+            <MarkerCategory name="sign" DisplayName="Toggle Mini-Dungeon Name" alpha="1" mapDisplaySize="120" inGameVisibility="0"/>
             
             <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
 
@@ -166,6 +166,14 @@
                 <MarkerCategory name="tew" DisplayName="The Echovald Wilds" color="E6E6E6"/>
             </MarkerCategory>
             <!-- End Vasburg Armory --> 
+
+
+            <MarkerCategory name="voe" IsSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
+
+            <MarkerCategory name="initiate" DisplayName="Freebooter Initiate">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ss" DisplayName="Shipwrecked Strand" color="E6E6E6"/>
+            </MarkerCategory>
 
         </MarkerCategory>
         

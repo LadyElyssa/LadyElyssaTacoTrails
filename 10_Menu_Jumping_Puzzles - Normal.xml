@@ -445,6 +445,37 @@
                     <MarkerCategory name="bn" DisplayName="Bava Nisos"/>
                 </MarkerCategory>
 
+            <!-- Visions of Eternity -->
+            <MarkerCategory name="voe" IsSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
+                <MarkerCategory name="birdie" DisplayName="Birdie Benefactor">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Birdie Benefactor.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Glider.png" minSize="12" maxSize="16" mapVisibility="0" fadNear="900" fadeFar="1200"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="sw" DisplayName="Starlit Weald"/>
+                </MarkerCategory>
+                <MarkerCategory name="magic" DisplayName="Meandering Magic">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Meandering Magic.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="sw" DisplayName="Starlit Weald"/>
+                </MarkerCategory>
+                <MarkerCategory name="orb" DisplayName="Orb Cavern">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Orb Cavern.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="ss" DisplayName="Shipwrecked Strand"/>
+                </MarkerCategory>
+                <MarkerCategory name="copse" DisplayName="Soaring Copse">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Astral Ward Researcher Harpa" iconFile="Data/LadyElyssa/Images/Talk.png" maxSize="48"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Soaring Copse.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="ss" DisplayName="Shipwrecked Strand"/>
+                </MarkerCategory>
+
             <MarkerCategory name="wvw" IsSeparator="1" DisplayName="WORLD VS. WORLD"/>
             <MarkerCategory name="mv" DisplayName="Mistwrought Vault" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>

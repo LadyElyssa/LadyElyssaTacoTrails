@@ -323,11 +323,6 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="raptor" DisplayName="Raptor Swiftwing" iconFile="Data/LadyElyssa/Images/Ranger Pets/Raptor Swiftwing.png" mapDisplaySize="32">
-                    <MarkerCategory name="voe" isSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
-                    <MarkerCategory name="sw" DisplayName="Starlit Weald"/>
-                </MarkerCategory>
-
                 <MarkerCategory name="spider" DisplayName="Spider">
                     <MarkerCategory name="black" DisplayName="Black Widow" iconFile="Data/LadyElyssa/Images/Ranger Pets/Black Widow Spider.png" mapDisplaySize="48">
                         <MarkerCategory name="far" isSeparator="1" DisplayName="FAR SHIVERPEAKS"/>
@@ -372,7 +367,7 @@
                         <MarkerCategory name="hot" isSeparator="1" DisplayName="HEART OF THORNS"/>
                         <MarkerCategory name="ab" DisplayName="Auric Basin"/>
                     </MarkerCategory>
-                    <MarkerCategory name="fanged" DisplayName="Fanged Iboga" iconFile="Data/LadyElyssa/Images/Ranger Pets/Fanged Iboga.png" mapDisplaySize="64">
+                    <MarkerCategory name="iboga" DisplayName="Fanged Iboga" iconFile="Data/LadyElyssa/Images/Ranger Pets/Fanged Iboga.png" mapDisplaySize="64">
                         <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
                         <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
                     </MarkerCategory>
@@ -387,6 +382,10 @@
                     <MarkerCategory name="gazelle" DisplayName="Rock Gazelle" iconFile="Data/LadyElyssa/Images/Ranger Pets/Rock Gazelle.png" mapDisplaySize="64">
                         <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
                         <MarkerCategory name="td" DisplayName="The Desolation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="raptor" DisplayName="Raptor Swiftwing  " iconFile="Data/LadyElyssa/Images/Ranger Pets/Raptor Swiftwing.png" mapDisplaySize="64">
+                        <MarkerCategory name="voe" isSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
+                        <MarkerCategory name="sw" DisplayName="Starlit Weald"/>
                     </MarkerCategory>
                     <MarkerCategory name="shark" DisplayName="Shark" iconFile="Data/LadyElyssa/Images/Ranger Pets/Shark.png" mapDisplaySize="64">
                         <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
