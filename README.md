@@ -158,10 +158,12 @@ It is recommended to train the Masteries in the following order:
 ## Jumping Puzzles ##
 * Core Tyria Maps
 * Memories of Lion's Arch
-* Heart of Thorns, Auric Basin
+* Heart of Thorns
 * Living World Season 2
 * Living World Season 3
-* End of Dragons, New Kaineng City
+* End of Dragons
+* Janthir Wilds
+* Visions of Eternity
 
 ## Key Farming ##  
 
@@ -216,6 +218,7 @@ Added Trails for Map Mastery Insights for:
 
 ## Mini-Dungeons ##
 * Core Maps
+* Visions of Eternity
 
 ## Map Traversal ##
 * Jackal Sand Portals
@@ -226,16 +229,16 @@ Added Trails for Map Mastery Insights for:
    * End of Dragons
 
 ## Ranger Pets ##
-* Added All Pets including:
+* Added All Pets from:
    * Core
    * Heart of Thorns
    * Path of Fire
    * End of Dragons
    * Secrets of the Obscure
    * Janthir Wilds
+   * Visions of Eternity
 
-## Rift Hunting (Work in Progress) ##
-
+## Rift Hunting ##
 * Core Maps
 * LWS1: Southsun
 * LWS2: Dry Top
@@ -246,6 +249,7 @@ Added Trails for Map Mastery Insights for:
 * End of Dragons
 * Secrets of the Obscure
 * Janthir Wilds
+* Visions of Eternity
 
 ## Vendors ##
 * PSNA - Pact Supply Network Agents
@@ -261,25 +265,13 @@ Added Trails for Map Mastery Insights for:
 ## Heart of Thorns ##
 * Adventures
    * Verdant Brink
-      * Bugs in the Branches
-      * Flying Circus
-      * Salvage Pit
-      * Shooting Gallery
-      * Tendril Torchers
+      * Bugs in the Branches - Flying Circus - Salvage Pit - Shooting Gallery - Tendril Torchers
 
    * Auric Basin
-      * A Fungus Among Us
-      * Fallen Masks
-      * On Wings of Gold
-      * Sanctum Scramble
-      * The Floor is Lava
+      * A Fungus Among Us - Fallen Masks - On Wings of Gold - Sanctum Scramble - The Floor is Lava
 
    * Tangled Depths
-      * Beetle Feast
-      * Drone Race
-      * Haywire Punch-o-Matic (Work in Progress)
-      * Scrap Rifle Field Test
-      * The Ley-Line Run
+      * Beetle Feast - Drone Race - Haywire Punch-o-Matic - Scrap Rifle Field Test - The Ley-Line Run
 
 
 ## Living World Season 3: Glint's Legacy ##
@@ -321,23 +313,24 @@ Added Trails for Map Mastery Insights for:
    * Eternal Ice Shards, including all chests and optional Raven Puzzles - starts at Jora's Keep Waypoint in Bjora Marches `[&BCcMAAA=]`
 
 ## End of Dragons ##
-* Jade Tech Zip Lines, Jade Tech Teleporters, Ancient Teleporters
+* Jade Tech Zip Lines - Jade Tech Teleporters - Ancient Teleporters
 
 ## Secrets of the Obscure ##
 Adventures
 * Skywatch Archipelago
    * Skyscale Target Practice
 * Wizard's Tower
-   * Fly by Night
-   * Gauntlet Challenge / Wizard's Trial
-   * Skyscale Target Practice
-* Amnytas
-   * Supply Run
-   * Skyscale Target Practice
+   * Fly by Night - Gauntlet Challenge / Wizard's Trial - Skyscale Target Practice - Amnytas
+   * Supply Run - Skyscale Target Practice
 * Inner Nayos
-   * Free Kryptis Essence
-   * Reuniting Lost Kryptis
-   * Skyscale Target Practice
+   * Free Kryptis Essence - Reuniting Lost Kryptis - Skyscale Target Practice
+
+## Visions of Eternity ##
+Adventures
+* Shipwreck Strand
+   * Flying Fireworks - Glimmering Arches Grand Prix - Skimmer-Net Scramble
+* Skylit Weald (Work in Progress)
+   * Seer Magic - The Great Choya Race
 
 ### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
