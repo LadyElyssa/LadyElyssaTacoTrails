@@ -119,7 +119,6 @@
         <POI MapID="1452" xpos="1124.41" ypos="30.4975" zpos="-151.442"     type="legs.minidungeons.valdhertz.hot.4" GUID="78WvcnFqE0yZewVK48gglg=="/>
         <POI MapID="1452" xpos="1128.67" ypos="31.5524" zpos="-188.933"     type="legs.minidungeons.valdhertz.hot.5" GUID="fBNwjzWFwk2RkoxpCHixfw=="/>
 
-
         <!-- Vasburg Armory -->
         <Trail type="legs.minidungeons.vasburg.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Vasburg Armory 1.trl"/>
         <Trail type="legs.minidungeons.vasburg.tew" trailData="Data/LadyElyssa/Mini Dungeons/EoD/Vasburg Armory 2.trl"/>
@@ -137,6 +136,11 @@
         <Trail type="legs.mds.magellansmemento.frostgorge" trailData="Data/LadyElyssa/Mini Dungeons - Shortcut/Magellan's Memento.trl"/>
         <Trail type="legs.mds.oola.metrica" trailData="Data/LadyElyssa/Mini Dungeons - Shortcut/Old Oola Lab.trl"/>
         <Trail type="legs.mds.windycave.lornars" trailData="Data/LadyElyssa/Mini Dungeons - Shortcut/Windy Cave Treasure.trl"/>
+
+        <!-- VISIONS OF ETERNITY -->
+
+        <Trail type="legs.minidungeons.initiate.ss" trailData="Data/LadyElyssa/Mini Dungeons/VoE/Freebooter Initiate.trl"/>
+        <POI MapID="1595" xpos="-557.768" ypos="7.89587" zpos="-78.8434" type="legs.minidungeons.sign" GUID="lGvvStxKLUayZiHEXXauRQ==" iconFile="Data/LadyElyssa/Images/Mini Dungeons/Freebooter Initiate.png"/>
 
     </POIs>
 </OverlayData>
