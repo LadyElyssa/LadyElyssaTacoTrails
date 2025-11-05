@@ -357,7 +357,7 @@
         <POI MapID="34" xpos="-171.236" ypos="4.81883" zpos="-1005.97" type="legs.festivals.halloween.pumpkin.caledon.number.1" GUID="nFydk6qyTEGmmofCCzL5Pg=="/>
         <POI MapID="34" xpos="-242.1857" ypos="44.26471" zpos="-713.2881" type="legs.festivals.halloween.pumpkin.caledon.number.2" GUID="LMJXS8oq0UmpnoS+zqEAEQ=="/>
         <POI MapID="34" xpos="3.64561" ypos="18.5473" zpos="-656.548" type="legs.festivals.halloween.pumpkin.caledon.number.3" GUID="o/8QIttiNkCt2RlaImy5Yw=="/>
-        <POI MapID="34" xpos="312.811" ypos="27.6291" zpos="-877.766" type="legs.festivals.halloween.pumpkin.caledon.number.4" GUID="CmRSAaf22US9dHEYFov9mQ=="/>
+        <POI MapID="34" xpos="313.0526" ypos="27.66883" zpos="-876.4678" type="legs.festivals.halloween.pumpkin.caledon.number.4" GUID="CmRSAaf22US9dHEYFov9mQ=="/>
         <POI MapID="34" xpos="431.791" ypos="14.5432" zpos="-647.039" type="legs.festivals.halloween.pumpkin.caledon.number.5" GUID="12vhQvpuS0qY1zR3Ao+lBQ=="/>
         <POI MapID="34" xpos="432.667" ypos="13.2467" zpos="-640.653" type="legs.festivals.halloween.pumpkin.caledon.number.6" GUID="uQTwhWP2mUWnSHQFPAKIcQ=="/>
         <POI MapID="34" xpos="452.388" ypos="20.7065" zpos="-245.118" type="legs.festivals.halloween.pumpkin.caledon.number.7" GUID="LIbYnwa+Zkmrtuzu4V+SXA=="/>
@@ -602,6 +602,7 @@
         
         
         <!-- Pumpkins - Wayfarer Foothills -->
+        <Trail type="legs.festivals.halloween.pumpkin.wayfarer" trailData="Data/LadyElyssa/Festivals/Halloween/Pumpkins - Wayfarer Alt.trl" texture="Data/LadyElyssa/Images/Candy Gradient BW.png"/>
         <Trail type="legs.festivals.halloween.pumpkin.wayfarer" trailData="Data/LadyElyssa/Festivals/Halloween/Pumpkins - Wayfarer.trl"/>
         <POI MapID="28" xpos="-188.796" ypos="96.1065" zpos="-603.273" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="FCteeoJWU0GbT06SBGPDUw=="/>
         <POI MapID="28" xpos="-233.641" ypos="99.6201" zpos="-576.513" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="4b1leNoCdUm8QV6O4gYa8A=="/>
@@ -629,7 +630,7 @@
         <POI MapID="28" xpos="-167.496" ypos="97.814" zpos="489.545" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="g7oP0drMAUyhiViTRAVXeQ=="/>
         <POI MapID="28" xpos="-398.488" ypos="96.6535" zpos="426.525" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="+8T4e40KEEmsjlukwWg9Uw=="/>
         <POI MapID="28" xpos="-19.772" ypos="92.386" zpos="569.961" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="K8zTfWk6xUKnQuw/tR7m+g=="/>
-        <POI MapID="28" xpos="-173.796" ypos="123.016" zpos="820.82" type="legs.festivals.halloween.pumpkin.wayfarer.mount.springer" GUID="4x5Jy1oM30C0VdlxSDLYrQ=="/>
+        <POI MapID="28" xpos="-173.784" ypos="123.0626" zpos="820.622" type="legs.festivals.halloween.pumpkin.wayfarer.mount.springer" GUID="4x5Jy1oM30C0VdlxSDLYrQ=="/>
         <POI MapID="28" xpos="-180.127" ypos="146.546" zpos="820.532" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="jYzokDuIEEyqUsB7yFQ4pA=="/>
         <POI MapID="28" xpos="73.5439" ypos="118.037" zpos="921.777" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="uq3ZMKErYEGOtFeZXz0+sw=="/>
         <POI MapID="28" xpos="53.3033" ypos="189.229" zpos="1162.02" type="legs.festivals.halloween.pumpkin.wayfarer.pumpkin" GUID="SqFbkNyVJUGoJdf3xomxrw=="/>
@@ -672,8 +673,10 @@
         <POI MapID="28" xpos="-398.438" ypos="96.6657" zpos="426.553" type="legs.festivals.halloween.pumpkin.wayfarer.wp" GUID="PYy0VMLL0EuIYCw33xgm0w==" copy="[&BHgBAAA=]" copy-message="Halvaunt Waypoint"/>
         <POI MapID="28" xpos="-19.8326" ypos="92.4232" zpos="569.667" type="legs.festivals.halloween.pumpkin.wayfarer.wp" GUID="alrcADg0P0i7V58q9r5AtQ==" copy="[&BMEDAAA=]" copy-message="Lostvyrm Cave Waypoint"/>
         <POI MapID="28" xpos="262.038" ypos="75.634" zpos="807.366" type="legs.festivals.halloween.pumpkin.wayfarer.wp" GUID="YrYF0Kiw30C8dn+nYPUvXA==" copy="[&BMEDAAA=]" copy-message="Lostvyrm Cave Waypoint"/>
-        <POI MapID="28" xpos="73.5376" ypos="118.011" zpos="921.877" type="legs.festivals.halloween.pumpkin.wayfarer.wp" GUID="evvMJNIVdkaWOVAjAK+azg==" copy="[&BHsBAAA=]" copy-message="Dolyak Pass Waypoint"/>
+        <POI MapID="28" xpos="73.5376" ypos="118.011" zpos="921.877" type="legs.festivals.halloween.pumpkin.wayfarer.wp" GUID="evvMJNIVdkaWOVAjAK+azg==" copy="[&BHkBAAA=]" copy-message="Crossroads Haven Waypoint"/>
+        <POI MapID="28" xpos="-179.9502" ypos="146.4494" zpos="820.7827" type="legs.festivals.halloween.pumpkin.wayfarer.wp" GUID="CPWuU4/FE0G+84+bAjzUTA==" copy="[&BHsBAAA=]" copy-message="Dolyak Pass Waypoint"/>
         <POI MapID="28" xpos="395.672" ypos="129.021" zpos="948.096" type="legs.festivals.halloween.pumpkin.wayfarer.wp" GUID="pDqz5pJlWE6bd01BhFuQDA==" copy="[&BHwBAAA=]" copy-message="Solitude Waypoint"/>
+        <POI MapID="28" xpos="-178.039" ypos="121.675" zpos="836.04" type="legs.festivals.halloween.pumpkin.wayfarer.mount.springer" GUID="jgn2N0DNf0eMgN2jOgdy8w=="/>
         <!-- Halloween - Labyrinth -->
         <Trail type="legs.festivals.halloween.labyrinth.main" trailData="Data/LadyElyssa/Festivals/Halloween/Mad King's Labyrinth.trl"/>
         <Trail type="legs.festivals.halloween.labyrinth.alt" trailData="Data/LadyElyssa/Festivals/Halloween/Mad King's Labyrinth Alt.trl"/>
