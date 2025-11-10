@@ -401,7 +401,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="jbglider" DisplayName="Jade Bot Glide Booster" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" maxSize="128" iconSize="0.5"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/EoD/Trials of the Tengu.png"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="seitung" DisplayName="Seitung Province"/>
                 </MarkerCategory>
@@ -409,7 +409,7 @@
                 <MarkerCategory name="wind" DisplayName="Wind through the Walls">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="jbglider" DisplayName="Jade Bot Glide Booster Shortcut" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" maxSize="128" iconSize="0.5"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/EoD/Wind Through the Walls.png"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="kaineng" DisplayName="New Kaineng City" fadeNear="1200" FadeFar="2000"/>
                 </MarkerCategory>
