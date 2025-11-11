@@ -18,12 +18,9 @@ __NOTE:__ When a Waypoint is shown on screen, it is also being copied to your cl
 This pack currently contains trails for:
 
 ## Chest Run ##
-   * Empyreal Fragments - starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
-      * Ascalon
-      * Kryta
-      * Maguuma Jungle
-      * Ruins of Orr
-      * Shiverpeak Mountains
+   * Empyreal Fragments
+      * starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
+      * Ascalon, Kryta, Maguuma Jungle, Ruins of Orr, Shiverpeak Mountains
    * Heart of Thorns Chests
       * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
@@ -32,34 +29,15 @@ This pack currently contains trails for:
    * Foraging, Lumberer, Mining and Vista's
 
 ## Events ##
-* Casino Blitz
-* Piñata
-* R.I.B.A.
-* Treasure Mushroom
+* Casino Blitz - Piñata - R.I.B.A. - Treasure Mushroom
 
 ## Festivals ##
    * Lunar New Year (Late January to early February)
-      * Mount Race & Foot Race
-      * Firecracker Adventures
    * Super Adventure Box (Late March to mid April)
-      * Hub Race
-      * World 1 Zones 1, 2 & 3
-      * World 2 Zones 1, 2 & 3
-      * World 3 Zone 1 / Test Zone
    * Dragon Bash (June)
-      * Fireworks
-      * Dragon Pinatas
-      * Pinata Bashing Adventure
    * Festival of the Four Winds (Late July to early August)
-      * Flying Dolyak Race
-      * Treasure Hunt
-      * Quartz Crystals
    * Halloween (Mid October to early Novenmber_
-      * Mad King's Labyrinth - Trails and Pumpkin locations
-      * Pumpkin Carving in Lions Arch and ALL starter zones
    * Wintersday (Mid December to early January)
-     * Mount Race and Foot Race
-     * Orphans for Karma
 
 ## Gathering ##
 
@@ -116,9 +94,7 @@ Wood
       * Fields of Ruin from Forlorn Gate Waypoint `[&BFABAAA=]`   
 
 ## Guild Missions ##
-   * Bounty
-   * Rush / Race
-   * Trek
+   * Bounty, Rush / Race, Trek
 
 ## Hero Point Runs ##
 
@@ -193,7 +169,6 @@ See [Map Completion Route and Further Information](https://github.com/LadyElyssa
 * A set of Trails for collecting just the Waypoints on every core map has also been included
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
-* Ruins of Orr (Straits of Devastation, Malchor's Leap, Cursed Shore)
 * Heart of Thorns (HoT) - excluding Dragon Stand
 * Path of Fire (PoF)
 * End of Dragons (EoD)
@@ -201,11 +176,7 @@ See [Map Completion Route and Further Information](https://github.com/LadyElyssa
 
 ## Map Mastery Insights ##
 Added Trails for Map Mastery Insights for:
-* Core Maps
-* HoT
-* PoF
-* EoD
-* SotO
+* Core Maps - HoT - PoF - EoD - SotO
 
 ## Map Enhancements ##
 * Added Jade Bot Terminal locations in Cities
@@ -225,31 +196,13 @@ Added Trails for Map Mastery Insights for:
 
 ## Ranger Pets ##
 * Added All Pets from:
-   * Core
-   * Heart of Thorns
-   * Path of Fire
-   * End of Dragons
-   * Secrets of the Obscure
-   * Janthir Wilds
-   * Visions of Eternity
+   * Core - Heart of Thorns - Path of Fire - End of Dragons - Secrets of the Obscure - Janthir Wilds - Visions of Eternity
 
 ## Rift Hunting ##
-* Core Maps
-* LWS1: Southsun
-* LWS2: Dry Top
-* Heart of Thorns
-* LWS3
-* Path of Fire
-* LWS4
-* End of Dragons
-* Secrets of the Obscure
-* Janthir Wilds
-* Visions of Eternity
+* Core Maps - LWS1: Southsun - LWS2: Dry Top - Heart of Thorns - LWS3 - Path of Fire - LWS4 - End of Dragons - Secrets of the Obscure - Janthir Wilds - Visions of Eternity
 
 ## Vendors ##
-* PSNA - Pact Supply Network Agents
-* Priory Historian Elisa (Work in Progress)
-* Sous-Chef Seimur Oxbone
+* PSNA - Pact Supply Network Agents - Priory Historian Elisa - Sous-Chef Seimur Oxbone
 
 ## World Bosses ##
 * All core map world bosses including Pre-Event locations
