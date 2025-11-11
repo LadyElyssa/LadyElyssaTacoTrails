@@ -1,8 +1,3 @@
-## ArenaNet Partner ##
-You can Buy Guild Wars 2 using these links:
-* BUY Guild Wars 2 Expansion: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
-* Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
-  
 ## Lady Elyssa's TacO Trail Guides ##
 A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_2800+ Trails_** and **_17,000+ Markers_** [[1]](https://mp-repo.blishhud.com/LadyElyssa.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/)
 
@@ -332,10 +327,17 @@ Adventures
 * Skylit Weald (Work in Progress)
    * Seer Magic - The Great Choya Race
 
-### Want to know more? ### 
-* [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
- 
 ### Latest Pack Direct Download Link: ###
 * [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaTacoTrails/releases/latest/download/LadyElyssa.taco)
+
+### Want to know more? ### 
+* GW2 :: Lady Elyssa.2469
+* Discord :: [https://discord.gg/XwAqz6jCdv](https://discord.gg/XwAqz6jCdv)
+* GW2 Wiki :: [https://wiki.guildwars2.com/wiki/User:Lady_Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
  
+### ArenaNet Partner ###
+You can Buy Guild Wars 2 using these links:
+* BUY Guild Wars 2 Expansion: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
+* Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
+
 <img width="300" height="60" alt="image" src="https://github.com/user-attachments/assets/dac2cf8d-5162-44c2-af97-bad05aaf91cc" />
