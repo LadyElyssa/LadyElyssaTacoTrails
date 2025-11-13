@@ -1,3 +1,9 @@
+## Contact ##
+* GW2 :: Lady Elyssa.2469
+* GW2 Wiki  :: [https://wiki.guildwars2.com/wiki/User:Lady_Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
+* Lady Elyssa's Discord :: [https://discord.gg/XwAqz6jCdv](https://discord.gg/XwAqz6jCdv)
+* GW2 Marker-mancy Discord courtesy of Metallis (MMM) :: [https://discord.gg/p6Ec9q6P8z](https://discord.gg/p6Ec9q6P8z)
+
 ## Lady Elyssa's TacO Trail Guides ##
 A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_2800+ Trails_** and **_17,000+ Markers_** [[1]](https://mp-repo.blishhud.com/LadyElyssa.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/)
 
