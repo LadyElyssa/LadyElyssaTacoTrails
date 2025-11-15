@@ -1,0 +1,15 @@
+<OverlayData>
+    <POIs>
+        <!-- MAP COMPLETION - VoE -->
+
+        <!-- Shipwreck Strand -->
+        <Trail type="legs.map.voe.ss" trailData="Data/LadyElyssa/Map Completion/VoE/Shipwreck Strand.trl" color="00FFFF"/>
+        <Trail type="legs.map.voe.sw" trailData="Data/LadyElyssa/Map Completion/VoE/Starlit Weald 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.voe.sw" trailData="Data/LadyElyssa/Map Completion/VoE/Starlit Weald 2.trl" color="00FFFF"/>
+        <POI MapID="1593" xpos="854.386" ypos="1.64794" zpos="-379.777" type="legs.map.voe.sw.start" GUID="kWG2PLtMGU+d0p+EfNEHkw=="/>
+        <POI MapID="1593" xpos="850.578" ypos="1.33342" zpos="-374.414" type="legs.map.voe.sw.trail.1" GUID="t27wNqPHwUuamzw8A1ihCw=="/>
+        <POI MapID="1593" xpos="-78.4018" ypos="5.67695" zpos="369.821" type="legs.map.voe.sw.trail.2" GUID="sEtzLpyD90uumtnAgW0NvA==" info="REQUIRES EVENT: Lost Basilica with Isgarren" infoRange="5"/>
+        
+                
+    </POIs>
+</OverlayData>
