@@ -2,7 +2,7 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP COMPLETION -->
         <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10">
-            <MarkerCategory name="lws2" DisplayName="SEASON 2">
+            <MarkerCategory name="lws2" DisplayName="Season 2">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="drytop" DisplayName="Dry Top">
                     <MarkerCategory name="barefoot" DisplayName="Barefoot, No Mounts" texture="Data/LadyElyssa/Images/trailarrow-small.png">
