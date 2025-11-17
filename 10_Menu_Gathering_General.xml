@@ -1,5 +1,5 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="gathering" DisplayName="Gathering">
             <!-- General Gathering -->
             <MarkerCategory name="general" DisplayName="General">
@@ -98,7 +98,7 @@
                     <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="FFD700"/>
                 </MarkerCategory>
                 <!-- Rich Iron -->
-                <MarkerCategory name="richiron" DisplayName="Rich Iron" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
+                <MarkerCategory name="richiron" DisplayName="Rich Iron" texture="Data/LadyElyssa/Images/trailarrow b&amp;w.png">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
@@ -204,7 +204,7 @@
                 
             </MarkerCategory>
             <!-- Rich Mithril -->
-            <MarkerCategory name="richmithril" DisplayName="Rich Mithril" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
+            <MarkerCategory name="richmithril" DisplayName="Rich Mithril" texture="Data/LadyElyssa/Images/trailarrow b&amp;w.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
@@ -261,7 +261,7 @@
                 <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi" color="00BFFF"/>
             </MarkerCategory>
             <!-- Rich Orichalcum -->
-            <MarkerCategory name="richorich" DisplayName="Rich Orichalcum" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
+            <MarkerCategory name="richorich" DisplayName="Rich Orichalcum" texture="Data/LadyElyssa/Images/trailarrow b&amp;w.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
@@ -359,7 +359,7 @@
                 -->
             </MarkerCategory>
 
-            <MarkerCategory name="crocus" DisplayName="Black Crocus (Saffron)" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
+            <MarkerCategory name="crocus" DisplayName="Black Crocus (Saffron)" texture="Data/LadyElyssa/Images/trailarrow b&amp;w.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
@@ -587,7 +587,7 @@
                 -->
             </MarkerCategory>
 
-            <MarkerCategory name="mussels" DisplayName="Mussels" texture="Data/LadyElyssa/Images/trailarrow b&w.png">
+            <MarkerCategory name="mussels" DisplayName="Mussels" texture="Data/LadyElyssa/Images/trailarrow b&amp;w.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
