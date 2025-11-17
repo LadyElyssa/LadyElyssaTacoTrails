@@ -24,14 +24,12 @@ __NOTE:__ When a Waypoint is shown on screen, it is also being copied to your cl
 This pack currently contains trails for:
 
 ## Chest Run ##
-* Empyreal Fragments
-   * starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
-   * Ascalon, Kryta, Maguuma Jungle, Ruins of Orr, Shiverpeak Mountains
-* Heart of Thorns Chests
-   * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
-   * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
-* Visions of Eternity (WIP until final two maps added)
-   * Magic Mirrors in Shipwreck Strand and Starlit Weald
+   * Empyreal Fragments
+      * starts at Akk Wilds Waypoint in Metrica Province `[&BEIAAAA=]`
+      * Ascalon, Kryta, Maguuma Jungle, Ruins of Orr, Shiverpeak Mountains
+   * Heart of Thorns Chests
+      * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
+      * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
 
 ## Easy Dailies ##
    * Foraging, Lumberer, Mining and Vista's
