@@ -23,18 +23,18 @@
         <POI MapID="19" xpos="-1114.38" ypos="59.2539" zpos="173.19" type="legs.keys.charr.city.sign" GUID="3mvS3sEnSUaNS7X1pdD8+Q=="/>
         <POI MapID="218" xpos="416.744" ypos="131.65" zpos="223.361" type="legs.keys.charr.bank.sign" GUID="IM+RwxvJdUSKYj5WL2Elcw=="/>
         <Trail type="legs.keys.charr.bank.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/To the Bank Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <POI MapID="218" xpos="141.771" ypos="139.981" zpos="412.046" type="legs.keys.charr10.legion.wp" GUID="fOoOL//fnUWEwHn2qbWoCw==" copy="[&BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
-        <POI MapID="218" xpos="138.11" ypos="144.946" zpos="533.604" type="legs.keys.charr10.legion.wp" GUID="HNN43ct0ZESawSVNCuL5vw==" copy="[&BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
+        <POI MapID="218" xpos="141.771" ypos="139.981" zpos="412.046" type="legs.keys.charr10.legion.wp" GUID="fOoOL//fnUWEwHn2qbWoCw==" copy="[\&amp;BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
+        <POI MapID="218" xpos="138.11" ypos="144.946" zpos="533.604" type="legs.keys.charr10.legion.wp" GUID="HNN43ct0ZESawSVNCuL5vw==" copy="[\&amp;BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
         <!-- Chapter 1 - Lvl 10 - Mentor -->
         <!-- Chain of Command -->
         <Trail type="legs.keys.charr10.legion.command.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Chain of Command 1.trl"/>
         <Trail type="legs.keys.charr10.legion.command.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Chain of Command 2 Instance.trl"/>
         <POI MapID="218" xpos="391.668" ypos="132.635" zpos="216.068" type="legs.keys.charr10.legion.command.sign" GUID="gMHI4SSTfkuWqb4eRuDK+Q==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 1 - Mentor/Charr/Legion/Chain of Command.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="262" xpos="290.422" ypos="129.621" zpos="447.275" type="legs.keys.charr10.legion.command.wp" GUID="Eqf6dsRpNkWmxiit4YWmEA==" copy="[&BIABAAA=]" copy-message="Smokestead Waypoint"/>
+        <POI MapID="262" xpos="290.422" ypos="129.621" zpos="447.275" type="legs.keys.charr10.legion.command.wp" GUID="Eqf6dsRpNkWmxiit4YWmEA==" copy="[\&amp;BIABAAA=]" copy-message="Smokestead Waypoint"/>
         <POI MapID="19" xpos="-1078.27" ypos="51.6736" zpos="236.636" type="legs.keys.charr10.legion.command.sign" GUID="kL7SQG4hCkeEQ6xFoEkJHw=="/>
         <Trail type="legs.keys.charr10.legion.command.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Chain of Command 3.trl"/>
         <Trail type="legs.keys.charr10.legion.command.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Chain of Command 4 Instance.trl"/>
-        <POI MapID="263" xpos="-1154.55" ypos="55.7022" zpos="500.38" type="legs.keys.charr10.legion.promotion.wp" GUID="l3yEV8yVPUmWNWyGB8sutw==" copy="[&BKsDAAA=]" copy-message="Hero's Waypoint"/>
+        <POI MapID="263" xpos="-1154.55" ypos="55.7022" zpos="500.38" type="legs.keys.charr10.legion.promotion.wp" GUID="l3yEV8yVPUmWNWyGB8sutw==" copy="[\&amp;BKsDAAA=]" copy-message="Hero's Waypoint"/>
         <!-- Time for a Promotion -->
         <Trail type="legs.keys.charr10.legion.promotion.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Time for a Promotion 1.trl"/>
         <Trail type="legs.keys.charr10.legion.promotion.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Time for a Promotion 2 Instance.trl"/>
@@ -43,67 +43,67 @@
         <POI MapID="264" xpos="-68.1474" ypos="0.761989" zpos="216.908" type="legs.keys.charr10.legion.promotion.choice" GUID="FC1+0z6hE0KwF7OJhIfBNQ==" info="After defeating Legionnaire Urvan Steelbane.&#xA;&#xA;2. You make me sick, you nauseating little whiner. Crawl away and take your shame with you." infoRange="5"/>
         <Trail type="legs.keys.charr10.legion.promotion.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Time for a Promotion 2b Instance.trl"/>
         <POI MapID="264" xpos="-58.2759" ypos="0.761989" zpos="187.766" type="legs.keys.charr10.legion.promotion.choice" GUID="3ZRkVPIhq0i8pqlhYSAK/A==" info="Tell me more about Fyon the Wraith, sir?&#xA;&#xA;   > I'm Ready to choose.&#xA;&#xA;      > Fyon the Wraith" infoRange="5"/>
-        <POI MapID="264" xpos="-58.2759" ypos="0.761989" zpos="187.766" type="legs.keys.charr10.legion.promotion.wp" GUID="hP/ZAv17rU+L6hi+di2omA==" copy="[&BIABAAA=]" copy-message="Smokestead Waypoint"/>
+        <POI MapID="264" xpos="-58.2759" ypos="0.761989" zpos="187.766" type="legs.keys.charr10.legion.promotion.wp" GUID="hP/ZAv17rU+L6hi+di2omA==" copy="[\&amp;BIABAAA=]" copy-message="Smokestead Waypoint"/>
         <!-- End of the Line -->
         <Trail type="legs.keys.charr10.legion.line.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/The End of the Line 1.trl"/>
         <Trail type="legs.keys.charr10.legion.line.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/The End of the Line 2 Instance.trl"/>
         <POI MapID="19" xpos="-1075.85" ypos="51.6721" zpos="233" type="legs.keys.charr10.legion.line.sign" GUID="aTAmFXjp0Ee+HVnK6DoIwQ=="/>
-        <POI MapID="267" xpos="-1076.64" ypos="33.9597" zpos="-319.603" type="legs.keys.charr10.legion.line.wp" GUID="Rp6C6MDq10KBlyQLt3P52g==" copy="[&BKsDAAA=]" copy-message="Hero's Waypoint"/>
+        <POI MapID="267" xpos="-1076.64" ypos="33.9597" zpos="-319.603" type="legs.keys.charr10.legion.line.wp" GUID="Rp6C6MDq10KBlyQLt3P52g==" copy="[\&amp;BKsDAAA=]" copy-message="Hero's Waypoint"/>
         <!-- Rage Suppression -->
         <POI MapID="19" xpos="-1078.76" ypos="51.6729" zpos="233.425" type="legs.keys.charr10.legion.rage.sign" GUID="H+yYCnsHqUSDOU99+0j2iw=="/>
         <Trail type="legs.keys.charr10.legion.rage.instance" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Rage Suppression 1.trl"/>
         <Trail type="legs.keys.charr10.legion.rage.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Rage Suppression 2 Instance.trl"/>
-        <POI MapID="271" xpos="-17.6174" ypos="217.525" zpos="180.273" type="legs.keys.charr10.legion.rage.wp" GUID="SUWU4Xt0wUSIXd6s1iRipw==" copy="[&BIABAAA=]" copy-message="Smokestead Waypoint"/>
+        <POI MapID="271" xpos="-17.6174" ypos="217.525" zpos="180.273" type="legs.keys.charr10.legion.rage.wp" GUID="SUWU4Xt0wUSIXd6s1iRipw==" copy="[\&amp;BIABAAA=]" copy-message="Smokestead Waypoint"/>
         <Trail type="legs.keys.charr10.legion.rage.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Rage Suppression 3.trl"/>
         <Trail type="legs.keys.charr10.legion.rage.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Rage Suppression 4 Instance.trl"/>
-        <POI MapID="272" xpos="-828.15" ypos="47.7068" zpos="251.678" type="legs.keys.charr10.legion.rage.wp" GUID="FabiVBUiIEux7EqaTESJTw==" copy="[&BH8BAAA=]" copy-message="Vir's Gate Waypoint"/>
+        <POI MapID="272" xpos="-828.15" ypos="47.7068" zpos="251.678" type="legs.keys.charr10.legion.rage.wp" GUID="FabiVBUiIEux7EqaTESJTw==" copy="[\&amp;BH8BAAA=]" copy-message="Vir's Gate Waypoint"/>
         <!-- Operation Bulwark -->
         <Trail type="legs.keys.charr10.legion.bulwark.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Operation Bulwark 1.trl"/>
         <Trail type="legs.keys.charr10.legion.bulwark.trail" trailData="Data/LadyElyssa/Key Run/Chapter 1 - Mentor/Charr/Blood Legion/Operation Bulwark 2 Instance.trl"/>
         <POI MapID="218" xpos="168.956" ypos="167.631" zpos="256.213" type="legs.keys.charr10.legion.rage.sign" GUID="eGsl0IO3t0SwjLWO3O9X/g=="/>
         <POI MapID="19" xpos="-866.276" ypos="45.8046" zpos="-31.3853" type="legs.keys.charr10.legion.bulwark.sign" GUID="dt0Dp5HS8k6E1t64q6eUsg=="/>
-        <POI MapID="274" xpos="-298.334" ypos="37.7909" zpos="273.86" type="legs.keys.charr10.legion.bulwark.wp" GUID="cJqg0QVpC06tRahFeV17hQ==" copy="[&BK0DAAA=]" copy-message="Imperator's Waypoint"/>
+        <POI MapID="274" xpos="-298.334" ypos="37.7909" zpos="273.86" type="legs.keys.charr10.legion.bulwark.wp" GUID="cJqg0QVpC06tRahFeV17hQ==" copy="[\&amp;BK0DAAA=]" copy-message="Imperator's Waypoint"/>
         <!-- Chapter 2 - lvl 20 - Shadows of the Past -->
         <POI MapID="218" xpos="2.4769" ypos="214.09" zpos="202.372" type="legs.keys.charr20.shaman.sign" GUID="jgAdg8ZfFEKjju2BOb9G0A==" iconFile="Data/LadyElyssa/Images/Key Run/Charr/Rytlock's Office.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.charr20.shaman.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Rytlock's Office.trl"/>
         <!-- Searching for the Truth -->
         <Trail type="legs.keys.charr20.truth.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Searching for the Truth 1 Instance.trl"/>
-        <POI MapID="287" xpos="-18.3463" ypos="217.644" zpos="177.78" type="legs.keys.charr20.truth.wp" GUID="P4uT5I711kC4Fy1kAf1kEA==" copy="[&BH8BAAA=]" copy-message="Vir's Gate Waypoint"/>
+        <POI MapID="287" xpos="-18.3463" ypos="217.644" zpos="177.78" type="legs.keys.charr20.truth.wp" GUID="P4uT5I711kC4Fy1kAf1kEA==" copy="[\&amp;BH8BAAA=]" copy-message="Vir's Gate Waypoint"/>
         <POI MapID="218" xpos="168.224" ypos="167.931" zpos="257.795" type="legs.keys.charr20.truth.sign" GUID="O69daGFDokmlUENNLqxPrA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Stockade.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <Trail type="legs.keys.charr20.truth.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Searching for the Truth 2.trl"/>
         <Trail type="legs.keys.charr20.truth.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Searching for the Truth 3 Instance.trl"/>
         <POI MapID="19" xpos="-865.062" ypos="46.1194" zpos="-35.465" type="legs.keys.charr20.truth.sign" GUID="vYtRKXqH7kOSQ7i+CmxkEQ=="/>
-        <POI MapID="797" xpos="412.324" ypos="73.3919" zpos="518.123" type="legs.keys.charr20.shaman.wp" GUID="NuUFS0kwtEmklHbnEdifvg==" copy="[&BKsDAAA=]" copy-message="Hero's Waypoint"/>
+        <POI MapID="797" xpos="412.324" ypos="73.3919" zpos="518.123" type="legs.keys.charr20.shaman.wp" GUID="NuUFS0kwtEmklHbnEdifvg==" copy="[\&amp;BKsDAAA=]" copy-message="Hero's Waypoint"/>
         <POI MapID="19" xpos="324.64" ypos="34.2893" zpos="329.319" type="legs.keys.charr20.flame.sign" GUID="tEvNqk6mukKthtaQNGFgPg=="/>
         <Trail type="legs.keys.charr20.truth.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Searching for the Truth 4.trl"/>
         <Trail type="legs.keys.charr20.truth.instance" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Searching for the Truth 5 Instance.trl"/>
-        <POI MapID="288" xpos="33.6938" ypos="159.751" zpos="205.856" type="legs.keys.charr20.truth.wp" GUID="XZ3+H84i6kSz3GWlVt4MQA==" copy="[&BIYBAAA=]" copy-message="Ascalonian Catacombs Waypoint"/>
+        <POI MapID="288" xpos="33.6938" ypos="159.751" zpos="205.856" type="legs.keys.charr20.truth.wp" GUID="XZ3+H84i6kSz3GWlVt4MQA==" copy="[\&amp;BIYBAAA=]" copy-message="Ascalonian Catacombs Waypoint"/>
         <!-- Stoking the Flame -->
         <Trail type="legs.keys.charr20.flame.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Stoking the Flame 1.trl"/>
         <Trail type="legs.keys.charr20.flame.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Stoking the Flame 2 Instance.trl"/>
-        <POI MapID="290" xpos="767.184" ypos="1.22122" zpos="90.9104" type="legs.keys.charr20.flame.wp" GUID="OkYw55TUTUaJtAHDyX13TQ==" copy="[&BKsDAAA=]" copy-message="Hero's Waypoint"/>
+        <POI MapID="290" xpos="767.184" ypos="1.22122" zpos="90.9104" type="legs.keys.charr20.flame.wp" GUID="OkYw55TUTUaJtAHDyX13TQ==" copy="[\&amp;BKsDAAA=]" copy-message="Hero's Waypoint"/>
         <!-- A Fork in the Road -->
         <Trail type="legs.keys.charr20.fork.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/A Fork in the Road 1 Instance.trl"/>
-        <POI MapID="459" xpos="38.8153" ypos="159.718" zpos="211.206" type="legs.keys.charr20.fork.wp" GUID="iMUHSYkrGkOfgl8R3GcaUQ==" copy="[&BKcDAAA=]" copy-message="Factorium Waypoint"/>
+        <POI MapID="459" xpos="38.8153" ypos="159.718" zpos="211.206" type="legs.keys.charr20.fork.wp" GUID="iMUHSYkrGkOfgl8R3GcaUQ==" copy="[\&amp;BKcDAAA=]" copy-message="Factorium Waypoint"/>
         <Trail type="legs.keys.charr20.fork.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/A Fork in the Road 2.trl"/>
         <POI MapID="218" xpos="174.931" ypos="140.648" zpos="442.069" type="legs.keys.charr20.fork.sign" GUID="aAaj/cZKXUOl+QsGRrBzdg=="/>
         <Trail type="legs.keys.charr20.fork.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/A Fork in the Road 3.trl"/>
         <POI MapID="32" xpos="-764.502" ypos="45.2251" zpos="-626.712" type="legs.keys.charr20.fork.sign" GUID="Tqe3x567REWX2nXUZ/LgCg=="/>
         <Trail type="legs.keys.charr20.fork.trail" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/A Fork in the Road 4 Instance.trl"/>
-        <POI MapID="294" xpos="-928.169" ypos="73.3972" zpos="-149.168" type="legs.keys.charr20.fork.wp" GUID="C1rOt2O+3ESzMdbgD2DvsQ==" copy="[&BKsDAAA=]" copy-message="Hero's Waypoint"/>
+        <POI MapID="294" xpos="-928.169" ypos="73.3972" zpos="-149.168" type="legs.keys.charr20.fork.wp" GUID="C1rOt2O+3ESzMdbgD2DvsQ==" copy="[\&amp;BKsDAAA=]" copy-message="Hero's Waypoint"/>
         <POI MapID="294" xpos="-928.169" ypos="75.3972" zpos="-149.168" type="legs.keys.charr20.fork.choice" GUID="xcmnW8Vsh0awnjpSHBYXag==" info="SENECA THE RELENTLESS&#xA;&#xA;You can't trust him. Come on, let's get back to the citadel and warn the tribunes.&#xA;&#xA;   > Agreed. I won't risk the citadel on his word. I'll be there.&#xA;&#xA;      > Let's go protect the brass." infoRange="3"/>
         <!-- Tribunes in Effigy -->
         <Trail type="legs.keys.charr20.effigy.instance" trailData="Data/LadyElyssa/Key Run/Chapter 2 - Shadows of the Past/Charr/Sorcerous Shaman/Tribunes in Effigy 1 Instance.trl"/>
-        <POI MapID="464" xpos="45.2779" ypos="173.348" zpos="222.242" type="legs.keys.charr20.effigy.wp" GUID="ZsEuLhlZt0m7mVcyKjAS6w==" copy="[&BK0DAAA=]" copy-message="Imperator's Waypoint"/>
+        <POI MapID="464" xpos="45.2779" ypos="173.348" zpos="222.242" type="legs.keys.charr20.effigy.wp" GUID="ZsEuLhlZt0m7mVcyKjAS6w==" copy="[\&amp;BK0DAAA=]" copy-message="Imperator's Waypoint"/>
         <!-- Chapter 3 - lvl 30 - The Orders of Tyria-->
         <Trail type="legs.keys.oot.charr.city.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Graveyard Ornaments 1 Instance.trl"/>
         <!-- Graveyard Ornaments -->
-        <POI MapID="297" xpos="-16.7918" ypos="217.512" zpos="179.192" type="legs.keys.oot.charr.graveyard.wp" GUID="ztkAkrrTxUml2Dnjss97vw==" copy="[&BH8BAAA=]" copy-message="Vir's Gate Waypoint"/>
+        <POI MapID="297" xpos="-16.7918" ypos="217.512" zpos="179.192" type="legs.keys.oot.charr.graveyard.wp" GUID="ztkAkrrTxUml2Dnjss97vw==" copy="[\&amp;BH8BAAA=]" copy-message="Vir's Gate Waypoint"/>
         <POI MapID="19" xpos="-864.456" ypos="46.0453" zpos="-33.0595" type="legs.keys.oot.charr.graveyard.sign" GUID="afjOArAtRUuOY+0qadyDPQ=="/>
         <Trail type="legs.keys.oot.charr.graveyard.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Graveyard Ornaments 2.trl"/>
         <Trail type="legs.keys.oot.charr.graveyard.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Graveyard Ornaments 3 Instance.trl"/>
         <POI MapID="470" xpos="-803.15" ypos="30.9082" zpos="-167.961" type="legs.keys.oot.charr.graveyard.choice" GUID="Po7v70sjA0SkIhex/G1bMQ==" info="KORUKHAN THE BLACKSMITH&#xA;&#xA;> I'm in. I'll meet you at the homestead." infoRange="5"/>
-        <POI MapID="470" xpos="-803.15" ypos="30.9082" zpos="-167.961" type="legs.keys.oot.charr.graveyard.wp" GUID="x7sldD3k3Uq9BGlZp3gFaA==" copy="[&BF4BAAA=]" copy-message="Oldgate Waypoint"/>
+        <POI MapID="470" xpos="-803.15" ypos="30.9082" zpos="-167.961" type="legs.keys.oot.charr.graveyard.wp" GUID="x7sldD3k3Uq9BGlZp3gFaA==" copy="[\&amp;BF4BAAA=]" copy-message="Oldgate Waypoint"/>
         <!-- Whispers in the Dark -->
         <Trail type="legs.keys.oot.charr.whispers.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Whispers in the Dark 1.trl"/>
         <POI MapID="32" xpos="-734.594" ypos="32.0312" zpos="-235.742" type="legs.keys.oot.charr.whispers.sign" GUID="Kaab5zlWZUWRTZi2SIGuiw=="/>
@@ -112,34 +112,34 @@
         <Trail type="legs.keys.oot.charr.whispers.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Whispers in the Dark 3.trl"/>
         <Trail type="legs.keys.oot.charr.whispers.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Whispers in the Dark 4 Instance.trl"/>
         <POI MapID="31" xpos="1166.96" ypos="58.154" zpos="421.639" type="legs.keys.oot.charr.whispers.sign" GUID="WckHYBec5U6kNwzns+vbcA=="/>
-        <POI MapID="474" xpos="-440.475" ypos="2.35183" zpos="382.242" type="legs.keys.oot.charr.whispers.wp" GUID="UxYkOSrLEkmy1O2BK4cBxw==" copy="[&BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
+        <POI MapID="474" xpos="-440.475" ypos="2.35183" zpos="382.242" type="legs.keys.oot.charr.whispers.wp" GUID="UxYkOSrLEkmy1O2BK4cBxw==" copy="[\&amp;BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
         <Trail type="legs.keys.oot.charr.whispers.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Whispers in the Dark 5 Instance.trl"/>
         <POI MapID="218" xpos="391.668" ypos="134.635" zpos="216.068" type="legs.keys.charr10.legion.command.sign" GUID="dJYWmKgshUawgNnSfVpz6w==" iconFile="Data/LadyElyssa/Images/Key Run/Charr/Hero's Canton.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <POI MapID="371" xpos="168.649" ypos="133.203" zpos="314.277" type="legs.keys.oot.charr.whispers.sign" GUID="RJIUaEdUrky+QBmMh60UoQ==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/OoT 1 - Digging Up Answers.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="371" xpos="168.649" ypos="133.203" zpos="314.277" type="legs.keys.oot.charr.whispers.wp" GUID="7jo/Fpy/RE6l+YPOG+LAdw==" copy="[&BLgAAAA=]" copy-message="Isenfall Waypoint in Snowden Drifts"/>
+        <POI MapID="371" xpos="168.649" ypos="133.203" zpos="314.277" type="legs.keys.oot.charr.whispers.wp" GUID="7jo/Fpy/RE6l+YPOG+LAdw==" copy="[\&amp;BLgAAAA=]" copy-message="Isenfall Waypoint in Snowden Drifts"/>
         <POI MapID="371" xpos="172.445" ypos="133.161" zpos="310.531" type="legs.keys.oot.charr.undead.sign" GUID="62M0vMGkOEWcpEvzJH+KuA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/OoT 2 - Undead Detection.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <!-- Digging Up Answers -->
         <Trail type="legs.keys.oot.charr.digging.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Digging Up Answers 1.trl"/>
         <POI MapID="31" xpos="-445.614" ypos="3.33534" zpos="384.506" type="legs.keys.oot.charr.digging.sign" GUID="d7+hFVNxgE6RZ9ie8sdI6Q=="/>
         <Trail type="legs.keys.oot.charr.digging.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Digging Up Answers 2 Instance.trl"/>
-        <POI MapID="477" xpos="-871.603" ypos="48.5299" zpos="-461.217" type="legs.keys.oot.charr.digging.wp" GUID="0Es2Q416OUm3M2fn4EFcPA==" copy="[&BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
-        <POI MapID="371" xpos="172.466" ypos="133.161" zpos="310.516" type="legs.keys.oot.charr.digging.wp" GUID="8kMQTMfhCkmeb+QhFi/XEw==" copy="[&BLgAAAA=]" copy-message="Isenfall Waypoint"/>
+        <POI MapID="477" xpos="-871.603" ypos="48.5299" zpos="-461.217" type="legs.keys.oot.charr.digging.wp" GUID="0Es2Q416OUm3M2fn4EFcPA==" copy="[\&amp;BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
+        <POI MapID="371" xpos="172.466" ypos="133.161" zpos="310.516" type="legs.keys.oot.charr.digging.wp" GUID="8kMQTMfhCkmeb+QhFi/XEw==" copy="[\&amp;BLgAAAA=]" copy-message="Isenfall Waypoint"/>
         <!-- Undead Detection -->
         <Trail type="legs.keys.oot.charr.undead.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Undead Detection 1.trl"/>
         <POI MapID="31" xpos="-447.009" ypos="3.62241" zpos="385.679" type="legs.keys.oot.charr.undead.sign" GUID="8bKZWnKoiU21Ub6ummM60Q=="/>
         <Trail type="legs.keys.oot.charr.undead.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Undead Detection 2.trl"/>
         <POI MapID="24" xpos="1240.64" ypos="79.9222" zpos="339.413" type="legs.keys.oot.charr.undead.sign" GUID="UzMNXwoMTkOkJsR9RM/fRw=="/>
         <Trail type="legs.keys.oot.charr.undead.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Undead Detection 3 Instance.trl"/>
-        <POI MapID="481" xpos="896.563" ypos="67.8577" zpos="-416.003" type="legs.keys.oot.charr.undead.wp" GUID="s7odO3UijUqoXP2VrDerVw==" copy="[&BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
+        <POI MapID="481" xpos="896.563" ypos="67.8577" zpos="-416.003" type="legs.keys.oot.charr.undead.wp" GUID="s7odO3UijUqoXP2VrDerVw==" copy="[\&amp;BKUDAAA=]" copy-message="Mustering Ground Waypoint"/>
         <Trail type="legs.keys.oot.charr.undead.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Undead Detection 4 Instance.trl"/>
         <POI MapID="371" xpos="303.686" ypos="135.447" zpos="279.304" type="legs.keys.oot.charr.undead.sign" GUID="Q5ahVTh840evjp4XrWjBYw=="/>
         <POI MapID="371" xpos="286.094" ypos="133.75" zpos="345.53" type="legs.keys.oot.charr.undead.sign" GUID="JxzTgMz51Uurn/oNxAX1QA==" iconFile="Data/LadyElyssa/Images/Key Run/Chapter 3 - The Orders/Charr/OoT 3 - Research and Destroy.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
         <!-- Research and Destroy -->
         <Trail type="legs.keys.oot.charr.research.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Research and Destroy 1.trl"/>
-        <POI MapID="371" xpos="286.672" ypos="130.96" zpos="345.386" type="legs.keys.oot.charr.research.wp" GUID="Y2Tfacghy0ev14vbW1KXjQ==" copy="[&BO0AAAA=]" copy-message="Junction Haven Waypoint"/>
+        <POI MapID="371" xpos="286.672" ypos="130.96" zpos="345.386" type="legs.keys.oot.charr.research.wp" GUID="Y2Tfacghy0ev14vbW1KXjQ==" copy="[\&amp;BO0AAAA=]" copy-message="Junction Haven Waypoint"/>
         <POI MapID="24" xpos="1089.02" ypos="65.4315" zpos="-146.172" type="legs.keys.oot.charr.research.sign" GUID="VvogyPtWBUSpQ4+itY74DQ=="/>
         <Trail type="legs.keys.oot.charr.research.trail" trailData="Data/LadyElyssa/Key Run/Chapter 3 - The Orders/Charr/Research and Destroy 2 Instance.trl"/>
-        <POI MapID="485" xpos="-783.748" ypos="0.134727" zpos="-564.385" type="legs.keys.oot.charr.research.wp" GUID="fK0gj/cV9ES66HzM7JJO7Q==" copy="[&BOMAAAA=]" copy-message="Cornucopian Fields Waypoint"/>
+        <POI MapID="485" xpos="-783.748" ypos="0.134727" zpos="-564.385" type="legs.keys.oot.charr.research.wp" GUID="fK0gj/cV9ES66HzM7JJO7Q==" copy="[\&amp;BOMAAAA=]" copy-message="Cornucopian Fields Waypoint"/>
         <!-- Chapter 4 - lvl 40 -->
         <!-- To Lion's Arch -->
         <POI MapID="24" xpos="248.659" ypos="2.43398" zpos="-463.624" type="legs.keys.settingthestage.sign" GUID="3Fte/6EPNEa6N1JF4VU7ew==" iconFile="Data/LadyElyssa/Images/Key Run/To Lion's Arch.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
