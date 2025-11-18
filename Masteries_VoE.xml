@@ -2,18 +2,19 @@
     <POIs>
         <!-- Visions of Eternity -->
         <!-- Shipwreck Strand -->
-        <Trail type="legs.mastery.voemp.ss.number.1" trailData="Data/LadyElyssa/Mastery Insights/VoE/Shipwreck Strand 1.trl" color="F45E4E"/>
-        <Trail type="legs.mastery.voemp.ss.number.2" trailData="Data/LadyElyssa/Mastery Insights/VoE/Shipwreck Strand 2.trl" color="F45E4E"/>
+        <Trail type="legs.mastery.voemp.ss.number.1" trailData="Data/LadyElyssa/Mastery Insights/VoE/Shipwreck Strand 1.trl" color="FF3B29"/>
+        <Trail type="legs.mastery.voemp.ss.number.2" trailData="Data/LadyElyssa/Mastery Insights/VoE/Shipwreck Strand 2.trl" color="FF3B29"/>
         <POI MapID="1595" xpos="559.515" ypos="2.59724" zpos="646.816" type="legs.mastery.voemp.ss.start" GUID="NCR2uP1s+EO+FAd9AVrKOw=="/>
         <POI MapID="1595" xpos="-431.43" ypos="38.3516" zpos="441.752" type="legs.mastery.voemp.ss.glider" GUID="9iUW0ZGyu0i9stxqDMSi5g=="/>
         <POI MapID="1595" xpos="-246.1871" ypos="-25.8675" zpos="-726.0283" type="legs.mastery.voemp.ss.wp" GUID="Z4/TIK0rXkikj3EHaz2Yxg==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
         <POI MapID="1595" xpos="560.853" ypos="0.324704" zpos="662.602" type="legs.mastery.voemp.ss.number.1" GUID="yuAqJ04gxE6tj+jUfVeFoA=="/>
         <POI MapID="1595" xpos="226.282" ypos="1.23986" zpos="-455.647" type="legs.mastery.voemp.ss.number.2" GUID="2KqhI4csL0yBuOqzfqsRGw=="/>
-
-        <Trail type="legs.mastery.voemp.sw.number.1" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 1.trl" color="F45E4E"/>
-        <Trail type="legs.mastery.voemp.sw.number.2" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 2.trl" color="F45E4E"/>
-        <Trail type="legs.mastery.voemp.sw.number.3" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 3.trl" color="F45E4E"/>
-        <Trail type="legs.mastery.voemp.sw.number.4" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 4.trl" color="F45E4E"/>
+        <!-- Starlit Weald -->
+        <Trail type="legs.mastery.voemp.sw.number.1" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 1.trl" color="FF3B29"/>
+        <Trail type="legs.mastery.voemp.sw.number.2" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 2.trl" color="FF3B29"/>
+        <Trail type="legs.mastery.voemp.sw.number.3" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 3.trl" color="FF3B29"/>
+        <Trail type="legs.mastery.voemp.sw.number.4" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 4.trl" color="FF3B29"/>
+        <Trail type="legs.mastery.voemp.sw.number.5" trailData="Data/LadyElyssa/Mastery Insights/VoE/Starlit Weald 5.trl" color="FF3B29"/>
         <POI MapID="1593" xpos="848.164" ypos="51.312" zpos="-345.817" type="legs.mastery.voemp.sw.wp" GUID="U0PvtZNVMkm7jSBtMvHf3A==" copy="[&amp;BMAPAAA=]" copy-message="Foothold Bivouac Waypoint"/>
         <POI MapID="1593" xpos="-564.102" ypos="163.585" zpos="-454.901" type="legs.mastery.voemp.sw.wp" GUID="eWPQp9kT30KKu3Y8tmx7LQ==" copy="[&amp;BJ4PAAA=]" copy-message="Priory Expedition Waypoint"/>
         <POI MapID="1593" xpos="-196.768" ypos="46.9035" zpos="28.0894" type="legs.mastery.voemp.sw.wp" GUID="2THukPWf80abTiuMQqERsA==" copy="[&amp;BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
