@@ -418,25 +418,25 @@
                 -->
             </MarkerCategory>
 
-            <MarkerCategory name="magic" DisplayName="Magic Mirror (WIP)" fadeNear="15000" fadeFar="20000">
+            <MarkerCategory name="magic" DisplayName="Magic Mirror (WIP)">
 
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                 <MarkerCategory name="small" DisplayName="Toggle Small Chests" iconFile="Data/LadyElyssa/Images/Square - Blue.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="1"/>
                 <MarkerCategory name="medium" DisplayName="Toggle Medium Chests" iconFile="Data/LadyElyssa/Images/Square - Green.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="1"/>
                 <MarkerCategory name="large" DisplayName="Toggle Large Chests" iconFile="Data/LadyElyssa/Images/Square - Gold.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="1"/>
-                <MarkerCategory name="mirror" DisplayName="Toggle Magic Mirror" iconFile="Data/LadyElyssa/Images/Icons/Magic Mirror.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48" inGameVisibility="1"/>
+                <MarkerCategory name="mirror" DisplayName="Toggle Magic Mirror" iconFile="Data/LadyElyssa/Images/Icons/Magic Mirror.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48" inGameVisibility="1" 
+                    behavior="4" resetLength="180"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                <!--
-                <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                </MarkerCategory>
-                -->
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="ss" DisplayName="Shipwreck Strand" texture="Data/LadyElyssa/Images/trailarrow b&amp;w - S.png" color="BB32FF"/>
-                <MarkerCategory name="sw" DisplayName="Starlit Weald" texture="Data/LadyElyssa/Images/trailarrow b&amp;w - S.png" color="BB32FF"/>
+                <MarkerCategory name="ss" DisplayName="Shipwreck Strand">
+                    <MarkerCategory name="large" DisplayName="Large Only" color="D1AE00"/>
+                    <MarkerCategory name="main" DisplayName="Main Route" color="BB32FF"/>
+                </MarkerCategory>
+                <MarkerCategory name="sw" DisplayName="Starlit Weald" texture="Data/LadyElyssa/Images/trailarrow b&amp;w - S.png">
+                    <MarkerCategory name="large" DisplayName="Large Only" color="D1AE00"/>
+                    <MarkerCategory name="main" DisplayName="Main Route" color="BB32FF"/>
+                </MarkerCategory>
                 <!--
                 <MarkerCategory name="" DisplayName=""/>
                 <MarkerCategory name="" DisplayName=""/>
