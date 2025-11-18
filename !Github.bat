@@ -26,8 +26,11 @@ XCOPY /S/E/Y/Q xmlchk.py "E:\Github\LadyElyssaTacoTrails"
 ECHO XML CHECK FAILED!
 ECHO.
 python xmlchk.py
+ECHO.
+Pause
 exit
 )
 
 :Done
+ECHO.
 Timeout /T 2
