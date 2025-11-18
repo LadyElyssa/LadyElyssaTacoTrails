@@ -22,6 +22,7 @@ def main():
     xml_files = sorted(p.glob('*.xml'))
     for f in xml_files:
         check_file(f)
+    print(f"\nXML Check Complete! ")
 
 if __name__ == "__main__":
     main()
