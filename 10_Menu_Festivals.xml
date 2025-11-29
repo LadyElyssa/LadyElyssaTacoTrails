@@ -5,7 +5,7 @@
 
         <MarkerCategory name="festivals" DisplayName="Festivals">
             <!-- Dragon Bash -->
-            <MarkerCategory name="dragonbash" DisplayName="Dragon Bash">
+            <MarkerCategory name="dragonbash" DisplayName="Dragon Bash" festival="dragonbash" bh-festival="dragonbash">
                 <MarkerCategory name="adventure1" DisplayName="Adventure - Dragon Bash Rally">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -104,7 +104,7 @@
 
             <!-- Festival of the Four Winds -->
 
-            <MarkerCategory name="fotfw" DisplayName="Festival of the Four Winds" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.5" fadeNear="1400" fadeFar="2000">
+            <MarkerCategory name="fotfw" DisplayName="Festival of the Four Winds" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.5" fadeNear="1400" fadeFar="2000" festival="festivalofthefourwinds" bh-festival="festivalofthefourwinds">
                 <MarkerCategory name="cp" DisplayName="Crown Pavilion">
                     <MarkerCategory name="race" DisplayName="Race - Pavilion Pursuit" texture="Data/LadyElyssa/Images/Dashed Gradient.png"/>
                 </MarkerCategory>
@@ -130,7 +130,7 @@
 
             <!-- Halloween -->
 
-            <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/LadyElyssa/Images/Candy Gradient.png">
+            <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/LadyElyssa/Images/Candy Gradient.png" festival="halloween" bh-festival="halloween">
                 <MarkerCategory name="atm" DisplayName="Ascent to Madness" texture="Data/LadyElyssa/Images/Candy Gradient.png" animSpeed="0" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="candy" DisplayName="Candy Corn (Chance)">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
@@ -488,7 +488,7 @@
 
             <!--  Lunar New Year -->
 
-            <MarkerCategory name="lny" DisplayName="Lunar New Year" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.8" alpha="1" fadeNear="3300" fadeFar="5000">
+            <MarkerCategory name="lny" DisplayName="Lunar New Year" texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="0.8" alpha="1" fadeNear="3300" fadeFar="5000" festival="lunarnewyear" bh-festival="lunarnewyear">
 
                 <MarkerCategory name="firecrackers" DisplayName="Firecrackers" alpha="0.7">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -541,7 +541,7 @@
 
             <!-- Super Adventure Box -->
 
-            <MarkerCategory name="sab" DisplayName="Super Adventure Box" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" animSpeed="0" alpha="1" fadeNear="900" fadeFar="1200" miniMapVisibility="0">
+            <MarkerCategory name="sab" DisplayName="Super Adventure Box" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" animSpeed="0" alpha="1" fadeNear="900" fadeFar="1200" miniMapVisibility="0" festival="superadventurefestival" bh-festival="superadventurefestival">
                 <MarkerCategory name="hub" DisplayName="Super Adventure Hub" texture="Data/LadyElyssa/Images/Line - Medium with Shadow.png" fadeNear="1200" fadeFar="1600">
                     <MarkerCategory name="race" DisplayName="Race"/>
                 </MarkerCategory>
@@ -742,7 +742,7 @@
 
             <!-- Wintersday -->
 
-            <MarkerCategory name="wintersday" DisplayName="Wintersday">
+            <MarkerCategory name="wintersday" DisplayName="Wintersday" festival="wintersday" bh-festival="wintersday">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="locations" DisplayName="Toggle Orphan Locations" iconFile="Data/LadyElyssa/Images/WrappedGift.png" mapDisplaySize="24" heightOffset="3" inGameVisibility="0"/>
                 <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>

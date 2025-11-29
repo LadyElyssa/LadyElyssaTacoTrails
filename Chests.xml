@@ -2393,12 +2393,19 @@
         <POI MapID="1595" xpos="-57.7861" ypos="32.3466" zpos="-47.1477" type="legs.chests.magic.mirror" GUID="feQ7HRnZE0GWmygspZa7pA=="/>
         <POI MapID="1595" xpos="-573.248" ypos="73.936" zpos="-154.611" type="legs.chests.magic.mirror" GUID="9kUQHXpHFECnxur/9cMuxg=="/>
         <!-- Obscure Chests -->
-        <Trail type="legs.chests.magic.ss.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Shipwreck Stand 1.trl"/>
-        <Trail type="legs.chests.magic.ss.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Shipwreck Stand 2.trl"/>
-        <Trail type="legs.chests.magic.ss.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Shipwreck Stand 1.trl"/>
-        <POI MapID="1595" xpos="559.042" ypos="2.16467" zpos="647.902" type="legs.chests.magic.start" GUID="wKbHNnxNKka2/05k+QAwGg=="/>
-        <POI MapID="1595" xpos="205.5452" ypos="11.0511" zpos="-177.8005" type="legs.chests.magic.wp" GUID="L24LblQJJUK65hR9SkJ3jQ==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
-        <POI MapID="1593" xpos="805.087" ypos="88.8959" zpos="202.62" type="legs.chests.magic.wp" GUID="kF7kiQziq0Os9Q+O9gtxgg==" copy="[&amp;BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
+        <Trail type="legs.chests.magic.ss.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Shipwreck Strand 1.trl" color="BB32FF"/>
+        <Trail type="legs.chests.magic.ss.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Shipwreck Strand 2.trl" color="BB32FF"/>
+        <Trail type="legs.chests.magic.ss.medium" trailData="Data/LadyElyssa/Chests/VoE/Medium Chests Shipwreck Strand 1.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.ss.medium" trailData="Data/LadyElyssa/Chests/VoE/Medium Chests Shipwreck Strand 2.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.ss.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Shipwreck Strand 1.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.ss.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Shipwreck Strand 2.trl" color="D1AE00"/>
+        <POI MapID="1595" xpos="559.042" ypos="2.16467" zpos="647.902" type="legs.chests.magic.ss.main.start" GUID="wKbHNnxNKka2/05k+QAwGg=="/>
+        <POI MapID="1595" xpos="205.5452" ypos="11.0511" zpos="-177.8005" type="legs.chests.magic.ss.main.wp" GUID="L24LblQJJUK65hR9SkJ3jQ==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
+        <POI MapID="1593" xpos="805.087" ypos="88.8959" zpos="202.62" type="legs.chests.magic.ss.main.wp" GUID="kF7kiQziq0Os9Q+O9gtxgg==" copy="[&amp;BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
+        <POI MapID="1595" xpos="209.763" ypos="0.863924" zpos="-472.072" type="legs.chests.magic.ss.medium.start" GUID="PO/udbf4c0620p1sOjMhCQ=="/>
+        <POI MapID="1595" xpos="656.632" ypos="31.5431" zpos="-615.889" type="legs.chests.magic.ss.medium.wp" GUID="C+xq2guEikaAFgB6s0g71g==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathan Waypoint"/>
+        <POI MapID="1595" xpos="209.763" ypos="0.863924" zpos="-472.072" type="legs.chests.magic.ss.large.start" GUID="h1hAv6W61Emz8PCNJJMqAg=="/>
+        <POI MapID="1595" xpos="656.632" ypos="31.5431" zpos="-615.889" type="legs.chests.magic.ss.large.wp" GUID="DlVeBaHLGUmyQgbpis+wiA==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathan Waypoint"/>
         <POI MapID="1595" xpos="506.052" ypos="28.6764" zpos="808.027" type="legs.chests.magic.small" GUID="2fPcLwuHgUaQx1sTanZWvw=="/>
         <POI MapID="1595" xpos="663.534" ypos="15.4583" zpos="431.445" type="legs.chests.magic.medium" GUID="uhiJorITOki2m6S37h25wg=="/>
         <POI MapID="1595" xpos="386.753" ypos="53.6429" zpos="365.182" type="legs.chests.magic.large" GUID="nCBBf4c2MEekcpCiQuo30A=="/>
@@ -2447,6 +2454,7 @@
         <POI MapID="1595" xpos="-487.026" ypos="5.57534" zpos="-594.232" type="legs.chests.magic.large" GUID="0UGx0H1xB0WZjnge6tNBCA=="/>
         <POI MapID="1595" xpos="-428.302" ypos="7.1555" zpos="-726.121" type="legs.chests.magic.small" GUID="m5Hcx1gonUWh85XUgNBgFA=="/>
         <POI MapID="1595" xpos="-349.839" ypos="0.693435" zpos="-573.393" type="legs.chests.magic.small" GUID="vxL5AHmuoEO472ng7XpwTA=="/>
+        <POI MapID="1595" xpos="-609.594" ypos="89.0396" zpos="549.507" type="legs.chests.magic.small" GUID="vCS6lJySNk+s99cEC0Qybw=="/>
 
         <!-- Starlit Weald -->
         <POI MapID="1593" xpos="851.93" ypos="76.7747" zpos="-62.6019" type="legs.chests.magic.mirror" GUID="2p8tWt811UKsiLVI9NYZng=="/>
@@ -2460,11 +2468,22 @@
         <POI MapID="1593" xpos="-80.0127" ypos="25.0013" zpos="-485.732" type="legs.chests.magic.mirror" GUID="g1C+oGW7yEmXy9lXo4Jc9Q=="/>
         <POI MapID="1593" xpos="285.231" ypos="39.6116" zpos="-555.351" type="legs.chests.magic.mirror" GUID="QKOVFHQgKkuEO+pqjSKidg=="/>
         <!-- Obscure Chests -->
-        <Trail type="legs.chests.magic.sw.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Starlit Weald 1.trl"/>
-        <Trail type="legs.chests.magic.sw.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Starlit Weald 2.trl"/>
-        <Trail type="legs.chests.magic.sw.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Starlit Weald 1.trl"/>
-        <Trail type="legs.chests.magic.sw.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Starlit Weald 2.trl"/>
-        <POI MapID="1593" xpos="-76.9176" ypos="6.61792" zpos="363.145" type="legs.chests.magic.start" GUID="rgxMiVnbNEKcFhmClCdZ8A=="/>
+        <Trail type="legs.chests.magic.sw.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Starlit Weald 1.trl" color="BB32FF"/>
+        <Trail type="legs.chests.magic.sw.main" trailData="Data/LadyElyssa/Chests/VoE/Obscured Chests Starlit Weald 2.trl" color="BB32FF"/>
+        <Trail type="legs.chests.magic.sw.medium" trailData="Data/LadyElyssa/Chests/VoE/Medium Chests Starlit Weald 1.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.sw.medium" trailData="Data/LadyElyssa/Chests/VoE/Medium Chests Starlit Weald 2.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.sw.medium" trailData="Data/LadyElyssa/Chests/VoE/Medium Chests Starlit Weald 4.trl" color="00ACD7"/>
+        <Trail type="legs.chests.magic.sw.medium" trailData="Data/LadyElyssa/Chests/VoE/Medium Chests Starlit Weald 3.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.sw.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Starlit Weald 1.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.sw.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Starlit Weald 2.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.sw.large" trailData="Data/LadyElyssa/Chests/VoE/Large Chests Starlit Weald 3.trl" color="D1AE00"/>
+        <POI MapID="1593" xpos="498.193" ypos="2.62531" zpos="-541.318" type="legs.chests.magic.sw.main.start" GUID="D7DUMMVR80Ws4tXJrqxr9g=="/>
+        <POI MapID="1593" xpos="498.193" ypos="2.62531" zpos="-541.318" type="legs.chests.magic.sw.medium.start" GUID="5+jT+EItnkyB9EVpxQA6gA=="/>
+        <POI MapID="1593" xpos="850.902" ypos="76.1163" zpos="-60.7376" type="legs.chests.magic.sw.medium.wp" GUID="/fs3FfugpUawmTpIBOBSfA==" copy="[&amp;BJ4PAAA=]" copy-message="Priory Expedition Waypoint"/>
+        <POI MapID="1593" xpos="133.268" ypos="69.4002" zpos="-114.826" type="legs.chests.magic.sw.medium.wp" GUID="++GSkUp6IkKefvA+7NJ24A==" copy="[&amp;BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
+        <POI MapID="1593" xpos="-76.9176" ypos="6.61792" zpos="363.145" type="legs.chests.magic.sw.large.start" GUID="YeuTgwrnpEaXC2HvsRSFrA=="/>
+        <POI MapID="1593" xpos="847.3129" ypos="50.46564" zpos="431.0557" type="legs.chests.magic.sw.large.wp" GUID="AKvtWBKfL0q/8UrKMJX8vQ==" copy="[&amp;BMAPAAA=]" copy-message="Foothold Bivouac Waypoint"/>
+        <POI MapID="1593" xpos="847.3129" ypos="50.46564" zpos="431.0557" type="legs.chests.magic.sw.large.wp" GUID="44kQMPbUDEq7MOtiU86Ovg==" copy="[&amp;BJ4PAAA=]" copy-message="Priory Expedition Waypoint"/>
         <POI MapID="1593" xpos="566.304" ypos="45.6905" zpos="-658.224" type="legs.chests.magic.small" GUID="sL6WvkcdxEeuWNyyc63Vhg=="/>
         <POI MapID="1593" xpos="657.492" ypos="1.19213" zpos="-485.784" type="legs.chests.magic.small" GUID="Qvub0A8R6UGfsN2CoC9a+A=="/>
         <POI MapID="1593" xpos="373.624" ypos="2.71604" zpos="-428.07" type="legs.chests.magic.small" GUID="t4gU0zZxukOeme5MHs0rsw=="/>
