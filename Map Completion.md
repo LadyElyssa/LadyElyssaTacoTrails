@@ -1,4 +1,8 @@
-## 100% World Map Completion Route for Central Tyria
+## For 100% World Completion
+* Do WvW first for 2 x [Gifts of Battle](https://wiki.guildwars2.com/wiki/Gift_of_Battle), especially if working towards a Legendary.
+* TALK to Heroics Notary for Central Tyrian Heroics to complete all but one of the Hero Points
+
+## Map Completion Route for Central Tyria
  
 Planned Route
 * Metrica Province ✔
