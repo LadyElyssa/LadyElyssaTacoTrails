@@ -433,6 +433,7 @@
                     <MarkerCategory name="large" DisplayName="Large Only">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>
                     <MarkerCategory name="main" DisplayName="Main Route">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -449,6 +450,7 @@
                     <MarkerCategory name="large" DisplayName="Large Only">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>
                     <MarkerCategory name="main" DisplayName="Main Route">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
