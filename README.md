@@ -1,7 +1,7 @@
 ## Contact ##
 * GW2 :: Lady Elyssa.2469
 * GW2 Wiki  :: [https://wiki.guildwars2.com/wiki/User:Lady_Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
-* Lady Elyssa's Discord :: [https://discord.gg/XwAqz6jCdv](https://discord.gg/XwAqz6jCdv)
+* Lady Elyssa's Discord for Guild Wars 2 :: [https://discord.gg/XwAqz6jCdv](https://discord.gg/XwAqz6jCdv)
 * GW2 Marker-mancy Discord courtesy of Metallis (MMM) :: [https://discord.gg/p6Ec9q6P8z](https://discord.gg/p6Ec9q6P8z)
 
 ## Lady Elyssa's TacO Trail Guides ##
