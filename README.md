@@ -296,7 +296,7 @@ Adventures
  
 ### ArenaNet Partner ###
 You can Buy Guild Wars 2 using these links:
-* BUY Guild Wars 2 Expansion: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
-* Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
+* BUY Guild Wars 2 Expansion: https://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
+* Free to Play Link: https://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
 
 <img width="300" height="60" alt="image" src="https://github.com/user-attachments/assets/dac2cf8d-5162-44c2-af97-bad05aaf91cc" />
