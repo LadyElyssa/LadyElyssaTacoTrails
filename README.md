@@ -170,15 +170,15 @@ I have a written a [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki
 
 ## Map Completion ## 
 See [Map Completion Route and Further Information](https://github.com/LadyElyssa/LadyElyssaTacoTrails/blob/main/Map%20Completion.md)
-* Map Waypoints Only
 * World Completion
-* A set of Trails for collecting just the Waypoints on every core map has also been included
+* Map Waypoints Only
 * All Racial Cities (Asura, Charr, Human, Norn, Sylvari)
 * Maguuma Wastes (Dry Top, The Silverwastes)
 * Heart of Thorns (HoT) - excluding Dragon Stand
 * Path of Fire (PoF)
 * End of Dragons (EoD)
-* Secrets of the Obscure (SotO) - excluding Nayos
+* Secrets of the Obscure (SotO)
+* Visions of Eternity
 
 ## Map Mastery Insights ##
 Added Trails for Map Mastery Insights for:
