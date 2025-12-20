@@ -54,7 +54,8 @@ Ore
    * Rich Iron (Core) - starts at Helliot Mine Waypoint in Fields of Ruin `[&BEsBAAA=]`
    * Rich Platinum (Core) - starts at Ocean's Gullet Waypoint in Sparkfly Fen `[&BMkBAAA=]`
    * Rich Mithril (Core, LWS3, PoF) - starts at The Citadel of Flame Waypoint in Fireheart Rise `[&BEAFAAA=]`
-   * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at Atholma Waypoint in Sandswept Isles `[&BEMLAAA=]`
+   * Rich Orichalcum (HoT, PoF, LWS4, LWS5) - starts at `[&BAEKAAA=]` Spearmarshal's Lament (Req:[Spearmarshal's Plea](https://wiki.guildwars2.com/wiki/Spearmarshal%27s_Plea)), Domain of Vabbi
+   OR `[&BMEKAAA=]` Lair of the Forgotten, The Desolation for those without it.
 
 Plants - Many are used for [Plant Fibres](https://wiki.guildwars2.com/wiki/Homestead_Refinement%E2%80%94Farm) in the [Homestead](https://wiki.guildwars2.com/wiki/Homestead)
    * Artichoke
