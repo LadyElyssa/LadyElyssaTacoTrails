@@ -1,32 +1,42 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 22.4"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 23.4"/>
             <MarkerCategory name="partner" IsSeparator="1" DisplayName="ARENANET PARTNER"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="discord" DisplayName="Discord    :: https://discord.gg/t6jMb6qgjB"/>
             <MarkerCategory name="wikiuser" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady Elyssa"/>
+            
             <MarkerCategory name="credits" IsSeparator="1" DisplayName="CREDITS"/>
             <MarkerCategory name="anet" DisplayName="ArenaNet"/>
-            <MarkerCategory name="emz" DisplayName="Emz"/>
-            <MarkerCategory name="freesnow" Displayname="Freesn&#xf6;w [BlishHUD]"/>
-            <MarkerCategory name="mmm" DisplayName="Metallis"/>
-            <MarkerCategory name="sha" DisplayName="Sha"/>
-            <MarkerCategory name="tanetris" DisplayName="Tanetris"/>
-            <MarkerCategory name="teh" DisplayName="Teh"/>
-            <MarkerCategory name="tekkit" DisplayName="Tekkit [GW2TacO]"/>
-            <MarkerCategory name="twelve" DisplayName="Twelvetables"/>
-            <MarkerCategory name="zen" DisplayName="Zen"/>
             <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
-            <MarkerCategory name="followers" DisplayName="My GW2 Followers"/>
-            <MarkerCategory name="git" DisplayName="My Github Contributors"/>
             <MarkerCategory name="community" DisplayName="The Guild Wars 2 Community"/>
-            <MarkerCategory name="hon" IsSeparator="1" DisplayName="HONOURABLE MENTIONS"/>
+
+            <MarkerCategory name="content" IsSeparator="1" DisplayName="CONTENT CREATORS"/>
             <MarkerCategory name="guides" DisplayName="Ayin, Dulfy &amp; Guild Jen's Guides"/>
             <MarkerCategory name="amaverra" DisplayName="Amaverra on Twitch &amp; Youtube"/>
+            <MarkerCategory name="atoa" DisplayName="Atoa Na Lagoa on Twitch &amp; Youtube"/>
             <MarkerCategory name="darens" DisplayName="Darens on Youtube"/>
             <MarkerCategory name="phandrel" DisplayName="Phandrel on Twitch &amp; Youtube"/>
+            <MarkerCategory name="skarzi" DisplayName="Uncle Skarzi on Twitch"/>
+            
+            <MarkerCategory name="contributors" IsSeparator="1" DisplayName="CONTRIBUTORS"/>
+            <MarkerCategory name="emz" DisplayName="Emz"/>
+            <MarkerCategory name="sab" DisplayName="Sab"/>
+            <MarkerCategory name="sha" DisplayName="Sha"/>
+            <MarkerCategory name="tanetris" DisplayName="Tanetris"/>
+            <MarkerCategory name="twelve" DisplayName="Twelvetables"/>
+            <MarkerCategory name="zen" DisplayName="Zen"/>
+            <MarkerCategory name="followers" DisplayName="My GW2 Followers"/>
+            <MarkerCategory name="git" DisplayName="My Github Contributors"/>
+
+            <MarkerCategory name="mpt" IsSeparator="1" DisplayName="MARKER PACK TOOLS"/>
+            <MarkerCategory name="freesnow" Displayname="Freesn&#xf6;w [BlishHUD]"/>
+            <MarkerCategory name="mmm" DisplayName="Metallis"/>
+            <MarkerCategory name="teh" DisplayName="Teh [MPT]"/>
+            <MarkerCategory name="tekkit" DisplayName="Tekkit [GW2TacO]"/>
+            
         </MarkerCategory>
     </MarkerCategory>
 </OverlayData>

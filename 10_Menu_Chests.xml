@@ -418,7 +418,7 @@
                 -->
             </MarkerCategory>
 
-            <MarkerCategory name="magic" DisplayName="Magic Mirror (WIP)">
+            <MarkerCategory name="magic" DisplayName="Magic Mirrors">
                 <MarkerCategory name="small" DisplayName="Toggle Small Chests" iconFile="Data/LadyElyssa/Images/Square - Blue.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
                 <MarkerCategory name="medium" DisplayName="Toggle Medium Chests" iconFile="Data/LadyElyssa/Images/Square - Green.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
                 <MarkerCategory name="large" DisplayName="Toggle Large Chests" iconFile="Data/LadyElyssa/Images/Square - Gold.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
@@ -540,6 +540,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="jbgb" DisplayName="Jade Bot Glide Booster" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png"/>
                         <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>

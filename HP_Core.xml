@@ -31,7 +31,7 @@
         <!-- Kessex Hills -->
         <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Kessex Hills 1.trl" color="FFFF00"/>
         <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Kessex Hills 2.trl" color="FFFF00"/>
-        <POI MapID="23" xpos="-1143.03" ypos="75.2147" zpos="268.185" type="legs.hp.core.start" GUID="Xmw81BKb50uaEzIjwAJQgA=="/>
+        <POI MapID="23" xpos="-1143.03" ypos="75.2147" zpos="268.185" type="legs.hp.core.start" GUID="S1vILTbA1EiGyomgQN7u7w=="/>
         <POI MapID="23" xpos="-1001.85" ypos="22.60408" zpos="-334.961" type="legs.hp.core.wp" GUID="gOaNdwuI7kyKaaedpR8afw==" copy="[&amp;BAoAAAA=]" copy-message="Ireko Tradecamp Waypoint"/>
         <POI MapID="23" xpos="1150.116" ypos="0.2818945" zpos="562.1738" type="legs.hp.core.wp" GUID="/jxxcasqL0Gd3oZsBzRdeg==" copy="[&amp;BO8AAAA=]" copy-message="Shaemoor Waypoint, Queensdale"/>
 
@@ -128,8 +128,9 @@
 
         <!-- Dredgehaunt Cliffs -->
         <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Dredgehaunt Cliffs 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Dredgehaunt Cliffs 2.trl" color="FFFF00"/>
         <POI MapID="26" xpos="-592.432" ypos="59.015" zpos="162.837" type="legs.hp.core.start" GUID="Lqy4Po+xsECRogSK0Wq4og=="/>
-        <POI MapID="26" xpos="638.699" ypos="54.19052" zpos="-875.5552" GUID="nWggne2sEEKusrW+iggtmA==" copy="[&amp;BFgCAAA=]" copy-message="Dociu Waypoint"/>
+        <POI MapID="26" xpos="638.699" ypos="54.19052" zpos="-875.5552" type="legs.hp.core.wp" GUID="nWggne2sEEKusrW+iggtmA==" copy="[&amp;BFgCAAA=]" copy-message="Dociu Waypoint"/>
 
         <!-- Timberline Falls -->
         <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Timberline Falls 1 Oouo.trl" color="FFFF00" mapDisplaySize="8"/>
@@ -157,7 +158,7 @@
         <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Mount Maelstrom 1.trl" color="FFFF00"/>
         <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Mount Maelstrom 2.trl" color="FFFF00"/>
         <POI MapID="39" xpos="-1106.26" ypos="38.2636" zpos="553.448" type="legs.hp.core.start" GUID="A3l+e6zLn0+5I+2rO7exIw=="/>
-        <POI MapID="39" xpos="757.7672" ypos="15.54165" zpos="699.6321" GUID="6dXXKeovl0SNAnoC+HMxyw==" copy="[&amp;BMoCAAA=]" copy-message="Firebreak Fort Waypoint"/>
+        <POI MapID="39" xpos="757.7672" ypos="15.54165" zpos="699.6321" type="legs.hp.core.wp" GUID="6dXXKeovl0SNAnoC+HMxyw==" copy="[&amp;BMoCAAA=]" copy-message="Firebreak Fort Waypoint"/>
 
         <!-- Straits of Devastation -->
         <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Straits of Devastation.trl" color="FFFF00"/>
