@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+Download Python from: https://www.python.org/downloads/windows/
+Further Info: https://wiki.python.org/moin/BeginnersGuide/Download
+
 Usage: python xmlchk.py
 """
 
@@ -22,7 +25,7 @@ def main():
     xml_files = sorted(p.glob('*.xml'))
     for f in xml_files:
         check_file(f)
-    print(f"\nXML Check Complete! ")
+    print(f"\nXML Check Complete!")
 
 if __name__ == "__main__":
     main()

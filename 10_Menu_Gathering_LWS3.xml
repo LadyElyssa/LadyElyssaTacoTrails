@@ -35,7 +35,7 @@
                             <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
                         </MarkerCategory>
                         <!-- End Mounts -->
-                        <MarkerCategory name="main" DisplayName="Main Path" color="CC0000"/>
+                        <MarkerCategory name="main" DisplayName="Main Path" texture="Data/LadyElyssa/Images/Trails/Red Arrow Yellow Border.png"/>
                         <MarkerCategory name="mounted" DisplayName="Mounted" color="00CCFF"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                         <MarkerCategory name="bloodstone" DisplayName="Bloodstone Fen" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
@@ -86,7 +86,7 @@
                         </MarkerCategory>
                         <!-- End Numbers -->
                     <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                    <MarkerCategory name="draconis" DisplayName="Draconis Mons" color="ff6666"/>
+                    <MarkerCategory name="draconis" DisplayName="Draconis Mons" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" color="ff6666"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="winterberry" DisplayName="Fresh Winterberry">
@@ -124,7 +124,7 @@
                                 </MarkerCategory>
                                 <!-- End Numbers -->
                             
-                            <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FF0000"/>
+                            <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" color="00CCFF"/>
                         </MarkerCategory>
                         <!-- End Short Trail -->
                         <MarkerCategory name="smooth" DisplayName="Smooth Trail">
@@ -214,7 +214,7 @@
                         </MarkerCategory>
                         <!-- End Mounts -->
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                    <MarkerCategory name="emberbay" DisplayName="Ember Bay" color="CC9999" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="emberbay" DisplayName="Ember Bay" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" color="CC9999" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                 </MarkerCategory>
                 
             <!-- End LWS3 Gathering -->

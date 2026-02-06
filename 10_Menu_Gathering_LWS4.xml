@@ -4,7 +4,7 @@
             <!-- Living World Gathering -->
             <MarkerCategory name="lwg" DisplayName="Living World   ">
                 <MarkerCategory name="lws4" IsSeparator="1" DisplayName="SEASON 4"/>
-                <MarkerCategory name="branded" DisplayName="Branded Mass + Dwarven Chests">
+                <MarkerCategory name="branded" DisplayName="Branded Mass + Chests">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
@@ -122,7 +122,7 @@
                     </MarkerCategory>
                     <!-- End Numbers -->
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="kourna" DisplayName="Domain of Kourna" color="9999ff" alpha="1"/>
+                <MarkerCategory name="kourna" DisplayName="Domain of Kourna" texture="Data/LadyElyssa/Images/Trails/Purple Arrow White Border.png" alpha="1"/>
             </MarkerCategory>
             <MarkerCategory name="kralkatite" DisplayName="Kralkatite Ore">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -163,7 +163,7 @@
                     </MarkerCategory>
                     <!-- End Numbers -->
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="istan" DisplayName="Domain of Istan" color="B300B3" alpha="1"/>
+                <MarkerCategory name="istan" DisplayName="Domain of Istan" texture="Data/LadyElyssa/Images/Trails/Pink Arrow Yellow Border.png" alpha="1"/>
             </MarkerCategory>
             <MarkerCategory name="mistborn" DisplayName="Mistborn Motes">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -237,7 +237,7 @@
                     </MarkerCategory>
                     <!-- End Numbers -->
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" color="4dd2ff" alpha="1"/>
+                <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" color="4dd2ff" alpha="1"/>
             </MarkerCategory>
         </MarkerCategory>
         <!-- End LWS4 Gathering -->
