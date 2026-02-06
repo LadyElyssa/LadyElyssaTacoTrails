@@ -1,0 +1,192 @@
+<OverlayData>
+    <POIs>
+        <!-- Core Maps -->
+        <!-- Metrica Province -->
+        <Trail type="legs.hp.core.1" trailData="Data/LadyElyssa/Hero Points/Metrica Province 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core.2" trailData="Data/LadyElyssa/Hero Points/Metrica Province 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core.3" trailData="Data/LadyElyssa/Hero Points/Metrica Province 3.trl" color="FFFF00"/>
+        <POI MapID="35" xpos="-487.546" ypos="47.2882" zpos="-742.732" type="legs.hp.core.start" GUID="FtA1ZMSDwES+0xDni+5kpg=="/>
+        <POI MapID="35" xpos="604.441" ypos="24.2812" zpos="-159.45" type="legs.map.core.metrica.heartinfo" GUID="gh+QOKKbWEaJkcmPgQhQfQ==" info="ANSWERS:&#xA;&#xA;2. Oola, lab genius&#xA;&#xA;3. I am not in charge&#xA;&#xA;2. Necromancy and golemancy&#xA;&#xA;3. We embody magic"/>
+        <POI MapID="35" xpos="-562.12" ypos="21.9051" zpos="-342.592" type="legs.hp.core.wp" GUID="MWXnpBc5d0C/hOJKD8K5KA==" copy="[&amp;BPcEAAA=]" copy-message="Hydrone Unit Waypoint"/>
+        <POI MapID="35" xpos="-298.206" ypos="-0.313916" zpos="876.643" type="legs.hp.core.wp" GUID="wyzfDaTOAku4IOwj7xaN8w==" copy="[&amp;BEcAAAA=]" copy-message="Muridian Waypoint"/>
+
+        <!-- Brisban Wildlands -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Brisban Wildlands 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Brisban Wildlands 2.trl" color="FFFF00"/>
+        <POI MapID="54" xpos="283.718" ypos="76.2347" zpos="-692.945" type="legs.hp.core.start" GUID="idIcPpUVAkekHwdZFu5cpg=="/>
+        <POI MapID="54" xpos="-41.01462" ypos="7.384036" zpos="644.25" type="legs.hp.core.wp" GUID="RUL3IHkaUE65+KOuZycp9Q==" copy="[&amp;BGEAAAA=]" copy-message="Brilitine  Waypoint"/>
+
+        <!-- Caledon Forest -->
+        <Trail type="legs.hp.core.1" trailData="Data/LadyElyssa/Hero Points/Caledon Forest 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core.2" trailData="Data/LadyElyssa/Hero Points/Caledon Forest 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core.3" trailData="Data/LadyElyssa/Hero Points/Caledon Forest 3.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core.4" trailData="Data/LadyElyssa/Hero Points/Caledon Forest 4.trl" color="FFFF00"/>
+        <POI MapID="34" xpos="-478.4715" ypos="9.096395" zpos="1133.423" type="legs.hp.core.start" GUID="Xmw81BKb50uaEzIjwAJQgA=="/>
+        <POI MapID="34" xpos="-374.4771" ypos="16.09307" zpos="1038.278" type="legs.hp.core.wp" GUID="PQ3GAARzAU6FNxiyseZPXA==" copy="[&amp;BDQBAAA=]" copy-message="Astorea Waypoint"/>
+        <POI MapID="34" xpos="-488.4509" ypos="8.6177" zpos="-704.6694" type="legs.hp.core.wp" GUID="xJnx5GkQREyWvfZjndxP9Q==" copy="[&amp;BDQBAAA=]" copy-message="Astorea Waypoint"/>
+        <POI MapID="34" xpos="592.7698" ypos="16.38301" zpos="-346.9715" type="legs.hp.core.wp" GUID="h+Dec9tgBEeuseWP/7jS7g==" copy="[&amp;BO8AAAA=]" copy-message="Spiral Waypoint"/>
+        <POI MapID="34" xpos="-169.2027" ypos="4.678932" zpos="-1006.098" type="legs.hp.core.number.2" GUID="VLrHle715UGccITeUPwqag==" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+        <POI MapID="34" xpos="-167.0078" ypos="4.612434" zpos="-1007.447" type="legs.hp.core.number.3" GUID="khgRmjyGIUSsmTnsgtvAZw==" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+
+        <!-- Kessex Hills -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Kessex Hills 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Kessex Hills 2.trl" color="FFFF00"/>
+        <POI MapID="23" xpos="-1143.03" ypos="75.2147" zpos="268.185" type="legs.hp.core.start" GUID="Xmw81BKb50uaEzIjwAJQgA=="/>
+        <POI MapID="23" xpos="-1001.85" ypos="22.60408" zpos="-334.961" type="legs.hp.core.wp" GUID="gOaNdwuI7kyKaaedpR8afw==" copy="[&amp;BAoAAAA=]" copy-message="Ireko Tradecamp Waypoint"/>
+        <POI MapID="23" xpos="1150.116" ypos="0.2818945" zpos="562.1738" type="legs.hp.core.wp" GUID="/jxxcasqL0Gd3oZsBzRdeg==" copy="[&amp;BO8AAAA=]" copy-message="Shaemoor Waypoint, Queensdale"/>
+
+        <!-- Queensdale -->
+        <Trail type="legs.hp.core.1" trailData="Data/LadyElyssa/Hero Points/Queensdale 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core.2" trailData="Data/LadyElyssa/Hero Points/Queensdale 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core.3" trailData="Data/LadyElyssa/Hero Points/Queensdale 3.trl" color="FFFF00"/>
+        <POI MapID="15" xpos="-426.628" ypos="34.1217" zpos="429.918" type="legs.hp.core.start" GUID="aspOHDIc/0Gus9G1iqm8aA=="/>
+        <POI MapID="15" xpos="-743.7504" ypos="33.27481" zpos="-102.6383" type="legs.hp.core.wp" GUID="32EwfYeodEWp0Ix7tOaoUQ==" copy="[&amp;BO8AAAA=]" copy-message="Shaemoor Waypoint"/>
+
+        <POI MapID="15" xpos="1014.431" ypos="27.50751" zpos="582.7131" type="legs.hp.core.wp" GUID="gXjX0kKoPEWCH4IqXSXJCQ==" copy="[&amp;BPsAAAA=]" copy-message="Tunwatch Redoubt Waypoint"/>
+        <POI MapID="15" xpos="-426.7825" ypos="34.04078" zpos="438.2265" type="legs.hp.core.1" GUID="9OlHyuyrdk+GoVM4va0P1Q=="/>
+        <POI MapID="15" xpos="-416.5193" ypos="35.23811" zpos="437.6265" type="legs.hp.core.2" GUID="LCRei1p6sUCWZHMn27tRQQ=="/>
+
+        <!-- Gendarran Fields -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Gendarran Fields 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Gendarran Fields 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Gendarran Fields 3.trl" color="FFFF00"/>
+        <POI MapID="24" xpos="-1192.81" ypos="6.28733" zpos="375.057" type="legs.hp.core.start" GUID="OV5j4e2teUSFwOMsMKhmrA=="/>
+        <POI MapID="24" xpos="-1113.117" ypos="50.02886" zpos="581.6572" type="legs.hp.core.wp" GUID="wZs6D3nolEO83GPOxdN4Mg==" copy="[&amp;BOAAAAA=]" copy-message="Stoneguard Gate Waypoint"/>
+        <POI MapID="24" xpos="1247.231" ypos="81.51666" zpos="-338.8346" type="legs.hp.core.wp" GUID="/DCYyuSDFkiGhB6wIzAAkg==" copy="[&amp;BO0AAAA=]" copy-message="Junction Haven Waypoint"/>
+
+        <!-- Harathi Hinterlands -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Harathi Hinterlands.trl" color="FFFF00"/>
+        <POI MapID="17" xpos="463.685" ypos="33.9345" zpos="-794.031" type="legs.hp.core.start" GUID="B35IFMBX70egLnQOI2CFcA=="/>
+        <POI MapID="17" xpos="945.1808" ypos="191.8005" zpos="576.4981" type="legs.hp.core.wp" GUID="Q49zufnJ4ke/cA5VBkkTFA==" copy="[&amp;BHQBAAA=]" copy-message="Horncall Waypoint"/>
+
+        <!-- Wayfarer Foothills -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Wayfarer Foothills 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Wayfarer Foothills 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Wayfarer Foothills 3.trl" color="FFFF00"/>
+        <POI MapID="28" xpos="-234.862" ypos="95.0067" zpos="-624.528" type="legs.hp.core.start" GUID="wB59r5cRwkS0jY6yEtq/bw=="/>
+        <POI MapID="28" xpos="-81.99703" ypos="166.191" zpos="-510.8731" type="legs.hp.core.wp" GUID="4kc0xPdiYEC9NDZqebGlRQ==" copy="[&amp;BHQBAAA=]" copy-message="Horncall Waypoint"/>
+        <POI MapID="28" xpos="452.3326" ypos="119.4418" zpos="-113.7366" type="legs.hp.core.wp" GUID="Csa8xL8BzEqjjfEhyjy/iQ==" copy="[&amp;BHUBAAA=]" copy-message="Darkriven Waypoint"/>
+
+        <!-- Diessa Plateau -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Diessa Plateau 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Diessa Plateau 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Diessa Plateau 3.trl" color="FFFF00"/>
+        <POI MapID="32" xpos="-1007.01" ypos="124.231" zpos="254.532" type="legs.hp.core.start" GUID="4XI/LzJEWUOA5MHDD3jOMA=="/>
+        <POI MapID="32" xpos="453.5981" ypos="2.289342" zpos="487.6289" type="legs.hp.core.wp" GUID="wLf7siOAJEaBJdlNjqk3lA==" copy="[&amp;BMkDAAA=]" copy-message="Manbane's Waypoint"/>
+        <POI MapID="32" xpos="-151.9181" ypos="1.615097" zpos="92.26153" type="legs.hp.core.wp" GUID="tV4i09+Bp06wCGblODVCFg==" copy="[&amp;BNoAAAA=]" copy-message="Blasted Moors Waypoint"/>
+        <POI MapID="32" xpos="366.3372" ypos="61.11222" zpos="-564.188" type="legs.hp.core.wp" GUID="/gZJ+hSe20ueTIG+7UmuOw==" copy="[&amp;BIABAAA=]" copy-message="Smokestead Waypoint"/>
+
+        <!-- Plains of Ashford -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Ashford 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Ashford 2.trl" color="FFFF00"/>
+        <POI MapID="19" xpos="-1082.09" ypos="51.6338" zpos="228.43" type="legs.hp.core.start" GUID="zR64BwihREiHL9RiB79mAA=="/>
+        <POI MapID="19" xpos="-1103.002" ypos="59.64878" zpos="512.3876" type="legs.hp.core.wp" GUID="stNhyawHu0G+tQQwstMJng==" copy="[&amp;BIABAAA=]" copy-message="Smokestead Waypoint"/>
+        <POI MapID="19" xpos="-1079.694" ypos="51.63378" zpos="239.0122" type="legs.hp.core.1" GUID="KYjKczPlW02U9Y1ea6mFUQ=="/>
+        <POI MapID="19" xpos="-1073.45" ypos="51.66754" zpos="230.5823" type="legs.hp.core.2" GUID="PRzV3Ct2w06sdVPqkdEtDw=="/>
+
+        <!-- Blazeridge Steppes -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Blazeridge Steppes 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Blazeridge Steppes 2 Alt.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Blazeridge Steppes 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Blazeridge Steppes 3.trl" color="FFFF00"/>
+        <POI MapID="20" xpos="-561.881" ypos="36.0957" zpos="-413.762" type="legs.hp.core.start" GUID="DF1ABrrnFEGGTdGC2W0BHg=="/>
+        <POI MapID="20" xpos="-425.6875" ypos="5.127485" zpos="1130.518" type="legs.hp.core.wp" GUID="mDd/evkgN0CUSnN5vYqDBQ==" copy="[&amp;BAMCAAA=]" copy-message="Kindling Waypoint"/>
+
+        <!-- Fields of Ruin -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Fields of Ruin 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Fields of Ruin 2.trl" color="FFFF00"/>
+        <POI MapID="21" xpos="433.849" ypos="1.8372" zpos="817.081" type="legs.hp.core.start" GUID="lBsH+TLS2E2neKhtt2m9mw=="/>
+        <POI MapID="21" xpos="433.8066" ypos="1.837048" zpos="816.8887" type="legs.hp.core.wp" GUID="dgKjYe9Y0kGsfiTcfYouAQ==" copy="[&amp;BNgAAAA=]" copy-message="Rosko's Campsite Waypoint"/>
+        <POI MapID="21" xpos="-842.3471" ypos="64.13" zpos="840.79" type="legs.hp.core.wp" GUID="DwAhU2fEfESRwE9JZPfSUg==" copy="[&amp;BFADAAA=]" copy-message="Kinar Fort Waypoint, Blazeridge Steppes"/>
+
+        <!-- Iron Marches -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Iron Marches.trl" color="FFFF00"/>
+        <POI MapID="25" xpos="567.917" ypos="11.6784" zpos="-566.879" type="legs.hp.core.start" GUID="BBp5wUiK/kmbuXJI94waEQ=="/>
+        <POI MapID="25" xpos="161.307" ypos="58.8564" zpos="48.6875" type="legs.hp.core" GUID="Ou6DHyikcEuOpabZKBJIhw==" iconFile="Data/LadyElyssa/Images/Hearts/ArevirSoulhammer_HP.png" iconSize="0.5" minSize="128" fadeNear="1200" fadeFar="2400"/>
+
+        <!-- Fireheart Rise -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Fireheart Rise.trl" color="FFFF00"/>
+        <POI MapID="22" xpos="961.479" ypos="8.06283" zpos="-552.82" type="legs.hp.core.start" GUID="RnsTyrvG7ESYc3/BDDxV0A=="/>
+
+        <!-- Frostgorge Sound -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Frostgorge Sound.trl" color="FFFF00"/>
+        <POI MapID="30" xpos="872.572" ypos="12.2444" zpos="19.0187" type="legs.hp.core.start" GUID="DUSMGoZd0kmHCzg8eRNbhg=="/>
+
+        <!-- Snowden Drifts -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Snowden Drifts Alt.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Snowden Drifts.trl" color="FFFF00"/>
+        <POI MapID="31" xpos="768.791" ypos="40.8314" zpos="542.875" type="legs.hp.core.start" GUID="5080SDYKqUuLoDmUUBZ+uw=="/>
+        <POI MapID="31" xpos="761.3473" ypos="39.25025" zpos="522.9716" type="legs.hp.core.wp" GUID="AwftIgZcokO6Sfw0BUwkhg==" copy="[&amp;BLYAAAA=]" copy-message="Lost Child's Sorrow may be available."/>
+
+        <!-- Lornar's Pass -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Lornars Pass 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Lornars Pass 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Lornars Pass 2 Priory.trl" color="FFFF00" mapDisplaySize="8"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Lornars Pass 3.trl" color="FFFF00"/>
+        <POI MapID="27" xpos="319.799" ypos="157.34" zpos="1421.66" type="legs.hp.core.start" GUID="SioKCLNU4E2m5HCf/D5qEA=="/>
+        <POI MapID="27" xpos="457.8537" ypos="218.5649" zpos="1156.917" type="legs.hp.core.wp" GUID="n/aLQYyFcEClYf2x8N/nPw==" copy="[&amp;BOsAAAA=]" copy-message="Thunderhorns Waypoint"/>
+
+        <!-- Dredgehaunt Cliffs -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Dredgehaunt Cliffs 1.trl" color="FFFF00"/>
+        <POI MapID="26" xpos="-592.432" ypos="59.015" zpos="162.837" type="legs.hp.core.start" GUID="Lqy4Po+xsECRogSK0Wq4og=="/>
+        <POI MapID="26" xpos="638.699" ypos="54.19052" zpos="-875.5552" GUID="nWggne2sEEKusrW+iggtmA==" copy="[&amp;BFgCAAA=]" copy-message="Dociu Waypoint"/>
+
+        <!-- Timberline Falls -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Timberline Falls 1 Oouo.trl" color="FFFF00" mapDisplaySize="8"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Timberline Falls 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Timberline Falls 2.trl" color="FFFF00"/>
+        <POI MapID="29" xpos="314.553" ypos="69.9969" zpos="964.451" type="legs.hp.core.start" GUID="ChxeZjcAuUuO6EoBoFASQQ=="/>
+
+        <!-- Lornar's Pass -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Lornars Pass 4.trl" color="FFFF00"/>
+
+        <!-- Bloodtide Coast -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Bloodtide Coast 1 Covington Keep.trl" color="FFFF00" mapDisplaySize="8" fadeNear="1200" fadeFar="1600"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Bloodtide Coast 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Bloodtide Coast 2.trl" color="FFFF00"/>
+        <POI MapID="73" xpos="727.549" ypos="-1.1218" zpos="-162.068" type="legs.hp.core.start" GUID="oT686YF+5EG2/uMrnKBFsg=="/>
+        <POI MapID="73" xpos="-150.6067" ypos="13.63608" zpos="245.0195" type="legs.hp.core.wp" GUID="KpYh1V1skkCbq0FTr4/6pw==" info="If Gate to Covington Keep is closed...&#xa;&#xa;Complete event or return later" infoRange="5"/>
+
+        <!-- Sparkfly Fen -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Sparkfly Fen 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Sparkfly Fen 2.trl" color="FFFF00"/>
+        <POI MapID="53" xpos="-598.448" ypos="2.84866" zpos="933.016" type="legs.hp.core.start" GUID="2r47I70oCE+MEIKmMkEGFA=="/>
+        <POI MapID="53" xpos="225.7655" ypos="-0.4498963" zpos="980.8693" type="legs.hp.core.wp" GUID="887q3EQNfk+hfcX+26T3kQ==" copy="[&amp;BLQDAAA=]" copy-message="Mire Waypoint"/>
+
+        <!-- Mount Maelstrom -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Mount Maelstrom 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Mount Maelstrom 2.trl" color="FFFF00"/>
+        <POI MapID="39" xpos="-1106.26" ypos="38.2636" zpos="553.448" type="legs.hp.core.start" GUID="A3l+e6zLn0+5I+2rO7exIw=="/>
+        <POI MapID="39" xpos="757.7672" ypos="15.54165" zpos="699.6321" GUID="6dXXKeovl0SNAnoC+HMxyw==" copy="[&amp;BMoCAAA=]" copy-message="Firebreak Fort Waypoint"/>
+
+        <!-- Straits of Devastation -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Straits of Devastation.trl" color="FFFF00"/>
+        <POI MapID="51" xpos="925.517" ypos="27.4636" zpos="166.368" type="legs.hp.core.start" GUID="zS43pGUlgEevwCXiYhDXjg=="/>
+
+        <!-- Malchor's Leap -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Malchors Leap 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Malchors Leap 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Malchors Leap 4.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Malchors Leap 3.trl" color="FFFF00"/>
+        <POI MapID="65" xpos="1172.98" ypos="54.0923" zpos="-253.333" type="legs.hp.core.start" GUID="qjwFI979zUSCFEfgHdq6KA=="/>
+        <POI MapID="65" xpos="-419.2991" ypos="-13.50487" zpos="122.6446" type="legs.hp.core.wp" GUID="2ZJQqc+IEEWIer8h9gSzqQ==" copy="[&amp;BKYCAAA=]" copy-message="Pagga's Waypoint"/>
+        <POI MapID="65" xpos="-897.7931" ypos="9.560039" zpos="-452.624" type="legs.hp.core.wp" GUID="OQmt0coq9UiEVNoJi9Pp9w==" copy="[&amp;BKcCAAA=] or [&amp;BLICAAA=]" copy-message="Doric's Waypoint or Lights Waypoint"/>
+
+
+        <!-- Cursed Shore -->
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Cursed Shore 1.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Cursed Shore 2.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Cursed Shore 3.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Cursed Shore 4.trl" color="FFFF00"/>
+        <Trail type="legs.hp.core" trailData="Data/LadyElyssa/Hero Points/Cursed Shore 5.trl" color="FFFF00"/>
+        <POI MapID="62" xpos="372.773" ypos="94.8632" zpos="1157.72" type="legs.hp.core.start" GUID="YQ9fJ9ayL0a5IZI/HTq0WA=="/>
+        <POI MapID="62" xpos="-461.812" ypos="-6.060957" zpos="959.5841" type="legs.hp.core.wp" GUID="QiREjWRjLkuqn+CvZXr8Dg==" copy="[&amp;BCEDAAA=]" copy-message="Caer Shadowfain Waypoint"/>
+        <POI MapID="62" xpos="473.1899" ypos="51.46707" zpos="232.1506" type="legs.hp.core.wp" GUID="9JHVWp3ZO0OMIibDhUtinA==" copy="[&amp;BB4DAAA=]" copy-message="Meddler's Waypoint"/>
+        <POI MapID="62" xpos="-474.1765" ypos="35.07428" zpos="-857.4174" type="legs.hp.core.wp" GUID="IBCu8LHMx0Sz2bKKTZbP5g==" copy="[&amp;BB4DAAA=]" copy-message="Meddler's Waypoint"/>
+        <POI MapID="62" xpos="292.0139" ypos="4.157403" zpos="-65.20545" type="legs.hp.core.wp" GUID="lHEo0nFW60eNaEgK2wF2Jg==" copy="[&amp;BB4DAAA=]" copy-message="Meddler's Waypoint"/>
+        <POI MapID="62" xpos="-27.25384" ypos="29.02047" zpos="-67.1203" type="legs.hp.core.1" GUID="QFJgT3t9aEiHa/yPdB8H4w=="/>
+        <POI MapID="62" xpos="-35.81137" ypos="28.88849" zpos="-62.51132" type="legs.hp.core.2" GUID="vjKoDmjDPkiMMn+ZKM0HjQ=="/>
+        <POI MapID="62" xpos="-32.0231" ypos="28.80629" zpos="-69.12569" type="legs.hp.core.3" GUID="yxnj5xQbl0CiYLLOxY2X1Q=="/>
+
+    </POIs>
+</OverlayData>
