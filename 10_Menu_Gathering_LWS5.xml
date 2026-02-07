@@ -18,7 +18,7 @@
                     <MarkerCategory name="warning" DisplayName="Warning Signs"/>
 
                     <MarkerCategory name="route" IsSeparator="1" DisplayName="ROUTES"/>
-                    <!--
+                    
                     <MarkerCategory name="fast" DisplayName="Fast Route">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -39,7 +39,7 @@
                             <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
                         </MarkerCategory>
                     </MarkerCategory>
-                    -->
+                    
                     <MarkerCategory name="full" DisplayName="Full Route">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>

@@ -2044,7 +2044,9 @@
         <POI MapID="1554" xpos="419.269" ypos="1.33068" zpos="415.578" type="legs.chests.major.cache" GUID="e3e8J+7J9E2H4aDSrthmZA=="/>
         <POI MapID="1554" xpos="737.614" ypos="1.23909" zpos="-252.461" type="legs.chests.major.cache" GUID="f3b6+eLNGkOYFe0QKpZc1Q=="/>
         <POI MapID="1554" xpos="-342.505" ypos="182.073" zpos="226.124" type="legs.chests.major.cache" GUID="ixel8DtQREiKMqBItZJ/7A=="/>
+        
         <POI MapID="1554" xpos="-395.704" ypos="144.027" zpos="304.417" type="legs.chests.major.cache" GUID="LxI4IZNKUUSkMkwzHSQ4wA=="/>
+
         <POI MapID="1554" xpos="-309.406" ypos="50.7186" zpos="574.625" type="legs.chests.major.cache" GUID="MueZrl7kfk6Aj01Xjs8E2Q=="/>
         <POI MapID="1554" xpos="-130.441" ypos="80.6901" zpos="144.296" type="legs.chests.major.cache" GUID="E0Pgrm8B+kWaX747+rAMdg=="/>
         <POI MapID="1554" xpos="-46.7059" ypos="30.3202" zpos="-19.9873" type="legs.chests.major.cache" GUID="kXms3W4j/0uFHzI9A69WUA=="/>
@@ -2409,9 +2411,15 @@
         <!-- Fast Routes -->
         <Trail type="legs.chests.magic.ss.fmedium" trailData="Data/LadyElyssa/Chests/VoE/Shipwreck Strand Medium Fast 1.trl" color="56E000"/>
         <Trail type="legs.chests.magic.ss.fmedium" trailData="Data/LadyElyssa/Chests/VoE/Shipwreck Strand Medium Fast 2.trl" color="56E000"/>
+        <POI MapID="1595" xpos="304.7901" ypos="36.41351" zpos="-339.2251" type="legs.chests.magic.ss.fmedium" GUID="s3BBsXJizUGMtUISVnC0Mw==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="208.2995" ypos="20.56668" zpos="-398.5439" type="legs.chests.magic.ss.fmedium" GUID="vjzRAhFVgEeKmmuNZXHTwA==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="394.1211" ypos="2.321319" zpos="-501.1846" type="legs.chests.magic.ss.fmedium" GUID="Qw7zN+TrpUyjJ6Il9r4SoQ==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="-171.1327" ypos="46.91373" zpos="598.8527" type="legs.chests.magic.ss.fmedium" GUID="S74mtcjk006jioH3tWBTGA==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Iboga.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="-581.1213" ypos="71.89623" zpos="-136.0489" type="legs.chests.magic.ss.fmedium" GUID="RPUB0SYamUaIagWK2Gcm6Q==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="-550.8264" ypos="80.87446" zpos="-157.9986" type="legs.chests.magic.ss.fmedium" GUID="AcK5aQSc/kyX9jYbOjAkZg==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
         <POI MapID="1595" xpos="209.763" ypos="0.863924" zpos="-472.072" type="legs.chests.magic.ss.fmedium.start" GUID="KHxf4LM8W06xMEWgLLeEnw=="/>
         <POI MapID="1595" xpos="656.632" ypos="31.5431" zpos="-615.889" type="legs.chests.magic.ss.fmedium.wp" GUID="0qsEHaficECFlHwsPNeBsw==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathan Waypoint"/>
-        <POI MapID="1595" xpos="-472.2794" ypos="82.21368" zpos="671.9428" type="legs.chests.magic.ss.fmedium.mount.skyscale.bov" GUID="aNCtYGS2Ok2N4scCkMT7gA=="/>
+        <POI MapID="1595" xpos="-472.2794" ypos="82.21368" zpos="671.9428" type="legs.chests.magic.ss.fmedium.mount.bov" GUID="aNCtYGS2Ok2N4scCkMT7gA=="/>
         <POI MapID="1595" xpos="-563.4254" ypos="148.0092" zpos="27.32401" type="legs.chests.magic.ss.fmedium.mount.warclaw" GUID="QzYgdpWRMkyY2oxM/HjVZg=="/>
         <POI MapID="1595" xpos="-87.8637" ypos="33.35255" zpos="-79.32885" type="legs.chests.magic.ss.fmedium.mount.raptor" GUID="qMLU9esbDEeemRa8XUCH6w=="/>
         <POI MapID="1595" xpos="-441.9854" ypos="118.3671" zpos="-779.5037" type="legs.chests.magic.ss.fmedium.mount.warclaw" GUID="iiQtEbGefkSg/76YqQ0nLw=="/>
@@ -2450,8 +2458,15 @@
         <POI MapID="1595" xpos="-392.935" ypos="-0.32841" zpos="-486.728" type="legs.chests.magic.ss.fmedium.mount.skimmer.slipstream" GUID="hG/Qnt5f1EaI9Hs67j7cQw=="/>
                      
         <Trail type="legs.chests.magic.ss.flarge" trailData="Data/LadyElyssa/Chests/VoE/Shipwreck Strand Large Fast.trl" color="D1AE00"/>
+        <POI MapID="1595" xpos="304.7901" ypos="36.41351" zpos="-339.2251" type="legs.chests.magic.ss.flarge" GUID="XdMJ0hSlKkyKMwi9OM6UrA==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="208.2995" ypos="20.56668" zpos="-398.5439" type="legs.chests.magic.ss.flarge" GUID="UuC+UAWVj0iFmj17wprlcg==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="394.1211" ypos="2.321319" zpos="-501.1846" type="legs.chests.magic.ss.flarge" GUID="I2WnhGfww0uw1V15VM2Suw==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="-581.1213" ypos="71.89623" zpos="-136.0489" type="legs.chests.magic.ss.flarge" GUID="EH++ck4pN0aSALaCbufXRw==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="-550.8264" ypos="80.87446" zpos="-157.9986" type="legs.chests.magic.ss.flarge" GUID="2a/pq3RLiEKiN0YhLNvqWA==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="-530.1611" ypos="101.1038" zpos="-303.0345" type="legs.chests.magic.ss.flarge" GUID="s7i5/VWorEq13MLSSKPuGQ==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+        <POI MapID="1595" xpos="-504.6793" ypos="69.9934" zpos="-379.4427" type="legs.chests.magic.ss.flarge" GUID="Bzy4UZY2IkyGrSRA+TR0Pg==" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
         <POI MapID="1595" xpos="209.763" ypos="0.863924" zpos="-472.072" type="legs.chests.magic.ss.flarge.start" GUID="yMUjgPIwKkWkZO+NUcraOw=="/>
-        <POI MapID="1595" xpos="-444.3994" ypos="103.061" zpos="-506.8689" type="legs.chests.magic.ss.fmedium.mount.warclaw" GUID="04C2R8g/BkKEf0Jl06kilg=="/>
+        <POI MapID="1595" xpos="-444.3994" ypos="103.061" zpos="-506.8689" type="legs.chests.magic.ss.flarge.mount.warclaw" GUID="04C2R8g/BkKEf0Jl06kilg=="/>
         <POI MapID="1595" xpos="658.959" ypos="31.8562" zpos="-610.987" type="legs.chests.magic.ss.flarge.mount.skyscale" GUID="QSqIn7Y3sUqssMwb4gp7kQ=="/>
         <POI MapID="1595" xpos="576.654" ypos="111.012" zpos="-501.864" type="legs.chests.magic.ss.flarge.mount.griffon" GUID="s8LZm5ifIkWAnx5u6PasYw=="/>
         <POI MapID="1595" xpos="-59.57" ypos="31.2021" zpos="-44.2498" type="legs.chests.magic.ss.flarge.mount.skimmer" GUID="OVZKwElF9kaNyr8xb5j3Pw=="/>
@@ -2544,7 +2559,7 @@
         <POI MapID="1593" xpos="847.3129" ypos="50.46564" zpos="431.0557" type="legs.chests.magic.sw.large.wp" GUID="AKvtWBKfL0q/8UrKMJX8vQ==" copy="[&amp;BMAPAAA=]" copy-message="Foothold Bivouac Waypoint"/>
         <POI MapID="1593" xpos="847.3129" ypos="50.46564" zpos="431.0557" type="legs.chests.magic.sw.large.wp" GUID="44kQMPbUDEq7MOtiU86Ovg==" copy="[&amp;BJ4PAAA=]" copy-message="Priory Expedition Waypoint"/>
 
-        <Trail type="legs.chests.magic.sw.fmedium" trailData="Data/LadyElyssa/Chests/VoE/Starlit Weald Medium Fast.trl.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.sw.fmedium" trailData="Data/LadyElyssa/Chests/VoE/Starlit Weald Medium Fast.trl" color="56E000"/>
         <POI MapID="1593" xpos="498.193" ypos="2.62531" zpos="-541.318" type="legs.chests.magic.sw.fmedium.start" GUID="vsuspFXikEyQ5UNSombrbA=="/>
         <POI MapID="1593" xpos="689.0406" ypos="39.39279" zpos="304.0993" type="legs.chests.magic.sw.fmedium.mount.skyscale" GUID="5mEZAYlILEKoHk9jYQek/g=="/>
         <POI MapID="1593" xpos="254.071" ypos="3.257025" zpos="212.4147" type="legs.chests.magic.sw.fmedium.mount.beetle" GUID="AVE/gxbXS0uP33PektlPLw=="/>
@@ -2586,13 +2601,17 @@
         <POI MapID="1593" xpos="-532.608" ypos="63.0905" zpos="-474.438" type="legs.chests.magic.sw.fmedium.mount.skimmer" GUID="tR1rzIydkUm0BYvMLOrOdg=="/>
         <POI MapID="1593" xpos="-531.25" ypos="63.2744" zpos="-477.012" type="legs.chests.magic.sw.fmedium.mount.skimmer.slipstream" GUID="vaq2LFA7WUeyfsot3J2FcQ=="/>
         <POI MapID="1593" xpos="-276.372" ypos="118.772" zpos="-648.926" type="legs.chests.magic.sw.fmedium.mount.griffon" GUID="pYPLjtPxEkGJKkAOm/wh/A=="/>
+        <POI MapID="1593" xpos="124.535" ypos="2.556381" zpos="-335.4471" type="legs.chests.magic.sw.fmedium.mount.springer" GUID="qSAqS+p+JEu2eoJc/IUn+g=="/>
 
         <Trail type="legs.chests.magic.sw.flarge" trailData="Data/LadyElyssa/Chests/VoE/Starlit Weald Large Fast Alt.trl" color="D1AE00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.chests.magic.sw.flarge" trailData="Data/LadyElyssa/Chests/VoE/Starlit Weald Large Fast.trl" color="D1AE00"/>
-        <POI MapID="1593" xpos="-773.6" ypos="70.20666" zpos="-99.69599" type="legs.chests.magic.sw.fmedium.mount.beetle" GUID="UNI/G1QFvUaDstnIGAlYew=="/>
-        <POI MapID="1593" xpos="-712.3868" ypos="66.62525" type="legs.chests.magic.sw.fmedium.mount.beetle" zpos="-319.5432" GUID="zpnBKFBFykuQiJ1AB4r/vw=="/>
-        <POI MapID="1593" xpos="-712.3868" ypos="68.62525" type="legs.chests.magic.sw.fmedium.mount.warclaw" zpos="-319.5432" GUID="CcH4eFa5uUys8692GfYEeA=="/>
-        <POI MapID="1593" xpos="-75.0214" ypos="25.6769" zpos="-481.709" type="legs.chests.magic.sw.flarge.mount.skyscale" GUID="iuyaIBa7Ek6XYvi5/ZI8zQ=="/>
+        <Trail type="legs.chests.magic.sw.flarge" trailData="Data/LadyElyssa/Chests/VoE/Starlit Weald Large Fast 1.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.sw.flarge" trailData="Data/LadyElyssa/Chests/VoE/Starlit Weald Large Fast 2.trl" color="D1AE00"/>
+        <POI MapID="1593" xpos="-707.9119" ypos="62.6893" zpos="-620.759" type="legs.chests.magic.sw.flarge.wp" GUID="XXBLfZ/IEEeZTcPhCUhDzA==" copy="[&amp;BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
+        <POI MapID="1593" xpos="-773.6" ypos="70.20666" zpos="-99.69599" type="legs.chests.magic.sw.flarge.mount.beetle" GUID="UNI/G1QFvUaDstnIGAlYew=="/>
+        <POI MapID="1593" xpos="-712.3868" ypos="66.62525" type="legs.chests.magic.sw.flarge.mount.beetle" zpos="-319.5432" GUID="zpnBKFBFykuQiJ1AB4r/vw=="/>
+        <POI MapID="1593" xpos="-712.3868" ypos="68.62525" type="legs.chests.magic.sw.flarge.mount.warclaw" zpos="-319.5432" GUID="CcH4eFa5uUys8692GfYEeA=="/>
+        <POI MapID="1593" xpos="-75.0214" ypos="25.1769" zpos="-481.709" type="legs.chests.magic.sw.flarge.mount.skimmer" GUID="iuyaIBa7Ek6XYvi5/ZI8zQ=="/>
+        <POI MapID="1593" xpos="-71.31088" ypos="25.6769" zpos="-478.4314" type="legs.chests.magic.sw.flarge.mount.skimmer.slipstream" GUID="6IXhua5qZUCVIjiIPnmlzg=="/>
         <POI MapID="1593" xpos="130.293" ypos="69.6318" zpos="-112.909" type="legs.chests.magic.sw.flarge.mount.skimmer" GUID="B9Q5EE9DEEOnq+cpYk6LyA=="/>
         <POI MapID="1593" xpos="127.106" ypos="69.9474" zpos="-111.991" type="legs.chests.magic.sw.flarge.mount.skimmer.slipstream" GUID="iV23sNd7TE2rrTMkxjChdw=="/>
         <POI MapID="1593" xpos="-237.701" ypos="59.3523" zpos="15.1964" type="legs.chests.magic.sw.flarge.mount.skyscale" GUID="JV4lWK9JbUW+54WEXLLUSA=="/>
@@ -2603,6 +2622,17 @@
         <POI MapID="1593" xpos="-778.377" ypos="91.5989" zpos="167.41" type="legs.chests.magic.sw.flarge.mount.skimmer" GUID="sT5VkBbw0Eil8j7IT5+qVg=="/>
         <POI MapID="1593" xpos="-776.978" ypos="91.3151" zpos="165.745" type="legs.chests.magic.sw.flarge.mount.skimmer.slipstream" GUID="nHV5IR1XLUaFqyVRS+tQTQ=="/>
         <POI MapID="1593" xpos="-721.764" ypos="115.044" zpos="16.8284" type="legs.chests.magic.sw.flarge.mount.griffon" GUID="+xHcmmuVfEKg4jAyRFUtMA=="/>
+        <POI MapID="1593" xpos="128.7246" ypos="25.39717" zpos="-309.4513" type="legs.chests.magic.sw.flarge.mount.skyscale" GUID="kwNzydHgJ0i/ApoKIilIxw=="/>
+        <POI MapID="1593" xpos="-68.9115" ypos="5.11451" zpos="374.479" type="legs.chests.magic.sw.flarge.mount.skimmer" GUID="kyXAx4sjSEebAqQ6WSoh7w=="/>
+        <POI MapID="1593" xpos="-66.3533" ypos="5.97149" zpos="376.415" type="legs.chests.magic.sw.flarge.mount.skimmer.slipstream" GUID="crY7OrIrpkKmb+6FhCdE+g=="/>
+        <POI MapID="1593" xpos="26.9612" ypos="45.4152" zpos="438.149" type="legs.chests.magic.sw.flarge.jbgb" GUID="rdMYiVWPYkuQC3rRn8FOYw=="/>
+        <POI MapID="1593" xpos="41.5227" ypos="55.0803" zpos="448.071" type="legs.chests.magic.sw.flarge.mount.skyscale" GUID="o+MMislFG02Wh1Ol+8l/7g=="/>
+        <POI MapID="1593" xpos="99.8483" ypos="87.7074" zpos="458.719" type="legs.chests.magic.sw.flarge.mount.skyscale" GUID="FD+f9MQNlkKVbSI17oDApg=="/>
+        <POI MapID="1593" xpos="166.708" ypos="110.912" zpos="445.499" type="legs.chests.magic.sw.flarge.mount.griffon" GUID="klGkxNr0wUW8d0DDRJ80Yw=="/>
+        <POI MapID="1593" xpos="551.49" ypos="27.9522" zpos="503.286" type="legs.chests.magic.sw.flarge.mount.skimmer" GUID="spSGQXQpdEyc9ik3ECcs8g=="/>
+        <POI MapID="1593" xpos="555.568" ypos="29.1057" zpos="501.423" type="legs.chests.magic.sw.flarge.mount.skimmer.slipstream" GUID="R7FPHsdw+USntEl9ogAqkQ=="/>
+        <POI MapID="1593" xpos="743.536" ypos="71.2204" zpos="412.249" type="legs.chests.magic.sw.flarge.mount.bof" GUID="nEeY3S4cUEumXRkKEWkcPQ=="/>
+        <POI MapID="1593" xpos="743.536" ypos="73.2204" zpos="412.249" type="legs.chests.magic.sw.flarge.glider" GUID="cGPoAKyMRUWv9yy9i0Lv0g=="/>
 
         <POI MapID="1593" xpos="566.304" ypos="45.6905" zpos="-658.224" type="legs.chests.magic.small" GUID="sL6WvkcdxEeuWNyyc63Vhg=="/>
         <POI MapID="1593" xpos="657.492" ypos="1.19213" zpos="-485.784" type="legs.chests.magic.small" GUID="Qvub0A8R6UGfsN2CoC9a+A=="/>
@@ -2655,7 +2685,6 @@
         <POI MapID="1593" xpos="814.744" ypos="5.07741" zpos="-169.638" type="legs.chests.magic.small" GUID="TCCIE0j050eSDXGZRSrFew=="/>
         <POI MapID="1593" xpos="731.67" ypos="6.06853" zpos="-6.2166" type="legs.chests.magic.small" GUID="T85mdkURZ0W+SCubrZLJKw=="/>
         <POI MapID="1593" xpos="804.587" ypos="88.9709" zpos="204.709" type="legs.chests.magic.small" GUID="vvgg2VIylkSjljyLD7Vohw=="/>
-        <POI MapID="1593" xpos="-395.498" ypos="148.264" zpos="312.712" type="legs.chests.magic.medium" GUID="+XyPRkG4BUCCD5eIOyNs3w=="/>
         <POI MapID="1593" xpos="849.486" ypos="50.3047" zpos="430.429" type="legs.chests.magic.large" GUID="SoCFkxX6o02QNP0f/jinIQ=="/>
     </POIs>
 </OverlayData>
