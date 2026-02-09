@@ -477,7 +477,7 @@
                             <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
                             <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
                             <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                                <MarkerCategory name="slipstream" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
+                                <MarkerCategory name="slipstream" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png" minSize="16" maxSize="24"/>
                             </MarkerCategory>
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                             <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png">
@@ -521,13 +521,13 @@
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                         <MarkerCategory name="jbgb" DisplayName="Jade Bot Glide Booster" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png"/>
-                        <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" mapVisibility="1" minSize="32" maxSize="48" mapDisplaySize="64">
+                        <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
                             <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
                             <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                                <MarkerCategory name="slipstream" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
+                                <MarkerCategory name="slipstream" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png" minSize="16" maxSize="24"/>
                             </MarkerCategory>
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                             <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
@@ -541,13 +541,13 @@
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                         <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.75"/>
                         <MarkerCategory name="jbgb" DisplayName="Jade Bot Glide Booster" iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png"/>
-                        <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" mapVisibility="1" minSize="32" maxSize="48" mapDisplaySize="128">
+                        <MarkerCategory name="mount" DisplayName="Toggle Mounts" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
                             <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
                             <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                                <MarkerCategory name="slipstream" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
+                                <MarkerCategory name="slipstream" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png" minSize="16" maxSize="24"/>
                             </MarkerCategory>
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                             <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
