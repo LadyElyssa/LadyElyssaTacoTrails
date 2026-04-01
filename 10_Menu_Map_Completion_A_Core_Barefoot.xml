@@ -1,0 +1,558 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <!-- Map Completion -->
+        <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10">
+            <MarkerCategory name="core" DisplayName="Core Maps">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
+                <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/LadyElyssa/Images/Icons/ExitInstance.png" maxSize="32"/>
+                <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="blazeridge" IsSeparator="1" DisplayName="Blazeridge Steppes"/>
+                    <MarkerCategory name="heartportal" DisplayName="Portal" iconFile="Data/LadyElyssa/Images/Portal.png" minSize="16" maxSize="24" fadeNear="1200" fadeFar="2400" heightOffset="0"/>
+                    <MarkerCategory name="heartrewind" DisplayName="Rewind" minSize="16" maxSize="32" fadeNear="1200" fadeFar="2400" heightOffset="2.0"/>
+                    <MarkerCategory name="stealthpath" DisplayName="Stealth Path" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                    <MarkerCategory name="brisban" IsSeparator="1" DisplayName="Brisban Wildlands"/>
+                    <MarkerCategory name="mines" DisplayName="Bandit Mine" iconFile="Data/LadyElyssa/Images/Icons/Death.png" minSize="12" maxSize="32" heightOffset="0"/>
+                    <MarkerCategory name="poison" DisplayName="Baneberry" iconFile="Data/LadyElyssa/Images/Baneberry.png" minSize="12" maxSize="32" heightOffset="0"/>
+                    <MarkerCategory name="combat" DisplayName="Combat" iconFile="Data/LadyElyssa/Images/Combat.png" minSize="12" maxSize="32" heightOffset="3.0"/>
+                    <MarkerCategory name="wayfarer" IsSeparator="1" DisplayName="Wayfarer Foothills"/>
+                    <MarkerCategory name="jotun" DisplayName="Jotun Trading Heart" iconFile="Data/LadyElyssa/Images/Hearts/Renown Heart Empty.png" mapVisibility="0" miniMapVisibility="0" minSize="8" maxSize="16" fadeNear="600" fadeFar="1200"/>                </MarkerCategory>
+                <MarkerCategory name="jade" DisplayName="Jade Protocol Reminder" iconFile="Data/LadyElyssa/Images/Jade Protocol Reminder.png" mapVisibility="0" miniMapVisibility="0"/>
+                <MarkerCategory name="sign" DisplayName="Sign - Do Not Enter" iconFile="Data/LadyElyssa/Images/Stop_Hand_Blue.png" fadeNear="600" fadeFar="1200"/>
+                <MarkerCategory name="maproute" IsSeparator="1" DisplayName="Map Completion Route"/>
+                <MarkerCategory name="metrica" DisplayName="Metrica Province (Start) ">
+                    <MarkerCategory name="recommend" DisplayName="Information" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="brisban" DisplayName="Brisban Wildlands">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                                    
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="grove" DisplayName="The Grove">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="queensdale" DisplayName="Queensdale">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="gendarran" DisplayName="Gendarran Fields">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="ashford" DisplayName="Plains of Ashford">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="diessa" DisplayName="Diessa Plateau">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="citadel" DisplayName="Black Citadel">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="la" DisplayName="Lion's Arch">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="rata" DisplayName="Rata Sum">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="divinity" DisplayName="Divinity's Reach">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="fields" DisplayName="Fields of Ruin">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="ironmarches" DisplayName="Iron Marches">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="snowden" DisplayName="Snowden Drifts">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+            
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="timberline" DisplayName="Timberline Falls">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="lornars" DisplayName="Lornars Pass">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>                    
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="devastation" DisplayName="Straits of Devastation">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="malchors" DisplayName="Malchor's Leap">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+                
+                <MarkerCategory name="cs" DisplayName="Cursed Shore">
+                    <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="hp" DisplayName="Hero Points"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+        <!-- END CORE Map -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

@@ -1,0 +1,167 @@
+<OverlayData>
+    <POIs>
+        <!-- MAP COMPLETION - Waypoints Only -->
+        <!-- Metrica Province -->
+        <Trail type="legs.map.core.metrica.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Metrica WP.trl" color="FFFF00"/>
+
+        <!-- Brisban Wildlands -->
+        <Trail type="legs.map.core.brisban.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Brisban WP.trl" color="FFFF00"/>
+
+        <!-- Kessex Hills -->
+        <Trail type="legs.map.core.kessex.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Kessex Hills WP Mount Shortcut.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.kessex.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Kessex Hills WP.trl" color="FFFF00"/>
+        <POI MapID="23" xpos="-894.0035" ypos="92.93608" zpos="478.8384" type="legs.map.core.kessex.wp.skyscale" GUID="+GUlFsexGkyoyHpJjiNosQ=="/>
+
+        <!-- Caledon Forest -->
+        <Trail type="legs.map.core.caledon.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Caledon Forest WP Mount Shortcut.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="34" xpos="-24.3235" ypos="3.396762" zpos="-211.8739" type="legs.map.core.caledon.wp.springer" GUID="q4pTAp1bpEC4ONUVNVOI6w=="/>
+        <Trail type="legs.map.core.caledon.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Caledon Forest WP.trl" color="FFFF00"/>
+
+        <!-- Queensdale -->
+        <Trail type="legs.map.core.queensdale.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Queensdale WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.queensdale.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Queensdale WP 2.trl" color="FFFF00"/>
+
+        <!-- Gendarran Fields -->
+        <Trail type="legs.map.core.gendarran.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Gendarran Fields WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.gendarran.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Gendarran Fields WP 2.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.gendarran.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Gendarran Fields WP 3.trl" color="FFFF00"/>
+
+        <!-- Harathi Hinterlands -->
+        <Trail type="legs.map.core.harathi.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Harathi Hinterlands WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.harathi.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Harathi Hinterlands WP 2.trl" color="FFFF00"/>
+        <POI MapID="17" xpos="645.6371" ypos="108.206" zpos="649.762" type="legs.map.core.harathi.wp.wp" GUID="wgo+o2WUHE+l2ccQGUUI/g==" copy="[&amp;BKYAAAA=]" copy-message="Shieldbluff Waypoint, Plains of Ashford"/>
+        <POI MapID="17" xpos="-758.8702" ypos="33.99803" zpos="667.8614" type="legs.map.core.harathi.wp.wp" GUID="6CsIpfgF7UK15h062IgFiA==" copy="[&amp;BIABAAA=]" copy-message="Smokestead Waypoint, Plains of Ashford"/>
+
+        <!-- Plains of Ashford -->
+        <Trail type="legs.map.core.ashford.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Ashford WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.ashford.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Ashford WP 2.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.ashford.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Ashford WP 3.trl" color="FFFF00"/>
+        <POI MapID="19" xpos="-1094.003" ypos="55.12247" zpos="480.5772" type="legs.map.core.ashford.wp.wp" GUID="7XAUjHQ0yEewggbKvxE3Xw==" copy="[&amp;BIABAAA=]" copy-message="Smokestead Waypoint"/>
+        <POI MapID="19" xpos="-828.1119" ypos="52.80953" zpos="-500.2563" type="legs.map.core.ashford.wp.wp" GUID="O17iVjTh0kaFf6fOw7VxPA==" copy="[&amp;BH8BAAA=]" copy-message="Vir's Gate Waypoint"/>
+
+        <!-- Diessa Plateau -->
+        <Trail type="legs.map.core.diessa.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Diessa Plateau WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.diessa.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Diessa Plateau WP 2.trl" color="FFFF00"/>
+        <POI MapID="32" xpos="405.7444" ypos="37.72346" zpos="581.2261" type="legs.map.core.diessa.wp.wp" GUID="OTVpJTlD9kmd/1dbVUotzA==" copy="[&amp;BEIEAAA=]" copy-message="Blackblade Waypoint"/>
+
+        <!-- Fields of Ruin -->
+        <Trail type="legs.map.core.fields.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Fields WP.trl" color="FFFF00"/>
+
+        <!-- Blazeridge Steppes -->
+        <Trail type="legs.map.core.blazeridge.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Blazeridge Steppes WP Mount Shortcut 1.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.blazeridge.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Blazeridge Steppes WP Mount Shortcut 2.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="20" xpos="-325.2021" ypos="37.94331" zpos="-51.69614" type="legs.map.core.blazeridge.wp.skyscale" GUID="7zO+wYaepU6dbfqs66ZUVg=="/>
+        <POI MapID="20" xpos="-300.5887" ypos="20.20476" zpos="399.1558" type="legs.map.core.blazeridge.wp.skyscale" GUID="rq0LHGbUbEu8eXkrq+v4rg=="/>
+        <Trail type="legs.map.core.blazeridge.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Blazeridge Steppes WP.trl" color="FFFF00"/>
+
+        <!-- Iron Marches -->
+        <Trail type="legs.map.core.ironmarches.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Iron Marches WP Mount Shortcut.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="25" xpos="-363.9675" ypos="30.3576" zpos="-937.297" type="legs.map.core.ironmarches.wp.springer" GUID="kBRVnQcTk0W5BCbxPGpYkA=="/>
+        <Trail type="legs.map.core.ironmarches.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Iron Marches WP.trl" color="FFFF00"/>
+
+        <!-- Fireheart Rise -->
+        <Trail type="legs.map.core.fireheart.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Fireheart WP Mount Shortcut 1.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.fireheart.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Fireheart WP Mount Shortcut 2.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.fireheart.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Fireheart Rise WP 1.trl" color="FFFF00"/>
+        <POI MapID="22" xpos="802.8002" ypos="16.05507" zpos="35.92648" type="legs.map.core.fireheart.wp.wp" GUID="FA69fSeAQUGLRYMaow7s8g==" copy="[&amp;BCUCAAA=]" copy-message="Simurgh Waypoint"/>
+        <Trail type="legs.map.core.fireheart.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Fireheart Rise WP 2.trl" color="FFFF00"/>
+        <POI MapID="22" xpos="442.815" ypos="19.66517" zpos="344.883" type="legs.map.core.fireheart.wp.1" GUID="6Ebb14WQRk+7Fl4RTZqXuA=="/>
+        <POI MapID="22" xpos="869.8419" ypos="55.99097" zpos="658.0856" type="legs.map.core.fireheart.wp.wp" GUID="Lp+v8ltdbEGPx6kLqKooig==" copy="[&amp;BCUCAAA=]" copy-message="Simurgh Waypoint"/>
+        <Trail type="legs.map.core.fireheart.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Fireheart Rise WP 3.trl" color="FFFF00"/>
+        <POI MapID="22" xpos="434.4147" ypos="19.186" zpos="349.0071" type="legs.map.core.fireheart.wp.2" GUID="ZTYQjo6oQ0KZUlaY29pXtw=="/>
+        <POI MapID="22" xpos="244.511" ypos="38.0826" zpos="661.518" type="legs.map.core.fireheart.wp.springer" GUID="c3Rufv2gdUqTKdc86hPlZQ=="/>
+        <POI MapID="22" xpos="600.5366" ypos="0.9631972" zpos="-474.9905" type="legs.map.core.fireheart.wp.springer" GUID="UjOCqYYRIUijRCiwvjoJ+A=="/>
+        
+        <!-- Frostgorge Sound -->
+        <Trail type="legs.map.core.frostgorge.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Frostgorge Sound WP 1.trl" color="FFFF00"/>
+        <POI MapID="30" xpos="-886.1813" ypos="12.70938" zpos="877.3707" type="legs.map.core.frostgorge.wp.wp" GUID="LY3wiJbHQEOR+0OYhaF3vA==" copy="[&amp;BH8CAAA=]" copy-message="Dimotiki Waypoint"/>
+        <Trail type="legs.map.core.frostgorge.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Frostgorge Sound WP 2.trl" color="FFFF00"/>
+        <POI MapID="30" xpos="583.1041" ypos="23.77302" zpos="-321.894" type="legs.map.core.frostgorge.wp.wp" GUID="Li8EwIW3sUGiq/FFACd+Mw==" copy="[&amp;BIECAAA=]" copy-message="Skyheight Steading Waypoint"/>
+        <Trail type="legs.map.core.frostgorge.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Frostgorge Sound WP 3.trl" color="FFFF00"/>
+
+        <!-- Snowden Drifts -->
+        <Trail type="legs.map.core.snowden.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Snowden Drifts WP 1.trl" color="FFFF00"/>
+        <POI MapID="31" xpos="1070.008" ypos="108.3196" zpos="-377.6838" type="legs.map.core.snowden.wp.wp" GUID="82ddrSf4JUe4l8wh2Fyjhw==" copy="[&amp;BLYAAAA=]" copy-message="Lost Child's Sorrow Waypoint"/>
+        <Trail type="legs.map.core.snowden.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Snowden Drifts WP 2.trl" color="FFFF00"/>
+        <POI MapID="31" xpos="-437.1614" ypos="1.451441" zpos="378.6226" type="legs.map.core.snowden.wp.wp" GUID="YLB8Qoxt8kCZC3JRuB2CNA==" copy="[&amp;BLkAAAA=]" copy-message="Snowdrift Haven Waypoint"/>
+        <Trail type="legs.map.core.snowden.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Snowden Drifts WP 3.trl" color="FFFF00"/>
+        <POI MapID="31" xpos="-1109.156" ypos="126.5878" zpos="311.545" type="legs.map.core.snowden.wp.wp" GUID="dVpHnVTwsUeCtLBeuRBJ5Q==" copy="[&amp;BLQAAAA=]" copy-message="Lornar's Waypoint"/>
+        <Trail type="legs.map.core.snowden.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Snowden Drifts WP 4.trl" color="FFFF00"/>
+        <POI MapID="31" xpos="325.5086" ypos="30.93136" zpos="-426.7019" type="legs.map.core.snowden.wp.wp" GUID="iwwfqyAp00S+3XQHDTcmRA==" copy="[&amp;BLQAAAA=]" copy-message="Lornar's Waypoint"/>
+        <Trail type="legs.map.core.snowden.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Snowden Drifts WP 5.trl" color="FFFF00"/>
+
+        <!-- Wayfarer Foothills -->
+        <Trail type="legs.map.core.wayfarer.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Wayfarer Foothills WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.wayfarer.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Wayfarer Foothills WP 2.trl" color="FFFF00"/>
+        <POI MapID="28" xpos="265.7188" ypos="194.6969" zpos="1223.959" type="legs.map.core.wayfarer.wp.wp" GUID="gwDkr0FSSUahunwqG35wjQ==" copy="[&amp;BMEDAAA=]" copy-message="Lostvyrm Cave Waypoint"/>
+
+        <!-- Dredgehaunt Cliffs -->
+        <Trail type="legs.map.core.dredgehaunt.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Dredgehaunt Cliffs WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.dredgehaunt.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Dredgehaunt Cliffs WP 2.trl" color="FFFF00"/>
+        <POI MapID="26" xpos="-505.705" ypos="-0.1006332" zpos="-649.3304" type="legs.map.core.dredgehaunt.wp.wp" GUID="xZXrgbjG3UWiVaF9eyuTiw==" copy="[&amp;BFkCAAA=]" copy-message="Seven Pines Waypoint"/>
+
+        <!-- Timberline Falls -->
+        <Trail type="legs.map.core.timberline.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Timberline Falls WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.timberline.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Timberline Falls WP 2.trl" color="FFFF00"/>
+        <POI MapID="29" xpos="357.2475" ypos="4.839702" zpos="207.0579" type="legs.map.core.timberline.wp.wp" GUID="XvjTduJIrU63eoAbqAOJQw==" copy="[&amp;BE8CAAA=]" copy-message="White Paper Waypoint"/>
+
+        <!-- Lornar's Pass -->
+        <Trail type="legs.map.core.lornars.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Lornar's Pass WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.lornars.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Lornar's Pass WP 2.trl" color="FFFF00"/>
+        <POI MapID="27" xpos="273.404" ypos="155.2954" zpos="1354.816" type="legs.map.core.lornars.wp.wp" GUID="ewHud3TD3kuv3QKKMFVekA==" copy="[&amp;BFIGAAA=]" copy-message="Refuge Peak Waypoint"/>
+
+        <!-- Bloodtide Coast -->
+        <Trail type="legs.map.core.bloodtide.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Bloodtide Coast WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.bloodtide.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Bloodtide Coast WP 2.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.bloodtide.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Bloodtide Coast WP 3.trl" color="FFFF00"/>
+        <POI MapID="73" xpos="628.0522" ypos="-1.056642" zpos="-107.4781" type="legs.map.core.bloodtide.wp.wp" GUID="zrNI5Ia1Xk2bVz4r0D2Ygw==" copy="[&amp;BKUBAAA=]" copy-message="Stormbluff Waypoint"/>
+        <POI MapID="73" xpos="-80.96499" ypos="-132.1824" zpos="-621.6669" type="legs.map.core.bloodtide.wp.wp" GUID="t38GjQaV7Uay4YFxgMp7iQ==" copy="[&amp;BKgBAAA=]" copy-message="Laughing Gull Waypoint"/>
+
+        <!-- Sparkfly Fen -->
+        <Trail type="legs.map.core.sparkfly.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Sparkfly Fen WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.sparkfly.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Sparkfly Fen WP 2.trl" color="FFFF00"/>
+        <POI MapID="53" xpos="575.5419" ypos="38.76933" zpos="11.17465" type="legs.map.core.sparkfly.wp.wp" GUID="tIN5thzJH0mOtVxUW1nh4Q==" copy="[&amp;BE0DAAA=]" copy-message="Dryground Village Waypoint"/>
+
+        <!-- Mount Maelstrom -->
+        <Trail type="legs.map.core.maelstrom.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Mount Maelstrom WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.maelstrom.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Mount Maelstrom WP 2.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.maelstrom.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Mount Maelstrom WP 3.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.maelstrom.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Mount Maelstrom WP 4.trl" color="FFFF00"/>
+        <POI MapID="39" xpos="760.5087" ypos="10.0345" zpos="436.6538" type="legs.map.core.maelstrom.wp.wp" GUID="QWU5zPzKOkSde8FJtKCdCQ==" copy="[&amp;BNMCAAA=]" copy-message="Gauntlet Waypoint"/>
+        <POI MapID="39" xpos="1056.818" ypos="1.069888" zpos="-605.7685" type="legs.map.core.maelstrom.wp.wp" GUID="vEmEZXxNCEqHJ2hSpu4p9w==" copy="[&amp;BM4CAAA=]" copy-message="Ashen Waypoint"/>
+        <POI MapID="39" xpos="-310.918" ypos="9.352021" zpos="-294.5202" type="legs.map.core.maelstrom.wp.wp" GUID="knvKigqe/Eq+fSzPlesX/g==" copy="[&amp;BMoCAAA=]" copy-message="Firebreak Waypoint"/>
+
+        <!-- Straits of Devastation -->
+        <Trail type="legs.map.core.devastation.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Straits of Devastation WP 1 Mounts.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.devastation.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Straits of Devastation WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.devastation.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Straits of Devastation WP 2.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.devastation.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Straits of Devastation WP 3.trl" color="FFFF00"/>
+        <POI MapID="51" xpos="147.7701" ypos="2.830145" zpos="687.9024" type="legs.map.core.devastation.wp.wp" GUID="1wb0kvH9KEamwBy+V+QD6Q==" copy="[&amp;BO4CAAA=]" copy-message="Fort Trinity Waypoint"/>
+        <POI MapID="51" xpos="-647.8491" ypos="95.00638" zpos="-458.7561" type="legs.map.core.devastation.wp.wp" GUID="WgP6m+RPEkO5qlLTeH6sAA==" copy="[&amp;BNIEAAA=]" copy-message="Rally Waypoint"/>
+        <POI MapID="51" xpos="892.097" ypos="22.0402" zpos="157.416" type="legs.map.core.devastation.wp.skyscale" GUID="GReHSAr0YEqhZpxt+iH8ug=="/>
+
+        <!-- Malchor's Leap -->
+        <Trail type="legs.map.core.malchors.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Malchor's Leap WP 1 Alt.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.malchors.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Malchor's Leap WP 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.malchors.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Malchor's Leap WP 2 Alt.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.malchors.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Malchor's Leap WP 2.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.malchors.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Malchor's Leap WP 2 Alt.trl" color="FFFF00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.malchors.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Malchor's Leap WP 3.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.malchors.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Malchor's Leap WP 4.trl" color="FFFF00"/>
+
+
+        <POI MapID="65" xpos="1022.93" ypos="7.099914" zpos="77.68081" type="legs.map.core.malchors.wp.wp" GUID="ouvHPJYtjkSjQf+8v28Pjw==" copy="[&amp;BKYCAAA=]" copy-message="Pagga's Waypoint"/>
+        <POI MapID="65" xpos="1020.459" ypos="11.82388" zpos="65.20838" type="legs.map.core.malchors.wp.wp" GUID="fqQ7g18bUUyDC3UearpsXQ==" copy="[&amp;BKYCAAA=]" copy-message="Pagga's Waypoint"/>
+        <POI MapID="65" xpos="-177.2918" ypos="104.9629" zpos="-65.77343" type="legs.map.core.malchors.wp.wp" GUID="tu+6yU5BT06N7Ym0zKD3Tw==" copy="[&amp;BKwCAAA=] or [&amp;BK4CAAA=]" copy-message="Wren Waypoint (If Uncontested)&#xa;or&#xa;Dashed Line from Blighted Arch Waypoint"/>
+        <POI MapID="65" xpos="-172.5178" ypos="105.2983" zpos="-68.24546" type="legs.map.core.malchors.wp.wp" GUID="JlKLreWJAEy4hYHHeKWZ5w==" copy="[&amp;BKwCAAA=] or [&amp;BK4CAAA=]" copy-message="Wren Waypoint (If Uncontested)&#xa;or&#xa;Dashed Line from Blighted Arch Waypoint"/>
+        <POI MapID="65" xpos="503.0364" ypos="100.9443" zpos="372.5025" type="legs.map.core.malchors.wp.wp" GUID="VQl9DHl+IUCg+QIJqz7utA==" copy="[&amp;BK4CAAA=]" copy-message="Blighted Arch Waypoint"/>
+        <POI MapID="65" xpos="-759.1523" ypos="-36.73504" zpos="400.9106" type="legs.map.core.malchors.wp.wp" GUID="d9OtMXr7VkSMIm+BCNQyOA==" copy="[&amp;BK8CAAA=]" copy-message="Murmur Waypoint (If Teleport doesn't work)"/>
+
+        <POI MapID="65" xpos="788.8442" ypos="43.72002" zpos="-91.29566" type="legs.map.core.malchors.wp.skyscale" GUID="fj0nOso3kU+Z3bvjNEa4gg=="/>
+        <POI MapID="65" xpos="-80.27532" ypos="40.96099" zpos="-23.58848" type="legs.map.core.malchors.wp.springer" GUID="mkyxf7/s1EaG2If0e2qYcA=="/>
+        
+
+        <!-- Cursed Shore -->
+        <Trail type="legs.map.core.cs.wp" trailData="Data/LadyElyssa/Map Completion/Core/WP Only/Cursed Shore WP.trl" color="FFFF00"/>
+    </POIs>
+</OverlayData>

@@ -1,7 +1,7 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP ENHANCEMENTS -->
-        <MarkerCategory name="mape" DisplayName="Map Enhancements" heightOffset="3" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32">
+        <MarkerCategory name="mape" DisplayName="Map Enhancements" heightOffset="3" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32" >
             
             <MarkerCategory name="caves" DisplayName="Caves and Tunnels (WiP)" texture="Data/LadyElyssa/Images/Line - Medium No Shadow.png" color="1a1a1a" animSpeed="0"/>
 
@@ -15,17 +15,17 @@
                 <MarkerCategory name="tg" DisplayName="The Grove" mapDisplaySize="24"/>
             </MarkerCategory>
 
-            <MarkerCategory name="speedboons" DisplayName="Speed Boons" iconFile="Data/LadyElyssa/Images/Icons/Speed Boons.png">
+            <MarkerCategory name="speedboons" DisplayName="Speed Boons" iconFile="Data/LadyElyssa/Images/Icons/Speed Boons.png" fadeNear="1200" fadeFar="1600">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="CITY"/>
                 <MarkerCategory name="bc" DisplayName="Black Citadel" mapDisplaySize="16"/>
-                <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
-                <MarkerCategory name="hb" DisplayName="Hoelbrak"/>
-                <MarkerCategory name="la" DisplayName="Lion's Arch"/>
+                <MarkerCategory name="dr" DisplayName="Divinity's Reach" mapDisplaySize="16"/>
+                <MarkerCategory name="hb" DisplayName="Hoelbrak" mapDisplaySize="16"/>
+                <MarkerCategory name="la" DisplayName="Lion's Arch" mapDisplaySize="16"/>
                 <MarkerCategory name="rs" DisplayName="Rata Sum" mapDisplaySize="24"/>
                 <MarkerCategory name="tg" DisplayName="The Grove" mapDisplaySize="24"/>
             </MarkerCategory>
 
-            <MarkerCategory name="zone" DisplayName="Zone Portals" iconFile="Data/LadyElyssa/Images/Zone Gate.png" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="zone" DisplayName="Zone Portals" iconFile="Data/LadyElyssa/Images/Zone Gate.png" inGameVisibility="0" mapDisplaySize="48"/>
         </MarkerCategory>
         <!-- END CORE MAP ENHANCEMENTS -->
     </MarkerCategory>

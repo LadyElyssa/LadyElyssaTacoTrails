@@ -1,9 +1,9 @@
-    <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!--  Guild Missions -->
-        <MarkerCategory name="guild" DisplayName="Guild Missions">
+        <MarkerCategory name="guild" DisplayName="Guild Missions" defaulttoggle="0">
             <!--  Bounties -->
-            <MarkerCategory name="bounty" DisplayName="Bounties" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="1.4" alpha="1" fadeNear="1200" fadeFar="4000" color="99FF33">
+            <MarkerCategory name="bounty" DisplayName="Bounties" texture="Data/LadyElyssa/Images/Trail Pointer - Small Dark.png" animSpeed="1.4" alpha="1" fadeNear="1200" fadeFar="4000" color="99FF33">
                 <MarkerCategory name="easy" DisplayName="EASY" IsSeparator="1"/>
                 <MarkerCategory name="brekkabek" DisplayName="Brekkabek">
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
@@ -100,7 +100,7 @@
             <!--  Rush / Race -->
             <MarkerCategory name="race" DisplayName="Race" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.75" alpha="0.75" fadeNear="1200" fadeFar="4000">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="marker" DisplayName="Toggle Race Markers" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Race Start.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0" mapVisibility="1"/>
+                <MarkerCategory name="marker" DisplayName="Race" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Race Start.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0" mapVisibility="1"/>
                 <MarkerCategory name="race" IsSeparator="1" DisplayName="RACE"/>
                 <MarkerCategory name="bear" DisplayName="Bear Lope" color="99CC00">
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
@@ -127,8 +127,8 @@
                     <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
                 </MarkerCategory>
                 <MarkerCategory name="spider" DisplayName="Spider Scurry">
-                    <MarkerCategory name="spit" DisplayName="Toggle Spider Leap Marker" iconFile="Data/LadyElyssa/Images/Icons/Spit.png" alpha="0.6" minSize="12" maxSize="24" miniMapVisibility="1" heightOffset="0"/>
-                    <MarkerCategory name="leap" DisplayName="Toggle Spider Leaps" texture="Data/LadyElyssa/Images/Spider Scurry Leap.png" alpha="0.4" animSpeed="0" color=""/>
+                    <MarkerCategory name="spit" DisplayName="Spider Leap" iconFile="Data/LadyElyssa/Images/Icons/Spit.png" alpha="0.6" minSize="12" maxSize="24" miniMapVisibility="1" heightOffset="0"/>
+                    <MarkerCategory name="leap" DisplayName="Spider Leaps" texture="Data/LadyElyssa/Images/Spider Scurry Leap.png" alpha="0.4" animSpeed="0" color=""/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="99CC00"/>
                 </MarkerCategory>
@@ -136,10 +136,10 @@
             <!-- End Guild Races -->
             <!--  Treks -->
             <!--  https://wiki.guildwars2.com/wiki/Guild_Trek#Possible_locations -->
-            <MarkerCategory name="trek" DisplayName="Treks" texture="Data/LadyElyssa/Images/trailarrow-small.png" alpha="1" mapVisibility="1" minSize="64" maxSize="96" miniMapVisibility="1" mapDisplaySize="10" fadeNear="2400" fadeFar="3000">
+            <MarkerCategory name="trek" DisplayName="Treks" texture="Data/LadyElyssa/Images/Trail Pointer - Small Dark.png" alpha="1" mapVisibility="1" minSize="64" maxSize="96" miniMapVisibility="1" mapDisplaySize="10" fadeNear="2400" fadeFar="3000">
                 <MarkerCategory name="set" DisplayName="Settings"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Trek Names" alpha="1" mapDisplaySize="120"/>
-                    <MarkerCategory name="marker" DisplayName="Toggle Trek Markers" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Trek.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0"/>
+                    <MarkerCategory name="sign" DisplayName="Trek Names" alpha="1" mapDisplaySize="120"/>
+                    <MarkerCategory name="marker" DisplayName="Trek" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Trek.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0"/>
                     <MarkerCategory name="trail" DisplayName="Trail" color="00CCFF"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>

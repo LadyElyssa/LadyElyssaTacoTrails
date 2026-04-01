@@ -1,11 +1,11 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP TRAVERSAL -->
         <MarkerCategory name="mapt" DisplayName="Map Traversal" heightOffset="3" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32">
 
             <MarkerCategory name="ajtt" DisplayName="Ancient Teleporters" texture="Data/LadyElyssa/Images/Ancient Teleporter.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="marker" DisplayName="Toggle Ancient Teleporter" iconFile="Data/LadyElyssa/Images/Ancient Teleporter Marker Large.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
+                <MarkerCategory name="marker" DisplayName="Ancient Teleporter" iconFile="Data/LadyElyssa/Images/Ancient Teleporter Marker Large.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="de" DisplayName="Dragon's End"/>
             </MarkerCategory>
@@ -22,18 +22,18 @@
 
             <MarkerCategory name="jtlp" DisplayName="Jade Tech Launch Pads" texture="Data/LadyElyssa/Images/ZiplineB.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="marker" DisplayName="Launch Pad Marker" iconFile="Data/LadyElyssa/Images/Jade Tech Launch Pad.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
+                <MarkerCategory name="marker" DisplayName="Launch Pad" iconFile="Data/LadyElyssa/Images/Jade Tech Launch Pad.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
             </MarkerCategory>
             <!-- End Jade Tech Launch Pads -->
 
             <MarkerCategory name="jtt" DisplayName="Jade Tech Teleporters" texture="Data/LadyElyssa/Images/Jade Tech Teleporter.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="10">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="marker" DisplayName="Jade Tech Teleporter Marker" iconFile="Data/LadyElyssa/Images/Jade Tech Teleporter Marker Blue Large.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
+                <MarkerCategory name="marker" DisplayName="Jade Tech Teleporter" iconFile="Data/LadyElyssa/Images/Jade Tech Teleporter Marker Blue Large.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="30"/>
             </MarkerCategory>
             <!-- End Jade Tech Teleporters -->
 
             <MarkerCategory name="launchpad" DisplayName="Launch Pads" iconFile="Data/LadyElyssa/Images/Icons/Launch Pad.png">
-                <MarkerCategory name="trail" DisplayName="Toggle Trail" color="FF99CC" inGameVisibility="0" texture="Data/LadyElyssa/Images/Line - Fine.png"/>
+                <MarkerCategory name="trail" DisplayName="Trail" color="FF99CC" inGameVisibility="0" texture="Data/LadyElyssa/Images/Line - Fine.png"/>
             </MarkerCategory>
 
             <MarkerCategory name="mirrors" DisplayName="Mursaat Mirror" mapDisplaySize="10">

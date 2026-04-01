@@ -1,7 +1,7 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP COMPLETION -->
-        <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10">
+        <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10" defaulttoggle="0">
             <MarkerCategory name="jw" DisplayName="Janthir Wilds">
                 
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
@@ -9,9 +9,9 @@
                 <MarkerCategory name="ls" DisplayName="Lowland Shore">
                     <MarkerCategory name="main" DisplayName="Main Route">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
-                        <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"  color="FFFF00"/>
+                        <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="heartpath" DisplayName="Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"  color="FFFF00"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -28,9 +28,9 @@
                     </MarkerCategory>
                     <MarkerCategory name="homestead" DisplayName="Homestead Portal Route">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                        <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
-                        <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"  color="FFFF00"/>
+                        <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="heartpath" DisplayName="Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"  color="FFFF00"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                             <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
@@ -49,10 +49,10 @@
 
                 <MarkerCategory name="js" DisplayName="Janthir Syntri">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
-                <MarkerCategory name="heartinfo" DisplayName="Toggle Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
-                <MarkerCategory name="heartpath" DisplayName="Toggle Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
+                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                <MarkerCategory name="heartpath" DisplayName="Heart Trails" texture="Data/LadyElyssa/Images/Line - Heart.png" animSpeed="0"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>

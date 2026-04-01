@@ -27,6 +27,7 @@
         <POI MapID="988" xpos="-172.334" ypos="24.5137" zpos="37.3792" type="legs.map.lws2.drytop.barefoot.aspects.wind" GUID="qbXg+Pp6FE+zgE2ThkmIrw=="/>
         <POI MapID="988" xpos="-347.188" ypos="107.937" zpos="-342.015" type="legs.map.lws2.drytop.barefoot.aspects.wind" GUID="9QAQnPhsz0ygx18hyZ5jGw=="/>
         <POI MapID="988" xpos="-370.768" ypos="115.556" zpos="-325.293" type="legs.map.lws2.drytop.barefoot.aspects.lightning" GUID="7TobrzGBdEmwKXqYLZ/Krw=="/>
+
         <!-- DRY TOP - Mounts -->
         <Trail type="legs.map.lws2.drytop.withmounts" trailData="Data/LadyElyssa/Map Completion/LWS2/Dry Top.trl" color="00FFFF"/>
         <POI MapID="988" xpos="432.502" ypos="14.1159" zpos="-301.211" type="legs.map.lws2.drytop.withmounts.mine" GUID="PFrdv5HfuU2HJ7+2hRXlEQ=="/>
@@ -79,6 +80,8 @@
         <POI MapID="1015" xpos="-243.052" ypos="373.688" zpos="-352.894" type="legs.map.lws2.silverwastes.withmounts.finish" GUID="mE2lcDQqPE6+D3+p/ddVAA=="/>
         <POI MapID="1015" xpos="495.66" ypos="412.262" zpos="-232.862" type="legs.map.lws2.silverwastes.barefoot.number.2" GUID="6n5PXIVYX02G4vbIzUr2iA=="/>
         <POI MapID="1015" xpos="25.4686" ypos="418.625" zpos="-428.584" type="legs.map.lws2.silverwastes.barefoot.number.3" GUID="U2aGYctDlUCGWmMmT8nwJg=="/>
+        <POI MapID="1015" xpos="-439.472" ypos="424.986" zpos="216.984" type="legs.map.lws2.silverwastes.barefoot.wp" GUID="74eocadSok6jJnB0THxVGw==" copy="[&amp;BKwHAAA=]" copy-message="Hidden Depths Waypoint (Only available after Meta)"/>
+        <POI MapID="1015" xpos="-89.188" ypos="15.7556" zpos="64.6313" type="legs.map.lws2.silverwastes.barefoot.wp" GUID="6YPd5id+9kavol6va9b0cA==" copy="[&amp;BKcHAAA=]" copy-message="Camp Resolve Waypoint"/>
         <!-- Silverwastes - Mounts-->
         <Trail type="legs.map.lws2.silverwastes.withmounts.number.1" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes 1.trl" color="00FFFF"/>
         <Trail type="legs.map.lws2.silverwastes.withmounts.number.2" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes 2.trl" color="00FFFF"/>

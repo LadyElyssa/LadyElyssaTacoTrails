@@ -1,5 +1,5 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="wb" DisplayName="World Bosses" alpha="1" mapVisibility="1" minSize="48" maxSize="84" miniMapVisibility="1">
             <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                 <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
@@ -29,7 +29,7 @@
                 <MarkerCategory name="earth" DisplayName="Earth Button" texture="Data/LadyElyssa/Images/Icons/MCK-Earth.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="fire" DisplayName="Fire Button" texture="Data/LadyElyssa/Images/Icons/MCK-Fire.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="ice" DisplayName="Ice Button" texture="Data/LadyElyssa/Images/Icons/MCK-Ice.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400"/>
-                <MarkerCategory name="water" DisplayName="Water Button" texture="Data/LadyElyssa/Images/Icons/MCK-Water.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400" color="66FFFF"/>
+                <MarkerCategory name="water" DisplayName="Water Button" texture="Data/LadyElyssa/Images/Icons/MCK-Water.png" animSpeed="0" alpha="1" fadeNear="1200" fadeFar="2400"/>
             </MarkerCategory>
             <MarkerCategory name="gjw" DisplayName="Great Jungle Wurm">
                 <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
@@ -113,14 +113,6 @@
                 <MarkerCategory name="breakbar" DisplayName="Jump pad for Breakbar at 14:15, 12:15, 9:35, 7:45" minSize="24" maxSize="32" mapDisplaySize="25"/>
             </MarkerCategory>
             <MarkerCategory name="hardcore" DisplayName="HARDCORE" IsSeparator="1"/>
-            <MarkerCategory name="ejw" DisplayName="Triple Trouble">
-                <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
-                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="FF9933"/>
-                <MarkerCategory name="pre" DisplayName="PRE-EVENT(S)" IsSeparator="1"/>
-                <MarkerCategory name="amber" DisplayName="Amber Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
-                <MarkerCategory name="cobalt" DisplayName="Cobalt Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
-                <MarkerCategory name="crimson" DisplayName="Crimson Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
-            </MarkerCategory>
             <MarkerCategory name="kq" DisplayName="Karka Queen">
                 <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
                 <MarkerCategory name="southsun" DisplayName="Southsun Cove" color="FF9933"/>
@@ -139,6 +131,14 @@
                 <MarkerCategory name="north" DisplayName="Defend North Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
                 <MarkerCategory name="east" DisplayName="Defend East Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
                 <MarkerCategory name="west" DisplayName="Defend West Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
+            </MarkerCategory>
+            <MarkerCategory name="ejw" DisplayName="Triple Trouble">
+                <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="FF9933"/>
+                <MarkerCategory name="pre" DisplayName="PRE-EVENT(S)" IsSeparator="1"/>
+                <MarkerCategory name="amber" DisplayName="Amber Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="cobalt" DisplayName="Cobalt Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="crimson" DisplayName="Crimson Wurm Escort" minSize="24" maxSize="48" mapDisplaySize="25"/>
             </MarkerCategory>
         </MarkerCategory>
         <!-- End World Bosses -->

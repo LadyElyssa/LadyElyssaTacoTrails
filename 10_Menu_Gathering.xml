@@ -1,0 +1,1556 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <MarkerCategory name="gathering" DisplayName="Gathering" defaulttoggle="0">
+            <!-- 
+                    Behaviour=4 
+                    Reset Length="60" 
+            -->
+            <MarkerCategory name="asc" IsSeparator="1" DisplayName="ASCENDED"/>
+            
+            <MarkerCategory name="dragonite" DisplayName="Dragonite">
+                <MarkerCategory name="dragonite_worldbosses" IsSeparator="1" DisplayName="World Bosses"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="empyreal" DisplayName="Empyreal">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/LadyElyssa/Images/Finish.png" mapVisibility="1" mapDisplaySize="96"/>
+                <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Cyan.png" fadeNear="1200" fadeFar="1400" triggerrange="3.9" autotrigger="true" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" iconSize="0.5" heightOffset="2.5" mapDisplaySize="25"/>
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="number" DisplayName="Trail Segment" miniMapVisibility="0">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                </MarkerCategory>
+                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                <MarkerCategory name="ef_ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="33CCFF"/>
+                <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="33CCFF"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="33CCFF"/>
+                <MarkerCategory name="ironmarches" DisplayName="Iron Marches" color="33CCFF"/>
+                <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="33CCFF"/>
+
+                <MarkerCategory name="ef_kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="33CCFF"/>
+                <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="33CCFF"/>
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="33CCFF"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="33CCFF"/>
+                <MarkerCategory name="queensdale" DisplayName="Queensdale" color="33CCFF"/>
+                <MarkerCategory name="southsun" DisplayName="Southsun Cove" color="33CCFF"/>
+
+                <MarkerCategory name="ef_maguumajungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" color="33CCFF"/>
+                <MarkerCategory name="metrica" DisplayName="Metrica Province (start)" color="33CCFF"/>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen" color="33CCFF"/>
+                    
+                <MarkerCategory name="ef_shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAK MOUNTAINS"/>
+                <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="33CCFF"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="33CCFF"/>
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" color="33CCFF"/>
+                <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="33CCFF"/>
+                <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="33CCFF"/>
+                <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="33CCFF"/>
+                <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills" color="33CCFF"/>
+                    
+                <MarkerCategory name="ef_orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                <MarkerCategory name="cursedshore" DisplayName="Cursed Shore" color="33CCFF"/>
+                <MarkerCategory name="devastation" DisplayName="Strait of Devastation" color="33CCFF"/>
+                <MarkerCategory name="malchors" DisplayName="Malchor's Leap" color="33CCFF"/>
+            </MarkerCategory>
+            <!-- End Ascended -->
+
+            <MarkerCategory name="expac" IsSeparator="1" DisplayName="EXPANSIONS"/>
+            
+            <MarkerCategory name="eod" DisplayName="End of Dragons">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="resin" DisplayName="Petrified Echovald Resin">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="jw" DisplayName="Janthir Wilds">
+                
+                <MarkerCategory name="ls" IsSeparator="1" DisplayName="LOWLAND SHORE"/>
+
+                <MarkerCategory name="honeypine" DisplayName="Lowland Pine and Honey Flowers"/>
+
+                <MarkerCategory name="js" IsSeparator="1" DisplayName="JANTHIR SYNTRI"/>
+                <MarkerCategory name="amberore" DisplayName="Titan Amber and Titan Ore"/>
+
+                <MarkerCategory name="mb" IsSeparator="1" DisplayName="MISTBURNED BARRENS"/>
+                <MarkerCategory name="obsidianheatstone" DisplayName="Mursaat Obsidian and Titan Heatstone"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="set" IsSeparator="1" DisplayName="GENERAL"/>
+            <MarkerCategory name="ore" DisplayName="Ore">
+                <!-- Rich Copper -->
+                <MarkerCategory name="richcopper" DisplayName="Rich Copper">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Rich Copper Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Copper.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="D98D26"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale" color="D98D26"/>
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest (start)" color="D98D26"/>
+                </MarkerCategory>
+                <!-- Rich Silver -->
+                <MarkerCategory name="richsilver" DisplayName="Rich Silver">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Rich Silver Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Silver.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin (start)" color="ACC3DB"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="ACC3DB"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="ACC3DB"/>
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" color="ACC3DB"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="ACC3DB"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="ACC3DB"/>
+                </MarkerCategory>
+                <!-- Rich Gold -->
+                <MarkerCategory name="richgold" DisplayName="Rich Gold">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                        <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="node" DisplayName="Rich Gold Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Gold.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="FFD700"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin" color="FFD700"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="hirathi" DisplayName="Hirathi Hinterlands (start)" color="FFD700"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="FFD700"/>
+                    <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="FFD700"/>
+                </MarkerCategory>
+                <!-- Rich Iron -->
+                <MarkerCategory name="richiron" DisplayName="Rich Iron" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="iron" DisplayName="Rich iron Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Iron.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge" color="7198C1"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="7198C1"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin (start)" color="7198C1"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="gendarren" DisplayName="Gendarren Fields" color="7198C1"/>
+                    <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="7198C1"/>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="7198C1"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="brisban" DisplayName="Brisban" color="7198C1"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="dredge" DisplayName="Dredgehaunt Cliffs" color="7198C1"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass" color="7198C1"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="7198C1"/>
+                </MarkerCategory>
+                <!-- Rich Platinum -->
+                <MarkerCategory name="richplat" DisplayName="Rich Platinum">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="plat" DisplayName="Rich Platinum Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Platinum.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" color="CCCCCC"/>
+                    <MarkerCategory name="ironmarches" DisplayName="Iron Marches" color="CCCCCC"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="CCCCCC"/>
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="CCCCCC"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen (start)" color="CCCCCC"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="timberline" DisplayName="Timberline Falls" color="CCCCCC"/>
+                </MarkerCategory>
+                <!-- Rich Mithril -->
+                <MarkerCategory name="richmithril" DisplayName="Rich Mithril" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="mithril" DisplayName="Rich Mithril Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Mithril.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise (start)" color="00BFFF"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="00BFFF"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="00BFFF"/>
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap" color="00BFFF"/>
+                    <MarkerCategory name="cursedshore" DisplayName="Cursed Shore" color="00BFFF"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge" color="00BFFF"/>
+                    <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS   "/>
+                    <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00BFFF"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+                    <MarkerCategory name="bitterfrost" DisplayName="Bitterfrost Frontier" color="00BFFF"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="desolation" DisplayName="Desolation" color="00BFFF"/>
+                    <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi" color="00BFFF"/>
+                </MarkerCategory>
+                <!-- Rich Orichalcum -->
+                <MarkerCategory name="richorich" DisplayName="Rich Orichalcum" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="orich" DisplayName="Rich Orichalcum Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Orich.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+                    <MarkerCategory name="lakedoric" DisplayName="Lake Doric" color="FFAC00"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="crystaloasis" DisplayName="Crystal Oasis"/>
+                    <MarkerCategory name="deserthighlands" DisplayName="Desert Highlands" color="FFAC00"/>
+                    <MarkerCategory name="desolation" DisplayName="The Desolation" color="FFAC00"/>
+                    <MarkerCategory name="vabbi" DisplayName="Vabbi  (start) Spearmarshall's Plea" color="FFAC00"/>
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik   "/>
+                    <MarkerCategory name="istan" DisplayName="Istan" color="FFAC00"/>
+                    <MarkerCategory name="jahai" DisplayName="Jahai" color="FFAC00"/>
+                    <MarkerCategory name="kourna" DisplayName="Kourna" color="FFAC00"/>
+                    <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" color="FFAC00"/>
+                    <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks" color="FFAC00"/>
+                    <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: Icebrood Saga   "/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast" color="FFAC00"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley" color="FFAC00"/>
+                </MarkerCategory>
+                <MarkerCategory name="richquartz" DisplayName="Rich Quartz Crystal">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="quartz" DisplayName="Rich Quartz Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-R-Quartz.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="crystaloasis" DisplayName="Crystal Oasis"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <!-- PLANTS -->
+            <MarkerCategory name="plants" DisplayName="Plants">
+                <MarkerCategory name="artichoke" DisplayName="Artichoke">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Artichoke Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Teal.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom - Oxbow Isle WP" color="99FFFF"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="99FFFF"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="dov" DisplayName="Domain of Vabbi" color="99FFFF"/>
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                    <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" color="99FFFF"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="asparagus" DisplayName="Asparagus Spear">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Asparagus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Purple.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise - Havoc WP">
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="Trail Segment"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="F2BFFF"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="F2BFFF"/>
+                    <!--
+                    <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5 - The Icebrood Saga"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+                    -->
+                </MarkerCategory>
+
+                <MarkerCategory name="crocus" DisplayName="Black Crocus" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Black Crocus Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Dark Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap - Pagga's WP">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                
+                    <MarkerCategory name="cs" DisplayName="Cursed Shore" color="9C0C00"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="blooming" DisplayName="Blooming Passiflora ">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="passiflora" DisplayName="Blooming Passiflora" iconFile="Data/LadyElyssa/Images/Passion Flower.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                    <MarkerCategory name="southsun" DisplayName="Southsun Cove - Pearl Islet WP" texture="Data/LadyElyssa/Images/Trail-Textured.png" color="FF65CD"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3"/>
+                    <MarkerCategory name="ember" DisplayName="Ember Bay" texture="Data/LadyElyssa/Images/Trail-Textured.png" color="FF65CD"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="clam" DisplayName="Clams" texture="Data/LadyElyssa/Images/Trails/Brown Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Clam Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="brisban" DisplayName="Brisban Wildlands - Mrot Bru WP"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis - Amnoon WP"/>
+                    <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp WP"/>
+                    <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                    <MarkerCategory name="nkc" DisplayName="New Kaineng City"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="coral" DisplayName="Coral">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Coral Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                    <MarkerCategory name="siren" DisplayName="Siren's Landing" color="DD0C00"/>
+                    <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp WP" color="DD0C00"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="desert" DisplayName="Desert Herbs"> 
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="herbs" DisplayName="Desert Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis - Temple of Kormir WP" color="CEFF33"/>
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                    <MarkerCategory name="kourna" DisplayName="Domain of Kourna" color="CEFF33"/>
+                    <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" color="CEFF33"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="flax" DisplayName="Flax">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="flax" DisplayName="Flax Seeds" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+                    <MarkerCategory name="vb" DisplayName="Verdant Brink - Jaka Itzel WP" color="D2B48C">
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="td" DisplayName="Tangled Depths" color="D2B48C">
+                        <MarkerCategory name="glider" DisplayName="Glider Route"/>
+                        <MarkerCategory name="mount" DisplayName="Mount Route"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+                    <MarkerCategory name="draconis" DisplayName="Draconis Mons" color="D2B48C"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE" color="D2B48C"/>
+                    <MarkerCategory name="kourna" DisplayName="Domain of Kourna" color="D2B48C"/>
+                    <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" color="D2B48C"/>
+                    <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS" color="D2B48C"/>
+                    <MarkerCategory name="seitung" DisplayName="Seitung Province" color="D2B48C"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="herbs" DisplayName="Herbs">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Yellow.png" miniMapVisibility="1" inGameVisibility="0" fadefar="20000" mapDisplaySize="32" />
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>                
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" color="FFFF99"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation" color="FFFF99"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  : Shiverpeaks (Mature Herbs)"/>
+                    <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="FFFF99"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass - Thunderhorns WP" color="FFFF99"/>
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                    <MarkerCategory name="kourna" DisplayName="Domain of Kourna" color="FFFF99"/>
+                    <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" color="FFFF99"/>
+                    <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                    <MarkerCategory name="seitung" DisplayName="Seitung Province" color="FFFF99"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="lily" DisplayName="Jungle Plants">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="lily" DisplayName="Jungle Plants" iconFile="Data/LadyElyssa/Images/Hexagon - Pink.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+                    <MarkerCategory name="bloodstone" DisplayName="Bloodstone Fen - Soulkeeper's Airship WP" color="FFCCFF"/>
+                    <MarkerCategory name="draconis" DisplayName="Draconis Mons - Ancient Hollow WP" color="FFCCFF"/>
+                    <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+                    <MarkerCategory name="ds" DisplayName="Dragon's Stand" color="FFCCFF"/>
+                </MarkerCategory>
+                <!-- End Jungle Plants -->
+
+                <MarkerCategory name="lettuce" DisplayName="Lettuce"> 
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Lettuce Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest - Kraitbane Haven WP"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="mixed" DisplayName="Mixed Vegetables">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Mixed Veg Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="wastes" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="drytop" DisplayName="Dry Top - Uplands Oasis"/>
+                    <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+                    <!--
+                        Sandswept Isles
+                        Seitung Province
+                    -->
+                </MarkerCategory>
+
+                <MarkerCategory name="mussels" DisplayName="Mussels" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Mussel Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
+                    <MarkerCategory name="ab" DisplayName="Auric Basin"/>
+                    <MarkerCategory name="ds" DisplayName="Dragon's Stand"/>
+                    <MarkerCategory name="vb" DisplayName="Verdant Brink - Shipwreck Peak WP"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                    <MarkerCategory name="bsf" DisplayName="Bloodstone Fen"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
+                    <MarkerCategory name="desolation" DisplayName="The Desolation">
+                    
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                    <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
+                    <MarkerCategory name="jahai" DisplayName="Jahai Bluffs"/>
+                </MarkerCategory>
+
+                <!--
+                <MarkerCategory name="onion" DisplayName="Onion">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Onion Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale - Beetletun Farms"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                </MarkerCategory>
+                -->
+
+                <MarkerCategory name="om" DisplayName="Omnomberry" texture="Data/LadyElyssa/Images/Trails/Omnomberry.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Omnomberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Plum Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="Ruins of Orr"/>
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                    <MarkerCategory name="siren" DisplayName="Siren's Landing"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="truffle" DisplayName="Orrian Truffle">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Truffle Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Gold.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="  : Ruins of Orr"/>
+                    <MarkerCategory name="cs" DisplayName="Cursed Shore" color="E2CA71"/>
+                    <!--
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap" color="E2CA71"/>
+                    -->
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation - Waywarde WP" color="E2CA71"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                    <MarkerCategory name="sirens" DisplayName="Siren's Landing" color="E2CA71"/>
+                </MarkerCategory>    
+                
+                <MarkerCategory name="potato" DisplayName="Potatoes">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Potato Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="  : Ascalon"/>
+                    <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
+                    <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
+                    <MarkerCategory name="metrica" DisplayName="Metrica Province - Akk Wilds WP"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                    <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp WP"/>
+                </MarkerCategory>
+
+                <!--
+                
+                https://wiki.guildwars2.com/wiki/Raspberries
+    
+                <MarkerCategory name="raspberry" DisplayName="Raspberry">
+                    <MarkerCategory name="node" DisplayName="Raspberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                    <MarkerCategory name="unknown" DisplayName="Unknown"/>
+                </MarkerCategory>
+                -->
+
+                <MarkerCategory name="sawgill" DisplayName="Sawgill Mushrooms " texture="Data/LadyElyssa/Images/Trail-Mushroom.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="128"/>
+                    <MarkerCategory name="mushrooms" DisplayName="Sawgill Mushrooms" iconFile="Data/LadyElyssa/Images/Hexagon.png" miniMapVisibility="1"  inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS   "/>
+                    <!--
+                    <MarkerCategory name="ab" DisplayName="Auric Basin"/>
+                    <MarkerCategory name="td" DisplayName="Tangled Depths"/>
+                    <MarkerCategory name="vb" DisplayName="Verdant Brink"/>
+                    -->
+                    <MarkerCategory name="ds" DisplayName="Dragon Stand - Pact Base Camp WP"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+                    <MarkerCategory name="bsf" DisplayName="Bloodstone Fen"/>
+                    <MarkerCategory name="draconis" DisplayName="Draconis Mons">
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="Trail Segment"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="doric" DisplayName="Lake Doric">
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="Trail Segment"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik   "/>
+                    <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
+                    <MarkerCategory name="jahai" DisplayName="Jahai Bluffs"/>
+                </MarkerCategory>
+                <!-- End Sawgill Mushrooms -->
+
+                <MarkerCategory name="seaweed" DisplayName="Seaweed">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Seaweed Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Dark Green.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy"/>
+                    <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
+                    <MarkerCategory name="ember" DisplayName="Ember Bay - Promontory WP"/>
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4: Rise of Kralkatorrik"/>
+                    <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
+                    <MarkerCategory name="lws5" IsSeparator="1" DisplayName="LWS5: The Icebrood Saga"/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp WP"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="strawberry" DisplayName="Strawberries">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Strawberry Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Red.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau" color="DD0C00"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts" color="DD0C00"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="pumpkins" DisplayName="Sugar Pumpkins">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="node" DisplayName="Sugar Pumpkin Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Orange.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="ironmarches" DisplayName="Iron Marches - Bulwark WP" color="FF7D32"/>
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" color="FF7D32"/>
+                    <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                    <MarkerCategory name="seitung" DisplayName="Seitung Province" color="FF7D32"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="toxicseedling" DisplayName="Toxic Seedling">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="toxic" DisplayName="Toxic Seedling" iconFile="Data/LadyElyssa/Images/Toxic Seedling.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills" texture="Data/LadyElyssa/Images/Toxic Trail.png" animSpeed="0.25" color="CEFF33"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="verdant" DisplayName="Verdant Herbs">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="herbs" DisplayName="Verdant Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map"  IsSeparator="1" DisplayName="CORE MAP ZONE"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise - Apostate WP" color="CEFF33"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom - Broken Arrow WP" color="CEFF33"/>
+                    <MarkerCategory name="lws3"  IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+                    <MarkerCategory name="doric" DisplayName="Lake Doric - Red Leaf Retreat" color="CEFF33"/>
+                    <MarkerCategory name="lws5"  IsSeparator="1" DisplayName="LWS55: Icebrood Saga   "/>
+                    <MarkerCategory name="bjora" DisplayName="Bjora Marches - Still Waters Speaking WP" color="CEFF33"/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast - Base Camp WP" color="CEFF33"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley - Blood Keep WP" color="CEFF33"/>
+                    <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS   "/>
+                    <MarkerCategory name="ls" DisplayName="Lowland Shore" color="CEFF33"/>
+                    <MarkerCategory name="js" DisplayName="Janthir Syntri" color="CEFF33"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <!-- WOOD -->
+            <MarkerCategory name="wood" DisplayName="Wood">
+                <MarkerCategory name="ancient" DisplayName="Ancient Wood (WIP)" mapDisplaySize="10" texture="Data/LadyElyssa/Images/Trails/Brown Arrow Yellow Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wood" DisplayName="Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Ancient.png" miniMapVisibility="1" inGameVisibility="1" mapVisibility="1" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA WASTES"/>
+                    <MarkerCategory name="drytop" DisplayName="Dry Top"/>
+                    <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
+                    <!--
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    -->
+                    <MarkerCategory name="desert" IsSeparator="1" DisplayName="CRYSTAL DESERT"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
+                    <MarkerCategory name="td" DisplayName="The Desolation"/>
+                    <!--
+                    <MarkerCategory name="LWS5" IsSeparator="1" DisplayName="LWS5"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley"/>
+                    -->
+                </MarkerCategory>
+
+                <!-- Elder Wood -->
+                <MarkerCategory name="elderwood" DisplayName="Elder Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/Trails/Brown Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="elder" DisplayName="Elder Wood" iconFile="Data/LadyElyssa/Images/Elder Wood.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="orr" IsSeparator="1" DisplayName="RUINS OF ORR"/>
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
+                    <MarkerCategory name="sirens" DisplayName="Siren's Landing"/>
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
+                    <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
+                    <MarkerCategory name="ev" DisplayName="Echovald Wilds"/>
+                </MarkerCategory>
+            
+                <!-- Hard Wood -->
+                <MarkerCategory name="hard" DisplayName="Hard Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/Trails/Brown Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wood" DisplayName="Hard Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Hard.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="jungle" IsSeparator="1" DisplayName="MAGUUMA JUNGLE"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom, Ashen WP"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                </MarkerCategory>
+
+                <!-- Seasoned Wood -->
+                <MarkerCategory Name="seasoned" DisplayName="Seasoned Wood" minSize="32" maxSize="48" texture="Data/LadyElyssa/Images/Trails/Orange Arrow White Border.png" miniMapVisibility="0">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory Name="wood" DisplayName="Seasoned Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Seasoned.png" defaulttoggle="0" miniMapVisibility="0" mapVisibility="1" inGameVisibility="1" mapDisplaySize="20"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
+                    <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="SHIVERPEAKS"/>
+                    <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs, Graupel WP"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="soft" DisplayName="Soft Wood" texture="Data/LadyElyssa/Images/Trails/Tan Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wood" DisplayName="Soft Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Soft.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <!-- HEARTS -->
+            <MarkerCategory name="heart" IsSeparator="1" DisplayName="HEART ITEMS"/>
+            <MarkerCategory name="alpha" DisplayName="Alpha Inquest Control Key">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+            </MarkerCategory>
+            <MarkerCategory name="meat" DisplayName="Barracuda Meat">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+            </MarkerCategory>
+            <MarkerCategory name="lavender" DisplayName="Caledon Lavender (Start)">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+            </MarkerCategory>
+            <MarkerCategory name="scrap" DisplayName="Charr Scrap Metal">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                
+                <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                </MarkerCategory>
+                <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="crab" DisplayName="Crab Meat">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+            </MarkerCategory>
+            <MarkerCategory name="treasure" DisplayName="Cursed Pirate Treasure">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+            </MarkerCategory>
+            <MarkerCategory name="hylek" DisplayName="Hylek Armor">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
+            </MarkerCategory>
+            <MarkerCategory name="outfit" DisplayName="Pirate Outfit">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+            </MarkerCategory>
+            <MarkerCategory name="seraph" DisplayName="Seraph Badges">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
+            </MarkerCategory>
+            <MarkerCategory name="skritt" DisplayName="Skritt Artifact">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+            </MarkerCategory>
+            <MarkerCategory name="root" DisplayName="Special Root">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+            </MarkerCategory>
+            <MarkerCategory name="supplies" DisplayName="Supplies">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+            </MarkerCategory>
+            <MarkerCategory name="core" DisplayName="Volcanic Earth Elemental Core ">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="lw" IsSeparator="1" DisplayName="LIVING WORLD"/>
+            <MarkerCategory name="lws3" DisplayName="Season 3">
+                <MarkerCategory name="rubies" DisplayName="Bloodstone Rubies">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="ruby" DisplayName="Bloodstone Rubies" iconFile="Data/LadyElyssa/Images/Blood Ruby.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="main" DisplayName="Main Path" texture="Data/LadyElyssa/Images/Trails/Red Arrow Yellow Border.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="mounted" DisplayName="Mounted Segment" color="00CCFF"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="bloodstone" DisplayName="Bloodstone Fen" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="orchids" DisplayName="Fire Orchids">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="orchid" DisplayName="Fire Orchid Blossoms" iconFile="Data/LadyElyssa/Images/Fire Orchid.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="draconis" DisplayName="Draconis Mons" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" color="ff6666"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="winterberry" DisplayName="Fresh Winterberry ">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="winterberry" DisplayName="Winterberries" iconFile="Data/LadyElyssa/Images/Fresh Winterberry.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                        <MarkerCategory name="short" DisplayName="Short Trail" texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                            <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                                
+                            <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                            <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            </MarkerCategory>
+                            <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                                <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            </MarkerCategory>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            
+                            <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                            
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/LadyElyssa/Images/Trails/Red Arrow Yellow Border.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        </MarkerCategory>
+                        <!-- End Short Trail -->
+                        <MarkerCategory name="smooth" DisplayName="Smooth Trail" >
+                            <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                            <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                            <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                            <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" miniMapVisibility="0" minSize="32" maxSize="48" iconSize="0.5"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" color="00CCFF"/>
+                        </MarkerCategory>
+                        <!-- End Smooth Trail -->
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="bitterfrost" DisplayName="Bitterfrost Frontier" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        
+                </MarkerCategory>
+
+                <MarkerCategory name="jade" DisplayName="Jade Fragments">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="shard" DisplayName="Jade Shards" iconFile="Data/LadyElyssa/Images/Jade Shard.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                        <!-- End Numbers -->
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="doric" DisplayName="Lake Doric" color="ffb3da"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="pearls" DisplayName="Orrian Pearls">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="oyster" DisplayName="Orrian Oysters" iconFile="Data/LadyElyssa/Images/Orrian Pearl.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="chest" DisplayName="Waterlogged Chests" iconFile="Data/LadyElyssa/Images/Waterlogged Chest.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                        
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="sirens" DisplayName="Siren's Landing" color="FFFFFF" mapDisplaySize="10"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="petrifiedwood" DisplayName="Petrified Wood">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="wood" DisplayName="Petrified Wood" iconFile="Data/LadyElyssa/Images/Petrified Wood.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" miniMapVisibility="0" minSize="32" maxSize="48" iconSize="0.5">
+                        <MarkerCategory name="gliding" DisplayName="Gliding" iconFile="Data/LadyElyssa/Images/Icons/Gliding.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                        
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="emberbay" DisplayName="Ember Bay" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" color="CC9999" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="lws4" DisplayName="Season 4">
+                <MarkerCategory name="branded" DisplayName="Branded Mass + Chests ">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks" color="e963e2" alpha="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="diflourite" DisplayName="Diflourite Crystal">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" color="66ccff" alpha="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="inscribed" DisplayName="Inscribed Shard">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="kourna" DisplayName="Domain of Kourna" texture="Data/LadyElyssa/Images/Trails/Purple Arrow White Border.png" alpha="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="kralkatite" DisplayName="Kralkatite Ore">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="cache" DisplayName="Sunspear Cache" iconFile="Data/LadyElyssa/Images/Icons/Sunspear Cache.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="istan" DisplayName="Domain of Istan" texture="Data/LadyElyssa/Images/Trails/Pink Arrow Yellow Border.png" alpha="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="mistborn" DisplayName="Mistborn Motes">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="dragonfall" DisplayName="Dragonfall" color="ffff33" alpha="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="mistonium" DisplayName="Mistonium">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" color="4dd2ff" alpha="1"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="lws5" DisplayName="Season 5">
+                <MarkerCategory name="eternal" DisplayName="Eternal Ice" texture="Data/LadyElyssa/Images/trails/Black Arrow Teal Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="essence" DisplayName="Essence Chests" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="42">
+                        <MarkerCategory name="red" DisplayName="Red Chest of Resilience" iconFile="Data/LadyElyssa/Images/Chest of Essence - Red.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="redsmall" DisplayName="Red Chest of Resilience (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Red - Small.png" mapDisplaySize="32"/>
+                        <MarkerCategory name="green" DisplayName="Green Chest of Valor" iconFile="Data/LadyElyssa/Images/Chest of Essence - Green.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="greensmall" DisplayName="Green Chest of Valor (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Green - Small.png" mapDisplaySize="32"/>
+                        <MarkerCategory name="blue" DisplayName="Blue Chest of Vigilance" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="bluesmall" DisplayName="Blue Chest of Vigilance (Small)" iconFile="Data/LadyElyssa/Images/Chest of Essence - Blue - Small.png" mapDisplaySize="32"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="warning" DisplayName="Warning Signs"/>
+
+                    <MarkerCategory name="route" IsSeparator="1" DisplayName="ROUTES"/>
+                    
+                    <MarkerCategory name="fast" DisplayName="Fast Route">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="rewinder" DisplayName="Rewinder">
+                            <MarkerCategory name="mark" DisplayName="Mark" iconFile="Data/LadyElyssa/Images/Icons/Rewinder - Mark.png" minSize="16" maxSize="32"/>
+                            <MarkerCategory name="rewind" DisplayName="Rewind" iconFile="Data/LadyElyssa/Images/Icons/Rewinder - Rewind.png" minSize="16" maxSize="32"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>    
+                        
+                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    </MarkerCategory>
+                    
+                    <MarkerCategory name="full" DisplayName="Full Route">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>    
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                        
+                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    </MarkerCategory>
+
+                    <MarkerCategory name="short" DisplayName="Short Route">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>    
+                        
+                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    </MarkerCategory>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="bjora" DisplayName="Bjora Marches" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                </MarkerCategory>
+                <!-- End Eternal Ice -->
+            </MarkerCategory>
+
+        </MarkerCategory>
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

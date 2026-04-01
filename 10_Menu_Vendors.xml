@@ -1,11 +1,11 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP ENHANCEMENTS -->
-        <MarkerCategory name="vendors" DisplayName="Vendors">
+        <MarkerCategory name="vendors" DisplayName="Vendors" defaulttoggle="0">
             <MarkerCategory name="psna" DisplayName="Pact Supply Network Agents" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" inGameVisibility="1">
                 <MarkerCategory name="mon" DisplayName="Monday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
@@ -21,7 +21,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="tue" DisplayName="Tuesday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
@@ -37,7 +37,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="wed" DisplayName="Wednesday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
@@ -53,7 +53,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="thu" DisplayName="Thursday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="iron" DisplayName="Iron Marches"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
@@ -69,7 +69,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="fri" DisplayName="Friday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
@@ -85,7 +85,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="sat" DisplayName="Saturday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
@@ -101,7 +101,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="sun" DisplayName="Sunday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/LadyElyssa/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
                     <MarkerCategory name="kryta" IsSeparator="1" DisplayName="KRYTA"/>
@@ -120,7 +120,7 @@
             <MarkerCategory name="elisa" DisplayName="Priory Historian Elisa" texture="Data/LadyElyssa/Images/Diamond with Shadow.png" inGameVisibility="1">
                 <MarkerCategory name="dh" DisplayName="Desert Highlands">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
                     <MarkerCategory name="1" DisplayName="1"/>
                     <MarkerCategory name="6" DisplayName="6"/>
@@ -136,7 +136,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="dov" DisplayName="Domain of Vabbi">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
                     <MarkerCategory name="2" DisplayName="2"/>
                     <MarkerCategory name="7" DisplayName="7"/>
@@ -151,7 +151,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="co" DisplayName="Crystal Oasis">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
                     <MarkerCategory name="3" DisplayName="3"/>
                     <MarkerCategory name="8" DisplayName="8"/>
@@ -166,7 +166,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="er" DisplayName="Elon Riverlands">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
                     <MarkerCategory name="4" DisplayName="4"/>
                     <MarkerCategory name="9" DisplayName="9"/>
@@ -181,7 +181,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="td" DisplayName="The Desolation">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="square" DisplayName="Toggle Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="square" DisplayName="Elisa (White Square)" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" mapDisplaySize="48"/>
                     <MarkerCategory name="week" IsSeparator="1" DisplayName="WEEK"/>
                     <MarkerCategory name="5" DisplayName="5"/>
                     <MarkerCategory name="10" DisplayName="10"/>
