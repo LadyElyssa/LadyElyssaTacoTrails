@@ -1,24 +1,24 @@
 <OverlayData>
     <POIs>
-        <!-- GENERAL GATHERING -->
+        <!-- ore GATHERING -->
 
         <!-- Gathering - Quartz -->
-        <Trail type="legs.gathering.general.quartz.drytop" trailData="Data/LadyElyssa/Gathering/Quartz Crystal/Dry Top.trl"/>
-        <POI MapID="988" xpos="295.19" ypos="81.6799" zpos="-456.464" type="legs.gathering.general.quartz.quartz" GUID="+BJBgohSfECRtBqRQ2x40g=="/>
-        <POI MapID="988" xpos="310.907" ypos="48.1683" zpos="-408.492" type="legs.gathering.general.quartz.quartz" GUID="26o+AN/OGUaKaxs3yJRySQ=="/>
-        <POI MapID="988" xpos="-205.129" ypos="108.147" zpos="-563.782" type="legs.gathering.general.richquartz.quartz" GUID="/DJfcFBhVkO04OKaXlq7dw=="/>
+        <Trail type="legs.gathering.ore.quartz.drytop" trailData="Data/LadyElyssa/Gathering/Quartz Crystal/Dry Top.trl"/>
+        <POI MapID="988" xpos="295.19" ypos="81.6799" zpos="-456.464" type="legs.gathering.ore.quartz.quartz" GUID="+BJBgohSfECRtBqRQ2x40g=="/>
+        <POI MapID="988" xpos="310.907" ypos="48.1683" zpos="-408.492" type="legs.gathering.ore.quartz.quartz" GUID="26o+AN/OGUaKaxs3yJRySQ=="/>
+        <POI MapID="988" xpos="-205.129" ypos="108.147" zpos="-563.782" type="legs.gathering.ore.richquartz.quartz" GUID="/DJfcFBhVkO04OKaXlq7dw=="/>
         <!-- EOD - Dragon's End -->
-        <POI MapID="1422" xpos="-175.056" ypos="-72.293" zpos="343.283" type="legs.gathering.general.quartz.quartz" GUID="pjgeC4CX/EuKW9BTiCRvqg=="/>
-        <POI MapID="1422" xpos="-235.181" ypos="-172.256" zpos="368.11" type="legs.gathering.general.quartz.quartz" GUID="u0X5bu94U0mn6rn482yDcQ=="/>
-        <POI MapID="1422" xpos="-251.775" ypos="-169.951" zpos="353.604" type="legs.gathering.general.quartz.quartz" GUID="+1JwwCcNSku2kJUzI5OHdA=="/>
-        <POI MapID="1422" xpos="-265.64" ypos="-152.915" zpos="335.093" type="legs.gathering.general.quartz.quartz" GUID="GP/4WySXYEy7q78M9s6/cQ=="/>
+        <POI MapID="1422" xpos="-175.056" ypos="-72.293" zpos="343.283" type="legs.gathering.ore.quartz.quartz" GUID="pjgeC4CX/EuKW9BTiCRvqg=="/>
+        <POI MapID="1422" xpos="-235.181" ypos="-172.256" zpos="368.11" type="legs.gathering.ore.quartz.quartz" GUID="u0X5bu94U0mn6rn482yDcQ=="/>
+        <POI MapID="1422" xpos="-251.775" ypos="-169.951" zpos="353.604" type="legs.gathering.ore.quartz.quartz" GUID="+1JwwCcNSku2kJUzI5OHdA=="/>
+        <POI MapID="1422" xpos="-265.64" ypos="-152.915" zpos="335.093" type="legs.gathering.ore.quartz.quartz" GUID="GP/4WySXYEy7q78M9s6/cQ=="/>
         <!-- Gathering - Rich Quartz -->
-        <Trail type="legs.gathering.general.richquartz.crystaloasis" trailData="Data/LadyElyssa/Gathering/Rich Quartz Crystal/Crystal Oasis 1.trl" texture="Data/LadyElyssa/Images/trailarrow-two-tone.png"/>
-        <Trail type="legs.gathering.general.richquartz.crystaloasis" trailData="Data/LadyElyssa/Gathering/Rich Quartz Crystal/Crystal Oasis Crystal.trl" color="00CCFF"/>
-        <POI MapID="1210" xpos="1398.05" ypos="104.652" zpos="-249.133" GUID="mdqaOhaFXUuMWQTd8pdlPw==" type="legs.gathering.general.richquartz.mount.springer"/>
-        <POI MapID="1210" xpos="1416.21" ypos="127.879" zpos="-246.114" GUID="rWrYBxQl3kyDXVYN+V6ydw==" type="legs.gathering.general.richquartz.mount.skyscale"/>
-        <POI MapID="1210" xpos="1380.03" ypos="82.9825" zpos="-231.264" GUID="f8CBN3KCaUK4XShrU0YGBg==" type="legs.gathering.general.richquartz.mount.springer"/>
-        <POI MapID="1210" xpos="1307.75" ypos="81.8812" zpos="-212.661" type="legs.gathering.general.quartz.quartz" GUID="0SiWOhPG9Eu+nxHevoyKKA=="/>
-        <POI MapID="1210" xpos="1389.01" ypos="189.764" zpos="-261.321" type="legs.gathering.general.richquartz.quartz" GUID="wPwhsEAC30eDOMS1Mwq8PQ=="/>
+        <Trail type="legs.gathering.ore.richquartz.crystaloasis" trailData="Data/LadyElyssa/Gathering/Rich Quartz Crystal/Crystal Oasis 1.trl" texture="Data/LadyElyssa/Images/trailarrow-two-tone.png"/>
+        <Trail type="legs.gathering.ore.richquartz.crystaloasis" trailData="Data/LadyElyssa/Gathering/Rich Quartz Crystal/Crystal Oasis Crystal.trl" color="00CCFF"/>
+        <POI MapID="1210" xpos="1398.05" ypos="104.652" zpos="-249.133" GUID="mdqaOhaFXUuMWQTd8pdlPw==" type="legs.gathering.ore.richquartz.mount.springer"/>
+        <POI MapID="1210" xpos="1416.21" ypos="127.879" zpos="-246.114" GUID="rWrYBxQl3kyDXVYN+V6ydw==" type="legs.gathering.ore.richquartz.mount.skyscale"/>
+        <POI MapID="1210" xpos="1380.03" ypos="82.9825" zpos="-231.264" GUID="f8CBN3KCaUK4XShrU0YGBg==" type="legs.gathering.ore.richquartz.mount.springer"/>
+        <POI MapID="1210" xpos="1307.75" ypos="81.8812" zpos="-212.661" type="legs.gathering.ore.quartz.quartz" GUID="0SiWOhPG9Eu+nxHevoyKKA=="/>
+        <POI MapID="1210" xpos="1389.01" ypos="189.764" zpos="-261.321" type="legs.gathering.ore.richquartz.quartz" GUID="wPwhsEAC30eDOMS1Mwq8PQ=="/>
  </POIs>
 </OverlayData>
