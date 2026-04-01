@@ -566,7 +566,6 @@
         <!-- Field of Ruin Hearts-->
         <Trail type="legs.map.core.fields.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Fields Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.fields.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Fields Hearts 2.trl" color="FFFF00"/>
-        <POI MapID="21" xpos="197.886" ypos="36.1847" zpos="-801.213" GUID="yKuPPfNMDEaZ0YHbujv+QQ==" type="legs.map.core.fields.leg.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Pile of Metal Scrap.png" heightOffset="5" iconSize="0.5" info="TP: Piece of Charr Scrap Metal x 20" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4000" fadeFar="4000"/>
         <POI MapID="21" xpos="-733.783" ypos="11.9811" zpos="-153.764" type="legs.map.core.fields.leg.springer" GUID="gPQqU9Kz50eC5ltfaUEGtg=="/>
         <POI MapID="21" xpos="-519.575" ypos="60.4017" zpos="-373.269" type="legs.map.core.fields.leg.2" GUID="0NtCl3wtxU+B2ThF7cuJ1A=="/>
         <POI MapID="21" xpos="-818.181" ypos="66.8604" zpos="-691.647" type="legs.map.core.fields.leg.springer" GUID="DDMJ5Gd5J0+MuQtLVMoKFQ=="/>
@@ -735,7 +734,6 @@
         <Trail type="legs.map.core.fireheart.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Fireheart Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.fireheart.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Fireheart Hearts 3.trl" color="FFFF00"/>
         <Trail type="legs.map.core.fireheart.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Fireheart Hearts 4.trl" color="FFFF00"/>
-        <POI MapID="22" xpos="-714.337" ypos="4.51325" zpos="315.273" GUID="zmycBb//QEORHmW3qz1JdA==" type="legs.map.core.fireheart.leg.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Barracuda Meat.png" heightOffset="5.5" minSize="12" MaxSize="32" info="TP: Barracuda Meat x 25" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4000" fadeFar="4000"/>
         <POI MapID="22" xpos="797.706" ypos="3.48235" zpos="-656.464" type="legs.map.core.fireheart.leg.springer" GUID="pAkXaHrMl0qPRYwQtRZpQQ=="/>
         <POI MapID="22" xpos="777.53" ypos="33.5656" zpos="-676.463" type="legs.map.core.fireheart.leg.glider" GUID="jgbvlL7TPUu8dm7KXVPSgQ=="/>
         <POI MapID="22" xpos="229.107" ypos="9.43188" zpos="-570.045" type="legs.map.core.fireheart.leg.springer" GUID="4e4Fczl2mEqhZ8OeckcxHQ=="/>
@@ -801,7 +799,6 @@
         <POI MapID="73" xpos="473.344" ypos="27.1811" zpos="418.918" type="legs.map.core.bloodtide.leg.glider" GUID="QiZ2H9sbvEqMSlzeMOYUIQ=="/>
         <POI MapID="73" xpos="205.332" ypos="-0.141675" zpos="566.39" type="legs.map.core.bloodtide.leg.wp" GUID="ddyCI1p49UGZOsVetrfOUA==" copy="[&amp;BAsEAAA=]" copy-message="Deadend Waypoint"/>
         <POI MapID="73" xpos="643.903" ypos="-1.04921" zpos="-112.704" type="legs.map.core.bloodtide.leg.wp" GUID="8Y3WN1dvcUScEQkeaNMe6g==" copy="[&amp;BKMBAAA=]" copy-message="Archen Foreland Waypoint"/>
-        <POI MapID="73" xpos="-130.901" ypos="3.56041" zpos="100.076" type="legs.map.core.heartinfo" GUID="Ql7auolS1ke5yz9nVgfPIg==" info="If the Taidha Covington Event is active&#xA;&#xA;Follow Route 6 from WP and come back later." infoRange="10"/>
         <POI MapID="73" xpos="-167.474" ypos="-0.831139" zpos="252.759" type="legs.map.core.bloodtide.leg.wp" GUID="FZl1eDk3A0K+7sRWYGacWw==" copy="[&amp;BKgBAAA=]" copy-message="Laughing Gull Waypoint"/>
         <POI MapID="73" xpos="-197.953" ypos="49.6966" zpos="936.714" type="legs.map.core.bloodtide.leg.wp" GUID="hsjWMJEkb0SJWqTBaF5Y6g==" copy="[&amp;BKUBAAA=]" copy-message="Stormbluff Waypoint"/>
         <POI MapID="73" xpos="-484.664" ypos="-52.731" zpos="156.64" type="legs.map.core.bloodtide.leg.wp" GUID="cpWxdEScBEq0DUC215vd2g==" copy="[&amp;BKkBAAA=]" copy-message="Barrier Camp Waypoint"/>
@@ -867,9 +864,6 @@
         <Trail type="legs.map.core.bloodtide.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Bloodtide Hearts 4.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Bloodtide Hearts 5.trl" color="FFFF00"/>
         <POI MapID="73" xpos="426.523" ypos="54.9469" zpos="-229.017" type="legs.map.core.bloodtide.leg.springer" GUID="0ohf4zRy9E27K/aQObqGhg=="/>
-        <POI MapID="73" xpos="-195.955" ypos="50.2985" zpos="937.317" GUID="KeTPMnZBSEuyvmedH63DIg==" type="legs.map.core.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Cursed Pirate Artifact.png" heightOffset="4.5" minSize="12" MaxSize="32" info="TP: Cursed Pirate Artifact x 34" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4000" fadeFar="4000"/>
-        <POI MapID="73" xpos="91.8566" ypos="0.904317" zpos="279.858" GUID="qOJl8XL4pUyLRsG7CebQPw==" type="legs.map.core.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Pirate Outfit.png" heightOffset="5" minSize="12" MaxSize="32" info="TP: Pirate Outfit x 13" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4000" fadeFar="4000"/>
-        <POI MapID="73" xpos="269.445" ypos="22.6941" zpos="-149.355" GUID="V6uXhWVWJEiwzeLlEOjksA==" type="legs.map.core.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Skritt Artifact.png" heightOffset="5" minSize="12" MaxSize="32" info="TP: Skritt Artifact x 25" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4000" fadeFar="4000"/>
         <POI MapID="73" xpos="626.773" ypos="35.1566" zpos="-471.734" type="legs.map.core.bloodtide.leg.wp" GUID="ylZ8tV0kD06kVD239vHYQQ==" iconFile="Data/LadyElyssa/Images/Waypoints/Waypoint.png" fadeNear="2000" fadeFar="4000"/>
         
         <Trail type="legs.map.core.queensdale.leg.1" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Queensdale 1.trl" color="00FFFF"/>
@@ -898,42 +892,10 @@
         <POI MapID="15" xpos="-429.834" ypos="33.6425" zpos="438.423" type="legs.map.core.queensdale.leg.raptor" GUID="Y1KjrKuP+EqZjKwNi9LqCA=="/>
         <POI MapID="15" xpos="-498.272" ypos="21.0003" zpos="384.173" type="legs.map.core.queensdale.leg.beetle" GUID="sxvPQ5BVIEefpqHgP1bSzA=="/>
         <POI MapID="15" xpos="196.422" ypos="1.31878" zpos="425.504" type="legs.map.core.queensdale.leg.beetle" GUID="RA2Jpt8it0ydg+InY35aug=="/>
-        <POI MapID="15" xpos="247.502" ypos="5.18835" zpos="353.618" type="legs.map.core.queensdale.leg.heartinfo" GUID="mWZXkZ0GQkSML49WvMh7ag==" info="DESTROY Wasp Nests, KILL Wasps" infoRange="100"/>
-        <POI MapID="15" xpos="97.5625" ypos="29.9303" zpos="224.194" type="legs.map.core.queensdale.leg.heartinfo" GUID="UJ3VNuyjfkarNrNX6mVqQQ==" info="TOPPLE Skritt Shiny Things&#xA;&#xA;EVENT Retrieve stolen logging tools" infoRange="60"/>
-        <POI MapID="15" xpos="116.126" ypos="9.66971" zpos="320.036" type="legs.map.core.queensdale.leg.heartinfo" GUID="W0qcwIU0SUax8pk1Tv2DDg==" info="DESTROY Wasp Nests&#xA;&#xA;KILL Wasps" infoRange="40"/>
-        <POI MapID="15" xpos="472.367" ypos="36.7965" zpos="433.481" type="legs.map.core.queensdale.leg.heartinfo" GUID="+uRPQ7+sJ0i9fllGPHijXw==" info="KILL Boars&#xA;&#xA;SET Foothold Traps" infoRange="100"/>
-        <POI MapID="15" xpos="568.954" ypos="27.6139" zpos="551.739" type="legs.map.core.queensdale.leg.heartinfo" GUID="GpWuJUcMKku8CEH2OR7cmw==" info="KILL Boars&#xA;&#xA;SET Foothold Traps" infoRange="50"/>
-        <POI MapID="15" xpos="630.943" ypos="67.839" zpos="380.089" type="legs.map.core.queensdale.leg.heartinfo" GUID="9ws3koUNAECo4U0DKelYRA==" info="KILL Boars &amp; Spiders&#xA;&#xA;SET Foothold Traps" infoRange="70"/>
-        <POI MapID="15" xpos="718.501" ypos="0.298855" zpos="452.923" type="legs.map.core.queensdale.leg.heartinfo" GUID="ymspY0HVa0yBXDoT3WNrSw==" info="KILL Skale&#xA;&#xA;REVIVE Fisher" infoRange="52"/>
-        <POI MapID="15" xpos="747.395" ypos="-1.05664" zpos="547.048" type="legs.map.core.queensdale.leg.heartinfo" GUID="szH7ka925UWLRULk6ncmvA==" info="LURE Hard Shelled Crab and CAPTURE in Crab Cage" infoRange="42"/>
-        <POI MapID="15" xpos="735.375" ypos="-1.05665" zpos="620.98" type="legs.map.core.queensdale.leg.heartinfo" GUID="QV4ZtU3N2EqQHy9tXveAaQ==" info="LURE Hard Shelled Crab and CAPTURE in Crab Cage" infoRange="32"/>
-        <POI MapID="15" xpos="681.142" ypos="-1.05365" zpos="641.764" type="legs.map.core.queensdale.leg.heartinfo" GUID="0KefTVGej0CbLrhVY8yIbw==" info="LURE Hard Shelled Crab and CAPTURE in Crab Cage" infoRange="25"/>
-        <POI MapID="15" xpos="904.383" ypos="19.1612" zpos="575.769" type="legs.map.core.queensdale.leg.heartinfo" GUID="jHDFYj4W6UuKmC6Q+79WyA==" info="CRUSH Wasp Nests&#xA;&#xA;ERASE Graffiti&#xA;&#xA;TALK to Hidden Children&#xA;&#xA;KILL Rats" infoRange="100"/>
-        <POI MapID="15" xpos="760.772" ypos="92.7032" zpos="-169.509" type="legs.map.core.queensdale.leg.heartinfo" GUID="vOb8vxwB7E2hGuK4sDSFAA==" info="KILL Tamini" infoRange="66"/>
-        <POI MapID="15" xpos="695.182" ypos="45.546" zpos="18.044" type="legs.map.core.queensdale.leg.heartinfo" GUID="2szM7czOKEOYmJvPwaQe+g==" info="KILL Tamini&#xA;&#xA;EVENT Destroy Holdland Camp&#xA;&#xA;EVENT Prevent the Tamini from retaking Holdland Camp" infoRange="33"/>
-        <POI MapID="15" xpos="795.728" ypos="28.563" zpos="114.763" type="legs.map.core.queensdale.leg.heartinfo" GUID="JmRoXYv2KE+L6vRd0FPw4Q==" info="KILL Tamini&#xA;&#xA;EVENT Defend / Retake Turnwatch Redoubt" infoRange="30"/>
-        <POI MapID="15" xpos="892.373" ypos="58.1021" zpos="-515.902" type="legs.map.core.queensdale.leg.heartinfo" GUID="gBi0uNBWKkSRehDAvt6rzg==" info="KILL Tamini" infoRange="45"/>
-        <POI MapID="15" xpos="907.381" ypos="75.2233" zpos="-430.589" type="legs.map.core.queensdale.leg.heartinfo" GUID="uYmmKVCKZUubsbFRxPi6Ww==" info="KILL Tamini" infoRange="45"/>
-        <POI MapID="15" xpos="818.239" ypos="51.2686" zpos="-525.746" type="legs.map.core.queensdale.leg.heartinfo" GUID="NjH1nhCbn0OtSHuvO1B2tg==" info="KILL Tamini" infoRange="30"/>
-        <POI MapID="15" xpos="777.735" ypos="55.0778" zpos="-542.505" type="legs.map.core.queensdale.leg.heartinfo" GUID="o0+hyOdG7k2Z5KempPuAng==" info="TALK to Ettins" infoRange="10"/>
-        <POI MapID="15" xpos="719.689" ypos="52.174" zpos="-525.666" type="legs.map.core.queensdale.leg.heartinfo" GUID="6GNr9whFbk2Lmo9Pwk/fNg==" info="TALK to Ettins" infoRange="50"/>
-        <POI MapID="15" xpos="717.072" ypos="52.4833" zpos="-487.787" type="legs.map.core.queensdale.leg.heartinfo" GUID="NyoYF+UKXkWTFA3rThLBOg==" iconFile="Data/LadyElyssa/Images/Numbers/2.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="750.219" ypos="53.1885" zpos="-459.556" type="legs.map.core.queensdale.leg.heartinfo" GUID="hnm/0ncou0OU6mgIxRTyjQ==" iconFile="Data/LadyElyssa/Images/Numbers/2.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="774.809" ypos="51.1563" zpos="-447.971" type="legs.map.core.queensdale.leg.heartinfo" GUID="rNUbRO+CcU+zozdSd968GA==" iconFile="Data/LadyElyssa/Images/Numbers/2.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="738.471" ypos="51.2687" zpos="-523.564" type="legs.map.core.queensdale.leg.heartinfo" GUID="i7JCSkgXTUyRQa+BcnfTvA==" iconFile="Data/LadyElyssa/Images/Numbers/3.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="755.124" ypos="53.2232" zpos="-557.216" type="legs.map.core.queensdale.leg.heartinfo" GUID="ZovGDQyKCEqq1mc4Na3Y7Q==" iconFile="Data/LadyElyssa/Images/Numbers/1.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="754.352" ypos="50.4575" zpos="-536.354" type="legs.map.core.queensdale.leg.heartinfo" GUID="D2ReO/DSgUiArza3Xq0vBA==" iconFile="Data/LadyElyssa/Images/Numbers/1.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="731.037" ypos="54.4857" zpos="-549.12" type="legs.map.core.queensdale.leg.heartinfo" GUID="RSTgJqZuLECA4tTHU4pEbw==" iconFile="Data/LadyElyssa/Images/Numbers/1.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="705.96" ypos="56.4772" zpos="-553.224" type="legs.map.core.queensdale.leg.heartinfo" GUID="Rga1iHKpA0ap8r6I9of7YA==" iconFile="Data/LadyElyssa/Images/Numbers/1.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="699.113" ypos="54.6884" zpos="-530.297" type="legs.map.core.queensdale.leg.heartinfo" GUID="IkZXNHriG0Gm175BecKwjA==" iconFile="Data/LadyElyssa/Images/Numbers/3.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="697.288" ypos="50.459" zpos="-494.915" type="legs.map.core.queensdale.leg.heartinfo" GUID="FvaPtE19dk6XOLoX/42C+w==" iconFile="Data/LadyElyssa/Images/Numbers/3.png" fadenear="900" fadefar="1600" heightOffset="0"/>
-        <POI MapID="15" xpos="670.349" ypos="57.576" zpos="-543.74" type="legs.map.core.queensdale.leg.heartinfo" GUID="lYpUEI8mrEWKMISWN1iefg==" iconFile="Data/LadyElyssa/Images/Numbers/3.png" fadenear="900" fadefar="1600" heightOffset="0"/>
         <POI MapID="15" xpos="-815.352" ypos="1.9099" zpos="-509.242" type="legs.map.core.queensdale.leg.springer" GUID="+3/mdjDufkuaLh7JMDCMQw=="/>
         <POI MapID="15" xpos="90.6312" ypos="27.4693" zpos="-295.117" type="legs.map.core.queensdale.leg.skyscale" GUID="JTBvFNmN4Uirc806rQ13Tw=="/>
         <POI MapID="15" xpos="853.582" ypos="111.057" zpos="-171.597" type="legs.map.core.queensdale.leg.glider" GUID="u88+RAW+X0ufwbFOQcvbEw=="/>
         <POI MapID="15" xpos="531.917" ypos="58.8944" zpos="-7.4923" type="legs.map.core.queensdale.leg.springer" GUID="UKrj0U2/0EGOqwp2e9WtPg=="/>
-        <Trail type="legs.map.core.queensdale.leg.heartinfo" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Queensdale Sword Heart.trl" texture="Data/LadyElyssa/Images/Icons/Bubble.png" color="FFFF00" animSpeed="0"/>
-        <POI MapID="15" xpos="-557.521" ypos="35.4342" zpos="-411.15" type="legs.map.core.queensdale.leg.heartinfo" GUID="KTGUjL0Pp0CvtIV26PZ0TQ==" info="INTERACT with Seraph Training Sword&#xA;&#xA;Stand in Yellow Circle and face Sword Drill Sergeant (do not select / target)&#xA;&#xA;Press 1. Stab" infoRange="9"/>
         <POI MapID="15" xpos="-734.787" ypos="21.1592" zpos="398.73" type="legs.map.core.queensdale.leg.jackal" GUID="hn5c2/DXbkGmAm0iouXf3Q=="/>
         <POI MapID="15" xpos="-965.18" ypos="14.3658" zpos="514.641" type="legs.map.core.queensdale.leg.beetle" GUID="6qa7ySQMwEmTlXNtJTf4DQ=="/>
         <POI MapID="15" xpos="-961.242" ypos="26.5106" zpos="374.301" type="legs.map.core.queensdale.leg.bof" GUID="/XrG3ZE5FEytrv3O4McMdA=="/>
@@ -989,16 +951,6 @@
         <!-- Kessex Hearts -->
         <Trail type="legs.map.core.kessex.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Kessex Hearts.trl" color="FFFF00"/>
         <POI MapID="23" xpos="112.398" ypos="64.335" zpos="148.91" type="legs.map.core.kessex.leg.wp" GUID="KiX6DA7zVUefEj/DYfH80Q==" iconFile="Data/LadyElyssa/Images/Icons/POI.png" mapVisibility="0" miniMapVisibility="0" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="23" xpos="224.467" ypos="67.8171" zpos="166.322" type="legs.map.core.kessex.leg.heartinfo" GUID="3q126JKZHkyzbMyDMoMnFA==" info="STOMP Wurm Mounds&#xA;&#xA;KILL Plains Wurm Hatchlings &amp; Wasps" infoRange="55"/>
-        <POI MapID="23" xpos="125.915" ypos="-4.9795" zpos="-241.72" type="legs.map.core.kessex.leg.heartinfo" GUID="9mj/6fhfn0WXlo5qlBKVog==" info="CLEAR Toxic Sludge&#xA;&#xA;KILL Sharks, KILL Toxic Fish &amp; KILL Toxic Krait&#xA;&#xA;CHECK Shrimp Traps" infoRange="66"/>
-        <POI MapID="23" xpos="-547.72" ypos="-57.8297" zpos="132.678" GUID="CgA/r5ot/UqllmAmOB6rBA==" type="legs.map.core.kessex.leg.heartinfo" iconFile="Data/LadyElyssa/Images/Hearts/Crab Meat.png" heightOffset="5" iconSize="0.5" info="TP: Crab Meat x 34" infoRange="4.5" mapVisibility="0" miniMapVisibility="0" fadeNear="4000" fadeFar="4000"/>
-        <POI MapID="23" xpos="-521.695" ypos="-35.1755" zpos="124.446" type="legs.map.core.kessex.leg.heartinfo" GUID="9wV7eCPO1kOXb/eCIjAq0A==" info="TALK to Heart Doolsileep and hand in Crab Meat" infoRange="30"/>
-        <POI MapID="23" xpos="-558.755" ypos="-26.4184" zpos="80.6856" type="legs.map.core.kessex.leg.heartinfo" GUID="7bmYJjODT0aUzf0+mM7akw==" info="DESTROY Debris" infoRange="57"/>
-        <POI MapID="23" xpos="-499.918" ypos="-83.2083" zpos="-34.6498" type="legs.map.core.kessex.leg.heartinfo" GUID="7WnlpRQ3zkKuXtnnx6tRlA==" info="DESTROY Debris, OPEN Crab Traps&#xA;&#xA;KILL Hermit Crabs for Crab Meat&#xA;&#xA;KILL Sharks, Barracuda &amp; Toxic Krait" infoRange="100"/>
-        <POI MapID="23" xpos="-614.425" ypos="3.29732" zpos="-261.618" type="legs.map.core.kessex.leg.heartinfo" GUID="QW+ogteXl06vfrpJdar8Bg==" info="KILL Bandits &amp; DESTROY Bandit Food Supplies&#xA;&#xA;EXTINGUISH Torches &amp; LIGHT Mining Explosives" infoRange="100"/>
-        <POI MapID="23" xpos="-656.218" ypos="8.0567" zpos="-163.878" type="legs.map.core.kessex.leg.heartinfo" GUID="u1F/9NYvXEme8QIZ1JNJuw==" info="KILL Bandits &amp; DESTROY Bandit Food Supplies&#xA;&#xA;EXTINGUISH Torches &amp; LIGHT Mining Explosives" infoRange="12"/>
-        <POI MapID="23" xpos="-942.553" ypos="30.4775" zpos="-56.1514" type="legs.map.core.kessex.leg.heartinfo" GUID="DFnqK4iFe0uTJQSo5517Qg==" info="KILL Centaurs&#xA;&#xA;DESTROY Structures, Harathi Siege Engines &amp; Hirathi Flags" infoRange="65"/>
-        <POI MapID="23" xpos="-1038.01" ypos="31.8967" zpos="-95.3406" type="legs.map.core.kessex.leg.heartinfo" GUID="3zLSDyYUf0mCiADPRkp5wQ==" info="KILL Centaurs&#xA;&#xA;DESTROY Structures, Harathi Siege Engines &amp; Hirathi Flags" infoRange="39"/>
         <POI MapID="23" xpos="-941.47" ypos="90.9894" zpos="467.474" type="legs.map.core.kessex.leg.glider" GUID="l0EKuEhCXkibctNS61qF1g=="/>
         <POI MapID="23" xpos="-878.34" ypos="92.0252" zpos="452.202" type="legs.map.core.kessex.leg.glider" GUID="Z1x9fisUBE+vIiuWEmrz6A=="/>
         <POI MapID="23" xpos="-1143.39" ypos="74.8768" zpos="293.549" type="legs.map.core.kessex.leg.raptor" GUID="lwLn8KWxDUu8xWFHYpyy1w=="/>
@@ -1309,47 +1261,6 @@
         <Trail type="legs.map.core.brisban.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Brisban Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.brisban.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Brisban Hearts 2.trl" color="FFFF00"/>
         <POI MapID="54" xpos="486.234" ypos="0.784866" zpos="-235.712" type="legs.map.core.brisban.leg.springer" GUID="TtVXZQHRNEGi1k1ULSMWkw=="/>
-        <POI MapID="54" xpos="-572.406" ypos="81.7879" zpos="532.999" GUID="0GS+q4IyL0eXbYYOW4pXCw==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-578.426" ypos="82.5793" zpos="531.645" GUID="bf0iupath0SRFwJZ84X/Wg==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-600.921" ypos="80.0181" zpos="527.138" GUID="LwaBkaOtqEGRuKyJUAG/0g==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-589.778" ypos="82.9577" zpos="552.282" GUID="2Yn+4ZUZdU6Lim9cCNyTiA==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-598.914" ypos="82.8345" zpos="549.075" GUID="AUCrYhho206xxnvLQN0Gmw==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-562.352" ypos="83.3371" zpos="541.159" GUID="Txr7CyIxn0WWjKI3OheV1Q==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-571.421" ypos="82.4551" zpos="542.425" GUID="xp8w1wJVskeW6TW7/hKCCQ==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-569.401" ypos="78.0834" zpos="518.856" GUID="c15j3C69+0e3wxGESWjSpA==" type="legs.map.core.brisban.leg.heartmarkers.poison"/>
-        <POI MapID="54" xpos="-551.132" ypos="73.9865" zpos="528.436" GUID="BpSqwjfqF0OGIdDYwRX39Q==" type="legs.map.core.brisban.leg.heartmarkers.combat"/>
-        <POI MapID="54" xpos="-545.791" ypos="75.521" zpos="535.038" GUID="r2Li9He/VUW8MI7PvpACxQ==" type="legs.map.core.brisban.leg.heartmarkers.combat"/>
-        <POI MapID="54" xpos="-545.505" ypos="77.4343" zpos="542.956" GUID="A0t3QLhdZUOTKUiCYk4WGg==" type="legs.map.core.brisban.leg.heartmarkers.combat"/>
-        <POI MapID="54" xpos="-548.707" ypos="79.8528" zpos="546.963" GUID="Uv1rAVR7kUeoka6ol8XCRg==" type="legs.map.core.brisban.leg.heartmarkers.combat"/>
-        <POI MapID="54" xpos="-612.768" ypos="78.4742" zpos="541.318" GUID="CVaxMD+j90Si5YmhZ9Cp4g==" type="legs.map.core.brisban.leg.heartmarkers.combat"/>
-        <POI MapID="54" xpos="-613.017" ypos="77.2136" zpos="530.345" GUID="zCc+d0YjYUqcv6xzWO2Hhg==" type="legs.map.core.brisban.leg.heartmarkers.combat"/>
-        <POI MapID="54" xpos="251.96" ypos="52.5813" zpos="-633.182" type="legs.map.core.brisban.leg.2" GUID="SnV3bbzcTEymUG1zxlia6g=="/>
-        <POI MapID="54" xpos="48.8361" ypos="50.9635" zpos="-401.969" type="legs.map.core.brisban.leg.springer" GUID="pl5CNRehrkCc9p0xqo2LXQ=="/>
-        <POI MapID="54" xpos="-430.554" ypos="20.975" zpos="-716.787" type="legs.map.core.brisban.leg.springer" GUID="jipfcL5T0Ea+EYplWu8/EA=="/>
-        <POI MapID="54" xpos="-406.533" ypos="4.12661" zpos="-631.382" GUID="Yqp9ifRogEGzYwI5JbbgsA==" type="legs.map.core.brisban.leg.heartmarkers.mines" info="INTERACT with Glowing Control Panel&#xA;&#xA;PICK UP E.M.P. and use on nearby devices&#xA;&#xA;KILL Inquest Sappers" infoRange="100"/>
-        <POI MapID="54" xpos="-765.284" ypos="21.8553" zpos="-89.7646" GUID="dD5nr+3iSke3EX2ER7hptw==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-726.101" ypos="23.0536" zpos="-67.0495" GUID="h4o3wUqC7UyRTrXUxfW7HA==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-732.91" ypos="23.1045" zpos="-97.9887" GUID="y+5FgTFuKEKpVSBfZrsr/A==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-756.777" ypos="21.8582" zpos="-57.9715" GUID="cOJa8cnnTkS+NjcWWBDiJQ==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-703.518" ypos="21.5726" zpos="0.455376" GUID="Q/O+Q/ivYkyePk1Lj9rMMw==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-687.578" ypos="25.193" zpos="40.1825" GUID="3SCeGa5NREyq/Bmb/06PTg==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-755.153" ypos="20.2916" zpos="-25.7193" GUID="jduiMBTey02ynQzHl6OY9g==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-785.035" ypos="18.0846" zpos="5.79379" GUID="aPy7mC+/J0ekGHNbgdFYWw==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-833.174" ypos="9.30884" zpos="5.63142" GUID="CEqb4p6cdkaSn/4XWgXtLg==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-837.552" ypos="13.3951" zpos="-50.8979" GUID="jna0TqMMuECmYy4zAziNDg==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-858.283" ypos="20.9408" zpos="-79.5733" GUID="eVPQt+qIJEeN39bwiBs1SQ==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-782.776" ypos="17.863" zpos="77.7653" GUID="w4zFiBJ6Yk2DdQh49aYxYQ==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-803.693" ypos="17.2898" zpos="115.377" GUID="nEaZ1x5Gc0yX8lkAAqjw4Q==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-764.426" ypos="24.3522" zpos="91.6524" GUID="N+wt0TAb0EKvAXGZbBOvwg==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-781.779" ypos="19.297" zpos="-42.636" GUID="idwkqLE7hEejB7vzn8QjyQ==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-817.464" ypos="14.6401" zpos="-37.5029" GUID="tYZ4SW2WTE+6vXH8AwCYBw==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-743.457" ypos="28.2387" zpos="105.421" GUID="TsTVnv9aUE+JQVselbPFUA==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-712.527" ypos="28.401" zpos="83.6385" GUID="5e19gbKpAEiFsUr3QtFSJQ==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-715.859" ypos="22.9343" zpos="39.9689" GUID="5a4MHuRGC0uAOcs7h8wP/A==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-794.126" ypos="20.1492" zpos="-68.6153" GUID="kiQaKaX6D0CltuZMOWXmgg==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-824.219" ypos="19.7487" zpos="-80.221" GUID="Cuubfq9hdUui24ltwB70tw==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-763.297" ypos="18.0097" zpos="56.893" GUID="qTCOoUZAf0yxvPuB2mw7Dw==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
-        <POI MapID="54" xpos="-881.712" ypos="0.404248" zpos="20.2435" GUID="XX8QGLvy+UK9tfsPkZIT5Q==" type="legs.map.core.brisban.leg.heartmarkers.mines" iconFile="Data/LadyElyssa/Images/Icons/Death.png" heightOffset="0"/>
         <POI MapID="54" xpos="-94.2521" ypos="53.3288" zpos="240.854" type="legs.map.core.brisban.leg.3" GUID="wNHd9aROdEapKUExz9EEZQ=="/>
         <POI MapID="54" xpos="137.581" ypos="-7.73222" zpos="56.0736" type="legs.map.core.brisban.leg.wp" GUID="dO4tAAZ7uk+dQJXxDAafNA==" copy="[&amp;BHUAAAA=]" copy-message="Mrot Boru Waypoint"/>
         <POI MapID="54" xpos="-191.655" ypos="16.0347" zpos="-166.405" type="legs.map.core.brisban.leg.wp" GUID="U69ZREHirUmjDyFDwSwIlw==" copy="[&amp;BGEAAAA=]" copy-message="Brilitine Waypoint"/>
@@ -1867,7 +1778,6 @@
         <POI MapID="30" xpos="221.475" ypos="101.868" zpos="-587.37" type="legs.map.core.frostgorge.leg.skyscale" GUID="wc60zYzN+0ejbBPPL2FywQ=="/>
         <POI MapID="30" xpos="-595.104" ypos="6.70892" zpos="-335.351" type="legs.map.core.frostgorge.leg.skyscale" GUID="+7iTER1tiUKEVMWM5e7cLw=="/>
         <POI MapID="30" xpos="-583.113" ypos="37.4627" zpos="-332.514" type="legs.map.core.frostgorge.leg.glider" GUID="34nHIn8MS0GpUgVklE7m8w=="/>
-        <Trail type="legs.map.core.frostgorge.wp" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Frostgorge Sound WP.trl" color="CC66FF"/>
         
         <Trail type="legs.map.core.lornars.leg.1" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.lornars.leg.2" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's 2.trl" color="00FFFF"/>
