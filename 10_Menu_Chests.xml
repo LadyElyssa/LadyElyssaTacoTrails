@@ -163,14 +163,12 @@
                 <!-- End Settings -->
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
             <MarkerCategory name="crystal" DisplayName="Crystal Oasis">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="number" DisplayName="Path Number">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                </MarkerCategory>
-                <!-- End Numbers -->
+                <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                
                 <MarkerCategory name="ct" IsSeparator="1" DisplayName="CHEST TYPES"/>
                 <MarkerCategory name="bleached" DisplayName="Bleached Bones" iconFile="Data/LadyElyssa/Images/Icons/Bleached Bones.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="40"/>
                 <MarkerCategory name="branded" DisplayName="Branded Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_b.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
@@ -181,23 +179,21 @@
             </MarkerCategory>
             <!-- End Crystal Oasis -->
             <MarkerCategory name="desert" DisplayName="Desert Highlands">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="number" DisplayName="Path Number">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
-                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
-                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
-                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
-                    <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
-                    <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
-                    <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
-                </MarkerCategory>
-                <!-- End Numbers -->
+                <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+
                 <MarkerCategory name="ct" IsSeparator="1" DisplayName="CHEST TYPES"/>
                 <MarkerCategory name="branded" DisplayName="Branded Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_b.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
@@ -207,19 +203,17 @@
             </MarkerCategory>
             <!-- End Desert Highlands -->
             <MarkerCategory name="elon" DisplayName="Elon Riverlands">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="number" DisplayName="Path Number">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
-                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
-                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
-                </MarkerCategory>
-                <!-- End Numbers -->
+                <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+
                 <MarkerCategory name="ct" IsSeparator="1" DisplayName="CHEST TYPES"/>
                 <MarkerCategory name="branded" DisplayName="Branded Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_b.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
@@ -230,23 +224,21 @@
             </MarkerCategory>
             <!-- End Elon Riverlands -->
             <MarkerCategory name="desolation" DisplayName="The Desolation">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="number" DisplayName="Path Number">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
-                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
-                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
-                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
-                    <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
-                    <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
-                    <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
-                </MarkerCategory>
-                <!-- End Numbers -->
+                <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+
                 <MarkerCategory name="ct" IsSeparator="1" DisplayName="CHEST TYPES"/>
                 <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="branded" DisplayName="Branded Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_b.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
@@ -256,23 +248,21 @@
             </MarkerCategory>
             <!-- End Vabbi -->
             <MarkerCategory name="vabbi" DisplayName="Vabbi">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="number" DisplayName="Path Number">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
-                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
-                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
-                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
-                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
-                    <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
-                    <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
-                    <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
-                </MarkerCategory>
-                <!-- End Numbers -->
+                <MarkerCategory name="number" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/LadyElyssa/Images/Numbers/9.png"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/LadyElyssa/Images/Numbers/10.png"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/LadyElyssa/Images/Numbers/11.png"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/LadyElyssa/Images/Numbers/12.png"/>
+                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/LadyElyssa/Images/Numbers/13.png"/>
+
                 <MarkerCategory name="ct" IsSeparator="1" DisplayName="CHEST TYPES"/>
                 <MarkerCategory name="branded" DisplayName="Branded Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_b.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/LadyElyssa/Images/Icons/Chest_White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>

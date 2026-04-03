@@ -280,7 +280,10 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="quartz" DisplayName="Rich Quartz Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-R-Quartz.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
-                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
                     <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
                     <MarkerCategory name="crystaloasis" DisplayName="Crystal Oasis"/>
                 </MarkerCategory>
@@ -1077,7 +1080,9 @@
                     <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="ruby" DisplayName="Bloodstone Rubies" iconFile="Data/LadyElyssa/Images/Blood Ruby.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
-                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" miniMapVisibility="0" minSize="32" maxSize="48" iconSize="0.5">
+                        <MarkerCategory name="gliding" DisplayName="Gliding" iconFile="Data/LadyElyssa/Images/Icons/Gliding.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    </MarkerCategory>
 
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
                     <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
