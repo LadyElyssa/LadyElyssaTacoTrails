@@ -403,9 +403,97 @@
                     <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
                 </MarkerCategory>
                 -->
-                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+
+                <!--
+                <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE MAPS"/>
+                <MarkerCategory name="ascalon" DisplayName="ASCALON">
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="iron" DisplayName="Iron Marches" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="plains" DisplayName="Plains of Ashford" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="grothmar" DisplayName="Grothmar Valley" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="kryta" DisplayName="KRYTA">
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="doric" DisplayName="Lake Doric" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="kessex" DisplayName="Kessex Hills" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="la" DisplayName="Lion's Arch" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="southsun" DisplayName="Southsun Cove" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="maguuma" DisplayName="MAGUUMA JUNGLE">
+                    <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="metrica" DisplayName="Metrica Province" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="rata" DisplayName="Rata Sum" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="grove" DisplayName="The Grove" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="orr" DisplayName="RUINS OF ORR">
+                    <MarkerCategory name="cs" DisplayName="Cursed Shore" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="ml" DisplayName="Malchor's Leap" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="sd" DisplayName="Straits of Devastation" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="shiverpeaks" DisplayName="SHIVERPEAK MOUNTAINS">
+                    <MarkerCategory name="bitterfrost" DisplayName="Bitterfrost Frontier" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="timberline" DisplayName="Timberline Falls" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="hot" DisplayName="Heart of Thorns">
+                    <MarkerCategory name="ab" DisplayName="Auric Basic" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="td" DisplayName="Tangled Depths" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="pof" DisplayName="Path of Fire">
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="doi" DisplayName="Domain of Istan" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>                
+                    <MarkerCategory name="dok" DisplayName="Domain of Kourna" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="dragonfall" DisplayName="Dragonfall" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="er" DisplayName="Elon Riverlands" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="si" DisplayName="Sanddwept Isles" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="desolation" DisplayName="The Desolation" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="eod" DisplayName="End of Dragons">
+                    <MarkerCategory name="arborstone" DisplayName="Arborstone" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="de" DisplayName="Dragon's End" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="nkc" DisplayName="New Kaineng City" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="sp" DisplayName="Seitung Province" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="tew" DisplayName="The Echovald Wilds" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="soto" DisplayName="Secrets of the Obscure">
+                    <MarkerCategory name="amnytas" DisplayName="Amnytas" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="nayos" DisplayName="Inner Nayos" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="skywatch" DisplayName="Skywatch Archipelago" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="jw" DisplayName="Janthir Wilds">
+                    <MarkerCategory name="ls" DisplayName="Lowland Shore" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="js" DisplayName="Janthir Syntri" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                    <MarkerCategory name="mb" DisplayName="Mistburned Barrens" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+                </MarkerCategory>
+                -->
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="Visions of Eternity"/>
                 <MarkerCategory name="ss" DisplayName="Shipwreck Strand" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
                 <MarkerCategory name="sw" DisplayName="Starlit Weald" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="24" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Aetherlocation Treasure.png"/>
+
                 <!--
                 <MarkerCategory name="" DisplayName=""/>
                 <MarkerCategory name="" DisplayName=""/>
