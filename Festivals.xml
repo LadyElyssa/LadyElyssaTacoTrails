@@ -1,7 +1,5 @@
 <OverlayData>
     <POIs>
-        
-
         <!-- Dragon Bash -->
         <Trail type="legs.festivals.dragonbash.adventure1" trailData="Data/LadyElyssa/Festivals/Dragon Bash/Dragon Bash Rally.trl" texture="Data/LadyElyssa/Images/Trail Pointer - Small.png"/>
         <POI MapID="326" xpos="161.6113" ypos="301.9783" zpos="-50.33709" type="legs.festivals.dragonbash.adventure1.start" GUID="l6XBy36hX0CrxgaRJjTblw=="/>
@@ -757,19 +755,21 @@
         <Trail type="legs.festivals.sab.hub.race" trailData="Data/LadyElyssa/Festivals/SAB/Hub Race 3.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.hub.race" trailData="Data/LadyElyssa/Festivals/SAB/Hub Race 4.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.hub.race" trailData="Data/LadyElyssa/Festivals/SAB/Hub Race 5.trl" color="FF66FF"/>
+
+        <Trail type="legs.festivals.sab.hub.bumblepug" trailData="Data/LadyElyssa/Festivals/SAB/Hub Race Bumble Pug.trl"/>
         
         <!-- Adventure -->
         <Trail type="legs.festivals.sab.w1z1.moc" trailData="Data/LadyElyssa/Festivals/SAB/World 1/Master of Coins 1-1.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
         <Trail type="legs.festivals.sab.w1z2.moc" trailData="Data/LadyElyssa/Festivals/SAB/World 1/Master of Coins 1-2.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
         <Trail type="legs.festivals.sab.w1z3.moc" trailData="Data/LadyElyssa/Festivals/SAB/World 1/Master of Coins 1-3.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
         <!-- W1Z1 - Warm-Up -->
-        <Trail type="legs.festivals.sab.w1z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 1.trl"/>
-        <Trail type="legs.festivals.sab.w1z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 2.trl"/>
-        <Trail type="legs.festivals.sab.w1z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 3.trl"/>
-        <Trail type="legs.festivals.sab.w1z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 4.trl"/>
-        <Trail type="legs.festivals.sab.w1z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 5.trl"/>
-        <Trail type="legs.festivals.sab.w1z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Alt 1.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.festivals.sab.w1z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Alt 2.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w1z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Alt 1.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w1z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Alt 2.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w1z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 1.trl"/>
+        <Trail type="legs.festivals.sab.w1z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 2.trl"/>
+        <Trail type="legs.festivals.sab.w1z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 3.trl"/>
+        <Trail type="legs.festivals.sab.w1z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 4.trl"/>
+        <Trail type="legs.festivals.sab.w1z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Warm-Up Normal 5.trl"/>
         <!-- W1Z1 - Classic -->
         <Trail type="legs.festivals.sab.w1z1.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Classic 1.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w1z1.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z1 Classic 2.trl" color="FF66FF"/>
@@ -801,20 +801,27 @@
         
 
         <!-- W1Z2 - Warm-Up -->
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 1.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 2.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 3.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 4.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 5.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Alt 1.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Alt 2.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.festivals.sab.w1z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Alt 3.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <!-- W1Z2 - Classic -->
+        <Trail type="legs.festivals.sab.w1z2.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Classic Alt 1.trl"/>
         <Trail type="legs.festivals.sab.w1z2.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Baubles 1.trl"/>
         <Trail type="legs.festivals.sab.w1z2.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Baubles 2.trl"/>
         <Trail type="legs.festivals.sab.w1z2.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Baubles 3.trl"/>
         <Trail type="legs.festivals.sab.w1z2.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Baubles 4.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Classic Alt 1.trl"/>
+
+        <Trail type="legs.festivals.sab.w1z2.shortcut" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Shortcut 1.trl"/>
+        <Trail type="legs.festivals.sab.w1z2.shortcut" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Shortcut 2.trl"/>
+        <Trail type="legs.festivals.sab.w1z2.shortcut" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Shortcut 3.trl"/>
+
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Alt 1.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Alt 2.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Alt 3.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
+
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 1.trl"/>
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 2.trl"/>
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 3.trl"/>
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 4.trl"/>
+        <Trail type="legs.festivals.sab.w1z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Warm-Up Normal 5.trl"/>
+        
+        <!-- W1Z2 - Classic -->
         <Trail type="legs.festivals.sab.w1z2.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Classic Alt 2.trl" texture="Data/LadyElyssa/Images/Dashed Line - Fine with Shadow.png" animSpeed="0.5"/>
         <Trail type="legs.festivals.sab.w1z2.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Classic 1.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w1z2.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Classic 2.trl" color="FF66FF"/>
@@ -852,16 +859,13 @@
         <POI MapID="895" xpos="-462.453" ypos="71.0" zpos="495.097" type="legs.festivals.sab.w1z2.chest" GUID="qM0bj6+AXkaz4il/TQxNog==" iconFile="Data/LadyElyssa/Images/SAB/Chest.png"/>
         <Trail type="legs.festivals.sab.w1z2.chest" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Chest 2.trl"/>
         <POI MapID="895" xpos="-311.427" ypos="73.7831" zpos="504.933" type="legs.festivals.sab.w1z2.chest" GUID="JXkbJemNd0CdcWzPikZ8ow==" iconFile="Data/LadyElyssa/Images/SAB/Chest.png"/>
-        <Trail type="legs.festivals.sab.w1z2.shortcut" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Shortcut 1.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.shortcut" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Shortcut 2.trl"/>
-        <Trail type="legs.festivals.sab.w1z2.shortcut" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z2 Shortcut 3.trl"/>
         
         <!-- W1Z3 - Warm-Up -->
-        <Trail type="legs.festivals.sab.w1z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 1.trl"/>
-        <Trail type="legs.festivals.sab.w1z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 2.trl"/>
-        <Trail type="legs.festivals.sab.w1z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 3.trl"/>
-        <Trail type="legs.festivals.sab.w1z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 4.trl"/>
-        <Trail type="legs.festivals.sab.w1z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 5.trl"/>
+        <Trail type="legs.festivals.sab.w1z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 1.trl"/>
+        <Trail type="legs.festivals.sab.w1z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 2.trl"/>
+        <Trail type="legs.festivals.sab.w1z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 3.trl"/>
+        <Trail type="legs.festivals.sab.w1z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 4.trl"/>
+        <Trail type="legs.festivals.sab.w1z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Warm-Up Normal 5.trl"/>
         <!-- W1Z3 - Classic -->
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 1.trl"/>
         <Trail type="legs.festivals.sab.w1z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 1/W1Z3 Baubles 1b.trl"/>
@@ -933,15 +937,16 @@
         <Trail type="legs.festivals.sab.w2z1.moc" trailData="Data/LadyElyssa/Festivals/SAB/World 2/Master of Coins 2-1.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
         <Trail type="legs.festivals.sab.w2z2.moc" trailData="Data/LadyElyssa/Festivals/SAB/World 2/Master of Coins 2-2.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
         <Trail type="legs.festivals.sab.w2z3.moc" trailData="Data/LadyElyssa/Festivals/SAB/World 2/Master of Coins 2-3.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w2z1.alt" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Misc 1.trl"/>
         <!-- W2Z1 - Warm-Up -->
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 1.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 2.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 3.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 4.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 5.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 6.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 7.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 8.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 1.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 2.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 3.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 4.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 5.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 6.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 7.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 8.trl"/>
         <!-- W2Z1 - Classic -->
         <Trail type="legs.festivals.sab.w2z1.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 1.trl" animSpeed="0"/>
         <Trail type="legs.festivals.sab.w2z1.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 2.trl"/>
@@ -994,7 +999,7 @@
         <POI MapID="934" xpos="-96.7397" ypos="170.218" zpos="-357.307" type="legs.festivals.sab.w2z1.set.chest" GUID="2yfxoLBbnkGCli+xPSL0Fw=="/>
         <POI MapID="934" xpos="-92.5305" ypos="247.64" zpos="-354.114" type="legs.festivals.sab.w2z1.set.chest" GUID="dtbya1zk60KXKgr+JECQfA=="/>
         <POI MapID="934" xpos="-26.1362" ypos="244.124" zpos="-310.461" type="legs.festivals.sab.w2z1.set.torch" GUID="Kp/mCdTY1UGYmAHmT8HvJg=="/>
-        <Trail type="legs.festivals.sab.w2z1.alt" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Misc 1.trl"/>
+        
         <Trail type="legs.festivals.sab.w2z1.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Classic 1.trl"/>
         <Trail type="legs.festivals.sab.w2z1.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Classic 2.trl"/>
         <Trail type="legs.festivals.sab.w2z1.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Classic 3.trl"/>
@@ -1013,10 +1018,10 @@
         <Trail type="legs.festivals.sab.w2z1.shop.trail" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Shop 4.trl"/>
         
         <!-- W2Z2 - Warm-Up -->
-        <Trail type="legs.festivals.sab.w2z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 1.trl"/>
-        <Trail type="legs.festivals.sab.w2z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 2.trl"/>
-        <Trail type="legs.festivals.sab.w2z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 3.trl"/>
-        <Trail type="legs.festivals.sab.w2z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 4.trl"/>
+        <Trail type="legs.festivals.sab.w2z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 1.trl"/>
+        <Trail type="legs.festivals.sab.w2z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 2.trl"/>
+        <Trail type="legs.festivals.sab.w2z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 3.trl"/>
+        <Trail type="legs.festivals.sab.w2z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Warm-Up Normal 4.trl"/>
         <!-- W2Z2 - Classic -->
         <Trail type="legs.festivals.sab.w2z2.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Baubles 1.trl" animSpeed="0"/>
         <Trail type="legs.festivals.sab.w2z2.dig" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z2 Baubles 2.trl" color="6699FF"/>
@@ -1095,13 +1100,13 @@
         
 
         <!-- W2Z3 - Warm-Up -->
-        <Trail type="legs.festivals.sab.w2z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 1.trl"/>
-        <Trail type="legs.festivals.sab.w2z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 2.trl"/>
-        <Trail type="legs.festivals.sab.w2z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 3.trl"/>
-        <Trail type="legs.festivals.sab.w2z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 4.trl"/>
-        <Trail type="legs.festivals.sab.w2z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 5.trl"/>
-        <Trail type="legs.festivals.sab.w2z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 6.trl"/>
-        <Trail type="legs.festivals.sab.w2z3.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 7.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 1.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 2.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 3.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 4.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 5.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 6.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Warm-Up Normal 7.trl"/>
         <!-- W2Z3 - Classic-->
         <Trail type="legs.festivals.sab.w2z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 1.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 2.trl" color="FF66FF"/>
@@ -1232,11 +1237,11 @@
         <!-- Adventure -->
         <Trail type="legs.festivals.sab.w3z1.moc" trailData="Data/LadyElyssa/Festivals/SAB/World 3/Master of Coins Under 3.trl" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png"/>
         <!-- W3Z1 - TEST Zone - Warm-Up -->
-        <Trail type="legs.festivals.sab.w3z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 1.trl"/>
-        <Trail type="legs.festivals.sab.w3z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 2.trl"/>
-        <Trail type="legs.festivals.sab.w3z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 3.trl"/>
-        <Trail type="legs.festivals.sab.w3z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 4.trl"/>
-        <Trail type="legs.festivals.sab.w3z1.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 5.trl"/>
+        <Trail type="legs.festivals.sab.w3z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 1.trl"/>
+        <Trail type="legs.festivals.sab.w3z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 2.trl"/>
+        <Trail type="legs.festivals.sab.w3z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 3.trl"/>
+        <Trail type="legs.festivals.sab.w3z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 4.trl"/>
+        <Trail type="legs.festivals.sab.w3z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Warm-Up Normal 5.trl"/>
         <!-- W3Z1 - TEST Zone - Classic -->
         <POI MapID="1493" xpos="88.6855" ypos="230.792" zpos="-272.802" type="legs.festivals.sab.w3z1.set.chest" GUID="6nlUIYFW1UiIm+JjGrkjxg=="/>
         <POI MapID="1493" xpos="40.6493" ypos="210.909" zpos="-290.029" type="legs.festivals.sab.w3z1.set.bomb" GUID="g18mYw4570KMSPO5NpDraQ=="/>
@@ -1264,11 +1269,24 @@
         <Trail type="legs.festivals.sab.w3z1.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Classic 5.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w3z1.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z1 Classic 6.trl" color="FF66FF"/>
 
-        <Trail type="legs.festivals.sab.w3z2.warmup" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Basic.trl"/>
+        <!-- Shortcuts Courtesy of TiffyMissWiffy - https://www.youtube.com/@TiffyMissWiffy -->
+        <Trail type="legs.festivals.sab.w3z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Basic Shortcut 1.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w3z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Basic Shortcut 2.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w3z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Basic Shortcut 3.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w3z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Basic Shortcut 4.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w3z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Basic Shortcut 5.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.sab.w3z2.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Basic.trl"/>
         <Trail type="legs.festivals.sab.w3z2.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Classic.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w3z2.chest" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Underwater Chest Path 1.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w3z2.chest" trailData="Data/LadyElyssa/Festivals/SAB/World 3/W3Z2 Underwater Chest Path 2.trl" color="FF66FF"/>
         <POI MapID="1612" xpos="13.59353" ypos="220.7945" zpos="76.13105" type="legs.festivals.sab.w3z2.set.chest" GUID="JRV6oBxKI0yvSMBRlf3tzQ=="/>
+        <POI MapID="1612" xpos="52.6292" ypos="182.819" zpos="297.094" type="legs.festivals.sab.w3z2.cfw_r2l" GUID="VA2GMhWU8UygyeGz9LA2xg=="/>
+        <POI MapID="1612" xpos="36.9271" ypos="177.466" zpos="285.227" type="legs.festivals.sab.w3z2.cfw_r2l" GUID="3cjCOubsiESHH5Gd1IAeCg=="/>
+        <POI MapID="1612" xpos="148.448" ypos="248.407" zpos="16.758" type="legs.festivals.sab.w3z2.set.assassin" GUID="u3zS3G8upUavwh9+ky0jxg=="/>
+        <POI MapID="1612" xpos="129.052" ypos="265.369" zpos="-28.221" type="legs.festivals.sab.w3z2.set.assassin" GUID="mlNRLtIN+02gPA97CjUGuw=="/>
+        <POI MapID="1612" xpos="0.331169" ypos="220.642" zpos="112.289" type="legs.festivals.sab.w3z2.set.assassin" GUID="TC1115D7nECKY/qDiqWzfg=="/>
+        <POI MapID="1612" xpos="62.681" ypos="220.472" zpos="182.689" type="legs.festivals.sab.w3z2.set.assassin" GUID="2RopNK5OpE6e0SEA216wMg=="/>
+        <POI MapID="1612" xpos="-5.036854" ypos="172.2043" zpos="-157.4325" type="legs.festivals.sab.w3z2.set.info" GUID="UGTcFQHdpkik9M8G05I+DA==" info="If Shop is Closed for lunch, you need the Catch and Release achievement from Test Zone 1" infoRange="3"/>
 
         <!-- Wintersday -->
         <POI MapID="18" xpos="101.355" ypos="100.433" zpos="-472.782" type="legs.festivals.wintersday.locations" GUID="0wO1sD76Qki6k5aSzj9AUA=="/>

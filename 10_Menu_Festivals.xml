@@ -544,6 +544,7 @@
             <MarkerCategory name="sab" DisplayName="Super Adventure Box" texture="Data/LadyElyssa/Images/Line - with Arrow Shaded.png" animSpeed="0" alpha="1" fadeNear="900" fadeFar="1200" miniMapVisibility="0" bh-festival="superadventurefestival">
                 <MarkerCategory name="hub" DisplayName="Super Adventure Hub" texture="Data/LadyElyssa/Images/Line - Medium with Shadow.png" fadeNear="1200" fadeFar="1600">
                     <MarkerCategory name="race" DisplayName="Race"/>
+                    <MarkerCategory name="bumblepug" DisplayName="Race as a Bumblepug" texture="Data/LadyElyssa/Images/SAB/Line - Bumble Pugs.png"/>
                 </MarkerCategory>
                 <MarkerCategory name="w1z1" DisplayName="World 1 Zone 1">
                     <MarkerCategory name="set" DisplayName="Settings">
@@ -553,8 +554,8 @@
                         <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail">
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="number" DisplayName="Number">
                             <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/SAB/1.png" heightOffset="0.5"/>
@@ -583,8 +584,8 @@
                         <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail">
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="number" DisplayName="Number">
                             <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/SAB/1.png" heightOffset="0.5"/>
@@ -614,8 +615,8 @@
                         <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" texture="Data/LadyElyssa/Images/Line - Medium Wide with Shadow.png" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
@@ -641,8 +642,8 @@
                         <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
@@ -669,8 +670,8 @@
                         <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF">
                         <MarkerCategory name="backtrack" DisplayName="Backtrack (Requires: Exploration Mode)" texture="Data/LadyElyssa/Images/Trails/Dark Dashed Line - Fine with Shadow.png"/>
                     </MarkerCategory>
@@ -699,8 +700,8 @@
                         <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face R2L" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail" color="FF66FF"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
@@ -724,8 +725,8 @@
                         <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
@@ -743,15 +744,19 @@
                         <!--
                         <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         -->
+                        <MarkerCategory name="assassin" DisplayName="Assassin Warning" iconFile="Data/LadyElyssa/Images/Assassins.png" fadeNear="1200" fadeFar="1400" minSize="32" maxSize="64" heightOffset="0.5"/>
                         <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="info" DisplayName="Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         <!--
                         <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         -->
+                        
+
                     </MarkerCategory>
                     <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="warmup" DisplayName="Basic Trail" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Classic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic"/>
                     <!--
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
@@ -766,6 +771,9 @@
                         <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
                     </MarkerCategory>
                     -->
+
+                    <MarkerCategory name="cfw_l2r" DisplayName="Warning - Cliff Face L2R" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face R2L" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
                 </MarkerCategory>
 
             </MarkerCategory>
