@@ -546,217 +546,228 @@
                     <MarkerCategory name="race" DisplayName="Race"/>
                     <MarkerCategory name="bumblepug" DisplayName="Race as a Bumblepug" texture="Data/LadyElyssa/Images/SAB/Line - Bumble Pugs.png"/>
                 </MarkerCategory>
+
                 <MarkerCategory name="w1z1" DisplayName="World 1 Zone 1">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+                    
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
                     <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+                    
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
                     <MarkerCategory name="classic" DisplayName="Full Classic">
-                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
-                        <MarkerCategory name="number" DisplayName="Number">
-                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/SAB/1.png" heightOffset="0.5"/>
-                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/SAB/2.png" heightOffset="0.5"/>
-                        </MarkerCategory>
+                        <MarkerCategory name="furniture" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Shop" color="FFCC00"/>
                     </MarkerCategory>
-                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
+
+                    <MarkerCategory name="bonus" IsSeparator="1" DisplayName="Bonus Trail "/>
                     <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
                         <MarkerCategory name="honeycomb" DisplayName="Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="w1z2" DisplayName="World 1 Zone 2">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic">
+                        <MarkerCategory name="number" IsSeparator="1" DisplayName="Path Number"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/SAB/1.png" heightOffset="0.5"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/SAB/2.png" heightOffset="0.5"/>
+
+                        <MarkerCategory name="trails" IsSeparator="1" DisplayName="Trails"/>
+                        <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                        <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                        <MarkerCategory name="furniture" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Shop" color="FFCC00"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="bonus" IsSeparator="1" DisplayName="Bonus Trail"/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    
+                    <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm" color="ABCDEF"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="w1z3" DisplayName="World 1 Zone 3">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
+
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF">
+                        <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                        <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                        <MarkerCategory name="furniture" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="shop" DisplayName="Shop" color="FFCC00"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="bonus" IsSeparator="1" DisplayName="Bonus Trail "/>
+                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
+                        <MarkerCategory name="honeycomb" DisplayName="Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    
+                </MarkerCategory>
+
+                <MarkerCategory name="w2z1" DisplayName="World 2 Zone 1">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
+                    <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic">
+                        <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                        <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                        <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
+                        <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
+                        <MarkerCategory name="furniture" DisplayName="Furniture Coins"/>
+                        <MarkerCategory name="shop" DisplayName="Shop" color="FFCC00"/>
+                        <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="w1z2" DisplayName="World 1 Zone 2">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+
+                <MarkerCategory name="w2z2" DisplayName="World 2 Zone 2">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="flute" DisplayName="Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
+                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
+
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic">
+                        <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF">
+                            <MarkerCategory name="backtrack" DisplayName="Backtrack (Requires: Exploration Mode)" texture="Data/LadyElyssa/Images/Trails/Dark Dashed Line - Fine with Shadow.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                        <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
+                        <MarkerCategory name="furniture" DisplayName="Furniture Coins"/>
+                        <MarkerCategory name="shop" DisplayName="Shop" color="FFFF00"/>
+                        <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="w2z3" DisplayName="World 2 Zone 3">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="flute" DisplayName="Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
+                    <MarkerCategory name="info" DisplayName="Info" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="cfw_l2r" DisplayName="Warning - Cliff Face" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="goat" DisplayName="Warning - Goat" iconFile="Data/LadyElyssa/Images/SAB/Goat Warning.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic">
+                        <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                        <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
+                        <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
+                        <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
+                        <MarkerCategory name="furniture" DisplayName="Furniture Coins"/>
+                        <MarkerCategory name="shop" DisplayName="Shop" color="FFFF00"/>
+                        
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="w3z1" DisplayName="World 3 Test Zone 1">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
+                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
+
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF">
+                        <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
+                        <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
+                        <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
                         <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Full Classic">
-                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
-                        <MarkerCategory name="number" DisplayName="Number">
-                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/SAB/1.png" heightOffset="0.5"/>
-                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/SAB/2.png" heightOffset="0.5"/>
-                        </MarkerCategory>
-                    </MarkerCategory>
-                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
-                        <MarkerCategory name="honeycomb" DisplayName="Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm Trail" color="ABCDEF"/>
-                </MarkerCategory>
-                <MarkerCategory name="w1z3" DisplayName="World 1 Zone 3">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" animSpeed="0" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
-                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="chest" DisplayName="Chest" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
-                        <MarkerCategory name="honeycomb" DisplayName="Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm Trail" color="ABCDEF"/>
-                </MarkerCategory>
-                <MarkerCategory name="w2z1" DisplayName="World 2 Zone 1">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
-                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
-                    <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
-                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
-                        <MarkerCategory name="honeycomb" DisplayName="Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
-                </MarkerCategory>
-                <MarkerCategory name="w2z2" DisplayName="World 2 Zone 2">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="flute" DisplayName="Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
-                        <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF">
-                        <MarkerCategory name="backtrack" DisplayName="Backtrack (Requires: Exploration Mode)" texture="Data/LadyElyssa/Images/Trails/Dark Dashed Line - Fine with Shadow.png"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
-                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="stump" DisplayName="Stump Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF6E00"/>
-                </MarkerCategory>
-                <MarkerCategory name="w2z3" DisplayName="World 2 Zone 3">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="flute" DisplayName="Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
-                        <MarkerCategory name="goat" DisplayName="Warning - Goat" iconFile="Data/LadyElyssa/Images/SAB/Goat Warning.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="info" DisplayName="Info" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
-                        <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>
-                        <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="cfw_l2r" DisplayName="Warning - Cliff Face L2R" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face R2L" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF"/>
-                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
-                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
-                    <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
-                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="honeycomb" DisplayName="Honeycomb Trail" texture="Data/LadyElyssa/Images/Candy Gradient BW.png" animSpeed="0.5">
-                        <MarkerCategory name="honeycomb" DisplayName="Honeycomb" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
-                    </MarkerCategory>
-                </MarkerCategory>
-                <MarkerCategory name="w3z1" DisplayName="World 3 Test Zone 1">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
-                    <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Full Classic"/>
-                    <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
-                    <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5"/>
-                    <MarkerCategory name="furniture" DisplayName="Furniture Coins">
-                        <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
-                    </MarkerCategory>
+
+                    <MarkerCategory name="bonus" IsSeparator="1" DisplayName="Bonus Trail"/>
+                    <MarkerCategory name="car" DisplayName="Catch and Release" iconFile="Data/LadyElyssa/Images/SAB/Drop.png" fadeNear="1200" fadeFar="1400" minSize="8" maxSize="16" heightOffset="0.0"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="w3z2" DisplayName="World 3 Test Zone 2">
-                    <MarkerCategory name="set" DisplayName="Settings">
-                        <!--
-                        <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        -->
-                        <MarkerCategory name="assassin" DisplayName="Assassin Warning" iconFile="Data/LadyElyssa/Images/Assassins.png" fadeNear="1200" fadeFar="1400" minSize="32" maxSize="64" heightOffset="0.5"/>
-                        <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="info" DisplayName="Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        <!--
-                        <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        -->
-                        
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                    <!--
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    -->
+                    <MarkerCategory name="assassin" DisplayName="Assassin Warning" iconFile="Data/LadyElyssa/Images/Assassins.png" fadeNear="1200" fadeFar="1400" minSize="32" maxSize="64" heightOffset="0.5"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="info" DisplayName="Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <!--
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    -->
+                    <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face R2L" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
 
-                    </MarkerCategory>
-                    <MarkerCategory name="moc" DisplayName="Super Adventure" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+                    <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
+                    <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
+
+                    <MarkerCategory name="bt" IsSeparator="1" DisplayName="Basic Trail"/>
                     <MarkerCategory name="basic" DisplayName="Basic Classic" color="E2725B" fadeNear="1200" fadeFar="1400"/>
-                    <MarkerCategory name="classic" DisplayName="Full Classic"/>
+
+                    <MarkerCategory name="mt" IsSeparator="1" DisplayName="Main Trail"/>
+                    <MarkerCategory name="classic" DisplayName="Full Classic" color="FF66FF">
                     <!--
                     <MarkerCategory name="alt" DisplayName="Alternate Trail" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.5" color="FF66FF"/>
                     <MarkerCategory name="bubble" DisplayName="Bauble Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5" color="FF66FF"/>
@@ -766,14 +777,10 @@
                     <MarkerCategory name="furniture" DisplayName="Furniture Coins">
                         <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     </MarkerCategory>
-                    <MarkerCategory name="shop" DisplayName="Shops">
-                        <MarkerCategory name="icon" DisplayName="Shop Icon" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Shop Trail" color="FFCC00"/>
-                    </MarkerCategory>
+                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                     -->
-
-                    <MarkerCategory name="cfw_l2r" DisplayName="Warning - Cliff Face L2R" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face R2L" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    </MarkerCategory>
+                    
                 </MarkerCategory>
 
             </MarkerCategory>

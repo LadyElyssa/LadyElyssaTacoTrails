@@ -507,7 +507,7 @@
                 <MarkerCategory name="mirror" DisplayName="Magic Mirror" iconFile="Data/LadyElyssa/Images/Icons/Magic Mirror.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48" inGameVisibility="0" behavior="4" resetLength="180"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ss" DisplayName="Shipwreck Strand">
-                    <MarkerCategory name="main" DisplayName="Full Route" defaulttoggle="0"/>
+                    <MarkerCategory name="main" DisplayName="Full Route (Deprecated)" defaulttoggle="0"/>
                     <MarkerCategory name="slow" IsSeparator="1" DisplayName="Slow Routes" defaulttoggle="0"/>
                     <MarkerCategory name="medium" DisplayName="Medium Only"/>
                     <MarkerCategory name="large" DisplayName="Large Only"/>
