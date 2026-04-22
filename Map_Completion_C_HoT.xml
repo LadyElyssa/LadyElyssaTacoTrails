@@ -201,52 +201,53 @@
         <!-- Dragon Stand -->
 
         <!-- Non-Meta Map Comp Section -->
+        <!--
         <Trail type="legs.map.hot.ds.nonmeta.barefoot" trailData="Data/LadyElyssa/Map Completion/HoT/Barefoot/DS 1 Non-Meta.trl" color="00FFFF"/>
-
+        -->
         <Trail type="legs.map.hot.ds.nonmeta.main" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Non Meta.trl" color="00FFFF"/>
         <POI MapID="1041" xpos="645.216" ypos="67.4287" zpos="766.936" type="legs.map.hot.ds.nonmeta.start" GUID="eg6k3akNQ0Gab7Jrvo8+Tg=="/>
-        <POI MapID="1041" xpos="502.366" ypos="89.883" zpos="727.084" type="legs.map.hot.ds.nonmeta.main.glider" GUID="MYY6qG8fpkW+kjmxEzAXfw=="/>
-        <POI MapID="1041" xpos="500.585" ypos="90.3411" zpos="-223.22" type="legs.map.hot.ds.nonmeta.main.glider" GUID="isz7Ge+jwky3QTWANhsp3g=="/>
-        <POI MapID="1041" xpos="496.79" ypos="91.1741" zpos="-204.352" type="legs.map.hot.ds.nonmeta.main.glider" GUID="ednNTrNT0kqhkka1+HFa8w=="/>
-        <POI MapID="1041" xpos="-131.628" ypos="87.2021" zpos="226.572" type="legs.map.hot.ds.nonmeta.main.glider" GUID="t+TAAmYHr0iISYwVcJWlUQ=="/>
-        <POI MapID="1041" xpos="-330.887" ypos="17.8652" zpos="420.06" type="legs.map.hot.ds.nonmeta.main.glider" GUID="92nWoNnXNE+qyleUNJBPZA=="/>
-        <POI MapID="1041" xpos="-172.989" ypos="90.4774" zpos="477.464" type="legs.map.hot.ds.nonmeta.main.glider" GUID="mwMPo6HPEUSmZyXCKGACag=="/>
-        <POI MapID="1041" xpos="636.414" ypos="90.4847" zpos="403.397" type="legs.map.hot.ds.nonmeta.main.glider" GUID="VHpnuURArkK4Q76bIEQOwQ=="/>
-        <POI MapID="1041" xpos="678.968" ypos="69.4754" zpos="411.443" type="legs.map.hot.ds.nonmeta.main.glider" GUID="qkdq5RI3lE+64KOz6GSjzw=="/>
-        <POI MapID="1041" xpos="282.917" ypos="194.774" zpos="203.815" type="legs.map.hot.ds.nonmeta.main.glider" GUID="Y5oFtU/uwE6U1mask7dA1A=="/>
-        <POI MapID="1041" xpos="370.023" ypos="87.1051" zpos="29.8289" type="legs.map.hot.ds.nonmeta.main.glider" GUID="IT8hsdLGwkKWxkts3ICRlg=="/>
-
+        <POI MapID="1041" xpos="502.366" ypos="89.883" zpos="727.084" type="legs.map.hot.ds.nonmeta.mainglider" GUID="MYY6qG8fpkW+kjmxEzAXfw=="/>
+        <POI MapID="1041" xpos="500.585" ypos="90.3411" zpos="-223.22" type="legs.map.hot.ds.nonmeta.mainglider" GUID="isz7Ge+jwky3QTWANhsp3g=="/>
+        <POI MapID="1041" xpos="496.79" ypos="91.1741" zpos="-204.352" type="legs.map.hot.ds.nonmeta.mainglider" GUID="ednNTrNT0kqhkka1+HFa8w=="/>
+        <POI MapID="1041" xpos="-131.628" ypos="87.2021" zpos="226.572" type="legs.map.hot.ds.nonmeta.mainglider" GUID="t+TAAmYHr0iISYwVcJWlUQ=="/>
+        <POI MapID="1041" xpos="-330.887" ypos="17.8652" zpos="420.06" type="legs.map.hot.ds.nonmeta.mainglider" GUID="92nWoNnXNE+qyleUNJBPZA=="/>
+        <POI MapID="1041" xpos="-172.989" ypos="90.4774" zpos="477.464" type="legs.map.hot.ds.nonmeta.mainglider" GUID="mwMPo6HPEUSmZyXCKGACag=="/>
+        <POI MapID="1041" xpos="636.414" ypos="90.4847" zpos="403.397" type="legs.map.hot.ds.nonmeta.mainglider" GUID="VHpnuURArkK4Q76bIEQOwQ=="/>
+        <POI MapID="1041" xpos="678.968" ypos="69.4754" zpos="411.443" type="legs.map.hot.ds.nonmeta.mainglider" GUID="qkdq5RI3lE+64KOz6GSjzw=="/>
+        <POI MapID="1041" xpos="282.917" ypos="194.774" zpos="203.815" type="legs.map.hot.ds.nonmeta.mainglider" GUID="Y5oFtU/uwE6U1mask7dA1A=="/>
+        <POI MapID="1041" xpos="370.023" ypos="87.1051" zpos="29.8289" type="legs.map.hot.ds.nonmeta.mainglider" GUID="IT8hsdLGwkKWxkts3ICRlg=="/>
+        <!--
         <Trail type="legs.map.hot.ds.meta.barefoot" trailData="Data/LadyElyssa/Map Completion/HoT/Barefoot/DS Meta 1 N.trl" color="00FFFF"/>
         <Trail type="legs.map.hot.ds.meta.barefoot" trailData="Data/LadyElyssa/Map Completion/HoT/Barefoot/DS Meta 2 C.trl" color="00FFFF"/>
         <Trail type="legs.map.hot.ds.meta.barefoot" trailData="Data/LadyElyssa/Map Completion/HoT/Barefoot/DS Meta 3 S.trl" color="00FFFF"/>
-
-        <Trail type="legs.map.hot.ds.meta.main.number.1" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.hot.ds.meta.main.number.2" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.hot.ds.meta.main.number.3" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.hot.ds.meta.main.number.4" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.hot.ds.meta.main.number.5" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 5.trl" color="00FFFF"/>
-        <Trail type="legs.map.hot.ds.meta.main.number.6" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 6.trl" color="00FFFF"/>
+        -->
+        <Trail type="legs.map.hot.ds.meta.maintrail.1" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.hot.ds.meta.maintrail.2" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.hot.ds.meta.maintrail.3" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.hot.ds.meta.maintrail.4" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.hot.ds.meta.maintrail.5" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.hot.ds.meta.maintrail.6" trailData="Data/LadyElyssa/Map Completion/HoT/Dragon Stand Meta 6.trl" color="00FFFF"/>
         <POI MapID="1041" xpos="645.216" ypos="67.4287" zpos="766.936" type="legs.map.hot.ds.meta.start" GUID="oVgyL9UHA0SfwL+sT2W/RA=="/>
-        <POI MapID="1041" xpos="-330.51" ypos="18.1427" zpos="420.295" type="legs.map.hot.ds.meta.main.glider" GUID="TmV0m7wJrkiui7DUubClzw=="/>
-        <POI MapID="1041" xpos="642.572" ypos="71.7634" zpos="774.065" type="legs.map.hot.ds.meta.main.number.1" GUID="IrcBRYmYHUSLYPKjazaQvA=="/>
-        <POI MapID="1041" xpos="644.827" ypos="70.8886" zpos="769.716" type="legs.map.hot.ds.meta.main.number.2" GUID="VQXASFY8rkONTUd4yfGnbw=="/>
-        <POI MapID="1041" xpos="636.559" ypos="90.4046" zpos="403.414" type="legs.map.hot.ds.meta.main.glider" GUID="5N6SJ+UvzEy2pr4dXGjK3w=="/>
-        <POI MapID="1041" xpos="678.996" ypos="69.6252" zpos="411.484" type="legs.map.hot.ds.meta.main.glider" GUID="zWRH/CYxFEmSGo+4FDx5DQ=="/>
-        <POI MapID="1041" xpos="282.73" ypos="194.632" zpos="203.41" type="legs.map.hot.ds.meta.main.glider" GUID="CPJUbO5Wck+WOQOC08/XTg=="/>
-        <POI MapID="1041" xpos="370.144" ypos="87.112" zpos="29.7923" type="legs.map.hot.ds.meta.main.glider" GUID="6Zk+pc/CFEO9aRUk7VfS4Q=="/>
-        <POI MapID="1041" xpos="-133.5682" ypos="90.0204" zpos="224.3261" type="legs.map.hot.ds.meta.main.wp" GUID="xQwjbwKX4UKbn42pTwbaoQ==" copy="[&amp;BBAIAAA=]" copy-message="Pact Base Camp Waypoint"/>
-        <POI MapID="1041" xpos="246.306" ypos="42.9466" zpos="66.6065" type="legs.map.hot.ds.meta.main.wp" GUID="iFUDfoA+qkSu1ZrGqkFqZA==" copy="[&amp;BHoIAAA=]" copy-message="Pact Base Camp Southern Waypoint"/>  
-        <POI MapID="1041" xpos="746.873" ypos="52.8529" zpos="591.311" type="legs.map.hot.ds.meta.main.number.3" GUID="5YUj3qukf0SQsN1hKUmoYA=="/>
-        <POI MapID="1041" xpos="247.18" ypos="175.444" zpos="152.871" type="legs.map.hot.ds.meta.main.glider" GUID="/ZBA2gWGBkqyT1hQ7K/jvA=="/>
-        <POI MapID="1041" xpos="-172.923" ypos="90.7194" zpos="477.46" type="legs.map.hot.ds.meta.main.glider" GUID="yzrbyncQd0yFZ6iGTTo94A=="/>
-        <POI MapID="1041" xpos="299.883" ypos="96.9074" zpos="-364.005" type="legs.map.hot.ds.meta.main.wp" GUID="dO8yVfADTEmxtR0f4TOw5w==" copy="[&amp;BJcIAAA=]" copy-message="Dragon's Domain Central Waypoint"/>
-        <POI MapID="1041" xpos="-87.4548" ypos="111.788" zpos="-135.409" type="legs.map.hot.ds.meta.main.number.4" GUID="retWafsXi0acU7hsX6SUDg=="/>
-        <POI MapID="1041" xpos="90.8938" ypos="96.8853" zpos="-188.763" type="legs.map.hot.ds.meta.main.wp" GUID="Az4WYZeOnEKQX5AUUN5Yew==" copy="[&amp;BK4IAAA=]" copy-message="Dragon's Domain Northern Waypoint"/>
-        <POI MapID="1041" xpos="-497.453" ypos="91.4473" zpos="82.7465" type="legs.map.hot.ds.meta.main.number.5" GUID="AXOwt3uzdUmQ2aMthD/FHQ=="/>
-        <POI MapID="1041" xpos="-355.328" ypos="82.2522" zpos="170.647" type="legs.map.hot.ds.meta.main.wp" GUID="tP3lkVq4yU2VdEpWxlYsJA==" copy="[&amp;BK4IAAA=]" copy-message="Dragon's Domain Northern Waypoint"/>
-        <POI MapID="1041" xpos="-507.01" ypos="92.3262" zpos="77.0033" type="legs.map.hot.ds.meta.main.number.6" GUID="Fc4Xli05wUiJRzpiJF6zNA=="/>
-        <POI MapID="1041" xpos="-496.117" ypos="107.187" zpos="-49.9953" type="legs.map.hot.ds.meta.main.glider" GUID="K/kiEIKl1UODhnMceyv15w=="/>
-        <POI MapID="1041" xpos="-723.381" ypos="178.234" zpos="-385.722" type="legs.map.hot.ds.meta.main.glider" GUID="IxPg5ZjJLEO1ahMu1rnYrA=="/>
-        <POI MapID="1041" xpos="-856.282" ypos="132.271" zpos="-266.676" type="legs.map.hot.ds.meta.main.glider" GUID="ywEqZDX1i0K7NzYseIvurw=="/>
+        <POI MapID="1041" xpos="-330.51" ypos="18.1427" zpos="420.295" type="legs.map.hot.ds.meta.mainglider" GUID="TmV0m7wJrkiui7DUubClzw=="/>
+        <POI MapID="1041" xpos="642.572" ypos="71.7634" zpos="774.065" type="legs.map.hot.ds.meta.1" GUID="IrcBRYmYHUSLYPKjazaQvA=="/>
+        <POI MapID="1041" xpos="644.827" ypos="70.8886" zpos="769.716" type="legs.map.hot.ds.meta.2" GUID="VQXASFY8rkONTUd4yfGnbw=="/>
+        <POI MapID="1041" xpos="636.559" ypos="90.4046" zpos="403.414" type="legs.map.hot.ds.meta.mainglider" GUID="5N6SJ+UvzEy2pr4dXGjK3w=="/>
+        <POI MapID="1041" xpos="678.996" ypos="69.6252" zpos="411.484" type="legs.map.hot.ds.meta.mainglider" GUID="zWRH/CYxFEmSGo+4FDx5DQ=="/>
+        <POI MapID="1041" xpos="282.73" ypos="194.632" zpos="203.41" type="legs.map.hot.ds.meta.mainglider" GUID="CPJUbO5Wck+WOQOC08/XTg=="/>
+        <POI MapID="1041" xpos="370.144" ypos="87.112" zpos="29.7923" type="legs.map.hot.ds.meta.mainglider" GUID="6Zk+pc/CFEO9aRUk7VfS4Q=="/>
+        <POI MapID="1041" xpos="-133.5682" ypos="90.0204" zpos="224.3261" type="legs.map.hot.ds.meta.mainwp" GUID="xQwjbwKX4UKbn42pTwbaoQ==" copy="[&amp;BBAIAAA=]" copy-message="Pact Base Camp Waypoint"/>
+        <POI MapID="1041" xpos="246.306" ypos="42.9466" zpos="66.6065" type="legs.map.hot.ds.meta.mainwp" GUID="iFUDfoA+qkSu1ZrGqkFqZA==" copy="[&amp;BHoIAAA=]" copy-message="Pact Base Camp Southern Waypoint"/>  
+        <POI MapID="1041" xpos="746.873" ypos="52.8529" zpos="591.311" type="legs.map.hot.ds.meta.3" GUID="5YUj3qukf0SQsN1hKUmoYA=="/>
+        <POI MapID="1041" xpos="247.18" ypos="175.444" zpos="152.871" type="legs.map.hot.ds.meta.mainglider" GUID="/ZBA2gWGBkqyT1hQ7K/jvA=="/>
+        <POI MapID="1041" xpos="-172.923" ypos="90.7194" zpos="477.46" type="legs.map.hot.ds.meta.mainglider" GUID="yzrbyncQd0yFZ6iGTTo94A=="/>
+        <POI MapID="1041" xpos="299.883" ypos="96.9074" zpos="-364.005" type="legs.map.hot.ds.meta.mainwp" GUID="dO8yVfADTEmxtR0f4TOw5w==" copy="[&amp;BJcIAAA=]" copy-message="Dragon's Domain Central Waypoint"/>
+        <POI MapID="1041" xpos="-87.4548" ypos="111.788" zpos="-135.409" type="legs.map.hot.ds.meta.4" GUID="retWafsXi0acU7hsX6SUDg=="/>
+        <POI MapID="1041" xpos="90.8938" ypos="96.8853" zpos="-188.763" type="legs.map.hot.ds.meta.mainwp" GUID="Az4WYZeOnEKQX5AUUN5Yew==" copy="[&amp;BK4IAAA=]" copy-message="Dragon's Domain Northern Waypoint"/>
+        <POI MapID="1041" xpos="-497.453" ypos="91.4473" zpos="82.7465" type="legs.map.hot.ds.meta.5" GUID="AXOwt3uzdUmQ2aMthD/FHQ=="/>
+        <POI MapID="1041" xpos="-355.328" ypos="82.2522" zpos="170.647" type="legs.map.hot.ds.meta.mainwp" GUID="tP3lkVq4yU2VdEpWxlYsJA==" copy="[&amp;BK4IAAA=]" copy-message="Dragon's Domain Northern Waypoint"/>
+        <POI MapID="1041" xpos="-507.01" ypos="92.3262" zpos="77.0033" type="legs.map.hot.ds.meta.6" GUID="Fc4Xli05wUiJRzpiJF6zNA=="/>
+        <POI MapID="1041" xpos="-496.117" ypos="107.187" zpos="-49.9953" type="legs.map.hot.ds.meta.mainglider" GUID="K/kiEIKl1UODhnMceyv15w=="/>
+        <POI MapID="1041" xpos="-723.381" ypos="178.234" zpos="-385.722" type="legs.map.hot.ds.meta.mainglider" GUID="IxPg5ZjJLEO1ahMu1rnYrA=="/>
+        <POI MapID="1041" xpos="-856.282" ypos="132.271" zpos="-266.676" type="legs.map.hot.ds.meta.mainglider" GUID="ywEqZDX1i0K7NzYseIvurw=="/>
     </POIs>
 </OverlayData>
