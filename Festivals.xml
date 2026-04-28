@@ -1031,8 +1031,9 @@
         <Trail type="legs.festivals.sab.w2z1.basic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Warm-Up Normal 8.trl"/>
         <!-- W2Z1 - Classic -->
         <Trail type="legs.festivals.sab.w2z1.classic.alt" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Misc 1.trl"/>
-        <Trail type="legs.festivals.sab.w2z1.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 1.trl" animSpeed="0"/>
         <Trail type="legs.festivals.sab.w2z1.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 2.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 1b.trl"/>
+        <Trail type="legs.festivals.sab.w2z1.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 1.trl" animSpeed="0"/>
         <Trail type="legs.festivals.sab.w2z1.classic.dig" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 3.trl" color="6699FF"/>
         <Trail type="legs.festivals.sab.w2z1.classic.dig" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 4.trl" color="6699FF"/>
         <Trail type="legs.festivals.sab.w2z1.classic.dig" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z1 Baubles 5.trl" color="6699FF"/>
@@ -1215,7 +1216,7 @@
         <POI MapID="934" xpos="-53.14798" ypos="182.1172" zpos="101.1476" type="legs.festivals.sab.w2z3.classic.bubble" GUID="epcbUMN/+kqtIpiQVbtqPA==" iconFile="Data/LadyElyssa/Images/SAB/1.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="48" heightOffset="1.0"/>
         <POI MapID="934" xpos="-51.10438" ypos="182.1172" zpos="101.4802" type="legs.festivals.sab.w2z3.classic.bubble" GUID="7A5plRV1HEyLFvYBqHVLuA==" iconFile="Data/LadyElyssa/Images/SAB/2.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="48" heightOffset="1.0"/>
         <Trail type="legs.festivals.sab.w2z3.classic.dig" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 14b.trl" color="6699FF"/>
-        <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 15.trl" color="FF66FF"/>
+        <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 15.trl" color="FF66FF" animSpeed="0"/>
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 16.trl" color="FF0000"/>
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 17.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 18.trl" color="FF66FF"/>
@@ -1225,21 +1226,26 @@
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 21.trl" animSpeed="0"/>
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 22.trl" animSpeed="0"/>
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 23.trl" color="FF66FF"/>
+        <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Baubles 24.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic.chest" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Chest 1.trl"/>
-        <Trail type="legs.festivals.sab.w2z3.classic.alt" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Chest 1 Alt.trl"/>
-        <POI MapID="934" xpos="6.34154" ypos="83.5252" zpos="73.6321" type="legs.festivals.sab.w2z3.chest" GUID="+cora78BvEmnBdiZXahIMw=="/>
+
+        <POI MapID="934" xpos="14.86873" ypos="83.57229" zpos="93.02612" type="legs.festivals.sab.w2z3.chest" GUID="+cora78BvEmnBdiZXahIMw=="/>
         <Trail type="legs.festivals.sab.w2z3.classic.chest" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Chest 2.trl"/>
         <POI MapID="934" xpos="-365.2513" ypos="354.9586" zpos="262.137" type="legs.festivals.sab.w2z3.chest" GUID="oZN4VZC4W0u885Xtmuo8DQ=="/>
         <Trail type="legs.festivals.sab.w2z3.classic.chest" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Chest 3.trl"/>
         <Trail type="legs.festivals.sab.w2z3.classic.chest" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Chest 4.trl"/>
+        <Trail type="legs.festivals.sab.w2z3.classic.hidden" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 1 Hidden Room.trl"/>
+        <POI MapID="934" xpos="-78.0965" ypos="66.5204" zpos="74.8464" type="legs.festivals.sab.w2z3.bomb" GUID="WaoeBuAFIUSpdc6FKGviBA=="/>
+
         <Trail type="legs.festivals.sab.w2z3.classic.furniture" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Coins 1.trl" color="FFCC00"/>
-        <POI MapID="934" xpos="-324.974" ypos="354.294" zpos="148.963" type="legs.festivals.sab.w2z3.coin" GUID="Me6vV+GYWUi4v++AfXGGng=="/>
+        <POI MapID="934" xpos="-368.7185" ypos="355.0166" zpos="195.7693" type="legs.festivals.sab.w2z3.coin" GUID="Me6vV+GYWUi4v++AfXGGng=="/>
         <POI MapID="934" xpos="-375.675" ypos="334.754" zpos="189.957" type="legs.festivals.sab.w2z3.bomb" GUID="19eNJ4usbEuXYA9Sz/7FYA=="/>
         <Trail type="legs.festivals.sab.w2z3.classic.furniture" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Coins 2.trl" color="FFCC00"/>
         <POI MapID="934" xpos="-63.279" ypos="239.682" zpos="386.783" type="legs.festivals.sab.w2z3.bomb" GUID="ic19kHKdM0a47LMU4bUb8A=="/>
         <POI MapID="934" xpos="-59.5196" ypos="232.627" zpos="372.074" type="legs.festivals.sab.w2z3.coin" GUID="62OXRGuYUUC6/a8R4fuWhQ=="/>
         <Trail type="legs.festivals.sab.w2z3.classic.shop" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Shop 1.trl"/>
         <POI MapID="934" xpos="-51.3198" ypos="42.3056" zpos="123.684" type="legs.festivals.sab.w2z3.flute" GUID="ayZPrISEl0GXEyXlB3v89A==" iconFile="Data/LadyElyssa/Images/SAB/Flute 332331.png"/>
+        <POI MapID="934" xpos="-368.1389" ypos="344.071" zpos="278.6737" type="legs.festivals.sab.w2z3.flute" GUID="tV9OKXFdy0ayfEBjeIxzFA==" iconFile="Data/LadyElyssa/Images/SAB/Flute 332331.png"/>
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Flute 1a.trl"/>
         <Trail type="legs.festivals.sab.w2z3.classic.dig" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Flute 1b.trl" animSpeed="0" color="6699FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Flute 1c.trl"/>
@@ -1285,8 +1291,7 @@
         <POI MapID="934" xpos="-91.2079" ypos="258.258" zpos="368.481" type="legs.festivals.sab.w2z3.chest" GUID="uXnJv/ZQmUqyp4TN6L7Bpg=="/>
         <POI MapID="934" xpos="-414.456" ypos="360.513" zpos="471.847" type="legs.festivals.sab.w2z3.bomb" GUID="vNq1pHcWc0mdxJUWUb2VPQ=="/>
         <POI MapID="934" xpos="-420.027" ypos="360.495" zpos="467.888" type="legs.festivals.sab.w2z3.bomb" GUID="M0mjjO7nZ0GGZueEOoCDsA=="/>
-        <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 1 Hidden Room.trl" texture="Data/LadyElyssa/Images/Trails/Dark Dashed Line - Fine with Shadow.png" color="C6C6C6" animSpeed="0.5"/>
-        <POI MapID="934" xpos="-78.0965" ypos="66.5204" zpos="74.8464" type="legs.festivals.sab.w2z3.bomb" GUID="WaoeBuAFIUSpdc6FKGviBA=="/>
+        
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 1.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 2.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 3.trl" color="FF66FF"/>
@@ -1295,12 +1300,12 @@
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 6.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 7.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 8.trl" color="FF66FF"/>
-        <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 9.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic.shop"    trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 9 Backtrack.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFCC00"/>
+        <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 9.trl" color="FF66FF"/>
         <POI MapID="934" xpos="-172.487" ypos="243.9268" zpos="360.4377" type="legs.festivals.sab.w2z3.shop" GUID="A7bYAB83hkS+ZYRR4sNNJQ==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="Backtrack Route for Chest Key (if needed)" infoRange="3" autoTrigger="1" fadeNear="1200" fadeFar="1400"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 10.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 11.trl" color="FF66FF"/>
-        <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 12.trl" color="FF66FF"/>
+        <Trail type="legs.festivals.sab.w2z3.classic.bubble" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 12.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 13.trl" color="FF66FF"/>
         <Trail type="legs.festivals.sab.w2z3.classic" trailData="Data/LadyElyssa/Festivals/SAB/World 2/W2Z3 Classic 14 Bandits.trl" color="FF66FF"/>
         <POI MapID="934" xpos="-412.304" ypos="359.552" zpos="378.484" type="legs.festivals.sab.w2z3.info" GUID="cwIi95UoM0m2asMyWaNp1A==" info="Next Waypoint is just up ahead." infoRange="5" fadeNear="1200" fadeFar="1400"/>
@@ -1316,6 +1321,7 @@
         <POI MapID="934" xpos="-26.9749" ypos="82.0724" zpos="62.1883" type="legs.festivals.sab.w2z3.dig" GUID="GHo2b6bti0KgGmC/TlIlaQ=="/>
         <POI MapID="934" xpos="-67.9604" ypos="112.311" zpos="105.092" type="legs.festivals.sab.w2z3.cfw_l2r" GUID="sbp0goq7WkKJffrO8RpOQA=="/>
         <POI MapID="934" xpos="-99.4245" ypos="127.462" zpos="81.7312" type="legs.festivals.sab.w2z3.goat" GUID="iJYK+cP5LkiKDGVqrGUdRg=="/>
+        <POI MapID="934" xpos="-385.8633" ypos="344.3994" zpos="349.3221" type="legs.festivals.sab.w2z3.goat" GUID="YyqcsqHMakenB5r6FiVlXA=="/>
         <POI MapID="934" xpos="-68.4201" ypos="138.863" zpos="100.998" type="legs.festivals.sab.w2z3.cfw_r2l" GUID="5jvkOHUYgECa0MnIDz7JOw=="/>
         <POI MapID="934" xpos="-6.421782" ypos="68.71217" zpos="97.76372" type="legs.festivals.sab.w2z3.shop" GUID="dQlkZTAvEUq9iMhYCRB2zA==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="BUY Key" infoRange="3" autoTrigger="1"/>
         <POI MapID="934" xpos="-5.074086" ypos="80.94598" zpos="61.2681" type="legs.festivals.sab.w2z3.shop" GUID="Ws/33Qdkc02v1L43GIH06g==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="BUY Key" infoRange="3" autoTrigger="1"/>

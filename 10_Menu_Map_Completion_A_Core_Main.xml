@@ -20,7 +20,6 @@
                     <MarkerCategory name="jotun" DisplayName="Jotun Trading Heart" iconFile="Data/LadyElyssa/Images/Hearts/Renown Heart Empty.png" mapVisibility="0" miniMapVisibility="0" minSize="8" maxSize="16" fadeNear="600" fadeFar="1200"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="jade" DisplayName="Jade Protocol Reminder" iconFile="Data/LadyElyssa/Images/Jade Protocol Reminder.png" mapVisibility="0" miniMapVisibility="0"/>
                 <MarkerCategory name="sign" DisplayName="Sign - Do Not Enter" iconFile="Data/LadyElyssa/Images/Stop_Hand_Blue.png" fadeNear="600" fadeFar="1200"/>
                 <MarkerCategory name="maproute" IsSeparator="1" DisplayName="MAP COMPLETION ROUTE"/>
                 <MarkerCategory name="metrica" DisplayName="Metrica Province (START) " >
@@ -738,6 +737,7 @@
                 </MarkerCategory>
 
                 <MarkerCategory name="divinity" DisplayName="Divinity's Reach" texture="Data/LadyElyssa/Images/trailarrow-small.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                    <MarkerCategory name="jade" DisplayName="Jade Protocol Reminder" iconFile="Data/LadyElyssa/Images/Jade Protocol Reminder.png" mapVisibility="0" miniMapVisibility="0"/>
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
                     <MarkerCategory name="leg" DisplayName="Mounts Legacy" defaulttoggle="0">
@@ -1221,6 +1221,7 @@
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="all" DisplayName="Mounts Main">

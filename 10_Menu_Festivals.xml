@@ -715,17 +715,17 @@
 
                 <MarkerCategory name="w2z3" DisplayName="World 2 Zone 3">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
-                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="flute" DisplayName="Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
-                    <MarkerCategory name="info" DisplayName="Info" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
-                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="cfw_l2r" DisplayName="Warning - Cliff Face" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
-                    <MarkerCategory name="goat" DisplayName="Warning - Goat" iconFile="Data/LadyElyssa/Images/SAB/Goat Warning.png" fadeNear="600" fadeFar="900" minSize="16" maxSize="32" heightOffset="1.0"/>
+                    <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="chest" DisplayName="Chests" iconFile="Data/LadyElyssa/Images/SAB/Chest.png" fadeNear="1200" fadeFar="1400" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="coin" DisplayName="Furniture Coins" iconFile="Data/LadyElyssa/Images/SAB/Coin.png" fadeNear="1200" fadeFar="1400" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="dig" DisplayName="Dig" iconFile="Data/LadyElyssa/Images/SAB/Dig.png" fadeNear="1200" fadeFar="1400" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="flute" DisplayName="Flute" fadeNear="1200" fadeFar="1400" minSize="24" maxSize="48"/>
+                    <MarkerCategory name="info" DisplayName="Info" fadeNear="1200" fadeFar="1400" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="cfw_l2r" DisplayName="Warning - Cliff Face" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning L2R.png" fadeNear="600" fadeFar="900" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="cfw_r2l" DisplayName="Warning - Cliff Face" iconFile="Data/LadyElyssa/Images/SAB/Cliff Face Warning R2L.png" fadeNear="600" fadeFar="900" minSize="24" maxSize="48" heightOffset="1.0"/>
+                    <MarkerCategory name="goat" DisplayName="Warning - Goat" iconFile="Data/LadyElyssa/Images/SAB/Goat Warning.png" fadeNear="600" fadeFar="900" minSize="24" maxSize="48" heightOffset="1.0"/>
 
                     <MarkerCategory name="adv" IsSeparator="1" DisplayName="Adventure"/>
                     <MarkerCategory name="moc" DisplayName="Master of Coins" animSpeed="0.5" color="BFD6FF" fadeNear="1600" fadeFar="2400"/>
@@ -739,6 +739,7 @@
                         <MarkerCategory name="chest" DisplayName="Chest Trail" texture="Data/LadyElyssa/Images/Dashed Gradient.png" animSpeed="0.5" iconSize="0.5"/>
                         <MarkerCategory name="dig" DisplayName="Dig Trail" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5"/>
                         <MarkerCategory name="furniture" DisplayName="Furniture Coins"/>
+                        <MarkerCategory name="hidden" DisplayName="Hidden Room"  texture="Data/LadyElyssa/Images/Trails/Dark Dashed Line - Fine with Shadow.png" color="C6C6C6" animSpeed="0.5"/>
                         <MarkerCategory name="shop" DisplayName="Shop" color="FFFF00"/>
                         
                     </MarkerCategory>
