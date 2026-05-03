@@ -128,7 +128,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="spider" DisplayName="Spider Scurry">
                     <MarkerCategory name="spit" DisplayName="Spider Leap" iconFile="Data/LadyElyssa/Images/Icons/Spit.png" alpha="0.6" minSize="12" maxSize="24" miniMapVisibility="1" heightOffset="0"/>
-                    <MarkerCategory name="leap" DisplayName="Spider Leaps" texture="Data/LadyElyssa/Images/Spider Scurry Leap.png" alpha="0.4" animSpeed="0" color=""/>
+                    <MarkerCategory name="leap" DisplayName="Spider Leaps" texture="Data/LadyElyssa/Images/Spider Scurry Leap.png" alpha="0.4" animSpeed="0"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="99CC00"/>
                 </MarkerCategory>

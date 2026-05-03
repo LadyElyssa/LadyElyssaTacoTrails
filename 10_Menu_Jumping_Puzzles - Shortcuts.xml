@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- Jumping Puzzle - Shortcuts -->
-        <MarkerCategory name="jpshort" DisplayName="Jumping Puzzles - Shortcuts" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="0.6" alpha="0.8" fadeNear="1600" fadeFar="5000" minSize="64" maxSize="96" defaulttoggle="0">
+        <MarkerCategory name="jpshort" DisplayName="Jumping Puzzles - Shortcuts" texture="Data/LadyElyssa/Images/trailarrow-small.png" animSpeed="0.6" fadeNear="1600" fadeFar="5000" minSize="64" maxSize="96" defaulttoggle="0">
             
             <MarkerCategory name="core" IsSeparator="1" DisplayName="CORE TYRIA"/>
             
@@ -120,23 +120,20 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="marker" DisplayName="Toggle Info" mapDisplaySize="128"/>
                     <MarkerCategory name="number" DisplayName="Trail Segment" miniMapVisibility="0">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="32" fadeNear="600" fadeFar="1200"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="32" fadeNear="600" fadeFar="1200"/>
                     </MarkerCategory>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
 
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
-                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
-                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
-                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
-                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48" fadeNear="900" fadeFar="1500"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48" fadeNear="900" fadeFar="1500"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48" fadeNear="900" fadeFar="1500"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48" fadeNear="900" fadeFar="1500"/>
+                    <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png" miniMapVisibility="0" minSize="32" maxSize="48" fadeNear="900" fadeFar="1500"/>
 
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
-                    <MarkerCategory name="gendarran" DisplayName="Gendarren Fields">
-                        <MarkerCategory name="one" DisplayName="Main Trail" color="FFFF33"/>
-                        <MarkerCategory name="two" DisplayName="Side Trail" color="FFFF33"/>
-                    </MarkerCategory>
+                    <MarkerCategory name="gendarran" DisplayName="Gendarren Fields"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="portmatt" DisplayName="Professor Portmatt's Lab">

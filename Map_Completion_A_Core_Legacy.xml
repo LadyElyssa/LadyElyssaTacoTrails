@@ -577,13 +577,13 @@
         <Trail type="legs.map.core.blazeridge.leg.2" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.blazeridge.leg.3" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge 3.trl" color="00FFFF"/>
         <Trail type="legs.map.core.blazeridge.leg.3" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge 3 Alt.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.blazeridge.leg.3" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge 3 Heart Alt.trl" color="00FFFF"/>
         <Trail type="legs.map.core.blazeridge.leg.4" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge 4.trl" color="00FFFF"/>
         <Trail type="legs.map.core.blazeridge.leg.5" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge 5.trl" color="00FFFF"/>
         <Trail type="legs.map.core.blazeridge.leg.6" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge 6.trl" color="00FFFF"/>
         <Trail type="legs.map.core.blazeridge.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.blazeridge.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.blazeridge.leg.heartpath" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge Hearts 3.trl" color="FFFF00"/>
-        <Trail type="legs.map.core.blazeridge.leg.stealthheart" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Blazeridge Stealth Heart.trl" color="262626"/>
         <POI MapID="20" xpos="-147.676" ypos="24.2955" zpos="-856.717" type="legs.map.core.blazeridge.leg.springer" GUID="uoqAbslmP0igi0ZB3QTICg=="/>
         <POI MapID="20" xpos="-325.715" ypos="38.302" zpos="-50.9349" type="legs.map.core.blazeridge.leg.glider" GUID="xTKI2bSNf0+FELofoIj2Gw=="/>
         <POI MapID="20" xpos="335.301" ypos="33.8701" zpos="956.84" type="legs.map.core.blazeridge.leg.springer" GUID="+MgmEZPnzkeX7Uj+buwHTA=="/>
@@ -602,8 +602,8 @@
         <POI MapID="20" xpos="562.6" ypos="32.8162" zpos="461.121" type="legs.map.core.blazeridge.leg.wp" GUID="+E9WlILzB0S5hNInD0X9QA=="/>
         <POI MapID="20" xpos="-72.2047" ypos="34.3768" zpos="877.92" type="legs.map.core.blazeridge.leg.glider" GUID="bKq0GfvnVEWTB4ffqbCNpg=="/>
         <POI MapID="20" xpos="-320.108" ypos="41.3622" zpos="-16.6697" type="legs.map.core.blazeridge.leg.glider" GUID="wGICN4muMk2SJBasPuwtPQ=="/>
-        <POI MapID="20" xpos="473.871" ypos="52.8891" zpos="798.651" type="legs.map.core.blazeridge.leg.heartportal" GUID="/95DuijnH0WuiEVN8mDx4Q==" minSize="32" fadeNear="1200" fadeFar="2400" heightOffset="0" />
-        <POI MapID="20" xpos="445.697" ypos="45.3185" zpos="747.775" type="legs.map.core.blazeridge.leg.heartportal" GUID="odAzoOHG00OG5SSVdDvvEw==" minSize="32" fadeNear="1200" fadeFar="2400" heightOffset="0" />
+        <POI MapID="20" xpos="473.871" ypos="52.8891" zpos="798.651" type="legs.map.core.heartinfo.heartportal" GUID="/95DuijnH0WuiEVN8mDx4Q==" minSize="32" fadeNear="1200" fadeFar="2400" heightOffset="0" />
+        <POI MapID="20" xpos="445.697" ypos="45.3185" zpos="747.775" type="legs.map.core.heartinfo.heartportal" GUID="odAzoOHG00OG5SSVdDvvEw==" minSize="32" fadeNear="1200" fadeFar="2400" heightOffset="0" />
         <POI MapID="20" xpos="433.172" ypos="42.0755" zpos="-1191.78" type="legs.map.core.blazeridge.leg.beetle" GUID="034ebG2yqk62Etp0BYPFog=="/>
         <POI MapID="20" xpos="434.125" ypos="49.4423" zpos="-1016.19" type="legs.map.core.blazeridge.leg.skyscale" GUID="pxvfxfpzYkGDjoW55DhxGw=="/>
         <POI MapID="20" xpos="478.981" ypos="31.0935" zpos="487.604" type="legs.map.core.blazeridge.leg.springer" GUID="E4+QWwI6rUywuHbsBdg5QQ=="/>

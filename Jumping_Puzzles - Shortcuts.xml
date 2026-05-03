@@ -65,10 +65,10 @@
         <POI MapID="17" xpos="-690.525" ypos="44.0781" zpos="635.573" type="legs.jpshort.kryta.fawcett.bov" GUID="dGKNm/lFwkWcv0CLSaA+lQ=="/>
         <POI MapID="17" xpos="-690.501" ypos="54.4617" zpos="635.779" type="legs.jpshort.kryta.fawcett.bof" GUID="CaZ6RylirESgx2GmHBYodw=="/>
 
-        <Trail type="legs.jpshort.kryta.notsosecret.gendarran.one" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 1.trl" fadeNear="900" fadeFar="1500"/>
-        <Trail type="legs.jpshort.kryta.notsosecret.gendarran.two" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 2 - Rifle.trl" fadeNear="900" fadeFar="1500"/>
-        <Trail type="legs.jpshort.kryta.notsosecret.gendarran.two" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 2 - Rifle 2.trl" fadeNear="900" fadeFar="1500"/>
-        <Trail type="legs.jpshort.kryta.notsosecret.gendarran.two" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 2 - Teleport.trl" fadeNear="900" fadeFar="1500"/>
+        <Trail type="legs.jpshort.kryta.notsosecret.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 1.trl" fadeNear="900" fadeFar="1500" color="FFFF33"/>
+        <Trail type="legs.jpshort.kryta.notsosecret.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 2 - Rifle.trl" fadeNear="900" fadeFar="1500" color="FFFF33"/>
+        <Trail type="legs.jpshort.kryta.notsosecret.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 2 - Rifle 2.trl" fadeNear="900" fadeFar="1500" color="FFFF33"/>
+        <Trail type="legs.jpshort.kryta.notsosecret.gendarran" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Not So Secret 2 - Teleport.trl" fadeNear="900" fadeFar="1500" color="FFFF33"/>
         <POI MapID="24" xpos="-134.68" ypos="3.9759" zpos="-434.302" type="legs.jpshort.kryta.notsosecret.sign" GUID="hqdrYGFK3kWshkJQnZ8BAA==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Not So Secret.png"/>
         <POI MapID="24" xpos="-137.738" ypos="4.83147" zpos="-427.082" type="legs.jpshort.kryta.notsosecret.jackal" GUID="fHN9XoD4DUGgnOexmNTqcQ=="/>
         <POI MapID="24" xpos="-79.3627" ypos="47.0427" zpos="-602.083" type="legs.jpshort.kryta.notsosecret.springer" GUID="xbTs5sb8hkyuEuSljq8DJQ=="/>
@@ -83,8 +83,9 @@
         <POI MapID="24" xpos="-248.967" ypos="145.038" zpos="-550.271" type="legs.jpshort.kryta.notsosecret.bof" GUID="yXfeBwIXME2+qf4YpVX2HQ=="/>
         <POI MapID="24" xpos="-265.5" ypos="90.0" zpos="-518.437" type="legs.jpshort.kryta.notsosecret.marker" GUID="C/1iuGWpsES/hPfy1DCivw==" triggerRange="3" autoTrigger="1" info="Use the Experimental Rifle or a 900 Range Leap to jump across." iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" alpha="0.6" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
         <POI MapID="24" xpos="-287.228" ypos="96.3792" zpos="-516.341" type="legs.jpshort.kryta.notsosecret.marker" GUID="9/jnosQIRU2Oqxc4D8k/sQ==" iconfile="Data/LadyElyssa/Images/Icons/jumpshot.png" heightOffset="0" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0"/>
-        <POI MapID="24" xpos="-330.8022" ypos="32.10129" zpos="-546.54" type="legs.jpshort.kryta.notsosecret.gendarran.three" GUID="e3f6DMDtX0COw+7DOVRcEQ==" iconfile="Data/LadyElyssa/Images/Icons/Boon Swiftness.png" heightOffset="0" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0" maxSize="16"/>
-        <POI MapID="24" xpos="-313.658" ypos="33.9106" zpos="-541.763" type="legs.jpshort.kryta.notsosecret.gendarran.three" GUID="6ywAfLVWq06jGs4R5MAnNQ==" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow 2.png" fadeNear="900" fadeFar="1500" heightOffset="0" maxSize="16" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="24" xpos="-330.8022" ypos="32.10129" zpos="-546.54" type="legs.jpshort.kryta.notsosecret.gendarran" GUID="e3f6DMDtX0COw+7DOVRcEQ==" iconfile="Data/LadyElyssa/Images/Icons/Boon Swiftness.png" heightOffset="0" fadeNear="900" fadeFar="1500" miniMapVisibility="0" mapVisibility="0" maxSize="16"/>
+        <POI MapID="24" xpos="-313.658" ypos="33.9106" zpos="-541.763" type="legs.jpshort.kryta.notsosecret.gendarran" GUID="6ywAfLVWq06jGs4R5MAnNQ==" iconFile="Data/LadyElyssa/Images/Icons/Target with Shadow 2.png" fadeNear="900" fadeFar="1500" heightOffset="0" maxSize="16" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="24" xpos="-246.8279" ypos="71.31503" zpos="-518.0266" type="legs.jpshort.kryta.notsosecret.gendarran" GUID="nW/Y7TCXlUKnzj9XVhBVpg==" iconFile="Data/LadyElyssa/Images/Icons/Mesmer.png" fadeNear="900" fadeFar="1500" minSize="16" maxSize="32" miniMapVisibility="0" mapVisibility="0"/>
 
         <Trail type="legs.jpshort.kryta.portmatt.bloodtide" trailData="Data/LadyElyssa/Jumping Puzzles - Shortcut/Portmatt.trl"/>
         <POI MapID="73" xpos="-252.881" ypos="-47.8671" zpos="686.286" type="legs.jpshort.kryta.portmatt.sign" GUID="DZlp5wrzcUODHTiluoBZlQ==" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/Professor Portmatt's Lab.png"/>

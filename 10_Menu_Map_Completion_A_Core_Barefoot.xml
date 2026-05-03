@@ -91,7 +91,9 @@
 
                 <MarkerCategory name="grove" DisplayName="The Grove">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
-                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png"/>
+                    <MarkerCategory name="barefoot" DisplayName="Barefoot" animSpeed="0" texture="Data/LadyElyssa/Images/Trails/Footprints.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="queensdale" DisplayName="Queensdale">
@@ -191,7 +193,7 @@
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                 </MarkerCategory>
 
