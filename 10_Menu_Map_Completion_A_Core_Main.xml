@@ -5,6 +5,7 @@
             <MarkerCategory name="core" DisplayName="Core Maps">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
+                <MarkerCategory name="eoz" DisplayName="End of Zone" iconFile="Data/LadyElyssa/Images/End of Zone.png" inGameVisibility="1" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
                 <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/LadyElyssa/Images/Icons/ExitInstance.png" maxSize="32"/>
                 
                 <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48">

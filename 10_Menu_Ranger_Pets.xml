@@ -387,6 +387,10 @@
                         <MarkerCategory name="voe" isSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
                         <MarkerCategory name="sw" DisplayName="Starlit Weald"/>
                     </MarkerCategory>
+                    <MarkerCategory name="otter" DisplayName="River Otter" iconFile="Data/LadyElyssa/Images/Ranger Pets/Otter.png" mapDisplaySize="64">
+                        <MarkerCategory name="castora" isSeparator="1" DisplayName="CASTORA"/>
+                        <MarkerCategory name="eternity" DisplayName="Eternity's Garden"/>
+                    </MarkerCategory>
                     <MarkerCategory name="shark" DisplayName="Shark" iconFile="Data/LadyElyssa/Images/Ranger Pets/Shark.png" mapDisplaySize="64">
                         <MarkerCategory name="kryta" isSeparator="1" DisplayName="KRYTA"/>
                         <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>

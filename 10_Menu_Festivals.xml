@@ -571,11 +571,14 @@
                     </MarkerCategory>
 
                     <MarkerCategory name="trib" DisplayName="Tribulation" texture="Data/LadyElyssa/Images/Line Black Yellow - with Arrow Shaded.png">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                        <MarkerCategory name="hand" DisplayName="Warning - Hand Missile" iconFile="Data/LadyElyssa/Images/SAB/Hand Missile Danger Sign.png" fadeNear="900" fadeFar="1200" minSize="24" maxSize="48" heightOffset="1.0"/>
                         <MarkerCategory name="trails" IsSeparator="1" DisplayName="Trails"/>
                         <MarkerCategory name="honeycomb" DisplayName="Honeycomb" texture="Data/LadyElyssa/Images/Candy Gradient BW.png">
                             <MarkerCategory name="honeycomb" DisplayName="Icon" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         </MarkerCategory>
                         <MarkerCategory name="shop" DisplayName="Shop" iconFile="Data/LadyElyssa/Images/SAB/Shopkeeper.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+
                     </MarkerCategory>
 
                 </MarkerCategory>
@@ -609,6 +612,8 @@
                     <MarkerCategory name="shortcut" DisplayName="Shortcut Wurm" color="ABCDEF"/>
 
                     <MarkerCategory name="trib" DisplayName="Tribulation" texture="Data/LadyElyssa/Images/Line Black Yellow - with Arrow Shaded.png">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
+                        <MarkerCategory name="hand" DisplayName="Warning - Hand Missile" iconFile="Data/LadyElyssa/Images/SAB/Hand Missile Danger Sign.png" fadeNear="900" fadeFar="1200" minSize="24" maxSize="48" heightOffset="1.0"/>
                         <MarkerCategory name="trails" IsSeparator="1" DisplayName="Trails"/>
                         <MarkerCategory name="honeycomb" DisplayName="Honeycomb" texture="Data/LadyElyssa/Images/Candy Gradient BW.png">
                             <MarkerCategory name="honeycomb" DisplayName="Icon" iconFile="Data/LadyElyssa/Images/SAB/Honeycomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
@@ -648,6 +653,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/LadyElyssa/Images/SAB/Torch.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
+                        <MarkerCategory name="hand" DisplayName="Warning - Hand Missile" iconFile="Data/LadyElyssa/Images/SAB/Hand Missile Danger Sign.png" fadeNear="900" fadeFar="1200" minSize="24" maxSize="48" heightOffset="1.0"/>
 
                         <MarkerCategory name="trails" IsSeparator="1" DisplayName="Trails"/>
                         <MarkerCategory name="honeycomb" DisplayName="Honeycomb" texture="Data/LadyElyssa/Images/Candy Gradient BW.png">
@@ -688,6 +694,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="info" DisplayName="Info" fadeNear="1200" fadeFar="1400" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="hand" DisplayName="Warning - Hand Missile" iconFile="Data/LadyElyssa/Images/SAB/Hand Missile Danger Sign.png" fadeNear="900" fadeFar="1200" minSize="24" maxSize="48" heightOffset="1.0"/>
 
                         <MarkerCategory name="trails" IsSeparator="1" DisplayName="Trails"/>
                         <MarkerCategory name="tree" DisplayName="Tree" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5">
@@ -725,6 +732,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="info" DisplayName="Info" fadeNear="1200" fadeFar="1400" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="hand" DisplayName="Warning - Hand Missile" iconFile="Data/LadyElyssa/Images/SAB/Hand Missile Danger Sign.png" fadeNear="900" fadeFar="1200" minSize="24" maxSize="48" heightOffset="1.0"/>
 
                         <MarkerCategory name="trails" IsSeparator="1" DisplayName="Trails"/>
                         <MarkerCategory name="tree" DisplayName="Tree" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5">
@@ -769,6 +777,7 @@
                         <MarkerCategory name="bomb" DisplayName="Bombs" iconFile="Data/LadyElyssa/Images/SAB/Bomb.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="1.0"/>
                         <MarkerCategory name="info" DisplayName="Info" fadeNear="1200" fadeFar="1400" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
                         <MarkerCategory name="flute" DisplayName="Flute" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32"/>
+                        <MarkerCategory name="hand" DisplayName="Warning - Hand Missile" iconFile="Data/LadyElyssa/Images/SAB/Hand Missile Danger Sign.png" fadeNear="900" fadeFar="1200" minSize="24" maxSize="48" heightOffset="1.0"/>
                         <MarkerCategory name="trails" IsSeparator="1" DisplayName="Trails"/>
                         <MarkerCategory name="tree" DisplayName="Tree" texture="Data/LadyElyssa/Images/Ring Trail - Small.png" animSpeed="0.5">
                             <MarkerCategory name="stump" DisplayName="Stump" iconFile="Data/LadyElyssa/Images/SAB/Stump.png" fadeNear="1200" fadeFar="1400" minSize="16" maxSize="32" heightOffset="0.5"/>

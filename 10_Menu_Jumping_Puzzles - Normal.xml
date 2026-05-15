@@ -449,7 +449,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="orb" DisplayName="Orb Cavern">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Glider.png" minSize="12" maxSize="16" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
                     <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Orb Cavern.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="ss" DisplayName="Shipwrecked Strand"/>
@@ -457,10 +457,23 @@
                 <MarkerCategory name="copse" DisplayName="Soaring Copse">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Astral Ward Researcher Harpa" iconFile="Data/LadyElyssa/Images/Talk.png" maxSize="48"/>
-                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Glider.png" minSize="12" maxSize="16" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
                     <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Soaring Copse.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="ss" DisplayName="Shipwrecked Strand"/>
+                </MarkerCategory>
+                <MarkerCategory name="temple" DisplayName="Temple of Abnegation">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Temple of Abnegation.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="eg" DisplayName="Eternity's Garden"/>
+                </MarkerCategory>
+                <MarkerCategory name="arjp" DisplayName="Artificer's Rise">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Glider.png" minSize="16" maxSize="24" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/LadyElyssa/Images/Jumping Puzzles/VoE/Temple of Abnegation.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="eg" DisplayName="Eternity's Garden"/>
                 </MarkerCategory>
 
             <MarkerCategory name="wvw" IsSeparator="1" DisplayName="WORLD VS. WORLD"/>
