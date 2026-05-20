@@ -1,6 +1,6 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
-        <MarkerCategory name="gathering" DisplayName="Gathering" defaulttoggle="0">
+        <MarkerCategory name="gathering" DisplayName="Gathering">
             <!-- 
                     Behaviour=4 
                     Reset Length="60" 
@@ -80,9 +80,23 @@
             <MarkerCategory name="expac" IsSeparator="1" DisplayName="EXPANSIONS"/>
             
             <MarkerCategory name="eod" DisplayName="End of Dragons">
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                <MarkerCategory name="resin" DisplayName="Petrified Echovald Resin">
+                <MarkerCategory name="jadeite" DisplayName="Jadeite">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+
+                    <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+                    <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
+
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="de" DisplayName="Dragon's End"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="resin" DisplayName="Petrified Echovald Resin ">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                     <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
                 </MarkerCategory>
@@ -109,7 +123,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="node" DisplayName="Rich Copper Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Copper.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="node" DisplayName="Rich Copper Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Copper.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="D98D26"/>
@@ -124,7 +138,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="node" DisplayName="Rich Silver Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Silver.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="node" DisplayName="Rich Silver Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Silver.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="fields" DisplayName="Fields of Ruin (start)" color="ACC3DB"/>
@@ -144,7 +158,7 @@
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                        <MarkerCategory name="node" DisplayName="Rich Gold Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Gold.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                        <MarkerCategory name="node" DisplayName="Rich Gold Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Gold.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="FFD700"/>
                     <MarkerCategory name="fields" DisplayName="Fields of Ruin" color="FFD700"/>
@@ -160,7 +174,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="iron" DisplayName="Rich iron Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Iron.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="iron" DisplayName="Rich iron Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Iron.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     
@@ -189,7 +203,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="plat" DisplayName="Rich Platinum Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Platinum.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="plat" DisplayName="Rich Platinum Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Platinum.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
@@ -209,7 +223,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="mithril" DisplayName="Rich Mithril Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Mithril.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="mithril" DisplayName="Rich Mithril Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Mithril.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
@@ -236,7 +250,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="orich" DisplayName="Rich Orichalcum Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Orich.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="orich" DisplayName="Rich Orichalcum Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-Orich.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
@@ -278,7 +292,7 @@
                 <MarkerCategory name="richquartz" DisplayName="Rich Quartz Crystal">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                    <MarkerCategory name="quartz" DisplayName="Rich Quartz Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-R-Quartz.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="quartz" DisplayName="Rich Quartz Nodes" iconFile="Data/LadyElyssa/Images/Icons/Ore-R-Quartz.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
@@ -355,7 +369,7 @@
                 <MarkerCategory name="blooming" DisplayName="Blooming Passiflora ">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="passiflora" DisplayName="Blooming Passiflora" iconFile="Data/LadyElyssa/Images/Passion Flower.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="passiflora" DisplayName="Blooming Passiflora" iconFile="Data/LadyElyssa/Images/Passion Flower.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
@@ -400,7 +414,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="herbs" DisplayName="Desert Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="herbs" DisplayName="Desert Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
                     <MarkerCategory name="co" DisplayName="Crystal Oasis - Temple of Kormir WP" color="CEFF33"/>
@@ -415,7 +429,7 @@
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                    <MarkerCategory name="flax" DisplayName="Flax Seeds" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="flax" DisplayName="Flax Seeds" iconFile="Data/LadyElyssa/Images/Hexagon - Brown.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
 
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
                     <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
@@ -488,7 +502,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="lily" DisplayName="Jungle Plants" iconFile="Data/LadyElyssa/Images/Hexagon - Pink.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="lily" DisplayName="Jungle Plants" iconFile="Data/LadyElyssa/Images/Hexagon - Pink.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
                     
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
@@ -726,7 +740,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="toxic" DisplayName="Toxic Seedling" iconFile="Data/LadyElyssa/Images/Toxic Seedling.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="toxic" DisplayName="Toxic Seedling" iconFile="Data/LadyElyssa/Images/Toxic Seedling.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
 
@@ -765,7 +779,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="herbs" DisplayName="Verdant Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="herbs" DisplayName="Verdant Herbs" iconFile="Data/LadyElyssa/Images/Hexagon - Green.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
 
@@ -810,7 +824,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wood" DisplayName="Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Ancient.png" miniMapVisibility="1" inGameVisibility="1" mapVisibility="1" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="wood" DisplayName="Ancient Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Ancient.png" miniMapVisibility="1" inGameVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
 
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
@@ -850,7 +864,7 @@
                 <!-- Elder Wood -->
                 <MarkerCategory name="elderwood" DisplayName="Elder Wood" mapDisplaySize="10" texture="Data/LadyElyssa/Images/Trails/Brown Arrow White Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="elder" DisplayName="Elder Wood" iconFile="Data/LadyElyssa/Images/Elder Wood.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="elder" DisplayName="Elder Wood" iconFile="Data/LadyElyssa/Images/Elder Wood.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="20"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
 
@@ -897,7 +911,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wood" DisplayName="Hard Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Hard.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="wood" DisplayName="Hard Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Hard.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
@@ -929,7 +943,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory Name="wood" DisplayName="Seasoned Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Seasoned.png" defaulttoggle="0" miniMapVisibility="0" mapVisibility="1" inGameVisibility="1" mapDisplaySize="20"/>
+                    <MarkerCategory Name="wood" DisplayName="Seasoned Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Seasoned.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="1" mapDisplaySize="20"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
                     <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
@@ -958,7 +972,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wood" DisplayName="Soft Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Soft.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20" defaulttoggle="0"/>
+                    <MarkerCategory name="wood" DisplayName="Soft Wood Nodes" iconFile="Data/LadyElyssa/Images/Icons/Wood-Soft.png" miniMapVisibility="0" inGameVisibility="0" mapVisibility="0" mapDisplaySize="20"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
@@ -1080,7 +1094,7 @@
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                    <MarkerCategory name="ruby" DisplayName="Bloodstone Rubies" iconFile="Data/LadyElyssa/Images/Blood Ruby.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="ruby" DisplayName="Bloodstone Rubies" iconFile="Data/LadyElyssa/Images/Blood Ruby.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" miniMapVisibility="0" minSize="32" maxSize="48" iconSize="0.5">
                         <MarkerCategory name="gliding" DisplayName="Gliding" iconFile="Data/LadyElyssa/Images/Icons/Gliding.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     </MarkerCategory>
@@ -1112,7 +1126,7 @@
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                    <MarkerCategory name="orchid" DisplayName="Fire Orchid Blossoms" iconFile="Data/LadyElyssa/Images/Fire Orchid.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="orchid" DisplayName="Fire Orchid Blossoms" iconFile="Data/LadyElyssa/Images/Fire Orchid.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
 
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
@@ -1131,7 +1145,7 @@
 
                 <MarkerCategory name="winterberry" DisplayName="Fresh Winterberry ">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="winterberry" DisplayName="Winterberries" iconFile="Data/LadyElyssa/Images/Fresh Winterberry.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="winterberry" DisplayName="Winterberries" iconFile="Data/LadyElyssa/Images/Fresh Winterberry.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
                         <MarkerCategory name="short" DisplayName="Short Trail" texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" miniMapVisibility="0" minSize="32" maxSize="48">
                             <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                             <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
@@ -1180,7 +1194,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                         <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
-                        <MarkerCategory name="shard" DisplayName="Jade Shards" iconFile="Data/LadyElyssa/Images/Jade Shard.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                        <MarkerCategory name="shard" DisplayName="Jade Shards" iconFile="Data/LadyElyssa/Images/Jade Shard.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
                         <!-- End Numbers -->
                     <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                     <MarkerCategory name="doric" DisplayName="Lake Doric" color="ffb3da"/>
@@ -1190,8 +1204,8 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
-                    <MarkerCategory name="oyster" DisplayName="Orrian Oysters" iconFile="Data/LadyElyssa/Images/Orrian Pearl.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
-                    <MarkerCategory name="chest" DisplayName="Waterlogged Chests" iconFile="Data/LadyElyssa/Images/Waterlogged Chest.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="oyster" DisplayName="Orrian Oysters" iconFile="Data/LadyElyssa/Images/Orrian Pearl.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="chest" DisplayName="Waterlogged Chests" iconFile="Data/LadyElyssa/Images/Waterlogged Chest.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
                         
                     <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
                     <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
@@ -1217,7 +1231,7 @@
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                    <MarkerCategory name="wood" DisplayName="Petrified Wood" iconFile="Data/LadyElyssa/Images/Petrified Wood.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="wood" DisplayName="Petrified Wood" iconFile="Data/LadyElyssa/Images/Petrified Wood.png" miniMapVisibility="0" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" miniMapVisibility="0" minSize="32" maxSize="48" iconSize="0.5">
                         <MarkerCategory name="gliding" DisplayName="Gliding" iconFile="Data/LadyElyssa/Images/Icons/Gliding.png" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     </MarkerCategory>

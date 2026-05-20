@@ -3,7 +3,7 @@
 
         <!-- Festivals -->
 
-        <MarkerCategory name="festivals" DisplayName="Festivals" defaulttoggle="0">
+        <MarkerCategory name="festivals" DisplayName="Festivals">
             <!-- Dragon Bash -->
             <MarkerCategory name="dragonbash" DisplayName="Dragon Bash" bh-festival="dragonbash">
                 <MarkerCategory name="adventure1" DisplayName="Adventure - Dragon Bash Rally">
@@ -134,7 +134,7 @@
                 <MarkerCategory name="atm" DisplayName="Ascent to Madness" texture="Data/LadyElyssa/Images/Candy Gradient.png" animSpeed="0" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="candy" DisplayName="Candy Corn (Chance)">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
-                    <MarkerCategory name="corn" DisplayName="Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0">
+                    <MarkerCategory name="corn" DisplayName="Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32">
                         <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                         <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
                         <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
@@ -154,7 +154,7 @@
                         <MarkerCategory name="mists" IsSeparator="1" DisplayName="THE MISTS"/>
                         <MarkerCategory name="mkl" DisplayName="Mad King's Labyrinth"/>
                     </MarkerCategory>
-                    <MarkerCategory name="rich" DisplayName="Rich Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Rich Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0">
+                    <MarkerCategory name="rich" DisplayName="Rich Candy Corn" iconFile="Data/LadyElyssa/Images/Festivals/Rich Candy Corn.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32">
                         <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                         <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
                         <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
@@ -180,7 +180,7 @@
 
                 <MarkerCategory name="clocktower" DisplayName="Clocktower" texture="Data/LadyElyssa/Images/Candy Gradient.png" animSpeed="0" fadeNear="600" fadeFar="800"/>
                 <MarkerCategory name="labyrinth" DisplayName="Labyrinth">
-                    <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="race" DisplayName="Race - Mad King's Labyrinth" texture="Data/LadyElyssa/Images/Racing Line - Labyrinth.png" animSpeed="0"/>
                     <MarkerCategory name="main" DisplayName="Main Labyrinth Route"/>
                     <MarkerCategory name="alt" DisplayName="Alternate Routes" texture="Data/LadyElyssa/Images/Candy Gradient BW.png"/>
@@ -196,7 +196,7 @@
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATIONS"/>
                     <MarkerCategory name="la" DisplayName="Lions Arch">                
                             <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
-                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                             <MarkerCategory name="foot" DisplayName="Foot Trail Path">
                                 <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
@@ -236,7 +236,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                                 <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -287,7 +287,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                                 <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -335,7 +335,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                                 <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -386,7 +386,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                                 <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -432,7 +432,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                             <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                             <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                            <MarkerCategory name="pumpkin" DisplayName="Pumpkin" iconFile="Data/LadyElyssa/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                             <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png">
                                 <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                                 <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>

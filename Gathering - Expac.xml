@@ -5,9 +5,33 @@
 
         <!-- Echovald Wilds -->
 
-        <Trail type="legs.gathering.eod.resin.tew" trailData="Data/LadyElyssa/Gathering/Expac/EoD/Echovald Wilds - Resin.trl" texture="Data/LadyElyssa/Images/Trail-Textured.png" color="ffaa00"/>
-        <POI MapID="1452" xpos="-132.681" ypos="162.829" zpos="702.032" type="legs.gathering.eod.start" GUID="eqxvyrwmvUWgx4hxZvongA=="/>
+        <Trail type="legs.gathering.eod.resin.tew" trailData="Data/LadyElyssa/Gathering/Expac/EoD/Echovald Wilds - Resin.trl" texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" color="ffaa00"/>
+        <POI MapID="1452" xpos="-132.681" ypos="162.829" zpos="702.032" type="legs.gathering.eod.resin.start" GUID="eqxvyrwmvUWgx4hxZvongA=="/>
 
+        <!-- Dragon's End -->
+        <Trail type="legs.gathering.eod.jadeite.de" trailData="Data/LadyElyssa/Gathering/Expac/EoD/Dragon's End - Jadeite.trl" texture="Data/LadyElyssa/Images/Trails/Black Arrow White Border.png" color="00FF00"/>
+        <POI MapID="1422" xpos="-205.363" ypos="176.314" zpos="827.809" type="legs.gathering.eod.jadeite.start" GUID="RwBUVg60uk2x6WuMSpLACg=="/>
+        <POI MapID="1422" xpos="-166.812" ypos="176.409" zpos="819.449" type="legs.gathering.eod.jadeite.skyscale" GUID="i3X31CxV8EqA0pVQVMzDTQ=="/>
+        <POI MapID="1422" xpos="483.646" ypos="61.3205" zpos="508.954" type="legs.gathering.eod.jadeite.skyscale" GUID="ZUFJYIroZ0iB0lub08st5g=="/>
+        <POI MapID="1422" xpos="556.042" ypos="67.7255" zpos="309" type="legs.gathering.eod.jadeite.skyscale" GUID="OVGPBNGTTEihHaoXIGXUHQ=="/>
+        <POI MapID="1422" xpos="286.566" ypos="89.2951" zpos="239.382" type="legs.gathering.eod.jadeite.skyscale" GUID="JkpLQh/VK0e/+x34oF1+gw=="/>
+        <POI MapID="1422" xpos="-98.5423" ypos="114.471" zpos="96.6606" type="legs.gathering.eod.jadeite.skyscale" GUID="/MGbRu7Dw0eivMLCNc97Hg=="/>
+        <POI MapID="1422" xpos="-136.959" ypos="133.694" zpos="87.5456" type="legs.gathering.eod.jadeite.springer" GUID="YheTK3tkKU2etPPRws6Mlg=="/>
+        <POI MapID="1422" xpos="333.089" ypos="147.589" zpos="-201.781" type="legs.gathering.eod.jadeite.skyscale" GUID="y8Ur1wlW2EOJNIg+7GJzzQ=="/>
+        <POI MapID="1422" xpos="321.639" ypos="149.754" zpos="-302.368" type="legs.gathering.eod.jadeite.skyscale" GUID="isfHHvqqLU+wBrhaJMJTjA=="/>
+        <POI MapID="1422" xpos="395.225" ypos="150.08" zpos="-462.411" type="legs.gathering.eod.jadeite.skyscale" GUID="GluPn4aqqEG+zLhn/3FwQg=="/>
+        <POI MapID="1422" xpos="-150.657" ypos="163.556" zpos="-597.121" type="legs.gathering.eod.jadeite.springer" GUID="pktDoQm7MEmv5DncEvx7ng=="/>
+        <POI MapID="1422" xpos="-278.482" ypos="150.572" zpos="-418.686" type="legs.gathering.eod.jadeite.springer" GUID="SPDcnLZmVUWhKeKhCJAzyg=="/>
+        <POI MapID="1422" xpos="-331.547" ypos="146.193" zpos="-323.376" type="legs.gathering.eod.jadeite.skyscale" GUID="zUKhKx5eKEyQExVnSAPIPw=="/>
+        <POI MapID="1422" xpos="-250.972" ypos="144.611" zpos="-148.71" type="legs.gathering.eod.jadeite.skyscale" GUID="Qq3m1RX5yk2f2MC9BHCqgA=="/>
+        <POI MapID="1422" xpos="-248.523" ypos="129.525" zpos="95.3508" type="legs.gathering.eod.jadeite.springer" GUID="WU84RrMKDUukaVaaSsYilQ=="/>
+        <POI MapID="1422" xpos="-225.057" ypos="147.812" zpos="150.085" type="legs.gathering.eod.jadeite.skyscale" GUID="BPp25YyGZkWBkSoM4AK2rw=="/>
+        <POI MapID="1422" xpos="535.0147" ypos="96.70203" zpos="273.2434" type="legs.gathering.eod.jadeite.raptor" GUID="JloPx1111kyISGYnIDJDSg=="/>
+        <POI MapID="1422" xpos="-189.5169" ypos="159.6669" zpos="-226.2481" type="legs.gathering.eod.jadeite.raptor" GUID="nkzUBV10rEWlEahOkJO0KQ=="/>
+        <POI MapID="1422" xpos="-227.7298" ypos="154.0773" zpos="-178.5226" type="legs.gathering.eod.jadeite.raptor" GUID="+CcoMmB+70CFwJQOHedvVQ=="/>
+        <POI MapID="1422" xpos="-333.4301" ypos="152.795" zpos="-142.3275" type="legs.gathering.eod.jadeite.raptor" GUID="rA0sPcvewESrXsImzkl/3g=="/>
+        <POI MapID="1422" xpos="-354.2278" ypos="155.9172" zpos="-128.5706" type="legs.gathering.eod.jadeite.raptor" GUID="pcfnDzZleEykbr9W1GK1Aw=="/>
+        <POI MapID="1422" xpos="-408.8091" ypos="193.9537" zpos="87.88541" type="legs.gathering.eod.jadeite.dismount" GUID="JLMhsHCNHUKF4AVHHwQv4Q=="/>
 
         <!-- JANTHIR WILDS -->
 

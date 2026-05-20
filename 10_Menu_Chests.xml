@@ -2,7 +2,7 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="chests" DisplayName="Chests">
             <MarkerCategory name="lws2" IsSeparator="1" DisplayName="SEASON 2"/>
-            <MarkerCategory name="blc" DisplayName="Buried Locked Chest" defaulttoggle="0">
+            <MarkerCategory name="blc" DisplayName="Buried Locked Chest" >
 
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="dig" DisplayName="Buried Chests" iconFile="Data/LadyElyssa/Images/SW Lost Bandit Chest.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32" minSize="16" maxSize="32"/>
@@ -53,7 +53,7 @@
                 <MarkerCategory name="dt" DisplayName="Dry Top" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>    
                     
             </MarkerCategory>
-            <MarkerCategory name="lbc" DisplayName="Lost Bandit Chest" defaulttoggle="0">
+            <MarkerCategory name="lbc" DisplayName="Lost Bandit Chest" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="dig" DisplayName="Lost Bandit Chest" iconFile="Data/LadyElyssa/Images/SW Lost Bandit Chest.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32" minSize="16" maxSize="32"/>
 
@@ -65,7 +65,7 @@
             </MarkerCategory>
 
             <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
-            <MarkerCategory name="ec" DisplayName="Exalted Chests" defaulttoggle="0">
+            <MarkerCategory name="ec" DisplayName="Exalted Chests" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="chest" DisplayName="Exalted Chests" iconFile="Data/LadyElyssa/Images/Icons/Strongbox.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32" minSize="16" maxSize="32"/>
@@ -99,7 +99,7 @@
                 <MarkerCategory name="ab" DisplayName="Auric Basin"/>
             </MarkerCategory>
 
-            <MarkerCategory name="csc" DisplayName="Crystalized Supply Caches" defaulttoggle="0">
+            <MarkerCategory name="csc" DisplayName="Crystalized Supply Caches" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="chest" DisplayName="Exalted Chests" iconFile="Data/LadyElyssa/Images/Icons/Strongbox.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32" minSize="16" maxSize="32"/>
@@ -137,7 +137,7 @@
                     <MarkerCategory name="er" DisplayName="Elon Riverlands" iconFile="Data/LadyElyssa/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
                     <MarkerCategory name="td" DisplayName="The Desolation" iconFile="Data/LadyElyssa/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
                 </MarkerCategory>
-            <MarkerCategory name="contracts" DisplayName="Trade Contracts" defaulttoggle="0">
+            <MarkerCategory name="contracts" DisplayName="Trade Contracts" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="warning" DisplayName="Warning Signs">
@@ -283,7 +283,7 @@
             </MarkerCategory>
 
             <MarkerCategory name="lws5" IsSeparator="1" DisplayName="SEASON 5"/>
-            <MarkerCategory name="gvc" DisplayName="War Supplies" iconFile="Data/LadyElyssa/Images/Icons/Chest_Charr.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0">
+            <MarkerCategory name="gvc" DisplayName="War Supplies" iconFile="Data/LadyElyssa/Images/Icons/Chest_Charr.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                     <MarkerCategory name="finish" DisplayName="Finish" iconFile="Data/LadyElyssa/Images/Finish.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64"/>
@@ -311,7 +311,7 @@
                 <MarkerCategory name="gv" DisplayName="Grothmar Valley"/>
             </MarkerCategory>
             
-            <MarkerCategory name="eod" IsSeparator="1" DisplayName="End of Dragons"/>
+            <MarkerCategory name="eod" IsSeparator="1" DisplayName="END OF DRAGONS"/>
             <MarkerCategory name="grand" DisplayName="Grand Chest" texture="Data/LadyElyssa/Images/Jade Runestone.png">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Zone"/>
                 <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
@@ -326,7 +326,7 @@
                 <MarkerCategory name="greater" DisplayName="Greater Arcane Chests" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0" iconFile="Data/LadyElyssa/Images/Arcane Chest Greater.png"/>
             </MarkerCategory>
 
-            <MarkerCategory name="shrine" DisplayName="Shrine Guardian Chests" defaulttoggle="0">
+            <MarkerCategory name="shrine" DisplayName="Shrine Guardian Chests" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="chest" DisplayName="Shrine Guardian Chests" iconFile="Data/LadyElyssa/Images/Square.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32">
@@ -348,7 +348,7 @@
             </MarkerCategory>
 
             <MarkerCategory name="jw" IsSeparator="1" DisplayName="JANTHIR WILDS"/>
-            <MarkerCategory name="kodan" DisplayName="Kodan Cache" defaulttoggle="0">
+            <MarkerCategory name="kodan" DisplayName="Kodan Cache" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
@@ -391,7 +391,7 @@
 
             <MarkerCategory name="voe" IsSeparator="1" DisplayName="VISIONS OF ETERNITY"/>
             
-            <MarkerCategory name="aether" DisplayName="Aetherlocation Treasure" defaulttoggle="0">
+            <MarkerCategory name="aether" DisplayName="Aetherlocation Treasure" >
 
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -409,8 +409,12 @@
             <MarkerCategory name="magic" DisplayName="Magic Mirrors" texture="Data/LadyElyssa/Images/trailarrow b&amp;w - S.png">
 
                 <MarkerCategory name="vet" IsSeparator="1" DisplayName="Veterans"/>
+                <MarkerCategory name="horror" DisplayName="Bombarding Horror" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Bombarding Horror.png" mapDisplaySize="64"/>
+                <MarkerCategory name="sword" DisplayName="Enchanted Sword" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Enchanted Sword.png" mapDisplaySize="64"/>
+                <MarkerCategory name="torch" DisplayName="Enchanted Torch" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Enchanted Torch.png" mapDisplaySize="64"/>
                 <MarkerCategory name="iboga" DisplayName="Iboga" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Iboga.png" mapDisplaySize="48"/>
                 <MarkerCategory name="raptor" DisplayName="Raptors" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+                <MarkerCategory name="razortooth" DisplayName="Transcended Razortooth" iconFile="Data/LadyElyssa/Images/Icons/Kill Veteran Transcended Razortooth.png" mapDisplaySize="64"/>
 
                 <MarkerCategory name="chests" IsSeparator="1" DisplayName="Chests"/>
                 <MarkerCategory name="small" DisplayName="Small Chests" iconFile="Data/LadyElyssa/Images/Square - Blue.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
@@ -465,6 +469,7 @@
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="jbgb" DisplayName="Jade Bot Glide Booster"  iconFile="Data/LadyElyssa/Images/JadeBotGlideBooster.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="Mounts"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32">
                             <MarkerCategory name="sb" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>

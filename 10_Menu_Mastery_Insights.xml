@@ -1,6 +1,6 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
-        <MarkerCategory name="mastery" DisplayName="Mastery Insights" texture="Data/LadyElyssa/Images/Mastery.png" animSpeed="0.75" defaulttoggle="0">
+        <MarkerCategory name="mastery" DisplayName="Mastery Insights" texture="Data/LadyElyssa/Images/Mastery.png" animSpeed="0.75">
             <MarkerCategory name="region" IsSeparator="1" DisplayName="MAP REGION"/>
             <MarkerCategory name="core" DisplayName="Core Maps">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
@@ -306,7 +306,7 @@
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
@@ -336,7 +336,7 @@
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
@@ -364,7 +364,7 @@
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
@@ -394,7 +394,7 @@
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
@@ -425,7 +425,7 @@
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
@@ -455,7 +455,7 @@
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <!-- End Mounts   -->
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
@@ -663,7 +663,7 @@
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
@@ -709,7 +709,7 @@
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
@@ -737,7 +737,7 @@
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/LadyElyssa/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
@@ -804,9 +804,27 @@
                         <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
                         <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/LadyElyssa/Images/Numbers/6.png"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/LadyElyssa/Images/Numbers/7.png"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/LadyElyssa/Images/Numbers/8.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="eg" DisplayName="Eternity's Garden">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/LadyElyssa/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
+                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="sb" DisplayName="Slipstream" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="bov" DisplayName="Bond of Vigor" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Vigor.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="number" DisplayName="Trail Segment">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/LadyElyssa/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/LadyElyssa/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/LadyElyssa/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/LadyElyssa/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/LadyElyssa/Images/Numbers/5.png"/>
                     </MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>
