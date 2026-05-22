@@ -171,7 +171,7 @@ I have a written a [Quick Guide to Key Farming](https://wiki.guildwars2.com/wiki
 
 ## Map Completion ## 
 There are now going to be 2 Map Completion routes.
-* [Map Completion Route (Legacy)](<https://github.com/LadyElyssa/LadyElyssaTacoTrails/wiki/Map-Completion-(Legacy)>)
+* [Map Completion Route (Deprecated)](<https://github.com/LadyElyssa/LadyElyssaTacoTrails/wiki/Map-Completion-(Legacy)>)
 * [Map Completion Route (Updated)](<https://github.com/LadyElyssa/LadyElyssaTacoTrails/wiki/Map-Completion-(Updated)>)
 * World Completion
 * Map Waypoints Only
