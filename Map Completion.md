@@ -1,6 +1,14 @@
+This is an updated route that has a number of improvements over the older [Map Completion (Legacy)](<https://github.com/LadyElyssa/LadyElyssaTacoTrails/wiki/Map-Completion-(Legacy)>) and could be seen as a stepping stone towards [Teh's Trails](https://github.com/xrandox/TehsTrails). 
+
+It is recommended, though not required, to do WvW for [Gift of Battle](https://wiki.guildwars2.com/wiki/Gift_of_Battle) x 2 as well as for [Notarized Scroll of Central Tyrian Heroics](https://wiki.guildwars2.com/wiki/Notarized_Scroll_of_Central_Tyrian_Heroics) that can save a lot of time from not having to do [Hero point](https://wiki.guildwars2.com/wiki/Hero_point)s.
+
+The barefoot route also follows this map order.
+
+
 ## For 100% World Completion
 * Do WvW first for 2 x [Gifts of Battle](https://wiki.guildwars2.com/wiki/Gift_of_Battle), especially if working towards a Legendary.
-* TALK to Heroics Notary for Central Tyrian Heroics to complete all but one of the Hero Points
+* TALK to [Heroics Notary](https://wiki.guildwars2.com/wiki/Heroics_Notary) for Central Tyrian Heroics to complete all but one of the Hero Points
+
 
 ## Map Completion Route for Central Tyria
  
@@ -26,6 +34,16 @@ Planned Route
 * The Grove ✔
 * Queensdale ✔
   * Shaemoor Waypoint `[&BO8AAAA=]` 
+* Gendarran Fields ✔
+* Harathi Hinterlands ✔
+* Plains of Ashford ✔
+  * Smokestead Waypoint `[&BIABAAA=]`
+* Diessa Plateau ✔
+* Black Citadel ✔
+* Lion's Arch ✔
+   * At **Gate Hub Plaza** take the **Gate** to **Rata Sum**
+* **Rata Sum** ✔
+   * Map Complete **Rata Sum** then **return** to **Lion's Arch** and continue
 * Divinity's Reach ✔
 * Use Gate to Fields of Ruin ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
@@ -43,21 +61,11 @@ Planned Route
    | `[&BB4CAAA=]` | [Enduring Protector](https://wiki.guildwars2.com/wiki/Enduring_Protector) | [Barracuda Meat](https://wiki.guildwars2.com/wiki/Barracuda_Meat) x 25 |
 * Frostgorge Sound ✔
 * Snowden Drifts ✔
-* Gendarran Fields ✔
-* Harathi Hinterlands ✔
-* Plains of Ashford ✔
-  * Smokestead Waypoint `[&BIABAAA=]`
-* Black Citadel ✔
-* Diessa Plateau ✔
 * Wayfarer Foothills ✔
 * Hoelbrak ✔
 * Dredgehaunt Cliffs ✔
 * Timberline Falls ✔
 * Lornar's Pass ✔
-* Lion's Arch ✔
-   * At **Gate Hub Plaza** take the **Gate** to **Rata Sum**
-* **Rata Sum**
-   * Map Complete **Rata Sum** then **return** to **Lion's Arch** and continue
 * Bloodtide Coast ✔
    > Items to buy from Trading Post to trade in to the following Heart NPCs
    
@@ -82,4 +90,3 @@ Planned Route
 
 ## See Also
 * Lady Elyssa's User page on the [Official Guildwars2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Map_Completion)
-
