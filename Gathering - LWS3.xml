@@ -4,11 +4,11 @@
         
         <!-- Bloodstone Rubies -->
         
-        <Trail type="legs.gathering.lws3.rubies.main" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies 1 Alt.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.gathering.lws3.rubies.main" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies 1.trl"/>
-        <Trail type="legs.gathering.lws3.rubies.main" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies 2.trl"/>
-        <Trail type="legs.gathering.lws3.rubies.mounted" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies - Mount 1.trl" alpha="0.8"/>
-        <Trail type="legs.gathering.lws3.rubies.mounted" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies - Mount 2.trl" alpha="0.8"/>
+        <Trail type="legs.gathering.lws3.rubies.main" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies 1 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.gathering.lws3.rubies.main" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies 1.trl"/>
+        <Trail type="legs.gathering.lws3.rubies.main" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies 2.trl"/>
+        <Trail type="legs.gathering.lws3.rubies.mounted" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies - Mount 1.trl" alpha="0.8"/>
+        <Trail type="legs.gathering.lws3.rubies.mounted" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bloodstone Fen - Bloodstone Rubies - Mount 2.trl" alpha="0.8"/>
         <POI MapID="1165" xpos="-226.7134" ypos="760.475" zpos="84.24422" type="legs.gathering.lws3.rubies.bloodstone" GUID="Vp7WNPt8l0iJQDATSwkqjw=="/>
         <POI MapID="1165" xpos="-225.314" ypos="760.54" zpos="85.787" type="legs.gathering.lws3.rubies.start" GUID="f99osL6afU2qOUaudK1oYw=="/>
         <POI MapID="1165" xpos="-193.133" ypos="109.601" zpos="-22.9851" type="legs.gathering.lws3.rubies.finish" GUID="V3Yqy+kV40OYgZvYF7mGgQ=="/>
@@ -108,7 +108,7 @@
         
         <!-- Fire Orchids -->
 
-        <Trail type="legs.gathering.lws3.orchids.draconis" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Draconis Mons - Fire Orchids.trl"/>
+        <Trail type="legs.gathering.lws3.orchids.draconis" trailData="Data/Gathering/Living World/LWS3/LWS3 - Draconis Mons - Fire Orchids.trl"/>
         <POI MapID="1195" xpos="34.6889" ypos="293.971" zpos="-819.35" type="legs.gathering.lws3.orchids.orchid" GUID="otZgm27mfU6zJn5fCA32kw=="/>
         <POI MapID="1195" xpos="-375.31" ypos="116.708" zpos="-372.57" type="legs.gathering.lws3.orchids.springer" GUID="NDuT+nEmqEKnwdn/pp2P8g=="/>
         <POI MapID="1195" xpos="-358.012" ypos="119.953" zpos="-370.738" type="legs.gathering.lws3.orchids.glider" GUID="ZqSycZActU23xAZH+IBbWA=="/>
@@ -430,7 +430,7 @@
         
         <!-- Jade Fragments -->
 
-        <Trail type="legs.gathering.lws3.jade.doric" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Lake Doric - Jade Fragments.trl"/>
+        <Trail type="legs.gathering.lws3.jade.doric" trailData="Data/Gathering/Living World/LWS3/LWS3 - Lake Doric - Jade Fragments.trl"/>
         <POI MapID="1185" xpos="-333.205" ypos="34.5417" zpos="-141.99" type="legs.gathering.lws3.jade.start" GUID="8/Qx8FnTVE6w92AI04dP4w=="/>
         <POI MapID="1185" xpos="248.848" ypos="30.4149" zpos="-665.468" type="legs.gathering.lws3.jade.finish" GUID="ghojA0XTIkqEc2Uxx2mdEA=="/>
         <POI MapID="1185" xpos="-220.857" ypos="-18.8986" zpos="15.4905" type="legs.gathering.lws3.jade.shard" GUID="OUX7sv/I7E6RSaOGWYOXNQ=="/>
@@ -516,7 +516,7 @@
         
         <!-- Orrian Pearls -->
 
-        <Trail type="legs.gathering.lws3.pearls.sirens" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Siren's Landing - Orrian Pearls.trl"/>
+        <Trail type="legs.gathering.lws3.pearls.sirens" trailData="Data/Gathering/Living World/LWS3/LWS3 - Siren's Landing - Orrian Pearls.trl"/>
         <POI MapID="1203" xpos="439.797" ypos="7.97162" zpos="-224.914" type="legs.gathering.lws3.pearls.start" GUID="ib7Ag8KelEO2/X6AOoOrVg=="/>
         <POI MapID="1203" xpos="-853.271" ypos="117.475" zpos="103.036" type="legs.gathering.lws3.pearls.finish" GUID="5/J38OkHu0CF8uMlqHKY9w=="/>
         <POI MapID="1203" xpos="437.175" ypos="8.49612" zpos="-227.649" type="legs.gathering.lws3.pearls.jackal" GUID="MbshlZPcNU+kDfIRHRAwbA=="/>
@@ -580,7 +580,7 @@
 
         <!-- Petrified Wood -->
 
-        <Trail type="legs.gathering.lws3.petrifiedwood.emberbay" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Ember Bay - Petrified Wood.trl"/>
+        <Trail type="legs.gathering.lws3.petrifiedwood.emberbay" trailData="Data/Gathering/Living World/LWS3/LWS3 - Ember Bay - Petrified Wood.trl"/>
         <POI MapID="1175" xpos="-192.568" ypos="20.2233" zpos="-596.891" type="legs.gathering.lws3.petrifiedwood.start" GUID="n6u/NLFzD0exD/09HqHA6w=="/>
         <POI MapID="1175" xpos="-809.281" ypos="32.4208" zpos="107.267" type="legs.gathering.lws3.petrifiedwood.finish" GUID="wEAIhQYws0m0zk6Z4ohIIA=="/>
         <POI MapID="1175" xpos="-205.615" ypos="20.2243" zpos="-573.125" type="legs.gathering.lws3.petrifiedwood.wood" GUID="J6tOPyKmak6ldLawTMQVTg=="/>
@@ -649,16 +649,16 @@
         <POI MapID="1178" xpos="-346.867" ypos="30.4919" zpos="-61.6096" type="legs.gathering.lws3.winterberry.winterberry" GUID="37HvUdTb/kqhp7AT5wSizw=="/>
         <POI MapID="1178" xpos="-340.714" ypos="31.9052" zpos="44.6319" type="legs.gathering.lws3.winterberry.winterberry" GUID="x5fmHgCb30epw07C/nv0aw=="/>
         <POI MapID="1178" xpos="-128.562" ypos="1.59234" zpos="125.759" type="legs.gathering.lws3.winterberry.winterberry" GUID="2GhREwaQy0OmF+a01Z3B3g=="/>
-        <Trail type="legs.gathering.lws3.winterberry.smooth.trail" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries.trl"/>
+        <Trail type="legs.gathering.lws3.winterberry.smooth.trail" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries.trl"/>
         <POI MapID="1178" xpos="-30.4663" ypos="1.42098" zpos="-95.3962" type="legs.gathering.lws3.winterberry.smooth.start" GUID="ki6BqOQFJka+R7eReJapCQ=="/>
         <POI MapID="1178" xpos="-38.9298" ypos="25.1305" zpos="180.364" type="legs.gathering.lws3.winterberry.smooth.finish" GUID="JhaSV868zEyQwC+3OQfeng=="/>
         <POI MapID="1178" xpos="-610.234" ypos="43.1691" zpos="-1.85782" type="legs.gathering.lws3.winterberry.smooth.glider" GUID="WV036qSKjEKNAh4y69SdMw=="/>
         <POI MapID="1178" xpos="-737.002" ypos="91.266" zpos="226.997" type="legs.gathering.lws3.winterberry.smooth.glider" GUID="fgW/agP5tUSMZXsbiBAdvA=="/>
         <POI MapID="1178" xpos="-429.87" ypos="82.0798" zpos="314.031" type="legs.gathering.lws3.winterberry.smooth.glider" GUID="oGvaHxjeFUGsS7VHsaAHDA=="/>
         <POI MapID="1178" xpos="-175.705" ypos="63.1289" zpos="179.765" type="legs.gathering.lws3.winterberry.smooth.glider" GUID="rLupxj5Dr0O9iSNTz3+RwA=="/>
-        <Trail type="legs.gathering.lws3.winterberry.short.trail" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries - Short 1.trl"/>
-        <Trail type="legs.gathering.lws3.winterberry.short.trail" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries - Short 2.trl"/>
-        <Trail type="legs.gathering.lws3.winterberry.short.trail" trailData="Data/LadyElyssa/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries - Short 3.trl"/>
+        <Trail type="legs.gathering.lws3.winterberry.short.trail" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries - Short 1.trl"/>
+        <Trail type="legs.gathering.lws3.winterberry.short.trail" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries - Short 2.trl"/>
+        <Trail type="legs.gathering.lws3.winterberry.short.trail" trailData="Data/Gathering/Living World/LWS3/LWS3 - Bitterfrost Frontier - Winterberries - Short 3.trl"/>
         <POI MapID="1178" xpos="-32.7417" ypos="2.5" zpos="-100.978" type="legs.gathering.lws3.winterberry.short.start" GUID="m6T30FNRX0SdP54oaiBEWg=="/>
         <POI MapID="1178" xpos="62.6179" ypos="9.59097" zpos="-346.452" type="legs.gathering.lws3.winterberry.short.wp" GUID="hSAtFBJqAUKViyDlXfBNWg==" copy="[&amp;BH0JAAA=]" copy-message="Sorrow's Eclipse Waypoint"/>
         <POI MapID="1178" xpos="563.23" ypos="1.37583" zpos="-25.1307" type="legs.gathering.lws3.winterberry.short.wp" GUID="lvf0CJCfqkWTmZkkZU6j/A==" copy="[&amp;BH0JAAA=]" copy-message="Sorrow's Eclipse Waypoint"/>

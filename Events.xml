@@ -2,7 +2,7 @@
     <POIs>
 
         <!-- LWS2 - Silverwastes - R.I.B.A. -->
-        <Trail type="legs.events.riba.sw" trailData="Data/LadyElyssa/Events/LWS2/RIBA.trl" color="00FFFF"/>
+        <Trail type="legs.events.riba.sw" trailData="Data/Events/LWS2/RIBA.trl" color="00FFFF"/>
         <POI MapID="1015" xpos="98.6696" ypos="445.104" zpos="-353.406" type="legs.events.riba.annihilator" GUID="1uIoXONFMUuc5DQIg3cGqA=="/>
         <POI MapID="1015" xpos="71.1538" ypos="415.505" zpos="19.1435" type="legs.events.riba.demolisher" GUID="qZni4ZCgyUKk+rOTzmXjxw=="/>
         <POI MapID="1015" xpos="-197.276" ypos="415.565" zpos="83.9145" type="legs.events.riba.tormentor" GUID="vuGpxcLq1EC2s8+RyVWAkQ=="/>
@@ -52,12 +52,12 @@
         <!-- Path of Fire --> 
         <POI MapID="1210" xpos="-741.411" ypos="1.47808" zpos="-108.957" type="legs.events.casino.start" GUID="cRbc665+gE+cHyrnCwKS4Q=="/>
         <POI MapID="1210" xpos="-741.411" ypos="2.47808" zpos="-108.957" type="legs.events.casino.co" GUID="F8uiQOlVF0Crg8UMHtL2Bw=="/>
-        <Trail type="legs.events.casino.1" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 1 To.trl" color="00cc00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.events.casino.1" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 1.trl" color="00cc00"/>
-        <Trail type="legs.events.casino.2" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 2 To.trl" color="ffcc00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.events.casino.2" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 2.trl" color="ffcc00"/>
-        <Trail type="legs.events.casino.3" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 3 To.trl" color="ff1a1a" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.events.casino.3" trailData="Data/LadyElyssa/Events/PoF/Casino Blitz 3.trl" color="ff1a1a"/>
+        <Trail type="legs.events.casino.1" trailData="Data/Events/PoF/Casino Blitz 1 To.trl" color="00cc00" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.events.casino.1" trailData="Data/Events/PoF/Casino Blitz 1.trl" color="00cc00"/>
+        <Trail type="legs.events.casino.2" trailData="Data/Events/PoF/Casino Blitz 2 To.trl" color="ffcc00" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.events.casino.2" trailData="Data/Events/PoF/Casino Blitz 2.trl" color="ffcc00"/>
+        <Trail type="legs.events.casino.3" trailData="Data/Events/PoF/Casino Blitz 3 To.trl" color="ff1a1a" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.events.casino.3" trailData="Data/Events/PoF/Casino Blitz 3.trl" color="ff1a1a"/>
 
     </POIs>
 </OverlayData>

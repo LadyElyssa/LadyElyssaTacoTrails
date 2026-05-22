@@ -3,13 +3,13 @@
         <!-- MAP COMPLETION - EoD -->
         <!-- END OF DRAGONS -->
         <!-- Seitung Province -->
-        <Trail type="legs.map.eod.sp.main.number.1" trailData="Data/LadyElyssa/Map Completion/EoD/Seitung Province 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.sp.main.number.2" trailData="Data/LadyElyssa/Map Completion/EoD/Seitung Province 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.sp.main.number.3" trailData="Data/LadyElyssa/Map Completion/EoD/Seitung Province 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.sp.main.number.4" trailData="Data/LadyElyssa/Map Completion/EoD/Seitung Province 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.sp.main.number.5" trailData="Data/LadyElyssa/Map Completion/EoD/Seitung Province 5.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.sp.main.number.6" trailData="Data/LadyElyssa/Map Completion/EoD/Seitung Province 6.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.sp.main.number.7" trailData="Data/LadyElyssa/Map Completion/EoD/Seitung Province 7.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.sp.main.number.1" trailData="Data/Map Completion/EoD/Seitung Province 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.sp.main.number.2" trailData="Data/Map Completion/EoD/Seitung Province 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.sp.main.number.3" trailData="Data/Map Completion/EoD/Seitung Province 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.sp.main.number.4" trailData="Data/Map Completion/EoD/Seitung Province 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.sp.main.number.5" trailData="Data/Map Completion/EoD/Seitung Province 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.sp.main.number.6" trailData="Data/Map Completion/EoD/Seitung Province 6.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.sp.main.number.7" trailData="Data/Map Completion/EoD/Seitung Province 7.trl" color="00FFFF"/>
         <POI MapID="1442" xpos="-81.1659" ypos="14.256" zpos="-181.974" GUID="DYgD3Td7Vk2p+UtuvdTh9Q==" type="legs.map.eod.sp.main.start"/>
         <POI MapID="1442" xpos="-988.053" ypos="98.0938" zpos="-182.268" GUID="tDHzqycW90mShjljkPKilw==" copy="[&amp;BL8MAAA=]" copy-message="Monastery Waypoint" type="legs.map.eod.sp.main.wp"/>
         <POI MapID="1442" xpos="-856.447" ypos="116.038" zpos="-119.642" type="legs.map.eod.sp.main.number.2" GUID="s3LYtg5ZaUi6KRYH6eoVLA=="/>
@@ -55,12 +55,12 @@
         <POI MapID="1442" xpos="178.855" ypos="53.359" zpos="-474.663" type="legs.map.eod.sp.main.info" GUID="Sxm8h0e2CEKqQvVZmHCXMA==" info="Wait here and let the Encroaching Darkness consume you&#xA;To be teleported and continue the trail" infoRange="3"/>
 
         <!-- Illuminating Seitung Province -->
-        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/LadyElyssa/Map Completion/EoD/Lanterns - Seitung 1.trl"/>
-        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/LadyElyssa/Map Completion/EoD/Lanterns - Seitung 2.trl"/>
-        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/LadyElyssa/Map Completion/EoD/Lanterns - Seitung 3.trl"/>
-        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/LadyElyssa/Map Completion/EoD/Lanterns - Seitung 4.trl"/>
-        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/LadyElyssa/Map Completion/EoD/Lanterns - Seitung 5 Alt.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/LadyElyssa/Map Completion/EoD/Lanterns - Seitung 5.trl"/>
+        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/Map Completion/EoD/Lanterns - Seitung 1.trl"/>
+        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/Map Completion/EoD/Lanterns - Seitung 2.trl"/>
+        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/Map Completion/EoD/Lanterns - Seitung 3.trl"/>
+        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/Map Completion/EoD/Lanterns - Seitung 4.trl"/>
+        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/Map Completion/EoD/Lanterns - Seitung 5 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.eod.sp.lanterns" trailData="Data/Map Completion/EoD/Lanterns - Seitung 5.trl"/>
         <POI MapID="1442" xpos="-95.9361" ypos="11.7581" zpos="-181.241" type="legs.map.eod.sp.lanterns.start" GUID="lrZVHnZGUUG6Hl3pDd+UIA=="/>
         <POI MapID="1442" xpos="-1006.276" ypos="98.29433" zpos="-17.66969" type="legs.map.eod.sp.lanterns.wp" GUID="YLx3CkRVrk6tmcNENp3qZA==" copy="[&amp;BL8MAAA=]" copy-message="Monastery Waypoint"/>
         <POI MapID="1442" xpos="-419.2328" ypos="0.5152985" zpos="196.3518" type="legs.map.eod.sp.lanterns.wp" GUID="hO3p3rLdY0uMtUk/P/BN8A==" copy="[&amp;BGUNAAA=]" copy-message="Daigo Ward Waypoint"/>
@@ -131,10 +131,10 @@
 
         <!-- New Kaineng -->
 
-        <Trail type="legs.map.eod.nkc.main.number.1" trailData="Data/LadyElyssa/Map Completion/EoD/New Kaineng 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.nkc.main.number.2" trailData="Data/LadyElyssa/Map Completion/EoD/New Kaineng 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.nkc.main.number.3" trailData="Data/LadyElyssa/Map Completion/EoD/New Kaineng 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.nkc.main.number.4" trailData="Data/LadyElyssa/Map Completion/EoD/New Kaineng 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.nkc.main.number.1" trailData="Data/Map Completion/EoD/New Kaineng 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.nkc.main.number.2" trailData="Data/Map Completion/EoD/New Kaineng 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.nkc.main.number.3" trailData="Data/Map Completion/EoD/New Kaineng 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.nkc.main.number.4" trailData="Data/Map Completion/EoD/New Kaineng 4.trl" color="00FFFF"/>
         <POI MapID="1438" xpos="-951.509" ypos="2.89149" zpos="-201.866" type="legs.map.eod.nkc.main.mount.jackal" GUID="PwHL0PQ4v0aATmXkGGuDWg=="/>
         <POI MapID="1438" xpos="-951.509" ypos="2.89149" zpos="-201.866" type="legs.map.eod.nkc.main.start" GUID="LgEfAFi460mE8RhFNDti8Q==" heightOffset="3"/>
         <POI MapID="1438" xpos="-469.632" ypos="61.6958" zpos="76.0722" type="legs.map.eod.nkc.main.mount.jackal" GUID="COcifBo5PUaHPq/m7cNEtA=="/>
@@ -191,10 +191,10 @@
         <POI MapID="1438" xpos="592.83" ypos="91.07" zpos="70.6783" type="legs.map.eod.nkc.main.mount.skyscale" GUID="sUVE85dJl0OGiKZCYoK+Ng=="/>
         <POI MapID="1438" xpos="658.861" ypos="97.006" zpos="37.2271" type="legs.map.eod.nkc.main.glider" GUID="42GHrBr70EWv+zjxlfzY4A=="/>
 
-        <Trail type="legs.map.eod.nkc.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/EoD/Light These Streets 1a.trl"/>
-        <Trail type="legs.map.eod.nkc.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/EoD/Light These Streets 1a Alt.trl" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.map.eod.nkc.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/EoD/Light These Streets 1b.trl"/>
-        <Trail type="legs.map.eod.nkc.lanterns.trail.2" trailData="Data/LadyElyssa/Map Completion/EoD/Light These Streets 2.trl"/>
+        <Trail type="legs.map.eod.nkc.lanterns.trail.1" trailData="Data/Map Completion/EoD/Light These Streets 1a.trl"/>
+        <Trail type="legs.map.eod.nkc.lanterns.trail.1" trailData="Data/Map Completion/EoD/Light These Streets 1a Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.eod.nkc.lanterns.trail.1" trailData="Data/Map Completion/EoD/Light These Streets 1b.trl"/>
+        <Trail type="legs.map.eod.nkc.lanterns.trail.2" trailData="Data/Map Completion/EoD/Light These Streets 2.trl"/>
         <POI MapID="1438" xpos="-889.552" ypos="2.84449" zpos="-142.547" type="legs.map.eod.nkc.lanterns.start" GUID="FvrVDWKKtk6IaWCk58qyjg=="/>
         <POI MapID="1438" xpos="-870.3232" ypos="1.321038" zpos="-618.3548" type="legs.map.eod.nkc.lanterns.wp" GUID="9wEkV8FTU0i1N2myZNv/kw==" copy="[&amp;BMYMAAA=]" copy-message="Promenade Waypoint"/>
         <POI MapID="1438" xpos="-878.544" ypos="2.83999" zpos="-124.428" type="legs.map.eod.nkc.lanterns.trail.1" GUID="9SsayCXPFkuHmiFM33oDVg=="/>
@@ -249,19 +249,19 @@
 
         <!-- Arborstone -->
 
-        <Trail type="legs.map.eod.arb" trailData="Data/LadyElyssa/Map Completion/EoD/Arborstone to Echovald.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.arb" trailData="Data/Map Completion/EoD/Arborstone to Echovald.trl" color="00FFFF"/>
 
 
         <!-- Echovald Wilds -->
 
-        <Trail type="legs.map.eod.ew.main.number.1" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.ew.main.number.2" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.ew.main.number.3" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.ew.main.number.4" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.ew.main.number.5" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 5.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.ew.main.number.6" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 6.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.ew.main.number.6" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 6 Alt.trl" color="00FFFF" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.map.eod.ew.main.number.7" trailData="Data/LadyElyssa/Map Completion/EoD/Echovald Wilds 7.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.ew.main.number.1" trailData="Data/Map Completion/EoD/Echovald Wilds 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.ew.main.number.2" trailData="Data/Map Completion/EoD/Echovald Wilds 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.ew.main.number.3" trailData="Data/Map Completion/EoD/Echovald Wilds 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.ew.main.number.4" trailData="Data/Map Completion/EoD/Echovald Wilds 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.ew.main.number.5" trailData="Data/Map Completion/EoD/Echovald Wilds 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.ew.main.number.6" trailData="Data/Map Completion/EoD/Echovald Wilds 6.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.ew.main.number.6" trailData="Data/Map Completion/EoD/Echovald Wilds 6 Alt.trl" color="00FFFF" texture="Data/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.eod.ew.main.number.7" trailData="Data/Map Completion/EoD/Echovald Wilds 7.trl" color="00FFFF"/>
         <POI MapID="1452" xpos="1015.52" ypos="88.8307" zpos="37.6626" type="legs.map.eod.ew.main.number.7" GUID="d3rkCacO50+0Fx+nCcE5SQ=="/>
         <POI MapID="1452" xpos="-1047.01" ypos="175.706" zpos="492.546" type="legs.map.eod.ew.main.start" GUID="LRp+XqbJP0KsVVGW9st0vA=="/>
         <POI MapID="1452" xpos="-504.037" ypos="165.391" zpos="-329.522" type="legs.map.eod.ew.main.mount.skyscale" GUID="h2iDqpg7Q0+3psYqE5ISng=="/>
@@ -337,16 +337,16 @@
         <POI MapID="1452" xpos="-45.9448" ypos="133.163" zpos="62.1855" type="legs.map.eod.ew.main.mount.jackal" GUID="DeXBfm+ayk+zzWJBZKHSxQ=="/>
         <POI MapID="1452" xpos="1108.57" ypos="91.567" zpos="50.8104" type="legs.map.eod.ew.main.finish" GUID="oF+WltEvFUyZrumXskuGSw=="/>
 
-        <Trail type="legs.map.eod.ew.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 1.trl"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.2" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 2.trl"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 3.trl"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 3b.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 3c.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 3d.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.4" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 4.trl"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.5" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 5.trl"/>
-        <Trail type="legs.map.eod.ew.lanterns.trail.6" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting the Echovald Wilds 6.trl"/>
-        <POI MapID="1452" xpos="306.147" ypos="193.303" zpos="-40.7041" type="legs.map.eod.ew.lanterns" GUID="TluDnrqTzU2W+yIkKz4QGA==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="To pass through the Strange Door&#xa;&#xa;EoD Chapter 10. Empty needs to be your active Story" infoRange="5"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.1" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 1.trl"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.2" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 2.trl"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 3.trl"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 3b.trl" texture="Data/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 3c.trl" texture="Data/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.3" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 3d.trl" texture="Data/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.4" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 4.trl"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.5" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 5.trl"/>
+        <Trail type="legs.map.eod.ew.lanterns.trail.6" trailData="Data/Map Completion/EoD/Lighting the Echovald Wilds 6.trl"/>
+        <POI MapID="1452" xpos="306.147" ypos="193.303" zpos="-40.7041" type="legs.map.eod.ew.lanterns" GUID="TluDnrqTzU2W+yIkKz4QGA==" iconFile="Data/Images/Icons/Blank.png" info="To pass through the Strange Door&#xa;&#xa;EoD Chapter 10. Empty needs to be your active Story" infoRange="5"/>
         <POI MapID="1452" xpos="429.801" ypos="178.354" zpos="-37.6909" type="legs.map.eod.ew.lanterns.wp" GUID="BGB06Hm+kU+XtQYGSzd26A==" copy="[&amp;BMwMAAA=]" copy-message="Kropa Waypoint"/>
         <POI MapID="1452" xpos="-525.3423" ypos="1.269574" zpos="-717.2641" type="legs.map.eod.ew.lanterns.wp" GUID="Z/ZZd0MhK06iQAMfohdrQg==" copy="[&amp;BMwMAAA=]" copy-message="Kropa Waypoint"/>
         <POI MapID="1452" xpos="615.008" ypos="11.5619" zpos="97.5671" type="legs.map.eod.ew.lanterns.wp" GUID="UYp/tmgvA0a4W96mg469+g==" copy="[&amp;BMcMAAA=]" copy-message="Mori Village Waypoint"/>
@@ -421,10 +421,10 @@
 
         <!-- Dragon's End -->
 
-        <Trail type="legs.map.eod.de.main.number.1" trailData="Data/LadyElyssa/Map Completion/EoD/Dragons End 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.de.main.number.1" trailData="Data/LadyElyssa/Map Completion/EoD/Dragons End 1 Alt.trl" color="00FFFF" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.map.eod.de.main.number.2" trailData="Data/LadyElyssa/Map Completion/EoD/Dragons End 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.eod.de.main.number.3" trailData="Data/LadyElyssa/Map Completion/EoD/Dragons End 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.de.main.number.1" trailData="Data/Map Completion/EoD/Dragons End 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.de.main.number.1" trailData="Data/Map Completion/EoD/Dragons End 1 Alt.trl" color="00FFFF" texture="Data/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.eod.de.main.number.2" trailData="Data/Map Completion/EoD/Dragons End 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.eod.de.main.number.3" trailData="Data/Map Completion/EoD/Dragons End 3.trl" color="00FFFF"/>
         <POI MapID="1422" xpos="-163.336" ypos="342.039" zpos="149.109" type="legs.map.eod.de.main.jbwp" GUID="n9uLAg1fi0y0gc0P2h60ew==" info="Place Jade Bot: Personal Waypoint" infoRange="5"/>
         <POI MapID="1422" xpos="-572.155" ypos="232.197" zpos="1019.8" GUID="IB6hTrKqGUibODeVRP2qpA==" type="legs.map.eod.de.main.mount.raptor"/>
         <POI MapID="1422" xpos="-159.77" ypos="219.998" zpos="978.083" GUID="Jg+sx30Xpk6rcQxzVtq2nQ==" type="legs.map.eod.de.main.mount.skyscale"/>
@@ -462,10 +462,10 @@
         <POI MapID="1422" xpos="506.313" ypos="152.157" zpos="-455.706" type="legs.map.eod.de.main.jbpwp" GUID="XNPNwISdlU+6cDmPbAYJ1A==" copy="Jade Bot: Personal Waypoint atop [&amp;BJAMAAA=]" copy-message="Jade Bot: Personal Waypoint"/>
         <POI MapID="1422" xpos="558.071" ypos="153.885" zpos="-926.964" type="legs.map.eod.de.main.wp" GUID="FCyqpYKr20GiZaxS9v7t+A==" copy="MAP COMPLETE!" copy-message="MAP COMPLETE!"/>
 
-        <Trail type="legs.map.eod.de.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting Dragon's End 1.trl"/>
-        <Trail type="legs.map.eod.de.lanterns.trail.2" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting Dragon's End 2.trl"/>
-        <Trail type="legs.map.eod.de.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting Dragon's End 3.trl"/>
-        <Trail type="legs.map.eod.de.lanterns.trail.4" trailData="Data/LadyElyssa/Map Completion/EoD/Lighting Dragon's End 4.trl"/>
+        <Trail type="legs.map.eod.de.lanterns.trail.1" trailData="Data/Map Completion/EoD/Lighting Dragon's End 1.trl"/>
+        <Trail type="legs.map.eod.de.lanterns.trail.2" trailData="Data/Map Completion/EoD/Lighting Dragon's End 2.trl"/>
+        <Trail type="legs.map.eod.de.lanterns.trail.3" trailData="Data/Map Completion/EoD/Lighting Dragon's End 3.trl"/>
+        <Trail type="legs.map.eod.de.lanterns.trail.4" trailData="Data/Map Completion/EoD/Lighting Dragon's End 4.trl"/>
         <POI MapID="1422" xpos="-202.065" ypos="176.314" zpos="829.013" type="legs.map.eod.de.lanterns.start" GUID="pEdUZwCUXEWbJ79nFYLLiQ=="/>
         <POI MapID="1422" xpos="591.872" ypos="154.367" zpos="-956.171" type="legs.map.eod.de.lanterns.wp" GUID="vQw1IlFI0UuZk8jy3LctVw==" copy="[&amp;BKIMAAA=]" copy-message="Jade Quarry Waypoint"/>
         <POI MapID="1422" xpos="-279.933" ypos="151.498" zpos="-627.472" type="legs.map.eod.de.lanterns.wp" GUID="IkWGJF5MrEaGtSd38p2r/w==" copy="[&amp;BPEMAAA=]" copy-message="Frozen Sea Waypoint"/>

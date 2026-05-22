@@ -2,7 +2,7 @@
     <POIs>
         <!-- VISIONS OF ETERNITY -->
         <!-- Shipwrecked Strand -->
-        <Trail type="legs.adventure.shipwreck.fireworks" trailData="Data/LadyElyssa/Adventures/VoE/Flying Fireworks.trl" color="FFFFFFF"/>
+        <Trail type="legs.adventure.shipwreck.fireworks" trailData="Data/Adventures/VoE/Flying Fireworks.trl" color="FFFFFFF"/>
         <POI MapID="1595" xpos="385.433" ypos="23.1926" zpos="-41.8797" type="legs.adventure.shipwreck.fireworks.sign" GUID="9QH+wFCz4ku9VGQuY/tVMA=="/>
         <POI MapID="1595" xpos="426.946" ypos="143.121" zpos="44.5602" type="legs.adventure.shipwreck.fireworks.red" GUID="/vVaf61+Xka/AeGScE8DeA=="/>
         <POI MapID="1595" xpos="364.855" ypos="123.878" zpos="96.2531" type="legs.adventure.shipwreck.fireworks.red" GUID="zeu52+uz+0CC/3d2EnhrAg=="/>
@@ -41,19 +41,19 @@
         <POI MapID="1595" xpos="476.897" ypos="45.237" zpos="54.6975" type="legs.adventure.shipwreck.fireworks.blue" GUID="1z51VUGqQU6sZb6vE0FCFA=="/>
         <POI MapID="1595" xpos="447.316" ypos="40.1315" zpos="-19.0452" type="legs.adventure.shipwreck.fireworks.blue" GUID="mo1C08+2bUCSWyARZH5DWg=="/>
 
-        <Trail type="legs.adventure.shipwreck.glimmering" trailData="Data/LadyElyssa/Adventures/VoE/Glimmering Arches Grand Prix.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.shipwreck.glimmering" trailData="Data/Adventures/VoE/Glimmering Arches Grand Prix.trl" animSpeed="0.5"/>
         <POI MapID="1595" xpos="-198.915" ypos="-0.125993" zpos="597.602" type="legs.adventure.shipwreck.glimmering.sign" GUID="Jhtl/mU1Rk63kCRtdAm25A=="/>
 
-        <Trail type="legs.adventure.shipwreck.net" trailData="Data/LadyElyssa/Adventures/VoE/Skimmer Net-Scramble.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.shipwreck.net" trailData="Data/Adventures/VoE/Skimmer Net-Scramble.trl" animSpeed="0.5"/>
         <POI MapID="1595" xpos="546.715" ypos="0.192037" zpos="-615.941" type="legs.adventure.shipwreck.net.sign" GUID="17jnJfV2z0KZkHrbYbkFvg=="/>
 
         <!-- Starlit Weald -->
-        <Trail type="legs.adventure.starlit.choya" trailData="Data/LadyElyssa/Adventures/VoE/The Great Choya Race.trl" animSpeed="0.5"/>
+        <Trail type="legs.adventure.starlit.choya" trailData="Data/Adventures/VoE/The Great Choya Race.trl" animSpeed="0.5"/>
         <POI MapID="1593" xpos="864.775" ypos="18.6495" zpos="-9.39148" type="legs.adventure.starlit.choya.sign" GUID="1nhl+pSJ9UCnXFhXrjhNvw=="/>
 
         <POI MapID="1593" xpos="-120.814" ypos="1.79361" zpos="466.504" type="legs.adventure.starlit.leyline.sign" GUID="zMphoyQnW0S5aGKzLr/m+w=="/>
         
-        <Trail type="legs.adventure.starlit.old" trailData="Data/LadyElyssa/Adventures/VoE/Old Magic.trl"/>
+        <Trail type="legs.adventure.starlit.old" trailData="Data/Adventures/VoE/Old Magic.trl"/>
         <POI MapID="1593" xpos="-378.377" ypos="103.277" zpos="192.489" type="legs.adventure.starlit.old.sign" GUID="HVeh81MyLkyejL625cfuQA=="/>
         <POI MapID="1593" xpos="-361.627" ypos="96.346" zpos="258.606" type="legs.adventure.starlit.old.mount.skyscale" GUID="6eziyKMHWUSYF2z/2Vmw9Q=="/>
         

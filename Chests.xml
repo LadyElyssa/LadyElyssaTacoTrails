@@ -4,14 +4,14 @@
         <!-- LWS2 - Dry Top - Chest Run - Traditional -->
 
         <POI MapID="988" xpos="406.692" ypos="23.9501" zpos="-507.777" type="legs.chests.blc.dt" GUID="PFSO9uUBt0u2G7CeybUODw=="/>
-        <Trail type="legs.chests.blc.t.1" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 1 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
-        <Trail type="legs.chests.blc.t.1" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 1 Traditional Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
-        <Trail type="legs.chests.blc.t.2" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 2 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
-        <Trail type="legs.chests.blc.t.2" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 2 Traditional Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
-        <Trail type="legs.chests.blc.t.3" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 3 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
-        <Trail type="legs.chests.blc.t.3" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 3 Traditional Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
-        <Trail type="legs.chests.blc.t.4" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 4 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
-        <Trail type="legs.chests.blc.t.5" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 5 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.1" trailData="Data/Chests/LWS2/DT Chest Run 1 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.1" trailData="Data/Chests/LWS2/DT Chest Run 1 Traditional Alt.trl" texture="Data/Images/Dashed Line with Shadow.png" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.2" trailData="Data/Chests/LWS2/DT Chest Run 2 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.2" trailData="Data/Chests/LWS2/DT Chest Run 2 Traditional Alt.trl" texture="Data/Images/Dashed Line with Shadow.png" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.3" trailData="Data/Chests/LWS2/DT Chest Run 3 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.3" trailData="Data/Chests/LWS2/DT Chest Run 3 Traditional Alt.trl" texture="Data/Images/Dashed Line with Shadow.png" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.4" trailData="Data/Chests/LWS2/DT Chest Run 4 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.t.5" trailData="Data/Chests/LWS2/DT Chest Run 5 Traditional.trl" color="99CCFF" fadeNear="1600" fadeFar="2000"/>
         <POI MapID="988" xpos="405.499" ypos="23.9477" zpos="-509.878" type="legs.chests.blc.t.start" GUID="5q/tqHdp0U62WFyS5eBbNg=="/>
         <POI MapID="988" xpos="296.192" ypos="82.3039" zpos="-374.804" type="legs.chests.blc.t.wp" GUID="SBXG8Wbgdkuenv1h2InxbA==" copy="[&amp;BHoHAAA=]" copy-message="If Unable to Glide, Prosperity Waypoint"/>
         <POI MapID="988" xpos="227.557" ypos="29.5624" zpos="-336.901" type="legs.chests.blc.t.wp" GUID="W2DCVf/eVEOGfZaTNLKvmw==" copy="[&amp;BHoHAAA=]" copy-message="Prosperity Waypoint"/>
@@ -109,7 +109,7 @@
         
         <!-- LWS2 - Dry Top - Chest Run - With Mounts -->
 
-        <Trail type="legs.chests.blc.m.1" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 1.trl" color="99FF99" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.m.1" trailData="Data/Chests/LWS2/DT Chest Run 1.trl" color="99FF99" fadeNear="1600" fadeFar="2000"/>
         <POI MapID="988" xpos="400.175" ypos="23.4545" zpos="-501.871" type="legs.chests.blc.m.skyscale" GUID="y5lqIA3QbU+zhQRXJ+gJqQ=="/>
         <POI MapID="988" xpos="364.31" ypos="14.3539" zpos="-512.621" type="legs.chests.blc.m.springer" GUID="W9+94kePo0WrUlGtf4+9TA=="/>
         <POI MapID="988" xpos="361.926" ypos="19.4039" zpos="-509.103" type="legs.chests.blc.m.skyscale" GUID="01f+W2CSy0KmBzr358DNRA=="/>
@@ -150,7 +150,7 @@
         <POI MapID="988" xpos="412.814" ypos="14.088" zpos="-172.692" type="legs.chests.blc.m.skyscale" GUID="VRjjZ7WtSUiT4ZLadYucZw=="/>
         <POI MapID="988" xpos="430.4" ypos="22.9111" zpos="-151.112" type="legs.chests.blc.dig" GUID="EJVVDK6+Ik+sCSVddBReXg=="/>
         <POI MapID="988" xpos="304.697" ypos="38.4226" zpos="-28.9632" type="legs.chests.blc.m.wp" GUID="Up5FNWarc0akb+Y4H8wa0w==" copy="[&amp;BIgHAAA=]" copy-message="Restoration Refuge Waypoint"/>
-        <Trail type="legs.chests.blc.m.2" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 2.trl" color="99FF99" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.m.2" trailData="Data/Chests/LWS2/DT Chest Run 2.trl" color="99FF99" fadeNear="1600" fadeFar="2000"/>
         <POI MapID="988" xpos="404.309" ypos="23.8949" zpos="-505.694" type="legs.chests.blc.m.start" GUID="shmIC/Y5p0+0oKyKxR2OLg=="/>
         <POI MapID="988" xpos="62.8268" ypos="33.5727" zpos="-286.881" type="legs.chests.blc.m.2" GUID="4S8zdiuzSEeBBiAqDPb+DQ=="/>
         <POI MapID="988" xpos="128.458" ypos="38.3755" zpos="-269.501" type="legs.chests.blc.m.springer" GUID="DuJDsNlIa02S2buwsRg+Iw=="/>
@@ -182,7 +182,7 @@
         <POI MapID="988" xpos="-436.954" ypos="81.5728" zpos="-168.572" type="legs.chests.blc.m.glider" GUID="1rlj9EfIyUiG8itfqrYB7w=="/>
         <POI MapID="988" xpos="-541.14" ypos="35.5749" zpos="-146.254" type="legs.chests.blc.m.springer" GUID="95p7n/ncGkGpOr5YZn3DFw=="/>
         <POI MapID="988" xpos="-560.45" ypos="32.3392" zpos="-195.867" type="legs.chests.blc.m.wp" GUID="2HPxptvo40uONfVL6lneKg==" copy="[&amp;BJcHAAA=]" copy-message=" Repair Station Waypoint"/>
-        <Trail type="legs.chests.blc.m.3" trailData="Data/LadyElyssa/Chests/LWS2/DT Chest Run 3.trl" color="99FF99" fadeNear="1600" fadeFar="2000"/>
+        <Trail type="legs.chests.blc.m.3" trailData="Data/Chests/LWS2/DT Chest Run 3.trl" color="99FF99" fadeNear="1600" fadeFar="2000"/>
         <POI MapID="988" xpos="-558.657" ypos="78.1842" zpos="-306.26" type="legs.chests.blc.m.3" GUID="wS3qeGehqEODdq/LnETabw=="/>
         <POI MapID="988" xpos="-482.357" ypos="86.7657" zpos="-402.09" type="legs.chests.blc.m.glider" GUID="Rl2mFFkuW02z5p8zwX785w=="/>
         <POI MapID="988" xpos="-478.984" ypos="55.3124" zpos="-410.254" type="legs.chests.blc.m.skyscale" GUID="cbdT7j7LKECum4lS3kdKLw=="/>
@@ -320,8 +320,8 @@
         <POI MapID="988" xpos="-215.041" ypos="76.6178" zpos="-560.752" type="legs.chests.blc.dig" GUID="BibiOoiAVkOxnIOVG2Jyyg=="/>
         
         <!-- LWS2 - The Silverwastes - Chest Run -->
-        <Trail type="legs.chests.lbc.sw" trailData="Data/LadyElyssa/Chests/LWS2/SW Chest Run.trl"/>
-        <Trail type="legs.chests.lbc.sw" trailData="Data/LadyElyssa/Chests/LWS2/SW Chest Run Foot.trl" texture="Data/LadyElyssa/Images/Trails/Footprints.png" animSpeed="0"/>
+        <Trail type="legs.chests.lbc.sw" trailData="Data/Chests/LWS2/SW Chest Run.trl"/>
+        <Trail type="legs.chests.lbc.sw" trailData="Data/Chests/LWS2/SW Chest Run Foot.trl" texture="Data/Images/Trails/Footprints.png" animSpeed="0"/>
         <POI MapID="1015" xpos="501.77" ypos="405.128" zpos="-277.361" type="legs.chests.lbc.dig" GUID="0/w37hHLZU6/FILzh0HCxg=="/>
         <POI MapID="1015" xpos="525.443" ypos="416.426" zpos="-356.126" type="legs.chests.lbc.dig" GUID="RGaNqr3OFUWMsiue2N1Wyw=="/>
         <POI MapID="1015" xpos="561.768" ypos="416.784" zpos="-389.493" type="legs.chests.lbc.dig" GUID="WGHfbvVUJUyU2hO4tmZa6g=="/>
@@ -447,7 +447,7 @@
         <POI MapID="1015" xpos="154.961" ypos="414.093" zpos="126.588" type="legs.chests.lbc.dig" GUID="tWlNTR8FkUySrDugwiAocg=="/>
         
         <!-- Heart of Thorns - Chest Run -->
-        <Trail type="legs.chests.ec.ab" trailData="Data/LadyElyssa/Chests/HoT/HoT - Auric Basin.trl"/>
+        <Trail type="legs.chests.ec.ab" trailData="Data/Chests/HoT/HoT - Auric Basin.trl"/>
         <POI MapID="1043" xpos="-368.676" ypos="475.122" zpos="657.174" type="legs.chests.ec.start" GUID="5NkLogNTO06kLvnJ5HIDWA=="/>
         <POI MapID="1043" xpos="-472.014" ypos="475.019" zpos="492.361" type="legs.chests.ec.chest" GUID="zR7JRxhSoUm1XwFq5MRrVw=="/>
         <POI MapID="1043" xpos="-174.061" ypos="324.565" zpos="293.088" type="legs.chests.ec.chest" GUID="qLT/0rAGqkCyhNGfRlqL4w=="/>
@@ -524,7 +524,7 @@
         <POI MapID="1043" xpos="-369.857" ypos="270.256" zpos="243.112" type="legs.chests.ec.13" GUID="wmjjMNnqU02YnW5BhwB5bw=="/>
         <POI MapID="1043" xpos="-604.226" ypos="236.887" zpos="12.1214" type="legs.chests.ec.wp" GUID="4rwJYN4lYkyQnxVej2BBvg==" copy="[&amp;BMYHAAA=]" copy-message="Forgotten City Waypoint"/>
         <POI MapID="1043" xpos="10.0548" ypos="72.1085" zpos="-25.0725" type="legs.chests.ec.14" GUID="huDriV+p6UCrKt4DC1RKpw=="/>
-        <Trail type="legs.chests.csc.td" trailData="Data/LadyElyssa/Chests/HoT/HoT - Tangled Depths.trl"/>
+        <Trail type="legs.chests.csc.td" trailData="Data/Chests/HoT/HoT - Tangled Depths.trl"/>
         <POI MapID="1045" xpos="-690.201" ypos="242.604" zpos="201.462" type="legs.chests.csc.start" GUID="GmFfuuSRVU+E4GSg/6KVjg=="/>
         <POI MapID="1045" xpos="-501.67" ypos="331.855" zpos="75.7867" type="legs.chests.csc.chest" GUID="wnLkuZjcHEiZyuuNT+TzKg=="/>
         <POI MapID="1045" xpos="-429.219" ypos="329.632" zpos="-22.3562" type="legs.chests.csc.chest" GUID="o+yYe9x2YUq7pYdvYbsamQ=="/>
@@ -605,7 +605,7 @@
         <POI MapID="1226" xpos="-597.136" ypos="233.264" zpos="-563.992" type="legs.chests.burglar.td" GUID="/UXGD3hhukm9t0hpnBiyNg=="/>
         <!-- Crystal Oasis -->
         <!-- Trade Contracts -->
-        <Trail type="legs.chests.contracts.crystal" trailData="Data/LadyElyssa/Chests/PoF/Crystal Oasis - Trade Contracts.trl" color="00FF00"/>
+        <Trail type="legs.chests.contracts.crystal" trailData="Data/Chests/PoF/Crystal Oasis - Trade Contracts.trl" color="00FF00"/>
         <POI MapID="1210" xpos="1010.84" ypos="93.8324" zpos="-235.192" type="legs.chests.contracts.crystal.lostforgotten" GUID="WFgHhHQkyEi2nfSqP/n7Ng=="/>
         <POI MapID="1210" xpos="1376.02" ypos="97.702" zpos="-267.086" type="legs.chests.contracts.crystal.branded" GUID="/K8vWqGtyU2S4RNpYfnWAw=="/>
         <POI MapID="1210" xpos="1463.5" ypos="163.198" zpos="-461.998" type="legs.chests.contracts.crystal.lostforgotten" GUID="67fuFqiN00mMV2oJzZpaMA=="/>
@@ -725,7 +725,7 @@
         
 
         <!-- Desert Highlands -->
-        <Trail type="legs.chests.contracts.desert" trailData="Data/LadyElyssa/Chests/PoF/Desert Highlands - Trade Contracts.trl" color="00FF00"/>
+        <Trail type="legs.chests.contracts.desert" trailData="Data/Chests/PoF/Desert Highlands - Trade Contracts.trl" color="00FF00"/>
         <POI MapID="1211" xpos="604.375" ypos="190.689" zpos="607.895" type="legs.chests.contracts.desert.hidden" GUID="4hx79tONdkur5N2fy1ebZg=="/>
         <POI MapID="1211" xpos="-719.11" ypos="173.262" zpos="-244.965" type="legs.chests.contracts.desert.hidden" GUID="N4aCtxc+HEm9UEZm6fBl2w=="/>
         <POI MapID="1211" xpos="-770.513" ypos="154.807" zpos="-361.025" type="legs.chests.contracts.desert.hidden" GUID="eUoTwLMo20KQK7g24PnN2g=="/>
@@ -845,8 +845,8 @@
 
         <!-- Elon Riverlands -->
 
-        <Trail type="legs.chests.contracts.elon" trailData="Data/LadyElyssa/Chests/PoF/Elon Riverlands - Trade Contracts.trl" color="00FF00"/>
-        <Trail type="legs.chests.contracts.elon" trailData="Data/LadyElyssa/Chests/PoF/ER - Hall of Ascension.trl" texture="Data/LadyElyssa/Images/Dashed Line.png" animSpeed="0.8" alpha="1" fadeNear="900" fadeFar="2000" color="FF7733"/>
+        <Trail type="legs.chests.contracts.elon" trailData="Data/Chests/PoF/Elon Riverlands - Trade Contracts.trl" color="00FF00"/>
+        <Trail type="legs.chests.contracts.elon" trailData="Data/Chests/PoF/ER - Hall of Ascension.trl" texture="Data/Images/Dashed Line.png" animSpeed="0.8" alpha="1" fadeNear="900" fadeFar="2000" color="FF7733"/>
         <POI MapID="1228" xpos="266.464" ypos="80.4754" zpos="749.029" type="legs.chests.contracts.mount.springer" GUID="GmGAli3C6kiGPM1xzLFnzQ=="/>
         <POI MapID="1228" xpos="903.66" ypos="108.071" zpos="758.691" type="legs.chests.contracts.mount.skimmer" GUID="Jc6uqrZ/P0C5w5DvzfQHWQ=="/>
         <POI MapID="1228" xpos="430.226" ypos="83.0455" zpos="733.703" type="legs.chests.contracts.elon.branded" GUID="jfta064wnke0LroIwm2yBw=="/>
@@ -956,7 +956,7 @@
         
         <!-- The Desolation -->
 
-        <Trail type="legs.chests.contracts.desolation" trailData="Data/LadyElyssa/Chests/PoF/The Desolation - Trade Contracts.trl" color="00FF00"/>
+        <Trail type="legs.chests.contracts.desolation" trailData="Data/Chests/PoF/The Desolation - Trade Contracts.trl" color="00FF00"/>
         <POI MapID="1226" xpos="320.957" ypos="66.3664" zpos="1211.15" type="legs.chests.contracts.desolation.lostforgotten" GUID="1mP0qSQt30ehcccWrokl6Q=="/>
         <POI MapID="1226" xpos="769.156" ypos="271.878" zpos="571.349" type="legs.chests.contracts.desolation.lostforgotten" GUID="skGMgWw2+0yaCBcTb3GXdg=="/>
         <POI MapID="1226" xpos="172.922" ypos="368.601" zpos="-252.11" type="legs.chests.contracts.desolation.lostforgotten" GUID="mKtoKQu810ql6SssNVSC2A=="/>
@@ -1086,7 +1086,7 @@
         <POI MapID="1226" xpos="-256.806" ypos="279.97" zpos="844.636" type="legs.chests.contracts.desolation.lostforgotten" GUID="wR1opdf9skmX5qJ/P88MoQ=="/>
         <POI MapID="1226" xpos="577.927" ypos="243.788" zpos="-198.254" type="legs.chests.contracts.desolation.lostforgotten" GUID="PorG20yjpEWYNIJ644TQjw=="/>
         <!-- Vabbi -->
-        <Trail type="legs.chests.contracts.vabbi" GUID="PK/Ui2sWP0uGlse06yg4VQ==" trailData="Data/LadyElyssa/Chests/PoF/Vabbi - Trade Contracts.trl" color="00FF00"/>
+        <Trail type="legs.chests.contracts.vabbi" GUID="PK/Ui2sWP0uGlse06yg4VQ==" trailData="Data/Chests/PoF/Vabbi - Trade Contracts.trl" color="00FF00"/>
         <POI MapID="1248" xpos="427.812" ypos="167.725" zpos="787.997" type="legs.chests.contracts.vabbi.branded" GUID="LlEH6Lb+T0mpcBNb5eynHA=="/>
         <POI MapID="1248" xpos="533.223" ypos="152.736" zpos="850.828" type="legs.chests.contracts.vabbi.branded" GUID="DhCXyBs3sk6JOqLPpAAkbg=="/>
         <POI MapID="1248" xpos="654.268" ypos="178.906" zpos="919.767" type="legs.chests.contracts.vabbi.branded" GUID="KQzErmoBW0u/w5puafOrQw=="/>
@@ -1118,12 +1118,12 @@
         <POI MapID="1248" xpos="1323.96" ypos="59.3065" zpos="-629.325" type="legs.chests.contracts.vabbi.twbp" GUID="FtXEAdcMLkG0LxgOHmymgg=="/>
         <POI MapID="1248" xpos="1422.8" ypos="149.973" zpos="-485.626" type="legs.chests.contracts.vabbi.twbp" GUID="8v/WAbEEvUyi6VTWcrhuzg=="/>
         <POI MapID="1248" xpos="1337.17" ypos="168.472" zpos="204.108" type="legs.chests.contracts.vabbi.branded" GUID="fdHO3RM+1kS/AE4CIF+hfg=="/>
-        <POI MapID="1248" xpos="1421.22" ypos="151.64" zpos="243.399" type="legs.chests.contracts.vabbi.twbp" GUID="G7imjXuTmUe7hY0/m1WKIw==" iconFile="Data/LadyElyssa/Images/Icons/twbp_r.png"/>
+        <POI MapID="1248" xpos="1421.22" ypos="151.64" zpos="243.399" type="legs.chests.contracts.vabbi.twbp" GUID="G7imjXuTmUe7hY0/m1WKIw==" iconFile="Data/Images/Icons/twbp_r.png"/>
         <POI MapID="1248" xpos="1283.67" ypos="118.32" zpos="472.969" type="legs.chests.contracts.vabbi.branded" GUID="z/X7rBUodUqMXmMX18LT2Q=="/>
-        <POI MapID="1248" xpos="1339.65" ypos="109.939" zpos="685.846" type="legs.chests.contracts.vabbi.branded" GUID="Zg5cZPIFpESbZwFPamwqig==" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_r.png"/>
+        <POI MapID="1248" xpos="1339.65" ypos="109.939" zpos="685.846" type="legs.chests.contracts.vabbi.branded" GUID="Zg5cZPIFpESbZwFPamwqig==" iconFile="Data/Images/Icons/Chest_White_r.png"/>
         <POI MapID="1248" xpos="910.934" ypos="127.817" zpos="423.697" type="legs.chests.contracts.vabbi.twbp" GUID="201Eg+gdP0qW8FZRGcvbpg=="/>
         <POI MapID="1248" xpos="892.981" ypos="125.624" zpos="439.408" type="legs.chests.contracts.vabbi.branded" GUID="crahdO+HEEygBtsJGaKwmQ=="/>
-        <POI MapID="1248" xpos="1300.03" ypos="206.131" zpos="844.703" type="legs.chests.contracts.vabbi.branded" GUID="dZe9+eFGKUGig0YlyphyqA==" iconFile="Data/LadyElyssa/Images/Icons/Chest_White_r.png"/>
+        <POI MapID="1248" xpos="1300.03" ypos="206.131" zpos="844.703" type="legs.chests.contracts.vabbi.branded" GUID="dZe9+eFGKUGig0YlyphyqA==" iconFile="Data/Images/Icons/Chest_White_r.png"/>
         <POI MapID="1248" xpos="947.664" ypos="5.90613" zpos="928.751" type="legs.chests.contracts.vabbi.twbp" GUID="5C8E6uOaH0KGmSEAJRx31g=="/>
         <POI MapID="1248" xpos="-8.62622" ypos="153.532" zpos="789.119" type="legs.chests.contracts.vabbi.branded" GUID="cSqAv8UnJUaMaYAJSNnC3A=="/>
         <POI MapID="1248" xpos="25.5429" ypos="148.819" zpos="874.73" type="legs.chests.contracts.vabbi.twbp" GUID="LAXB98FGgkqEYr0GYkqkIQ=="/>
@@ -1239,13 +1239,13 @@
 
         <!-- LWS4 / LIVING WORLD SEASON 5: The Icebrood Saga -->
         
-        <Trail type="legs.chests.gvc.number.1" trailData="Data/LadyElyssa/Chests/LWS5/Grothmar Valley - War Supplies 1.trl" color="FFCC66"/>
-        <Trail type="legs.chests.gvc.number.2" trailData="Data/LadyElyssa/Chests/LWS5/Grothmar Valley - War Supplies 2.trl" color="FFCC66"/>
-        <Trail type="legs.chests.gvc.number.3" trailData="Data/LadyElyssa/Chests/LWS5/Grothmar Valley - War Supplies 3.trl" color="FFCC66"/>
-        <Trail type="legs.chests.gvc.number.4" trailData="Data/LadyElyssa/Chests/LWS5/Grothmar Valley - War Supplies 4.trl" color="FFCC66"/>
-        <Trail type="legs.chests.gvc.number.5" trailData="Data/LadyElyssa/Chests/LWS5/Grothmar Valley - War Supplies 5.trl" color="FFCC66"/>
-        <Trail type="legs.chests.gvc.number.6" trailData="Data/LadyElyssa/Chests/LWS5/Grothmar Valley - War Supplies 6.trl" color="FFCC66"/>
-        <Trail type="legs.chests.gvc.number.7" trailData="Data/LadyElyssa/Chests/LWS5/Grothmar Valley - War Supplies 7.trl" color="FFCC66"/>
+        <Trail type="legs.chests.gvc.number.1" trailData="Data/Chests/LWS5/Grothmar Valley - War Supplies 1.trl" color="FFCC66"/>
+        <Trail type="legs.chests.gvc.number.2" trailData="Data/Chests/LWS5/Grothmar Valley - War Supplies 2.trl" color="FFCC66"/>
+        <Trail type="legs.chests.gvc.number.3" trailData="Data/Chests/LWS5/Grothmar Valley - War Supplies 3.trl" color="FFCC66"/>
+        <Trail type="legs.chests.gvc.number.4" trailData="Data/Chests/LWS5/Grothmar Valley - War Supplies 4.trl" color="FFCC66"/>
+        <Trail type="legs.chests.gvc.number.5" trailData="Data/Chests/LWS5/Grothmar Valley - War Supplies 5.trl" color="FFCC66"/>
+        <Trail type="legs.chests.gvc.number.6" trailData="Data/Chests/LWS5/Grothmar Valley - War Supplies 6.trl" color="FFCC66"/>
+        <Trail type="legs.chests.gvc.number.7" trailData="Data/Chests/LWS5/Grothmar Valley - War Supplies 7.trl" color="FFCC66"/>
         <POI MapID="1330" xpos="-9.68292" ypos="58.0257" zpos="244.046" type="legs.chests.gvc.wp" GUID="25BZCtPmNEmQnSNYyPksQA==" copy="[&amp;BBsMAAA=]" copy-message="Blood Keep Waypoint"/>
         <POI MapID="1330" xpos="-194.119" ypos="2.14368" zpos="-697.121" type="legs.chests.gvc.wp" GUID="CNu1cg94tUCZVxMx50J9eg==" copy="[&amp;BPgLAAA=]" copy-message="Wardowns Waypoint"/>
         <POI MapID="1330" xpos="454.461" ypos="62.599" zpos="-655.974" type="legs.chests.gvc.wp" GUID="hvgTKrfPgE2ZHse67N3p3A==" copy="[&amp;BPgLAAA=]" copy-message="Wardowns Waypoint"/>
@@ -1311,12 +1311,12 @@
         <!-- EoD - End of Dragons -->
         <!-- Magnificient Chest -->
 
-        <Trail type="legs.chests.mag.tew" trailData="Data/LadyElyssa/Chests/EoD/TEW - MC- Jade Runestone.trl"/>
+        <Trail type="legs.chests.mag.tew" trailData="Data/Chests/EoD/TEW - MC- Jade Runestone.trl"/>
 
         <!-- Grand Chest -->
 
-        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/EoD/TEW - GC - Jade Runestone 1.trl"/>
-        <Trail type="legs.chests.grand.tew" trailData="Data/LadyElyssa/Chests/EoD/TEW - GC - Jade Runestone 2.trl"/>
+        <Trail type="legs.chests.grand.tew" trailData="Data/Chests/EoD/TEW - GC - Jade Runestone 1.trl"/>
+        <Trail type="legs.chests.grand.tew" trailData="Data/Chests/EoD/TEW - GC - Jade Runestone 2.trl"/>
 
 
         <!-- SotO - Secrets of the Obscure-->
@@ -1350,15 +1350,15 @@
         <!-- Shrine Guardian Chests -->
         <!-- Skywatch Archipelago -->
         <POI MapID="1510" xpos="906.705" ypos="133.644" zpos="-364.712" type="legs.chests.shrine.start" GUID="7dTv7STCFka2Yn6tOWF1Sg=="/>
-        <Trail type="legs.chests.shrine.trail.1" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 1.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.2" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 2.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.3" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 3.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.4" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 4.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.5" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 5.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.6" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 6.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.7" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 7.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.8" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 8.trl" color="ffcc00"/>
-        <Trail type="legs.chests.shrine.trail.9" trailData="Data/LadyElyssa/Chests/SotO/Rise and Shrine 9.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.1" trailData="Data/Chests/SotO/Rise and Shrine 1.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.2" trailData="Data/Chests/SotO/Rise and Shrine 2.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.3" trailData="Data/Chests/SotO/Rise and Shrine 3.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.4" trailData="Data/Chests/SotO/Rise and Shrine 4.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.5" trailData="Data/Chests/SotO/Rise and Shrine 5.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.6" trailData="Data/Chests/SotO/Rise and Shrine 6.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.7" trailData="Data/Chests/SotO/Rise and Shrine 7.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.8" trailData="Data/Chests/SotO/Rise and Shrine 8.trl" color="ffcc00"/>
+        <Trail type="legs.chests.shrine.trail.9" trailData="Data/Chests/SotO/Rise and Shrine 9.trl" color="ffcc00"/>
         <POI MapID="1510" xpos="1044.75" ypos="143.792" zpos="-445.73" type="legs.chests.shrine.chest" GUID="qboO0HCiqkGEzXpTCaSO2w=="/>
         <POI MapID="1510" xpos="1006.65" ypos="156.006" zpos="-521.249" type="legs.chests.shrine.chest" GUID="3ae/KyWXokyf4C1NJ5mEnQ=="/>
         <POI MapID="1510" xpos="920.234" ypos="156.001" zpos="-531.9" type="legs.chests.shrine.chest" GUID="xkRakF5eZ0y8YfpFvuZWaQ=="/>
@@ -1413,15 +1413,15 @@
         <POI MapID="1510" xpos="-238.572" ypos="276.449" zpos="-264.629" type="legs.chests.shrine.wp" GUID="kdYgHziiy0eFtkdOigVKDg==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
         <!-- Amnytas -->
         <!-- Fantastic Flying Foxes -->
-        <Trail type="legs.chests.shrine.trail.8" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 1.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.5" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 2.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.6" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 3.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.1" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 4.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.2" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 5.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.3" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 6.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.4" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 7.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.9" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 8.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.7" trailData="Data/LadyElyssa/Chests/SotO/Fantastic Flying Foxes 9.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.8" trailData="Data/Chests/SotO/Fantastic Flying Foxes 1.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.5" trailData="Data/Chests/SotO/Fantastic Flying Foxes 2.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.6" trailData="Data/Chests/SotO/Fantastic Flying Foxes 3.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.1" trailData="Data/Chests/SotO/Fantastic Flying Foxes 4.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.2" trailData="Data/Chests/SotO/Fantastic Flying Foxes 5.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.3" trailData="Data/Chests/SotO/Fantastic Flying Foxes 6.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.4" trailData="Data/Chests/SotO/Fantastic Flying Foxes 7.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.9" trailData="Data/Chests/SotO/Fantastic Flying Foxes 8.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.7" trailData="Data/Chests/SotO/Fantastic Flying Foxes 9.trl" color="e6b800"/>
         <POI MapID="1517" xpos="110.617" ypos="458.716" zpos="326.15" type="legs.chests.shrine.chest" GUID="gqYWgQNQxUmni4EmKiqNOw=="/>
         <POI MapID="1517" xpos="150.608" ypos="439.536" zpos="145.113" type="legs.chests.shrine.chest" GUID="VC39Q37t7U6y4yBjtJfKdA=="/>
         <POI MapID="1517" xpos="-169.564" ypos="513.375" zpos="206.244" type="legs.chests.shrine.chest" GUID="ZRpn/1s6nESl14O4k0yzZw=="/>
@@ -1469,10 +1469,10 @@
         <!-- Inner Nayos -->
         <!-- No Chest Unopened -->
         <POI MapID="1526" xpos="682.829" ypos="215.565" zpos="-444.164" type="legs.chests.shrine.start" GUID="JnuUwRzK00uUQ7hQJXwtMA=="/>
-        <Trail type="legs.chests.shrine.trail.1" trailData="Data/LadyElyssa/Chests/SotO/No Chest Unopened 1.trl" color="e6b800"/>
-        <Trail type="legs.chests.shrine.trail.2" trailData="Data/LadyElyssa/Chests/SotO/No Chest Unopened 2.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.1" trailData="Data/Chests/SotO/No Chest Unopened 1.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine.trail.2" trailData="Data/Chests/SotO/No Chest Unopened 2.trl" color="e6b800"/>
         <POI MapID="1526" xpos="691.036" ypos="215.6" zpos="-435.967" type="legs.chests.shrine.trail.1" GUID="MbMxVqPuekOVSIgTguCUjw=="/>
-        <POI MapID="1526" xpos="695.372" ypos="215.188" zpos="-423.857" type="legs.chests.shrine.trail.2" GUID="fOtHyqN+ckG6ZKDKGICcaQ==" iconFile="Data/LadyElyssa/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="1526" xpos="695.372" ypos="215.188" zpos="-423.857" type="legs.chests.shrine.trail.2" GUID="fOtHyqN+ckG6ZKDKGICcaQ==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
         <POI MapID="1526" xpos="437.207" ypos="280.808" zpos="407.195" type="legs.chests.shrine.chest" GUID="FycC64JuO0ifi14MDwY+AQ=="/>
         <POI MapID="1526" xpos="556.444" ypos="228.832" zpos="144.205" type="legs.chests.shrine.chest" GUID="JVkbq/Q2MkODz6ftnLa5Vw=="/>
         <POI MapID="1526" xpos="978.918" ypos="174.618" zpos="170.392" type="legs.chests.shrine.chest" GUID="33GeXESXGEyqqmeLznFMMg=="/>
@@ -1486,7 +1486,7 @@
         <POI MapID="1526" xpos="978.795" ypos="174.511" zpos="170.818" type="legs.chests.shrine.wp" GUID="MVp0eLzrZkCpr/syIgSbAA==" copy="[&amp;BHYOAAA=]" copy-message="Forward Bivouac Waypoint"/>
         <!-- Shrine Finder -->
         <POI MapID="1526" xpos="303.9438" ypos="186.2931" zpos="156.9433" type="legs.chests.shrine.trail.3" GUID="ut6sL0WkbECWy+fg6X0vPQ=="/>
-        <Trail type="legs.chests.shrine" trailData="Data/LadyElyssa/Chests/SotO/Shrine Finder.trl" color="e6b800"/>
+        <Trail type="legs.chests.shrine" trailData="Data/Chests/SotO/Shrine Finder.trl" color="e6b800"/>
         <POI MapID="1526" xpos="151.727" ypos="283.74" zpos="359.239" type="legs.chests.shrine.chest" GUID="po3Nvoom202mY4nyW+ggMQ=="/>
         <POI MapID="1526" xpos="116.154" ypos="309.642" zpos="474.654" type="legs.chests.shrine.chest" GUID="OEymdBxAFUW0tqDhX+YVkQ=="/>
         <POI MapID="1526" xpos="-311.81" ypos="279.674" zpos="292.716" type="legs.chests.shrine.chest" GUID="O9hizc8kfEi7Fj6MSXC1AA=="/>
@@ -1531,11 +1531,11 @@
         https://wiki.guildwars2.com/wiki/Janthir_(achievements)#achievement8191
         https://wiki.guildwars2.com/wiki/Detected_Treasure 
         -->
-        <Trail type="legs.chests.kodan.ls" trailData="Data/LadyElyssa/Chests/JW/LS Kodan Cache Warclaw.trl" texture="Data/LadyElyssa/Images/Trails/Warclaw Prints.png"/>
-        <Trail type="legs.chests.kodan.ls" trailData="Data/LadyElyssa/Chests/JW/LS Kodan Cache Beehives.trl" texture="Data/LadyElyssa/Images/Trails/Beehives.png"/>
-        <Trail type="legs.chests.kodan.ls" trailData="Data/LadyElyssa/Chests/JW/LS Kodan Cache 1.trl"/>
-        <Trail type="legs.chests.kodan.ls" trailData="Data/LadyElyssa/Chests/JW/LS Kodan Cache 2 Alt.trl"/>
-        <Trail type="legs.chests.kodan.ls" trailData="Data/LadyElyssa/Chests/JW/LS Kodan Cache 2.trl"/>
+        <Trail type="legs.chests.kodan.ls" trailData="Data/Chests/JW/LS Kodan Cache Warclaw.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
+        <Trail type="legs.chests.kodan.ls" trailData="Data/Chests/JW/LS Kodan Cache Beehives.trl" texture="Data/Images/Trails/Beehives.png"/>
+        <Trail type="legs.chests.kodan.ls" trailData="Data/Chests/JW/LS Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.kodan.ls" trailData="Data/Chests/JW/LS Kodan Cache 2 Alt.trl"/>
+        <Trail type="legs.chests.kodan.ls" trailData="Data/Chests/JW/LS Kodan Cache 2.trl"/>
         <POI MapID="1550" xpos="437.7385" ypos="65.56487" zpos="201.1282" type="legs.chests.kodan.wp" GUID="VuN9WXSv9k2dQf/ihMKLlQ==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="455.48" ypos="400.252" zpos="-633.95" type="legs.chests.kodan.dig" GUID="56Uy2D17Ck2m3GDAgV8DJg=="/>
         <POI MapID="1550" xpos="641.181" ypos="376.857" zpos="-533.914" type="legs.chests.kodan.dig" GUID="udnd2A5yHkuemcvWfI2pQg=="/>
@@ -1738,11 +1738,11 @@
         <POI MapID="1550" xpos="-51.3137" ypos="94.4144" zpos="245.913" type="legs.chests.kodan.dig" GUID="rfyRTZ5TjUG9TTMn6xC6uw=="/>
         <POI MapID="1550" xpos="-9.437" ypos="5.65592" zpos="231.935" type="legs.chests.kodan.dig" GUID="1PnpnuOVpUm167plb2e8ZA=="/>
 
-        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 1.trl"/>
-        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 2.trl"/>
-        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 3.trl"/>
-        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 4.trl"/>
-        <Trail type="legs.chests.major.ls" trailData="Data/LadyElyssa/Chests/JW/LS Major Kodan Cache 5.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/Chests/JW/LS Major Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/Chests/JW/LS Major Kodan Cache 2.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/Chests/JW/LS Major Kodan Cache 3.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/Chests/JW/LS Major Kodan Cache 4.trl"/>
+        <Trail type="legs.chests.major.ls" trailData="Data/Chests/JW/LS Major Kodan Cache 5.trl"/>
         <POI MapID="1550" xpos="548.948" ypos="423.069" zpos="-574.4" type="legs.chests.major.start" GUID="Ke1mKsrQhU63HuQWuQVcgw=="/>
         <POI MapID="1550" xpos="273.475" ypos="95.9851" zpos="405.086" type="legs.chests.major.wp" GUID="l+hQhfzbw0+AxUFMnxSKAg==" copy="[&amp;BN8OAAA=]" copy-message="Harvest Shore Waypoint"/>
         <POI MapID="1550" xpos="572.251" ypos="5.32549" zpos="490.872" type="legs.chests.major.wp" GUID="orC4/uaqWEeU4QIUgtlQoQ==" copy="[&amp;BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
@@ -1838,17 +1838,17 @@
         
         
         <!-- Janthir Syntri -->
-        <Trail type="legs.chests.kodan.js" trailData="Data/LadyElyssa/Chests/JW/JS Kodan Cache Beehives.trl" texture="Data/LadyElyssa/Images/Trails/Beehives.png"/>
+        <Trail type="legs.chests.kodan.js" trailData="Data/Chests/JW/JS Kodan Cache Beehives.trl" texture="Data/Images/Trails/Beehives.png"/>
         <POI MapID="1554" xpos="606.777" ypos="1.88059" zpos="-611.107" type="legs.chests.kodan.start" GUID="iUxe793FoU6bXG9lzh71PA=="/>
-        <Trail type="legs.chests.kodan.js" trailData="Data/LadyElyssa/Chests/JW/JS Kodan Cache Warclaw.trl" texture="Data/LadyElyssa/Images/Trails/Warclaw Prints.png"/>
-        <Trail type="legs.chests.kodan.js" trailData="Data/LadyElyssa/Chests/JW/JS Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.kodan.js" trailData="Data/Chests/JW/JS Kodan Cache Warclaw.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
+        <Trail type="legs.chests.kodan.js" trailData="Data/Chests/JW/JS Kodan Cache 1.trl"/>
         <POI MapID="1554" xpos="-763.014" ypos="10.427" zpos="-686.021" type="legs.chests.kodan.wp" GUID="AI2RMMP0pUyFkJsMfVhUeA==" copy="[&amp;BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
-        <Trail type="legs.chests.kodan.js" trailData="Data/LadyElyssa/Chests/JW/JS Kodan Cache 2.trl"/>
+        <Trail type="legs.chests.kodan.js" trailData="Data/Chests/JW/JS Kodan Cache 2.trl"/>
         <POI MapID="1554" xpos="-441.95" ypos="49.507" zpos="-61.4623" type="legs.chests.kodan.wp" GUID="21zqiVH10EKQ3MpwVBQ8yQ==" copy="[&amp;BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
         <POI MapID="1554" xpos="604.56" ypos="1.16149" zpos="-618.394" type="legs.chests.kodan.path.1" GUID="aMguBfuNPEq+z6rvDW+Rgg=="/>
         <POI MapID="1554" xpos="-358.066" ypos="83.5985" zpos="55.459" type="legs.chests.kodan.path.2" GUID="R10+pKfqR0un5JePiHAiuA=="/>
         <POI MapID="1554" xpos="-361.109" ypos="83.4989" zpos="61.0151" type="legs.chests.kodan.path.3" GUID="stRPE1ojUE6qBCQe28ZeLw=="/>
-        <Trail type="legs.chests.kodan.js" trailData="Data/LadyElyssa/Chests/JW/JS Kodan Cache 3.trl"/>
+        <Trail type="legs.chests.kodan.js" trailData="Data/Chests/JW/JS Kodan Cache 3.trl"/>
         <POI MapID="1554" xpos="602.787" ypos="1.25919" zpos="-614.479" type="legs.chests.kodan.dig" GUID="AqbQ4VmL9U6MyhXW3DeEsg=="/>
         <POI MapID="1554" xpos="507.561" ypos="0.367694" zpos="-580.599" type="legs.chests.kodan.dig" GUID="GM2OXiLHa0SJz5VgeUTGiw=="/>
         <POI MapID="1554" xpos="439.093" ypos="1.10122" zpos="-683.247" type="legs.chests.kodan.dig" GUID="SZNnWIIZmk2UNzDHUHT32Q=="/>
@@ -2018,10 +2018,10 @@
         <POI MapID="1554" xpos="500.377" ypos="14.758" zpos="184.128" type="legs.chests.kodan.dig" GUID="6oOY1DQ9WEiP3zwKChwTIw=="/>
         <POI MapID="1554" xpos="196.818" ypos="20.9969" zpos="-585.859" type="legs.chests.kodan.dig" GUID="oS3Lblyl206FM8mmv8SEBA=="/>
 
-        <Trail type="legs.chests.major.js" trailData="Data/LadyElyssa/Chests/JW/JS Major Kodan Cache 1.trl"/>
-        <Trail type="legs.chests.major.js" trailData="Data/LadyElyssa/Chests/JW/JS Major Kodan Cache 2.trl"/>
-        <Trail type="legs.chests.major.js" trailData="Data/LadyElyssa/Chests/JW/JS Major Kodan Cache 3.trl"/>
-        <Trail type="legs.chests.major.js" trailData="Data/LadyElyssa/Chests/JW/JS Major Kodan Cache 4.trl"/>
+        <Trail type="legs.chests.major.js" trailData="Data/Chests/JW/JS Major Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.major.js" trailData="Data/Chests/JW/JS Major Kodan Cache 2.trl"/>
+        <Trail type="legs.chests.major.js" trailData="Data/Chests/JW/JS Major Kodan Cache 3.trl"/>
+        <Trail type="legs.chests.major.js" trailData="Data/Chests/JW/JS Major Kodan Cache 4.trl"/>
         <POI MapID="1554" xpos="598.187" ypos="1.18836" zpos="-630.35" type="legs.chests.major.start" GUID="o0OWVurtxUiPkuhYFrIpEQ=="/>
         <POI MapID="1554" xpos="586.095" ypos="76.9366" zpos="-807.388" type="legs.chests.major.wp" GUID="3zrXb+xDiECD7t6BqPE7wQ==" copy="[&amp;BCoPAAA=]" copy-message="Stricken Plains Waypoint"/>
         <POI MapID="1554" xpos="-127.878" ypos="81.1964" zpos="146.659" type="legs.chests.major.wp" GUID="dyq0t/VufEKZYck3mN4Ipg==" copy="[&amp;BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
@@ -2090,8 +2090,8 @@
         <POI MapID="1554" xpos="493.153" ypos="3.38474" zpos="325.376" GUID="4rtvpbYWZ0+GnOqbXxS4lQ==" type="legs.chests.major.cache"/>
 
         <!-- MISTBURNED BARRENS -->
-        <Trail type="legs.chests.kodan.mb" trailData="Data/LadyElyssa/Chests/JW/MB Kodan Cache Beehives.trl" texture="Data/LadyElyssa/Images/Trails/Beehives.png"/>
-        <Trail type="legs.chests.kodan.mb" trailData="Data/LadyElyssa/Chests/JW/MB Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.kodan.mb" trailData="Data/Chests/JW/MB Kodan Cache Beehives.trl" texture="Data/Images/Trails/Beehives.png"/>
+        <Trail type="legs.chests.kodan.mb" trailData="Data/Chests/JW/MB Kodan Cache 1.trl"/>
         <POI MapID="1575" xpos="-1028.96" ypos="93.8764" zpos="29.595" type="legs.chests.kodan.start" GUID="fJkdZT9kU0m/xXKO2tCfWw=="/>
         <POI MapID="1575" xpos="-960.28" ypos="70.3348" zpos="-147.751" type="legs.chests.kodan.dig" GUID="AasKpww8tEql2UnRjTB9Eg=="/>
         <POI MapID="1575" xpos="-1038.47" ypos="129.328" zpos="-228.608" type="legs.chests.kodan.dig" GUID="Iwea4wKD40yZSwX/2wxxWA=="/>
@@ -2216,7 +2216,7 @@
         <POI MapID="1575" xpos="-333.382" ypos="80.401" zpos="224.903" type="legs.chests.kodan.dig" GUID="ZhZdWhVkf0aOtuvFN19w4g=="/>
         <POI MapID="1575" xpos="-175.338" ypos="85.5453" zpos="-101.035" type="legs.chests.kodan.dig" GUID="LmT8gBj66U+YIqO5Frhvog=="/>
         <!-- Submitted by Tanetris - https://wiki.guildwars2.com/wiki/User:Tanetris -->
-        <Trail type="legs.chests.major.mb" trailData="Data/LadyElyssa/Chests/JW/MB Major Kodan Cache 1.trl"/>
+        <Trail type="legs.chests.major.mb" trailData="Data/Chests/JW/MB Major Kodan Cache 1.trl"/>
         <POI MapID="1575" xpos="-521.252" ypos="230.656" zpos="16.4582" type="legs.chests.major.cache" GUID="A6/6c1UI00q9coq9vkdkvQ=="/>
         <POI MapID="1575" xpos="-403.122" ypos="216.912" zpos="36.3175" type="legs.chests.major.cache" GUID="LedZjEJcb0esZdqcXgPXYA=="/>
         <POI MapID="1575" xpos="-303.625" ypos="83.7651" zpos="40.3312" type="legs.chests.major.cache" GUID="EZf6cBRyCEeCtSYjOBDzGg=="/>
@@ -2281,7 +2281,7 @@
         <!-- VOE -->
         
         <!-- Shipwreck Strand -->
-        <Trail type="legs.chests.aether.ss" trailData="Data/LadyElyssa/Chests/VoE/Aetherlocation Shipwreck Strand.trl" inGameVisibility="1"/>
+        <Trail type="legs.chests.aether.ss" trailData="Data/Chests/VoE/Aetherlocation Shipwreck Strand.trl" inGameVisibility="1"/>
         <POI MapID="1595" xpos="556.68" ypos="-24.6999" zpos="847.633" type="legs.chests.aether.ss" GUID="a9ygg7Y1oUOsKZEnpGIyCg=="/>
         <POI MapID="1595" xpos="280.085" ypos="-15.8062" zpos="809.249" type="legs.chests.aether.ss" GUID="HKjCpZwCtUqIiwbubYSHpQ=="/>
         <POI MapID="1595" xpos="-241.64" ypos="-2.81722" zpos="498.527" type="legs.chests.aether.ss" GUID="tCiTUb5okEaPK3Ijxys6bA=="/>
@@ -2494,9 +2494,9 @@
         
         <!-- Fast Large -->
 
-        <Trail type="legs.chests.magic.ss.fl" trailData="Data/LadyElyssa/Chests/VoE/SS/Fast Large 1.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.ss.fl" trailData="Data/Chests/VoE/SS/Fast Large 1.trl" color="D1AE00"/>
         <POI MapID="1595" xpos="209.763" ypos="0.863924" zpos="-472.072" type="legs.chests.magic.ss.fl.start" GUID="7pSPB26R6UiG8AyCM3nAHg=="/>
-        <POI MapID="1595" xpos="656.632" ypos="31.5431" zpos="-615.889" type="legs.chests.magic.ss.fl" GUID="2zWnBPeG4kizF7OSBLONzw==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathan Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+        <POI MapID="1595" xpos="656.632" ypos="31.5431" zpos="-615.889" type="legs.chests.magic.ss.fl" GUID="2zWnBPeG4kizF7OSBLONzw==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathan Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         <POI MapID="1595" xpos="-325.598" ypos="76.1861" zpos="196.652" type="legs.chests.magic.ss.fl.skyscale" GUID="UxjUNGfatUCgVxhgLPe8HQ=="/>
         <POI MapID="1595" xpos="-563.425" ypos="148.009" zpos="27.324" type="legs.chests.magic.ss.fl.warclaw" GUID="vArzK4qYI0eG5Bq3USlNfw=="/>
         <POI MapID="1595" xpos="-87.8637" ypos="33.3526" zpos="-79.3288" type="legs.chests.magic.ss.fl.raptor" GUID="rml9QQOuJ06yNEtF1tPIZA=="/>
@@ -2522,11 +2522,11 @@
     
         <!-- Fast Medium -->
 
-        <Trail type="legs.chests.magic.ss.fm" trailData="Data/LadyElyssa/Chests/VoE/SS/Fast Medium 1 Alt.trl" color="56E000"/>
-        <Trail type="legs.chests.magic.ss.fm" trailData="Data/LadyElyssa/Chests/VoE/SS/Fast Medium 1.trl" color="56E000"/>
-        <Trail type="legs.chests.magic.ss.fm" trailData="Data/LadyElyssa/Chests/VoE/SS/Fast Medium 2.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.ss.fm" trailData="Data/Chests/VoE/SS/Fast Medium 1 Alt.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.ss.fm" trailData="Data/Chests/VoE/SS/Fast Medium 1.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.ss.fm" trailData="Data/Chests/VoE/SS/Fast Medium 2.trl" color="56E000"/>
         <POI MapID="1595" xpos="209.763" ypos="0.863924" zpos="-472.072" type="legs.chests.magic.ss.fm.start" GUID="KHxf4LM8W06xMEWgLLeEnw=="/>
-        <POI MapID="1595" xpos="656.632" ypos="31.5431" zpos="-615.889" type="legs.chests.magic.ss.fm" GUID="0qsEHaficECFlHwsPNeBsw==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathan Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+        <POI MapID="1595" xpos="656.632" ypos="31.5431" zpos="-615.889" type="legs.chests.magic.ss.fm" GUID="0qsEHaficECFlHwsPNeBsw==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathan Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         <POI MapID="1595" xpos="-472.2794" ypos="82.21368" zpos="671.9428" type="legs.chests.magic.ss.fm.bov" GUID="aNCtYGS2Ok2N4scCkMT7gA=="/>
         <POI MapID="1595" xpos="-563.4254" ypos="148.0092" zpos="27.32401" type="legs.chests.magic.ss.fm.warclaw" GUID="QzYgdpWRMkyY2oxM/HjVZg=="/>
         <POI MapID="1595" xpos="-87.8637" ypos="33.35255" zpos="-79.32885" type="legs.chests.magic.ss.fm.raptor" GUID="qMLU9esbDEeemRa8XUCH6w=="/>
@@ -2639,9 +2639,9 @@
 
         <!-- Fast Large -->
 
-        <Trail type="legs.chests.magic.sw.fl" trailData="Data/LadyElyssa/Chests/VoE/SW/Fast Large Start.trl" color="D1AE00" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.chests.magic.sw.fl" trailData="Data/LadyElyssa/Chests/VoE/SW/Fast Large 1 Alt.trl" color="D1AE00"/>
-        <Trail type="legs.chests.magic.sw.fl" trailData="Data/LadyElyssa/Chests/VoE/SW/Fast Large 1.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.sw.fl" trailData="Data/Chests/VoE/SW/Fast Large Start.trl" color="D1AE00" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.chests.magic.sw.fl" trailData="Data/Chests/VoE/SW/Fast Large 1 Alt.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.sw.fl" trailData="Data/Chests/VoE/SW/Fast Large 1.trl" color="D1AE00"/>
         
         <POI MapID="1593" xpos="-86.2196" ypos="64.5917" zpos="-654.67" type="legs.chests.magic.sw.fl.start" GUID="HsYLCAX3iE+FfwZtBmxiqA=="/>
         <POI MapID="1593" xpos="-385.4652" ypos="121.039" zpos="-37.71912" type="legs.chests.magic.sw.fl.jbgb" GUID="/EagCYcCpU6SrqL5PJu8Bw=="/>
@@ -2649,31 +2649,31 @@
         <POI MapID="1593" xpos="-417.2221" ypos="149.0289" zpos="388.1295" type="legs.chests.magic.sw.fl.griffon" GUID="al5yxMiwlUWAZxILUrm24Q=="/>
         <POI MapID="1593" xpos="-331.2373" ypos="95.40723" zpos="242.3671" type="legs.chests.magic.sw.fl.skyscale" GUID="LkcV3cdO8kyBE5tPTAv5AQ=="/>
         <POI MapID="1593" xpos="-405.8086" ypos="117.1943" zpos="244.0192" type="legs.chests.magic.sw.fl.griffon" GUID="crJVO2Vkt0S+aX84AJHg5A=="/>
-        <POI MapID="1593" xpos="-238.503" ypos="59.3779" zpos="17.1395" type="legs.chests.magic.sw.fl.skyscale" GUID="BKVrm2ThpUWLlO2JeNJV9A==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-        <POI MapID="1593" xpos="-773.6" ypos="70.2067" zpos="-99.696" type="legs.chests.magic.sw.fl.beetle" GUID="UNI/G1QFvUaDstnIGAlYew==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
-        <POI MapID="1593" xpos="-712.387" ypos="66.6253" zpos="-319.543" type="legs.chests.magic.sw.fl.beetle" GUID="zpnBKFBFykuQiJ1AB4r/vw==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
-        <POI MapID="1593" xpos="-712.387" ypos="68.6253" zpos="-319.543" type="legs.chests.magic.sw.fl.warclaw" GUID="CcH4eFa5uUys8692GfYEeA==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Warclaw.png"/>
-        <POI MapID="1593" xpos="-75.0214" ypos="25.1769" zpos="-481.709" type="legs.chests.magic.sw.fl.skimmer" GUID="iuyaIBa7Ek6XYvi5/ZI8zQ==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
-        <POI MapID="1593" xpos="-71.3109" ypos="25.6769" zpos="-478.431" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="6IXhua5qZUCVIjiIPnmlzg==" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
-        <POI MapID="1593" xpos="130.293" ypos="69.6318" zpos="-112.909" type="legs.chests.magic.sw.fl.skimmer" GUID="B9Q5EE9DEEOnq+cpYk6LyA==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
-        <POI MapID="1593" xpos="127.106" ypos="69.9474" zpos="-111.991" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="iV23sNd7TE2rrTMkxjChdw==" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
-        <POI MapID="1593" xpos="-237.701" ypos="59.3523" zpos="15.1964" type="legs.chests.magic.sw.fl.skyscale" GUID="JV4lWK9JbUW+54WEXLLUSA==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-        <POI MapID="1593" xpos="-391.993" ypos="135.39" zpos="-20.4889" type="legs.chests.magic.sw.fl.skimmer" GUID="mlT1f5HF/EKoGJT1QxdgFA==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
-        <POI MapID="1593" xpos="-391.922" ypos="135.916" zpos="-17.5027" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="Z6rSaikuQE6Qn5a4tB7etA==" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
-        <POI MapID="1593" xpos="-437.483" ypos="148.991" zpos="397.457" type="legs.chests.magic.sw.fl.skyscale" GUID="5yPK/fGlyUeNqRPoR1LiYA==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-        <POI MapID="1593" xpos="-469.198" ypos="172.217" zpos="338.582" type="legs.chests.magic.sw.fl.griffon" GUID="/k7cH08DJ0mGqyRWDkSu0g==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
-        <POI MapID="1593" xpos="-778.377" ypos="91.5989" zpos="167.41" type="legs.chests.magic.sw.fl.skimmer" GUID="sT5VkBbw0Eil8j7IT5+qVg==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
-        <POI MapID="1593" xpos="-776.978" ypos="91.3151" zpos="165.745" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="nHV5IR1XLUaFqyVRS+tQTQ==" iconFile="Data/LadyElyssa/Images/Mounts/Slipstream Boost.png"/>
-        <POI MapID="1593" xpos="-721.764" ypos="115.044" zpos="16.8284" type="legs.chests.magic.sw.fl.griffon" GUID="+xHcmmuVfEKg4jAyRFUtMA==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Griffon.png"/>
-        <POI MapID="1593" xpos="128.725" ypos="25.3972" zpos="-309.451" type="legs.chests.magic.sw.fl.skyscale" GUID="kwNzydHgJ0i/ApoKIilIxw==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-        <POI MapID="1593" xpos="41.5227" ypos="55.0803" zpos="448.071" type="legs.chests.magic.sw.fl.skyscale" GUID="o+MMislFG02Wh1Ol+8l/7g==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-        <POI MapID="1593" xpos="-76.4225" ypos="64.4075" zpos="-637.473" type="legs.chests.magic.sw.fl.warclaw" GUID="W20EcTE8yEKOJLU80CxpVg==" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Warclaw.png"/>
+        <POI MapID="1593" xpos="-238.503" ypos="59.3779" zpos="17.1395" type="legs.chests.magic.sw.fl.skyscale" GUID="BKVrm2ThpUWLlO2JeNJV9A==" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+        <POI MapID="1593" xpos="-773.6" ypos="70.2067" zpos="-99.696" type="legs.chests.magic.sw.fl.beetle" GUID="UNI/G1QFvUaDstnIGAlYew==" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
+        <POI MapID="1593" xpos="-712.387" ypos="66.6253" zpos="-319.543" type="legs.chests.magic.sw.fl.beetle" GUID="zpnBKFBFykuQiJ1AB4r/vw==" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
+        <POI MapID="1593" xpos="-712.387" ypos="68.6253" zpos="-319.543" type="legs.chests.magic.sw.fl.warclaw" GUID="CcH4eFa5uUys8692GfYEeA==" iconFile="Data/Images/Mounts/Mount_Warclaw.png"/>
+        <POI MapID="1593" xpos="-75.0214" ypos="25.1769" zpos="-481.709" type="legs.chests.magic.sw.fl.skimmer" GUID="iuyaIBa7Ek6XYvi5/ZI8zQ==" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+        <POI MapID="1593" xpos="-71.3109" ypos="25.6769" zpos="-478.431" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="6IXhua5qZUCVIjiIPnmlzg==" iconFile="Data/Images/Mounts/Slipstream Boost.png"/>
+        <POI MapID="1593" xpos="130.293" ypos="69.6318" zpos="-112.909" type="legs.chests.magic.sw.fl.skimmer" GUID="B9Q5EE9DEEOnq+cpYk6LyA==" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+        <POI MapID="1593" xpos="127.106" ypos="69.9474" zpos="-111.991" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="iV23sNd7TE2rrTMkxjChdw==" iconFile="Data/Images/Mounts/Slipstream Boost.png"/>
+        <POI MapID="1593" xpos="-237.701" ypos="59.3523" zpos="15.1964" type="legs.chests.magic.sw.fl.skyscale" GUID="JV4lWK9JbUW+54WEXLLUSA==" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+        <POI MapID="1593" xpos="-391.993" ypos="135.39" zpos="-20.4889" type="legs.chests.magic.sw.fl.skimmer" GUID="mlT1f5HF/EKoGJT1QxdgFA==" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+        <POI MapID="1593" xpos="-391.922" ypos="135.916" zpos="-17.5027" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="Z6rSaikuQE6Qn5a4tB7etA==" iconFile="Data/Images/Mounts/Slipstream Boost.png"/>
+        <POI MapID="1593" xpos="-437.483" ypos="148.991" zpos="397.457" type="legs.chests.magic.sw.fl.skyscale" GUID="5yPK/fGlyUeNqRPoR1LiYA==" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+        <POI MapID="1593" xpos="-469.198" ypos="172.217" zpos="338.582" type="legs.chests.magic.sw.fl.griffon" GUID="/k7cH08DJ0mGqyRWDkSu0g==" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+        <POI MapID="1593" xpos="-778.377" ypos="91.5989" zpos="167.41" type="legs.chests.magic.sw.fl.skimmer" GUID="sT5VkBbw0Eil8j7IT5+qVg==" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+        <POI MapID="1593" xpos="-776.978" ypos="91.3151" zpos="165.745" type="legs.chests.magic.sw.fl.skimmer.sb" GUID="nHV5IR1XLUaFqyVRS+tQTQ==" iconFile="Data/Images/Mounts/Slipstream Boost.png"/>
+        <POI MapID="1593" xpos="-721.764" ypos="115.044" zpos="16.8284" type="legs.chests.magic.sw.fl.griffon" GUID="+xHcmmuVfEKg4jAyRFUtMA==" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+        <POI MapID="1593" xpos="128.725" ypos="25.3972" zpos="-309.451" type="legs.chests.magic.sw.fl.skyscale" GUID="kwNzydHgJ0i/ApoKIilIxw==" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+        <POI MapID="1593" xpos="41.5227" ypos="55.0803" zpos="448.071" type="legs.chests.magic.sw.fl.skyscale" GUID="o+MMislFG02Wh1Ol+8l/7g==" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+        <POI MapID="1593" xpos="-76.4225" ypos="64.4075" zpos="-637.473" type="legs.chests.magic.sw.fl.warclaw" GUID="W20EcTE8yEKOJLU80CxpVg==" iconFile="Data/Images/Mounts/Mount_Warclaw.png"/>
 
         <!-- Fast Medium -->
 
-        <Trail type="legs.chests.magic.sw.fm" trailData="Data/LadyElyssa/Chests/VoE/SW/Fast Medium 1 Alt 1.trl" color="56E000"/>
-        <Trail type="legs.chests.magic.sw.fm" trailData="Data/LadyElyssa/Chests/VoE/SW/Fast Medium 1 Alt 2.trl" color="56E000"/>
-        <Trail type="legs.chests.magic.sw.fm" trailData="Data/LadyElyssa/Chests/VoE/SW/Fast Medium 1.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.sw.fm" trailData="Data/Chests/VoE/SW/Fast Medium 1 Alt 1.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.sw.fm" trailData="Data/Chests/VoE/SW/Fast Medium 1 Alt 2.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.sw.fm" trailData="Data/Chests/VoE/SW/Fast Medium 1.trl" color="56E000"/>
 
         <POI MapID="1593" xpos="498.193" ypos="2.62531" zpos="-541.318" type="legs.chests.magic.sw.fm.start" GUID="D7DUMMVR80Ws4tXJrqxr9g=="/>
         <POI MapID="1593" xpos="800.1254" ypos="45.49552" zpos="396.116" type="legs.chests.magic.sw.fm.glider" GUID="QTA89x2fdE2NSorDQkfelA=="/>
@@ -2803,8 +2803,8 @@
 
         <!-- Fast Large -->
 
-        <Trail type="legs.chests.magic.eg.fl" trailData="Data/LadyElyssa/Chests/VoE/EG/Fast Large 1.trl" color="D1AE00"/>
-        <Trail type="legs.chests.magic.eg.fl" trailData="Data/LadyElyssa/Chests/VoE/EG/Fast Large 2.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.eg.fl" trailData="Data/Chests/VoE/EG/Fast Large 1.trl" color="D1AE00"/>
+        <Trail type="legs.chests.magic.eg.fl" trailData="Data/Chests/VoE/EG/Fast Large 2.trl" color="D1AE00"/>
 
         <POI MapID="1622" xpos="26.15826" ypos="21.26448" zpos="-705.6837" type="legs.chests.magic.eg.fl.wp" GUID="pXlwmzTNZ0Oqgxnf0ZH4xw==" copy="[&amp;BPoPAAA=]" copy-message="Temple of Abnegation Waypoint"/>
 
@@ -2832,10 +2832,10 @@
 
         <!-- Fast Medium -->
 
-        <Trail type="legs.chests.magic.eg.fm" trailData="Data/LadyElyssa/Chests/VoE/EG/Fast Medium 1.trl" color="56E000"/>
-        <Trail type="legs.chests.magic.eg.fm" trailData="Data/LadyElyssa/Chests/VoE/EG/Fast Medium 2.trl" color="56E000"/>
-        <Trail type="legs.chests.magic.eg.fm" trailData="Data/LadyElyssa/Chests/VoE/EG/Fast Medium 3.trl" color="56E000"/>
-        <Trail type="legs.chests.magic.eg.fm" trailData="Data/LadyElyssa/Chests/VoE/EG/Fast Medium 4.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.eg.fm" trailData="Data/Chests/VoE/EG/Fast Medium 1.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.eg.fm" trailData="Data/Chests/VoE/EG/Fast Medium 2.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.eg.fm" trailData="Data/Chests/VoE/EG/Fast Medium 3.trl" color="56E000"/>
+        <Trail type="legs.chests.magic.eg.fm" trailData="Data/Chests/VoE/EG/Fast Medium 4.trl" color="56E000"/>
 
         <POI MapID="1622" xpos="456.0403" ypos="5.266858" zpos="-504.5306" type="legs.chests.magic.eg.fm.1" GUID="Mh3m1/sk0k+ibN/RLd5D1w=="/>
         <POI MapID="1622" xpos="457.521" ypos="5.265397" zpos="-510.7326" type="legs.chests.magic.eg.fm.2" GUID="Up5FRJ8aOkOD7bMjtbZ5Fw=="/>
