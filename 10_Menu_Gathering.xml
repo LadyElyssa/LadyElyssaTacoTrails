@@ -480,7 +480,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/LadyElyssa/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="node" DisplayName="Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Yellow.png" miniMapVisibility="1" inGameVisibility="0" fadefar="20000" mapDisplaySize="32" />
+                    <MarkerCategory name="node" DisplayName="Herb Nodes" iconFile="Data/LadyElyssa/Images/Hexagon - Yellow.png" miniMapVisibility="1" inGameVisibility="0" fadefar="20000" mapDisplaySize="32"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="map" IsSeparator="1" DisplayName="CORE MAP ZONE"/>                
                     <MarkerCategory name="maguuma" IsSeparator="1" DisplayName="  : Maguuma Jungle"/>
