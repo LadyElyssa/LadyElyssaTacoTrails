@@ -5,20 +5,20 @@
 
         <!-- ARTICHOKE -->
         <!-- Mount Maelstrom -->
-        <Trail type="legs.gathering.plants.artichoke.maelstrom" trailData="Data/LadyElyssa/Gathering/Plants/Artichoke - Mount Maelstrom.trl"/>
+        <Trail type="legs.gathering.plants.artichoke.maelstrom" trailData="Data/Gathering/Plants/Artichoke - Mount Maelstrom.trl"/>
         <POI MapID="39" xpos="190.364" ypos="3.85568" zpos="16.4355" type="legs.gathering.plants.artichoke.start" GUID="2X8eUZpjSEmZYwx64ooN4w=="/>
         <POI MapID="39" xpos="205.586" ypos="38.6474" zpos="-167.793" type="legs.gathering.plants.artichoke.wp" GUID="OcBeNb3kd0On+YKnyPvaCw==" copy="[&amp;BFgGAAA=]" copy-message="Plinth Timberland Waypoint&#xA;Straits of Devastation"/>
         <POI MapID="39" xpos="217.561" ypos="37.7471" zpos="-156.402" type="legs.gathering.plants.artichoke.node" GUID="X/+eIqKaI0W1+fW1eEZHSA=="/>
         <!-- Straits Of Devastation -->
-        <Trail type="legs.gathering.plants.artichoke.straits" trailData="Data/LadyElyssa/Gathering/Plants/Artichoke - Straits of Devastation.trl"/>
+        <Trail type="legs.gathering.plants.artichoke.straits" trailData="Data/Gathering/Plants/Artichoke - Straits of Devastation.trl"/>
         <POI MapID="51" xpos="820.515" ypos="58.3668" zpos="689.089" type="legs.gathering.plants.artichoke.node" GUID="CRwo5aj58U2x+q2vmYdcOg=="/>
         <POI MapID="51" xpos="819.603" ypos="58.1886" zpos="692.769" type="legs.gathering.plants.artichoke.wp" GUID="XJXm/YB+jEKViXMErjaQ9Q==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint&#xA;Domain of Vabbi"/>
         <!-- Path Of Fire -->
-        <Trail type="legs.gathering.plants.artichoke.dov" trailData="Data/LadyElyssa/Gathering/Plants/Artichoke - Domain of Vabbi.trl"/>
+        <Trail type="legs.gathering.plants.artichoke.dov" trailData="Data/Gathering/Plants/Artichoke - Domain of Vabbi.trl"/>
         <POI MapID="1248" xpos="-970.898" ypos="261.464" zpos="-925.667" type="legs.gathering.plants.artichoke.node" GUID="ofAB6Ig38EuvOkTie+tpow=="/>
         <POI MapID="1248" xpos="-968.888" ypos="262.058" zpos="-921.931" type="legs.gathering.plants.artichoke.wp" GUID="2odANkpirkyVAPZjyfbGSg==" copy="[&amp;BEMLAAA=]" copy-message="Atholma Waypoint&#xA;Sandswept Isles"/>
         <!-- Sandswept Isles -->
-        <Trail type="legs.gathering.plants.artichoke.sandswept" trailData="Data/LadyElyssa/Gathering/Plants/Artichoke - Sandswept Isles.trl"/>
+        <Trail type="legs.gathering.plants.artichoke.sandswept" trailData="Data/Gathering/Plants/Artichoke - Sandswept Isles.trl"/>
         <POI MapID="1271" xpos="57.078" ypos="27.227" zpos="655.115" type="legs.gathering.plants.artichoke.node" GUID="VbtTPRI1Ok+PbMLcwRuOIg=="/>
         <POI MapID="1271" xpos="54.5631" ypos="27.9886" zpos="664.188" type="legs.gathering.plants.artichoke.node" GUID="AckIYVPUa02Fo9cdfqb0EA=="/>
         <POI MapID="1271" xpos="51.9215" ypos="28.3371" zpos="672.793" type="legs.gathering.plants.artichoke.node" GUID="3d+jiFqty0SigoD4UtPOmA=="/>
@@ -28,8 +28,8 @@
 
         <!-- ASPARAGUS -->
         <!-- Fireheart Rise -->
-        <Trail type="legs.gathering.plants.asparagus.fireheart.1" trailData="Data/LadyElyssa/Gathering/Plants/Asparagus - Fireheart Rise 1.trl" color="F2BFFF"/>
-        <Trail type="legs.gathering.plants.asparagus.fireheart.2" trailData="Data/LadyElyssa/Gathering/Plants/Asparagus - Fireheart Rise 2.trl" color="F2BFFF"/>
+        <Trail type="legs.gathering.plants.asparagus.fireheart.1" trailData="Data/Gathering/Plants/Asparagus - Fireheart Rise 1.trl" color="F2BFFF"/>
+        <Trail type="legs.gathering.plants.asparagus.fireheart.2" trailData="Data/Gathering/Plants/Asparagus - Fireheart Rise 2.trl" color="F2BFFF"/>
         <POI MapID="22" xpos="-217.974" ypos="20.3926" zpos="-303.363" type="legs.gathering.plants.asparagus.start" GUID="YmuQuTvTWEOrLuhULnZtug=="/>
         <POI MapID="22" xpos="-203.431" ypos="21.5027" zpos="-291.395" type="legs.gathering.plants.asparagus.fireheart.1" GUID="W+8hzf06cUeEj3gYBJaatw=="/>
         <POI MapID="22" xpos="-80.7279" ypos="63.5818" zpos="490.635" type="legs.gathering.plants.asparagus.wp" GUID="bKLH+gAmqUmAzgq2f46/9w==" copy="[&amp;BBsCAAA=]" copy-message="Havoc Waypoint"/>
@@ -46,7 +46,7 @@
         <POI MapID="22" xpos="-358.749" ypos="53.6083" zpos="266.528" type="legs.gathering.plants.asparagus.node" GUID="r0M2S9dPO02ishKQn5eOVw=="/>
         <POI MapID="22" xpos="-251.218" ypos="79.1533" zpos="282.397" type="legs.gathering.plants.asparagus.node" GUID="6cY/IZphXkaqnZJi6GxoAg=="/>
         <!-- Mount Maelstrom -->
-        <Trail type="legs.gathering.plants.asparagus.maelstrom" trailData="Data/LadyElyssa/Gathering/Plants/Asparagus - Mount Maelstrom.trl"/>
+        <Trail type="legs.gathering.plants.asparagus.maelstrom" trailData="Data/Gathering/Plants/Asparagus - Mount Maelstrom.trl"/>
         <POI MapID="39" xpos="294.848" ypos="54.654" zpos="656.447" type="legs.gathering.plants.asparagus.start" GUID="7qvVQd9PJkS8XjZfyhKM3g=="/>
         <POI MapID="39" xpos="388.259" ypos="30.1348" zpos="427.566" type="legs.gathering.plants.asparagus.wp" GUID="7n9q0bXcOkqRC2C73cYQUw==" copy="[&amp;BNUCAAA=]" copy-message="Judgement Waypoint"/>
         <POI MapID="39" xpos="255.6846" ypos="3.688215" zpos="-524.2751" type="legs.gathering.plants.asparagus.wp" GUID="r7amOnA0ZE6ksjylr2mTUw==" copy="[&amp;BMcCAAA=]" copy-message="Murkvale Waypoint"/>
@@ -70,7 +70,7 @@
         <POI MapID="39" xpos="-990.028" ypos="17.2617" zpos="66.0937" type="legs.gathering.plants.asparagus.node" GUID="YQTJrVF8Tk2H8inWSbmOdw=="/>
         <POI MapID="39" xpos="255.479" ypos="3.55649" zpos="-523.735" type="legs.gathering.plants.asparagus.node" GUID="pD+HzBAXKkOL2F9QUQjA3Q=="/>
         <!-- Straits Of Devastation -->
-        <Trail type="legs.gathering.plants.asparagus.straits" trailData="Data/LadyElyssa/Gathering/Plants/Asparagus - Straits of Devastation.trl"/>
+        <Trail type="legs.gathering.plants.asparagus.straits" trailData="Data/Gathering/Plants/Asparagus - Straits of Devastation.trl"/>
         <POI MapID="51" xpos="761.841" ypos="79.0742" zpos="756.662" type="legs.gathering.plants.asparagus.wp" GUID="tjEVT9ZuU0qkjfzVCAczjw==" copy="[&amp;BOwCAAA=]" copy-message="Bramble Pass Waypoint"/>
         <POI MapID="51" xpos="460.492" ypos="36.8499" zpos="720.959" type="legs.gathering.plants.asparagus.wp" GUID="teFEUBce/kKxtxvGiIbZrQ==" copy="[&amp;BOUGAAA=]" copy-message="Dire Shoal Waypoint"/>
         <POI MapID="51" xpos="-870.002" ypos="7.91392" zpos="220.839" type="legs.gathering.plants.asparagus.wp" GUID="fnl2MQyVukiccxHsMFGnNQ==" copy="[&amp;BNIEAAA=]" copy-message="Rally Waypoint"/>
@@ -113,7 +113,7 @@
 
         <!-- Black Crocus (Saffron) -->
         <!-- Malchor's Leap -->
-        <Trail type="legs.gathering.plants.crocus.malchors" trailData="Data/LadyElyssa/Gathering/Plants/Black Crocus - Malchor's Leap.trl" color="9C0C00"/>
+        <Trail type="legs.gathering.plants.crocus.malchors" trailData="Data/Gathering/Plants/Black Crocus - Malchor's Leap.trl" color="9C0C00"/>
         <POI MapID="65" xpos="1018.2" ypos="30.6099" zpos="-378.453" type="legs.gathering.plants.crocus.start" GUID="AZZpmaXgtUeqPnETEtI8Lw=="/>
         <POI MapID="65" xpos="1033.49" ypos="30.2491" zpos="-366.635" type="legs.gathering.plants.crocus.malchors.1" GUID="+crdmt6mPU2Y4mW2hZfLFw=="/>
         <POI MapID="65" xpos="941.586" ypos="54.2447" zpos="-453.237" type="legs.gathering.plants.crocus.wp" GUID="JPmKarEiZkyjVWOi8U9igw==" copy="[&amp;BKYCAAA=]" copy-message="Pagga's Waypoint"/>
@@ -141,7 +141,7 @@
         <POI MapID="65" xpos="-475.07" ypos="13.6117" zpos="-468.889" type="legs.gathering.plants.crocus.node" GUID="ct5UWuUiuECcTLQzxj5RzQ=="/>
 
         <!-- Cursed Shore -->
-        <Trail type="legs.gathering.plants.crocus.cs" trailData="Data/LadyElyssa/Gathering/Plants/Black Crocus - Cursed Shore.trl"/>
+        <Trail type="legs.gathering.plants.crocus.cs" trailData="Data/Gathering/Plants/Black Crocus - Cursed Shore.trl"/>
         <POI MapID="62" xpos="88.4771" ypos="80.5727" zpos="1104.37" type="legs.gathering.plants.crocus.wp" GUID="Xvcm/ZkRyk6Lhw0dnyYcsA==" copy="[&amp;BBgDAAA=]" copy-message="R&amp;D Waypoint"/>
         <POI MapID="62" xpos="-31.1625" ypos="9.62152" zpos="509.234" type="legs.gathering.plants.crocus.wp" GUID="vPYXTjf13E+L1VKt2l2Axg==" copy="[&amp;BB4DAAA=]" copy-message="Meddler's Waypoint"/>
         <POI MapID="62" xpos="75.5272" ypos="42.3659" zpos="980.514" type="legs.gathering.plants.crocus.node" GUID="8meF/txJSEaYfdgjYmsFhQ=="/>
@@ -175,7 +175,7 @@
         <POI MapID="62" xpos="264" ypos="52.6801" zpos="784.11" type="legs.gathering.plants.crocus.node" GUID="05Wr0IbbsUSoE7wfvCfRGw=="/>
         <!-- Siren's Landing -->
         <!--
-        <Trail type="legs.gathering.plants.crocus.cs" trailData="Data/LadyElyssa/Gathering/Plants/Black Crocus - Cursed Shore.trl" color="9C0C00"/>
+        <Trail type="legs.gathering.plants.crocus.cs" trailData="Data/Gathering/Plants/Black Crocus - Cursed Shore.trl" color="9C0C00"/>
         <POI MapID="1203" xpos="-88.7558" ypos="28.1892" zpos="-99.9871" type="legs.gathering.plants.crocus.node" GUID="orqBhrbcV0mdzNGu8h8ytg=="/>
         <POI MapID="1203" xpos="-153.404" ypos="83.3032" zpos="-145.222" type="legs.gathering.plants.crocus.node" GUID="YdlAD9LxnkGJg9uobLPVlw=="/>
         <POI MapID="1203" xpos="-299.788" ypos="106.144" zpos="-299.737" type="legs.gathering.plants.crocus.node" GUID="MNomFqVNuEi70y+XiFXfEg=="/>
@@ -184,10 +184,10 @@
         
         <!-- Blooming Passiflora -->
         <!-- Southsun Cove -->
-        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/LadyElyssa/Gathering/Plants/Blooming Passiflora 1 - Southsun Cove.trl"/>
-        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/LadyElyssa/Gathering/Plants/Blooming Passiflora 2 - Southsun Cove.trl"/>
-        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/LadyElyssa/Gathering/Plants/Blooming Passiflora 3 - Southsun Cove.trl"/>
-        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/LadyElyssa/Gathering/Plants/Blooming Passiflora 4 - Southsun Cove.trl"/>
+        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/Gathering/Plants/Blooming Passiflora 1 - Southsun Cove.trl"/>
+        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/Gathering/Plants/Blooming Passiflora 2 - Southsun Cove.trl"/>
+        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/Gathering/Plants/Blooming Passiflora 3 - Southsun Cove.trl"/>
+        <Trail type="legs.gathering.plants.blooming.southsun" trailData="Data/Gathering/Plants/Blooming Passiflora 4 - Southsun Cove.trl"/>
         <POI MapID="873" xpos="616.137" ypos="30.842" zpos="-355.28" type="legs.gathering.plants.blooming.start" GUID="3O+NlEnEC0u6Eq7/QfYwIQ=="/>
         <POI MapID="873" xpos="616.11" ypos="31.0873" zpos="-342.616" type="legs.gathering.plants.blooming.1" GUID="b2ZzI+0wpkKQlkjobgLYIg=="/>
         <POI MapID="873" xpos="685.648" ypos="18.1713" zpos="33.7189" type="legs.gathering.plants.blooming.wp" GUID="+ctRjaRCHkK32ua4S8nOnw==" copy="[&amp;BNgGAAA=]" copy-message="Owain's Refuge Waypoint"/>
@@ -215,7 +215,7 @@
         
         <!-- Clams -->
         <!-- Brisban Wildlands -->
-        <Trail type="legs.gathering.plants.clam.brisban" trailData="Data/LadyElyssa/Gathering/Plants/Clams - Brisban Wildlands.trl"/>
+        <Trail type="legs.gathering.plants.clam.brisban" trailData="Data/Gathering/Plants/Clams - Brisban Wildlands.trl"/>
         <POI MapID="54" xpos="424.974" ypos="-7.1488" zpos="-455.086" type="legs.gathering.plants.clam.node" GUID="+e2JJtaMzEyRQS0hNZWFlw=="/>
         <POI MapID="54" xpos="548.383" ypos="-17.1642" zpos="-495.698" type="legs.gathering.plants.clam.node" GUID="IMfd9WQ5JkmByL5ybQvh9g=="/>
         <POI MapID="54" xpos="556.207" ypos="-20.6384" zpos="-478.32" type="legs.gathering.plants.clam.node" GUID="sKVV6OLMtUeoBQ1oD1nCFA=="/>
@@ -224,7 +224,7 @@
         <POI MapID="54" xpos="614.937" ypos="-24.9999" zpos="-507.898" type="legs.gathering.plants.clam.node" GUID="wcU1B4PedkekdWE2kWt52A=="/>
         <POI MapID="54" xpos="607.302" ypos="-19.6995" zpos="-492.878" type="legs.gathering.plants.clam.node" GUID="3vDXbZ7IBEiPYXKbM++oqQ=="/>
         <!-- Crystal Oasis -->
-        <Trail type="legs.gathering.plants.clam.co" trailData="Data/LadyElyssa/Gathering/Plants/Clams - CO.trl"/>
+        <Trail type="legs.gathering.plants.clam.co" trailData="Data/Gathering/Plants/Clams - CO.trl"/>
         <POI MapID="1210" xpos="-737.299" ypos="1.07577" zpos="-103.05" type="legs.gathering.plants.clam.start" GUID="hrbhPTZI9Ei2Yyquwbzhaw=="/>
         <POI MapID="1210" xpos="-1445.45" ypos="-83.9124" zpos="471.566" type="legs.gathering.plants.clam.node" GUID="rsKWYWDx2UGlbE1IIKSnCw=="/>
         <POI MapID="1210" xpos="-1431.52" ypos="-36.602" zpos="-706.335" type="legs.gathering.plants.clam.node" GUID="AKFhps8q90egk7Y5miSnZg=="/>
@@ -237,7 +237,7 @@
         <POI MapID="1211" xpos="-1418.41" ypos="-19.0984" zpos="-479.336" type="legs.gathering.plants.clam.node" GUID="FC1JqkIkuUu3j/omquHD2w=="/>
         <POI MapID="1211" xpos="-1469.12" ypos="-38.6741" zpos="-442.512" type="legs.gathering.plants.clam.node" GUID="7ccrD2BQvEO/l0X421t/WA=="/>
         <!-- LWS5 - Drizzlewood -->
-        <Trail type="legs.gathering.plants.clam.drizzlewood" trailData="Data/LadyElyssa/Gathering/Plants/Clams and Seaweed - Drizzlewood Coast.trl"/>
+        <Trail type="legs.gathering.plants.clam.drizzlewood" trailData="Data/Gathering/Plants/Clams and Seaweed - Drizzlewood Coast.trl"/>
         <POI MapID="1371" xpos="563.366" ypos="-0.72896" zpos="-945.672" type="legs.gathering.plants.clam.node" GUID="eboclgNP5UKByAlPQVbbrw=="/>
         <POI MapID="1371" xpos="601.685" ypos="-2.53423" zpos="-1058.14" type="legs.gathering.plants.clam.node" GUID="h8iYl1eS0UepiSGddWHpmw=="/>
         <POI MapID="1371" xpos="582.687" ypos="-1.49431" zpos="-1109.48" type="legs.gathering.plants.clam.node" GUID="Rec/ioccxUqt6nyzJIk23Q=="/>
@@ -280,7 +280,7 @@
         <POI MapID="1175" xpos="-149.835" ypos="-16.6558" zpos="-825.458" type="legs.gathering.plants.coral.node" GUID="JdguuD5lzUqPP2n1kufkkQ=="/>
         <POI MapID="1175" xpos="-93.5327" ypos="-37.7577" zpos="-822.677" type="legs.gathering.plants.coral.node" GUID="+b2W3fKB/k2C1r5POm8llw=="/>
         <!-- Drizzlewood -->
-        <Trail type="legs.gathering.plants.coral.drizzlewood" trailData="Data/LadyElyssa/Gathering/Plants/Coral - Drizzlewood.trl"/>
+        <Trail type="legs.gathering.plants.coral.drizzlewood" trailData="Data/Gathering/Plants/Coral - Drizzlewood.trl"/>
         <POI MapID="1371" xpos="-104.799" ypos="151.825" zpos="-1083.6" type="legs.gathering.plants.coral.start" GUID="wNI1SB5NiUqcc4CE7YFETw=="/>
         <POI MapID="1371" xpos="476.691" ypos="-21.0193" zpos="-685.57" type="legs.gathering.plants.coral.node" GUID="DWxmUZCy/E2GEPcZAoQJMw=="/>
         <POI MapID="1371" xpos="564.68" ypos="-37.5293" zpos="-691.023" type="legs.gathering.plants.coral.node" GUID="LtvWCwWy2kqSlSOpN70Nng=="/>
@@ -312,7 +312,7 @@
         <POI MapID="1301" xpos="662.374" ypos="97.8694" zpos="-821.352" type="legs.gathering.plants.desert.herbs" GUID="CNXc1Pseska9EIU4L5EtWA=="/>
 
         <!-- Desert Herbs - Kourna --> 
-        <Trail type="legs.gathering.plants.desert.kourna" trailData="Data/LadyElyssa/Gathering/Plants/Desert Herbs - Kourna.trl"/>
+        <Trail type="legs.gathering.plants.desert.kourna" trailData="Data/Gathering/Plants/Desert Herbs - Kourna.trl"/>
         <POI MapID="1288" xpos="-560.245" ypos="19.4505" zpos="252.882" type="legs.gathering.plants.desert.start" GUID="VaYZWQHUw06OFmzKLyrj0g=="/>
         <POI MapID="1288" xpos="-846.551" ypos="1.77166" zpos="1009.5" type="legs.gathering.plants.desert.herbs" GUID="I5/1vb2wxUCuUtLhtZH4pw=="/>
         <POI MapID="1288" xpos="-782.512" ypos="38.279" zpos="688.349" type="legs.gathering.plants.desert.herbs" GUID="50ikIF5yBkuF22CFhMpaIw=="/>
@@ -364,14 +364,14 @@
         <POI MapID="1288" xpos="-897.676" ypos="22.2539" zpos="1153.78" type="legs.gathering.plants.desert.herbs" GUID="W3WwDaOwlEiu1l3x8mJK2Q=="/>
         <POI MapID="1288" xpos="-966.134" ypos="2.85906" zpos="1121.91" type="legs.gathering.plants.desert.herbs" GUID="6omIcPiAw0OruKpVhSvJDg=="/>
         <!-- Sandswept Isles -->
-        <Trail type="legs.gathering.plants.desert.sandswept" trailData="Data/LadyElyssa/Gathering/Plants/Desert Herbs - Sandswept.trl"/>
+        <Trail type="legs.gathering.plants.desert.sandswept" trailData="Data/Gathering/Plants/Desert Herbs - Sandswept.trl"/>
         <POI MapID="1271" xpos="41.0803" ypos="28.4719" zpos="633.554" type="legs.gathering.plants.desert.wp" GUID="CxrPFJsxRUGEMn4r20n9KA==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint&#xA;Domain of Kourna"/>
         <POI MapID="1271" xpos="26.0251" ypos="28.6702" zpos="640.699" type="legs.gathering.plants.desert.herbs" GUID="FOoZbcP1UESiljibbOrX7A=="/>
         <POI MapID="1271" xpos="31.6277" ypos="28.6297" zpos="638.109" type="legs.gathering.plants.desert.herbs" GUID="wuGR8xEYYUen4PBUBylmyg=="/>
         <POI MapID="1271" xpos="35.9831" ypos="28.5053" zpos="636.133" type="legs.gathering.plants.desert.herbs" GUID="Zn7Q0XLDHkOFJvu8q0WlYA=="/>
         <POI MapID="1271" xpos="41.0922" ypos="28.4734" zpos="633.48" type="legs.gathering.plants.desert.herbs" GUID="h8H+7kLfJkax7sQJ3kWiig=="/>
         <!-- Crystal Oasis -->
-        <Trail type="legs.gathering.plants.desert.co" trailData="Data/LadyElyssa/Gathering/Plants/Desert Herbs - CO.trl"/>
+        <Trail type="legs.gathering.plants.desert.co" trailData="Data/Gathering/Plants/Desert Herbs - CO.trl"/>
         <POI MapID="1210" xpos="187.233" ypos="2.00506" zpos="299.853" type="legs.gathering.plants.desert.wp" GUID="MmvOpBTPt0aztomMppzRNQ==" copy="[&amp;BEMLAAA=]" copy-message="Atholma Waypoint&#xA;Sandswept Isles"/>
         <POI MapID="1210" xpos="421.888" ypos="9.40651" zpos="359.369" type="legs.gathering.plants.desert.herbs" GUID="Y1MwepJoD0OqacIszXQxNg=="/>
         <POI MapID="1210" xpos="377.225" ypos="5.2937" zpos="332.78" type="legs.gathering.plants.desert.herbs" GUID="h0cfKo2yjkO+bUsGUl0mUw=="/>
@@ -384,7 +384,7 @@
 
         <!-- PLANTS - Flax - Heart of Thorns -->
         <!-- Verdant Brink -->
-        <Trail type="legs.gathering.plants.flax.vb" trailData="Data/LadyElyssa/Gathering/Plants/Flax - VB.trl"/>
+        <Trail type="legs.gathering.plants.flax.vb" trailData="Data/Gathering/Plants/Flax - VB.trl"/>
         <POI MapID="1052" xpos="654.8041" ypos="374.6819" zpos="359.6667" type="legs.gathering.plants.flax.start" GUID="tXhT1LuOJEWDjMGlVOq0ZQ=="/>
         <POI MapID="1052" xpos="673.566" ypos="368.151" zpos="372.664" type="legs.gathering.plants.flax.vb.glider" GUID="5vAB5P9vuEKizl/XzmmnIQ=="/>
         <POI MapID="1052" xpos="728.249" ypos="15.0388" zpos="415.559" type="legs.gathering.plants.flax.flax" GUID="bV3mgP+glkW2r/Qfe2d8Yw=="/>
@@ -392,8 +392,8 @@
         <POI MapID="1052" xpos="720.21" ypos="13.9596" zpos="408.228" type="legs.gathering.plants.flax.flax" GUID="qh8WN+YYIkamuBNyTSdfUA=="/>
         <POI MapID="1052" xpos="723.188" ypos="14.4559" zpos="411.414" GUID="5u8Hyp0WvEGDM+fB+ah7uw==" copy="[&amp;BMwHAAA=] or [&amp;BA4IAAA=]" copy-message="Tangled Depths&#xA;Mounts - Ogre Camp Waypoint&#xA;Glider - Order of Whispers Camp Waypoint" type="legs.gathering.plants.flax.wp"/>
         <!-- Tangled Depths -->
-        <Trail type="legs.gathering.plants.flax.td.mount" trailData="Data/LadyElyssa/Gathering/Plants/Flax - TD Mount.trl"/>
-        <Trail type="legs.gathering.plants.flax.td.glider" trailData="Data/LadyElyssa/Gathering/Plants/Flax - TD Glider.trl" defaulttoggle="0"/>
+        <Trail type="legs.gathering.plants.flax.td.mount" trailData="Data/Gathering/Plants/Flax - TD Mount.trl"/>
+        <Trail type="legs.gathering.plants.flax.td.glider" trailData="Data/Gathering/Plants/Flax - TD Glider.trl" defaulttoggle="0"/>
         <POI MapID="1045" xpos="-196.606" ypos="224.374" zpos="-187.471" type="legs.gathering.plants.flax.start" GUID="Jo606kq7yE2dYyt26muAmg=="/>
         <POI MapID="1045" xpos="-185.975" ypos="227.584" zpos="-135.616" GUID="ueZB8QapAkyabsHpMCiacQ==" type="legs.gathering.plants.flax.springer"/>
         <POI MapID="1045" xpos="-198.801" ypos="267.432" zpos="-113.995" GUID="sOpzVJ8o+UibKGcys6Te+A==" type="legs.gathering.plants.flax.skyscale"/>
@@ -411,7 +411,7 @@
 
         <!-- Flax - LWS3 -->
 
-        <Trail type="legs.gathering.plants.flax.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Flax - Draconis Mons.trl"/>
+        <Trail type="legs.gathering.plants.flax.draconis" trailData="Data/Gathering/Plants/Flax - Draconis Mons.trl"/>
         <POI MapID="1195" xpos="407.695" ypos="410.774" zpos="-313.095" type="legs.gathering.plants.flax.start" GUID="PvsBrEYytUyn7iPurHPOPQ=="/>
         <POI MapID="1195" xpos="525.783" ypos="102.973" zpos="-466.338" type="legs.gathering.plants.flax.wp" GUID="DEISg1YDkUe/GUCHSrlG7w==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xA;Jahai Bluffs"/>
         <POI MapID="1195" xpos="527.031" ypos="102.285" zpos="-473.523" type="legs.gathering.plants.flax.flax" GUID="UJNJRuxMxU6am15HdRgXiQ=="/>
@@ -427,7 +427,7 @@
         
         <!-- Flax - Path of Fire -->
 
-        <Trail type="legs.gathering.plants.flax.jahai" trailData="Data/LadyElyssa/Gathering/Plants/Flax - Jahai.trl"/>
+        <Trail type="legs.gathering.plants.flax.jahai" trailData="Data/Gathering/Plants/Flax - Jahai.trl"/>
         <POI MapID="1301" xpos="-846.421" ypos="68.8249" zpos="98.001" type="legs.gathering.plants.flax.start" GUID="Zq05R2OLlUC6iCa+vIavPA=="/>
         <POI MapID="1301" xpos="-88.2168" ypos="173.388" zpos="642.932" type="legs.gathering.plants.flax.wp" GUID="EGQRN5KrWUyDDUduqyjSmw==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint&#xA;Domain of Kourna"/>
         <POI MapID="1301" xpos="-430.725" ypos="75.236" zpos="594.738" type="legs.gathering.plants.flax.jackal" GUID="ri1qZJ8C+kG1kW7s66+jiw=="/>
@@ -441,7 +441,7 @@
         <POI MapID="1301" xpos="-87.9213" ypos="173.388" zpos="642.103" type="legs.gathering.plants.flax.flax" GUID="74E6pelON0KEiFtRWtt6pg=="/>
         <POI MapID="1301" xpos="-45.9264" ypos="153.884" zpos="637.84" type="legs.gathering.plants.flax.flax" GUID="8nDBgT8HkkeHUTth5Kt0zA=="/>
 
-        <Trail type="legs.gathering.plants.flax.kourna" trailData="Data/LadyElyssa/Gathering/Plants/Flax - Kourna.trl"/>
+        <Trail type="legs.gathering.plants.flax.kourna" trailData="Data/Gathering/Plants/Flax - Kourna.trl"/>
         <POI MapID="1288" xpos="-560.245" ypos="19.4505" zpos="252.882" type="legs.gathering.plants.flax.start" GUID="IAQA0CLXlESAr42j9btPxg=="/>
         <POI MapID="1288" xpos="-555.4797" ypos="40.27707" zpos="465.7251" type="legs.gathering.plants.flax.skyscale" GUID="iPf2+k6UD0SJRBM4w+WGpQ=="/>
         <POI MapID="1288" xpos="-737.552" ypos="33.903" zpos="715.851" type="legs.gathering.plants.flax.flax" GUID="FrM3lWZqbE20syeHykV3AA=="/>
@@ -457,7 +457,7 @@
 
         
         <!-- PLANTS - Flax - End of Dragons -->
-        <Trail type="legs.gathering.plants.flax.seitung" trailData="Data/LadyElyssa/Gathering/Plants/Flax - Seitung.trl"/>
+        <Trail type="legs.gathering.plants.flax.seitung" trailData="Data/Gathering/Plants/Flax - Seitung.trl"/>
         <POI MapID="1442" xpos="-81.7285" ypos="13.9851" zpos="-186.519" type="legs.gathering.plants.flax.start" GUID="xx7fGHEvEUa0ic+oKI3mNg=="/>
         <POI MapID="1442" xpos="-157.9392" ypos="43.31505" zpos="-463.2564" type="legs.gathering.plants.flax.end" GUID="L/vLEURYfEWL61v/Plh89Q=="/>
         <POI MapID="1442" xpos="-150.688" ypos="43.7239" zpos="-461.379" type="legs.gathering.plants.flax.flax" GUID="8qQ7/odG10GzBWUhzFq/tQ=="/>
@@ -511,7 +511,7 @@
         <POI MapID="28" xpos="124.572" ypos="201.184" zpos="1211.45" type="legs.gathering.plants.herbs.node" GUID="FzSjXngLT0C2YC//j1t8fw=="/>
         -->
         <!-- Lornar's Pass -->
-        <Trail type="legs.gathering.plants.herbs.lornars" trailData="Data/LadyElyssa/Gathering/Plants/Herbs - Lornar's Pass.trl"/>
+        <Trail type="legs.gathering.plants.herbs.lornars" trailData="Data/Gathering/Plants/Herbs - Lornar's Pass.trl"/>
         <POI MapID="27" xpos="-381.606" ypos="64.1723" zpos="-8.17829" type="legs.gathering.plants.herbs.node" GUID="gzxV4EYASkapv/UjEYYvkg=="/>
         <POI MapID="27" xpos="-382.298" ypos="47.0657" zpos="-269.404" type="legs.gathering.plants.herbs.node" GUID="l8Br6MrHw0qrJ97mNyH0LQ=="/>
         <POI MapID="27" xpos="-37.7638" ypos="21.5716" zpos="-808.52" type="legs.gathering.plants.herbs.node" GUID="azIK+5f5UkeBrxjWeNpZmw=="/>
@@ -524,7 +524,7 @@
         <POI MapID="27" xpos="49.9278" ypos="92.2967" zpos="1218.14" type="legs.gathering.plants.herbs.node" GUID="TdB6obW2c0eUQdeZ4ftU/Q=="/>
         <POI MapID="27" xpos="145.747" ypos="159.27" zpos="1267.35" type="legs.gathering.plants.herbs.wp" GUID="a1NpsqLbzEm4Kvab69psiA==" copy="[&amp;BGICAAA=]" copy-message="Graupel Waypoint&#xA;Dredgehaunt Cliffs"/>
         <!-- Dredgehaunt -->
-        <Trail type="legs.gathering.plants.herbs.dredgehaunt" trailData="Data/LadyElyssa/Gathering/Plants/Herbs - Dredgehaunt.trl"/>
+        <Trail type="legs.gathering.plants.herbs.dredgehaunt" trailData="Data/Gathering/Plants/Herbs - Dredgehaunt.trl"/>
         <POI MapID="26" xpos="180.597" ypos="92.6776" zpos="832.131" type="legs.gathering.plants.herbs.wp" GUID="UBpgED+Np0iwJE5mzoP3Ow==" copy="[&amp;BGUCAAA=]" copy-message="Wyrmblood Waypoint"/>
         <POI MapID="26" xpos="-486.293" ypos="3.88867" zpos="585.973" type="legs.gathering.plants.herbs.wp" GUID="7xzQC0uUxEGXjGstI4aKLQ==" copy="[&amp;BF0CAAA=]" copy-message="Hessdallen Kenning Waypoint"/>
         <POI MapID="26" xpos="-429.271" ypos="68.2793" zpos="-27.1363" type="legs.gathering.plants.herbs.wp" GUID="uP2b4LVJIk6eEKHOAZ5Plg==" copy="[&amp;BFkCAAA=]" copy-message="Seven Pines Waypoint"/>
@@ -545,7 +545,7 @@
         <POI MapID="26" xpos="-565.326" ypos="25.3977" zpos="342.095" type="legs.gathering.plants.herbs.node" GUID="aj4WJcqwlU6kanD7cB+L3w=="/>
         <POI MapID="26" xpos="-455.413" ypos="76.5198" zpos="-132.733" type="legs.gathering.plants.herbs.node" GUID="VJoqDQeKuUK3PYc2Ov3dSA=="/>
         <!-- Mount Maelstrom -->
-        <Trail type="legs.gathering.plants.herbs.maelstrom" trailData="Data/LadyElyssa/Gathering/Plants/Herbs - Mount Maelstrom.trl"/>
+        <Trail type="legs.gathering.plants.herbs.maelstrom" trailData="Data/Gathering/Plants/Herbs - Mount Maelstrom.trl"/>
         <POI MapID="39" xpos="51.71" ypos="4.01897" zpos="254.358" type="legs.gathering.plants.herbs.wp" GUID="92Jffpi+1EC+k8zCrFPSEg==" copy="[&amp;BNgCAAA=]" copy-message="Plinth Timberland Waypoint&#xA;Straits of Devastation"/>
         <POI MapID="39" xpos="188.833" ypos="5.79926" zpos="-154.779" type="legs.gathering.plants.herbs.node" GUID="IB8o2oW3h0KSr1HpURqGcQ=="/>
         <POI MapID="39" xpos="209.081" ypos="3.07234" zpos="-110.457" type="legs.gathering.plants.herbs.node" GUID="2KBCphEEYkugnRktFJN+WA=="/>
@@ -562,7 +562,7 @@
         <POI MapID="39" xpos="122.767" ypos="2.22459" zpos="-5.28903" type="legs.gathering.plants.herbs.node" GUID="JhZA1PtflUe+7AO9QronLw=="/>
         <POI MapID="39" xpos="125.292" ypos="0.50052" zpos="96.6628" type="legs.gathering.plants.herbs.node" GUID="TcyRylKkaUCxCByn3/UcaQ=="/>
         <!-- Straits Of Devastation -->
-        <Trail type="legs.gathering.plants.herbs.straits" trailData="Data/LadyElyssa/Gathering/Plants/Herbs - Straits of Devastation.trl"/>
+        <Trail type="legs.gathering.plants.herbs.straits" trailData="Data/Gathering/Plants/Herbs - Straits of Devastation.trl"/>
         <POI MapID="51" xpos="399.289" ypos="4.27938" zpos="714.794" type="legs.gathering.plants.herbs.node" GUID="hotmY4o2sESPxvFHiJiTcw=="/>
         <POI MapID="51" xpos="766.523" ypos="14.5386" zpos="512.337" type="legs.gathering.plants.herbs.node" GUID="zPvu2QI/oEedY2o5dcCmxw=="/>
         <POI MapID="51" xpos="631.398" ypos="18.3195" zpos="381.57" type="legs.gathering.plants.herbs.node" GUID="WjvWM+XDoU6QIu8nTv5ukA=="/>
@@ -575,13 +575,13 @@
         <POI MapID="51" xpos="840.074" ypos="41.7654" zpos="-56.6728" type="legs.gathering.plants.herbs.wp" GUID="FN2gC80ucEmwPkM40tEJOg==" copy="[&amp;BJ4MAAA=]" copy-message="Village Waypoint&#xA;Seitung Province"/>
 
         <!-- End of Dragons - Seitung Province -->
-        <Trail type="legs.gathering.plants.herbs.seitung" trailData="Data/LadyElyssa/Gathering/Plants/Herbs - Seitung Province.trl"/>
+        <Trail type="legs.gathering.plants.herbs.seitung" trailData="Data/Gathering/Plants/Herbs - Seitung Province.trl"/>
         <POI MapID="1442" xpos="-167.909" ypos="39.0675" zpos="-424.91" type="legs.gathering.plants.herbs.node" GUID="GvVKijOZxEi3C2/v9nd75w=="/>
         <POI MapID="1442" xpos="-163.633" ypos="40.1348" zpos="-424.108" type="legs.gathering.plants.herbs.node" GUID="kcGfQXkEYUSxgpx75N1fJw=="/>
         <POI MapID="1442" xpos="-170.0774" ypos="38.15194" zpos="-422.9327" type="legs.gathering.plants.herbs.end" GUID="sTYU+CVvmE29Nq8XgtdUiQ=="/>
 
         <!-- Maguuma Lily -->
-        <Trail type="legs.gathering.plants.lily.bloodstone" trailData="Data/LadyElyssa/Gathering/Plants/Jungle Plants - Bloodstone Fen.trl"/>
+        <Trail type="legs.gathering.plants.lily.bloodstone" trailData="Data/Gathering/Plants/Jungle Plants - Bloodstone Fen.trl"/>
         <POI MapID="1165" xpos="-230.595" ypos="762.322" zpos="72.7512" type="legs.gathering.plants.lily.start" GUID="jhm4bTNEQEWIV5JMVY2JuQ=="/>
         <POI MapID="1165" xpos="-224.485" ypos="760.666" zpos="87.0552" type="legs.gathering.plants.lily.1" GUID="e3nVgI/aiES1jg/BQOtTqQ=="/>
         <POI MapID="1165" xpos="-155.174" ypos="767.216" zpos="143.245" type="legs.gathering.plants.lily.glider" GUID="ykq+wZwxOkK5aSE/zECchg=="/>
@@ -627,7 +627,7 @@
         <POI MapID="1165" xpos="-252.512" ypos="514.15" zpos="-4.4564" type="legs.gathering.plants.lily.lily" GUID="3dVimChUl0S5JF6miLwO5A=="/>
         <POI MapID="1165" xpos="-257.928" ypos="549.093" zpos="-19.3301" type="legs.gathering.plants.lily.lily" GUID="K6iydf9qeUSvdmjkKX2aMw=="/>
         <!-- Maguuma Lily -->
-        <Trail type="legs.gathering.plants.lily.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Jungle Plants - Draconis Mons.trl"/>
+        <Trail type="legs.gathering.plants.lily.draconis" trailData="Data/Gathering/Plants/Jungle Plants - Draconis Mons.trl"/>
         <POI MapID="1195" xpos="-38.0641" ypos="253.209" zpos="100.429" type="legs.gathering.plants.lily.start" GUID="YwWI2GHz90CTIv+/BeLjwg=="/>
         <POI MapID="1195" xpos="-32.4176" ypos="253.365" zpos="111.178" type="legs.gathering.plants.lily.1" GUID="tltonhZ+Y0e2dRHIN185ng=="/>
         <POI MapID="1195" xpos="-194.179" ypos="5.92121" zpos="-719.702" type="legs.gathering.plants.lily.wp" GUID="OGwhQFf87EyhP67by20G/A==" copy="[&amp;BBAIAAA=]" copy-message="Pact Base Camp Waypoint&#xA;Dragon's Stand"/>
@@ -804,8 +804,8 @@
         <POI MapID="1195" xpos="-219.331" ypos="4.79613" zpos="-607.94" type="legs.gathering.plants.lily.lily" GUID="HZgez4VKPUCBOxQxuezt4A=="/>
         <POI MapID="1195" xpos="-193.81" ypos="5.92152" zpos="-720.766" type="legs.gathering.plants.lily.lily" GUID="z7aLpq5XCkmA8xx7WB/ZNw=="/>
         <!-- Dragon's Stand -->
-        <Trail type="legs.gathering.plants.lily.ds" trailData="Data/LadyElyssa/Gathering/Plants/Jungle Plants - Dragon's Stand 1.trl"/>
-        <Trail type="legs.gathering.plants.lily.ds" trailData="Data/LadyElyssa/Gathering/Plants/Jungle Plants - Dragon's Stand 2.trl"/>
+        <Trail type="legs.gathering.plants.lily.ds" trailData="Data/Gathering/Plants/Jungle Plants - Dragon's Stand 1.trl"/>
+        <Trail type="legs.gathering.plants.lily.ds" trailData="Data/Gathering/Plants/Jungle Plants - Dragon's Stand 2.trl"/>
         <POI MapID="1041" xpos="146.553" ypos="59.0043" zpos="660.88" type="legs.gathering.plants.lily.wp" GUID="Umi83NjhLUqkcDNo8yV9Jg==" copy="[&amp;BHoIAAA=]" copy-message="Pact Base Camp Southern Waypoint"/>
         <POI MapID="1041" xpos="469.25" ypos="42.1593" zpos="615.027" type="legs.gathering.plants.lily.lily" GUID="Sx1prN9sA0GZfzXcTTqP1A=="/>
         <POI MapID="1041" xpos="361.583" ypos="95.7238" zpos="650.643" type="legs.gathering.plants.lily.lily" GUID="W8a5Ia8uzE6BBzQjvD90MQ=="/>
@@ -857,7 +857,7 @@
         <POI MapID="1041" xpos="381.772" ypos="96.7436" zpos="-253.07" type="legs.gathering.plants.lily.end" GUID="o83ZjnXr00++P7V5GKzbCw=="/>
         
         <!-- LETTUCE -->
-        <Trail type="legs.gathering.plants.lettuce.caledon" trailData="Data/LadyElyssa/Gathering/Plants/Lettuce - Caledon.trl"/>
+        <Trail type="legs.gathering.plants.lettuce.caledon" trailData="Data/Gathering/Plants/Lettuce - Caledon.trl"/>
         <POI MapID="34" xpos="209.853" ypos="7.61942" zpos="1140.79" type="legs.gathering.plants.lettuce.node" GUID="bdrbfUZXaU6oB6nRjaIOfA=="/>
         <POI MapID="34" xpos="228.209" ypos="0.944882" zpos="1170" type="legs.gathering.plants.lettuce.node" GUID="qnUK5jU/c0q/eoRFVMJjvA=="/>
         <POI MapID="34" xpos="233.006" ypos="1.97809" zpos="1194.49" type="legs.gathering.plants.lettuce.node" GUID="HzLLefFRmk6WxbfNnVxeQg=="/>
@@ -867,7 +867,7 @@
         <POI MapID="34" xpos="168.214" ypos="2.75811" zpos="1105.74" type="legs.gathering.plants.lettuce.node" GUID="aK+PJK0BHEOpiWfU1rsqNQ=="/>
         <POI MapID="34" xpos="131.936" ypos="1.47164" zpos="1109.82" type="legs.gathering.plants.lettuce.node" GUID="Qup65X17PUijDpjmLwD6Pw=="/>
         <POI MapID="34" xpos="131.936" ypos="1.47164" zpos="1109.816" type="legs.gathering.plants.lettuce.wp" GUID="58MaUedD10SWrVgIknMY5w==" copy="[&amp;BPoAAAA=]" copy-message="Beetletun Waypoint&#xA;Queensdale"/>
-        <Trail type="legs.gathering.plants.lettuce.queensdale" trailData="Data/LadyElyssa/Gathering/Plants/Lettuce - Queensdale.trl"/>
+        <Trail type="legs.gathering.plants.lettuce.queensdale" trailData="Data/Gathering/Plants/Lettuce - Queensdale.trl"/>
         <POI MapID="15" xpos="888.732" ypos="15.9597" zpos="423.949" type="legs.gathering.plants.lettuce.node" GUID="e1QfazkrNkO8zPwu6w1g5A=="/>
         <POI MapID="15" xpos="878.274" ypos="15.9597" zpos="418.817" type="legs.gathering.plants.lettuce.node" GUID="aqcY42slm0Ck74ugyLNe2Q=="/>
         <POI MapID="15" xpos="872.086" ypos="15.9597" zpos="419.207" type="legs.gathering.plants.lettuce.node" GUID="SSnR3M+PFUqShFt8C+GvvQ=="/>
@@ -881,7 +881,7 @@
         <POI MapID="15" xpos="905.523" ypos="15.9625" zpos="382.045" type="legs.gathering.plants.lettuce.end" GUID="fMh7Q/TKlUyN6/lSrNn9nA=="/>
 
         <!-- MIXED VEGETABLES -->
-        <Trail type="legs.gathering.plants.mixed.drytop" trailData="Data/LadyElyssa/Gathering/Plants/Mixed - Dry Top.trl"/>
+        <Trail type="legs.gathering.plants.mixed.drytop" trailData="Data/Gathering/Plants/Mixed - Dry Top.trl"/>
         <POI MapID="988" xpos="-522.789" ypos="9.58149" zpos="-25.8844" type="legs.gathering.plants.mixed.node" GUID="VrPgXAGLYUG7moccWGcglQ=="/>
         <POI MapID="988" xpos="-523.261" ypos="9.10124" zpos="-13.1763" type="legs.gathering.plants.mixed.node" GUID="sbU9pDORl0qUg7dZaTnAtA=="/>
         <POI MapID="988" xpos="-523.213" ypos="8.49722" zpos="-1.44132" type="legs.gathering.plants.mixed.node" GUID="eNjPDzeCaUeTD7Nb91vWrw=="/>
@@ -889,13 +889,13 @@
         <POI MapID="988" xpos="-508.869" ypos="8.3704" zpos="-13.5233" type="legs.gathering.plants.mixed.node" GUID="vxtD3CLpJ0KDQJ18tKUQPQ=="/>
         <POI MapID="988" xpos="-509.066" ypos="7.91388" zpos="-1.96098" type="legs.gathering.plants.mixed.node" GUID="gz7jrcfRZE6iAOSN/HwG/A=="/>
         <POI MapID="988" xpos="-523.073" ypos="8.49167" zpos="-1.3926" type="legs.gathering.plants.mixed.wp" GUID="nez2DpcajkSO5+7eNC+y3g==" copy="[&amp;BBsMAAA=]" copy-message="Blood Keep Waypoint&#xA;Grothmar Valley"/>
-        <Trail type="legs.gathering.plants.mixed.grothmar" trailData="Data/LadyElyssa/Gathering/Plants/Mixed - Grothmar.trl"/>
+        <Trail type="legs.gathering.plants.mixed.grothmar" trailData="Data/Gathering/Plants/Mixed - Grothmar.trl"/>
         <POI MapID="1330" xpos="-324.467" ypos="31.6832" zpos="403.231" type="legs.gathering.plants.mixed.node" GUID="z3vC6zctJEi6JxB8doJnGA=="/>
         <POI MapID="1330" xpos="-276.176" ypos="33.885" zpos="433.553" type="legs.gathering.plants.mixed.node" GUID="zXQ6pb/QqU2hugB5BSMasg=="/>
         <POI MapID="1330" xpos="-285.292" ypos="34.2651" zpos="432.086" type="legs.gathering.plants.mixed.node" GUID="CDs8mS6ulUOJxth98LGH/A=="/>
         <POI MapID="1330" xpos="-263.541" ypos="32.1968" zpos="430.364" type="legs.gathering.plants.mixed.node" GUID="RvMlcdIOoUuf94xrUi2kvQ=="/>
         <POI MapID="1330" xpos="-323.048" ypos="31.0004" zpos="399.422" type="legs.gathering.plants.mixed.wp" GUID="M9thh/vnvEW/FHxfLMXn6A==" copy="[&amp;BGQMAAA=]" copy-message="Base Camp Waypoint&#xA;Drizzlewood Coast"/>
-        <Trail type="legs.gathering.plants.mixed.drizzlewood" trailData="Data/LadyElyssa/Gathering/Plants/Mixed - Drizzlewood.trl"/>
+        <Trail type="legs.gathering.plants.mixed.drizzlewood" trailData="Data/Gathering/Plants/Mixed - Drizzlewood.trl"/>
         <POI MapID="1371" xpos="268.481" ypos="101.127" zpos="-813.357" type="legs.gathering.plants.mixed.end" GUID="sHV63IgOXkusWHDV8aJt5g=="/>
         <POI MapID="1371" xpos="244.223" ypos="101.468" zpos="-808.584" type="legs.gathering.plants.mixed.node" GUID="/XPkf6wNOUCi3Q67uzqf7Q=="/>
         <POI MapID="1371" xpos="245.575" ypos="100.174" zpos="-800.368" type="legs.gathering.plants.mixed.node" GUID="vswE0QZY7UKOqm5BNlQXxA=="/>
@@ -908,9 +908,9 @@
         
 
         <!-- MUSSELS -->
-        <Trail type="legs.gathering.plants.mussels.vb" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - VB 1.trl"/>
-        <Trail type="legs.gathering.plants.mussels.vb" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - VB 2.trl"/>
-        <Trail type="legs.gathering.plants.mussels.vb" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - VB 3.trl"/>
+        <Trail type="legs.gathering.plants.mussels.vb" trailData="Data/Gathering/Plants/Mussels - VB 1.trl"/>
+        <Trail type="legs.gathering.plants.mussels.vb" trailData="Data/Gathering/Plants/Mussels - VB 2.trl"/>
+        <Trail type="legs.gathering.plants.mussels.vb" trailData="Data/Gathering/Plants/Mussels - VB 3.trl"/>
         <POI MapID="1052" xpos="931.586" ypos="418.03" zpos="41.3583" type="legs.gathering.plants.mussels.start" GUID="qo7kYfyCA0qZVEDsQab8tg=="/>
         <POI MapID="1052" xpos="749.952" ypos="327.374" zpos="151.906" type="legs.gathering.plants.mussels.wp" GUID="qn5SnJlxtk6wYOywt57z+g==" copy="[&amp;BAgIAAA=]" copy-message="Pact Encampment Waypoint"/>
         <POI MapID="1052" xpos="67.1141" ypos="342.409" zpos="-253.081" type="legs.gathering.plants.mussels.wp" GUID="cDSu/dBKJEW9bOubZRWdIQ==" copy="[&amp;BNUHAAA=]" copy-message="Mellaggan's Valor Waypoint"/>
@@ -945,9 +945,9 @@
         <POI MapID="1052" xpos="-609.7" ypos="451.88" zpos="157.477" type="legs.gathering.plants.mussels.node" GUID="hoiR4eAYPk++yX0l/E0d+Q=="/>
         <POI MapID="1052" xpos="-637.65" ypos="450.409" zpos="162.74" type="legs.gathering.plants.mussels.node" GUID="5qFz16IuQUaTqG6iHVdJSw=="/>
         <POI MapID="1052" xpos="-659.496" ypos="449.581" zpos="168.041" type="legs.gathering.plants.mussels.node" GUID="ZmX5ep3MnUa0NqgrKUFKig=="/>
-        <Trail type="legs.gathering.plants.mussels.ab" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - AB 1.trl"/>
-        <Trail type="legs.gathering.plants.mussels.ab" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - AB 2.trl"/>
-        <Trail type="legs.gathering.plants.mussels.ab" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - AB 3.trl"/>
+        <Trail type="legs.gathering.plants.mussels.ab" trailData="Data/Gathering/Plants/Mussels - AB 1.trl"/>
+        <Trail type="legs.gathering.plants.mussels.ab" trailData="Data/Gathering/Plants/Mussels - AB 2.trl"/>
+        <Trail type="legs.gathering.plants.mussels.ab" trailData="Data/Gathering/Plants/Mussels - AB 3.trl"/>
         <POI MapID="1043" xpos="273.165" ypos="325.67" zpos="637.492" type="legs.gathering.plants.mussels.wp" GUID="7EixWKs2dEq2JXq/t81TLg==" copy="[&amp;BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
         <POI MapID="1043" xpos="481.688" ypos="245.981" zpos="-186.778" type="legs.gathering.plants.mussels.wp" GUID="FzbFrh4+JkiWbIkhiEpivQ==" copy="[&amp;BMYHAAA=] or [&amp;BBAIAAA=]" copy-message="Forgotten City Waypoint&#xA;OR&#xA;Pact Base Camp in Dragon's Stand"/>
         <POI MapID="1043" xpos="256.149" ypos="-7.37485" zpos="-293.277" type="legs.gathering.plants.mussels.wp" GUID="yLO8iS0W60q9fipYTrLafQ==" copy="[&amp;BBAIAAA=]" copy-message="Pact Base Camp&#xA;Dragon's Stand"/>
@@ -974,7 +974,7 @@
         <POI MapID="1043" xpos="131.864" ypos="-6.49741" zpos="-237.612" type="legs.gathering.plants.mussels.node" GUID="yB1Pm2KOGEWFRweHbXU8/A=="/>
         <POI MapID="1043" xpos="178.782" ypos="-7.99503" zpos="-283.859" type="legs.gathering.plants.mussels.node" GUID="X6mAOSMD+ki43WS6+qM3CQ=="/>
         <POI MapID="1043" xpos="206.263" ypos="-3.94585" zpos="-322.205" type="legs.gathering.plants.mussels.node" GUID="Ms4UB5V2S0CZnJFh+cycSg=="/>
-        <Trail type="legs.gathering.plants.mussels.ds" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - DS.trl"/>
+        <Trail type="legs.gathering.plants.mussels.ds" trailData="Data/Gathering/Plants/Mussels - DS.trl"/>
         <POI MapID="1041" xpos="496.55" ypos="63.5322" zpos="-169.096" type="legs.gathering.plants.mussels.wp" GUID="CmMCkmbiDEaOBW57crjp0A==" copy="[&amp;BEsJAAA=]" copy-message="Soulkeeper's Airship&#xA;Bloodstone Fen"/>
         <POI MapID="1041" xpos="56.7377" ypos="51.1698" zpos="776.214" type="legs.gathering.plants.mussels.node" GUID="WY90qiNM9EmIjv3yUlTW4g=="/>
         <POI MapID="1041" xpos="43.7732" ypos="50.6778" zpos="784.76" type="legs.gathering.plants.mussels.node" GUID="kLLUqxZ2CEuwzSNTOsP05g=="/>
@@ -1020,7 +1020,7 @@
         <POI MapID="1041" xpos="507.495" ypos="60.1888" zpos="-152.312" type="legs.gathering.plants.mussels.node" GUID="TzN1zQDlBkCK4GhJH3jRpg=="/>
         <POI MapID="1041" xpos="496.354" ypos="63.5906" zpos="-169.267" type="legs.gathering.plants.mussels.node" GUID="UUx39GE4LEmT/mDMNgwtlA=="/>
         <!-- Bloodstone Fen -->
-        <Trail type="legs.gathering.plants.mussels.bsf" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - Bloodstone.trl"/>
+        <Trail type="legs.gathering.plants.mussels.bsf" trailData="Data/Gathering/Plants/Mussels - Bloodstone.trl"/>
         <POI MapID="1165" xpos="-229.268" ypos="502.292" zpos="-90.2822" type="legs.gathering.plants.mussels.wp" GUID="ej7xbtfg+U2426m1doeFHA==" copy="[&amp;BJEKAAA=]" copy-message="Brightwater Waypoint&#xA;Desert Highlands"/>
         <POI MapID="1165" xpos="-380.983" ypos="541.931" zpos="-105.492" type="legs.gathering.plants.mussels.node" GUID="zjIXWCyk6EesPHkBGbjWRg=="/>
         <POI MapID="1165" xpos="-354.369" ypos="534.211" zpos="-92.653" type="legs.gathering.plants.mussels.node" GUID="nYsbJUgSrkyTFWkPQXaaPg=="/>
@@ -1029,7 +1029,7 @@
         <POI MapID="1165" xpos="-228.203" ypos="502.294" zpos="-74.4627" type="legs.gathering.plants.mussels.node" GUID="8J90wwQCT0mJ2ilV07Zrhw=="/>
         <POI MapID="1165" xpos="-229.226" ypos="502.294" zpos="-90.9837" type="legs.gathering.plants.mussels.node" GUID="9X/RgsefNEa2sXbOQBBOMg=="/>
         <!-- Desert Highlands -->
-        <Trail type="legs.gathering.plants.mussels.dh" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - DH.trl"/>
+        <Trail type="legs.gathering.plants.mussels.dh" trailData="Data/Gathering/Plants/Mussels - DH.trl"/>
         <POI MapID="1211" xpos="-1029.97" ypos="-0.032265" zpos="-520.554" type="legs.gathering.plants.mussels.wp" GUID="USAt1s5/0kuAPaxsl5qG8w==" copy="[&amp;BEAKAAA=]" copy-message="Temple of Kormir Waypoint&#xA;Crystal Oasis"/>
         <POI MapID="1211" xpos="-301.669" ypos="-0.269433" zpos="-580.912" type="legs.gathering.plants.mussels.node" GUID="zE8TOWEUv0WTu1LCYbQ/RQ=="/>
         <POI MapID="1211" xpos="-448.768" ypos="-0.570064" zpos="-456.074" type="legs.gathering.plants.mussels.node" GUID="IxWcw0BLLUCztsONsxLLjQ=="/>
@@ -1038,8 +1038,8 @@
         <POI MapID="1211" xpos="-912.611" ypos="-0.0850038" zpos="-525.87" type="legs.gathering.plants.mussels.node" GUID="nY1UQR2eF0aqce5bB/cRXg=="/>
         <POI MapID="1211" xpos="-1029.89" ypos="-0.035964" zpos="-520.712" type="legs.gathering.plants.mussels.node" GUID="vF5eR4RNt0CfZxUIIMx7KA=="/>
         <!-- Crystal Oasis -->
-        <Trail type="legs.gathering.plants.mussels.co" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - CO 1.trl"/>
-        <Trail type="legs.gathering.plants.mussels.co" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - CO 2.trl"/>
+        <Trail type="legs.gathering.plants.mussels.co" trailData="Data/Gathering/Plants/Mussels - CO 1.trl"/>
+        <Trail type="legs.gathering.plants.mussels.co" trailData="Data/Gathering/Plants/Mussels - CO 2.trl"/>
         <POI MapID="1210" xpos="92.9557" ypos="-0.655193" zpos="357.209" type="legs.gathering.plants.mussels.wp" GUID="bHPNf86/L02fjktA1zEdFA==" copy="[&amp;BLsKAAA=]" copy-message="Amnoon Waypoint"/>
         <POI MapID="1210" xpos="1119.96" ypos="0.0337153" zpos="-519.788" type="legs.gathering.plants.mussels.wp" GUID="d/Ra0AGZs0+94ZyfRHQs9g==" copy="[&amp;BNwKAAA=]" copy-message="Bonestrand Waypoint&#xA;The Desolation"/>
         <POI MapID="1210" xpos="-709.699" ypos="-8.44034" zpos="91.2934" type="legs.gathering.plants.mussels.node" GUID="thTjJw3LvUODVrEsKJOEgg=="/>
@@ -1098,8 +1098,8 @@
         <POI MapID="1210" xpos="144.883" ypos="-0.678815" zpos="340.899" type="legs.gathering.plants.mussels.node" GUID="1uuqu9Ny00GBjukcgZB5tw=="/>
         <POI MapID="1210" xpos="92.5637" ypos="-0.655028" zpos="357.332" type="legs.gathering.plants.mussels.node" GUID="SLor+SJqmkOhYOoiIc9LrA=="/>
         <!-- The Desolation -->
-        <Trail type="legs.gathering.plants.mussels.desolation" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - Desolation 1.trl"/>
-        <Trail type="legs.gathering.plants.mussels.desolation" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - Desolation 2.trl"/>
+        <Trail type="legs.gathering.plants.mussels.desolation" trailData="Data/Gathering/Plants/Mussels - Desolation 1.trl"/>
+        <Trail type="legs.gathering.plants.mussels.desolation" trailData="Data/Gathering/Plants/Mussels - Desolation 2.trl"/>
         <POI MapID="1226" xpos="23.05638" ypos="0.2721848" zpos="1434.504" type="legs.gathering.plants.mussels.desolation.1" GUID="btdVKZfjS0uVJVukzf0/Iw=="/>
         <POI MapID="1226" xpos="36.35638" ypos="0.4653745" zpos="1433.166" type="legs.gathering.plants.mussels.desolation.2" GUID="Pn8DN4xdTUWZ5iJ+JtdnXg=="/>
         <POI MapID="1226" xpos="-533.833" ypos="-19.4369" zpos="1197.46" type="legs.gathering.plants.mussels.wp" GUID="btapCBlz6ESXmwbyjoukvA==" copy="[&amp;BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
@@ -1119,7 +1119,7 @@
         <POI MapID="1226" xpos="1030.75" ypos="-0.655874" zpos="1406.32" type="legs.gathering.plants.mussels.node" GUID="6RjAcqsns0mAPU1OIENyxQ=="/>
         <POI MapID="1226" xpos="1049.6" ypos="-0.768415" zpos="1517.97" type="legs.gathering.plants.mussels.node" GUID="5X58xXMUikqrv+mQ/zrgew=="/>
         <!-- Jahai Bluffs -->
-        <Trail type="legs.gathering.plants.mussels.jahai" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - Jahai.trl"/>
+        <Trail type="legs.gathering.plants.mussels.jahai" trailData="Data/Gathering/Plants/Mussels - Jahai.trl"/>
         <POI MapID="1301" xpos="755.797" ypos="-0.343455" zpos="-140.711" type="legs.gathering.plants.mussels.wp" GUID="LXSQBx9Iekq9ABNz4dP1LA==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint&#xA;Domain of Kourna"/>
         <POI MapID="1301" xpos="982.343" ypos="113.107" zpos="749.874" type="legs.gathering.plants.mussels.node" GUID="ABw9MkJYxkGakhJEEWWF/g=="/>
         <POI MapID="1301" xpos="1080.92" ypos="113.133" zpos="860.415" type="legs.gathering.plants.mussels.node" GUID="HqqMQPV7U0SnhXclByNYug=="/>
@@ -1139,7 +1139,7 @@
 
         
         <!-- Domain of Kourna -->
-        <Trail type="legs.gathering.plants.mussels.kourna" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - Kourna 1.trl"/>
+        <Trail type="legs.gathering.plants.mussels.kourna" trailData="Data/Gathering/Plants/Mussels - Kourna 1.trl"/>
         <POI MapID="1288" xpos="226.307" ypos="-2.77738" zpos="-430.679" type="legs.gathering.plants.mussels.wp" GUID="c2Y0O2wn90SjbLwG/n0lbw==" copy="[&amp;BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
         <POI MapID="1288" xpos="-552.8575" ypos="18.86904" zpos="258.9334" type="legs.gathering.plants.mussels.node" GUID="G85YPnqlakaWp5RKrUgrYA=="/>
         <POI MapID="1288" xpos="-483.324" ypos="-0.679497" zpos="59.8299" type="legs.gathering.plants.mussels.node" GUID="XvrN3Kh9t0SojIiaWvvdVA=="/>
@@ -1186,7 +1186,7 @@
         <POI MapID="1288" xpos="227.615" ypos="-0.750719" zpos="-332.297" type="legs.gathering.plants.mussels.node" GUID="jlLLqXF3B0WxkLqmQuSa3w=="/>
         <POI MapID="1288" xpos="286.688" ypos="-0.744928" zpos="-385.669" type="legs.gathering.plants.mussels.node" GUID="Pe6RvsgIWkWTH6N0uK5VTQ=="/>
         <POI MapID="1288" xpos="226.113" ypos="-2.73468" zpos="-430.659" type="legs.gathering.plants.mussels.node" GUID="tsEo/7LKYUC6CTScPRykmQ=="/>
-        <Trail type="legs.gathering.plants.mussels.kourna" trailData="Data/LadyElyssa/Gathering/Plants/Mussels - Kourna 2.trl"/>
+        <Trail type="legs.gathering.plants.mussels.kourna" trailData="Data/Gathering/Plants/Mussels - Kourna 2.trl"/>
         <POI MapID="1288" xpos="-93.3042" ypos="-0.958024" zpos="925.109" type="legs.gathering.plants.mussels.node" GUID="5Bk3uRCJrU2cQHWmI9rj/A=="/>
         <POI MapID="1288" xpos="-130.028" ypos="-3.14064" zpos="954.668" type="legs.gathering.plants.mussels.node" GUID="0cJgvfq6yku3qDWbG+nzmQ=="/>
         <POI MapID="1288" xpos="-88.2571" ypos="-0.0191929" zpos="970.59" type="legs.gathering.plants.mussels.node" GUID="I8k0eu69C0a9kRE6jccmVg=="/>
@@ -1283,8 +1283,8 @@
         <POI MapID="62" xpos="-222.474" ypos="57.9747" zpos="-863.413" type="legs.gathering.plants.om.node" GUID="TRUl2uHgVkK3r5gaZUJomA=="/>
         <POI MapID="62" xpos="-257.59" ypos="21.7129" zpos="-682.325" type="legs.gathering.plants.om.node" GUID="gabFzniBZ0SXUSSi8qiu9g=="/>
         <!-- Siren's Landing -->
-        <Trail type="legs.gathering.plants.om.siren" trailData="Data/LadyElyssa/Gathering/Plants/Omnomberry - Siren's Landing Alt.trl"  texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <Trail type="legs.gathering.plants.om.siren" trailData="Data/LadyElyssa/Gathering/Plants/Omnomberry - Siren's Landing.trl"/>
+        <Trail type="legs.gathering.plants.om.siren" trailData="Data/Gathering/Plants/Omnomberry - Siren's Landing Alt.trl"  texture="Data/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.gathering.plants.om.siren" trailData="Data/Gathering/Plants/Omnomberry - Siren's Landing.trl"/>
         <POI MapID="1203" xpos="-151.879" ypos="7.4705" zpos="37.5141" type="legs.gathering.plants.om.node" GUID="sMrydqBXWUqfREho0YEwlA=="/>
         <POI MapID="1203" xpos="-204.436" ypos="17.4035" zpos="68.878" type="legs.gathering.plants.om.node" GUID="SKh4GgAepk2a84F8a7PYZw=="/>
         <POI MapID="1203" xpos="-245.072" ypos="15.3088" zpos="39.1552" type="legs.gathering.plants.om.node" GUID="wHyp3CyhO02AiBUUJRS6Zw=="/>
@@ -1299,7 +1299,7 @@
 
         <!-- ORRIAN TRUFFLE -->
         <!-- Straits Of Devastation -->
-        <Trail type="legs.gathering.plants.truffle.straits" trailData="Data/LadyElyssa/Gathering/Plants/Orrian Truffle - Straits of Devastation.trl"/>
+        <Trail type="legs.gathering.plants.truffle.straits" trailData="Data/Gathering/Plants/Orrian Truffle - Straits of Devastation.trl"/>
         <POI MapID="51" xpos="-868.958" ypos="54.7935" zpos="-631.45" type="legs.gathering.plants.truffle.wp" GUID="7XmKPMvox0OtL7Pq6eeByQ==" copy="[&amp;BPsCAAA=]" copy-message="Sentry Waypoint"/>
         <POI MapID="51" xpos="-763.715" ypos="27.906" zpos="-179.91" type="legs.gathering.plants.truffle.wp" GUID="0eosvB9iiE6szy5tvZp4gg==" copy="[&amp;BCEDAAA=]" copy-message="Caer Shadowfain&#xA;Cursed Shore"/>
         <POI MapID="51" xpos="-861.077" ypos="8.63258" zpos="59.4074" type="legs.gathering.plants.truffle.node" GUID="mpX8LMxXA0avwJeP5r0R+w=="/>
@@ -1321,7 +1321,7 @@
         <POI MapID="65" xpos="332.809" ypos="28.8595" zpos="-406.786" type="legs.gathering.plants.truffle.node" GUID="1FwSbHlbkUyAWJXmeWzx+g=="/>
         <POI MapID="65" xpos="-397.592" ypos="24.3871" zpos="-387.056" type="legs.gathering.plants.truffle.node" GUID="ycMJP/akpUO4LIIe+zJajQ=="/>
         <!-- Cursed Shore -->
-        <Trail type="legs.gathering.plants.truffle.cs" trailData="Data/LadyElyssa/Gathering/Plants/Orrian Truffle - Cursed Shore.trl"/>
+        <Trail type="legs.gathering.plants.truffle.cs" trailData="Data/Gathering/Plants/Orrian Truffle - Cursed Shore.trl"/>
         <POI MapID="62" xpos="20.794" ypos="27.0581" zpos="889.923" type="legs.gathering.plants.truffle.wp" GUID="/Gjfcp69SEinQXnLiGo83g==" copy="[&amp;BBoDAAA=]" copy-message="Gavbeorn's Waypoint"/>
         <POI MapID="62" xpos="40.1465" ypos="6.06573" zpos="592.892" type="legs.gathering.plants.truffle.wp" GUID="/MGLc+k7j02hFkxajSLccg==" copy="[&amp;BBsDAAA=]" copy-message="Verdance Waypoint"/>
         <POI MapID="62" xpos="183.984" ypos="20.2745" zpos="180.907" type="legs.gathering.plants.truffle.wp" GUID="06eRdRrZ+0WHXZDiycXjjA==" copy="[&amp;BO8JAAA=]" copy-message="Camp Reclamation Waypoint&#xA;Siren's Landing"/>
@@ -1341,7 +1341,7 @@
         <POI MapID="62" xpos="-4.67078" ypos="11.2181" zpos="-1086.61" type="legs.gathering.plants.truffle.node" GUID="nMAB1EICF0usR4iSmyX7vw=="/>
 
         <!-- Siren's Landing -->
-        <Trail type="legs.gathering.plants.truffle.sirens" trailData="Data/LadyElyssa/Gathering/Plants/Orrian Truffle - Siren's Landing.trl"/>
+        <Trail type="legs.gathering.plants.truffle.sirens" trailData="Data/Gathering/Plants/Orrian Truffle - Siren's Landing.trl"/>
         <POI MapID="1203" xpos="127.377" ypos="36.1193" zpos="-97.0943" type="legs.gathering.plants.truffle.node" GUID="KF9EBJs7aUSO9RiAfHRxBg=="/>
         <POI MapID="1203" xpos="-157.191" ypos="39.2596" zpos="-85.4743" type="legs.gathering.plants.truffle.node" GUID="e323oU5g9Ualaa6r4DdBiA=="/>
         <POI MapID="1203" xpos="-227.186" ypos="29.2601" zpos="-166.803" type="legs.gathering.plants.truffle.node" GUID="pat3meuPZ0CG7DPt3X/+9w=="/>
@@ -1352,16 +1352,16 @@
         <POI MapID="1203" xpos="-529.678" ypos="67.1736" zpos="-95.0411" type="legs.gathering.plants.truffle.node" GUID="u4Y2j+3H+U27sykNEMK/+g=="/>
 
         <!-- POTATOES -->
-        <Trail type="legs.gathering.plants.potato.metrica" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Metrica Province.trl"/>
-        <Trail type="legs.gathering.plants.potato.metrica" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Metrica Province Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.gathering.plants.potato.metrica" trailData="Data/Gathering/Plants/Potatoes - Metrica Province.trl"/>
+        <Trail type="legs.gathering.plants.potato.metrica" trailData="Data/Gathering/Plants/Potatoes - Metrica Province Alt.trl" texture="Data/Images/Dashed Line with Shadow.png"/>
         <POI MapID="35" xpos="404.373" ypos="47.6063" zpos="-398.381" type="legs.gathering.plants.potato.wp" GUID="RcVwwb1qc0uPde26peidnA==" copy="[&amp;BMcDAAA=]" copy-message="Loreclaw Waypoint&#xA;Plains of Ashford"/>
         <POI MapID="35" xpos="407.341" ypos="47.6081" zpos="-385.862" type="legs.gathering.plants.potato.node" GUID="pWXtpuwH00yZD1r8bii1aA=="/>
 
-        <Trail type="legs.gathering.plants.potato.ashford" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Plains of Ashford.trl"/>
+        <Trail type="legs.gathering.plants.potato.ashford" trailData="Data/Gathering/Plants/Potatoes - Plains of Ashford.trl"/>
         <POI MapID="19" xpos="740.77" ypos="19.2532" zpos="-541.44" type="legs.gathering.plants.potato.wp" GUID="PSIeU1NplU6nSHDMNekOZw==" copy="[&amp;BLsKAAA=]" copy-message="Amnoon Waypoint&#xA;Crystal Oasis"/>
         <POI MapID="19" xpos="745.771" ypos="19.5025" zpos="-547.698" type="legs.gathering.plants.potato.node" GUID="4SKXlDhET0OQCbIRA88BVA=="/>
         
-        <Trail type="legs.gathering.plants.potato.co" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Crystal Oasis.trl"/>
+        <Trail type="legs.gathering.plants.potato.co" trailData="Data/Gathering/Plants/Potatoes - Crystal Oasis.trl"/>
         <POI MapID="1210" xpos="146.067" ypos="103.621" zpos="-82.5818" type="legs.gathering.plants.potato.node" GUID="f/uNuwcs40Wj5oIpvNu0lA=="/>
         <POI MapID="1210" xpos="155.53" ypos="103.216" zpos="-76.1259" type="legs.gathering.plants.potato.node" GUID="cX+Op2UauEyE221MC5yUeg=="/>
         <POI MapID="1210" xpos="150.508" ypos="103.538" zpos="-79.6766" type="legs.gathering.plants.potato.node" GUID="TreltyztAU+NCEGvIoSxMA=="/>
@@ -1421,8 +1421,8 @@
         <POI MapID="1045" xpos="-163.154" ypos="155.655" zpos="259.101" type="legs.gathering.plants.sawgill.mushrooms" GUID="OHaJW+LTY0GsgrpgB+yI7Q=="/>
         <POI MapID="1045" xpos="241.315" ypos="120.039" zpos="240.979" type="legs.gathering.plants.sawgill.mushrooms" GUID="nQtZLR/RO02HdysRElbFaA=="/>
         <!-- Dragon's Stand -->
-        <Trail type="legs.gathering.plants.sawgill.ds" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushroom - Dragons Stand 1.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.ds" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushroom - Dragons Stand 2.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.ds" trailData="Data/Gathering/Plants/Sawgill Mushroom - Dragons Stand 1.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.ds" trailData="Data/Gathering/Plants/Sawgill Mushroom - Dragons Stand 2.trl"/>
         <POI MapID="1041" xpos="488.987" ypos="0.935268" zpos="331.752" type="legs.gathering.plants.sawgill.wp" GUID="4yPU3ZYWokOpivwTyXqv0w==" copy="[&amp;BHoIAAA=]" copy-message="Pack Base Southern Waypoint"/>
         <POI MapID="1041" xpos="-95.4124" ypos="31.999" zpos="450.339" type="legs.gathering.plants.sawgill.wp" GUID="b+nDxVn37EKNgrX0c5W2Mg==" copy="[&amp;BEEJAAA=]" copy-message="Ground Zero&#xA;Bloodstone Fen"/>
         <POI MapID="1041" xpos="400.807" ypos="113.273" zpos="786.063" type="legs.gathering.plants.sawgill.mushrooms" GUID="lKSCP51PbUah6iUNX96vBA=="/>
@@ -1450,8 +1450,8 @@
         <POI MapID="1041" xpos="89.4353" ypos="59.128" zpos="767.716" type="legs.gathering.plants.sawgill.mushrooms" GUID="9EkcmtwE/0qG9qWUEs2ynw=="/>
         <!-- LIVING WORLD SEASON 3 -->
         <!-- Bloodstone Fen -->
-        <Trail type="legs.gathering.plants.sawgill.bsf" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Bloodstone Fen 1.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.bsf" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Bloodstone Fen 2.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.bsf" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Bloodstone Fen 1.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.bsf" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Bloodstone Fen 2.trl"/>
         <POI MapID="1165" xpos="250.593" ypos="309.22" zpos="-19.8318" type="legs.gathering.plants.sawgill.wp" GUID="0LrJh/TwpU6lpB2gdF6HAg==" copy="[&amp;BD8JAAA=]" copy-message="Depths of the Maw Waypoint"/>
         <POI MapID="1165" xpos="-243.08" ypos="33.5768" zpos="6.46691" type="legs.gathering.plants.sawgill.wp" GUID="GsIIkkitIkqV92kf4VZgCA==" copy="[&amp;BK8JAAA=]" copy-message="Red Leaf Retreat Waypoint&#xA;Lake Doric"/>
         <POI MapID="1165" xpos="4.23956" ypos="112.611" zpos="1.99532" type="legs.gathering.plants.sawgill.mushrooms" GUID="26zVzYUEO06c/8zO7b8G5g=="/>
@@ -1463,10 +1463,10 @@
         <POI MapID="1165" xpos="95.0963" ypos="175.698" zpos="154.215" type="legs.gathering.plants.sawgill.mushrooms" GUID="vBN7+MWVTUqRyN33pVtJIA=="/>
         <POI MapID="1165" xpos="-26.8971" ypos="266.442" zpos="106.115" type="legs.gathering.plants.sawgill.mushrooms" GUID="jmSNM5f4f0S+cvJo+vDQyw=="/>        
         <!-- Lake Doric -->
-        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Doric 1.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Doric 2.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Doric 3 Alt.trl" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" color="00CDFF"/>
-        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Doric 3.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Doric 1.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Doric 2.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Doric 3 Alt.trl" texture="Data/Images/Dashed Line with Shadow.png" color="00CDFF"/>
+        <Trail type="legs.gathering.plants.sawgill.doric" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Doric 3.trl"/>
         <POI MapID="1185" xpos="299.5397" ypos="45.95898" zpos="-290.1509" type="legs.gathering.plants.sawgill.doric.2" GUID="lXl0wfpG6E6ueqGeu4WjrQ=="/>
         <POI MapID="1185" xpos="298.8112" ypos="45.93896" zpos="-301.304" type="legs.gathering.plants.sawgill.doric.3" GUID="xEy0CkZakUe99IMeN/vpng=="/>
         <POI MapID="1185" xpos="0.751494" ypos="42.4695" zpos="369.384" type="legs.gathering.plants.sawgill.wp" GUID="Hi+Wmx0fNE2AyCG1GJCJqw==" copy="[&amp;BLQJAAA=]" copy-message="Lakeside Bazaar Waypoint"/>
@@ -1556,11 +1556,11 @@
         <POI MapID="1185" xpos="-151.706" ypos="44.7152" zpos="325.417" type="legs.gathering.plants.sawgill.mushrooms" GUID="OjMDK9lOC0etboQ339XtrA=="/>
         <POI MapID="1185" xpos="223.515" ypos="30.8956" zpos="-712.156" type="legs.gathering.plants.sawgill.mushrooms" GUID="0XvP3QOY0k+cpwE4ujmDCw=="/>
         <!-- Draconis Mons -->
-        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 1.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 2.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 3.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 4.trl"/>
-        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 5.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 1.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 2.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 3.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 4.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.draconis" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Draconis Mons 5.trl"/>
         <POI MapID="1195" xpos="493.525" ypos="398.303" zpos="-412.603" type="legs.gathering.plants.sawgill.wp" GUID="h+njopTj/U+tRbt2zdeyJw==" copy="[&amp;BM0JAAA=]" copy-message="Heathen's Hold Waypoint"/>
         <POI MapID="1195" xpos="-295.4385" ypos="360.4459" zpos="-50.24387" type="legs.gathering.plants.sawgill.wp" GUID="I5A4S3c1fEq43mVuNuvO7A==" copy="[&amp;BNUJAAA=]" copy-message="Ancient Hollow Waypoint"/>
         <POI MapID="1195" xpos="71.4833" ypos="232.333" zpos="-8.7032" type="legs.gathering.plants.sawgill.wp" GUID="2hPOIokxRkaOPOSXmDUZaw==" copy="[&amp;BNUJAAA=]" copy-message="Ancient Hollow Waypoint"/>    
@@ -1613,7 +1613,7 @@
         <POI MapID="1195" xpos="-4.64625" ypos="244.298" zpos="-64.956" type="legs.gathering.plants.sawgill.mushrooms" GUID="GJ+UBFrqpE29QWYNYFgGhw=="/>
         <!-- LIVING WORLD SEASON 4 -->
         <!-- Domain of Istan -->
-        <Trail type="legs.gathering.plants.sawgill.istan" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Istan.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.istan" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Istan.trl"/>
         <POI MapID="1263" xpos="119.96" ypos="-0.680725" zpos="596.066" type="legs.gathering.plants.sawgill.wp" GUID="3ypiIAoC8U6CVRR7W+2h8g==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xA;Jahai Bluffs"/>
         <POI MapID="1263" xpos="260.253" ypos="62.8884" zpos="481.837" type="legs.gathering.plants.sawgill.mushrooms" GUID="JFtJIrPbokatGa66/cbxPQ=="/>
         <POI MapID="1263" xpos="231.784" ypos="48.3418" zpos="597.376" type="legs.gathering.plants.sawgill.mushrooms" GUID="SUWlvUwVsUejb+lM/jaM4A=="/>
@@ -1622,7 +1622,7 @@
         <POI MapID="1263" xpos="48.6071" ypos="101.525" zpos="582.875" type="legs.gathering.plants.sawgill.mushrooms" GUID="XvAeo5mWF0ONeuRqaqnt5A=="/>
         <POI MapID="1263" xpos="122.386" ypos="0.953847" zpos="594.38" type="legs.gathering.plants.sawgill.mushrooms" GUID="zmck7Bs04k6IrY520TTyJA=="/>
         <!-- Jahai Bluffs -->
-        <Trail type="legs.gathering.plants.sawgill.jahai" trailData="Data/LadyElyssa/Gathering/Plants/Sawgill Mushrooms - Jahai.trl"/>
+        <Trail type="legs.gathering.plants.sawgill.jahai" trailData="Data/Gathering/Plants/Sawgill Mushrooms - Jahai.trl"/>
         <POI MapID="1301" xpos="-27.6451" ypos="103.822" zpos="552.236" type="legs.gathering.plants.sawgill.mushrooms" GUID="GWoFavUY6k+EmZROfhPCdQ=="/>
         <POI MapID="1301" xpos="67.8465" ypos="103.473" zpos="543.536" type="legs.gathering.plants.sawgill.mushrooms" GUID="Rx1sJKEgz0iyrDRlBPX/Og=="/>
         <POI MapID="1301" xpos="-126.921" ypos="161.453" zpos="645.508" type="legs.gathering.plants.sawgill.mushrooms" GUID="62Kdq+A+kEWYl59HcmodHQ=="/>
@@ -1645,7 +1645,7 @@
         <POI MapID="62" xpos="51.6974" ypos="-48.9185" zpos="-1095.81" type="legs.gathering.plants.seaweed.node" GUID="N5jkSWc4DUqTeDUCCf9Ukw=="/>
         <POI MapID="62" xpos="160.526" ypos="-47.2399" zpos="-1109.27" type="legs.gathering.plants.seaweed.node" GUID="odOqKHhTqUu4bgRTaxvDZA=="/>
         <!-- LWS3 -->
-        <Trail type="legs.gathering.plants.seaweed.ember" trailData="Data/LadyElyssa/Gathering/Plants/Seaweed - Ember Bay.trl"/>
+        <Trail type="legs.gathering.plants.seaweed.ember" trailData="Data/Gathering/Plants/Seaweed - Ember Bay.trl"/>
         <POI MapID="1175" xpos="-77.9361" ypos="-73.4804" zpos="-924.409" type="legs.gathering.plants.seaweed.wp" GUID="yww+K/DxC0K8HEE23twOcw==" copy="[&amp;BKYLAAA=]" copy-message="Revolution's Heart Waypoint&#xA;Thunderhead Peaks"/>
         <POI MapID="1175" xpos="-77.9361" ypos="-73.4804" zpos="-924.409" type="legs.gathering.plants.seaweed.node" GUID="FKN0bQT56USjxup0/tfOkg=="/>
         <POI MapID="1175" xpos="-85.5528" ypos="-72.159" zpos="-920.7" type="legs.gathering.plants.seaweed.node" GUID="Pfa/hJcwJUCpXc2X7IgeGQ=="/>
@@ -1663,7 +1663,7 @@
         <POI MapID="1263" xpos="525.174" ypos="0.128498" zpos="355.831" type="legs.gathering.plants.seaweed.node" GUID="uXyNUCJyzk2Yb9cD9UZU/Q=="/>
         
         <!-- Siren's Landing -->
-        <Trail type="legs.gathering.plants.seaweed.thunderhead" trailData="Data/LadyElyssa/Gathering/Plants/Seaweed - Thunderhead.trl"/>
+        <Trail type="legs.gathering.plants.seaweed.thunderhead" trailData="Data/Gathering/Plants/Seaweed - Thunderhead.trl"/>
         <POI MapID="1310" xpos="-22.2604" ypos="-102.273" zpos="-693.294" type="legs.gathering.plants.seaweed.node" GUID="JfbLPO9cHku3+q5AwHr+1w=="/>
         <POI MapID="1310" xpos="-11.9601" ypos="-106.137" zpos="-702.768" type="legs.gathering.plants.seaweed.node" GUID="yeCAt3HiYkCeXvzEWmYwDA=="/>
         <POI MapID="1310" xpos="2.26194" ypos="-104.583" zpos="-711.12" type="legs.gathering.plants.seaweed.node" GUID="+ZnNtlrZfUy1pGUM1TXN9w=="/>
@@ -1676,7 +1676,7 @@
 
         <!-- LWS5 -->
         <!-- Drizzlewood -->
-        <Trail type="legs.gathering.plants.seaweed.drizzlewood" trailData="Data/LadyElyssa/Gathering/Plants/Clams and Seaweed - Drizzlewood Coast.trl"/>
+        <Trail type="legs.gathering.plants.seaweed.drizzlewood" trailData="Data/Gathering/Plants/Clams and Seaweed - Drizzlewood Coast.trl"/>
         <POI MapID="1371" xpos="586.484" ypos="-14.7624" zpos="-857.703" type="legs.gathering.plants.seaweed.node" GUID="iv2ocXdE4EusXFEQXnknMA=="/>
         <POI MapID="1371" xpos="580.339" ypos="-18.1724" zpos="-784.471" type="legs.gathering.plants.seaweed.node" GUID="4vWpmrGIM0mCasij/RDhsQ=="/>
         <POI MapID="1371" xpos="544.845" ypos="-21.0546" zpos="-787.457" type="legs.gathering.plants.seaweed.node" GUID="3OWNVGu7LU6IVw2Ft2ME6g=="/>
@@ -1703,15 +1703,15 @@
         <POI MapID="1371" xpos="-182.688" ypos="-13.8582" zpos="-123.349" type="legs.gathering.plants.seaweed.node" GUID="FHCsDieX/0uX/8iQI+oJow=="/>
         
         <!-- STRAWBERRIES -->
-        <Trail type="legs.gathering.plants.strawberry.diessa" trailData="Data/LadyElyssa/Gathering/Plants/Strawberries - Diessa Plateau.trl"/>
+        <Trail type="legs.gathering.plants.strawberry.diessa" trailData="Data/Gathering/Plants/Strawberries - Diessa Plateau.trl"/>
         <POI MapID="32" xpos="-1041.54" ypos="68.6541" zpos="-620.423" type="legs.gathering.plants.strawberry.wp" GUID="PNDT2imn6kSFb1WvHB+kOg==" copy="[&amp;BMAAAAA=]" copy-message="Reaver's Waypoint&#xA;Snowden Drifts"/>
         <POI MapID="32" xpos="-1040.78" ypos="68.7922" zpos="-621.772" type="legs.gathering.plants.strawberry.node" GUID="imZCJPMM90Sp55GloLBekA=="/>
-        <Trail type="legs.gathering.plants.strawberry.snowden" trailData="Data/LadyElyssa/Gathering/Plants/Strawberries - Snowden Drifts.trl"/>
+        <Trail type="legs.gathering.plants.strawberry.snowden" trailData="Data/Gathering/Plants/Strawberries - Snowden Drifts.trl"/>
         <POI MapID="31" xpos="759.273" ypos="113.092" zpos="-441.193" type="legs.gathering.plants.strawberry.node" GUID="1hG+jQpCYUKCYTv3HCi4Fg=="/>
         <POI MapID="31" xpos="752.77" ypos="111.435" zpos="-439.603" type="legs.gathering.plants.strawberry.end" GUID="r7FKNvfRwUGkP2+sNDTzfQ=="/>
 
         <!-- SUGAR PUMPKINS -->
-        <Trail type="legs.gathering.plants.pumpkins.ironmarches" trailData="Data/LadyElyssa/Gathering/Plants/Sugar Pumpkins - Iron Marches.trl"/>
+        <Trail type="legs.gathering.plants.pumpkins.ironmarches" trailData="Data/Gathering/Plants/Sugar Pumpkins - Iron Marches.trl"/>
         <POI MapID="25" xpos="-437.273" ypos="38.173" zpos="771.272" type="legs.gathering.plants.pumpkins.wp" GUID="P7Dk9CxAo0C7QbJSiYnh9g==" copy="[&amp;BKcBAAA=]" copy-message="Remanda Waypoint&#xA;Bloodtide Coast"/>
         <POI MapID="25" xpos="-434.276" ypos="36.2583" zpos="706.151" type="legs.gathering.plants.pumpkins.node" GUID="/houOA/6BUiUUZmZaxrrZA=="/>
         <POI MapID="25" xpos="-437.284" ypos="38.1719" zpos="771.358" type="legs.gathering.plants.pumpkins.node" GUID="Wd2bwTAQCEmXzk8AZ2KBUQ=="/>
@@ -1722,7 +1722,7 @@
         <POI MapID="25" xpos="-419.83" ypos="35.8492" zpos="716.976" type="legs.gathering.plants.pumpkins.node" GUID="Tgh9Ibp1rEWBkXADxhn6ZA=="/>
         <POI MapID="25" xpos="-432.611" ypos="37.9994" zpos="727.57" type="legs.gathering.plants.pumpkins.node" GUID="6y9te8L9CUua5fVrO7CHfQ=="/>
 
-        <Trail type="legs.gathering.plants.pumpkins.bloodtide" trailData="Data/LadyElyssa/Gathering/Plants/Sugar Pumpkins - Bloodtide Coast.trl" copy="[&amp;BJ4MAAA=]" copy-message="Village Waypoint&#xA;Seitung Province"/>
+        <Trail type="legs.gathering.plants.pumpkins.bloodtide" trailData="Data/Gathering/Plants/Sugar Pumpkins - Bloodtide Coast.trl" copy="[&amp;BJ4MAAA=]" copy-message="Village Waypoint&#xA;Seitung Province"/>
         <POI MapID="73" xpos="620.97" ypos="67.813" zpos="9.57362" type="legs.gathering.plants.pumpkins.wp" GUID="Jsml/MRS4EmxnoT9x+rHbg=="/>
         <POI MapID="73" xpos="614.713" ypos="69.7824" zpos="17.6014" type="legs.gathering.plants.pumpkins.node" GUID="wYSzNI/PS0aXyuefRdMOQw=="/>
         <POI MapID="73" xpos="618.278" ypos="69.3078" zpos="18.9533" type="legs.gathering.plants.pumpkins.node" GUID="+yxcvivRT0mE9+LdNW8PLw=="/>
@@ -1733,7 +1733,7 @@
         <POI MapID="73" xpos="626.403" ypos="67.1553" zpos="10.2879" type="legs.gathering.plants.pumpkins.node" GUID="uiym3jmwB0ubRu4EPK2FMg=="/>
         <POI MapID="73" xpos="620.38" ypos="67.9133" zpos="9.74124" type="legs.gathering.plants.pumpkins.node" GUID="ZdedOws6T0O6RY1dqJTf1g=="/>
 
-        <Trail type="legs.gathering.plants.pumpkins.seitung" trailData="Data/LadyElyssa/Gathering/Plants/Sugar Pumpkins - Seitung Province.trl"/>
+        <Trail type="legs.gathering.plants.pumpkins.seitung" trailData="Data/Gathering/Plants/Sugar Pumpkins - Seitung Province.trl"/>
         <POI MapID="1442" xpos="-110.63" ypos="48.3191" zpos="-470.073" type="legs.gathering.plants.pumpkins.node" GUID="VnAZH5ppbEqbgVxt9XqtLQ=="/>
         <POI MapID="1442" xpos="-104.066" ypos="48.3221" zpos="-469.77" type="legs.gathering.plants.pumpkins.node" GUID="tqeoKFuWrk6WllRB6uCBNA=="/>
         <POI MapID="1442" xpos="-103.78" ypos="48.322" zpos="-467.042" type="legs.gathering.plants.pumpkins.node" GUID="9bKtG4ExJ0Oi1bNk7X6wsg=="/>
@@ -1748,7 +1748,7 @@
 
         <!-- Fireheart Rise -->
 
-        <Trail type="legs.gathering.plants.verdant.fireheart" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Fireheart Rise.trl"/>
+        <Trail type="legs.gathering.plants.verdant.fireheart" trailData="Data/Gathering/Plants/Verdant Herbs - Fireheart Rise.trl"/>
         <POI MapID="22" xpos="224.982" ypos="28.6461" zpos="565.848" type="legs.gathering.plants.verdant.herbs" GUID="obIm+WDiNkuzRURyB3CiuQ=="/>
         <POI MapID="22" xpos="-247.151" ypos="22.4348" zpos="-605.095" type="legs.gathering.plants.verdant.herbs" GUID="M/G4WTr+UEunnA+ElWberw=="/>
         <POI MapID="22" xpos="-81.9975" ypos="17.1675" zpos="-503.337" type="legs.gathering.plants.verdant.herbs" GUID="16CGPGGrQkCL5SZEDZ9XVg=="/>
@@ -1764,7 +1764,7 @@
 
         <!-- Mount Maelstrom -->
 
-        <Trail type="legs.gathering.plants.verdant.maelstrom" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Mount Maelstrom.trl"/>
+        <Trail type="legs.gathering.plants.verdant.maelstrom" trailData="Data/Gathering/Plants/Verdant Herbs - Mount Maelstrom.trl"/>
         <POI MapID="39" xpos="-4.91424" ypos="13.0306" zpos="560.961" type="legs.gathering.plants.verdant.herbs" GUID="On728I4/FEeasXnSNcrhkw=="/>
         <POI MapID="39" xpos="-28.4088" ypos="25.5918" zpos="669.329" type="legs.gathering.plants.verdant.herbs" GUID="whaN5zDezEOsTKdjZkyIDw=="/>
         <POI MapID="39" xpos="-110.738" ypos="14.1267" zpos="480.16" type="legs.gathering.plants.verdant.herbs" GUID="E356oSUxbEKqu8wy3M72Wg=="/>
@@ -1782,7 +1782,7 @@
 
         <!-- Verdant Herbs - Lake Doric -->
 
-        <Trail type="legs.gathering.plants.verdant.doric" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Lake Doric.trl"/>
+        <Trail type="legs.gathering.plants.verdant.doric" trailData="Data/Gathering/Plants/Verdant Herbs - Lake Doric.trl"/>
         <POI MapID="1185" xpos="-338.812" ypos="102.042" zpos="567.887" type="legs.gathering.plants.verdant.start" GUID="15UOgU//Sk+O5Yk6lABHfQ=="/>
         <POI MapID="1185" xpos="226.177" ypos="61.2472" zpos="-588.6" type="legs.gathering.plants.verdant.end" GUID="bOO+KP5pfU6gptfDquz/Mw=="/>
         <POI MapID="1185" xpos="-288.642" ypos="91.1449" zpos="505.092" type="legs.gathering.plants.verdant.herbs" GUID="jpd0Eq06/0++qYuIE7OXMw=="/>
@@ -1813,7 +1813,7 @@
 
         <!-- Verdant Herbs - Bjora Marches -->
 
-        <Trail type="legs.gathering.plants.verdant.bjora" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Bjora Marches.trl"/>
+        <Trail type="legs.gathering.plants.verdant.bjora" trailData="Data/Gathering/Plants/Verdant Herbs - Bjora Marches.trl"/>
         <POI MapID="1343" xpos="-286.157" ypos="170.632" zpos="184.538" type="legs.gathering.plants.verdant.start" GUID="OJrCZDHU9Uuzb8EpNTLXuA=="/>
         <POI MapID="1343" xpos="-477.508" ypos="178.884" zpos="-473.292" type="legs.gathering.plants.verdant.end" GUID="Eoq4ZuPINkmkUQiHXnBFpQ=="/>
         <POI MapID="1343" xpos="-182.046" ypos="224.021" zpos="596.126" type="legs.gathering.plants.verdant.wp" GUID="d/fn5X1Yp0ySCSGyS6RGjg==" copy="[&amp;BDkMAAA=]" copy-message="Still Waters Speaking Waypoint"/>
@@ -1877,8 +1877,8 @@
         <POI MapID="1343" xpos="-279.72" ypos="287.379" zpos="-289.22" type="legs.gathering.plants.verdant.herbs" GUID="iBB2Ka98w0ytFaaMMFwDGg=="/>
 
         <!-- Verdant Herbs - Grothmar Valley -->
-        <Trail type="legs.gathering.plants.verdant.grothmar" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Grothmar 1.trl"/>
-        <Trail type="legs.gathering.plants.verdant.grothmar" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Grothmar 2.trl"/>
+        <Trail type="legs.gathering.plants.verdant.grothmar" trailData="Data/Gathering/Plants/Verdant Herbs - Grothmar 1.trl"/>
+        <Trail type="legs.gathering.plants.verdant.grothmar" trailData="Data/Gathering/Plants/Verdant Herbs - Grothmar 2.trl"/>
         <POI MapID="1330" xpos="-153.32" ypos="3.65447" zpos="-35.124" type="legs.gathering.plants.verdant.herbs" GUID="2zCbH4yr/06Pq48n3FNHxw=="/>
         <POI MapID="1330" xpos="-256.51" ypos="7.84168" zpos="256.846" type="legs.gathering.plants.verdant.herbs" GUID="1gLsR94ZVE2jz3mIpY2w7A=="/>
         <POI MapID="1330" xpos="-390.133" ypos="5.54232" zpos="203.811" type="legs.gathering.plants.verdant.herbs" GUID="ylz5pFgpBUqlUSfTZ+PrYw=="/>
@@ -1909,7 +1909,7 @@
         <POI MapID="1330" xpos="800.289" ypos="7.24638" zpos="511.27" type="legs.gathering.plants.verdant.herbs" GUID="qp9o/EtPcU+mGqNISujFfQ=="/>
         
         <!-- Drizzlewood Coast -->
-        <Trail type="legs.gathering.plants.potato.drizzlewood" trailData="Data/LadyElyssa/Gathering/Plants/Potatoes - Drizzlewood Coast.trl"/>
+        <Trail type="legs.gathering.plants.potato.drizzlewood" trailData="Data/Gathering/Plants/Potatoes - Drizzlewood Coast.trl"/>
         <POI MapID="1371" xpos="-547.892" ypos="155.782" zpos="-130.076" type="legs.gathering.plants.verdant.herbs" GUID="MLdNYvShQECx6Z/vh4dYSA=="/>
         <POI MapID="1371" xpos="-545.598" ypos="156.909" zpos="-121.23" type="legs.gathering.plants.verdant.herbs" GUID="EavmYKKEMUqlf7dOJ8aNrQ=="/>
         <POI MapID="1371" xpos="-539.779" ypos="154.622" zpos="-110.315" type="legs.gathering.plants.verdant.herbs" GUID="zP4xTToOKUeIXnBfqzhALw=="/>
@@ -1920,7 +1920,7 @@
 
         <!-- Verdant Herbs -->
         <!-- Lowland Shore -->
-        <Trail type="legs.gathering.plants.verdant.ls" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Lowland Shore.trl"/>
+        <Trail type="legs.gathering.plants.verdant.ls" trailData="Data/Gathering/Plants/Verdant Herbs - Lowland Shore.trl"/>
         <POI MapID="1550" xpos="538.479" ypos="217.257" zpos="30.9566" type="legs.gathering.plants.verdant.start" GUID="Ao2JXnqdIEGFecAwjDVINw==" miniMapVisibility="1" inGameVisibility="0"/>
         <POI MapID="1550" xpos="664.985" ypos="273.609" zpos="-177.542" type="legs.gathering.plants.verdant.herbs" GUID="KUqm57g/bke4Ink9W3sIEQ=="/>
         <POI MapID="1550" xpos="621.243" ypos="255.247" zpos="-143.252" type="legs.gathering.plants.verdant.herbs" GUID="YreyVEEVI0eSRXJfnzaC3A=="/>
@@ -1942,9 +1942,9 @@
         <POI MapID="1550" xpos="208.439" ypos="213.129" zpos="268.994" type="legs.gathering.plants.verdant.herbs" GUID="XZ8hfvnJX0i/ilOLJXkF/w=="/>
 
         <!-- Janthir Syntri -->
-        <Trail type="legs.gathering.plants.verdant.js" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Janthir Syntri 1.trl"/>
-        <Trail type="legs.gathering.plants.verdant.js" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Janthir Syntri 2.trl"/>
-        <Trail type="legs.gathering.plants.verdant.js" trailData="Data/LadyElyssa/Gathering/Plants/Verdant Herbs - Janthir Syntri 3.trl"/>
+        <Trail type="legs.gathering.plants.verdant.js" trailData="Data/Gathering/Plants/Verdant Herbs - Janthir Syntri 1.trl"/>
+        <Trail type="legs.gathering.plants.verdant.js" trailData="Data/Gathering/Plants/Verdant Herbs - Janthir Syntri 2.trl"/>
+        <Trail type="legs.gathering.plants.verdant.js" trailData="Data/Gathering/Plants/Verdant Herbs - Janthir Syntri 3.trl"/>
         <POI MapID="1554" xpos="601.241" ypos="2.18892" zpos="-601.84" type="legs.gathering.plants.verdant.start" GUID="Z7a4+b0FlUuaD1Oed1mRQg==" miniMapVisibility="1" inGameVisibility="0"/>
         <POI MapID="1554" xpos="605.254" ypos="1.19852" zpos="-617.405" type="legs.gathering.plants.verdant.1" GUID="+WbG1ShnSkm0+RhCZYogwA=="/>
         <POI MapID="1554" xpos="-324.544" ypos="8.46124" zpos="-464.373" type="legs.gathering.plants.verdant.2" GUID="U5Q/70rtLEqBjQoGaqjWaw=="/>
@@ -2008,16 +2008,16 @@
         <!-- World Bosses -->
         <!-- Bitterfrost Frontier, Siren's Landing, Thunderhead Keep, Jahai Bluffs, Domain of Kourna -->
         <!-- TOXIC SEEDLINGS -->
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 1.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 2.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 3.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 4.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 5.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 6.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 7.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 8.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 9.trl"/>
-        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/LadyElyssa/Gathering/Plants/Toxic Seedlings 10.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 1.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 2.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 3.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 4.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 5.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 6.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 7.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 8.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 9.trl"/>
+        <Trail type="legs.gathering.plants.toxicseedling.kessex" trailData="Data/Gathering/Plants/Toxic Seedlings 10.trl"/>
         <POI MapID="23" xpos="-1131.32" ypos="74.1728" zpos="281.547" type="legs.gathering.plants.toxicseedling.start" GUID="JfAoqWAoZk2ehnkJNIeOCg=="/>
         <POI MapID="23" xpos="-977.992" ypos="81.019" zpos="495.539" type="legs.gathering.plants.toxicseedling.wp" GUID="F6GF8JLmHkO/3eV3NPsBbg==" copy="[&amp;BBYAAAA=]" copy-message="Greyhoof Camp Waypoint"/>
         <POI MapID="23" xpos="-346.004" ypos="64.3822" zpos="505.515" type="legs.gathering.plants.toxicseedling.2" GUID="W9jSy+0NfUmxf+icpnhrVQ=="/>

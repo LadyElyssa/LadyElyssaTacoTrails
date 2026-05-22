@@ -1,26 +1,26 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="events" DisplayName="Events">
             <MarkerCategory name="casino" DisplayName="Casino Blitz (Piñata)"> 
                 <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
-                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="pre" IsSeparator="1" DisplayName="PRE-EVENT(S)"/>
                 <MarkerCategory name="1" DisplayName="Casino Blitz Round 1"/>
                 <MarkerCategory name="2" DisplayName="Casino Blitz Round 2"/>
                 <MarkerCategory name="3" DisplayName="Casino Blitz Round 3"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
-                <MarkerCategory name="co" DisplayName="Crystal Oasis" iconFile="Data/LadyElyssa/Images/Icons/Blank.png"/>
+                <MarkerCategory name="co" DisplayName="Crystal Oasis" iconFile="Data/Images/Icons/Blank.png"/>
             </MarkerCategory>
             <MarkerCategory name="riba" DisplayName="R.I.B.A.">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="LEGENDARY BOSSES"/>
-                <MarkerCategory name="annihilator" DisplayName="Legendary Annihilator" iconFile="Data/LadyElyssa/Images/Legendary Annihilator.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                <MarkerCategory name="demolisher" DisplayName="Legendary Demolisher" iconFile="Data/LadyElyssa/Images/Legendary Demolisher.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                <MarkerCategory name="executioner" DisplayName="Legendary Executioner" iconFile="Data/LadyElyssa/Images/Legendary Executioner.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                <MarkerCategory name="tormentor" DisplayName="Legendary Tormentor" iconFile="Data/LadyElyssa/Images/Legendary Tormentor.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="annihilator" DisplayName="Legendary Annihilator" iconFile="Data/Images/Legendary Annihilator.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="demolisher" DisplayName="Legendary Demolisher" iconFile="Data/Images/Legendary Demolisher.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="executioner" DisplayName="Legendary Executioner" iconFile="Data/Images/Legendary Executioner.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="tormentor" DisplayName="Legendary Tormentor" iconFile="Data/Images/Legendary Tormentor.png" miniMapVisibility="0" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="sw" DisplayName="Silverwastes"/>
             </MarkerCategory>
-            <MarkerCategory name="tm" DisplayName="Treasure Mushroom" iconFile="Data/LadyElyssa/Images/Icons/Mushroom Spore.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="24">
+            <MarkerCategory name="tm" DisplayName="Treasure Mushroom" iconFile="Data/Images/Icons/Mushroom Spore.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="24">
                 <MarkerCategory name="hot" IsSeparator="1" DisplayName="HEART OF THORNS"/>
                 <MarkerCategory name="vb" DisplayName="Verdant Brink"/>
                 <MarkerCategory name="ab" DisplayName="Auric Basin"/>

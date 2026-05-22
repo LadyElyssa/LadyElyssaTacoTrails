@@ -3,12 +3,12 @@
         <!-- MAP COMPLETION - SotO -->
 
         <!-- Skywatch Archipelago -->
-        <Trail type="legs.map.soto.skywatch.main.number.1" trailData="Data/LadyElyssa/Map Completion/SotO/Skywatch 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.skywatch.main.number.2" trailData="Data/LadyElyssa/Map Completion/SotO/Skywatch 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.skywatch.main.number.3" trailData="Data/LadyElyssa/Map Completion/SotO/Skywatch 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.skywatch.main.number.4" trailData="Data/LadyElyssa/Map Completion/SotO/Skywatch 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.skywatch.main.number.5" trailData="Data/LadyElyssa/Map Completion/SotO/Skywatch 5.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.skywatch.main.number.6" trailData="Data/LadyElyssa/Map Completion/SotO/Skywatch 6.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.skywatch.main.number.1" trailData="Data/Map Completion/SotO/Skywatch 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.skywatch.main.number.2" trailData="Data/Map Completion/SotO/Skywatch 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.skywatch.main.number.3" trailData="Data/Map Completion/SotO/Skywatch 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.skywatch.main.number.4" trailData="Data/Map Completion/SotO/Skywatch 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.skywatch.main.number.5" trailData="Data/Map Completion/SotO/Skywatch 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.skywatch.main.number.6" trailData="Data/Map Completion/SotO/Skywatch 6.trl" color="00FFFF"/>
         <POI MapID="1510" xpos="888.646" ypos="133.649" zpos="-356.952" type="legs.map.soto.skywatch.main.start" GUID="C3K1Uo0SMUe2doQxAcPhdw=="/>
         <POI MapID="1510" xpos="947.153" ypos="133.475" zpos="-356.962" type="legs.map.soto.skywatch.main.mount.skyscale" GUID="ZL76neSxR0CUdg+6q36EGQ=="/>
         <POI MapID="1510" xpos="937.134" ypos="133.202" zpos="-450.433" type="legs.map.soto.skywatch.main.mount.skyscale" GUID="C4G9BeI2nEW19hXz1CfV+g=="/>
@@ -85,43 +85,43 @@
         <POI MapID="1510" xpos="482.139" ypos="316.571" zpos="413.803" type="legs.map.soto.skywatch.main.poi" GUID="YEl7qZCmz0aaU8aqiOiHEg=="/>
         <POI MapID="1510" xpos="610.723" ypos="343.62" zpos="291.563" type="legs.map.soto.skywatch.main.wp" GUID="y36BblIBEUqzk2Znd9RFVg==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
         <POI MapID="1510" xpos="610.535" ypos="343.62" zpos="291.534" type="legs.map.soto.skywatch.main.poi" GUID="pWnn8SzTF0Syb7kOArJMEg==" info="If you have the Skyscale Masteries for:&#xA;- Enhanced Updrafts&#xA;- Updraft Generator&#xA;follow the dotted line.&#xA;&#xA;Otherwise, Waypoint to Droknar's Light Waypoint" infoRange="10"/>
-        <Trail type="legs.map.soto.skywatch.main.number.6" trailData="Data/LadyElyssa/Map Completion/SotO/Skywatch Alt.trl" color="00FFFF" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.soto.skywatch.main.number.6" trailData="Data/Map Completion/SotO/Skywatch Alt.trl" color="00FFFF" texture="Data/Images/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="-783.115" ypos="824.53" zpos="413.655" type="legs.map.soto.skywatch.main.finish" GUID="mgJiKrEzMU2Jqdh+/FHxfA==" info="If you weren't able to use the shortcut at Rata Novus Promenade, Follow the dotted line to get the last POI.&#xA;&#xA;Otherwise, Congratulations! Map Complete." infoRange="10"/>
         <POI MapID="1510" xpos="771.456" ypos="624.554" zpos="571.314" type="legs.map.soto.skywatch.main.finish" GUID="sAzF1kzQ4ECN5h44dqFDBg=="/>
 
         <!-- Illuminating Skywatch Archipelago -->
         
         <POI MapID="1510" xpos="891.509" ypos="133.644" zpos="-371.291" type="legs.map.soto.skywatch.lanterns.start" GUID="3bAsuC3tak6FR/pXkycIQQ=="/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 1.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.1" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 1.trl" color="ffff33"/>
         <POI MapID="1510" xpos="749.624" ypos="97.7839" zpos="-218.234" type="legs.map.soto.skywatch.lanterns.wp" GUID="Vsk/yrtFI0eoDPnV81c3Tw==" copy="[&amp;BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.2" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 2.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.2" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 2.trl" color="ffff33"/>
         <POI MapID="1510" xpos="966.227" ypos="185.939" zpos="-105.081" type="legs.map.soto.skywatch.lanterns.trail.2" GUID="Z6xNGSx4BE2G8soadJHmqg=="/>
         <POI MapID="1510" xpos="641.903" ypos="243.992" zpos="-153.993" type="legs.map.soto.skywatch.lanterns.wp" GUID="XAlDkgqlDU2olSlyQnhBwQ==" copy="[&amp;BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 3.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 3b.trl" color="ffff33" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.3" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 3.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.3" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 3b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="979.146" ypos="185.597" zpos="-108.432" type="legs.map.soto.skywatch.lanterns.trail.3" GUID="Vq40NpDDm02Vq0WgWbLorw=="/>
         <POI MapID="1510" xpos="813.873" ypos="379.439" zpos="347.692" type="legs.map.soto.skywatch.lanterns.wp" GUID="gm2szHyvU02ScTP870eCOA==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.4" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 4.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.4" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 4b.trl" color="ffff33" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.4" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 4.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.4" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 4b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="580.723" ypos="311.769" zpos="449.968" type="legs.map.soto.skywatch.lanterns.trail.4" GUID="Wa15900Ot0afDMdzCfTCZw=="/>
         <POI MapID="1510" xpos="573.127" ypos="311.776" zpos="440.278" type="legs.map.soto.skywatch.lanterns.trail.5" GUID="qTkMtd+sfUSD+MoH3awGDg=="/>
         <POI MapID="1510" xpos="801.559" ypos="646.861" zpos="524.052" type="legs.map.soto.skywatch.lanterns.wp" GUID="YZmFp4heD02L4zDurlgXtQ==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.5" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 5.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.5" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 5.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-290.738" ypos="527.788" zpos="403.156" type="legs.map.soto.skywatch.lanterns.wp" GUID="NUYsFNJH+kGIZnVy5dp4PQ==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.6" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 6.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.6" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 6.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-637.188" ypos="549.597" zpos="166.121" type="legs.map.soto.skywatch.lanterns.trail.6" GUID="vKp0UOhGiU2rMbj79PuBJQ=="/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.6" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 6b.trl" color="ffff33" texture="Data/LadyElyssa/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.6" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 6b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="327.385" ypos="240.425" zpos="-233.838" type="legs.map.soto.skywatch.lanterns.wp" GUID="lxp5YtWHt0+XLCDt53k/Sg==" copy="[&amp;BA4OAAA=]" copy-message="Astral Ward Encampment Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.7" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 7.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.7" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 7.trl" color="ffff33"/>
         <POI MapID="1510" xpos="249.857" ypos="257.256" zpos="-232.725" type="legs.map.soto.skywatch.lanterns.trail.7" GUID="1NlClfLHzUST21JIwCPzOw=="/>
         <POI MapID="1510" xpos="-388.735" ypos="276.767" zpos="-183.659" type="legs.map.soto.skywatch.lanterns.wp" GUID="ngdMZlpNm0ynpCSPMqJUvQ==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.8" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 8.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.8" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 8.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-648.03" ypos="549.37" zpos="158.851" type="legs.map.soto.skywatch.lanterns.trail.8" GUID="mJRzjK4Kk02M+gIlqz47Ig=="/>
         <POI MapID="1510" xpos="-819.423" ypos="442.146" zpos="-187.104" type="legs.map.soto.skywatch.lanterns.wp" GUID="SuFpLxAZskuP6JMTVXxqqw==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.9" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 9.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.9" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 9.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-649.468" ypos="549.502" zpos="163.163" type="legs.map.soto.skywatch.lanterns.trail.9" GUID="ZepOZmmxPEesOebOGVavgg=="/>
         <POI MapID="1510" xpos="-778.05" ypos="461.519" zpos="268.648" type="legs.map.soto.skywatch.lanterns.wp" GUID="3DtjhlZo9EefE+aAFFwlRQ=="/>
-        <Trail type="legs.map.soto.skywatch.lanterns.trail.10" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Skywatch Archipelago 10.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.skywatch.lanterns.trail.10" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 10.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-644.379" ypos="549.678" zpos="168.588" type="legs.map.soto.skywatch.lanterns.trail.10" GUID="Sr/QayYmhE2I/6DAixg6aA=="/>
         <POI MapID="1510" xpos="914.999" ypos="133.54" zpos="-402.011" type="legs.map.soto.skywatch.lanterns.lantern" GUID="KuxQcwGE9ka64wouUn5p5g=="/>
         <POI MapID="1510" xpos="1011.08" ypos="169.364" zpos="-407.942" type="legs.map.soto.skywatch.lanterns.lantern" GUID="XLSNTiBhGkK5VXuW9V2DlA=="/>
@@ -183,17 +183,17 @@
         
         <!-- Amnytas -->
 
-        <Trail type="legs.map.soto.amnytas.main.number.1" trailData="Data/LadyElyssa/Map Completion/SotO/Amnytas 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.amnytas.main.number.2" trailData="Data/LadyElyssa/Map Completion/SotO/Amnytas 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.amnytas.main.number.3" trailData="Data/LadyElyssa/Map Completion/SotO/Amnytas 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.amnytas.main.number.4" trailData="Data/LadyElyssa/Map Completion/SotO/Amnytas 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.amnytas.main.number.3" trailData="Data/LadyElyssa/Map Completion/SotO/Amnytas Alt.trl" color="00FFFF" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
-        <POI MapID="1517" xpos="623.833" ypos="290.922" zpos="-339.172" type="legs.map.soto.amnytas.main" GUID="YpmMTkjqzUGDVCVof/sUdA==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="If Isgarren's Wards are Down follow dotted line" infoRange="10"/>
-        <POI MapID="1517" xpos="511.255" ypos="270.599" zpos="-490.379" type="legs.map.soto.amnytas.main" GUID="osJ49L/lz02unrAexo+oJQ==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="If Isgarren's Wards are Down follow dotted line" infoRange="10"/>
-        <POI MapID="1517" xpos="644.662" ypos="344.257" zpos="-50.5487" type="legs.map.soto.amnytas.main" GUID="gLT3v4ip3U+ZKYOhlCYngg==" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" info="If Isgarren's Wards were Up follow dotted line" infoRange="10"/>
-        <Trail type="legs.map.soto.amnytas.main" trailData="Data/LadyElyssa/Map Completion/SotO/Amnytas Lyhr Event.trl" color="FF9933"/>
-        <POI MapID="1517" xpos="-164.945" ypos="394.786" zpos="572.389" type="legs.map.soto.amnytas.main" GUID="N5tND77V2EeZMhzBA5da1Q==" info="The POI within the Great Debat Hall requires:&#xA;EVENT - Escort Lyhr to the Great Hall so he can rebalance himself" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" infoRange="2"/>
-        <Trail type="legs.map.soto.amnytas.main.hidden" trailData="Data/LadyElyssa/Map Completion/SotO/Amnytas Lyhr Workaround.trl" texture="Data/LadyElyssa/Images/trailarrow-small.png"/>
+        <Trail type="legs.map.soto.amnytas.main.number.1" trailData="Data/Map Completion/SotO/Amnytas 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.amnytas.main.number.2" trailData="Data/Map Completion/SotO/Amnytas 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.amnytas.main.number.3" trailData="Data/Map Completion/SotO/Amnytas 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.amnytas.main.number.4" trailData="Data/Map Completion/SotO/Amnytas 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.amnytas.main.number.3" trailData="Data/Map Completion/SotO/Amnytas Alt.trl" color="00FFFF" texture="Data/Images/Dashed Line with Shadow.png"/>
+        <POI MapID="1517" xpos="623.833" ypos="290.922" zpos="-339.172" type="legs.map.soto.amnytas.main" GUID="YpmMTkjqzUGDVCVof/sUdA==" iconFile="Data/Images/Icons/Blank.png" info="If Isgarren's Wards are Down follow dotted line" infoRange="10"/>
+        <POI MapID="1517" xpos="511.255" ypos="270.599" zpos="-490.379" type="legs.map.soto.amnytas.main" GUID="osJ49L/lz02unrAexo+oJQ==" iconFile="Data/Images/Icons/Blank.png" info="If Isgarren's Wards are Down follow dotted line" infoRange="10"/>
+        <POI MapID="1517" xpos="644.662" ypos="344.257" zpos="-50.5487" type="legs.map.soto.amnytas.main" GUID="gLT3v4ip3U+ZKYOhlCYngg==" iconFile="Data/Images/Icons/Blank.png" info="If Isgarren's Wards were Up follow dotted line" infoRange="10"/>
+        <Trail type="legs.map.soto.amnytas.main" trailData="Data/Map Completion/SotO/Amnytas Lyhr Event.trl" color="FF9933"/>
+        <POI MapID="1517" xpos="-164.945" ypos="394.786" zpos="572.389" type="legs.map.soto.amnytas.main" GUID="N5tND77V2EeZMhzBA5da1Q==" info="The POI within the Great Debat Hall requires:&#xA;EVENT - Escort Lyhr to the Great Hall so he can rebalance himself" iconFile="Data/Images/Icons/Blank.png" infoRange="2"/>
+        <Trail type="legs.map.soto.amnytas.main.hidden" trailData="Data/Map Completion/SotO/Amnytas Lyhr Workaround.trl" texture="Data/Images/trailarrow-small.png"/>
         <POI MapID="1517" xpos="-37.8558" ypos="222.435" zpos="-559.479" type="legs.map.soto.amnytas.main.wp" GUID="2L1RSbcS+U6BhOPM1inMmw==" copy="[&amp;BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
         <POI MapID="1517" xpos="-643.037" ypos="245.318" zpos="-496.308" type="legs.map.soto.amnytas.main.wp" GUID="rUTO+5avZUGTmM4VgUO9sg==" copy="[&amp;BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
         <POI MapID="1517" xpos="-447.33" ypos="503.914" zpos="-99.4392" type="legs.map.soto.amnytas.main.wp" GUID="xH1wiahPVkmWt3CUWbblug==" copy="[&amp;BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
@@ -244,15 +244,15 @@
 
         <!-- Illuminating Amnytas -->
 
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 1.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.2" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 2.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 3.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.4" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 4.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.5" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 5.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.6" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 6.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.7" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 7.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.8" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 8.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.amnytas.lanterns.trail.9" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Amnytas 9.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.1" trailData="Data/Map Completion/SotO/Illuminating Amnytas 1.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.2" trailData="Data/Map Completion/SotO/Illuminating Amnytas 2.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.3" trailData="Data/Map Completion/SotO/Illuminating Amnytas 3.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.4" trailData="Data/Map Completion/SotO/Illuminating Amnytas 4.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.5" trailData="Data/Map Completion/SotO/Illuminating Amnytas 5.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.6" trailData="Data/Map Completion/SotO/Illuminating Amnytas 6.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.7" trailData="Data/Map Completion/SotO/Illuminating Amnytas 7.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.8" trailData="Data/Map Completion/SotO/Illuminating Amnytas 8.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.amnytas.lanterns.trail.9" trailData="Data/Map Completion/SotO/Illuminating Amnytas 9.trl" color="ffff33"/>
         <!--
         <POI MapID="1517" xpos="-85.039" ypos="270.306" zpos="-421.774" type="legs.map.soto.amnytas.lanterns.start" GUID="adm1bsm0g0KYyAXvDW/Jww=="/>
         <POI MapID="1517" xpos="-80.081" ypos="270.221" zpos="-417.774" type="legs.map.soto.amnytas.lanterns.trail.1" GUID="IDHSsGlw+EWnLPPMchFqkw=="/>
@@ -345,11 +345,11 @@
         
         <!-- Inner Nayos -->
         
-        <Trail type="legs.map.soto.innernayos.main.number.1" trailData="Data/LadyElyssa/Map Completion/SotO/Inner Nayos 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.innernayos.main.number.2" trailData="Data/LadyElyssa/Map Completion/SotO/Inner Nayos 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.innernayos.main.number.3" trailData="Data/LadyElyssa/Map Completion/SotO/Inner Nayos 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.innernayos.main.number.4" trailData="Data/LadyElyssa/Map Completion/SotO/Inner Nayos 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.soto.innernayos.main.number.4" trailData="Data/LadyElyssa/Map Completion/SotO/Inner Nayos 4b.trl" color="00FFFF" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.soto.innernayos.main.number.1" trailData="Data/Map Completion/SotO/Inner Nayos 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.innernayos.main.number.2" trailData="Data/Map Completion/SotO/Inner Nayos 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.innernayos.main.number.3" trailData="Data/Map Completion/SotO/Inner Nayos 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.innernayos.main.number.4" trailData="Data/Map Completion/SotO/Inner Nayos 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.soto.innernayos.main.number.4" trailData="Data/Map Completion/SotO/Inner Nayos 4b.trl" color="00FFFF" texture="Data/Images/Dashed Line with Shadow.png"/>
         <POI MapID="1526" xpos="688.026" ypos="215.56" zpos="-439.246" type="legs.map.soto.innernayos.main.start" GUID="6z/jmC+NHEW3TruYCWIyeg=="/>
         <POI MapID="1526" xpos="693.441" ypos="216.026" zpos="-433.862" type="legs.map.soto.innernayos.main.number.1" GUID="P8RANVqu1UWWAUEadCZXVg=="/>
         <POI MapID="1526" xpos="695.095" ypos="216.025" zpos="-434.292" type="legs.map.soto.innernayos.main.number.2" GUID="E/To9xpSjkGN373QdgE95w=="/>
@@ -359,9 +359,9 @@
 
         <!-- Illuminating Inner Nayos -->
         <POI MapID="1526" xpos="679.306" ypos="215.504" zpos="-436.045" type="legs.map.soto.innernayos.lanterns.start" GUID="Vnyh9l4r5EuLCwYlC4jKcw=="/>
-        <Trail type="legs.map.soto.innernayos.lanterns.trail.1" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Inner Nayos 1.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.innernayos.lanterns.trail.2" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Inner Nayos 2.trl" color="ffff33"/>
-        <Trail type="legs.map.soto.innernayos.lanterns.trail.3" trailData="Data/LadyElyssa/Map Completion/SotO/Illuminating Inner Nayos 3.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.innernayos.lanterns.trail.1" trailData="Data/Map Completion/SotO/Illuminating Inner Nayos 1.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.innernayos.lanterns.trail.2" trailData="Data/Map Completion/SotO/Illuminating Inner Nayos 2.trl" color="ffff33"/>
+        <Trail type="legs.map.soto.innernayos.lanterns.trail.3" trailData="Data/Map Completion/SotO/Illuminating Inner Nayos 3.trl" color="ffff33"/>
         <POI MapID="1526" xpos="698.493" ypos="215.347" zpos="-435.397" type="legs.map.soto.innernayos.lanterns.trail.2" GUID="qvIIS8BvXkWUVFky3XPgyA=="/>
         <POI MapID="1526" xpos="689.73" ypos="215.652" zpos="-433.574" type="legs.map.soto.innernayos.lanterns.trail.1" GUID="1tWb14Hzb0aiqu1OWDdYnw=="/>
         <POI MapID="1526" xpos="303.36" ypos="186.293" zpos="151.356" type="legs.map.soto.innernayos.lanterns.trail.3" GUID="Y+U1k2eU/ESGkF40GWuGkQ=="/>

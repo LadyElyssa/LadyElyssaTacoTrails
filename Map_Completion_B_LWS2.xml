@@ -2,7 +2,7 @@
     <POIs>
         <!-- MAP COMPLETION - LWS2-->
         <!-- DRY TOP - Barefoot -->
-        <Trail type="legs.map.lws2.drytop.barefoot" trailData="Data/LadyElyssa/Map Completion/LWS2/Dry Top - Barefoot.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.drytop.barefoot" trailData="Data/Map Completion/LWS2/Dry Top - Barefoot.trl" color="00FFFF"/>
         <POI MapID="988" xpos="432.502" ypos="14.1159" zpos="-301.211" type="legs.map.lws2.drytop.barefoot.mine" GUID="Tf7rpdq7lk+qhwkSa9SqJQ=="/>
         <POI MapID="988" xpos="385.215" ypos="21.4777" zpos="-535.486" type="legs.map.lws2.drytop.barefoot.aspects.sun" GUID="DKKXPIv5w065DZ5WYtjVwQ=="/>
         <POI MapID="988" xpos="382.867" ypos="23.2271" zpos="-513.761" type="legs.map.lws2.drytop.barefoot.aspects.lightning" GUID="aXNsPP3pH0+POzCn22AWmw=="/>
@@ -29,9 +29,9 @@
         <POI MapID="988" xpos="-370.768" ypos="115.556" zpos="-325.293" type="legs.map.lws2.drytop.barefoot.aspects.lightning" GUID="7TobrzGBdEmwKXqYLZ/Krw=="/>
 
         <!-- DRY TOP - Mounts -->
-        <Trail type="legs.map.lws2.drytop.withmounts" trailData="Data/LadyElyssa/Map Completion/LWS2/Dry Top.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.drytop.withmounts" trailData="Data/Map Completion/LWS2/Dry Top.trl" color="00FFFF"/>
         <POI MapID="988" xpos="432.502" ypos="14.1159" zpos="-301.211" type="legs.map.lws2.drytop.withmounts.mine" GUID="PFrdv5HfuU2HJ7+2hRXlEQ=="/>
-        <Trail type="legs.map.lws2.drytop.withmounts" trailData="Data/LadyElyssa/Map Completion/LWS2/Dry Top 2.trl" color="00FFFF" fadeNear="450" fadeFar="500"/>
+        <Trail type="legs.map.lws2.drytop.withmounts" trailData="Data/Map Completion/LWS2/Dry Top 2.trl" color="00FFFF" fadeNear="450" fadeFar="500"/>
         <POI MapID="988" xpos="403.555" ypos="23.9137" zpos="-509.455" type="legs.map.lws2.drytop.withmounts.start" GUID="x3iEzOunEk2OdPybriXv4Q=="/>
         <POI MapID="988" xpos="-467.736" ypos="46.7998" zpos="-663.594" type="legs.map.lws2.drytop.withmounts.finish" GUID="CjKQEPMv70SOD2rSVRsRZw=="/>
         <POI MapID="988" xpos="400.456" ypos="24.0342" zpos="-510.973" type="legs.map.lws2.drytop.withmounts.mount.skyscale" GUID="nmMNHZSQVEGSFoJEPizzlg=="/>
@@ -71,11 +71,11 @@
         <POI MapID="988" xpos="-443.536" ypos="78.7619" zpos="-258.823" type="legs.map.lws2.drytop.withmounts.mount.raptor" GUID="v/XjNVhaVUOH9GxuA1k7aQ=="/>
         <POI MapID="988" xpos="-232.205" ypos="37.7882" zpos="-546.786" type="legs.map.lws2.drytop.withmounts.mount.jackal" GUID="Ye+uyCKaZ0OuZTjlLNEoZw=="/>
         <!-- Silverwastes - Barefoot, No Mounts-->
-        <Trail type="legs.map.lws2.silverwastes.barefoot.number.1" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes - Barefoot 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.lws2.silverwastes.barefoot.number.2" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes - Barefoot 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.lws2.silverwastes.barefoot.number.2" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes - Barefoot 3.trl" color="00FFFF"/>
-        <Trail type="legs.map.lws2.silverwastes.barefoot.number.2" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes - Barefoot 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.lws2.silverwastes.barefoot.number.3" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes - Barefoot 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.barefoot.number.1" trailData="Data/Map Completion/LWS2/The Silverwastes - Barefoot 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.barefoot.number.2" trailData="Data/Map Completion/LWS2/The Silverwastes - Barefoot 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.barefoot.number.2" trailData="Data/Map Completion/LWS2/The Silverwastes - Barefoot 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.barefoot.number.2" trailData="Data/Map Completion/LWS2/The Silverwastes - Barefoot 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.barefoot.number.3" trailData="Data/Map Completion/LWS2/The Silverwastes - Barefoot 5.trl" color="00FFFF"/>
         <POI MapID="1015" xpos="589.186" ypos="414.797" zpos="-194.129" type="legs.map.lws2.silverwastes.barefoot.start" GUID="VPLjvsMm6UuwrijdpU7FCw=="/>
         <POI MapID="1015" xpos="-243.052" ypos="373.688" zpos="-352.894" type="legs.map.lws2.silverwastes.withmounts.finish" GUID="mE2lcDQqPE6+D3+p/ddVAA=="/>
         <POI MapID="1015" xpos="495.66" ypos="412.262" zpos="-232.862" type="legs.map.lws2.silverwastes.barefoot.number.2" GUID="6n5PXIVYX02G4vbIzUr2iA=="/>
@@ -83,9 +83,9 @@
         <POI MapID="1015" xpos="-439.472" ypos="424.986" zpos="216.984" type="legs.map.lws2.silverwastes.barefoot.wp" GUID="74eocadSok6jJnB0THxVGw==" copy="[&amp;BKwHAAA=]" copy-message="Hidden Depths Waypoint (Only available after Meta)"/>
         <POI MapID="1015" xpos="-89.188" ypos="15.7556" zpos="64.6313" type="legs.map.lws2.silverwastes.barefoot.wp" GUID="6YPd5id+9kavol6va9b0cA==" copy="[&amp;BKcHAAA=]" copy-message="Camp Resolve Waypoint"/>
         <!-- Silverwastes - Mounts-->
-        <Trail type="legs.map.lws2.silverwastes.withmounts.number.1" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes 1.trl" color="00FFFF"/>
-        <Trail type="legs.map.lws2.silverwastes.withmounts.number.2" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes 2.trl" color="00FFFF"/>
-        <Trail type="legs.map.lws2.silverwastes.withmounts.number.3" trailData="Data/LadyElyssa/Map Completion/LWS2/The Silverwastes 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.withmounts.number.1" trailData="Data/Map Completion/LWS2/The Silverwastes 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.withmounts.number.2" trailData="Data/Map Completion/LWS2/The Silverwastes 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.lws2.silverwastes.withmounts.number.3" trailData="Data/Map Completion/LWS2/The Silverwastes 3.trl" color="00FFFF"/>
         <POI MapID="1015" xpos="23.3651" ypos="419.683" zpos="-430.306" type="legs.map.lws2.silverwastes.withmounts.number.3" GUID="NB7pIeTsRUSmN0uizn6jkg=="/>
         <POI MapID="1015" xpos="-440.619" ypos="425.019" zpos="218.767" type="legs.map.lws2.silverwastes.withmounts.wp" GUID="n9mUbQoOP0KpjXGouUIaew==" copy="[&amp;BKwHAAA=]" copy-message="Hidden Depths Waypoint"/>
         <POI MapID="1015" xpos="598.628" ypos="414.797" zpos="-188.729" type="legs.map.lws2.silverwastes.withmounts.start" GUID="lJFffEKfOEi28ljKrBxm9Q=="/>

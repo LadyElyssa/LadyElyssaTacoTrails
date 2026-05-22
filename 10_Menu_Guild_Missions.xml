@@ -1,9 +1,9 @@
 <OverlayData>
-    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!--  Guild Missions -->
         <MarkerCategory name="guild" DisplayName="Guild Missions">
             <!--  Bounties -->
-            <MarkerCategory name="bounty" DisplayName="Bounties" texture="Data/LadyElyssa/Images/Trail Pointer - Small Dark.png" animSpeed="1.4" alpha="1" fadeNear="1200" fadeFar="4000" color="99FF33">
+            <MarkerCategory name="bounty" DisplayName="Bounties" texture="Data/Images/Trail Pointer - Small Dark.png" animSpeed="1.4" alpha="1" fadeNear="1200" fadeFar="4000" color="99FF33">
                 <MarkerCategory name="easy" DisplayName="EASY" IsSeparator="1"/>
                 <MarkerCategory name="brekkabek" DisplayName="Brekkabek">
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
@@ -98,9 +98,9 @@
             </MarkerCategory>
             <!-- End Guild Bounties -->
             <!--  Rush / Race -->
-            <MarkerCategory name="race" DisplayName="Race" texture="Data/LadyElyssa/Images/Dashed Line with Shadow.png" animSpeed="0.75" alpha="0.75" fadeNear="1200" fadeFar="4000">
+            <MarkerCategory name="race" DisplayName="Race" texture="Data/Images/Dashed Line with Shadow.png" animSpeed="0.75" alpha="0.75" fadeNear="1200" fadeFar="4000">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="marker" DisplayName="Race" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Race Start.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0" mapVisibility="1"/>
+                <MarkerCategory name="marker" DisplayName="Race" alpha="1" iconFile="Data/Images/Icons/Guild Race Start.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0" mapVisibility="1"/>
                 <MarkerCategory name="race" IsSeparator="1" DisplayName="RACE"/>
                 <MarkerCategory name="bear" DisplayName="Bear Lope" color="99CC00">
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
@@ -127,8 +127,8 @@
                     <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
                 </MarkerCategory>
                 <MarkerCategory name="spider" DisplayName="Spider Scurry">
-                    <MarkerCategory name="spit" DisplayName="Spider Leap" iconFile="Data/LadyElyssa/Images/Icons/Spit.png" alpha="0.6" minSize="12" maxSize="24" miniMapVisibility="1" heightOffset="0"/>
-                    <MarkerCategory name="leap" DisplayName="Spider Leaps" texture="Data/LadyElyssa/Images/Spider Scurry Leap.png" alpha="0.4" animSpeed="0"/>
+                    <MarkerCategory name="spit" DisplayName="Spider Leap" iconFile="Data/Images/Icons/Spit.png" alpha="0.6" minSize="12" maxSize="24" miniMapVisibility="1" heightOffset="0"/>
+                    <MarkerCategory name="leap" DisplayName="Spider Leaps" texture="Data/Images/Spider Scurry Leap.png" alpha="0.4" animSpeed="0"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" color="99CC00"/>
                 </MarkerCategory>
@@ -136,24 +136,24 @@
             <!-- End Guild Races -->
             <!--  Treks -->
             <!--  https://wiki.guildwars2.com/wiki/Guild_Trek#Possible_locations -->
-            <MarkerCategory name="trek" DisplayName="Treks" texture="Data/LadyElyssa/Images/Trail Pointer - Small Dark.png" alpha="1" mapVisibility="1" minSize="64" maxSize="96" miniMapVisibility="1" mapDisplaySize="10" fadeNear="2400" fadeFar="3000">
+            <MarkerCategory name="trek" DisplayName="Treks" texture="Data/Images/Trail Pointer - Small Dark.png" alpha="1" mapVisibility="1" minSize="64" maxSize="96" miniMapVisibility="1" mapDisplaySize="10" fadeNear="2400" fadeFar="3000">
                 <MarkerCategory name="set" DisplayName="Settings"/>
                     <MarkerCategory name="sign" DisplayName="Trek Names" alpha="1" mapDisplaySize="120"/>
-                    <MarkerCategory name="marker" DisplayName="Trek" alpha="1" iconFile="Data/LadyElyssa/Images/Icons/Guild Trek.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0"/>
+                    <MarkerCategory name="marker" DisplayName="Trek" alpha="1" iconFile="Data/Images/Icons/Guild Trek.png" mapDisplaySize="42" miniMapVisibility="1" inGameVisibility="0"/>
                     <MarkerCategory name="trail" DisplayName="Trail" color="00CCFF"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/LadyElyssa/Images/Mounts/Skimmer_Dive.png"/>
-                            <MarkerCategory name="hover" DisplayName="Skimmer - Hover High" iconFile="Data/LadyElyssa/Images/Mounts/Hover.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png">
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="hover" DisplayName="Skimmer - Hover High" iconFile="Data/Images/Mounts/Hover.png"/>
                         </MarkerCategory>
                         <!-- End Skimmer   -->
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/LadyElyssa/Images/Mounts/Dismount.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/LadyElyssa/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <!-- End Mounts -->
                 <MarkerCategory name="mapregion" IsSeparator="1" DisplayName="MAP REGION"/>
@@ -738,7 +738,7 @@
                     </MarkerCategory>
                     <MarkerCategory name="viziers" DisplayName="Vizier's Anteport">
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/LadyElyssa/Images/Mounts/Mount_Skimmer.png"/>
+                            <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
                         </MarkerCategory>
                         <!-- End Mounts -->
                         <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
