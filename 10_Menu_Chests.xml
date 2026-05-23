@@ -129,6 +129,14 @@
             </MarkerCategory>
             
             <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
+                <MarkerCategory name="bt" DisplayName="Buried Treasure" iconFile="Data/Images/Square - Pink.png" inGameVisibility="1" mapDisplaySize="48" tip-name="Buried Treasure">
+                    <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
+                    <MarkerCategory name="dov" DisplayName="Domain of Vabbi"/>
+                    <MarkerCategory name="er" DisplayName="Elon Riverlands"/>
+                    <MarkerCategory name="td" DisplayName="The Desolation"/>
+                </MarkerCategory>
                 <MarkerCategory name="burglar" DisplayName="Caffeinated Skritt Burglar">
                     <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                     <MarkerCategory name="co" DisplayName="Crystal Oasis" iconFile="Data/Images/Icons/Skritt Burglar.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Skritt Burglar"/>
