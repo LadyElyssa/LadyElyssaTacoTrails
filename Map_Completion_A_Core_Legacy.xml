@@ -3,15 +3,15 @@
         <!-- Map Completion - Legacy Sections -->
 
         <!-- Metrica Province -->
-        <Trail type="legs.map.core.metrica.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Metrica 1.trl"/>
-        <Trail type="legs.map.core.metrica.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Metrica 2.trl"/>
+        <Trail type="legs.map.core.metrica.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Metrica 1.trl"/>
+        <Trail type="legs.map.core.metrica.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Metrica 2.trl"/>
         <POI MapID="35" xpos="452.902" ypos="13.2747" zpos="-416.056" type="legs.map.core.metrica.all.leg.icon" GUID="KLXLW5Sl706GhqKYzuL3rA=="/>
         <POI MapID="35" xpos="510.522" ypos="34.4725" zpos="678.58" type="legs.map.core.metrica.all.leg.icon" GUID="1HQlmrYpMU+BR5+9X6DdcA=="/>
 
         <!-- Brisban Wildlands -->
 
         <!-- Kessex Hills -->
-        <Trail type="legs.map.core.kessex.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Kessex Hills 1.trl"/>
+        <Trail type="legs.map.core.kessex.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Kessex Hills 1.trl"/>
         <POI MapID="23" xpos="496.065" ypos="57.0895" zpos="-373.6" type="legs.map.core.kessex.all.leg.icon" GUID="f5BqY0E03EWCrQ6qRXE+1g=="/>
 
         <!-- Caledon Forest -->
@@ -32,15 +32,15 @@
 
         <!-- Lion's Arch -->
 
-        <Trail type="legs.map.core.la.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lion's Arch 1b.trl" fadeNear="900" fadeFar="1200"/>
-        <Trail type="legs.map.core.la.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lion's Arch 1.trl"/>
-        <Trail type="legs.map.core.la.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lion's Arch 2.trl"/>
+        <Trail type="legs.map.core.la.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lion's Arch 1b.trl" fadeNear="900" fadeFar="1200"/>
+        <Trail type="legs.map.core.la.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lion's Arch 1.trl"/>
+        <Trail type="legs.map.core.la.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lion's Arch 2.trl"/>
         <POI MapID="50" xpos="-65.808" ypos="39.0904" zpos="-235.247" type="legs.map.core.la.all.leg.icon" GUID="wrkw3+LK0UKZbJp/Jfo9fg=="/>
         <POI MapID="50" xpos="184.49" ypos="30.331" zpos="-137.304" type="legs.map.core.la.all.leg.icon" GUID="1DORza616E+ctSLEwwc8Gw=="/>
 
         <!-- Rata Sum -->
         
-        <Trail type="legs.map.core.rata.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Rata Sum 1.trl"/>
+        <Trail type="legs.map.core.rata.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Rata Sum 1.trl"/>
         <POI MapID="139" xpos="-41.898" ypos="107.246" zpos="-405.897" type="legs.map.core.rata.all.leg.icon" GUID="rYwEdUsVeUK8jbCnGDCY+w=="/>
 
         <!-- Divinity's Reach -->
@@ -58,31 +58,31 @@
         <!-- Snowden -->
 
         <!-- Wayfarer -->
-        <Trail type="legs.map.core.wayfarer.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Wayfarer Foothills 1.trl"/>
-        <Trail type="legs.map.core.wayfarer.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Wayfarer Foothills 2.trl"/>
+        <Trail type="legs.map.core.wayfarer.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Wayfarer Foothills 1.trl"/>
+        <Trail type="legs.map.core.wayfarer.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Wayfarer Foothills 2.trl"/>
         <POI MapID="28" xpos="-226.628" ypos="180.922" zpos="-436.863" type="legs.map.core.wayfarer.all.leg.icon" GUID="8nsYz/JCqEKxf4/y2hm8bw=="/>
         <POI MapID="28" xpos="-185.641" ypos="105.375" zpos="-938.373" type="legs.map.core.wayfarer.all.leg.icon" GUID="nA8cpCd1b0uBjaGU0Zd9Aw=="/>
 
         <!-- Hoelbrak -->
 
         <!-- Dredgehaunt -->
-        <Trail type="legs.map.core.dredgehaunt.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Dredgehaunt Cliffs 1.trl"/>
-        <Trail type="legs.map.core.dredgehaunt.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Dredgehaunt Cliffs 2.trl"/>
+        <Trail type="legs.map.core.dredgehaunt.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Dredgehaunt Cliffs 1.trl"/>
+        <Trail type="legs.map.core.dredgehaunt.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Dredgehaunt Cliffs 2.trl"/>
         <POI MapID="26" xpos="29.0099" ypos="109.138" zpos="456.294" type="legs.map.core.dredgehaunt.all.leg.icon" GUID="jwSVnqdJK0m8/yuKyNPwOg=="/>
         <POI MapID="26" xpos="-148.0683" ypos="133.0958" zpos="384.8207" type="legs.map.core.dredgehaunt.all.leg.icon" GUID="szBTA6wr/kCPtZw+UmBTdg=="/>
         <POI MapID="26" xpos="8.474881" ypos="111.0971" zpos="445.143" type="legs.map.core.dredgehaunt.all.skyscale" GUID="ywOzRSW4dke/BqZShH/RKg=="/>
 
         <!-- Timberline -->
-        <Trail type="legs.map.core.timberline.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Timberline Falls 1.trl"/>
+        <Trail type="legs.map.core.timberline.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Timberline Falls 1.trl"/>
         <POI MapID="29" xpos="561.59" ypos="114.883" zpos="186.844" type="legs.map.core.timberline.all.leg.icon" GUID="sAvKQ4XglECVfiaS884mhw=="/>
 
         <!-- Lornar's -->
-        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's Pass 1.trl"/>
-        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's Pass 2.trl"/>
-        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's Pass 3.trl"/>
-        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's Pass 4.trl"/>
-        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's Pass 5.trl"/>
-        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Lornar's Pass 6.trl"/>
+        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lornar's Pass 1.trl"/>
+        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lornar's Pass 2.trl"/>
+        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lornar's Pass 3.trl"/>
+        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lornar's Pass 4.trl"/>
+        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lornar's Pass 5.trl"/>
+        <Trail type="legs.map.core.lornars.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Lornar's Pass 6.trl"/>
         <POI MapID="27" xpos="-3.188298" ypos="139.4414" zpos="-639.6236" type="legs.map.core.lornars.all.skyscale" GUID="U+VjLj4zxkiXUyVGZtznEg=="/>
         <POI MapID="27" xpos="-1.796504" ypos="140.2441" zpos="-642.712" type="legs.map.core.lornars.all.leg.icon" GUID="ApQJFrLO9kC4U8gdDOUCog=="/>
         <POI MapID="27" xpos="-98.7126" ypos="60.0687" zpos="-911.317" type="legs.map.core.lornars.all.skyscale" GUID="aIov9S6yOUC6xsUTQKShUg=="/>
@@ -94,18 +94,18 @@
 
         <!-- Bloodtide -->
 
-        <Trail type="legs.map.core.bloodtide.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Bloodtide Coast 1.trl"/>
-        <Trail type="legs.map.core.bloodtide.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Bloodtide Coast 2.trl"/>
+        <Trail type="legs.map.core.bloodtide.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Bloodtide Coast 1.trl"/>
+        <Trail type="legs.map.core.bloodtide.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Bloodtide Coast 2.trl"/>
         <POI MapID="73" xpos="573.884" ypos="58.7883" zpos="811.815" type="legs.map.core.bloodtide.all.leg.icon" GUID="ZWx+DTa3xUOkGru0e6hIog=="/>
         <POI MapID="73" xpos="473.586" ypos="27.2416" zpos="422.161" type="legs.map.core.bloodtide.all.leg.icon" GUID="KuV30ff54UqPntR9PbvhPA=="/>
 
         <!-- Sparkfly -->
 
-        <Trail type="legs.map.core.sparkfly.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Sparkfly Fen 1.trl"/>
-        <Trail type="legs.map.core.sparkfly.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Sparkfly Fen 2.trl"/>
-        <Trail type="legs.map.core.sparkfly.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Sparkfly Fen 3.trl"/>
+        <Trail type="legs.map.core.sparkfly.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Sparkfly Fen 1.trl"/>
+        <Trail type="legs.map.core.sparkfly.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Sparkfly Fen 2.trl"/>
+        <Trail type="legs.map.core.sparkfly.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Sparkfly Fen 3.trl"/>
         <POI MapID="53" xpos="536.41" ypos="63.5266" zpos="433.824" type="legs.map.core.sparkfly.all.leg.icon" GUID="T/oWNAr6tEKKJ4t1h3VjYg=="/>
-        <POI MapID="53" xpos="372.055" ypos="14.8664" zpos="608.307" type="legs.map.core.sparkfly.all.leg.icon" GUID="Fb83U5BjgkyPsyWj+3xArQ=="/>
+        <POI MapID="53" xpos="372.055" ypos="14.8664" zpos="608.307" type="legs.map.core.sparkfly.all.leg.icon" GUID="mt5eC/iEWkSmE6dws6hZgA=="/>
         <POI MapID="53" xpos="372.055" ypos="14.8664" zpos="608.307" type="legs.map.core.sparkfly.all.leg.icon" GUID="mt5eC/iEWkSmE6dws6hZgA=="/>
         <POI MapID="53" xpos="-363.044" ypos="31.0217" zpos="404.343" type="legs.map.core.sparkfly.all.skyscale" GUID="na9pPMSg7EO+OuqzXMsfmA=="/>
         <POI MapID="53" xpos="-246.91" ypos="108.074" zpos="378.861" type="legs.map.core.sparkfly.all.leg.icon" GUID="eTVjo5Vptk2VM2+3MKXADg=="/>
@@ -115,22 +115,22 @@
 
         <!-- Mount Maelstrom -->
 
-        <Trail type="legs.map.core.maelstrom.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Mount Maelstrom 1.trl"/>
-        <Trail type="legs.map.core.maelstrom.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Mount Maelstrom 2.trl"/>
-        <Trail type="legs.map.core.maelstrom.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Mount Maelstrom 3.trl"/>
+        <Trail type="legs.map.core.maelstrom.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Mount Maelstrom 1.trl"/>
+        <Trail type="legs.map.core.maelstrom.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Mount Maelstrom 2.trl"/>
+        <Trail type="legs.map.core.maelstrom.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Mount Maelstrom 3.trl"/>
         <POI MapID="39" xpos="-922.594" ypos="66.9333" zpos="216.59" type="legs.map.core.maelstrom.all.leg.icon" GUID="vXBSdtTdE0auSG7MzkKdsg=="/>
         <POI MapID="39" xpos="-351.986" ypos="233.941" zpos="-126.454" type="legs.map.core.maelstrom.all.leg.icon" GUID="svgj+QLGfUOA72LJo1HI9A=="/>
         <POI MapID="39" xpos="222.002" ypos="16.1998" zpos="51.8446" type="legs.map.core.maelstrom.all.leg.icon" GUID="Y13Kh6x4L0uIM0ib/ogvEQ=="/>
 
         <!-- Straits of Devastation -->
-        <Trail type="legs.map.core.devastation.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Straits of Devastation 1.trl"/>
+        <Trail type="legs.map.core.devastation.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Straits of Devastation 1.trl"/>
         <POI MapID="51" xpos="494.171" ypos="37.3638" zpos="120.484" type="legs.map.core.maelstrom.all.leg.icon" GUID="FavjA+UPX0+yQ16yWJ+DnA=="/>
 
         <!-- Malchors Leap -->
-        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Malchor's Leap 1.trl"/>
-        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Malchor's Leap 2.trl"/>
-        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Malchor's Leap 3.trl"/>
-        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Malchor's Leap 4.trl"/>
+        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Malchor's Leap 1.trl"/>
+        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Malchor's Leap 2.trl"/>
+        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Malchor's Leap 3.trl"/>
+        <Trail type="legs.map.core.malchors.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Malchor's Leap 4.trl"/>
         <POI MapID="65" xpos="960.625" ypos="86.1665" zpos="-183.975" type="legs.map.core.malchors.all.leg.icon" GUID="LWzSjlkkf0ia6doxFQY4yA=="/>
         <POI MapID="65" xpos="788.465" ypos="44.1847" zpos="-92.2047" type="legs.map.core.malchors.all.skyscale" GUID="LnCmL3J2Tk6Ht9D0a+hh/g=="/>
         <POI MapID="65" xpos="834.234" ypos="92.7931" zpos="-84.4396" type="legs.map.core.malchors.all.leg.icon" GUID="wvve53ItAE+6h0jcxrrDFw=="/>
@@ -139,10 +139,10 @@
         <POI MapID="65" xpos="-394.733" ypos="152.863" zpos="133.414" type="legs.map.core.malchors.all.skyscale" GUID="vieJsi2XWkCtbvFZ1PW2uw=="/>
 
         <!-- Cursed -->
-        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Cursed Shore 1.trl"/>
-        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Cursed Shore 2.trl"/>
-        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Cursed Shore 3.trl"/>
-        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/LadyElyssa/Map Completion/Core/Legacy/Cursed Shore 4.trl"/>
+        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Cursed Shore 1.trl"/>
+        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Cursed Shore 2.trl"/>
+        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Cursed Shore 3.trl"/>
+        <Trail type="legs.map.core.cs.all.leg.trail" trailData="Data/Map Completion/Core/Legacy/Cursed Shore 4.trl"/>
         <POI MapID="62" xpos="114.733" ypos="41.7197" zpos="913.126" type="legs.map.core.cs.all.leg.icon" GUID="ISvt7PYedEG1jZsEHGbvSA=="/>
         <POI MapID="62" xpos="80.3661" ypos="106.945" zpos="883.744" type="legs.map.core.cs.all.skyscale" GUID="JcM70oHLg0OGwIDDfW+wtQ=="/>
         <POI MapID="62" xpos="79.0699" ypos="108.012" zpos="887.503" type="legs.map.core.cs.all.leg.icon" GUID="sjFfCB3etEqXWqWC5EgLdw=="/>
