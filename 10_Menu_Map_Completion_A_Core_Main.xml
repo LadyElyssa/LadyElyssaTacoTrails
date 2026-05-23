@@ -1,11 +1,11 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- Map -->
-        <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10">
+        <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10" defaulttoggle="0">
             <MarkerCategory name="core" DisplayName="Core Maps">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
-                <MarkerCategory name="eoz" DisplayName="End of Zone" iconFile="Data/Images/End of Zone.png" inGameVisibility="1" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
+                <MarkerCategory name="eoz" DisplayName="End of Zone" iconFile="Data/Images/End of Zone.png" inGameVisibility="1" mapVisibility="0" miniMapVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/Images/Icons/ExitInstance.png" maxSize="32"/>
                 
                 <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48">
