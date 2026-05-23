@@ -27,41 +27,22 @@
                     <MarkerCategory name="recommend" DisplayName="Information" iconFile="Data/Images/Icons/Blank.png"/>
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -77,40 +58,21 @@
 
                 <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
-                    
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
+
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -125,55 +87,30 @@
                 <MarkerCategory name="kessex" DisplayName="Kessex Hills" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="blink" DisplayName="Blink" iconFile="Data/Images/Mounts/Jackal - Blink.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png"/>
 
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
 
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="blink" DisplayName="Blink" iconFile="Data/Images/Mounts/Jackal - Blink.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" miniMapVisibility="0" minSize="32" maxSize="48" mapVisibility="0">
+                            <MarkerCategory name="blink" DisplayName="Blink" iconFile="Data/Images/Mounts/Jackal - Blink.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -186,58 +123,30 @@
                     <MarkerCategory name="wp" DisplayName="WP Only " texture="Data/Images/Trail - Stubby.png" animSpeed="2" miniMapVisibility="1">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
                     </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="caledon" DisplayName="Caledon Forest" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -249,90 +158,44 @@
                     <MarkerCategory name="wp" DisplayName="WP Only " texture="Data/Images/Trail - Stubby.png" animSpeed="2" miniMapVisibility="1">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                     </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="grove" DisplayName="The Grove" texture="Data/Images/trailarrow-small.png" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-                        <MarkerCategory name="bov" DisplayName="Bond of Vigor" iconFile="Data/Images/Mounts/Bond of Vigor.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
                     </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="queensdale" DisplayName="Queensdale">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -345,40 +208,18 @@
                 <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -400,46 +241,20 @@
                 <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -458,43 +273,20 @@
                 <MarkerCategory name="ashford" DisplayName="Plains of Ashford" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                             
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -524,44 +316,19 @@
                 <MarkerCategory name="diessa" DisplayName="Diessa Plateau" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="hover" DisplayName="Hover" iconFile="Data/Images/Mounts/Hover.png"/>
+                            <MarkerCategory name="hover" DisplayName="Hover" iconFile="Data/Images/Mounts/Hover.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -578,13 +345,13 @@
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -601,40 +368,16 @@
                 <MarkerCategory name="citadel" DisplayName="Black Citadel" texture="Data/Images/trailarrow-small.png" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -651,41 +394,21 @@
                 <MarkerCategory name="la" DisplayName="Lion's Arch" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
+
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
                         </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -698,36 +421,22 @@
                 <MarkerCategory name="rata" DisplayName="Rata Sum" texture="Data/Images/trailarrow-small.png" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
+
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
+
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5" minSize="24" maxSize="24"/>
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png">
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -743,38 +452,18 @@
                     <MarkerCategory name="jade" DisplayName="Jade Protocol Reminder" iconFile="Data/Images/Jade Protocol Reminder.png" mapVisibility="0" miniMapVisibility="0"/>
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-                        <MarkerCategory name="bov" DisplayName="Bond of Vigor" iconFile="Data/Images/Mounts/Bond of Vigor.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
+                        <MarkerCategory name="bov" DisplayName="Bond of Vigor" iconFile="Data/Images/Mounts/Bond of Vigor.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -790,38 +479,18 @@
                 <MarkerCategory name="fields" DisplayName="Fields of Ruin" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -835,38 +504,17 @@
                 <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -877,47 +525,26 @@
 
                     <MarkerCategory name="wp" DisplayName="WP Only " texture="Data/Images/Trail - Stubby.png" animSpeed="2" miniMapVisibility="1">
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
                     </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="ironmarches" DisplayName="Iron Marches" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -928,54 +555,26 @@
 
                     <MarkerCategory name="wp" DisplayName="WP Only " texture="Data/Images/Trail - Stubby.png" animSpeed="2" miniMapVisibility="1">
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                     </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
-                        </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -988,51 +587,29 @@
                     <MarkerCategory name="wp" DisplayName="WP Only " texture="Data/Images/Trail - Stubby.png" animSpeed="2" miniMapVisibility="1">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                 </MarkerCategory>
+
                 <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1053,32 +630,18 @@
                 <MarkerCategory name="snowden" DisplayName="Snowden Drifts" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1095,43 +658,25 @@
                 <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
 
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Seven" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1150,40 +695,14 @@
                 <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak" texture="Data/Images/trailarrow-small.png" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/11.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/12.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1204,41 +723,23 @@
                 <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
 
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1261,45 +762,28 @@
                 <MarkerCategory name="timberline" DisplayName="Timberline Falls" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
                         </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
 
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="wp" DisplayName="WP Only " texture="Data/Images/Trail - Stubby.png" animSpeed="2" miniMapVisibility="1">
@@ -1310,38 +794,23 @@
                 <MarkerCategory name="lornars" DisplayName="Lornars Pass" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
 
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
 
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1359,8 +828,8 @@
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>                    
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1372,52 +841,31 @@
                 <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
                         </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                        
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png">
                             <MarkerCategory name="leap" DisplayName="Leap" iconFile="Data/Images/Mounts/Leap.png"/>
                         </MarkerCategory>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1438,41 +886,25 @@
                 <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1487,13 +919,13 @@
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1507,44 +939,24 @@
                 <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" >
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
                         <MarkerCategory name="heartpath" DisplayName="Hearts" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1563,48 +975,32 @@
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
                     </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="devastation" DisplayName="Straits of Devastation">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
-
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+                        </MarkerCategory>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
-                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
+                        <MarkerCategory name="dismount" DisplayName="Dismount" iconFile="Data/Images/Mounts/Dismount.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1622,9 +1018,9 @@
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" mapVisibility="0"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1639,45 +1035,26 @@
                 <MarkerCategory name="malchors" DisplayName="Malchor's Leap">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png" mapVisibility="0"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1694,11 +1071,11 @@
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -1712,44 +1089,24 @@
                 <MarkerCategory name="cs" DisplayName="Cursed Shore">
                     <MarkerCategory name="trails" IsSeparator="1" DisplayName="TRAILS"/>
 
-                    <MarkerCategory name="leg" DisplayName="Mounts Legacy">
-                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                        <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        
-                        <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                    <MarkerCategory name="all" DisplayName="With Mounts">
+                        <MarkerCategory name="leg" DisplayName="Easy Sections">
+                            <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Easy Route.png" minSize="32" maxSize="32"/>
+                            <MarkerCategory name="trail" DisplayName="Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-
-                        <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                    </MarkerCategory>
-
-                    <MarkerCategory name="all" DisplayName="Mounts Main">
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="hp" DisplayName="Hero Points"/>
                         <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="MOUNTS"/>
-                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
-                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" mapVisibility="0"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" mapVisibility="0"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png" miniMapVisibility="0" minSize="32" maxSize="48">
-                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
+                            <MarkerCategory name="dive" DisplayName="Skimmer - Dive" iconFile="Data/Images/Mounts/Skimmer_Dive.png" mapVisibility="0"/>
                         </MarkerCategory>
-                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" mapVisibility="0"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png" mapVisibility="0"/>
 
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
