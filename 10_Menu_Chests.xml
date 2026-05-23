@@ -320,6 +320,31 @@
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Zone"/>
                 <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
             </MarkerCategory>
+            <MarkerCategory name="shrine" DisplayName="Shrine Guardian Chests" >
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="chest" DisplayName="Shrine Guardian Chests" iconFile="Data/Images/Square.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32">
+                    <MarkerCategory name="icon" DisplayName="Marker" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="20" inGameVisibility="1" heightOffset="-0.1"/>
+                </MarkerCategory>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="jbwp" DisplayName="Toggle JB: Personal WP" iconFile="Data/Images/Icons/JadeBotWaypoint.png" heightOffset="2.9"/>
+                <MarkerCategory name="jbpwp" DisplayName="Toggle JB: Personal WP Marker" iconFile="Data/Images/Icons/JadeBotPWP.png" triggerrange="3.9" autotrigger="true" iconSize="0.5"/>
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="trail" DisplayName="Trail Segment">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
 
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
             <MarkerCategory name="arcane" DisplayName="Arcane Chests">
@@ -329,9 +354,6 @@
             <MarkerCategory name="shrine" DisplayName="Shrine Guardian Chests" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="chest" DisplayName="Shrine Guardian Chests" iconFile="Data/Images/Square.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32">
-                    <MarkerCategory name="icon" DisplayName="Marker" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="20" inGameVisibility="1" heightOffset="-0.1"/>
-                </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="trail" DisplayName="Trail Segment">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
