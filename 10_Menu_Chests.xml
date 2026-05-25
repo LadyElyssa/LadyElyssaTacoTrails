@@ -129,7 +129,7 @@
             </MarkerCategory>
             
             <MarkerCategory name="pof" IsSeparator="1" DisplayName="PATH OF FIRE"/>
-                <MarkerCategory name="bt" DisplayName="Buried Treasure" iconFile="Data/Images/Buried Treasure.png" inGameVisibility="1" mapDisplaySize="48" tip-name="Buried Treasure" heightOffset="-0.2" triggerRange="3" fadeNear="8000" fadeFar="12000" alpha="1">
+                <MarkerCategory name="bt" DisplayName="Buried Treasure" iconFile="Data/Images/Buried Treasure.png" inGameVisibility="1" mapDisplaySize="48" tip-name="Buried Treasure" heightOffset="-0.5" triggerRange="3" fadeNear="8000" fadeFar="12000" alpha="1">
                     <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                     <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
                     <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
