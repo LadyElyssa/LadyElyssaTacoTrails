@@ -359,10 +359,19 @@
                 <MarkerCategory name="greater" DisplayName="Greater Arcane Chests" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0" iconFile="Data/Images/Arcane Chest Greater.png"/>
             </MarkerCategory>
 
-            <MarkerCategory name="shrine" DisplayName="Shrine Guardian Chests" >
+            <MarkerCategory name="sgc" DisplayName="Shrine Guardian Chests" >
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="chest" DisplayName="Shrine Guardian Chests" iconFile="Data/Images/Square.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32">
+                    <MarkerCategory name="icon" DisplayName="Marker" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="20" inGameVisibility="1" heightOffset="-0.1"/>
+                </MarkerCategory>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="jbwp" DisplayName="Toggle JB: Personal WP" iconFile="Data/Images/Icons/JadeBotWaypoint.png" heightOffset="2.9"/>
+                <MarkerCategory name="jbpwp" DisplayName="Toggle JB: Personal WP Marker" iconFile="Data/Images/Icons/JadeBotPWP.png" triggerrange="3.9" autotrigger="true" iconSize="0.5"/>
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                </MarkerCategory>
+                
                 <MarkerCategory name="trail" DisplayName="Trail Segment">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -455,8 +464,7 @@
 
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ss" DisplayName="Shipwreck Strand">
-
-                    <MarkerCategory name="f" IsSeparator="1" DisplayName="Fast Route "/>
+                    <MarkerCategory name="f" IsSeparator="1" DisplayName="12Tables Routes"/>
                     <MarkerCategory name="fl" DisplayName="Large">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -493,7 +501,7 @@
                 </MarkerCategory>
 
                 <MarkerCategory name="sw" DisplayName="Starlit Weald">
-                    <MarkerCategory name="f" IsSeparator="1" DisplayName="Fast Route "/>
+                    <MarkerCategory name="f" IsSeparator="1" DisplayName="12Tables Routes"/>
                     <MarkerCategory name="fl" DisplayName="Large">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -535,7 +543,7 @@
                 </MarkerCategory>
 
                 <MarkerCategory name="eg" DisplayName="Eternity's Garden">
-                   <MarkerCategory name="f" IsSeparator="1" DisplayName="Fast Route "/>
+                   <MarkerCategory name="f" IsSeparator="1" DisplayName="12Tables Routes"/>
                     <MarkerCategory name="fl" DisplayName="Large">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
