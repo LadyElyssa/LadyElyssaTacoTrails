@@ -456,12 +456,12 @@
                 <MarkerCategory name="razortooth" DisplayName="Transcended Razortooth" iconFile="Data/Images/Icons/Kill Veteran Transcended Razortooth.png" mapDisplaySize="64"/>
 
                 <MarkerCategory name="chests" IsSeparator="1" DisplayName="Chests"/>
-                <MarkerCategory name="small" DisplayName="Small Chests" iconFile="Data/Images/Square - Blue.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
-                <MarkerCategory name="medium" DisplayName="Medium Chests" iconFile="Data/Images/Square - Green.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
                 <MarkerCategory name="large" DisplayName="Large Chests" iconFile="Data/Images/Square - Gold.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
+                <MarkerCategory name="medium" DisplayName="Medium Chests" iconFile="Data/Images/Square - Green.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
+                <MarkerCategory name="small" DisplayName="Small Chests" iconFile="Data/Images/Square - Blue.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="0"/>
 
                 <MarkerCategory name="mirror" DisplayName="Mirrors" iconFile="Data/Images/Icons/Magic Mirror.png" mapDisplaySize="48" inGameVisibility="0" behavior="4" resetLength="180"/>
-
+                
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="ss" DisplayName="Shipwreck Strand">
                     <MarkerCategory name="f" IsSeparator="1" DisplayName="12Tables Routes"/>
@@ -482,6 +482,9 @@
                     <MarkerCategory name="fm" DisplayName="Medium">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="relog" DisplayName="Mirror Reset" iconFile="Data/Images/Mirror Reset.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
+                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
+
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="Mounts"/>
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
@@ -521,6 +524,8 @@
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="jbgb" DisplayName="Jade Bot Glide Booster"  iconFile="Data/Images/JadeBotGlideBooster.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
+                        <MarkerCategory name="relog" DisplayName="Mirror Reset" iconFile="Data/Images/Mirror Reset.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
+                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
                         <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="Mounts"/>
@@ -564,7 +569,10 @@
                     <MarkerCategory name="fm" DisplayName="Medium">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                        
+                        <MarkerCategory name="relog" DisplayName="Mirror Reset" iconFile="Data/Images/Mirror Reset.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
+                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
+                        <MarkerCategory name="9keys" DisplayName="9+ Keys" iconFile="Data/Images/Icons/Mirror Keys 9+.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
+
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="Mounts"/>
                         <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
