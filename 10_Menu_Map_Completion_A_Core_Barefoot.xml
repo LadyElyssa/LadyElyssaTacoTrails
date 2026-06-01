@@ -7,6 +7,11 @@
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
                 <MarkerCategory name="eoz" DisplayName="End of Zone" iconFile="Data/Images/End of Zone.png" inGameVisibility="1" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
                 <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/Images/Icons/ExitInstance.png" maxSize="32"/>
+                
+                <MarkerCategory name="bfs" DisplayName="Barefoot Shortcuts" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0">
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0" miniMapVisibility="0" minSize="24" maxSize="32"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="blazeridge" IsSeparator="1" DisplayName="Blazeridge Steppes"/>
                     <MarkerCategory name="heartportal" DisplayName="Portal" iconFile="Data/Images/Portal.png" minSize="16" maxSize="24" fadeNear="1200" fadeFar="2400" heightOffset="0"/>
@@ -17,9 +22,11 @@
                     <MarkerCategory name="poison" DisplayName="Baneberry" iconFile="Data/Images/Baneberry.png" minSize="12" maxSize="32" heightOffset="0"/>
                     <MarkerCategory name="combat" DisplayName="Combat" iconFile="Data/Images/Combat.png" minSize="12" maxSize="32" heightOffset="3.0"/>
                     <MarkerCategory name="wayfarer" IsSeparator="1" DisplayName="Wayfarer Foothills"/>
-                    <MarkerCategory name="jotun" DisplayName="Jotun Trading Heart" iconFile="Data/Images/Hearts/Renown Heart Empty.png" mapVisibility="0" miniMapVisibility="0" minSize="8" maxSize="16" fadeNear="600" fadeFar="1200"/>                </MarkerCategory>
-                <MarkerCategory name="jade" DisplayName="Jade Protocol Reminder" iconFile="Data/Images/Jade Protocol Reminder.png" mapVisibility="0" miniMapVisibility="0"/>
+                    <MarkerCategory name="jotun" DisplayName="Jotun Trading Heart" iconFile="Data/Images/Hearts/Renown Heart Empty.png" mapVisibility="0" miniMapVisibility="0" minSize="8" maxSize="16" fadeNear="600" fadeFar="1200"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="sign" DisplayName="Sign - Do Not Enter" iconFile="Data/Images/Stop_Hand_Blue.png" fadeNear="600" fadeFar="1200"/>
+
                 <MarkerCategory name="maproute" IsSeparator="1" DisplayName="Map Completion Route"/>
                 <MarkerCategory name="metrica" DisplayName="Metrica Province (Start) ">
                     <MarkerCategory name="recommend" DisplayName="Information" iconFile="Data/Images/Icons/Blank.png"/>
@@ -498,8 +505,6 @@
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        
                     </MarkerCategory>
                 </MarkerCategory>
 
@@ -531,11 +536,7 @@
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
-                        
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>                    
                     </MarkerCategory>
                 </MarkerCategory>
                 

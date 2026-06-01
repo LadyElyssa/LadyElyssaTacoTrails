@@ -5,9 +5,13 @@
             <MarkerCategory name="core" DisplayName="Core Maps">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" inGameVisibility="0" mapVisibility="1" miniMapVisibility="1" mapDisplaySize="128"/>
-                <MarkerCategory name="eoz" DisplayName="End of Zone" iconFile="Data/Images/End of Zone.png" inGameVisibility="1" mapVisibility="0" miniMapVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="eoz" DisplayName="End of Zone" iconFile="Data/Images/End of Zone.png" inGameVisibility="1" mapVisibility="0" miniMapVisibility="0"/>
                 <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/Images/Icons/ExitInstance.png" maxSize="32"/>
                 
+                <MarkerCategory name="bfs" DisplayName="Barefoot Shortcuts" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png">
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png" mapVisibility="0"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/Images/Icons/Blank.png" miniMapVisibility="0" minSize="32" maxSize="48">
                     <MarkerCategory name="blazeridge" IsSeparator="1" DisplayName="Blazeridge Steppes"/>
                     <MarkerCategory name="heartportal" DisplayName="Portal" iconFile="Data/Images/Portal.png" minSize="16" maxSize="24" fadeNear="1200" fadeFar="2400" heightOffset="0"/>

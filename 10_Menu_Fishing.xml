@@ -1,0 +1,70 @@
+<OverlayData>
+    <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+        <MarkerCategory name="fishing" DisplayName="Fishing">
+            <MarkerCategory name="mmm" IsSeparator="1" DisplayName="Courtesy of MMM - Metal Marker Myriad"/>
+            <MarkerCategory name="holes" DisplayName="Fishing Holes" iconFile="Data/Images/Icons/Fish_resource.png" bounce="rise" bounce-height="3" autoTrigger="1" triggerRange="25" fadeNear="3000" fadeFar="5000">
+                <MarkerCategory name="astral" DisplayName="Astral Fish"></MarkerCategory>
+                <MarkerCategory name="boreal" DisplayName="Boreal Fish"></MarkerCategory>
+                <MarkerCategory name="brackishj" DisplayName="Brackish Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="cavern" DisplayName="Cavern Fish"></MarkerCategory>
+                <MarkerCategory name="channel" DisplayName="Channel Fish"></MarkerCategory>
+                <MarkerCategory name="coastal" DisplayName="Coastal Fish"></MarkerCategory>
+                <MarkerCategory name="deep" DisplayName="Deep Fishing Hole"></MarkerCategory>
+                <MarkerCategory name="deeptower" DisplayName="Deep Tower Fish"></MarkerCategory>
+                <MarkerCategory name="desert" DisplayName="Desert Fish"></MarkerCategory>
+                <MarkerCategory name="dream" DisplayName="Dream Fish"></MarkerCategory>
+                <MarkerCategory name="event" DisplayName="Event/Heart/Other">
+                    <MarkerCategory name="innerchamber" DisplayName="Inner Chamber Fish"></MarkerCategory>
+                    <MarkerCategory name="lutgardis" DisplayName="Lutgardis Trout"></MarkerCategory>
+                    <MarkerCategory name="naksi" DisplayName="Naksi Bay Fish"></MarkerCategory>
+                    <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
+                    <MarkerCategory name="shinota" DisplayName="Shinota Blackfins"></MarkerCategory>
+                    <MarkerCategory name="wreckage" DisplayName="Wreckage Site"></MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="fracchannel" DisplayName="Fractured Channel Fish"></MarkerCategory>
+                <MarkerCategory name="fracdesert" DisplayName="Fractured Desert Fish"></MarkerCategory>
+                <MarkerCategory name="fracfresh" DisplayName="Fractured Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="fraclake" DisplayName="Fractured Lake Fish"></MarkerCategory>
+                <MarkerCategory name="freshwater" DisplayName="Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="freshj" DisplayName="Freshwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="grotto" DisplayName="Grotto Fish"></MarkerCategory>
+                <MarkerCategory name="lake" DisplayName="Lake Fish"></MarkerCategory>
+                <MarkerCategory name="lowbrackish" DisplayName="Lowland Brackish Fish"></MarkerCategory>
+                <MarkerCategory name="lowfresh" DisplayName="Lowland Freshwater Fish"></MarkerCategory>
+                <MarkerCategory name="lowoffshore" DisplayName="Lowland Offshore Fish"></MarkerCategory>
+                <MarkerCategory name="lowshore" DisplayName="Lowland Shore Fish"></MarkerCategory>
+                <MarkerCategory name="mysterious" DisplayName="Mysterious Waters Fish"></MarkerCategory>
+                <MarkerCategory name="nayosian" DisplayName="Nayosian Fish"></MarkerCategory>
+                <MarkerCategory name="noxious" DisplayName="Noxious Water Fish"></MarkerCategory>
+                <MarkerCategory name="offshore" DisplayName="Offshore Fish"></MarkerCategory>
+                <MarkerCategory name="osj" DisplayName="Offshore Saltwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="polluted" DisplayName="Polluted Lake Fish"></MarkerCategory>
+                <MarkerCategory name="quarry" DisplayName="Quarry Fish"></MarkerCategory>
+                <MarkerCategory name="random" DisplayName="Random Fish"></MarkerCategory>
+                <MarkerCategory name="rare" DisplayName="Rare Fish"></MarkerCategory>
+                <MarkerCategory name="river" DisplayName="River Fish"></MarkerCategory>
+                <MarkerCategory name="saltwater" DisplayName="Saltwater Fish"></MarkerCategory>
+                <MarkerCategory name="shore" DisplayName="Shore Fish"></MarkerCategory>
+                <MarkerCategory name="ssj" DisplayName="Shore Saltwater Janthir Fish"></MarkerCategory>
+                <MarkerCategory name="spire" DisplayName="Spire Fish"></MarkerCategory>
+                <MarkerCategory name="volcanic" DisplayName="Volcanic Fish"></MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="bait" DisplayName="Fishing Bait">
+                <MarkerCategory name="instrux" DisplayName="Click below to copy WPs, here for trails" defaulttoggle="0" texture="Data/Images/Trails/mmm_trail.png" alpha="0.7" color="#56B4E9"></MarkerCategory>
+                <MarkerCategory name="fishegg" DisplayName="Fish Egg" isseparator="1" copy="[&amp;BC8EAAA=][&amp;BOcBAAA=][&amp;BEMLAAA=]" copy-message="Fish Egg WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="minnow" DisplayName="Freshwater Minnow" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=][&amp;BC8EAAA=][&amp;BOcBAAA=]" copy-message="Freshwater Minnow WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="glowworm" DisplayName="Glow Worm" isseparator="1" copy="[&amp;BMcMAAA=][&amp;BGMNAAA=]" copy-message="Glow Worm WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="beetle" DisplayName="Lava Beetle" isseparator="1" copy="[&amp;BHgJAAA=]" copy-message="Lava Beetle WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="leech" DisplayName="Leech" isseparator="1" copy="[&amp;BO8JAAA=]" copy-message="Leech WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="lightning" DisplayName="Lightning Bug" isseparator="1" copy="[&amp;BOcBAAA=]" copy-message="Lightning Bug WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="nightcrawler" DisplayName="Nightcrawler" isseparator="1" copy="[&amp;BKIMAAA=]" copy-message="Nightcrawler WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="ramshorn" DisplayName="Ramshorn Snail" isseparator="1" copy="[&amp;BIACAAA=]" copy-message="Ramshorn Snail WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="sardine" DisplayName="Sardine" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BAcFAAA=][&amp;BO8JAAA=]" copy-message="Sardine WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="scorpion" DisplayName="Scorpion" isseparator="1" copy="[&amp;BLsKAAA=]" copy-message="Scorpion WP copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="shrimpling" DisplayName="Shrimpling" isseparator="1" copy="[&amp;BJ4MAAA=][&amp;BMYMAAA=][&amp;BKIMAAA=][&amp;BC8EAAA=][&amp;BIACAAA=]" copy-message="Shrimpling WPs copied to clipboard!"></MarkerCategory>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Larva" isseparator="1" copy="[&amp;BAcFAAA=]" copy-message="Sparkfly Larva WP copied to clipboard!"></MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's Guides -->
+</OverlayData>

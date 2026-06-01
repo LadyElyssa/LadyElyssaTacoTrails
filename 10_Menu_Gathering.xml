@@ -1493,6 +1493,7 @@
                         <MarkerCategory name="bluesmall" DisplayName="Blue Chest of Vigilance (Small)" iconFile="Data/Images/Chest of Essence - Blue - Small.png" mapDisplaySize="32"/>
                     </MarkerCategory>
                     <MarkerCategory name="norn" DisplayName="Norn Chest" iconFile="Data/Images/Icons/Chest_Norn.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="optional" DisplayName="Puzzles Optional (use Menu - Puzzles)" iconFile="Data/Images/Puzzles - Optional.png" minSize="64" maxSize="64"/>
                     <MarkerCategory name="warning" DisplayName="Warning Signs"/>
 
                     <MarkerCategory name="route" IsSeparator="1" DisplayName="ROUTES"/>

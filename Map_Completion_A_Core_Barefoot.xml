@@ -2,6 +2,18 @@
     <POIs>
         <!-- MAP COMPLETION - Barefoot -->
         <!-- Metrica Province -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Metrica 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Metrica 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Metrica 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Metrica 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Metrica 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Metrica 6.trl" color="00FFFF"/>
+        <POI MapID="35" xpos="-403.139" ypos="55.6092" zpos="-872.578" type="legs.map.core.bfs.springer" GUID="aze7vKPhx0SDEEVS6P55HQ=="/>
+        <POI MapID="35" xpos="-71.6493" ypos="38.3136" zpos="-809.935" type="legs.map.core.bfs.springer" GUID="Z2G7J1OK6EqUkfcHBB7zuA=="/>
+        <POI MapID="35" xpos="-102.499" ypos="26.3669" zpos="-148.074" type="legs.map.core.bfs.springer" GUID="vOK5RVEU2EuAxsmTRmtJHg=="/>
+        <POI MapID="35" xpos="304.486" ypos="18.4978" zpos="-35.4691" type="legs.map.core.bfs.springer" GUID="nSYV8NAbAECECHQnbB8Jgw=="/>
+        <POI MapID="35" xpos="140.183" ypos="33.6269" zpos="266.699" type="legs.map.core.bfs.springer" GUID="Jen6PoZvUU+9c/hOxI9nDw=="/>
+        <POI MapID="35" xpos="-105.925" ypos="9.70718" zpos="641.485" type="legs.map.core.bfs.springer" GUID="B2/tPrwxtkqYnfmXB8Zn9Q=="/>
         <!-- Hearts -->
         <Trail type="legs.map.core.metrica.barefoot.heartpath" trailData="Data/Map Completion/Core/Metrica Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.metrica.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Metrica Hearts 2.trl" color="FFFF00"/>
@@ -49,6 +61,18 @@
         <POI MapID="35" xpos="-72.0329" ypos="30.1767" zpos="906.264" type="legs.map.core.metrica.barefoot.6" GUID="g5tx98/ul0ennX9AfgGefQ=="/>
 
         <!-- Brisban Wildlands -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Brisban 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Brisban 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Brisban 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Brisban 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Brisban 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Brisban 6.trl" color="00FFFF"/>
+        <POI MapID="54" xpos="959.546" ypos="52.3272" zpos="-80.0298" type="legs.map.core.bfs.springer" GUID="/IybP1Os7EqZ103BQgaXtg=="/>
+        <POI MapID="54" xpos="704.799" ypos="89.785" zpos="139.847" type="legs.map.core.bfs.springer" GUID="55jwD49Z7069EfoGJc/OkA=="/>
+        <POI MapID="54" xpos="523.13" ypos="13.4102" zpos="-265.053" type="legs.map.core.bfs.springer" GUID="jB7hWtUKEE6LFm5pFUm4Uw=="/>
+        <POI MapID="54" xpos="105.84" ypos="51.8551" zpos="-370.872" type="legs.map.core.bfs.springer" GUID="WzdKfFqN60C3fNw6lHWjnQ=="/>
+        <POI MapID="54" xpos="-424.574" ypos="26.3586" zpos="-724.454" type="legs.map.core.bfs.springer" GUID="14seFu4osUqbP0DL8Jhvcg=="/>
+        <POI MapID="54" xpos="-176.858" ypos="7.37047" zpos="726.985" type="legs.map.core.bfs.springer" GUID="ww1WYrpGck2P+YJfIWqIRQ=="/>
         <!-- Hearts -->
         <Trail type="legs.map.core.brisban.barefoot.heartpath" trailData="Data/Map Completion/Core/Brisban Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.brisban.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Brisban Hearts 2.trl" color="FFFF00"/>
@@ -87,7 +111,12 @@
         <POI MapID="54" xpos="969.239" ypos="58.144" zpos="654.581" type="legs.map.core.brisban.barefoot.4" GUID="Qt4cO4LgrEyZ+wCscix87Q=="/>
 
         <!-- Kessex Hills -->
-
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Kessex 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Kessex 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Kessex 3.trl" color="00FFFF"/>
+        <POI MapID="23" xpos="483.28" ypos="51.6414" zpos="258.817" type="legs.map.core.bfs.springer" GUID="DIplFPzUtEu+S/hHCx5QMA=="/>
+        <POI MapID="23" xpos="940.843" ypos="57.5651" zpos="310.834" type="legs.map.core.bfs.springer" GUID="KnGd+BPU8UWcerlFV782uA=="/>
+        <POI MapID="23" xpos="-697.882" ypos="8.00581" zpos="-549.037" type="legs.map.core.bfs.springer" GUID="ZYtoAORXvkujjNGHdJrD1A=="/>
         <!-- Hearts -->
         <Trail type="legs.map.core.kessex.barefoot.heartpath" trailData="Data/Map Completion/Core/Kessex Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.kessex.barefoot.heartpath" trailData="Data/Map Completion/Core/Kessex Hearts 2.trl" color="CCCCCCCC" texture="Data/Images/Line - Heart Dark.png"/>
@@ -124,10 +153,22 @@
         <POI MapID="23" xpos="827.932" ypos="80.7724" zpos="-283.248" type="legs.map.core.kessex.barefoot.3" GUID="sHV6+uak20O9Rx3Ja37aNw=="/>
         <POI MapID="23" xpos="363.114" ypos="67.1227" zpos="-334.958" type="legs.map.core.kessex.barefoot.4" GUID="OCBhtQRLbESm1RXv/utY9Q=="/>
         <POI MapID="23" xpos="-376.378" ypos="5.5686" zpos="-419.139" type="legs.map.core.kessex.barefoot.5" GUID="YD56buO0+EaQjGCrBzyThA=="/>
-    
+        <POI MapID="34" xpos="329.046" ypos="26.6232" zpos="975.064" type="legs.map.core.bfs.springer" GUID="jrtqCvJt90KbbeEq4O4Gjg=="/>
+        <POI MapID="34" xpos="-176.368" ypos="56.814" zpos="450.952" type="legs.map.core.bfs.springer" GUID="jERnebQwgkynZvn3cnGp4Q=="/>
+        <POI MapID="34" xpos="248.919" ypos="5.97349" zpos="-41.619" type="legs.map.core.bfs.springer" GUID="7mfXrnKQCkK6oCLmsfRDQA=="/>
+        <POI MapID="34" xpos="-170.418" ypos="22.8801" zpos="191.898" type="legs.map.core.bfs.springer" GUID="H1GqYVjsyEKt5Bo2RgG21g=="/>
+        <POI MapID="34" xpos="-260.765" ypos="15.157" zpos="-291.828" type="legs.map.core.bfs.springer" GUID="PblJtmdLe0+YTY9bTZ5qBQ=="/>
+        <POI MapID="34" xpos="-424.2" ypos="-0.20884" zpos="-687.889" type="legs.map.core.bfs.springer" GUID="zu15mWLLCUaSXAfSIOOV/g=="/>
+        <POI MapID="34" xpos="270.526" ypos="7.3075" zpos="-1003.45" type="legs.map.core.bfs.springer" GUID="fWBXhZcmMkOktFLG0yC0aQ=="/>
 
         <!-- Caledon Forest -->
-
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Caledon 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Caledon 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Caledon 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Caledon 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Caledon 5.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Caledon 6.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Caledon 7.trl" color="00FFFF"/>
         <!-- Hearts -->
         <Trail type="legs.map.core.caledon.barefoot.heartpath" trailData="Data/Map Completion/Core/Caledon Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.caledon.barefoot.heartpath" trailData="Data/Map Completion/Core/Caledon Hearts 2.trl" color="FFFF00"/>
@@ -168,13 +209,25 @@
         <POI MapID="34" xpos="433.6463" ypos="13.59215" zpos="-647.4622" type="legs.map.core.caledon.barefoot.4" GUID="TMj9o53URUaHmro7jHDeZw=="/>
 
         <!-- The Grove -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Grove 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Grove 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Grove 3.trl" color="00FFFF"/>
+        <POI MapID="91" xpos="-6.1965" ypos="71.7621" zpos="271.181" type="legs.map.core.bfs.springer" GUID="Pazn4hs8r0m1P4GzmUNvbg=="/>
+        <POI MapID="91" xpos="-50.5663" ypos="14.1734" zpos="144.195" type="legs.map.core.bfs.springer" GUID="AWvwWSgw10admFSDvXmgnA=="/>
+        <POI MapID="91" xpos="130.282" ypos="73.5848" zpos="48.2468" type="legs.map.core.bfs.springer" GUID="pFZ7YctCJ06bNVZTfTONPA=="/>
+
         <Trail type="legs.map.core.grove.barefoot" trailData="Data/Map Completion/Core/Barefoot/The Grove 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.grove.barefoot" trailData="Data/Map Completion/Core/Barefoot/The Grove 2.trl" color="00FFFF"/>
         <POI MapID="648" xpos="31.6839" ypos="100.053" zpos="25.6518" type="legs.map.core.grove.barefoot.wp" GUID="F4xQjQV0Bk26xKDCATdVYg==" copy="[&amp;BO8AAAA=]" copy-message="Shaemoor Waypoint"/>
 
 
         <!-- Queensdale -->
-
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Queensdale 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Queensdale 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Queensdale 3.trl" color="00FFFF"/>
+        <POI MapID="15" xpos="-800.177" ypos="20.3267" zpos="719.615" type="legs.map.core.bfs.springer" GUID="99YC+w1os0qjVQ0I1AxBTg=="/>
+        <POI MapID="15" xpos="-180.529" ypos="28.5761" zpos="308.636" type="legs.map.core.bfs.springer" GUID="ChGtARNbIUyxLwxMblMDvg=="/>
+        <POI MapID="15" xpos="-812.877" ypos="2.29383" zpos="-509.358" type="legs.map.core.bfs.springer" GUID="ypav6GAuGEaEdVyY5utULQ=="/>
         <!-- Hearts -->
         <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 2.trl" color="FFFF00"/>
@@ -189,7 +242,7 @@
         <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 10.trl" color="FFFF00"/>
         <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 11.trl" color="FFFF00"/>
         <!-- 12 is just Kill Tamini at Orlaf Escarpments-->
-        <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 13.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Queensdale Hearts 13.trl" color="FFFF00"/>
         <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 14.trl" color="FFFF00"/>
         <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 15.trl" color="FFFF00"/>
         <Trail type="legs.map.core.queensdale.barefoot.heartpath" trailData="Data/Map Completion/Core/Queensdale Hearts 16.trl" color="FFFF00"/>
@@ -210,8 +263,13 @@
         <POI MapID="15" xpos="-413.5755" ypos="35.00894" zpos="440.8225" type="legs.map.core.queensdale.barefoot.2" GUID="+87F7CwlR06lzW89u8QbLw=="/>
 
         
-        <!-- Gandarran Fields -->
-
+        <!-- Gendarran Fields -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Gendarran 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Gendarran 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Gendarran 3.trl" color="00FFFF"/>
+        <POI MapID="24" xpos="-188.803" ypos="2.16298" zpos="543.468" type="legs.map.core.bfs.springer" GUID="Zu7LpWPIjkmD7uS20XFdeg=="/>
+        <POI MapID="24" xpos="-749.727" ypos="30.3066" zpos="7.33263" type="legs.map.core.bfs.springer" GUID="F/QqAhPnjU6jqy25WeINPA=="/>
+        <POI MapID="24" xpos="-356.88" ypos="6.86125" zpos="37.2165" type="legs.map.core.bfs.springer" GUID="Uq7y+ps7dkae8LLSnhuK0Q=="/>
         <Trail type="legs.map.core.gendarran.barefoot.heartpath" trailData="Data/Map Completion/Core/Gendarran Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.gendarran.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Gendarran Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.gendarran.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Gendarran Hearts 3.trl" color="FFFF00"/>
@@ -243,6 +301,8 @@
 
 
         <!-- Harathi Hinterlands -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Harathi 1.trl" color="00FFFF"/>
+        <POI MapID="17" xpos="788.603" ypos="48.863" zpos="-412.346" type="legs.map.core.bfs.springer" GUID="qTnShcpw6kOSXINYCH9YWg=="/>
         <Trail type="legs.map.core.harathi.barefoot.heartpath" trailData="Data/Map Completion/Core/Harathi Hearts 1a.trl" color="FFFF00"/>
         <Trail type="legs.map.core.harathi.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Harathi Hearts 1b.trl" color="FFFF00"/>
         <Trail type="legs.map.core.harathi.barefoot.heartpath" trailData="Data/Map Completion/Core/Harathi Hearts 2.trl" color="FFFF00"/>
@@ -277,6 +337,14 @@
 
 
         <!-- Plains of Ashford -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Ashford 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Ashford 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Ashford 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Ashford 4.trl" color="00FFFF"/>
+        <POI MapID="19" xpos="-843.409" ypos="46.6566" zpos="-191.398" type="legs.map.core.bfs.springer" GUID="BI37keuiJkGo1YNfMLKySA=="/>
+        <POI MapID="19" xpos="-319.815" ypos="43.4297" zpos="87.5961" type="legs.map.core.bfs.springer" GUID="jYZOVv/EgE2NH4/mvQDK8w=="/>
+        <POI MapID="19" xpos="582.187" ypos="35.1959" zpos="468.682" type="legs.map.core.bfs.springer" GUID="uhm6Pg7FdEKYsd8vPbCptQ=="/>
+        <POI MapID="19" xpos="-160.956" ypos="16.877" zpos="-533.363" type="legs.map.core.bfs.springer" GUID="tSELF95P0k2Rd1Z8OJW2kg=="/>
 
         <Trail type="legs.map.core.ashford.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Ashford Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.ashford.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Ashford Hearts 2.trl" color="FFFF00"/>
@@ -316,9 +384,13 @@
         <POI MapID="19" xpos="-1156.658" ypos="68.48325" zpos="557.186" type="legs.map.core.ashford.barefoot.wp" GUID="4JCqzonRkkmfgUToTL5roA==" copy="[&amp;BJcDAAA=]" copy-message="Feritas Waypoint"/>
         <POI MapID="19" xpos="-827.7606" ypos="53.07348" zpos="-498.3337" type="legs.map.core.ashford.barefoot.wp" GUID="2IyurNnVCUiMzyeDDrPCMQ==" copy="[&amp;BIIBAAA=]" copy-message="Martyr's Waypoint"/>
 
-
         <!-- Diessa Plateau -->
-
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Diessa 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Diessa 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Diessa 3.trl" color="00FFFF"/>
+        <POI MapID="32" xpos="926.607" ypos="34.5915" zpos="-344.147" type="legs.map.core.bfs.springer" GUID="bIshFu902kOrYh7H7ALHlA=="/>
+        <POI MapID="32" xpos="450.65" ypos="2.14278" zpos="569.861" type="legs.map.core.bfs.springer" GUID="jkLCJ04h10igu3tW9upbGw=="/>
+        <POI MapID="32" xpos="-747.113" ypos="63.5096" zpos="208.356" type="legs.map.core.bfs.springer" GUID="fao3uFptAkaXpfBSO79Ksw=="/>
         <Trail type="legs.map.core.diessa.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Diessa Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.diessa.barefoot.heartpath" trailData="Data/Map Completion/Core/Diessa Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.diessa.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Diessa Hearts 3.trl" color="FFFF00"/>
@@ -334,7 +406,6 @@
         <Trail type="legs.map.core.diessa.barefoot.heartpath" trailData="Data/Map Completion/Core/Diessa Hearts 13.trl" color="FFFF00"/>
         <Trail type="legs.map.core.diessa.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Diessa Hearts 14.trl" color="FFFF00"/>
         <Trail type="legs.map.core.diessa.barefoot.heartpath" trailData="Data/Map Completion/Core/Diessa Hearts 15.trl" color="FFFF00"/>
-
 
         <Trail type="legs.map.core.diessa.barefoot.hp" trailData="Data/Map Completion/Core/Diessa HP 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.diessa.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Diessa HP 2.trl" color="FFFF00"/>
@@ -366,8 +437,11 @@
         <POI MapID="32" xpos="-993.871" ypos="91.1646" zpos="-166.342" type="legs.map.core.diessa.barefoot.wp" GUID="UMHYwjsN9U6TphFLbZ93ww==" copy="[&amp;BF4BAAA=]" copy-message="Oldgate Waypoint"/>
         <POI MapID="32" xpos="-1002.17" ypos="67.1844" zpos="-555.638" type="legs.map.core.diessa.barefoot.wp" GUID="a+mJPfa7AUiSrc+AEiBFBA==" copy="[&amp;BN4AAAA=]" copy-message="Nolan Waypoint"/>
 
-
         <!-- Black Citadel -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Black Citadel 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Black Citadel 2.trl" color="00FFFF"/>
+        <POI MapID="218" xpos="-140.541" ypos="36.6287" zpos="-284.983" type="legs.map.core.bfs.springer" GUID="o7Lu7/COI0CPgFoyKyLl1w=="/>
+        <POI MapID="218" xpos="-280.801" ypos="21.7677" zpos="114.685" type="legs.map.core.bfs.springer" GUID="nf5QK25T7U2MKOzCV4aDYA=="/>
         <Trail type="legs.map.core.citadel.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Black Citadel 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.citadel.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Black Citadel 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.citadel.barefoot.3" trailData="Data/Map Completion/Core/Barefoot/Black Citadel 3.trl" color="00FFFF"/>
@@ -398,9 +472,22 @@
         <POI MapID="218" xpos="29.43312" ypos="169.404" zpos="364.1641" type="legs.map.core.citadel.barefoot.3" GUID="vmakHL1HUEyw552NXYMxuw=="/>
         <POI MapID="218" xpos="167.7097" ypos="166.9872" zpos="252.5879" type="legs.map.core.citadel.barefoot.1" GUID="BRUobzosPUeK2K1QNqK7TQ=="/>
         <POI MapID="218" xpos="164.7327" ypos="167.5588" zpos="255.5929" type="legs.map.core.citadel.barefoot.2" GUID="m/UoLTj5pEKk6TziZSIrWg=="/>
-
-
+        
         <!-- Lion's Arch -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/LA 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/LA 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/LA 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/LA 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/LA 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/LA 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/LA 2.trl" color="00FFFF"/>
+        <POI MapID="50" xpos="-94.961" ypos="23.4218" zpos="171.489" type="legs.map.core.bfs.springer" GUID="y4ckVs/WPEib9YC8DwuJZw=="/>
+        <POI MapID="50" xpos="-404.294" ypos="18.5845" zpos="188.155" type="legs.map.core.bfs.springer" GUID="lUj+liNCnE68fSbUbv6YHA=="/>
+        <POI MapID="50" xpos="-584.86" ypos="5.35234" zpos="312.696" type="legs.map.core.bfs.springer" GUID="56bZftRmikymhON8+2bG8g=="/>
+        <POI MapID="50" xpos="325.23" ypos="44.4129" zpos="-288.755" type="legs.map.core.bfs.springer" GUID="uehuUr/nJUG1eeP8pyOYIw=="/>
+        <POI MapID="50" xpos="508.096" ypos="41.5209" zpos="-209.802" type="legs.map.core.bfs.springer" GUID="83w+YUUbLUKmPsf/X/KGzw=="/>
+        <POI MapID="50" xpos="439.043" ypos="20.8002" zpos="193.346" type="legs.map.core.bfs.springer" GUID="8mcLhDqbJUi5RyNHwgLNlA=="/>
+
         <Trail type="legs.map.core.la.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Lion's Arch 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.la.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Lion's Arch 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.la.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Lion's Arch 2b.trl" color="00FFFF" fadeNear="900" fadeFar="1200"/>
@@ -412,24 +499,36 @@
         <POI MapID="50" xpos="377.0193" ypos="26.80966" zpos="319.7129" type="legs.map.core.la.barefoot.wp" GUID="jvl0p5xek06XrcS8L7uZGw==" copy="[&amp;BA0EAAA=]" copy-message="Guild Bluff Waypoint"/>
 
         <!-- Rata Sum -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Rata 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Rata 2.trl" color="00FFFF"/>
+        <POI MapID="139" xpos="96.2825" ypos="385.831" zpos="196.857" type="legs.map.core.bfs.springer" GUID="PKwZNCYGe0Sk99YCS3Lwmw=="/>
+        <POI MapID="139" xpos="30.2523" ypos="362.098" zpos="73.1647" type="legs.map.core.bfs.springer" GUID="I+UebpsMm06m+4FDhunJog=="/>
+
         <Trail type="legs.map.core.rata.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Rata Sum 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.rata.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Rata Sum 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.rata.barefoot.3" trailData="Data/Map Completion/Core/Barefoot/Rata Sum 3.trl" color="00FFFF"/>
         <Trail type="legs.map.core.rata.barefoot.4" trailData="Data/Map Completion/Core/Barefoot/Rata Sum 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.core.rata.barefoot.5" trailData="Data/Map Completion/Core/Barefoot/Rata Sum 5.trl" color="00FFFF"/>
         <Trail type="legs.map.core.rata.barefoot" trailData="Data/Map Completion/Core/Rata Sum Snaff Memorial Lab.trl" color="00FFFF"/>
         <POI MapID="649" xpos="-292.8416" ypos="79.1722" zpos="42.38861" type="legs.map.core.exit" GUID="0HH5pRVpl0C6h+ycBLcKGg=="/>
         <Trail type="legs.map.core.rata.barefoot" trailData="Data/Map Completion/Core/Rata Sum Applied Development Lab.trl" color="00FFFF"/>
         <POI MapID="650" xpos="-533.6826" ypos="327.9363" zpos="620.7256" type="legs.map.core.exit" GUID="LT60jpsZB0WV4spKKYYVIQ=="/>
         <POI MapID="139" xpos="-1.893432" ypos="108.9441" zpos="-407.7278" type="legs.map.core.rata.barefoot.wp" GUID="vl4aYa1VQUubTBwWOZOr2A==" copy="[&amp;BLUEAAA=]" copy-message="Incubation Waypoint"/>
         <POI MapID="139" xpos="-294.7408" ypos="15.00339" zpos="-663.6223" type="legs.map.core.rata.barefoot.wp" GUID="IFsiOIZLqU6e5vmVLjhMSg==" copy="[&amp;BAcFAAA=]" copy-message="Port Waypoint"/>
-
-        <POI MapID="139" xpos="-25.67996" ypos="362.0725" zpos="220.9877" type="legs.map.core.rata.barefoot.wp" GUID="BccHc9Q7FkqWMKYclnFgmQ==" copy="[&amp;BLYEAAA=]" copy-message="Accountancy Waypoint"/>
         <POI MapID="139" xpos="164.5936" ypos="363.661" zpos="174.3247" type="legs.map.core.rata.barefoot.wp" GUID="mqXmITiEmku5Q+kHoJdqtw==" copy="[&amp;BBMEAAA=]" copy-message="Metrical Court Waypoint"/>
         <POI MapID="139" xpos="44.10654" ypos="334.0573" zpos="152.7755" type="legs.map.core.rata.barefoot.wp" GUID="JbtmS9RrWEy26Nvs6x70Aw==" copy="[&amp;BBQEAAA=]" copy-message="Magustan Court Waypoint"/>
 
 
         <!-- Divinity's Reach -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/DR 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/DR 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/DR 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/DR 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/DR 5.trl" color="00FFFF"/>
+        <POI MapID="18" xpos="137.749" ypos="141.373" zpos="-127.263" type="legs.map.core.bfs.springer" GUID="czjLpPTCC0yNO0a4s2iPtw=="/>
+        <POI MapID="18" xpos="32.0044" ypos="138.845" zpos="-258.367" type="legs.map.core.bfs.springer" GUID="xd1hMDJSkESXZDR5kELw1Q=="/>
+        <POI MapID="18" xpos="139.118" ypos="63.4291" zpos="374.316" type="legs.map.core.bfs.springer" GUID="Q0nj6wVd7UeRVWywJaGi1g=="/>
+        <POI MapID="18" xpos="165.454" ypos="64.4433" zpos="313.083" type="legs.map.core.bfs.springer" GUID="PILfRfQEBkm70eeC4iRZ4A=="/>
+        <POI MapID="18" xpos="349.486" ypos="61.1884" zpos="185.387" type="legs.map.core.bfs.springer" GUID="e1OI3OR5r06Em3QGQy2s2g=="/>
 
         <Trail type="legs.map.core.divinity.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Divinity's Reach 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.divinity.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Divinity's Reach 2.trl" color="00FFFF"/>
@@ -453,6 +552,16 @@
         
 
         <!-- Fields of Ruin -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fields 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fields 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fields 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fields 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fields 5.trl" color="00FFFF"/>
+        <POI MapID="21" xpos="-336.271" ypos="33.8825" zpos="596.513" type="legs.map.core.bfs.springer" GUID="14eu7LupJU2xtHA/gXW9HA=="/>
+        <POI MapID="21" xpos="-627.194" ypos="61.7285" zpos="-792.255" type="legs.map.core.bfs.springer" GUID="T/X+Coxfskiy6SZkuGp+LA=="/>
+        <POI MapID="21" xpos="543.437" ypos="35.8457" zpos="-573.98" type="legs.map.core.bfs.springer" GUID="pCpeYUDGz0+42kT9EReSQw=="/>
+        <POI MapID="21" xpos="642.585" ypos="26.3641" zpos="-315.824" type="legs.map.core.bfs.springer" GUID="fzsJasvbVUmcu6nubxjUig=="/>
+        <POI MapID="21" xpos="310.183" ypos="6.63693" zpos="290.802" type="legs.map.core.bfs.springer" GUID="+K1sXhzVnEeJIXQl23U3kA=="/>
 
         <Trail type="legs.map.core.fields.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Fields Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.fields.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Fields Hearts 2.trl" color="FFFF00"/>
@@ -487,6 +596,8 @@
 
 
         <!-- Blazeridge Steppes -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Blazeridge 1.trl" color="00FFFF"/>
+        <POI MapID="20" xpos="-394.895" ypos="0.263631" zpos="629.159" type="legs.map.core.bfs.springer" GUID="vlgx9lXq4UutIUCnUNVToA=="/>
 
         <Trail type="legs.map.core.blazeridge.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Blazeridge Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.blazeridge.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Blazeridge Hearts 2.trl" color="FFFF00"/>
@@ -530,6 +641,11 @@
 
 
         <!-- Iron Marches -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Iron 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Iron 2.trl" color="00FFFF"/>
+        <POI MapID="25" xpos="-194.655" ypos="11.0792" zpos="-1112.63" type="legs.map.core.bfs.springer" GUID="adRDGdM0aEG6/XT1Bytb+w=="/>
+        <POI MapID="25" xpos="-307.582" ypos="10.3963" zpos="663.829" type="legs.map.core.bfs.springer" GUID="5MeG60yILUyoxMvoJLzQ1A=="/>
+
         <Trail type="legs.map.core.ironmarches.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Iron Marches Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.ironmarches.barefoot.heartpath" trailData="Data/Map Completion/Core/Iron Marches Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.ironmarches.barefoot.heartpath" trailData="Data/Map Completion/Core/Iron Marches Hearts 3.trl" color="FFFF00"/>
@@ -554,8 +670,8 @@
         <Trail type="legs.map.core.ironmarches.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Iron Marches HP 5.trl" color="FFFF00"/>
         <Trail type="legs.map.core.ironmarches.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Iron Marches HP 6.trl" color="FFFF00"/>
 
-        <Trail type="legs.map.core.ironmarches.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Iron Marches 1 Alt 1.trl" color="00FFFF" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
-        <Trail type="legs.map.core.ironmarches.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Iron Marches 1 Alt 2.trl" color="00FFFF" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="legs.map.core.ironmarches.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Iron Marches 1 Alt 1.trl" color="00FFFF" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.core.ironmarches.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Iron Marches 1 Alt 2.trl" color="00FFFF" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="legs.map.core.ironmarches.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Iron Marches 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.ironmarches.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Iron Marches 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.ironmarches.barefoot.3" trailData="Data/Map Completion/Core/Barefoot/Iron Marches 3.trl" color="00FFFF"/>
@@ -573,6 +689,16 @@
 
 
         <!-- Fireheart Rise -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fireheart 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fireheart 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fireheart 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fireheart 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Fireheart 5.trl" color="00FFFF"/>
+        <POI MapID="22" xpos="729.866" ypos="2.58114" zpos="-679.021" type="legs.map.core.bfs.springer" GUID="2Y5GxuM7SEOb56D9/OPAWQ=="/>
+        <POI MapID="22" xpos="112.583" ypos="34.9742" zpos="-85.0897" type="legs.map.core.bfs.springer" GUID="X8YtXCe51kmDz1frKiEzjg=="/>
+        <POI MapID="22" xpos="-211.394" ypos="70.7555" zpos="333.54" type="legs.map.core.bfs.springer" GUID="pu4MARvpwEyUyGgBnexNJg=="/>
+        <POI MapID="22" xpos="-622.94" ypos="31.9218" zpos="291.821" type="legs.map.core.bfs.springer" GUID="KK6hZEAqn0WIC7yGWaVbpw=="/>
+        <POI MapID="22" xpos="386.927" ypos="10.348" zpos="7.53593" type="legs.map.core.bfs.springer" GUID="7t7Qq89SmkigrdnKUgmLvw=="/>
 
         <Trail type="legs.map.core.fireheart.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Fireheart Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.fireheart.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Fireheart Hearts 2.trl" color="FFFF00"/>
@@ -613,6 +739,14 @@
 
 
         <!-- Frostgorge Sound -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Frostgorge 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Frostgorge 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Frostgorge 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Frostgorge 4.trl" color="00FFFF"/>
+        <POI MapID="30" xpos="685.167" ypos="34.1391" zpos="250.39" type="legs.map.core.bfs.springer" GUID="sy32ZsgQDkOkxcinfQTLmA=="/>
+        <POI MapID="30" xpos="639.419" ypos="38.2315" zpos="-342.719" type="legs.map.core.bfs.springer" GUID="l8PWY8PRlkeWhdUUnlgl5A=="/>
+        <POI MapID="30" xpos="387.016" ypos="74.8688" zpos="-725.962" type="legs.map.core.bfs.springer" GUID="GNR5RZcCdEunqI0WNzFn2Q=="/>
+        <POI MapID="30" xpos="-255.733" ypos="48.3992" zpos="-529.822" type="legs.map.core.bfs.springer" GUID="LxW+ka1c40mR6+Y+sj/btQ=="/>
 
         <Trail type="legs.map.core.frostgorge.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Frostgorge Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.frostgorge.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Frostgorge Hearts 2.trl" color="FFFF00"/>
@@ -659,6 +793,13 @@
         <POI MapID="30" xpos="-716.0682" ypos="45.35392" zpos="-886.7495" type="legs.map.core.frostgorge.barefoot.7" GUID="rJ1ko1inWEuiKe02e6OFlg=="/>
 
         <!-- Snowden Drifts -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Snowden 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Snowden 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Snowden 3.trl" color="00FFFF"/>
+        <POI MapID="31" xpos="1004.58" ypos="78.4322" zpos="-115.386" type="legs.map.core.bfs.springer" GUID="YYyrzATciUinnMunAs3JFQ=="/>
+        <POI MapID="31" xpos="-923.039" ypos="43.8009" zpos="-382.8" type="legs.map.core.bfs.springer" GUID="uPG04ItT6Eecd1g3NdsWKg=="/>
+        <POI MapID="31" xpos="-976.85" ypos="32.1487" zpos="-280.714" type="legs.map.core.bfs.springer" GUID="f7KRJu0fGEu3zADPB9+eag=="/>
+
         <Trail type="legs.map.core.snowden.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Snowden Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.snowden.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Snowden Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.snowden.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Snowden Hearts 3.trl" color="FFFF00"/>
@@ -739,6 +880,13 @@
         <POI MapID="28" xpos="-465.5463" ypos="33.30734" zpos="-1257.553" type="legs.map.core.wayfarer.barefoot.wp" GUID="1uSh9P0flEyxt2G2JimsYQ==" copy="[&amp;BHQBAAA=]" copy-message="Horncall Waypoint"/>
 
         <!-- Hoelbrak -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Hoelbrak 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Hoelbrak 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Hoelbrak 3.trl" color="00FFFF"/>
+        <POI MapID="326" xpos="474.6" ypos="316.794" zpos="-228.233" type="legs.map.core.bfs.springer" GUID="OAClu2+EKUyxPA9FarBeZg=="/>
+        <POI MapID="326" xpos="226.217" ypos="257.344" zpos="336.389" type="legs.map.core.bfs.springer" GUID="x/bAtfUzgkmy8ZpFrrWw7w=="/>
+        <POI MapID="326" xpos="117.746" ypos="266.933" zpos="266.706" type="legs.map.core.bfs.springer" GUID="oJCwdOK/x0uEDU47yLfhGA=="/>
+
         <Trail type="legs.map.core.hoelbrak.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Hoelbrak 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.hoelbrak.barefoot.1" trailData="Data/Map Completion/Core/Hoelbrak 1 Eir.trl" color="00FFFF"/>
         <Trail type="legs.map.core.hoelbrak.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Hoelbrak 2.trl" color="00FFFF"/>
@@ -767,8 +915,13 @@
         <POI MapID="326" xpos="486.998" ypos="310.734" zpos="-194.519" type="legs.map.core.hoelbrak.barefoot.6" GUID="xiFmxt1rO0qYGOi/+6Lq1w==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
         <POI MapID="326" xpos="284.157" ypos="329.892" zpos="-265.953" type="legs.map.core.hoelbrak.barefoot.10" GUID="I0EgzTQgpUini6W+NOWPUg==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
 
-
         <!-- Dredgehaunt Cliffs -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Dredgehaunt 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Dredgehaunt 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Dredgehaunt 3.trl" color="00FFFF"/>
+        <POI MapID="26" xpos="-573.025" ypos="46.7792" zpos="283.207" type="legs.map.core.bfs.springer" GUID="gHqbt6Q2J0mW3rBW/yw0MA=="/>
+        <POI MapID="26" xpos="209.348" ypos="80.915" zpos="-673.238" type="legs.map.core.bfs.springer" GUID="uTd+iwBQQUCQQHUzfWevtA=="/>
+        <POI MapID="26" xpos="-492.057" ypos="15.6789" zpos="-877.827" type="legs.map.core.bfs.springer" GUID="+lAzGGCr0kqtpi4j2TUz0Q=="/>
 
         <Trail type="legs.map.core.dredgehaunt.barefoot.heartpath" trailData="Data/Map Completion/Core/Dredgehaunt Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.dredgehaunt.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Dredgehaunt Hearts 2.trl" color="FFFF00"/>
@@ -809,6 +962,14 @@
 
 
         <!-- Timberline Falls -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Timberline 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Timberline 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Timberline 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Timberline 4.trl" color="00FFFF"/>
+        <POI MapID="29" xpos="409.914" ypos="17.9718" zpos="-57.1597" type="legs.map.core.bfs.springer" GUID="uhqlkItOO0SjdrpXv+kRHw=="/>
+        <POI MapID="29" xpos="249.989" ypos="0.0735507" zpos="-506.496" type="legs.map.core.bfs.springer" GUID="Oe6HDvtqV06fP00mNsIdwQ=="/>
+        <POI MapID="29" xpos="-379.886" ypos="8.14042" zpos="-71.9135" type="legs.map.core.bfs.springer" GUID="Ak8oOHmEdUqVO5quJ/0ffg=="/>
+        <POI MapID="29" xpos="-403.729" ypos="31.9864" zpos="680.876" type="legs.map.core.bfs.springer" GUID="o6qfBy6ihkeV7UOR/BX1Pg=="/>
 
         <Trail type="legs.map.core.timberline.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Timberline Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.timberline.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Timberline Hearts 2.trl" color="FFFF00"/>
@@ -833,9 +994,16 @@
         <Trail type="legs.map.core.timberline.barefoot.3" trailData="Data/Map Completion/Core/Barefoot/Timberline Falls 3.trl" color="00FFFF"/>
         <Trail type="legs.map.core.timberline.barefoot.4" trailData="Data/Map Completion/Core/Barefoot/Timberline Falls 4.trl" color="00FFFF"/>
         <POI MapID="29" xpos="-550.4355" ypos="26.07062" zpos="132.0181" type="legs.map.core.timberline.barefoot.wp" GUID="hqf0kAH+y0OdmNmwOqHenA==" copy="[&amp;BEwCAAA=]" copy-message="Valance Tutory Waypoint"/>
+        <POI MapID="29" xpos="408.7571" ypos="38.02475" zpos="-39.63553" type="legs.map.core.timberline.barefoot.wp" GUID="2P/luzxc7k6InpDL/bjuOA==" copy="[&amp;BEgCAAA=]" copy-message="Scale Strand Waypoint"/>
 
 
         <!-- Lornar's Pass -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Lornars 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Lornars 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Lornars 3.trl" color="00FFFF"/>
+        <POI MapID="27" xpos="-3.45507" ypos="37.1668" zpos="-762.456" type="legs.map.core.bfs.springer" GUID="dTdTMuT9oE63giMA5kgYQg=="/>
+        <POI MapID="27" xpos="-289.36" ypos="100.039" zpos="1049.5" type="legs.map.core.bfs.springer" GUID="KAZ9Kb3C40uLeIm4xAEkRw=="/>
+        <POI MapID="27" xpos="408.407" ypos="150.594" zpos="-288.477" type="legs.map.core.bfs.springer" GUID="QeAUsw0eEkOB4NuthXv9Xw=="/>
 
         <Trail type="legs.map.core.lornars.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Lornar's Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.lornars.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Lornar's Hearts 2.trl" color="FFFF00"/>
@@ -875,6 +1043,12 @@
         <POI MapID="27" xpos="-511.7092" ypos="87.3606" zpos="522.2659" type="legs.map.core.lornars.barefoot.wp" GUID="dNsPSDgn5ESQDf17Pa67dA==" copy="[&amp;BFIGAAA=]" copy-message="Refuge Peak Waypoint"/>
 
         <!-- Bloodtide Coast -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Bloodtide 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Bloodtide 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Bloodtide 3.trl" color="00FFFF"/>
+        <POI MapID="73" xpos="520.338" ypos="16.675" zpos="905.488" type="legs.map.core.bfs.springer" GUID="VaeXmFtBQkq5Qw2VgyBOUg=="/>
+        <POI MapID="73" xpos="171.277" ypos="24.4141" zpos="-212.085" type="legs.map.core.bfs.springer" GUID="zjku4YxPS0GKQN+D7pwVdA=="/>
+        <POI MapID="73" xpos="472.567" ypos="50.4123" zpos="-223.337" type="legs.map.core.bfs.springer" GUID="JleIae8VZkCiBhEyPuk9oQ=="/>
         
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Bloodtide Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Bloodtide Hearts 2.trl" color="FFFF00"/>
@@ -889,7 +1063,6 @@
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 11.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 12.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 13.trl" color="FFFF00"/>
-
 
         <Trail type="legs.map.core.bloodtide.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Bloodtide HP 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Bloodtide HP 2.trl" color="FFFF00"/>
@@ -938,6 +1111,9 @@
         <POI MapID="73" xpos="-149.1219" ypos="13.70579" zpos="245.7394" type="legs.map.core.bloodtide.barefoot.wp" GUID="eRvJKGQuPU+PBwmRn09QWg==" info="If Gate is Closed or the Taidha Covington Event is active&#xA;&#xA;Follow Route 6 from Laughing Gull WP and come back later." infoRange="5"/>
 
         <!-- Sparkfly Fen -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Sparkfly 1.trl" color="00FFFF"/>
+        <POI MapID="53" xpos="-465.427" ypos="27.3502" zpos="-541.702" type="legs.map.core.bfs.springer" GUID="w6fKW+6wckylzmHKL8KUdA=="/>
+
         <Trail type="legs.map.core.sparkfly.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Sparkfly Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.sparkfly.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Sparkfly Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.sparkfly.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Sparkfly Hearts 3.trl" color="FFFF00"/>
@@ -975,6 +1151,14 @@
 
 
         <!-- Mount Maelstrom -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Maelstrom 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Maelstrom 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Maelstrom 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Maelstrom 4.trl" color="00FFFF"/>
+        <POI MapID="39" xpos="419.834" ypos="48.2215" zpos="497.142" type="legs.map.core.bfs.springer" GUID="GGK8K4NL+EO6MvJWWFHiqA=="/>
+        <POI MapID="39" xpos="521.829" ypos="0.786572" zpos="-174.945" type="legs.map.core.bfs.springer" GUID="3/3UiTkAUUmuTnpJUvvWNw=="/>
+        <POI MapID="39" xpos="561.89" ypos="20.7195" zpos="-601.466" type="legs.map.core.bfs.springer" GUID="5sgdvZ2F502UeOC80MYQqQ=="/>
+        <POI MapID="39" xpos="835.317" ypos="3.85009" zpos="-219.978" type="legs.map.core.bfs.springer" GUID="rCcvqnVlM0OL0qgPAz3GDw=="/>
 
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom Hearts 2.trl" color="FFFF00"/>
@@ -1003,19 +1187,28 @@
         <Trail type="legs.map.core.maelstrom.barefoot.5" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom 5.trl" color="00FFFF"/>
         <Trail type="legs.map.core.maelstrom.barefoot.6" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom 6.trl" color="00FFFF"/>
         <Trail type="legs.map.core.maelstrom.barefoot.7" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom 7.trl" color="00FFFF"/>
-        <Trail type="legs.map.core.maelstrom.barefoot.8" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom 8.trl" color="00FFFF"/>
 
-        <POI MapID="39" xpos="-714.1075" ypos="30.30933" zpos="51.65899" type="legs.map.core.maelstrom.barefoot.wp" GUID="+JzdAjfGCEqIOTkDNetx2Q==" copy="[&amp;BMkCAAA=]" copy-message="Criterion Waypoint"/>
         <POI MapID="39" xpos="-349.3879" ypos="235.2017" zpos="-118.7083" type="legs.map.core.maelstrom.barefoot.wp" GUID="StagPBTenUCSw8t6vpSUXg==" copy="[&amp;BM4CAAA=]" copy-message="Ashen Waypoint"/>
         <POI MapID="39" xpos="-418.7729" ypos="90.34209" zpos="-515.1547" type="legs.map.core.maelstrom.barefoot.wp" GUID="UmkTG6h/00+5XdzxQLEGng==" copy="[&amp;BM8CAAA=]" copy-message="Avernan Waypoint"/>
         <POI MapID="39" xpos="-319.0045" ypos="13.48318" zpos="-246.8947" type="legs.map.core.maelstrom.barefoot.wp" GUID="nme6fa30+US6CKv0Cb2AAg==" copy="[&amp;BM8CAAA=]" copy-message="Avernan Waypoint"/>
         <POI MapID="39" xpos="760.6036" ypos="10.09745" zpos="436.7236" type="legs.map.core.maelstrom.barefoot.wp" GUID="SUWHXfnyr06Inu3W+v2QXg==" copy="[&amp;BNECAAA=]" copy-message="Oxbow Isle Waypoint"/>
-        <POI MapID="39" xpos="1079.736" ypos="4.469528" zpos="97.32696" type="legs.map.core.maelstrom.barefoot.wp" GUID="pVSaQky1TUmvLt/VIlTv0A==" copy="[&amp;BMoCAAA=]" copy-message="Firebreak Waypoint"/>
+        <POI MapID="39" xpos="1079.736" ypos="4.469528" zpos="97.32696" type="legs.map.core.maelstrom.barefoot.wp" GUID="pVSaQky1TUmvLt/VIlTv0A==" copy="[&amp;BMkCAAA=]" copy-message="Criterion Waypoint"/>
 
-        <POI MapID="39" xpos="-198.511" ypos="63.25171" zpos="309.9642" type="legs.map.core.maelstrom.barefoot.3" GUID="QwfLU0wUQUSjGQiRbq3KUw==" iconFile="Data/Images/Numbers/1.png" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="39" xpos="-198.511" ypos="63.25171" zpos="309.9642" type="legs.map.core.maelstrom.barefoot.2" GUID="QwfLU0wUQUSjGQiRbq3KUw==" iconFile="Data/Images/Numbers/1.png" fadeNear="1200" fadeFar="2400"/>
         <POI MapID="39" xpos="-189.3196" ypos="60.22094" zpos="295.5844" type="legs.map.core.maelstrom.barefoot.3" GUID="uG7PdxElUUeKVDNm+v0LkQ==" iconFile="Data/Images/Numbers/2.png" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="39" xpos="-20.52806" ypos="77.65363" zpos="-314.3766" type="legs.map.core.maelstrom.barefoot.4" GUID="ZRhRzP+ClU+LsMuRj4tbnQ==" iconFile="Data/Images/Numbers/1.png" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="39" xpos="-11.0838" ypos="80.09848" zpos="-325.0232" type="legs.map.core.maelstrom.barefoot.5" GUID="RkzxUzH3UE2JrouHdkZuMA==" iconFile="Data/Images/Numbers/2.png" fadeNear="1200" fadeFar="2400"/>
 
         <!-- Straits of Devastation -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Straits 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Straits 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Straits 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Straits 4.trl" color="00FFFF"/>
+        <POI MapID="51" xpos="923.816" ypos="44.9613" zpos="-208.507" type="legs.map.core.bfs.springer" GUID="ANdvHArP+kaKIJfZrpElzg=="/>
+        <POI MapID="51" xpos="-130.386" ypos="40.7267" zpos="-595.339" type="legs.map.core.bfs.springer" GUID="aJFCrSzoxUqqA7V5Xt8bag=="/>
+        <POI MapID="51" xpos="-627.121" ypos="55.316" zpos="-214.496" type="legs.map.core.bfs.springer" GUID="NPlT8iPU3UefX0Cct2a4uA=="/>
+        <POI MapID="51" xpos="-583.615" ypos="97.1807" zpos="-214.804" type="legs.map.core.bfs.springer" GUID="Q7Qv4v8PEUKtwICSgC7pBw=="/>
+        <POI MapID="51" xpos="177.102" ypos="4.66461" zpos="193.279" type="legs.map.core.bfs.springer" GUID="xXwQos5qqk+i0iGxGJTUkg=="/>
 
         <Trail type="legs.map.core.devastation.barefoot.hp" trailData="Data/Map Completion/Core/Straits of Devastation HP 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.devastation.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Straits of Devastation HP 2.trl" color="FFFF00"/>
@@ -1043,14 +1236,22 @@
         <POI MapID="51" xpos="-68.34943" ypos="-42.4668" zpos="437.1684" type="legs.map.core.devastation.barefoot.wp" GUID="2H/NJ25DEEeVw+HqzCFRhQ==" copy="[&amp;BPICAAA=]" copy-message="Royal Forum Waypoint (If Uncontested)"/>
         
 
-        
         <!-- Malchor's Leap -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Malchors 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Malchors 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Malchors 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Malchors 4.trl" color="00FFFF"/>
+        <POI MapID="65" xpos="960.738" ypos="68.8608" zpos="-199.322" type="legs.map.core.bfs.springer" GUID="CmPgwDliAUqPOKblkSF4Wg=="/>
+        <POI MapID="65" xpos="713.684" ypos="15.1687" zpos="-448.242" type="legs.map.core.bfs.springer" GUID="Djtg2JX+6E6ycVCWKCTcWQ=="/>
+        <POI MapID="65" xpos="-317.839" ypos="118.333" zpos="-0.204093" type="legs.map.core.bfs.springer" GUID="EYWiRJcP6EiK5XtnEJjdPQ=="/>
+        <POI MapID="65" xpos="527.736" ypos="7.2952" zpos="534.825" type="legs.map.core.bfs.springer" GUID="0nwmGirDVUC6PrFRosrL/A=="/>
+
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Malchor's HP 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Malchor's HP 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Malchor's HP 3.trl" color="FFFF00"/>
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Malchor's HP 4.trl" color="FFFF00"/>
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Malchor's HP 5.trl" color="FFFF00"/>
-        <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Malchor's HP 6.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Malchor's HP 6.trl" color="FFFF00"/>
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Malchor's HP 7.trl" color="FFFF00"/>
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Malchor's HP 8.trl" color="FFFF00"/>
         <Trail type="legs.map.core.malchors.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Malchor's HP 9.trl" color="FFFF00"/>
@@ -1066,13 +1267,22 @@
         <Trail type="legs.map.core.malchors.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Malchor's Leap 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.malchors.barefoot.3" trailData="Data/Map Completion/Core/Barefoot/Malchor's Leap 3.trl" color="00FFFF"/>
         <Trail type="legs.map.core.malchors.barefoot.4" trailData="Data/Map Completion/Core/Barefoot/Malchor's Leap 4.trl" color="00FFFF"/>
-        <Trail type="legs.map.core.malchors.barefoot.4" trailData="Data/Map Completion/Core/Barefoot/Malchor's Leap 6.trl" color="00FFFF"/>
         <POI MapID="65" xpos="529.4624" ypos="34.6704" zpos="570.4211" type="legs.map.core.malchors.barefoot.wp" GUID="n123xt0jc0WAcU+yuwIGSQ==" copy="[&amp;BKYCAAA=]" copy-message="Pagga's Waypoint"/>
         <POI MapID="65" xpos="-18.4173" ypos="31.91514" zpos="25.63267" type="legs.map.core.malchors.barefoot.wp" GUID="HFqVpH6DOEGQeEujrcjjbA==" copy="[&amp;BKwCAAA=]" copy-message="Wren Waypoint (If Uncontested)"/>
         <POI MapID="65" xpos="-843.0883" ypos="-44.42677" zpos="312.3794" type="legs.map.core.malchors.barefoot.wp" GUID="3x1FyOhpHEqlUwk/xu6EcA==" copy="[&amp;BK4CAAA=]" copy-message="Blighted Arch Waypoint"/>
         <POI MapID="65" xpos="-1037.968" ypos="-45.45004" zpos="-39.21538" type="legs.map.core.malchors.barefoot.wp" GUID="/EJwBo0PqkGasvPJ6pGpTg==" copy="[&amp;BLICAAA=]" copy-message="Lights Waypoint"/>
 
         <!-- Cursed Shore -->
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Cursed 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Cursed 2.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Cursed 3.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Cursed 4.trl" color="00FFFF"/>
+        <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Cursed 5.trl" color="00FFFF"/>
+        <POI MapID="62" xpos="-376.977" ypos="12.7966" zpos="489.496" type="legs.map.core.bfs.springer" GUID="razGImv2mkKGsVZT2ThxzA=="/>
+        <POI MapID="62" xpos="-29.145" ypos="10.1908" zpos="536.186" type="legs.map.core.bfs.springer" GUID="OTUU76XpKkqV7xqNUw+oNA=="/>
+        <POI MapID="62" xpos="114.928" ypos="38.7595" zpos="866.509" type="legs.map.core.bfs.springer" GUID="4AGvCMgSIUmQ0AU4BgLzdw=="/>
+        <POI MapID="62" xpos="274.375" ypos="24.5714" zpos="195.978" type="legs.map.core.bfs.springer" GUID="b8JTPYdAbkik9UfIS3K97Q=="/>
+        <POI MapID="62" xpos="-57.9205" ypos="33.2294" zpos="-418.622" type="legs.map.core.bfs.springer" GUID="WKdpDqyJPUiLOqFwrYYS3Q=="/>
         <Trail type="legs.map.core.cs.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Cursed Shore HP 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.cs.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Cursed Shore HP 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.cs.barefoot.hp" trailData="Data/Map Completion/Core/Barefoot/Cursed Shore HP 3.trl" color="FFFF00"/>

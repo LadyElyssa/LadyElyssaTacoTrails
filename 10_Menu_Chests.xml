@@ -453,6 +453,7 @@
                 <MarkerCategory name="torch" DisplayName="Enchanted Torch" iconFile="Data/Images/Icons/Kill Veteran Enchanted Torch.png" mapDisplaySize="64"/>
                 <MarkerCategory name="iboga" DisplayName="Iboga" iconFile="Data/Images/Icons/Kill Veteran Iboga.png" mapDisplaySize="48"/>
                 <MarkerCategory name="raptor" DisplayName="Raptors" iconFile="Data/Images/Icons/Kill Veteran Raptor.png" mapDisplaySize="48"/>
+                <MarkerCategory name="swiftwing" DisplayName="Transcended Swiftwing" iconFile="Data/Images/Icons/Kill Veteran Transcended Swiftwing.png" mapDisplaySize="64"/>
                 <MarkerCategory name="razortooth" DisplayName="Transcended Razortooth" iconFile="Data/Images/Icons/Kill Veteran Transcended Razortooth.png" mapDisplaySize="64"/>
 
                 <MarkerCategory name="chests" IsSeparator="1" DisplayName="Chests"/>
@@ -483,7 +484,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="relog" DisplayName="Mirror Reset" iconFile="Data/Images/Mirror Reset.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
-                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
+                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="1200" fadeFar="2400"/>
 
                         
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="Mounts"/>
@@ -525,7 +526,7 @@
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                         <MarkerCategory name="jbgb" DisplayName="Jade Bot Glide Booster"  iconFile="Data/Images/JadeBotGlideBooster.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                         <MarkerCategory name="relog" DisplayName="Mirror Reset" iconFile="Data/Images/Mirror Reset.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
-                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
+                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="1200" fadeFar="2400"/>
                         <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="Mounts"/>
@@ -570,7 +571,7 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="relog" DisplayName="Mirror Reset" iconFile="Data/Images/Mirror Reset.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
-                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
+                        <MarkerCategory name="onlymed" DisplayName="Only Medium" iconFile="Data/Images/Only Medium.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="1200" fadeFar="2400"/>
                         <MarkerCategory name="6keys" DisplayName="6+ Keys" iconFile="Data/Images/Icons/Mirror Keys 6+.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" heightOffset="3.0" fadeNear="900" fadeFar="1600"/>
 
                         <MarkerCategory name="mount" IsSeparator="1" DisplayName="Mounts"/>
@@ -582,6 +583,7 @@
                             <MarkerCategory name="sb" DisplayName="Slipstream" iconFile="Data/Images/Mounts/Slipstream Boost.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                         </MarkerCategory>                        
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32">
+                            <MarkerCategory name="dash" DisplayName="Dash" iconFile="Data/Images/Mounts/Skyscale - Dash.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                             <MarkerCategory name="wj" DisplayName="Wall Jump" iconFile="Data/Images/Mounts/Skyscale - Wall Jump.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
                         </MarkerCategory>                        
                         <MarkerCategory name="warclaw" DisplayName="Warclaw" iconFile="Data/Images/Mounts/Mount_Warclaw.png" miniMapVisibility="0" mapVisibility="0" minSize="32" maxSize="32"/>
