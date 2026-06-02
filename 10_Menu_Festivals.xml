@@ -14,12 +14,24 @@
                 <MarkerCategory name="adventure2" DisplayName="Adventure - Pinatta Bashing">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                    <MarkerCategory name="skills" IsSeparator="1" DisplayName="SKILLS"/>
-                    <MarkerCategory name="1" DisplayName="Pinata Popper" iconFile="Data/Images/Pinata Popper.png" heightOffset="0" minSize="24" maxSize="24" fadeNear="1200" fadeFar="1600"/>
-                    <MarkerCategory name="2" DisplayName="Pinata Bowl" iconFile="Data/Images/Pinata Bowl.png" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
-                    <MarkerCategory name="3" DisplayName="Dragon Launch" iconFile="Data/Images/Dragon Launch.png" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
-                    <MarkerCategory name="target" DisplayName="Target" iconFile="Data/Images/Icons/Target with Shadow - Orange.png" heightOffset="0" minimapVisibility="1" mapVisibility="0" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
-                    <!-- End Skills -->
+
+                    <MarkerCategory name="24" DisplayName="Max 24 Hard">
+                        <MarkerCategory name="skills" IsSeparator="1" DisplayName="SKILLS"/>
+                        <MarkerCategory name="2" DisplayName="Pinata Bowl" iconFile="Data/Images/Pinata Bowl.png" heightOffset="0" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
+                        <MarkerCategory name="3" DisplayName="Dragon Launch" iconFile="Data/Images/Dragon Launch.png" heightOffset="0" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
+                        <MarkerCategory name="target" DisplayName="Target" iconFile="Data/Images/Icons/Target with Shadow - Orange.png" heightOffset="0" minimapVisibility="1" mapVisibility="0" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200"/>
+                        <!-- End Skills -->
+                    </MarkerCategory>
+
+                    <MarkerCategory name="pew" IsSeparator="1" DisplayName="Courtesy of Metallis &amp; Pewcannon"/>
+                    <MarkerCategory name="26" DisplayName="Max 26 Expert">
+                        <MarkerCategory name="skills" IsSeparator="1" DisplayName="SKILLS"/>
+                        <MarkerCategory name="2" DisplayName="Pinata Bowl" iconFile="Data/Images/Pinata Bowl.png" heightOffset="0" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200" defaulttoggle="0"/>
+                        <MarkerCategory name="3" DisplayName="Dragon Launch" iconFile="Data/Images/Dragon Launch.png" heightOffset="0" minSize="24" maxSize="24" fadeNear="2400" fadeFar="3200" defaulttoggle="0"/>
+                        <MarkerCategory name="pinata_flag" DisplayName="Pinata Flag" heightOffset="1.0" iconFile="Data/Images/Festivals/bashy_flag.png" iconSize="1.0" fadeNear="5000" fadeFar="5000" minSize="48" maxSize="64"/>
+                        <MarkerCategory name="target" DisplayName="Target" iconFile="Data/Images/Icons/Target with Shadow - Orange.png" heightOffset="0" minimapVisibility="1" mapVisibility="0" minSize="24" maxSize="24" fadeNear="5000" fadeFar="5000"/>
+                        <!-- End Skills -->
+                    </MarkerCategory>
                 </MarkerCategory>
 
                 <MarkerCategory name="fireworks" DisplayName="Fireworks" texture="Data/Images/Icons/Fireworks.png">
