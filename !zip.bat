@@ -10,5 +10,5 @@
   del /Q "LadyElyssa.taco"
 )
 
-7z a -mx -r LadyElyssa.zip Data\ *.xml
+7z a -mx -r LadyElyssa.zip Data\ Scripts\ *.xml
 @ren LadyElyssa.zip LadyElyssa.taco

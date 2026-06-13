@@ -18,7 +18,9 @@ IF EXIST "%temp%\gw2cache*." FOR /d %%G in ("%temp%\GW2Cache*") DO RMDIR /s /q "
 ECHO Copying Files to Github Desktop...
 ECHO.
 XCOPY /E/Y/I/Q .\Data\*.* "E:\Github\LadyElyssaTacoTrails\Data"
+XCOPY /E/Y/I/Q .\Scripts\*.lua "E:\Github\LadyElyssaTacoTrails\Scripts"
 XCOPY /S/E/Y/Q *.bat "E:\Github\LadyElyssaTacoTrails"
+XCOPY /S/E/Y/Q *.lua "E:\Github\LadyElyssaTacoTrails"
 XCOPY /S/E/Y/Q *.md "E:\Github\LadyElyssaTacoTrails"
 XCOPY /S/E/Y/Q *.xml "E:\Github\LadyElyssaTacoTrails"
 XCOPY /S/E/Y/Q xmlchk.py "E:\Github\LadyElyssaTacoTrails"
