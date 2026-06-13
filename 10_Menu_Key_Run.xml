@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- KEY RUN -->
-        <MarkerCategory name="keys" DisplayName="Key Farm Guide" texture="Data/Images/trail-tiny.png" animSpeed="0.5" alpha="0.8" fadeNear="3300" fadeFar="5000" mapDisplaySize="15" defaulttoggle="0">
+        <MarkerCategory name="keys" DisplayName="Key Farm Guide" texture="Data/Images/trail-tiny.png" animSpeed="0.5" alpha="0.8" fadeNear="3300" fadeFar="5000" mapDisplaySize="15">
             <MarkerCategory name="notomes" IsSeparator="1" DisplayName="No Tomes or Scrolls"/>
             <!--
          <MarkerCategory name="asuralvl" DisplayName="Asura">
