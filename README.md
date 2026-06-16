@@ -4,7 +4,7 @@
 * Lady Elyssa's Discord for Guild Wars 2 :: [https://discord.gg/t6jMb6qgjB](https://discord.gg/t6jMb6qgjB)
 * GW2 Marker-mancy Discord courtesy of Metallis (MMM) :: [https://discord.gg/p6Ec9q6P8z](https://discord.gg/p6Ec9q6P8z)
 
-## Lady Elyssa's TacO Trail Guides ##
+## Lady Elyssa's Guides ##
 A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_2800+ Trails_** and **_17,000+ Markers_** [[1]](https://mp-repo.blishhud.com/LadyElyssa.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/)
 
 Suitable for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs), just look for Lady Elyssa's Guides. _Please ensure your preferred option is up to date._
@@ -25,7 +25,16 @@ __NOTE:__ When a Waypoint is shown on screen, it is also being copied to your cl
 
 I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
 
-This pack currently contains trails for:
+**Companion Projects**
+* [Shadow Trails](https://github.com/Blackshadow-1007/Shadow-Trails)
+<!--
+* [Unnamed BlishHUD Module](https://github.com/MorningStarGG)
+* [maps.gw2.io](https://github.com/Snappey/maps.gw2.io/)
+-->
+
+---
+
+Lady Elyssa's Guides contains trails for:
 
 ## Chest Run ##
    * Empyreal Fragments
