@@ -26,10 +26,12 @@ __NOTE:__ When a Waypoint is shown on screen, it is also being copied to your cl
 I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
 
 **Companion Projects**
+* [maps.gw2.io](https://maps.gw2.io/tyria)
 * [Shadow Trails](https://github.com/Blackshadow-1007/Shadow-Trails)
+
+
 <!--
 * [Unnamed BlishHUD Module](https://github.com/MorningStarGG)
-* [maps.gw2.io](https://github.com/Snappey/maps.gw2.io/)
 -->
 
 ---
