@@ -45,10 +45,10 @@ Lady Elyssa's Guides contains trails for:
    * Heart of Thorns Chests
       * Auric Basin (Aurillium + Empyreal Fragments) - starts at Wanderer's Waypoint `[&BNYHAAA=]`
       * Tangled Depths (Ley-Line Crystals + Empyreal Fragments) - starts at Order of Whispers Camp Waypoint `[&BA4IAAA=]`
-
+<!--
 ## Easy Dailies ##
    * Foraging, Lumberer, Mining and Vista's
-
+-->
 ## Events ##
 * Casino Blitz - Piñata - R.I.B.A. - Treasure Mushroom
 
