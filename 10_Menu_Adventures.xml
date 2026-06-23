@@ -727,6 +727,13 @@
                 </MarkerCategory>
 
             </MarkerCategory>
+
+            <MarkerCategory name="eternity" DisplayName="Eternity's Garden">
+                <MarkerCategory name="kitshark" DisplayName="Kitshark Fishing">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Adventures/Kitshark Fishing.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+            </MarkerCategory>
             
         </MarkerCategory>
 

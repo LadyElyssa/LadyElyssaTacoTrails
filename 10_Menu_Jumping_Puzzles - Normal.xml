@@ -335,8 +335,6 @@
                     <MarkerCategory name="location"     DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="td"      DisplayName="Tangled Depths"/>
                 </MarkerCategory>
-                
-
             <MarkerCategory name="lws3" IsSeparator="1" DisplayName="SEASON 3"/>
             <MarkerCategory name="abaddons" DisplayName="Abaddon's Ascent">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -348,7 +346,6 @@
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" minSize="16" maxSize="32" fadeNear="300" fadeFar="1000"/>
                 <MarkerCategory name="sign" DisplayName="Sign" mapDisplaySize="128"/>
-                <MarkerCategory name="marker" DisplayName="Jump" iconFile="Data/Images/Icons/Jumping.png" minSize="16" maxSize="32" heightOffset="0" fadeNear="800" fadeFar="1200"/>
                 <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                 <MarkerCategory name="ember" DisplayName="Ember Bay" alpha="0.7" FadeNear="900" fadeFar="1800"/>
             </MarkerCategory>

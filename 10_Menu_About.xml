@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 26.1"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 26.2"/>
             
             <MarkerCategory name="line" IsSeparator="1" DisplayName="|"/>
 
@@ -20,9 +20,12 @@
             </MarkerCategory>
 
             <MarkerCategory name="content" DisplayName="Content Creators">
-                <MarkerCategory name="guides" DisplayName="Ayin, Dulfy, Guild Jen &amp; TiffyMissWiffy"/>
+                <MarkerCategory name="dulfy" DisplayName="Dulfy"/>
+                <MarkerCategory name="jen" DisplayName="Guild Jen"/>
+                <MarkerCategory name="tiffy" DisplayName="TiffyMissWiffy on Youtube"/>
                 <MarkerCategory name="amaverra" DisplayName="Amaverra on Twitch &amp; Youtube"/>
                 <MarkerCategory name="atoa" DisplayName="Atoa Na Lagoa on Twitch &amp; Youtube"/>
+                <MarkerCategory name="ayin" DisplayName="Ayin Maiden on Youtube"/>
                 <MarkerCategory name="blackshadow" DisplayName="Blackshadow Shadow-Trails on BlishHUD"/>
                 <MarkerCategory name="darens" DisplayName="Darens on Youtube"/>
                 <MarkerCategory name="guildmm" DisplayName="Guild MM on Youtube"/>

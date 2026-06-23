@@ -56,6 +56,12 @@
         <Trail type="legs.adventure.starlit.old" trailData="Data/Adventures/VoE/Old Magic.trl"/>
         <POI MapID="1593" xpos="-378.377" ypos="103.277" zpos="192.489" type="legs.adventure.starlit.old.sign" GUID="HVeh81MyLkyejL625cfuQA=="/>
         <POI MapID="1593" xpos="-361.627" ypos="96.346" zpos="258.606" type="legs.adventure.starlit.old.mount.skyscale" GUID="6eziyKMHWUSYF2z/2Vmw9Q=="/>
+
+        <!-- Eternity's Garden -->
+        <Trail type="legs.adventure.eternity.kitshark" trailData="Data/Adventures/VoE/Adventure - Kitshark Fishing Alt.trl" color="FFFFFFF" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0"/> <!-- Extra F for Luminosity to ensure shown as White in BlishHUD -->
+        <Trail type="legs.adventure.eternity.kitshark" trailData="Data/Adventures/VoE/Adventure - Kitshark Fishing.trl" color="FFFFFFF" animSpeed="0"/> <!-- Extra F for Luminosity to ensure shown as White in BlishHUD -->
+        <POI MapID="1622" xpos="-237.347" ypos="0.348523" zpos="-340.949" type="legs.adventure.eternity.kitshark.sign" GUID="BwGHR7cJLUqzdmw+IMxqnQ=="/>
+
         
     </POIs>
 </OverlayData>
