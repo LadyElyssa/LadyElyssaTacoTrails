@@ -27,6 +27,7 @@ I am happy for people to use any of my trails and markers for their own GW2 proj
 
 **Companion Projects**
 * [maps.gw2.io](https://maps.gw2.io/tyria)
+* [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
 * [Shadow Trails](https://github.com/Blackshadow-1007/Shadow-Trails)
 
 
