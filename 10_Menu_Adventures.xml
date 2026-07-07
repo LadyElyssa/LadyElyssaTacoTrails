@@ -732,6 +732,7 @@
                 <MarkerCategory name="kitshark" DisplayName="Kitshark Fishing">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Adventures/Kitshark Fishing.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="tips" DisplayName="Tips" iconFile="Data/Images/Adventures/Kitshark Adventure Tips.png" miniMapVisibility="0" mapVisibility="0" minSize="96" maxSize="96" fadeNear="1200" fadeFar="1600"/>
                 </MarkerCategory>
             </MarkerCategory>
             

@@ -1,9 +1,14 @@
-<OverlayData>
+<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
+<OverlayData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
+    xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 26.2"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 26.3"/>
             
             <MarkerCategory name="line" IsSeparator="1" DisplayName="|"/>
+
+            <MarkerCategory name="one" DisplayName="one" />
 
             <MarkerCategory name="contact" DisplayName="Contact">
                 <MarkerCategory name="partner" IsSeparator="1" DisplayName="ARENANET PARTNER"/>

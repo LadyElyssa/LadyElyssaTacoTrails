@@ -357,6 +357,9 @@
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="SECRETS OF THE OBSCURE"/>
             <MarkerCategory name="arcane" DisplayName="Arcane Chests">
                 <MarkerCategory name="greater" DisplayName="Greater Arcane Chests" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0" iconFile="Data/Images/Arcane Chest Greater.png"/>
+                <!--
+                <MarkerCategory name="lesser" DisplayName="Lesser Arcane Chests" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48" inGameVisibility="0" iconFile="Data/Images/Arcane Chest Lesser.png"/>
+                -->
             </MarkerCategory>
 
             <MarkerCategory name="sgc" DisplayName="Shrine Guardian Chests" >

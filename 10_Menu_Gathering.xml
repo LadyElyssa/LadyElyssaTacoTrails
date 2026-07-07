@@ -115,6 +115,24 @@
                 <MarkerCategory name="obsidianheatstone" DisplayName="Mursaat Obsidian and Titan Heatstone"/>
             </MarkerCategory>
 
+            <MarkerCategory name="soto" DisplayName="Secrets of the Obscure">
+                
+                <MarkerCategory name="sa" IsSeparator="1" DisplayName="SKYWATCH ARCHIPELAGO"/>
+                <MarkerCategory name="staticcharge" DisplayName="Static Charge">
+                    <MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Images/Ring.png" miniMapVisibility="0" mapVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="am" IsSeparator="1" DisplayName="AMNYTAS"/>
+                <MarkerCategory name="stardust" DisplayName="Pinch of Stardust">
+                    <MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Images/Ring.png" miniMapVisibility="0" mapVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="in" IsSeparator="1" DisplayName="INNER NAYOS"/>
+                <MarkerCategory name="gasp" DisplayName="Calcified Gasp">
+                    <MarkerCategory name="orbs" DisplayName="Orb Visibility Rings" iconFile="Data/Images/Ring.png" miniMapVisibility="0" mapVisibility="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
             <MarkerCategory name="set" IsSeparator="1" DisplayName="GENERAL"/>
             <MarkerCategory name="ore" DisplayName="Ore">
                 <!-- Rich Copper -->

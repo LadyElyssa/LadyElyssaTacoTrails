@@ -126,11 +126,11 @@
                 <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>
                 <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen" color="FF9933"/>
                 <MarkerCategory name="mechanics" DisplayName="MECHANICS" IsSeparator="1"/>
-                <MarkerCategory name="turrets" DisplayName="Defend and Fire Turrets" minSize="24" maxSize="48" mapDisplaySize="25"/>
-                <MarkerCategory name="megalaser" DisplayName="Defend Megalaser" minSize="24" maxSize="48" mapDisplaySize="25"/>
-                <MarkerCategory name="north" DisplayName="Defend North Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
-                <MarkerCategory name="east" DisplayName="Defend East Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
-                <MarkerCategory name="west" DisplayName="Defend West Battery" minSize="24" maxSize="48" mapDisplaySize="25"/>
+                <MarkerCategory name="turrets" DisplayName="Defend and Fire Turrets" minSize="24" maxSize="48" mapDisplaySize="24" iconFile="Data/Images/Icons/Event_Interact.png" fadeNear="3000" fadeFar="5000"/>
+                <MarkerCategory name="megalaser" DisplayName="Defend Megalaser" minSize="24" maxSize="48" mapDisplaySize="32" iconFile="Data/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
+                <MarkerCategory name="north" DisplayName="Defend North Battery" minSize="24" maxSize="48" mapDisplaySize="32" iconFile="Data/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
+                <MarkerCategory name="east" DisplayName="Defend East Battery" minSize="24" maxSize="48" mapDisplaySize="32" iconFile="Data/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
+                <MarkerCategory name="west" DisplayName="Defend West Battery" minSize="24" maxSize="48" mapDisplaySize="32" iconFile="Data/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
             </MarkerCategory>
             <MarkerCategory name="ejw" DisplayName="Triple Trouble">
                 <MarkerCategory name="location" DisplayName="LOCATION" IsSeparator="1"/>

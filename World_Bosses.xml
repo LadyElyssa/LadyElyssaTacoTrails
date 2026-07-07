@@ -222,6 +222,25 @@
         <POI MapID="873" xpos="471.401" ypos="29.4885" zpos="92.4573" GUID="pWot3s7Ef0qiQtip8UesJg==" type="legs.wb.kq.kiels" iconFile="Data/Images/Icons/Event_Defend.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="873" xpos="62.9657" ypos="18.6847" zpos="-340.07" GUID="JESZltwPuU6I5RXHuqyi2w==" type="legs.wb.kq.karka" iconFile="Data/Images/Icons/Event_Fight.png" fadeNear="3000" fadeFar="5000"/>
         <POI MapID="873" xpos="163.262" ypos="48.9822" zpos="19.6408" GUID="ImdJNj06w06EjGDjmXrHuw==" type="legs.wb.kq.steampipe" iconFile="Data/Images/Icons/Event_Interact.png" fadeNear="3000" fadeFar="5000"/>
+
+        <POI MapID="53" xpos="-520.0347" ypos="0.1964251" zpos="-873.4355" type="legs.wb.teq" GUID="rppDmHEttkmXXAWXq99uhg==" iconFile="Data/Images/Icons/Event_Boss.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <POI MapID="53" xpos="-447.855" ypos="5.37631" zpos="-865.908" type="legs.wb.teq.turrets" GUID="NGVWLGG0CEGxP5Tgaow8JQ=="/>
+        <POI MapID="53" xpos="-458.188" ypos="4.82231" zpos="-849.285" type="legs.wb.teq.turrets" GUID="JjxU+qA3S0CuzhYLswDvmQ=="/>
+        <POI MapID="53" xpos="-470.868" ypos="4.27024" zpos="-832.708" type="legs.wb.teq.turrets" GUID="yAlGwgeKKkqEIz331XSyFw=="/>
+        <POI MapID="53" xpos="-510.879" ypos="3.07242" zpos="-795.898" type="legs.wb.teq.turrets" GUID="2gXaCJjoHka5IIPtJ8SGAw=="/>
+        <POI MapID="53" xpos="-524.685" ypos="4.0826" zpos="-790.425" type="legs.wb.teq.turrets" GUID="qJO3ds4U9EGpHxI6FcYCXQ=="/>
+        <POI MapID="53" xpos="-540.812" ypos="4.08467" zpos="-792.471" type="legs.wb.teq.turrets" GUID="nv3s1mi3AECVmRkny1haTA=="/>
+        <POI MapID="53" xpos="-525.502" ypos="9.97468" zpos="-625.159" type="legs.wb.teq.north" GUID="QKvqhGtfsk6bz0E9bPM9Fg=="/>
+        <POI MapID="53" xpos="-692.26" ypos="14.4296" zpos="-728.362" type="legs.wb.teq.west" GUID="gydN21OVr0+SRkPJA0BTMg=="/>
+        <POI MapID="53" xpos="-334.192" ypos="5.91048" zpos="-717.771" type="legs.wb.teq.east" GUID="gzBo5UkGpEiyPhwY+zB9Sg=="/>
+        <POI MapID="53" xpos="-461.853" ypos="3.83683" zpos="-753.541" type="legs.wb.teq.megalaser" GUID="K+orirbSxky2zrkEKhIQcA=="/>
+
+        <Trail type="legs.wb.ejw.crimson" trailData="Data/World Bosses/Wurm Crimson.trl" mapDisplaySize="12" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF5454"/>
+        <POI MapID="73" xpos="200.6007" ypos="16.07138" zpos="-438.7627" type="legs.wb.ejw.crimson" GUID="WBCUluouWkuWgc/xcdHlvw==" iconFile="Data/Images/Crimson Wurm.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="legs.wb.ejw.amber" trailData="Data/World Bosses/Wurm Amber.trl" mapDisplaySize="12" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF9D00"/>
+        <POI MapID="73" xpos="675.6879" ypos="0.562151" zpos="-606.9619" type="legs.wb.ejw.amber" GUID="sHXc/BPKJ0mzHxiDB6t80w==" iconFile="Data/Images/Amber Wurm.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="legs.wb.ejw.cobalt" trailData="Data/World Bosses/Wurm Cobalt.trl" mapDisplaySize="12" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="00FFFF"/>
+        <POI MapID="73" xpos="-282.7997" ypos="0.1239402" zpos="-875.3213" type="legs.wb.ejw.cobalt" GUID="f1vu2t17lUm5B5l1OzqWug==" iconFile="Data/Images/Cobalt Wurm.png" inGameVisibility="0" mapDisplaySize="48"/>
         
     </POIs>
 </OverlayData>
