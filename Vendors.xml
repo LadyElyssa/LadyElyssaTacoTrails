@@ -251,7 +251,13 @@
 
         
         <!-- SOUS-CHEF SEIMUR OXBONE -->
-
+        <Trail type="legs.vendors.chef.hb" trailData="Data/Vendors/Seimur 1.trl" inGameVisibility="1" mapDisplaySize="12" color="FF40FA" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.chef.bc" trailData="Data/Vendors/Seimur 2.trl" inGameVisibility="1" mapDisplaySize="12" color="FF40FA" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.chef.tg" trailData="Data/Vendors/Seimur 3.trl" inGameVisibility="1" mapDisplaySize="12" color="FF40FA" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.chef.dr" trailData="Data/Vendors/Seimur 4.trl" inGameVisibility="1" mapDisplaySize="12" color="FF40FA" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.chef.rs" trailData="Data/Vendors/Seimur 5.trl" inGameVisibility="1" mapDisplaySize="12" color="FF40FA" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.chef.la" trailData="Data/Vendors/Seimur 6.trl" inGameVisibility="1" mapDisplaySize="12" color="FF40FA" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.vendors.chef.diessa" trailData="Data/Vendors/Seimur 7.trl" inGameVisibility="1" mapDisplaySize="12" color="FF40FA" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="326" xpos="163.218" ypos="335.137" zpos="-139.604" type="legs.vendors.chef.hb" GUID="k3Hyjp07kUex3YFna4UC6Q==" schedule="0 8 * * 1"/>
         <POI MapID="218" xpos="270.073" ypos="139.231" zpos="196.559" type="legs.vendors.chef.bc" GUID="NAuHPxY+TU2+1TeVeVr8OQ==" schedule="0 8 * * 2"/>
         <POI MapID="91" xpos="-6.54" ypos="1.62158" zpos="8.41" type="legs.vendors.chef.tg" GUID="PA2oXKu57Uu1CS5VdozZlA==" schedule="0 8 * * 3"/>
