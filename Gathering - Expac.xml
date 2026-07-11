@@ -598,7 +598,7 @@
         <!-- SOTO - Secrets of the Obscure -->
 
         <!-- Calcified Gasp -->
-        <Trail type="legs.gathering.soto.gasp" trailData="Data/Gathering/Expac/SotO/luaren_nayos_gasps.trl"/>
+        <Trail type="legs.gathering.soto.gasp" trailData="Data/Gathering/Expac/SotO/luaren_nayos_gasps.trl" texture="Data/Images/Trails/mmm_trail.png" alpha="0.7" color="#56B4E9"/>
         <POI MapID="1526" xpos="654.728" ypos="201.499" zpos="-133.086" type="legs.gathering.soto.gasp.orbs" GUID="BmfBpKDBPUm/mbBsC+gTPw=="/>
         <POI MapID="1526" xpos="676.355" ypos="224.592" zpos="-126.06" type="legs.gathering.soto.gasp.orbs" GUID="ivRG9NB6Bkq4EKw1ULkuow=="/>
         <POI MapID="1526" xpos="647.598" ypos="232.961" zpos="-93.4242" type="legs.gathering.soto.gasp.orbs" GUID="ibjr5zuzqkm6r2vEiEhEUw=="/>
@@ -680,7 +680,7 @@
 
         <!-- Pinch of Stardust -->
         <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=CY8FsXuKS3c -->
-        <Trail type="legs.gathering.soto.stardust" trailData="Data/Gathering/Expac/SotO/luaren_amny_stardust.trl"/>
+        <Trail type="legs.gathering.soto.stardust" trailData="Data/Gathering/Expac/SotO/luaren_amny_stardust.trl" texture="Data/Images/Trails/mmm_trail.png" alpha="0.7" color="#56B4E9"/>
         <POI MapID="1517" xpos="-676.697" ypos="496.387" zpos="-263.578" type="legs.gathering.soto.stardust.orbs" GUID="XNNHooZpoUuhZKspkgDXNg=="/>
         <POI MapID="1517" xpos="-676.694" ypos="463.295" zpos="-263.557" type="legs.gathering.soto.stardust.orbs" GUID="b3/Wmg4tDUqcqDM/2jveWQ=="/>
         <POI MapID="1517" xpos="-676.651" ypos="430.195" zpos="-263.608" type="legs.gathering.soto.stardust.orbs" GUID="Uw1I5ixA3EGJrneWB/3eWw=="/>
@@ -744,7 +744,7 @@
 
         <!-- Static Charge -->
         <!-- Credit to Luaren on YT! https://www.youtube.com/watch?v=bPrZEC3-cAA -->
-        <Trail type="legs.gathering.soto.staticcharge" trailData="Data/Gathering/Expac/SotO/luaren_sa_static_charges.trl"/>
+        <Trail type="legs.gathering.soto.staticcharge" trailData="Data/Gathering/Expac/SotO/luaren_sa_static_charges.trl" texture="Data/Images/Trails/mmm_trail.png" alpha="0.7" color="#56B4E9"/>
         <POI MapID="1510" xpos="-768.099" ypos="484.192" zpos="289.393" type="legs.gathering.soto.staticcharge" GUID="xJBApjWDLU2AMYiJISBgnA==" iconFile="Data/Images/Finish_Flag.png"/>
         <POI MapID="1510" xpos="-702.104" ypos="563.084" zpos="146.701" type="legs.gathering.soto.staticcharge.orbs" GUID="sbHw73+WMUKCSJnZ18/edg=="/>
         <POI MapID="1510" xpos="-702.083" ypos="580.389" zpos="121.707" type="legs.gathering.soto.staticcharge.orbs" GUID="FJCHcGpw5Uu9zFdG71vTtg=="/>

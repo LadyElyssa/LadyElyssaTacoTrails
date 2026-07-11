@@ -2,7 +2,7 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP ENHANCEMENTS -->
         <MarkerCategory name="vendors" DisplayName="Vendors">
-            <MarkerCategory name="psna" DisplayName="Pact Supply Network Agents" texture="Data/Images/Dashed Line with Shadow.png" inGameVisibility="1">
+            <MarkerCategory name="psna" DisplayName="Pact Supply Network Agents" texture="Data/Images/Dashed Line with Shadow.png" schedule-duration="1440" inGameVisibility="1">
                 <MarkerCategory name="mon" DisplayName="Monday">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="square" DisplayName="PSNA (Purple Square)" iconFile="Data/Images/Square - Purple.png" inGameVisibility="0" mapDisplaySize="48"/>
@@ -197,7 +197,7 @@
             </MarkerCategory>
 
             <!-- Need to use an outline like a circle or octagon or square so it the swirl can be clearly seen when they are there, rather than obscured -->
-            <MarkerCategory name="chef" DisplayName="Sous-Chef Seimur Oxbone (Pink Square)" iconFile="Data/Images/Square - Pink.png" mapDisplaySize="32" inGameVisibility="0">
+            <MarkerCategory name="chef" DisplayName="Sous-Chef Seimur Oxbone (Pink Square)" iconFile="Data/Images/Square - Pink.png" schedule-duration="1440" mapDisplaySize="32" inGameVisibility="0">
                     <MarkerCategory name="mon" IsSeparator="1" DisplayName="MONDAY"/>
                     <MarkerCategory name="hb" DisplayName="Trade Commons, Hoelbrak"/>
                     <MarkerCategory name="tue" IsSeparator="1" DisplayName="TUESDAY"/>

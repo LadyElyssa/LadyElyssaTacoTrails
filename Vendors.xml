@@ -3,104 +3,135 @@
         <!-- Pact Supply Network Agents -->
 
         <!-- Ascalon -->
-        <Trail type="legs.vendors.psna.mon.fireheart" trailData="Data/Vendors/PSNA - Fireheart - Mon.trl" color="B200FF"/>
-        <POI MapID="22" xpos="-817.208" ypos="3.67986" zpos="336.043" type="legs.vendors.psna.mon.square" GUID="3aa8kbaU5k+4dqqheRDxVg=="/>
-        <Trail type="legs.vendors.psna.sun.fireheart" trailData="Data/Vendors/PSNA - Fireheart - Sun.trl" color="B200FF"/>
-        <POI MapID="22" xpos="-435.5621" ypos="79.99857" zpos="785.4415" type="legs.vendors.psna.sun.square" GUID="cPjJep+3IkuJ/Ov9bsYJbA=="/>
-        <Trail type="legs.vendors.psna.tue.ashford" trailData="Data/Vendors/PSNA - Ashford - Tue.trl" color="B200FF"/>
-        <POI MapID="19" xpos="-242.355" ypos="34.2818" zpos="85.2677" type="legs.vendors.psna.tue.square" GUID="eGOFCaqsQkWqcPKKEKhDRw=="/>
-        <Trail type="legs.vendors.psna.wed.blazeridge" trailData="Data/Vendors/PSNA - Blazeridge Alt - Wed.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.wed.blazeridge" trailData="Data/Vendors/PSNA - Blazeridge - Wed.trl" color="B200FF"/>
-        <POI MapID="20" xpos="83.9976" ypos="3.92554" zpos="-1091.76" type="legs.vendors.psna.wed.square" GUID="Tv62yxefv0iF4tHdU/EJBA=="/>
-        <Trail type="legs.vendors.psna.thu.iron" trailData="Data/Vendors/PSNA - Iron - Thu.trl" color="B200FF"/>
-        <POI MapID="25" xpos="-407.538" ypos="48.8411" zpos="-605.607" type="legs.vendors.psna.thu.square" GUID="e9QgkMVefEGmwc+j/lKcUw=="/>
-        <Trail type="legs.vendors.psna.fri.fields" trailData="Data/Vendors/PSNA - Fields - Fri.trl" color="B200FF"/>
-        <POI MapID="21" xpos="-584.587" ypos="60.61" zpos="-455.072" type="legs.vendors.psna.fri.square" GUID="ABQ5JfCDKUGgD46b1gdNeg=="/>
-        <Trail type="legs.vendors.psna.sat.diessa" trailData="Data/Vendors/PSNA - Diessa - Sat.trl" color="B200FF"/>
-        <POI MapID="32" xpos="-624.414" ypos="42.8568" zpos="32.6953" type="legs.vendors.psna.sat.square" GUID="ffA/g5xTGESApWl7OFm5pw=="/>
+        <Trail type="legs.vendors.psna.mon.fireheart" trailData="Data/Vendors/PSNA - Fireheart - Mon.trl" color="B200FF" schedule="0 8 * * 1"/>
+        <POI MapID="22" xpos="-817.208" ypos="3.67986" zpos="336.043" type="legs.vendors.psna.mon.square" GUID="3aa8kbaU5k+4dqqheRDxVg==" schedule="0 8 * * 1"/>
+
+        <Trail type="legs.vendors.psna.sun.fireheart" trailData="Data/Vendors/PSNA - Fireheart - Sun.trl" color="B200FF" schedule="0 8 * * 7"/>
+        <POI MapID="22" xpos="-435.5621" ypos="79.99857" zpos="785.4415" type="legs.vendors.psna.sun.square" GUID="cPjJep+3IkuJ/Ov9bsYJbA==" schedule="0 8 * * 7"/>
+
+        <Trail type="legs.vendors.psna.tue.ashford" trailData="Data/Vendors/PSNA - Ashford - Tue.trl" color="B200FF" schedule="0 8 * * 2"/>
+        <POI MapID="19" xpos="-242.355" ypos="34.2818" zpos="85.2677" type="legs.vendors.psna.tue.square" GUID="eGOFCaqsQkWqcPKKEKhDRw==" schedule="0 8 * * 2"/>
+
+        <Trail type="legs.vendors.psna.wed.blazeridge" trailData="Data/Vendors/PSNA - Blazeridge Alt - Wed.trl" color="B200FF" schedule="0 8 * * 3"/>
+        <Trail type="legs.vendors.psna.wed.blazeridge" trailData="Data/Vendors/PSNA - Blazeridge - Wed.trl" color="B200FF" schedule="0 8 * * 3"/>
+        <POI MapID="20" xpos="83.9976" ypos="3.92554" zpos="-1091.76" type="legs.vendors.psna.wed.square" GUID="Tv62yxefv0iF4tHdU/EJBA==" schedule="0 8 * * 3"/>
+
+        <Trail type="legs.vendors.psna.thu.iron" trailData="Data/Vendors/PSNA - Iron - Thu.trl" color="B200FF" schedule="0 8 * * 4"/>
+        <POI MapID="25" xpos="-407.538" ypos="48.8411" zpos="-605.607" type="legs.vendors.psna.thu.square" GUID="e9QgkMVefEGmwc+j/lKcUw==" schedule="0 8 * * 4"/>
+
+        <Trail type="legs.vendors.psna.fri.fields" trailData="Data/Vendors/PSNA - Fields - Fri.trl" color="B200FF" schedule="0 8 * * 5"/>
+        <POI MapID="21" xpos="-584.587" ypos="60.61" zpos="-455.072" type="legs.vendors.psna.fri.square" GUID="ABQ5JfCDKUGgD46b1gdNeg==" schedule="0 8 * * 5"/>
+
+        <Trail type="legs.vendors.psna.sat.diessa" trailData="Data/Vendors/PSNA - Diessa - Sat.trl" color="B200FF" schedule="0 8 * * 6"/>
+        <POI MapID="32" xpos="-624.414" ypos="42.8568" zpos="32.6953" type="legs.vendors.psna.sat.square" GUID="ffA/g5xTGESApWl7OFm5pw==" schedule="0 8 * * 6"/>
 
         <!-- Kryta -->
-        <Trail type="legs.vendors.psna.mon.bloodtide" trailData="Data/Vendors/PSNA - Bloodtide - Mon.trl" color="B200FF"/>
-        <POI MapID="73" xpos="410.89" ypos="30.0587" zpos="870.743" type="legs.vendors.psna.mon.square" GUID="LKk6+ycc+E6Ty8As5HNxew=="/>
-        <Trail type="legs.vendors.psna.sun.bloodtide" trailData="Data/Vendors/PSNA - Bloodtide - Sun.trl" color="B200FF"/>
-        <POI MapID="73" xpos="479.156" ypos="19.3608" zpos="128.259" type="legs.vendors.psna.sun.square" GUID="eUjmFuSJXUyucFOtSclNbA=="/>
-        <Trail type="legs.vendors.psna.tue.kessex" trailData="Data/Vendors/PSNA - Kessex - Tue.trl" color="B200FF"/>
-        <POI MapID="23" xpos="1189.36" ypos="49.9039" zpos="-271.842" type="legs.vendors.psna.tue.square" GUID="m8kdpASmq0WlbV5oE3KIzA=="/>
-        <Trail type="legs.vendors.psna.wed.harathi" trailData="Data/Vendors/PSNA - Harathi - Wed.trl" color="B200FF"/>
-        <POI MapID="17" xpos="634.893" ypos="24.9771" zpos="-735.544" type="legs.vendors.psna.wed.square" GUID="0qIPozG+40Gty7mUzBgr6g=="/>
-        <Trail type="legs.vendors.psna.thu.queensdale" trailData="Data/Vendors/PSNA - Queensdale - Thu.trl" color="B200FF"/>
-        <POI MapID="15" xpos="-215.289" ypos="9.9762" zpos="-42.2058" type="legs.vendors.psna.thu.square" GUID="dRutypvlX06f3fQsEYSJ9Q=="/>
-        <Trail type="legs.vendors.psna.fri.southsun" trailData="Data/Vendors/PSNA - Southsun - Fri.trl" color="B200FF"/>
-        <POI MapID="873" xpos="622.217" ypos="13.5138" zpos="-403.092" type="legs.vendors.psna.fri.square" GUID="dK9x6RsLHEy537cMrHAZIg=="/>
-        <Trail type="legs.vendors.psna.sat.gendarran" trailData="Data/Vendors/PSNA - Gendarran - Sat.trl" color="B200FF"/>
-        <POI MapID="24" xpos="715.593" ypos="49.9641" zpos="315.185" type="legs.vendors.psna.sat.square" GUID="c/+Y5ko1aECUK0gbT6/ynA=="/>
+        <Trail type="legs.vendors.psna.mon.bloodtide" trailData="Data/Vendors/PSNA - Bloodtide - Mon.trl" color="B200FF" schedule="0 8 * * 1"/>
+        <POI MapID="73" xpos="410.89" ypos="30.0587" zpos="870.743" type="legs.vendors.psna.mon.square" GUID="LKk6+ycc+E6Ty8As5HNxew==" schedule="0 8 * * 1"/>
+
+        <Trail type="legs.vendors.psna.sun.bloodtide" trailData="Data/Vendors/PSNA - Bloodtide - Sun.trl" color="B200FF" schedule="0 8 * * 7"/>
+        <POI MapID="73" xpos="479.156" ypos="19.3608" zpos="128.259" type="legs.vendors.psna.sun.square" GUID="eUjmFuSJXUyucFOtSclNbA==" schedule="0 8 * * 7"/>
+
+        <Trail type="legs.vendors.psna.tue.kessex" trailData="Data/Vendors/PSNA - Kessex - Tue.trl" color="B200FF" schedule="0 8 * * 2"/>
+        <POI MapID="23" xpos="1189.36" ypos="49.9039" zpos="-271.842" type="legs.vendors.psna.tue.square" GUID="m8kdpASmq0WlbV5oE3KIzA==" schedule="0 8 * * 2"/>
+
+        <Trail type="legs.vendors.psna.wed.harathi" trailData="Data/Vendors/PSNA - Harathi - Wed.trl" color="B200FF" schedule="0 8 * * 3"/>
+        <POI MapID="17" xpos="634.893" ypos="24.9771" zpos="-735.544" type="legs.vendors.psna.wed.square" GUID="0qIPozG+40Gty7mUzBgr6g==" schedule="0 8 * * 3"/>
+
+        <Trail type="legs.vendors.psna.thu.queensdale" trailData="Data/Vendors/PSNA - Queensdale - Thu.trl" color="B200FF" schedule="0 8 * * 4"/>
+        <POI MapID="15" xpos="-215.289" ypos="9.9762" zpos="-42.2058" type="legs.vendors.psna.thu.square" GUID="dRutypvlX06f3fQsEYSJ9Q==" schedule="0 8 * * 4"/>
+
+        <Trail type="legs.vendors.psna.fri.southsun" trailData="Data/Vendors/PSNA - Southsun - Fri.trl" color="B200FF" schedule="0 8 * * 5"/>
+        <POI MapID="873" xpos="622.217" ypos="13.5138" zpos="-403.092" type="legs.vendors.psna.fri.square" GUID="dK9x6RsLHEy537cMrHAZIg==" schedule="0 8 * * 5"/>
+
+        <Trail type="legs.vendors.psna.sat.gendarran" trailData="Data/Vendors/PSNA - Gendarran - Sat.trl" color="B200FF" schedule="0 8 * * 6"/>
+        <POI MapID="24" xpos="715.593" ypos="49.9641" zpos="315.185" type="legs.vendors.psna.sat.square" GUID="c/+Y5ko1aECUK0gbT6/ynA==" schedule="0 8 * * 6"/>
 
         <!-- Maguuma Jungle -->
-        <Trail type="legs.vendors.psna.mon.caledon" trailData="Data/Vendors/PSNA - Caledon - Mon.trl" color="B200FF"/>
-        <POI MapID="34" xpos="-159.289" ypos="24.7538" zpos="750.366" type="legs.vendors.psna.mon.square" GUID="hKbkeSBWmEe/hvUAsPDKZg=="/>
-        <Trail type="legs.vendors.psna.sun.caledon" trailData="Data/Vendors/PSNA - Caledon - Sun.trl" color="B200FF"/>
-        <POI MapID="34" xpos="-23.2887" ypos="5.16094" zpos="4.70659" type="legs.vendors.psna.sun.square" GUID="Ae3yt8oX0Ei7vL70NoUF0Q=="/>
-        <Trail type="legs.vendors.psna.tue.metrica" trailData="Data/Vendors/PSNA - Metrica - Tue.trl" color="B200FF"/>
-        <POI MapID="35" xpos="326.85" ypos="12.6963" zpos="-65.9948" type="legs.vendors.psna.tue.square" GUID="k3QByDmgf06kcexwqW6F8A=="/>
-        <Trail type="legs.vendors.psna.wed.sparkfly" trailData="Data/Vendors/PSNA - Sparkfly - Wed.trl" color="B200FF"/>
-        <POI MapID="53" xpos="174.444" ypos="4.97544" zpos="568.149" type="legs.vendors.psna.wed.square" GUID="HgesPZwNTUSaSVIl2/FRvA=="/>
-        <Trail type="legs.vendors.psna.thu.brisban" trailData="Data/Vendors/PSNA - Brisban - Thu.trl" color="B200FF"/>
-        <POI MapID="54" xpos="981.51" ypos="72.5218" zpos="565.979" type="legs.vendors.psna.thu.square" GUID="fdAXplk8GECdR6lhOnxcjw=="/>
-        <Trail type="legs.vendors.psna.fri.maelstrom" trailData="Data/Vendors/PSNA - Maelstrom - Fri.trl" color="B200FF"/>
-        <POI MapID="39" xpos="-478.444" ypos="25.209" zpos="378.657" type="legs.vendors.psna.fri.square" GUID="46cY4eTgiE+mDCIhzK8EsQ=="/>
-        <Trail type="legs.vendors.psna.sat.maelstrom" trailData="Data/Vendors/PSNA - Maelstrom - Sat.trl" color="B200FF"/>
-        <POI MapID="39" xpos="329.349" ypos="53.4905" zpos="652.16" type="legs.vendors.psna.sat.square" GUID="oEF8lAR/LkOd7I6iKUbQkw=="/>
+        <Trail type="legs.vendors.psna.mon.caledon" trailData="Data/Vendors/PSNA - Caledon - Mon.trl" color="B200FF" schedule="0 8 * * 1"/>
+        <POI MapID="34" xpos="-159.289" ypos="24.7538" zpos="750.366" type="legs.vendors.psna.mon.square" GUID="hKbkeSBWmEe/hvUAsPDKZg==" schedule="0 8 * * 1"/>
+
+        <Trail type="legs.vendors.psna.sun.caledon" trailData="Data/Vendors/PSNA - Caledon - Sun.trl" color="B200FF" schedule="0 8 * * 7"/>
+        <POI MapID="34" xpos="-23.2887" ypos="5.16094" zpos="4.70659" type="legs.vendors.psna.sun.square" GUID="Ae3yt8oX0Ei7vL70NoUF0Q==" schedule="0 8 * * 7"/>
+
+        <Trail type="legs.vendors.psna.tue.metrica" trailData="Data/Vendors/PSNA - Metrica - Tue.trl" color="B200FF" schedule="0 8 * * 2"/>
+        <POI MapID="35" xpos="326.85" ypos="12.6963" zpos="-65.9948" type="legs.vendors.psna.tue.square" GUID="k3QByDmgf06kcexwqW6F8A==" schedule="0 8 * * 2"/>
+
+        <Trail type="legs.vendors.psna.wed.sparkfly" trailData="Data/Vendors/PSNA - Sparkfly - Wed.trl" color="B200FF" schedule="0 8 * * 3"/>
+        <POI MapID="53" xpos="174.444" ypos="4.97544" zpos="568.149" type="legs.vendors.psna.wed.square" GUID="HgesPZwNTUSaSVIl2/FRvA==" schedule="0 8 * * 3"/>
+
+        <Trail type="legs.vendors.psna.thu.brisban" trailData="Data/Vendors/PSNA - Brisban - Thu.trl" color="B200FF" schedule="0 8 * * 4"/>
+        <POI MapID="54" xpos="981.51" ypos="72.5218" zpos="565.979" type="legs.vendors.psna.thu.square" GUID="fdAXplk8GECdR6lhOnxcjw==" schedule="0 8 * * 4"/>
+
+        <Trail type="legs.vendors.psna.fri.maelstrom" trailData="Data/Vendors/PSNA - Maelstrom - Fri.trl" color="B200FF" schedule="0 8 * * 5"/>
+        <POI MapID="39" xpos="-478.444" ypos="25.209" zpos="378.657" type="legs.vendors.psna.fri.square" GUID="46cY4eTgiE+mDCIhzK8EsQ==" schedule="0 8 * * 5"/>
+
+        <Trail type="legs.vendors.psna.sat.maelstrom" trailData="Data/Vendors/PSNA - Maelstrom - Sat.trl" color="B200FF" schedule="0 8 * * 6"/>
+        <POI MapID="39" xpos="329.349" ypos="53.4905" zpos="652.16" type="legs.vendors.psna.sat.square" GUID="oEF8lAR/LkOd7I6iKUbQkw==" schedule="0 8 * * 6"/>
+
 
         <!-- Maguuma Wastes -->
-        <Trail type="legs.vendors.psna.mon.drytop" trailData="Data/Vendors/PSNA - Dry Top - Mon.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.wed.drytop" trailData="Data/Vendors/PSNA - Dry Top - Wed.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.fri.drytop" trailData="Data/Vendors/PSNA - Dry Top - Fri.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.sun.drytop" trailData="Data/Vendors/PSNA - Dry Top - Sun.trl" color="B200FF"/>
-        <POI MapID="988" xpos="106.6886" ypos="41.65635" zpos="-216.947" type="legs.vendors.psna.mon.square" GUID="ub8m456SDEuAdFJX3ctruA=="/>
-        <POI MapID="988" xpos="293.641" ypos="13.8329" zpos="-207.946" type="legs.vendors.psna.wed.square" GUID="6ijuED3h0UiWJSHa/fTFrA=="/>
-        <POI MapID="988" xpos="-584.053" ypos="78.804" zpos="-349.498" type="legs.vendors.psna.fri.square" GUID="aWwFZoXM2UW6voiMywX+UQ=="/>
-        <POI MapID="988" xpos="-529.613" ypos="10.1161" zpos="-17.1779" type="legs.vendors.psna.sun.square" GUID="mrRIhRkIX0C7wZ6eIdscww=="/>
+        <Trail type="legs.vendors.psna.mon.drytop" trailData="Data/Vendors/PSNA - Dry Top - Mon.trl" color="B200FF" schedule="0 8 * * 1"/>
+        <Trail type="legs.vendors.psna.wed.drytop" trailData="Data/Vendors/PSNA - Dry Top - Wed.trl" color="B200FF" schedule="0 8 * * 3"/>
+        <Trail type="legs.vendors.psna.fri.drytop" trailData="Data/Vendors/PSNA - Dry Top - Fri.trl" color="B200FF" schedule="0 8 * * 5"/>
+        <Trail type="legs.vendors.psna.sun.drytop" trailData="Data/Vendors/PSNA - Dry Top - Sun.trl" color="B200FF" schedule="0 8 * * 7"/>
+        <POI MapID="988" xpos="106.6886" ypos="41.65635" zpos="-216.947" type="legs.vendors.psna.mon.square" GUID="ub8m456SDEuAdFJX3ctruA==" schedule="0 8 * * 1"/>
+        <POI MapID="988" xpos="293.641" ypos="13.8329" zpos="-207.946" type="legs.vendors.psna.wed.square" GUID="6ijuED3h0UiWJSHa/fTFrA==" schedule="0 8 * * 3"/>
+        <POI MapID="988" xpos="-584.053" ypos="78.804" zpos="-349.498" type="legs.vendors.psna.fri.square" GUID="aWwFZoXM2UW6voiMywX+UQ==" schedule="0 8 * * 5"/>
+        <POI MapID="988" xpos="-529.613" ypos="10.1161" zpos="-17.1779" type="legs.vendors.psna.sun.square" GUID="mrRIhRkIX0C7wZ6eIdscww==" schedule="0 8 * * 7"/>
 
-        <Trail type="legs.vendors.psna.tue.silverwastes" trailData="Data/Vendors/PSNA - Silverwastes - Tue.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.thu.silverwastes" trailData="Data/Vendors/PSNA - Silverwastes - Thu.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.sat.silverwastes" trailData="Data/Vendors/PSNA - Silverwastes - Sat.trl" color="B200FF"/>
-        <POI MapID="1015" xpos="498.85" ypos="415.036" zpos="-329.272" type="legs.vendors.psna.tue.square" GUID="dRVWx2hDIk2dvzmq9cXjyw=="/>
-        <POI MapID="1015" xpos="-315.25" ypos="431.107" zpos="93.3321" type="legs.vendors.psna.thu.square" GUID="L1qXqmIP2EuF1xZUN1FtOA=="/>
-        <POI MapID="1015" xpos="503.414" ypos="415.208" zpos="-143.902" type="legs.vendors.psna.sat.square" GUID="Qd9p4iliFk+XWDWaJ6zaIA=="/>
+        <Trail type="legs.vendors.psna.tue.silverwastes" trailData="Data/Vendors/PSNA - Silverwastes - Tue.trl" color="B200FF" schedule="0 8 * * 2"/>
+        <Trail type="legs.vendors.psna.thu.silverwastes" trailData="Data/Vendors/PSNA - Silverwastes - Thu.trl" color="B200FF" schedule="0 8 * * 4"/>
+        <Trail type="legs.vendors.psna.sat.silverwastes" trailData="Data/Vendors/PSNA - Silverwastes - Sat.trl" color="B200FF" schedule="0 8 * * 6"/>
+        <POI MapID="1015" xpos="498.85" ypos="415.036" zpos="-329.272" type="legs.vendors.psna.tue.square" GUID="dRVWx2hDIk2dvzmq9cXjyw==" schedule="0 8 * * 2"/>
+        <POI MapID="1015" xpos="-315.25" ypos="431.107" zpos="93.3321" type="legs.vendors.psna.thu.square" GUID="L1qXqmIP2EuF1xZUN1FtOA==" schedule="0 8 * * 4"/>
+        <POI MapID="1015" xpos="503.414" ypos="415.208" zpos="-143.902" type="legs.vendors.psna.sat.square" GUID="Qd9p4iliFk+XWDWaJ6zaIA==" schedule="0 8 * * 6"/>
 
         <!-- Ruins of Orr -->
-        <Trail type="legs.vendors.psna.thu.straits" trailData="Data/Vendors/PSNA - Straits - Thu.trl" color="B200FF"/>
-        <POI MapID="51" xpos="575.769" ypos="3.83919" zpos="213.859" type="legs.vendors.psna.thu.square" GUID="Fs5Nv/2ZNU6cqD2wJDTM9A=="/>
-        <Trail type="legs.vendors.psna.sun.straits" trailData="Data/Vendors/PSNA - Straits - Sun.trl" color="B200FF"/>
-        <POI MapID="51" xpos="517.913" ypos="35.379" zpos="58.5676" type="legs.vendors.psna.sun.square" GUID="JyXXUXiba0KGI5BsbWVcrQ=="/>
-        <Trail type="legs.vendors.psna.mon.straits" trailData="Data/Vendors/PSNA - Straits - Mon.trl" color="B200FF"/>
-        <POI MapID="51" xpos="-544.19" ypos="38.0643" zpos="-147.879" type="legs.vendors.psna.mon.square" GUID="xyuyCb6sS0qkzzYSeSXZQQ=="/>
-        <Trail type="legs.vendors.psna.fri.malchors" trailData="Data/Vendors/PSNA - Malchors - Fri.trl" color="B200FF"/>
-        <POI MapID="65" xpos="1023.49" ypos="48.6877" zpos="-88.5119" type="legs.vendors.psna.fri.square" GUID="R/vr8wxjc0eEX4BfzBk9dw=="/>
-        <Trail type="legs.vendors.psna.tue.malchors" trailData="Data/Vendors/PSNA - Malchors - Tue.trl" color="B200FF"/>
-        <POI MapID="65" xpos="1020.63" ypos="9.08097" zpos="118.05" type="legs.vendors.psna.tue.square" GUID="2SRGNh9FdEKK8fjk0N4Qzg=="/>
-        <Trail type="legs.vendors.psna.wed.cs" trailData="Data/Vendors/PSNA - Cursed - Wed.trl" color="B200FF"/>
-        <POI MapID="62" xpos="91.472" ypos="32.1354" zpos="921.661" type="legs.vendors.psna.wed.square" GUID="+LHjrPoVcUuVQ07UfGcNnw=="/>
-        <Trail type="legs.vendors.psna.sat.cs" trailData="Data/Vendors/PSNA - Cursed - Sat Alt.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.sat.cs" trailData="Data/Vendors/PSNA - Cursed - Sat.trl" color="B200FF"/>
-        <POI MapID="62" xpos="-50.6204" ypos="31.0943" zpos="-486.993" type="legs.vendors.psna.sat.square" GUID="V730eMK9lEeZe+uV8fwBiw=="/>
+        <Trail type="legs.vendors.psna.thu.straits" trailData="Data/Vendors/PSNA - Straits - Thu.trl" color="B200FF" schedule="0 8 * * 4"/>
+        <POI MapID="51" xpos="575.769" ypos="3.83919" zpos="213.859" type="legs.vendors.psna.thu.square" GUID="Fs5Nv/2ZNU6cqD2wJDTM9A==" schedule="0 8 * * 4"/>
+
+        <Trail type="legs.vendors.psna.sun.straits" trailData="Data/Vendors/PSNA - Straits - Sun.trl" color="B200FF" schedule="0 8 * * 7"/>
+        <POI MapID="51" xpos="517.913" ypos="35.379" zpos="58.5676" type="legs.vendors.psna.sun.square" GUID="JyXXUXiba0KGI5BsbWVcrQ==" schedule="0 8 * * 7"/>
+
+        <Trail type="legs.vendors.psna.mon.straits" trailData="Data/Vendors/PSNA - Straits - Mon.trl" color="B200FF" schedule="0 8 * * 1"/>
+        <POI MapID="51" xpos="-544.19" ypos="38.0643" zpos="-147.879" type="legs.vendors.psna.mon.square" GUID="xyuyCb6sS0qkzzYSeSXZQQ==" schedule="0 8 * * 1"/>
+
+        <Trail type="legs.vendors.psna.fri.malchors" trailData="Data/Vendors/PSNA - Malchors - Fri.trl" color="B200FF" schedule="0 8 * * 5"/>
+        <POI MapID="65" xpos="1023.49" ypos="48.6877" zpos="-88.5119" type="legs.vendors.psna.fri.square" GUID="R/vr8wxjc0eEX4BfzBk9dw==" schedule="0 8 * * 5"/>
+
+        <Trail type="legs.vendors.psna.tue.malchors" trailData="Data/Vendors/PSNA - Malchors - Tue.trl" color="B200FF" schedule="0 8 * * 2"/>
+        <POI MapID="65" xpos="1020.63" ypos="9.08097" zpos="118.05" type="legs.vendors.psna.tue.square" GUID="2SRGNh9FdEKK8fjk0N4Qzg==" schedule="0 8 * * 2"/>
+
+        <Trail type="legs.vendors.psna.wed.cs" trailData="Data/Vendors/PSNA - Cursed - Wed.trl" color="B200FF" schedule="0 8 * * 3"/>
+        <POI MapID="62" xpos="91.472" ypos="32.1354" zpos="921.661" type="legs.vendors.psna.wed.square" GUID="+LHjrPoVcUuVQ07UfGcNnw==" schedule="0 8 * * 3"/>
+
+        <Trail type="legs.vendors.psna.sat.cs" trailData="Data/Vendors/PSNA - Cursed - Sat Alt.trl" color="B200FF" schedule="0 8 * * 6"/>
+        <Trail type="legs.vendors.psna.sat.cs" trailData="Data/Vendors/PSNA - Cursed - Sat.trl" color="B200FF" schedule="0 8 * * 6"/>
+        <POI MapID="62" xpos="-50.6204" ypos="31.0943" zpos="-486.993" type="legs.vendors.psna.sat.square" GUID="V730eMK9lEeZe+uV8fwBiw==" schedule="0 8 * * 6"/>
 
         <!-- Shiverpeaks -->
-        <Trail type="legs.vendors.psna.mon.frostgorge" trailData="Data/Vendors/PSNA - Frostgorge - Mon.trl" color="B200FF"/>
-        <Trail type="legs.vendors.psna.mon.frostgorge" trailData="Data/Vendors/PSNA - Frostgorge Alt - Mon.trl" color="B200FF"/>
-        <POI MapID="30" xpos="107.695" ypos="78.5505" zpos="-312.671" type="legs.vendors.psna.mon.square" GUID="c69rIyn2HUyx/2AsSJuDBg=="/>
-        <Trail type="legs.vendors.psna.sun.frostgorge" trailData="Data/Vendors/PSNA - Frostgorge - Sun.trl" color="B200FF"/>
-        <POI MapID="30" xpos="-571.667" ypos="33.4091" zpos="-216.335" type="legs.vendors.psna.sun.square" GUID="bja0GSTS0E204jOx/FKEsQ=="/>
-        <Trail type="legs.vendors.psna.tue.dredgehaunt" trailData="Data/Vendors/PSNA - Dredgehaunt - Tue.trl" color="B200FF"/>
-        <POI MapID="26" xpos="-335.33" ypos="66.7171" zpos="764.486" type="legs.vendors.psna.tue.square" GUID="y8oOSPK0V0WqQ6VaIyrgeQ=="/>
-        <Trail type="legs.vendors.psna.wed.snowden" trailData="Data/Vendors/PSNA - Snowden - Wed.trl" color="B200FF"/>
-        <POI MapID="31" xpos="-564.552" ypos="60.4703" zpos="-432.567" type="legs.vendors.psna.wed.square" GUID="4o1MghCukECrIarnrbDUuw=="/>
-        <Trail type="legs.vendors.psna.thu.lornars" trailData="Data/Vendors/PSNA - Lornars - Thu.trl" color="B200FF"/>
-        <POI MapID="27" xpos="-204.82" ypos="82.7827" zpos="-178.495" type="legs.vendors.psna.thu.square" GUID="VNKoRajxckGKArM05nPv5A=="/>
-        <Trail type="legs.vendors.psna.fri.wayfarer" trailData="Data/Vendors/PSNA - Wayfarer - Fri.trl" color="B200FF"/>
-        <POI MapID="28" xpos="213.875" ypos="92.8086" zpos="965.254" type="legs.vendors.psna.fri.square" GUID="9gSEiqIaVUiB6+B7xchuXQ=="/>
-        <Trail type="legs.vendors.psna.sat.timberline" trailData="Data/Vendors/PSNA - Timberline - Sat.trl" color="B200FF"/>
-        <POI MapID="29" xpos="30.8914" ypos="78.2848" zpos="721.241" type="legs.vendors.psna.sat.square" GUID="Bt30aru0q0uO8G77vR2xVQ=="/>
+        <Trail type="legs.vendors.psna.mon.frostgorge" trailData="Data/Vendors/PSNA - Frostgorge - Mon.trl" color="B200FF" schedule="0 8 * * 1"/>
+        <Trail type="legs.vendors.psna.mon.frostgorge" trailData="Data/Vendors/PSNA - Frostgorge Alt - Mon.trl" color="B200FF" schedule="0 8 * * 1"/>
+        <POI MapID="30" xpos="107.695" ypos="78.5505" zpos="-312.671" type="legs.vendors.psna.mon.square" GUID="c69rIyn2HUyx/2AsSJuDBg==" schedule="0 8 * * 1"/>
+
+        <Trail type="legs.vendors.psna.sun.frostgorge" trailData="Data/Vendors/PSNA - Frostgorge - Sun.trl" color="B200FF" schedule="0 8 * * 7"/>
+        <POI MapID="30" xpos="-571.667" ypos="33.4091" zpos="-216.335" type="legs.vendors.psna.sun.square" GUID="bja0GSTS0E204jOx/FKEsQ==" schedule="0 8 * * 7"/>
+
+        <Trail type="legs.vendors.psna.tue.dredgehaunt" trailData="Data/Vendors/PSNA - Dredgehaunt - Tue.trl" color="B200FF" schedule="0 8 * * 2"/>
+        <POI MapID="26" xpos="-335.33" ypos="66.7171" zpos="764.486" type="legs.vendors.psna.tue.square" GUID="y8oOSPK0V0WqQ6VaIyrgeQ==" schedule="0 8 * * 2"/>
+
+        <Trail type="legs.vendors.psna.wed.snowden" trailData="Data/Vendors/PSNA - Snowden - Wed.trl" color="B200FF" schedule="0 8 * * 3"/>
+        <POI MapID="31" xpos="-564.552" ypos="60.4703" zpos="-432.567" type="legs.vendors.psna.wed.square" GUID="4o1MghCukECrIarnrbDUuw==" schedule="0 8 * * 3"/>
+
+        <Trail type="legs.vendors.psna.thu.lornars" trailData="Data/Vendors/PSNA - Lornars - Thu.trl" color="B200FF" schedule="0 8 * * 4"/>
+        <POI MapID="27" xpos="-204.82" ypos="82.7827" zpos="-178.495" type="legs.vendors.psna.thu.square" GUID="VNKoRajxckGKArM05nPv5A==" schedule="0 8 * * 4"/>
+
+        <Trail type="legs.vendors.psna.fri.wayfarer" trailData="Data/Vendors/PSNA - Wayfarer - Fri.trl" color="B200FF" schedule="0 8 * * 5"/>
+        <POI MapID="28" xpos="213.875" ypos="92.8086" zpos="965.254" type="legs.vendors.psna.fri.square" GUID="9gSEiqIaVUiB6+B7xchuXQ==" schedule="0 8 * * 5"/>
+
+        <Trail type="legs.vendors.psna.sat.timberline" trailData="Data/Vendors/PSNA - Timberline - Sat.trl" color="B200FF" schedule="0 8 * * 6"/>
+        <POI MapID="29" xpos="30.8914" ypos="78.2848" zpos="721.241" type="legs.vendors.psna.sat.square" GUID="Bt30aru0q0uO8G77vR2xVQ==" schedule="0 8 * * 6"/>
 
         <!-- Priory Historian Elisa -->
         <!-- https://wiki.guildwars2.com/wiki/Priory_Historian_Elisa -->
@@ -206,6 +237,7 @@
         <Trail type="legs.vendors.elisa.td.40" trailData="Data/Vendors/Elisa 40.trl"/>
         <Trail type="legs.vendors.elisa.td.45" trailData="Data/Vendors/Elisa 45.trl"/>
         <Trail type="legs.vendors.elisa.td.50" trailData="Data/Vendors/Elisa 50.trl"/>
+        <Trail type="legs.vendors.elisa.td.52" trailData="Data/Vendors/Elisa 52.trl"/>
         <POI MapID="1226" xpos="529.36" ypos="103.669" zpos="1214.79" type="legs.vendors.elisa.td.square" GUID="WfYs4PRCNkq2rxNKi+F/Dw=="/>
         <POI MapID="1226" xpos="942.431" ypos="177.332" zpos="1116.92" type="legs.vendors.elisa.td.square" GUID="8xS4mRcO8U2qqntHVqV8eQ=="/>
         <POI MapID="1226" xpos="-610.508" ypos="171.055" zpos="723.908" type="legs.vendors.elisa.td.square" GUID="9Ms5oO5mKECyQKRa8s7dmw=="/>
@@ -217,14 +249,17 @@
         <POI MapID="1226" xpos="-9.30909" ypos="302.682" zpos="187.921" type="legs.vendors.elisa.td.square" GUID="NHUbRP6Lfk2HBCI/MXeh6Q=="/>
         <POI MapID="1226" xpos="-40.5397" ypos="272.91" zpos="-1384.66" type="legs.vendors.elisa.td.square" GUID="SJBk7a5DQ0+EEi/t828cWA=="/>
 
-        <!-- SOUS-CHEF SEIMUR OXBONE -->
         
-        <POI MapID="91" xpos="-6.54" ypos="1.62158" zpos="8.41" type="legs.vendors.chef.tg" GUID="PA2oXKu57Uu1CS5VdozZlA=="/>
-        <POI MapID="18" xpos="-11.7684" ypos="79.6385" zpos="-269.516" type="legs.vendors.chef.dr" GUID="sWatuUltA0qISKE1dl3FRg=="/>
-        <POI MapID="139" xpos="-22.3675" ypos="385.835" zpos="169.92" type="legs.vendors.chef.rs" GUID="8ZSjjNBEukKEIPim2dyprQ=="/>
-        <POI MapID="50" xpos="-281.31" ypos="10.1323" zpos="152.376" type="legs.vendors.chef.la" GUID="0U07aZnXEE+U/PmJs82/Bg=="/>
-        <POI MapID="32" xpos="-752.723" ypos="63.0834" zpos="172.17" type="legs.vendors.chef.diessa" GUID="4C91yupzWU+sh1I2jbvgvA=="/>
-        <POI MapID="326" xpos="163.218" ypos="335.137" zpos="-139.604" type="legs.vendors.chef.hb" GUID="k3Hyjp07kUex3YFna4UC6Q=="/>
-        <POI MapID="218" xpos="270.073" ypos="139.231" zpos="196.559" type="legs.vendors.chef.bc" GUID="NAuHPxY+TU2+1TeVeVr8OQ=="/>
+        <!-- SOUS-CHEF SEIMUR OXBONE -->
+
+        <POI MapID="326" xpos="163.218" ypos="335.137" zpos="-139.604" type="legs.vendors.chef.hb" GUID="k3Hyjp07kUex3YFna4UC6Q==" schedule="0 8 * * 1"/>
+        <POI MapID="218" xpos="270.073" ypos="139.231" zpos="196.559" type="legs.vendors.chef.bc" GUID="NAuHPxY+TU2+1TeVeVr8OQ==" schedule="0 8 * * 2"/>
+        <POI MapID="91" xpos="-6.54" ypos="1.62158" zpos="8.41" type="legs.vendors.chef.tg" GUID="PA2oXKu57Uu1CS5VdozZlA==" schedule="0 8 * * 3"/>
+        <POI MapID="18" xpos="-11.7684" ypos="79.6385" zpos="-269.516" type="legs.vendors.chef.dr" GUID="sWatuUltA0qISKE1dl3FRg==" schedule="0 8 * * 4"/>
+        <POI MapID="139" xpos="-22.3675" ypos="385.835" zpos="169.92" type="legs.vendors.chef.rs" GUID="8ZSjjNBEukKEIPim2dyprQ==" schedule="0 8 * * 5"/>
+        <POI MapID="50" xpos="-281.31" ypos="10.1323" zpos="152.376" type="legs.vendors.chef.la" GUID="0U07aZnXEE+U/PmJs82/Bg==" schedule="0 8 * * 6"/>
+        <POI MapID="32" xpos="-752.723" ypos="63.0834" zpos="172.17" type="legs.vendors.chef.diessa" GUID="4C91yupzWU+sh1I2jbvgvA==" schedule="0 8 * * 7"/>
+        
+        
     </POIs>
 </OverlayData>
