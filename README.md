@@ -4,6 +4,16 @@
 * Lady Elyssa's Discord for Guild Wars 2 :: [https://discord.gg/t6jMb6qgjB](https://discord.gg/t6jMb6qgjB)
 * GW2 Marker-mancy Discord courtesy of Metallis (MMM) :: [https://discord.gg/p6Ec9q6P8z](https://discord.gg/p6Ec9q6P8z)
 
+## Content Sharing ##
+
+I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
+
+**Companion Projects**
+* [maps.gw2.io](https://maps.gw2.io/tyria)
+* [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
+* [Shadow Trails](https://github.com/Blackshadow-1007/Shadow-Trails)
+* [Tyrian Codex](https://github.com/MorningStarGG)
+
 ## Lady Elyssa's Guides ##
 A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_4400+ Trails_** and **_22,000+ Markers_** [[1]](https://mp-repo.blishhud.com/LadyElyssa.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/)
 
@@ -21,23 +31,7 @@ Principles
 
 __NOTE:__ When a Waypoint is shown on screen, it is also being copied to your clipboard. You can Press Enter to activate your xurrent chat chanel and then Press and Hold CTRL and the press V to paste it in to chat, then press Enter again to send it. You can then click on that link to show you the waypoint so you can go straight to it.
 
-## Content Sharing ##
-
-I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
-
-**Companion Projects**
-* [maps.gw2.io](https://maps.gw2.io/tyria)
-* [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
-* [Shadow Trails](https://github.com/Blackshadow-1007/Shadow-Trails)
-
-
-<!--
-* [Unnamed BlishHUD Module](https://github.com/MorningStarGG)
--->
-
----
-
-Lady Elyssa's Guides contains trails for:
+This pack currently covers:
 
 ## Chest Run ##
    * Empyreal Fragments
