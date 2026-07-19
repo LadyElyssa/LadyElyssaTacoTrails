@@ -4,7 +4,7 @@
     xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 26.3"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 26.4"/>
             
             <MarkerCategory name="line" IsSeparator="1" DisplayName="|"/>
 
@@ -16,12 +16,6 @@
                 <MarkerCategory name="wikiuser" DisplayName="GW2 Wiki  :: /wiki User:Lady Elyssa"/>
             </MarkerCategory>
             
-            <MarkerCategory name="credits" DisplayName="Credits">
-                <MarkerCategory name="anet" DisplayName="ArenaNet"/>
-                <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
-                <MarkerCategory name="community" DisplayName="The Guild Wars 2 Community"/>
-            </MarkerCategory>
-
             <MarkerCategory name="content" DisplayName="Content Creators">
                 <MarkerCategory name="dulfy" DisplayName="Dulfy"/>
                 <MarkerCategory name="jen" DisplayName="Guild Jen"/>
@@ -44,6 +38,7 @@
                 <MarkerCategory name="12" DisplayName="12Tables"/>
                 <MarkerCategory name="emz" DisplayName="Emz"/>
                 <MarkerCategory name="joeyw" DisplayName="Joeyw at gw2shop.net [FR]"/>
+                <MarkerCategory name="mmm" DisplayName="Metallis"/>
                 <MarkerCategory name="neb" DisplayName="Nebylicza"/>
                 <MarkerCategory name="rediche" DisplayName="Rediche at rediche.stream"/>
                 <MarkerCategory name="sab" DisplayName="Sab"/>
@@ -53,6 +48,12 @@
                 <MarkerCategory name="zen" DisplayName="Zen"/>
                 <MarkerCategory name="followers" DisplayName="My GW2 Followers"/>
                 <MarkerCategory name="git" DisplayName="My Github Contributors"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="credits" DisplayName="Credits">
+                <MarkerCategory name="anet" DisplayName="ArenaNet"/>
+                <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
+                <MarkerCategory name="community" DisplayName="The Guild Wars 2 Community"/>
             </MarkerCategory>
 
             <MarkerCategory name="mpt" DisplayName="Marker Pack Tools">
