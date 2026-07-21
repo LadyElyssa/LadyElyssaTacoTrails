@@ -12,7 +12,7 @@ I am happy for people to use any of my trails and markers for their own GW2 proj
 * [maps.gw2.io](https://maps.gw2.io/tyria)
 * [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
 * [Shadow Trails](https://github.com/Blackshadow-1007/Shadow-Trails)
-* [Tyrian Codex](https://github.com/MorningStarGG)
+* [Tyrian Codex](https://github.com/MorningStarGG/TyrianCodex)
 
 ## Lady Elyssa's Guides ##
 A comprehensive collection of Markers and Trails for [Guild Wars 2](https://www.guildwars2.com/) by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_4400+ Trails_** and **_22,000+ Markers_** [[1]](https://mp-repo.blishhud.com/LadyElyssa.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaTacoTrails&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/)
