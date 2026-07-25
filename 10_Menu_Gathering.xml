@@ -296,7 +296,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="quartz" DisplayName="Toggle Quartz Nodes" iconFile="Data/Images/Icons/Ore-Outline.png" mapVisibility="1" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="quartz" DisplayName="Toggle Quartz Nodes" iconFile="Data/Images/Icons/Ore-Quartz.png" mapVisibility="1" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
