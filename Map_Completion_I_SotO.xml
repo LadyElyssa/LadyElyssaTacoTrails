@@ -100,18 +100,18 @@
         <Trail type="legs.map.soto.skywatch.lanterns.trail.3" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 3.trl" color="ffff33"/>
         <Trail type="legs.map.soto.skywatch.lanterns.trail.3" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 3b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="979.146" ypos="185.597" zpos="-108.432" type="legs.map.soto.skywatch.lanterns.trail.3" GUID="Vq40NpDDm02Vq0WgWbLorw=="/>
-        <POI MapID="1510" xpos="813.873" ypos="379.439" zpos="347.692" type="legs.map.soto.skywatch.lanterns.wp" GUID="gm2szHyvU02ScTP870eCOA==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
+        <POI MapID="1510" xpos="813.873" ypos="379.439" zpos="347.692" type="legs.map.soto.skywatch.lanterns.wp" GUID="gm2szHyvU02ScTP870eCOA==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint (if uncontested)&#xa;&#xa;Or follow dashed line to POI."/>
         <Trail type="legs.map.soto.skywatch.lanterns.trail.4" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 4.trl" color="ffff33"/>
         <Trail type="legs.map.soto.skywatch.lanterns.trail.4" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 4b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="580.723" ypos="311.769" zpos="449.968" type="legs.map.soto.skywatch.lanterns.trail.4" GUID="Wa15900Ot0afDMdzCfTCZw=="/>
         <POI MapID="1510" xpos="573.127" ypos="311.776" zpos="440.278" type="legs.map.soto.skywatch.lanterns.trail.5" GUID="qTkMtd+sfUSD+MoH3awGDg=="/>
-        <POI MapID="1510" xpos="801.559" ypos="646.861" zpos="524.052" type="legs.map.soto.skywatch.lanterns.wp" GUID="YZmFp4heD02L4zDurlgXtQ==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
+        <POI MapID="1510" xpos="801.559" ypos="646.861" zpos="524.052" type="legs.map.soto.skywatch.lanterns.wp" GUID="YZmFp4heD02L4zDurlgXtQ==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint (if uncontested)&#xa;&#xa;Or follow dashed line."/>
         <Trail type="legs.map.soto.skywatch.lanterns.trail.5" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 5.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-290.738" ypos="527.788" zpos="403.156" type="legs.map.soto.skywatch.lanterns.wp" GUID="NUYsFNJH+kGIZnVy5dp4PQ==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
         <Trail type="legs.map.soto.skywatch.lanterns.trail.6" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 6.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-637.188" ypos="549.597" zpos="166.121" type="legs.map.soto.skywatch.lanterns.trail.6" GUID="vKp0UOhGiU2rMbj79PuBJQ=="/>
         <Trail type="legs.map.soto.skywatch.lanterns.trail.6" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 6b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <POI MapID="1510" xpos="327.385" ypos="240.425" zpos="-233.838" type="legs.map.soto.skywatch.lanterns.wp" GUID="lxp5YtWHt0+XLCDt53k/Sg==" copy="[&amp;BA4OAAA=]" copy-message="Astral Ward Encampment Waypoint"/>
+        <POI MapID="1510" xpos="327.385" ypos="240.425" zpos="-233.838" type="legs.map.soto.skywatch.lanterns.wp" GUID="lxp5YtWHt0+XLCDt53k/Sg==" copy="[&amp;BA4OAAA=]" copy-message="Astral Ward Encampment Waypoint (if uncontested)&#xa;&#xa;Or follow dashed line."/>
         <Trail type="legs.map.soto.skywatch.lanterns.trail.7" trailData="Data/Map Completion/SotO/Illuminating Skywatch Archipelago 7.trl" color="ffff33"/>
         <POI MapID="1510" xpos="249.857" ypos="257.256" zpos="-232.725" type="legs.map.soto.skywatch.lanterns.trail.7" GUID="1NlClfLHzUST21JIwCPzOw=="/>
         <POI MapID="1510" xpos="-388.735" ypos="276.767" zpos="-183.659" type="legs.map.soto.skywatch.lanterns.wp" GUID="ngdMZlpNm0ynpCSPMqJUvQ==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
@@ -193,7 +193,7 @@
         <POI MapID="1517" xpos="644.662" ypos="344.257" zpos="-50.5487" type="legs.map.soto.amnytas.main" GUID="gLT3v4ip3U+ZKYOhlCYngg==" iconFile="Data/Images/Icons/Blank.png" info="If Isgarren's Wards were Up follow dotted line" infoRange="10"/>
         <Trail type="legs.map.soto.amnytas.main" trailData="Data/Map Completion/SotO/Amnytas Lyhr Event.trl" color="FF9933"/>
         <POI MapID="1517" xpos="-164.945" ypos="394.786" zpos="572.389" type="legs.map.soto.amnytas.main" GUID="N5tND77V2EeZMhzBA5da1Q==" info="The POI within the Great Debat Hall requires:&#xA;EVENT - Escort Lyhr to the Great Hall so he can rebalance himself" iconFile="Data/Images/Icons/Blank.png" infoRange="2"/>
-        <Trail type="legs.map.soto.amnytas.main.hidden" trailData="Data/Map Completion/SotO/Amnytas Lyhr Workaround.trl" texture="Data/Images/trailarrow-small.png"/>
+        <Trail type="legs.map.soto.amnytas.main.hidden" trailData="Data/Map Completion/SotO/Amnytas Lyhr Workaround.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png"/>
         <POI MapID="1517" xpos="-37.8558" ypos="222.435" zpos="-559.479" type="legs.map.soto.amnytas.main.wp" GUID="2L1RSbcS+U6BhOPM1inMmw==" copy="[&amp;BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
         <POI MapID="1517" xpos="-643.037" ypos="245.318" zpos="-496.308" type="legs.map.soto.amnytas.main.wp" GUID="rUTO+5avZUGTmM4VgUO9sg==" copy="[&amp;BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
         <POI MapID="1517" xpos="-447.33" ypos="503.914" zpos="-99.4392" type="legs.map.soto.amnytas.main.wp" GUID="xH1wiahPVkmWt3CUWbblug==" copy="[&amp;BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>

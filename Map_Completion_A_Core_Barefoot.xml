@@ -207,6 +207,7 @@
         <POI MapID="34" xpos="-345.238" ypos="4.80721" zpos="695.858" type="legs.map.core.caledon.barefoot.2" GUID="BHO+SAvjrUG5z8eZqk9cww=="/>
         <POI MapID="34" xpos="-289.958" ypos="4.84873" zpos="-554.928" type="legs.map.core.caledon.barefoot.3" GUID="ZFkE3ZAokkyAA+5EIZCZwA=="/>
         <POI MapID="34" xpos="433.6463" ypos="13.59215" zpos="-647.4622" type="legs.map.core.caledon.barefoot.4" GUID="TMj9o53URUaHmro7jHDeZw=="/>
+        <POI MapID="34" xpos="480.7392" ypos="-45.8765" zpos="981.3925" type="legs.map.core.caledon.barefoot" GUID="qwUNXW1O6EuvFrBy8IUxKA==" iconFile="Data/Images/Icons/POI.png"/>
 
         <!-- The Grove -->
         <Trail type="legs.map.core.bfs" trailData="Data/Map Completion/Core/Barefoot/Shortcuts/Grove 1.trl" color="00FFFF"/>
@@ -488,6 +489,7 @@
         <POI MapID="50" xpos="508.096" ypos="41.5209" zpos="-209.802" type="legs.map.core.bfs.springer" GUID="83w+YUUbLUKmPsf/X/KGzw=="/>
         <POI MapID="50" xpos="439.043" ypos="20.8002" zpos="193.346" type="legs.map.core.bfs.springer" GUID="8mcLhDqbJUi5RyNHwgLNlA=="/>
 
+        <Trail type="legs.map.core.la.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/BCtoLA.trl" color="00FFFF" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="legs.map.core.la.barefoot.1" trailData="Data/Map Completion/Core/Barefoot/Lion's Arch 1.trl" color="00FFFF"/>
         <Trail type="legs.map.core.la.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Lion's Arch 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.la.barefoot.2" trailData="Data/Map Completion/Core/Barefoot/Lion's Arch 2b.trl" color="00FFFF" fadeNear="900" fadeFar="1200"/>
@@ -1052,7 +1054,7 @@
         <POI MapID="73" xpos="171.277" ypos="24.4141" zpos="-212.085" type="legs.map.core.bfs.springer" GUID="zjku4YxPS0GKQN+D7pwVdA=="/>
         <POI MapID="73" xpos="472.567" ypos="50.4123" zpos="-223.337" type="legs.map.core.bfs.springer" GUID="JleIae8VZkCiBhEyPuk9oQ=="/>
         
-        <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Bloodtide Hearts 1.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Bloodtide Hearts 1.trl" color="FFFF00" texture="Data/Images/Line - Heart Dark.png"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Bloodtide Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Bloodtide Hearts 3.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 4.trl" color="FFFF00"/>
@@ -1061,7 +1063,7 @@
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 7.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 8.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 9.trl" color="FFFF00"/>
-        <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 10.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 10.trl" color="FFFF00" texture="Data/Images/Line - Heart Dark.png"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 11.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 12.trl" color="FFFF00"/>
         <Trail type="legs.map.core.bloodtide.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Bloodtide Hearts 13.trl" color="FFFF00"/>
@@ -1105,7 +1107,7 @@
         <POI MapID="73" xpos="-250.8233" ypos="-79.19184" zpos="-160.5667" type="legs.map.core.bloodtide.barefoot.wp" GUID="hc7dJEktSUur89633/Qh+w==" copy="[&amp;BKkBAAA=]" copy-message="Barrier Camp Waypoint"/>
         <POI MapID="73" xpos="-308.5498" ypos="27.6287" zpos="-905.3812" type="legs.map.core.bloodtide.barefoot.wp" GUID="f/0rhe1EbES92fKFGOulDQ==" copy="[&amp;BKUBAAA=]" copy-message="Stormbluff Waypoint"/>
         <POI MapID="73" xpos="687.0632" ypos="-19.7756" zpos="-187.4419" type="legs.map.core.bloodtide.barefoot.wp" GUID="t+T4vVBMo0iyYXF9O+RBaw==" copy="[&amp;BKMBAAA=]" copy-message="Archen Foreland Waypoint"/>
-        <POI MapID="73" xpos="-89.93389" ypos="-126.2125" zpos="-626.4671" type="legs.map.core.bloodtide.barefoot.wp" GUID="I0ITDdkvSkqqlq8YxdI8dw==" copy="[&amp;BKoBAAA=]" copy-message="Firthside Vigil Waypoint"/>
+        <POI MapID="73" xpos="-89.93389" ypos="-126.2125" zpos="-626.4671" type="legs.map.core.bloodtide.barefoot.wp" GUID="I0ITDdkvSkqqlq8YxdI8dw==" copy="[&amp;BKoBAAA=]" copy-message="Firthside Vigil Waypoint" triggerrange="10"/>
         <POI MapID="73" xpos="540.4026" ypos="1.070557" zpos="-796.3473" type="legs.map.core.bloodtide.barefoot.wp" GUID="BL03o0tChkqn7C3r9ZeVWg==" copy="[&amp;BKwBAAA=]" copy-message="Bogside Camp Waypoint"/>
         <POI MapID="73" xpos="634.6416" ypos="-0.1042556" zpos="-799.9316" type="legs.map.core.bloodtide.barefoot.wp" GUID="X7A1un09Wky6QTbTOMGSaA==" copy="[&amp;BLABAAA=]" copy-message="Whisperwill Waypoint"/>
         <POI MapID="73" xpos="533.877" ypos="4.95393" zpos="-829.464" type="legs.map.core.bloodtide.barefoot.wp" GUID="/mf/jBtaJUSJzt5icB4wQg==" copy="Were you able to get the Vista and POI on Laughing Gull Island? If not, go to [&amp;BKgBAAA=] and follow dashed trail then return to [&amp;BLABAAA=]." copy-message="Were you able to get the Vista and POI on Laughing Gull Island?&#xA;If not, go to Laughing Gull Waypoint and follow dashed trail&#xA;then return to Whisperwill Waypoint"/>
@@ -1150,6 +1152,7 @@
         <POI MapID="53" xpos="545.8539" ypos="62.48859" zpos="420.7486" type="legs.map.core.sparkfly.barefoot.wp" GUID="RfIUJljw60Cw0e9zh8zAGQ==" copy="[&amp;BMcBAAA=]" copy-message="Saltflood Waypoint"/>
         <POI MapID="53" xpos="64.22327" ypos="3.017603" zpos="19.89563" type="legs.map.core.sparkfly.barefoot.wp" GUID="hjTYNsZYTkyx/GfrGdvYjA==" copy="[&amp;BM8BAAA=]" copy-message="Aleem's Waypoint"/>
         <POI MapID="53" xpos="581.4072" ypos="39.93998" zpos="10.27269" type="legs.map.core.sparkfly.barefoot.wp" GUID="66LjqrRbDE+ziZabi179jA==" copy="[&amp;BE0DAAA=]" copy-message="Dryground Village Waypoint"/>
+        
 
 
         <!-- Mount Maelstrom -->
@@ -1165,6 +1168,7 @@
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom Hearts 1.trl" color="FFFF00"/>
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom Hearts 2.trl" color="FFFF00"/>
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Mount Maelstrom Hearts 3.trl" color="FFFF00"/>
+        <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Mount Maelstrom Hearts 4 Dark.trl" color="FFFF00" texture="Data/Images/Line - Heart Dark.png"/>
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Mount Maelstrom Hearts 4.trl" color="FFFF00"/>
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom Hearts 5.trl" color="FFFF00"/>
         <Trail type="legs.map.core.maelstrom.barefoot.heartpath" trailData="Data/Map Completion/Core/Barefoot/Mount Maelstrom Hearts 6.trl" color="FFFF00"/>

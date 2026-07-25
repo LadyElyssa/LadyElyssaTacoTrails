@@ -21,9 +21,10 @@
 
         <Trail type="legs.gathering.ore.richcopper.queensdale" trailData="Data/Gathering/Rich Copper Nodes/Queensdale 1.trl"/>
         <Trail type="legs.gathering.ore.richcopper.queensdale" trailData="Data/Gathering/Rich Copper Nodes/Queensdale 2.trl"/>
+        <Trail type="legs.gathering.ore.richcopper.queensdale" trailData="Data/Gathering/Rich Copper Nodes/Queensdale 2 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.gathering.ore.richcopper.queensdale" trailData="Data/Gathering/Rich Copper Nodes/Queensdale 3 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="legs.gathering.ore.richcopper.queensdale" trailData="Data/Gathering/Rich Copper Nodes/Queensdale 3.trl"/>
-        <Trail type="legs.gathering.ore.richcopper.queensdale" trailData="Data/Gathering/Rich Copper Nodes/Queensdale 4.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="legs.gathering.ore.richcopper.queensdale" trailData="Data/Gathering/Rich Copper Nodes/Queensdale 4 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+
         <POI MapID="15" xpos="699.613" ypos="57.9323" zpos="-595.795" type="legs.gathering.ore.richcopper.node" GUID="/lt/CvWRnE64sezLNQAqTw==" iconFile="Data/Images/Icons/Blank.png" info="To open the door use the /threaten emote"/>
         <POI MapID="15" xpos="-151.6086" ypos="27.45947" zpos="-351.5689" type="legs.gathering.ore.richcopper.node" GUID="kZ9CX6zGwEiMCSthR99TqA=="/>
         <POI MapID="15" xpos="70.30322" ypos="24.49515" zpos="-107.516" type="legs.gathering.ore.richcopper.node" GUID="59vxnfCtbk66S9MOCYXKTg=="/>
@@ -36,7 +37,10 @@
 
         <POI MapID="15" xpos="343.517" ypos="-1.98898" zpos="719.955" type="legs.gathering.ore.richcopper.node" GUID="ORb9OCDFBkSzS1V//QoiOQ=="/>
         <POI MapID="15" xpos="342.3992" ypos="-3.961953" zpos="719.539" GUID="2RNAmtq+jkyROtTsx9LdGA==" copy="[&amp;BJgDAAA=]" copy-message="Guardpoint Decimus Waypoint&#xA;Plains of Ashford" type="legs.gathering.ore.richcopper.wp"/>
-
+        
+        <POI MapID="15" xpos="-798.816" ypos="1.8543" zpos="-601.243" type="legs.gathering.ore.richcopper.node" GUID="bpQQNAayOEq/hdU442AYTA=="/>
+        <POI MapID="15" xpos="-451.805" ypos="20.9965" zpos="-2.32287" type="legs.gathering.ore.richcopper.node" GUID="Qusvb+yIvkSrBOcmaM9sfA=="/>
+        <POI MapID="15" xpos="-626.342" ypos="31.6125" zpos="-383.776" type="legs.gathering.ore.richcopper.node" GUID="anZ3nfVXxkuZO789MN0IEg=="/>
 
 
         <!-- Ascalon -->
@@ -116,6 +120,7 @@
         <POI MapID="20" xpos="579.313" ypos="79.15112" zpos="-507.716" type="legs.gathering.ore.richgold.node" GUID="Fmqkf/K7Xka3ko6hq96QuA=="/>
         <POI MapID="20" xpos="-261.0453" ypos="24.36363" zpos="-1187.529" type="legs.gathering.ore.richgold.node" GUID="xWJsC+hyvkGc3cV8nfBXNw=="/>
         <POI MapID="20" xpos="466.3818" ypos="29.42093" zpos="265.3953" type="legs.gathering.ore.richgold.node" GUID="JkWFrYXep0+KY83IDLXTPQ=="/>
+        <POI MapID="20" xpos="595.459" ypos="-41.9728" zpos="-546.267" type="legs.gathering.ore.richgold.node" GUID="qiSQCZa1uEOgj6h1aRAtIg=="/>
 
         <Trail type="legs.gathering.ore.richgold.fields" trailData="Data/Gathering/Rich Gold Nodes/Fields of Ruin 1.trl"/>
         <POI MapID="21" xpos="879.821" ypos="17.8988" zpos="271.032" type="legs.gathering.ore.richgold.node" GUID="5JCu5IUyEUG9D6+/ma+OhA=="/>
@@ -142,6 +147,7 @@
         <POI MapID="32" xpos="-966.682" ypos="94.5452" zpos="-197.687" type="legs.gathering.ore.richiron.wp" GUID="fLuVgowoWkqxWtg6yUYTig==" copy="[&amp;BL8AAAA=]" copy-message="Snowhawk Landing Waypoint&#xA;Snowden Drifts"/>
         <Trail type="legs.gathering.ore.richiron.snowden" trailData="Data/Gathering/Rich Iron Nodes/Snowden 1.trl"/>
         <POI MapID="31" xpos="727.06" ypos="56.5476" zpos="59.4572" GUID="6aqbGnW5cEG8ZJxqDD3pbw==" type="legs.gathering.ore.richiron.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+        <POI MapID="31" xpos="-827.8256" ypos="59.65198" zpos="-510.8716" type="legs.gathering.ore.richiron.iron" GUID="JG1CPfRiMUColK9XNT1XYg=="/>
         <POI MapID="31" xpos="733.303" ypos="38.5794" zpos="-96.533" type="legs.gathering.ore.richiron.wp" GUID="ivOygCpXZkiK5ws/49I4Iw==" copy="[&amp;BGUCAAA=]" copy-message="Wyrmblood Waypoint&#xA;Dredgehaunt Cliffs"/>
         <Trail type="legs.gathering.ore.richiron.dredge" trailData="Data/Gathering/Rich Iron Nodes/Dredgehaunt 1.trl"/>
         <POI MapID="26" xpos="-412.882" ypos="40.2587" zpos="530.896" GUID="GIeZciYk5UK0GxI0ZOwYjA==" type="legs.gathering.ore.richiron.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -160,15 +166,18 @@
         
         <!-- Kessex Hills -->
         <Trail type="legs.gathering.ore.richiron.kessex" trailData="Data/Gathering/Rich Iron Nodes/Kessex 1.trl"/>
+        <Trail type="legs.gathering.ore.richiron.kessex" trailData="Data/Gathering/Rich Iron Nodes/Kessex 1 Alt.trl"/>
         <Trail type="legs.gathering.ore.richiron.kessex" trailData="Data/Gathering/Rich Iron Nodes/Kessex 2.trl"/>
-        <Trail type="legs.gathering.ore.richiron.kessex" trailData="Data/Gathering/Rich Iron Nodes/Kessex 2 Alt.trl" texture="Data/Images/Dashed Line with Shadow.png"/>
+
         <POI MapID="23" xpos="835.144" ypos="81.602" zpos="-278.013" GUID="GCsYUGzjikmagIVqojWH/w==" type="legs.gathering.ore.richiron.1"/>
-        <POI MapID="23" xpos="835.376" ypos="81.5294" zpos="-285.248" GUID="Ek3WP0nkSU63bVAIQf8ARQ==" type="legs.gathering.ore.richiron.2"/>
+        <POI MapID="23" xpos="833.9042" ypos="81.46146" zpos="-284.5934" GUID="Ek3WP0nkSU63bVAIQf8ARQ==" type="legs.gathering.ore.richiron.2"/>
+        <POI MapID="23" xpos="834.0868" ypos="81.44994" zpos="-281.9896" GUID="AV8nx/04oUGNMN2kw58dUw==" type="legs.gathering.ore.richiron.wp" copy="[&amp;BAQAAAA=]" copy-message="If no Iron Node at 1, try Overlord's Waypoint"/>
         <POI MapID="23" xpos="852.929" ypos="56.2584" zpos="-350.003" GUID="ej7vtADE2EWhP5cxn4sZKQ==" type="legs.gathering.ore.richiron.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
         <POI MapID="23" xpos="760.909" ypos="21.2192" zpos="-290.059" type="legs.gathering.ore.richiron.wp" GUID="OO6vzRkvMEyvPEZK+paflA==" copy="[&amp;BBIAAAA=]" copy-message="Cereboth Waypoint&#xA;Kessex Hills"/>
-        <POI MapID="23" xpos="820.3" ypos="85.9263" zpos="-394.477" type="legs.gathering.ore.richiron.wp" GUID="pStJ3RkBEUySrLX1Fp/Yiw==" copy="[&amp;BGMAAAA=]" copy-message="If No Rich Iron,&#xA;&#xA;Gallowfields Waypoint&#xA;Brisban Wildlands"/>
+        <POI MapID="23" xpos="833.5155" ypos="93.0222" zpos="-418.0129" type="legs.gathering.ore.richiron.wp" GUID="pStJ3RkBEUySrLX1Fp/Yiw==" copy="[&amp;BGMAAAA=]" copy-message="If No Rich Iron can be seen in the Cavern below,&#xA;&#xA;Gallowfields Waypoint&#xA;Brisban Wildlands"/>
         <POI MapID="23" xpos="796.153" ypos="35.4484" zpos="-519.017" type="legs.gathering.ore.richiron.wp" GUID="4CcVENDTa06cwlnXt8waUA==" copy="[&amp;BGMAAAA=]" copy-message="Gallowfields Waypoint&#xA;Brisban Wildlands"/>
-        <POI MapID="23" xpos="-1102.5" ypos="43.3404" zpos="24.0516" type="legs.gathering.ore.richiron.iron" GUID="yyczxSMyfUOMnZbUW/Ke/g=="/>
+        <POI MapID="23" xpos="-1102.5" ypos="43.3404" zpos="24.0516" type="legs.gathering.ore.richiron.iron" GUID="yyczxSMyfUOMnZbUW/Ke/g==" miniMapVisibility="0"/>
+        <POI MapID="23" xpos="-1101.138" ypos="42.19603" zpos="20.62542" type="legs.gathering.ore.richiron.wp" GUID="5Cc1gErLmE2fXh5vF4qliA==" copy="[&amp;BBIAAAA=]" copy-message="Cereboth Waypoint&#xa;&#xa;Follow path 2"/>
         
         <Trail type="legs.gathering.ore.richiron.brisban" trailData="Data/Gathering/Rich Iron Nodes/Brisban 1.trl"/>
         <POI MapID="54" xpos="-746.586" ypos="35.9339" zpos="506.548" type="legs.gathering.ore.richiron.wp" GUID="n7X8BFXfTEuAx5viYLOtiQ==" copy="[&amp;BMkBAAA=]" copy-message="Ocean's Gullet Waypoint&#xA;Sparkfly Fen"/>
@@ -248,7 +257,8 @@
         
         <!-- Gathering - Rich Mithril Nodes -->
 
-        <Trail type="legs.gathering.ore.richmithril.fireheart" trailData="Data/Gathering/Rich Mithril Nodes/Fireheart Rise.trl"/>
+        <Trail type="legs.gathering.ore.richmithril.fireheart" trailData="Data/Gathering/Rich Mithril Nodes/Fireheart Rise 1.trl"/>
+        <Trail type="legs.gathering.ore.richmithril.fireheart" trailData="Data/Gathering/Rich Mithril Nodes/Fireheart Rise 2.trl"/>
         <POI MapID="39" xpos="388.349" ypos="-141.654" zpos="-45.2428" type="legs.gathering.ore.richmithril.mithril" GUID="JAET3ywyskq5II5QSY67AQ=="/>
         <POI MapID="22" xpos="962.406" ypos="55.7064" zpos="520.276" type="legs.gathering.ore.richmithril.mithril" GUID="fktOm4Mdg0C5thy7kyy5tA=="/>
         <POI MapID="22" xpos="441.925" ypos="19.4886" zpos="343.876" GUID="A514mieGQkOdISpAJd3bXw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -259,14 +269,16 @@
         <POI MapID="1178" xpos="-541.67" ypos="0.122123" zpos="-348.162" GUID="DITSLfUCd0aJ5Lqtrfs3kw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
         <POI MapID="1178" xpos="-392.377" ypos="36.1463" zpos="-91.7398" type="legs.gathering.ore.richmithril.wp" GUID="W1sTTLNwGUiQQbOPvPlIig==" copy="[&amp;BHwCAAA=]" copy-message="Slough of Despond Waypoint&#xA;Frostgorge Sound"/>
         <POI MapID="1178" xpos="-392.24" ypos="36.1446" zpos="-91.9174" type="legs.gathering.ore.richmithril.mithril" GUID="PyYuiB7qlkKV5tv6EVGlaQ=="/>
-        <Trail type="legs.gathering.ore.richmithril.frostgorge" trailData="Data/Gathering/Rich Mithril Nodes/Frostgorge.trl"/>
+        <POI MapID="1178" xpos="-428.2249" ypos="-0.5729389" zpos="-130.1699" type="legs.gathering.ore.richmithril.mount" GUID="egyNRxqmr0KC3cEca+wO+w==" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+        <Trail type="legs.gathering.ore.richmithril.frostgorge" trailData="Data/Gathering/Rich Mithril Nodes/Frostgorge 2.trl"/>
+        <Trail type="legs.gathering.ore.richmithril.frostgorge" trailData="Data/Gathering/Rich Mithril Nodes/Frostgorge 1.trl"/>
         <POI MapID="30" xpos="-666.784" ypos="-11.9859" zpos="-721.046" type="legs.gathering.ore.richmithril.mount" GUID="WKsbwww4G0qdREYNGMoeQw==" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
         <POI MapID="30" xpos="-705.45" ypos="45.3442" zpos="-882.314" GUID="GHFsmkQ/3kiCOIZk9p6qBw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
         <POI MapID="30" xpos="118.073" ypos="5.44148" zpos="560.849" GUID="M6H+6e6RZ0KbZF7E6vo/Cg==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
         <POI MapID="30" xpos="150.565" ypos="1.73762" zpos="484.871" GUID="cemj66esIUWNOT6Gz0n6NA==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
         <POI MapID="30" xpos="142.021" ypos="37.8073" zpos="303.638" GUID="JICWa9pjZ0e5IA+2/IJSTw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
         <POI MapID="30" xpos="155.862" ypos="39.7539" zpos="313.622" GUID="Ijg/bhUgzUCcqSDTm7d8Tw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Springer.png"/>/>
-        <POI MapID="30" xpos="129.436" ypos="-7.05971" zpos="112.891" GUID="0F5GPjj+KEqgCGEB6AnmYg==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+        <POI MapID="30" xpos="135.3488" ypos="-5.516963" zpos="121.8903" GUID="0F5GPjj+KEqgCGEB6AnmYg==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
         <POI MapID="30" xpos="-564.018" ypos="-126.909" zpos="-628.506" type="legs.gathering.ore.richmithril.mithril" GUID="vO9RGJOoN06xicuuKOlfkg=="/>
         <POI MapID="30" xpos="-48.9831" ypos="-54.8871" zpos="170.16" type="legs.gathering.ore.richmithril.mithril" GUID="0L5nT+FQGEKiD/mWLFO0QA=="/>
         <POI MapID="30" xpos="-49.0823" ypos="-55.1043" zpos="170.686" type="legs.gathering.ore.richmithril.wp" GUID="RUOX7fegB0mghTlqBLeB8A==" copy="[&amp;BHkCAAA=]" copy-message="Groznev Waypoint"/>
@@ -279,9 +291,11 @@
         <POI MapID="65" xpos="-839.28" ypos="9.02099" zpos="158.549" type="legs.gathering.ore.richmithril.mithril" GUID="CW9Jl2VTnE6bUYxcLxncdQ=="/>
         <POI MapID="65" xpos="1122.23" ypos="16.0369" zpos="451.17" type="legs.gathering.ore.richmithril.mithril" GUID="peLFVDY4kEGIC7OFE6r/cQ=="/>
         <POI MapID="65" xpos="593.25" ypos="-47.6045" zpos="345.466" type="legs.gathering.ore.richmithril.mithril" GUID="9+BgTpWJ00yc9CM7CmOe7A=="/>
-        <Trail type="legs.gathering.ore.richmithril.cursedshore" trailData="Data/Gathering/Rich Mithril Nodes/Cursed Shore.trl"/>
-        <POI MapID="62" xpos="-34.7267" ypos="28.8853" zpos="-62.5139" GUID="Ow5oIeOYrESmg/T24SRcyw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
-        <POI MapID="62" xpos="-210.244" ypos="-0.793865" zpos="-8.97504" GUID="Hkxgeo5mMUOokAA9MxZsnw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+        <Trail type="legs.gathering.ore.richmithril.cursedshore" trailData="Data/Gathering/Rich Mithril Nodes/Cursed Shore 1.trl"/>
+        <Trail type="legs.gathering.ore.richmithril.cursedshore" trailData="Data/Gathering/Rich Mithril Nodes/Cursed Shore 2.trl"/>
+        <POI MapID="62" xpos="-35.48297" ypos="28.86582" zpos="-62.92499" GUID="Ow5oIeOYrESmg/T24SRcyw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+        <POI MapID="62" xpos="-187.0161" ypos="-0.8692569" zpos="11.1948" GUID="Hkxgeo5mMUOokAA9MxZsnw==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+        <POI MapID="62" xpos="-215.3096" ypos="-1.052645" zpos="-3.460652" GUID="lh6DQYoK6U+HQ+8LDiaiMg==" type="legs.gathering.ore.richmithril.mount" iconFile="Data/Images/Mounts/Skimmer_Dive.png"/>
         <POI MapID="62" xpos="-262.181" ypos="-69.1025" zpos="-117.568" type="legs.gathering.ore.richmithril.wp" GUID="gp7Oc/P9YEmBsAIDOYRnxg==" copy="[&amp;BOQGAAA=]" copy-message="Shipwreck Rock Waypoint&#xA;Cursed Shore"/>
         <POI MapID="62" xpos="318.208" ypos="-43.2913" zpos="-1145.01" type="legs.gathering.ore.richmithril.wp" GUID="wLt7j8HmLUGokqGVJVAT3w==" copy="[&amp;BHMKAAA=]" copy-message="For more Mithril and then Orichalcum&#xA;The Scourgeway Waypoint&#xA;The Desolation"/>
         <POI MapID="62" xpos="-261.813" ypos="-69.1415" zpos="-116.922" type="legs.gathering.ore.richmithril.mithril" GUID="R7NTeKFlLkqnAqUfPKUP2Q=="/>

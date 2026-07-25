@@ -141,7 +141,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="node" DisplayName="Rich Copper Nodes" iconFile="Data/Images/Icons/Ore-Copper.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="node" DisplayName="Rich Copper Nodes" iconFile="Data/Images/Icons/Ore-Copper-Outline.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="34"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="ashford" DisplayName="Plains of Ashford" color="D98D26"/>
@@ -156,7 +156,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="node" DisplayName="Rich Silver Nodes" iconFile="Data/Images/Icons/Ore-Silver.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="node" DisplayName="Rich Silver Nodes" iconFile="Data/Images/Icons/Ore-Silver-Outline.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="34"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="fields" DisplayName="Fields of Ruin (start)" color="ACC3DB"/>
@@ -176,7 +176,7 @@
                         <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="end" DisplayName="End" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                        <MarkerCategory name="node" DisplayName="Rich Gold Nodes" iconFile="Data/Images/Icons/Ore-Gold.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="node" DisplayName="Rich Gold Nodes" iconFile="Data/Images/Icons/Ore-Gold-Outline.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="34"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
                     <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes" color="FFD700"/>
                     <MarkerCategory name="fields" DisplayName="Fields of Ruin" color="FFD700"/>
@@ -192,7 +192,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="iron" DisplayName="Rich iron Nodes" iconFile="Data/Images/Icons/Ore-Iron.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="iron" DisplayName="Rich iron Nodes" iconFile="Data/Images/Icons/Ore-Iron-Outline.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="34"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     
@@ -221,7 +221,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="plat" DisplayName="Rich Platinum Nodes" iconFile="Data/Images/Icons/Ore-Platinum.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="plat" DisplayName="Rich Platinum Nodes" iconFile="Data/Images/Icons/Ore-Platinum-Outline.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="34"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
@@ -241,7 +241,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="mithril" DisplayName="Rich Mithril Nodes" iconFile="Data/Images/Icons/Ore-Mithril.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="mithril" DisplayName="Rich Mithril Nodes" iconFile="Data/Images/Icons/Ore-Mithril-Outline.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="34"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="ascalon" IsSeparator="1" DisplayName="ASCALON"/>
@@ -268,7 +268,7 @@
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="End" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="orich" DisplayName="Rich Orichalcum Nodes" iconFile="Data/Images/Icons/Ore-Orich.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="orich" DisplayName="Rich Orichalcum Nodes" iconFile="Data/Images/Icons/Ore-Orich-Outline.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="34"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48"/>
                     <MarkerCategory name="lws3" IsSeparator="1" DisplayName="LWS3: Glint's Legacy   "/>
@@ -296,7 +296,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="end" DisplayName="Toggle End Marker" iconFile="Data/Images/End.png" miniMapVisibility="0" mapVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="quartz" DisplayName="Toggle Quartz Nodes" iconFile="Data/Images/Square - Teal.png" mapVisibility="1" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="quartz" DisplayName="Toggle Quartz Nodes" iconFile="Data/Images/Icons/Ore-Outline.png" mapVisibility="1" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -1018,25 +1018,25 @@
 
             <!-- HEARTS -->
             <MarkerCategory name="heart" IsSeparator="1" DisplayName="HEART ITEMS"/>
-            <MarkerCategory name="alpha" DisplayName="Alpha Inquest Control Key">
+            <MarkerCategory name="alpha" DisplayName="Alpha Inquest Control Key" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
             </MarkerCategory>
-            <MarkerCategory name="meat" DisplayName="Barracuda Meat">
+            <MarkerCategory name="meat" DisplayName="Barracuda Meat" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
             </MarkerCategory>
-            <MarkerCategory name="lavender" DisplayName="Caledon Lavender (Start)">
+            <MarkerCategory name="lavender" DisplayName="Caledon Lavender (Start)" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
             </MarkerCategory>
-            <MarkerCategory name="scrap" DisplayName="Charr Scrap Metal">
+            <MarkerCategory name="scrap" DisplayName="Charr Scrap Metal" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 
@@ -1050,55 +1050,55 @@
                 <MarkerCategory name="fields" DisplayName="Fields of Ruin"/>
             </MarkerCategory>
 
-            <MarkerCategory name="crab" DisplayName="Crab Meat">
+            <MarkerCategory name="crab" DisplayName="Crab Meat" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
             </MarkerCategory>
-            <MarkerCategory name="treasure" DisplayName="Cursed Pirate Treasure">
+            <MarkerCategory name="treasure" DisplayName="Cursed Pirate Treasure" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
             </MarkerCategory>
-            <MarkerCategory name="hylek" DisplayName="Hylek Armor">
+            <MarkerCategory name="hylek" DisplayName="Hylek Armor" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="caledon" DisplayName="Caledon Forest"/>
             </MarkerCategory>
-            <MarkerCategory name="outfit" DisplayName="Pirate Outfit">
+            <MarkerCategory name="outfit" DisplayName="Pirate Outfit" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
             </MarkerCategory>
-            <MarkerCategory name="seraph" DisplayName="Seraph Badges">
+            <MarkerCategory name="seraph" DisplayName="Seraph Badges" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="kessex" DisplayName="Kessex Hills"/>
             </MarkerCategory>
-            <MarkerCategory name="skritt" DisplayName="Skritt Artifact">
+            <MarkerCategory name="skritt" DisplayName="Skritt Artifact" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
             </MarkerCategory>
-            <MarkerCategory name="root" DisplayName="Special Root">
+            <MarkerCategory name="root" DisplayName="Special Root" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
             </MarkerCategory>
-            <MarkerCategory name="supplies" DisplayName="Supplies">
+            <MarkerCategory name="supplies" DisplayName="Supplies" texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
             </MarkerCategory>
-            <MarkerCategory name="core" DisplayName="Volcanic Earth Elemental Core ">
+            <MarkerCategory name="core" DisplayName="Volcanic Earth Elemental Core " texture="Data/Images/trail-tiny.png">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
