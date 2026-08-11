@@ -1,10 +1,7 @@
-<!DOCTYPE OverlayData PUBLIC "" "https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.dtd">
-<OverlayData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD https://raw.githubusercontent.com/xrandox/Gw2_Marker_Pack_DTD_XSD/main/GW2MarkerPack.xsd"
-    xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
+<OverlayData>
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 26.5.1"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 26.5.2"/>
             
             <MarkerCategory name="line" IsSeparator="1" DisplayName="|"/>
 
@@ -38,6 +35,7 @@
                 <MarkerCategory name="12" DisplayName="12Tables"/>
                 <MarkerCategory name="emz" DisplayName="Emz"/>
                 <MarkerCategory name="joeyw" DisplayName="Joeyw at gw2shop.net [FR]"/>
+                <MarkerCategory name="levi" DisplayName="Levi"/>
                 <MarkerCategory name="mmm" DisplayName="Metallis"/>
                 <MarkerCategory name="neb" DisplayName="Nebylicza"/>
                 <MarkerCategory name="rediche" DisplayName="Rediche at rediche.stream"/>

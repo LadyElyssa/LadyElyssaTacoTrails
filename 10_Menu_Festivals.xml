@@ -117,26 +117,38 @@
             <!-- Festival of the Four Winds -->
 
             <MarkerCategory name="fotfw" DisplayName="Festival of the Four Winds" texture="Data/Images/trailarrow.png" animSpeed="0.5" fadeNear="1400" fadeFar="2000" bh-festival="festivalofthefourwinds">
-                <MarkerCategory name="cp" DisplayName="Crown Pavilion">
-                    <MarkerCategory name="race" DisplayName="Race - Pavilion Pursuit" texture="Data/Images/Dashed Gradient.png"/>
+                <MarkerCategory name="cp" IsSeparator="1" isplayName="Crown Pavilion"/>
+                <MarkerCategory name="bb" DisplayName="Bandit's Bane" inGameVisibility="0"/>
+                <MarkerCategory name="bbbbb" DisplayName="Boss Blitz: Boom-Boom Baines" iconFile="Data/Images/Festivals/Boom-Boom.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="bbhh" DisplayName="Boss Blitz: Halt Hablion" iconFile="Data/Images/Festivals/Halt Hablion.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="bbkk" DisplayName="Boss Blitz: Kill Kuraii" iconFile="Data/Images/Festivals/Kill Kuraii.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="bbpop" DisplayName="Boss Blitz: Put Out Pyroxis" iconFile="Data/Images/Festivals/Put Out Pyroxis.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="bbss" DisplayName="Boss Blitz: Slaughter Sparcus" iconFile="Data/Images/Festivals/Slaughter Sparcus.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="bbww" DisplayName="Boss Blitz: Wallop Wiggin" iconFile="Data/Images/Festivals/Wallop Wiggin.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="cc" DisplayName="Centaur Culler" inGameVisibility="0"/>
+                <MarkerCategory name="dd" DisplayName="Destroyer Destroyer" inGameVisibility="0"/>
+                <MarkerCategory name="flf" DisplayName="Flame Legion Finisher" inGameVisibility="0"/>
+                <MarkerCategory name="mm" DisplayName="Mantle Mauler" inGameVisibility="0"/>
+                <MarkerCategory name="oo" DisplayName="Ogre Obliterator"/>
+                <MarkerCategory name="pp" DisplayName="Pirate Purger" inGameVisibility="0"/>
+                <MarkerCategory name="race" DisplayName="Race - Pavilion Pursuit" texture="Data/Images/Dashed Gradient.png"/>
+
+                <MarkerCategory name="lc" IsSeparator="1" DisplayName="Labyrinthine Cliffs"/>
+                <MarkerCategory name="adventure" DisplayName="Adventure" texture="Data/Images/Trail Pointer - Small.png">
+                    <MarkerCategory name="expert" DisplayName="Griffon Expert"/>
+                    <MarkerCategory name="master" DisplayName="Griffon Master"/>
                 </MarkerCategory>
-                <MarkerCategory name="lc" DisplayName="Labyrinthine Cliffs">
-                    <MarkerCategory name="adventure" DisplayName="Adventure" texture="Data/Images/Trail Pointer - Small.png">
-                        <MarkerCategory name="expert" DisplayName="Griffon Expert"/>
-                        <MarkerCategory name="master" DisplayName="Griffon Master"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="lanterns" DisplayName="Dead Quaggan Lanterns" texture="Data/Images/Bubble Trail.png"/>
-                    <MarkerCategory name="dolyak" DisplayName="Race - Flying Dolyak" texture="Data/Images/Trails/Line - Fine with Shadow.png">
-                        <MarkerCategory name="leap" DisplayName="Assisted Leap" iconFile="Data/Images/Festivals/Assisted Leap.png" heightOffset="0" maxSize="24" alpha="1.0"/>
-                        <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
-                        <MarkerCategory name="pull" DisplayName="Lightning Pull" iconFile="Data/Images/Festivals/Lightning Pull.png" heightOffset="0" maxSize="24" alpha="1.0"/>
-                    </MarkerCategory>
-                    <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher" texture="Data/Images/Dashed Gradient.png" color="ff3300"/>
-                    <MarkerCategory name="skiff" DisplayName="Race - Labyrinthine Skiffs" texture="Data/Images/Trail Pointer - Small.png"/>
-                    <MarkerCategory name="skimmer" DisplayName="Race - Slalom Skimmer" texture="Data/Images/Trail Pointer - Small.png"/>
-                    <MarkerCategory name="quartz" DisplayName="Quartz Crystal" color="00CCFF"/>
-                    <MarkerCategory name="treasure" DisplayName="Treasure Hunt" texture="Data/Images/Dashed Line with Shadow.png"/>
+                <MarkerCategory name="lanterns" DisplayName="Dead Quaggan Lanterns" texture="Data/Images/Bubble Trail.png"/>
+                <MarkerCategory name="dolyak" DisplayName="Race - Flying Dolyak" texture="Data/Images/Trails/Line - Fine with Shadow.png">
+                    <MarkerCategory name="leap" DisplayName="Assisted Leap" iconFile="Data/Images/Festivals/Assisted Leap.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+                    <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+                    <MarkerCategory name="pull" DisplayName="Lightning Pull" iconFile="Data/Images/Festivals/Lightning Pull.png" heightOffset="0" maxSize="24" alpha="1.0"/>
                 </MarkerCategory>
+                <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher" texture="Data/Images/Dashed Gradient.png" color="ff3300"/>
+                <MarkerCategory name="skiff" DisplayName="Race - Labyrinthine Skiffs" texture="Data/Images/Trail Pointer - Small.png"/>
+                <MarkerCategory name="skimmer" DisplayName="Race - Slalom Skimmer" texture="Data/Images/Trail Pointer - Small.png"/>
+                <MarkerCategory name="quartz" DisplayName="Quartz Crystal" color="00CCFF"/>
+                <MarkerCategory name="treasure" DisplayName="Treasure Hunt" texture="Data/Images/Dashed Line with Shadow.png"/>
             </MarkerCategory>
 
 

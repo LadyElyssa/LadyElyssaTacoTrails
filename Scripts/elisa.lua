@@ -1,18 +1,9 @@
--- Lady Elyssa's Priory Historian Elisa Weekly Rotation
--- GW2Pathing Lua Script
+-- Priory Historian Elisa Weekly Rotation
 
-local Elisa = {}
+local Elisa = LadyElyssa.Elisa
 
--------------------------------------------------
--- Settings
--------------------------------------------------
-
--- Correct Elisa rotation anchor as determined from 
--- https://wiki.guildwars2.com/wiki/Talk:Priory_Historian_Elisa#Week_53
---
 -- Week 1 = Desert Highlands
 -- Friday 26 December 2025 08:00 UTC
--------------------------------------------------
 
 local anchor = os.time({
     year = 2025,
@@ -23,177 +14,157 @@ local anchor = os.time({
     sec = 0
 })
 
-
--------------------------------------------------
 -- 52 week Elisa rotation
--------------------------------------------------
+local weekData = {
 
-local rotation = {
+    [1]  = { map = "dh",  waypoint = "[&BJEKAAA=]" },
+    [2]  = { map = "dov", waypoint = "[&BHQKAAA=]" },
+    [3]  = { map = "co",  waypoint = "[&BLsKAAA=]" },
+    [4]  = { map = "er",  waypoint = "[&BFMKAAA=]" },
+    [5]  = { map = "td",  waypoint = "[&BNwKAAA=]" },
 
-    [1]="dh",
-    [2]="dov",
-    [3]="co",
-    [4]="er",
-    [5]="td",
+    [6]  = { map = "dh",  waypoint = "[&BGsKAAA=]" },
+    [7]  = { map = "dov", waypoint = "[&BHQKAAA=]" },
+    [8]  = { map = "co",  waypoint = "[&BLsKAAA=]" },
+    [9]  = { map = "er",  waypoint = "[&BFMKAAA=]" },
+    [10] = { map = "td",  waypoint = "[&BNwKAAA=]" },
 
-    [6]="dh",
-    [7]="dov",
-    [8]="co",
-    [9]="er",
-    [10]="td",
+    [11] = { map = "dh",  waypoint = "[&BGoKAAA=]" },
+    [12] = { map = "dov", waypoint = "[&BHQKAAA=]" },
+    [13] = { map = "co",  waypoint = "[&BLsKAAA=]" },
+    [14] = { map = "er",  waypoint = "[&BCgKAAA=]" },
+    [15] = { map = "td",  waypoint = "[&BNwKAAA=]" },
 
-    [11]="dh",
-    [12]="dov",
-    [13]="co",
-    [14]="er",
-    [15]="td",
+    [16] = { map = "dh",  waypoint = "[&BGoKAAA=]" },
+    [17] = { map = "dov", waypoint = "[&BA8KAAA=]" },
+    [18] = { map = "co",  waypoint = "[&BJMKAAA=]" },
+    [19] = { map = "er",  waypoint = "[&BGcKAAA=]" },
+    [20] = { map = "td",  waypoint = "[&BKMKAAA=]" },
 
-    [16]="dh",
-    [17]="dov",
-    [18]="co",
-    [19]="er",
-    [20]="td",
+    [21] = { map = "dh",  waypoint = "[&BJ0KAAA=]" },
+    [22] = { map = "dov", waypoint = "[&BO0KAAA=]" },
+    [23] = { map = "co",  waypoint = "[&BLsKAAA=]" },
+    [24] = { map = "er",  waypoint = "[&BCgKAAA=]" },
+    [25] = { map = "td",  waypoint = "[&BHcKAAA=]" },
 
-    [21]="dh",
-    [22]="dov",
-    [23]="co",
-    [24]="er",
-    [25]="td",
+    [26] = { map = "dh",  waypoint = "[&BJEKAAA=]" },
+    [27] = { map = "dov", waypoint = "[&BEoKAAA=]" },
+    [28] = { map = "co",  waypoint = "[&BJMKAAA=]" },
+    [29] = { map = "er",  waypoint = "[&BCgKAAA=]" },
+    [30] = { map = "td",  waypoint = "[&BMEKAAA=]" },
 
-    [26]="dh",
-    [27]="dov",
-    [28]="co",
-    [29]="er",
-    [30]="td",
+    [31] = { map = "dh",  waypoint = "[&BKQKAAA=]" },
+    [32] = { map = "dov", waypoint = "[&BEoKAAA=]" },
+    [33] = { map = "co",  waypoint = "[&BEAKAAA=]" },
+    [34] = { map = "er",  waypoint = "[&BCgKAAA=]" },
+    [35] = { map = "td",  waypoint = "[&BMEKAAA=]" },
 
-    [31]="dh",
-    [32]="dov",
-    [33]="co",
-    [34]="er",
-    [35]="td",
+    [36] = { map = "dh",  waypoint = "[&BKQKAAA=]" },
+    [37] = { map = "dov", waypoint = "[&BKUKAAA=]" },
+    [38] = { map = "co",  waypoint = "[&BEAKAAA=]" },
+    [39] = { map = "er",  waypoint = "[&BFMKAAA=]" },
+    [40] = { map = "td",  waypoint = "[&BNwKAAA=]" },
 
-    [36]="dh",
-    [37]="dov",
-    [38]="co",
-    [39]="er",
-    [40]="td",
+    [41] = { map = "dh",  waypoint = "[&BKQKAAA=]" },
+    [42] = { map = "dov", waypoint = "[&BEoKAAA=]" },
+    [43] = { map = "co",  waypoint = "[&BEAKAAA=]" },
+    [44] = { map = "er",  waypoint = "[&BGcKAAA=]" },
+    [45] = { map = "td",  waypoint = "[&BHMKAAA=]" },
 
-    [41]="dh",
-    [42]="dov",
-    [43]="co",
-    [44]="er",
-    [45]="td",
+    [46] = { map = "dh",  waypoint = "[&BKQKAAA=]" },
+    [47] = { map = "dov", waypoint = "[&BNAKAAA=]" },
+    [48] = { map = "co",  waypoint = "[&BLsKAAA=]" },
+    [49] = { map = "er",  waypoint = "[&BGcKAAA=]" },
+    [50] = { map = "td",  waypoint = "[&BHcKAAA=]" },
 
-    [46]="dh",
-    [47]="dov",
-    [48]="co",
-    [49]="er",
-    [50]="td",
-
-    [51]="dh",
-    [52]="td"
+    [51] = { map = "dh",  waypoint = "[&BJEKAAA=]" },
+    [52] = { map = "td",  waypoint = "[&BNwKAAA=]" }
 }
 
-
--- Get Week
+-- Get Current Week
 function Elisa.GetWeek()
 
-    local now = os.time()
-
-    local elapsed =
-        now - anchor
-
-
-    local weeks =
-        math.floor(
-            elapsed /
-            (7 * 24 * 3600)
-        )
-
+    local elapsed = os.time() - anchor
+    local weeks = math.floor(elapsed / (7 * 24 * 3600))
 
     return (weeks % 52) + 1
 
 end
 
--- Get XML Category Name
+-- Get Category Name
 function Elisa.GetCategoryName(week)
 
-    local map =
-        rotation[week]
+    local info = weekData[week]
 
-    if map == nil then
+    if not info then
         return nil
     end
 
-    return
-        "legs.vendors.elisa."
-        ..
-        map
-        ..
-        "."
-        ..
-        week
+    return "legs.vendors.elisa." .. info.map .. "." .. week
+
 end
 
+-- Cache Categories
+local categories = {}
 
--- Hide all Elisa routes
+for week = 1, #weekData do
+
+    local categoryName = Elisa.GetCategoryName(week)
+
+    if categoryName then
+        categories[week] = World:CategoryByType(categoryName)
+    end
+
+end
+
+-- Hide All Routes
 function Elisa.HideAll()
 
-    for week = 1,52 do
-        local categoryName =
-            Elisa.GetCategoryName(week)
-        if categoryName ~= nil then
-            local category =
-                World:CategoryByType(categoryName)
-            if category ~= nil then
-                category:Hide()
-            end
+    for week = 1, #categories do
+        local category = categories[week]
+
+        if category then
+            category:Hide()
         end
     end
+
 end
 
-
--- Show only current Elisa route
+-- Show Current Route
 function Elisa.ShowCurrent()
-    local week =
-        Elisa.GetWeek()
 
-    local categoryName =
-        Elisa.GetCategoryName(week)
+    local week = Elisa.GetWeek()
+    local category = categories[week]
 
-    if categoryName == nil then
+    if not category then
+        Debug:Print("Elisa category missing: " .. Elisa.GetCategoryName(week))
         return
     end
 
-    local category =
-        World:CategoryByType(categoryName)
+    category:Show()
 
-    if category ~= nil then
-        category:Show()
-        Debug:Print(
-            "Elisa active week "
-            ..
-            week
-            ..
-            " : "
-            ..
-            categoryName
-        )
-    else
-        Debug:Print(
-            "Elisa category missing: "
-            ..
-            categoryName
-        )
-    end
+    Debug:Print(
+        "Elisa active week "
+        .. week
+        .. ": "
+        .. Elisa.GetCategoryName(week)
+    )
+
 end
 
+-- Copy Current Waypoint
+function Elisa.Copy()
 
--- Refresh Menu
-function Elisa.Refresh()
     Elisa.HideAll()
     Elisa.ShowCurrent()
-end
 
--- Initial execution
-Elisa.Refresh()
+    local info = weekData[Elisa.GetWeek()]
+
+    if info and info.waypoint then
+        User.SetClipboard(
+            info.waypoint,
+            "Priory Historian Elisa location copied to clipboard"
+        )
+    end
+
+end

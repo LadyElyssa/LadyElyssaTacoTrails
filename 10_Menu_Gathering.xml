@@ -310,7 +310,7 @@
                 <MarkerCategory name="richquartz" DisplayName="Rich Quartz Crystal">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
-                    <MarkerCategory name="quartz" DisplayName="Rich Quartz Nodes" iconFile="Data/Images/Icons/Ore-R-Quartz.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="quartz" DisplayName="Rich Quartz Nodes" iconFile="Data/Images/Icons/Ore-R-Quartz.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>

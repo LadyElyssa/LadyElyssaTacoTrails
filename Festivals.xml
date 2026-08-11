@@ -236,56 +236,74 @@
         <POI MapID="326" xpos="339.271" ypos="252.945" zpos="474.363" GUID="LUNqqevJlkOWwLst0Q+DAQ==" type="legs.festivals.dragonbash.pinatawp.end"/>            
         
         <!-- Festival of the Four Winds -->
-        <Trail type="legs.festivals.fotfw.lc.adventure.expert" trailData="Data/Festivals/Festival of the Four Winds/Adventure Griffon Expert.trl"/>
-        <Trail type="legs.festivals.fotfw.lc.adventure.master" trailData="Data/Festivals/Festival of the Four Winds/Adventure Griffon Master.trl"/>
-        <Trail type="legs.festivals.fotfw.cp.race" trailData="Data/Festivals/Festival of the Four Winds/Pavilion Pursuit.trl"/>
-        <Trail type="legs.festivals.fotfw.lc.quartz" trailData="Data/Festivals/Festival of the Four Winds/Quartz Crystals 1.trl"/>
-        <Trail type="legs.festivals.fotfw.lc.quartz" trailData="Data/Festivals/Festival of the Four Winds/Quartz Crystals 2.trl"/>
-        
-        <Trail type="legs.festivals.fotfw.lc.dolyak" trailData="Data/Festivals/Festival of the Four Winds/Flying Dolyak.trl"/>
-        <POI MapID="922" xpos="89.3115" ypos="20.1777" zpos="254.341" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="PcKpoaJ3r0uQ4cmcj/h4/Q=="/>
-        <POI MapID="922" xpos="100.788" ypos="27.3403" zpos="255.709" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="dsA4Yk48jkWZIW8WD1mXhQ=="/>
-        <POI MapID="922" xpos="96.5472" ypos="37.3907" zpos="240.476" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="E+cubjYnA0CYMO8Z5Ywz6g=="/>
-        <POI MapID="922" xpos="164.315" ypos="47.7409" zpos="127.595" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="m4RtiFlpCUeg+U7tKLJE/g=="/>
-        <POI MapID="922" xpos="144.609" ypos="47.4462" zpos="107.735" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="snwNDmWF8kOTp0sqXLWRNg=="/>
-        <POI MapID="922" xpos="118.258" ypos="50.3815" zpos="143.333" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="FQqHHFuGcEix5+YphJm7uQ=="/>
-        <POI MapID="922" xpos="93.5657" ypos="47.6974" zpos="175.335" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="8UjLS6g6gkqAw/5vY4EYeA=="/>
-        <POI MapID="922" xpos="82.4519" ypos="59.6189" zpos="218.732" type="legs.festivals.fotfw.lc.dolyak.leap" GUID="A+WGPNHv00WBixqbUMetlA=="/>
-        <POI MapID="922" xpos="70.3228" ypos="63.0095" zpos="222.352" type="legs.festivals.fotfw.lc.dolyak.leap" GUID="YkiI5Y4h/UuwG9c/UbsrrA=="/>
-        <POI MapID="922" xpos="61.1392" ypos="66.0294" zpos="226.812" type="legs.festivals.fotfw.lc.dolyak.leap" GUID="8l8RVXalt0WV7iF8uqJ0aw=="/>
-        <POI MapID="922" xpos="52.0626" ypos="70.3871" zpos="229.131" type="legs.festivals.fotfw.lc.dolyak.leap" GUID="TUYK9181NkqrGg8BO3QUsA=="/>
-        <POI MapID="922" xpos="40.4978" ypos="75.17" zpos="229.555" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="nkIzseRBO0SiyJ/knQpGJg=="/>
-        <POI MapID="922" xpos="5.18109" ypos="78.8048" zpos="247.56" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="j/0RYX6NIE+w0XL5jEryuw=="/>
-        <POI MapID="922" xpos="-26.5586" ypos="76.2058" zpos="276.048" type="legs.festivals.fotfw.lc.dolyak.pull" GUID="7C5pau3k40iPZMPfO20CkA=="/>
-        <POI MapID="922" xpos="-57.4028" ypos="74.9668" zpos="281.754" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="G4vbaXmiIEGUJ3nhoLwRiQ=="/>
-        <POI MapID="922" xpos="-70.7924" ypos="84.304" zpos="269.758" type="legs.festivals.fotfw.lc.dolyak.leap" GUID="qUmSLls3y0iXCazybX3Ibw=="/>
-        <POI MapID="922" xpos="-63.344" ypos="90.742" zpos="275.939" type="legs.festivals.fotfw.lc.dolyak.pull" GUID="5fKxKm4NTEeBG2bztW2MKQ=="/>
-        <POI MapID="922" xpos="-98.7528" ypos="91.0662" zpos="278.801" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="ikuyBbyQSEG7XJ8P7mgqoA=="/>
-        <POI MapID="922" xpos="-110.558" ypos="99.617" zpos="271.282" type="legs.festivals.fotfw.lc.dolyak.leap" GUID="4NPrcnvbKkmebDqsE4GCNA=="/>
-        <POI MapID="922" xpos="-105.617" ypos="106.319" zpos="265.884" type="legs.festivals.fotfw.lc.dolyak.pull" GUID="IDqwZPqDDkiaZOObb40swA=="/>
-        <POI MapID="922" xpos="-99.8762" ypos="109.218" zpos="239.492" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="blUdMAQwtEyVxcJbutRiFA=="/>
-        <POI MapID="922" xpos="-78.79" ypos="111.317" zpos="205.412" type="legs.festivals.fotfw.lc.dolyak.pull" GUID="gSdROcqR0EyEkkDY5Nl29A=="/>
-        <POI MapID="922" xpos="-60.5318" ypos="112.209" zpos="179.196" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="YwP/t/OlEUChdSuxZP9XkQ=="/>
-        <POI MapID="922" xpos="109.286" ypos="44.2579" zpos="226.377" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="VRrXUqe2k0aE0Rv9w5pRiA=="/>
-        <POI MapID="922" xpos="131.826" ypos="48.7582" zpos="187.452" type="legs.festivals.fotfw.lc.dolyak.dash" GUID="vHpkXhmn8UuzW9czhtD0NA=="/>
+        <!-- Crown Pavillions -->
+        <Trail type="legs.festivals.fotfw.bb" trailData="Data/Festivals/Festival of the Four Winds/Bandit's Bane.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="legs.festivals.fotfw.cc" trailData="Data/Festivals/Festival of the Four Winds/Centaur Culler.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="legs.festivals.fotfw.dd" trailData="Data/Festivals/Festival of the Four Winds/Destroyer Destroyer.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="legs.festivals.fotfw.flf" trailData="Data/Festivals/Festival of the Four Winds/Flame Legion Finisher.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="legs.festivals.fotfw.mm" trailData="Data/Festivals/Festival of the Four Winds/Mantle Mauler.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="legs.festivals.fotfw.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 1.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.fotfw.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 2.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.fotfw.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 3.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.festivals.fotfw.pp" trailData="Data/Festivals/Festival of the Four Winds/Pirate Purger.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <POI MapID="929" xpos="115.22" ypos="47.7492" zpos="-8.63533" type="legs.festivals.fotfw.bbbbb" GUID="YwYzolI7CUWc5cRp2hSG+Q=="/>
+        <POI MapID="929" xpos="52.6863" ypos="14.235" zpos="-112.451" type="legs.festivals.fotfw.bbhh" GUID="v5jcLEnfwkKRbClJJ1gAMA=="/>
+        <POI MapID="929" xpos="-48.6115" ypos="9.99004" zpos="-114.691" type="legs.festivals.fotfw.bbpop" GUID="6Q5Aj+6Z/0yNJM3JnXrB0w=="/>
+        <POI MapID="929" xpos="-114.133" ypos="0.80216" zpos="-12.1507" type="legs.festivals.fotfw.bbww" GUID="5Hsh47qR10eTfRR/E9AhTA=="/>
+        <POI MapID="929" xpos="-50.8097" ypos="18.2063" zpos="98.4358" type="legs.festivals.fotfw.bbkk" GUID="dHbS1ErMBk+N6vKKNt/PGA=="/>
+        <POI MapID="929" xpos="54.5273" ypos="46.939" zpos="94.5883" type="legs.festivals.fotfw.bbss" GUID="TJa8EHFsxkKgBJZHCK1sxA=="/>
+        <Trail type="legs.festivals.fotfw.race" trailData="Data/Festivals/Festival of the Four Winds/Pavilion Pursuit.trl"/>
 
-        <Trail type="legs.festivals.fotfw.lc.skiff" trailData="Data/Festivals/Festival of the Four Winds/Labyrinthine Skiffs.trl"/>
-        <Trail type="legs.festivals.fotfw.lc.skimmer" trailData="Data/Festivals/Festival of the Four Winds/Slalom Skimmer.trl"/>
-        <Trail type="legs.festivals.fotfw.lc.effigy" trailData="Data/Festivals/Festival of the Four Winds/Effigy Extinguisher.trl"/>
-        <Trail type="legs.festivals.fotfw.lc.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH Start.trl" color="FFFFFF"/>
-        <POI MapID="922" xpos="9.39508" ypos="-18.4784" type="legs.festivals.fotfw.lc.treasure" zpos="186.76" GUID="1VqmPnlQp02mOsBQeYiOew==" iconFile="Data/Images/Numbers/1.png"/>
-        <POI MapID="922" xpos="-5.81723" ypos="4.56337" type="legs.festivals.fotfw.lc.treasure" zpos="185.513" GUID="9gcWqNftHEC4iOzxRHN0yg==" iconFile="Data/Images/Numbers/1.png"/>
-        <Trail type="legs.festivals.fotfw.lc.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH1.trl" color="FFFF00"/>
-        <POI MapID="922" xpos="-35.9047" ypos="0.736434" zpos="73.4305" type="legs.festivals.fotfw.lc.treasure" GUID="mzyLLt+KMkmcszsnt9Rjzg==" iconFile="Data/Images/Numbers/2.png"/>
-        <POI MapID="922" xpos="-95.4817" ypos="0.742733" zpos="-39.1213" type="legs.festivals.fotfw.lc.treasure" GUID="rvGw2llNw0ux4LDBde+5vA==" iconFile="Data/Images/Numbers/2.png"/>
-        <Trail type="legs.festivals.fotfw.lc.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH1-2.trl" color="FFFFFF"/>
-        <Trail type="legs.festivals.fotfw.lc.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH2.trl" color="FFFF00"/>
-        <POI MapID="922" xpos="103.556" ypos="1.37578" zpos="-177.001" type="legs.festivals.fotfw.lc.treasure" GUID="0zY5eIVZr02pyDxpHWmycA==" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" copy="[&amp;BBwHAAA=]" copy-message="Bazaar Docks Waypoint"/>
-        <POI MapID="922" xpos="-4.89828" ypos="4.56364" zpos="189.016" type="legs.festivals.fotfw.lc.treasure" GUID="DxJ+BzACfE66IZHqZUMG5g==" iconFile="Data/Images/Numbers/3.png"/>
-        <Trail type="legs.festivals.fotfw.lc.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH3.trl" color="FFFF00"/>
-        <POI MapID="922" xpos="314.318" ypos="-102.186" zpos="-23.6029" type="legs.festivals.fotfw.lc.lanterns" GUID="DGccRd9drUq/H6iHBLNfcA==" iconFile="Data/Images/Start.png"/>
-        <POI MapID="922" xpos="-268.587" ypos="-38.8685" zpos="313.582" type="legs.festivals.fotfw.lc.lanterns" GUID="8rtmyChhhUGWBMpxJZm2aQ==" iconFile="Data/Images/Finish.png"/>
-        <Trail type="legs.festivals.fotfw.lc.lanterns" trailData="Data/Festivals/Festival of the Four Winds/Dead Quaggan.trl" color="FFFFFF"/>
+        <!-- Labyrinthine Cliffs -->
+        <Trail type="legs.festivals.fotfw.adventure.expert" trailData="Data/Festivals/Festival of the Four Winds/Adventure Griffon Expert.trl"/>
+        <Trail type="legs.festivals.fotfw.adventure.master" trailData="Data/Festivals/Festival of the Four Winds/Adventure Griffon Master.trl"/>
+        <Trail type="legs.festivals.fotfw.quartz" trailData="Data/Festivals/Festival of the Four Winds/Quartz Crystals 1.trl"/>
+        <Trail type="legs.festivals.fotfw.quartz" trailData="Data/Festivals/Festival of the Four Winds/Quartz Crystals 2.trl"/>
+        
+        <Trail type="legs.festivals.fotfw.dolyak" trailData="Data/Festivals/Festival of the Four Winds/Flying Dolyak.trl"/>
+        <POI MapID="922" xpos="89.3115" ypos="20.1777" zpos="254.341" type="legs.festivals.fotfw.dolyak.dash" GUID="PcKpoaJ3r0uQ4cmcj/h4/Q=="/>
+        <POI MapID="922" xpos="100.788" ypos="27.3403" zpos="255.709" type="legs.festivals.fotfw.dolyak.dash" GUID="dsA4Yk48jkWZIW8WD1mXhQ=="/>
+        <POI MapID="922" xpos="96.5472" ypos="37.3907" zpos="240.476" type="legs.festivals.fotfw.dolyak.dash" GUID="E+cubjYnA0CYMO8Z5Ywz6g=="/>
+        <POI MapID="922" xpos="164.315" ypos="47.7409" zpos="127.595" type="legs.festivals.fotfw.dolyak.dash" GUID="m4RtiFlpCUeg+U7tKLJE/g=="/>
+        <POI MapID="922" xpos="144.609" ypos="47.4462" zpos="107.735" type="legs.festivals.fotfw.dolyak.dash" GUID="snwNDmWF8kOTp0sqXLWRNg=="/>
+        <POI MapID="922" xpos="118.258" ypos="50.3815" zpos="143.333" type="legs.festivals.fotfw.dolyak.dash" GUID="FQqHHFuGcEix5+YphJm7uQ=="/>
+        <POI MapID="922" xpos="93.5657" ypos="47.6974" zpos="175.335" type="legs.festivals.fotfw.dolyak.dash" GUID="8UjLS6g6gkqAw/5vY4EYeA=="/>
+        <POI MapID="922" xpos="82.4519" ypos="59.6189" zpos="218.732" type="legs.festivals.fotfw.dolyak.leap" GUID="A+WGPNHv00WBixqbUMetlA=="/>
+        <POI MapID="922" xpos="70.3228" ypos="63.0095" zpos="222.352" type="legs.festivals.fotfw.dolyak.leap" GUID="YkiI5Y4h/UuwG9c/UbsrrA=="/>
+        <POI MapID="922" xpos="61.1392" ypos="66.0294" zpos="226.812" type="legs.festivals.fotfw.dolyak.leap" GUID="8l8RVXalt0WV7iF8uqJ0aw=="/>
+        <POI MapID="922" xpos="52.0626" ypos="70.3871" zpos="229.131" type="legs.festivals.fotfw.dolyak.leap" GUID="TUYK9181NkqrGg8BO3QUsA=="/>
+        <POI MapID="922" xpos="40.4978" ypos="75.17" zpos="229.555" type="legs.festivals.fotfw.dolyak.dash" GUID="nkIzseRBO0SiyJ/knQpGJg=="/>
+        <POI MapID="922" xpos="5.18109" ypos="78.8048" zpos="247.56" type="legs.festivals.fotfw.dolyak.dash" GUID="j/0RYX6NIE+w0XL5jEryuw=="/>
+        <POI MapID="922" xpos="-26.5586" ypos="76.2058" zpos="276.048" type="legs.festivals.fotfw.dolyak.pull" GUID="7C5pau3k40iPZMPfO20CkA=="/>
+        <POI MapID="922" xpos="-57.4028" ypos="74.9668" zpos="281.754" type="legs.festivals.fotfw.dolyak.dash" GUID="G4vbaXmiIEGUJ3nhoLwRiQ=="/>
+        <POI MapID="922" xpos="-70.7924" ypos="84.304" zpos="269.758" type="legs.festivals.fotfw.dolyak.leap" GUID="qUmSLls3y0iXCazybX3Ibw=="/>
+        <POI MapID="922" xpos="-63.344" ypos="90.742" zpos="275.939" type="legs.festivals.fotfw.dolyak.pull" GUID="5fKxKm4NTEeBG2bztW2MKQ=="/>
+        <POI MapID="922" xpos="-98.7528" ypos="91.0662" zpos="278.801" type="legs.festivals.fotfw.dolyak.dash" GUID="ikuyBbyQSEG7XJ8P7mgqoA=="/>
+        <POI MapID="922" xpos="-110.558" ypos="99.617" zpos="271.282" type="legs.festivals.fotfw.dolyak.leap" GUID="4NPrcnvbKkmebDqsE4GCNA=="/>
+        <POI MapID="922" xpos="-105.617" ypos="106.319" zpos="265.884" type="legs.festivals.fotfw.dolyak.pull" GUID="IDqwZPqDDkiaZOObb40swA=="/>
+        <POI MapID="922" xpos="-99.8762" ypos="109.218" zpos="239.492" type="legs.festivals.fotfw.dolyak.dash" GUID="blUdMAQwtEyVxcJbutRiFA=="/>
+        <POI MapID="922" xpos="-78.79" ypos="111.317" zpos="205.412" type="legs.festivals.fotfw.dolyak.pull" GUID="gSdROcqR0EyEkkDY5Nl29A=="/>
+        <POI MapID="922" xpos="-60.5318" ypos="112.209" zpos="179.196" type="legs.festivals.fotfw.dolyak.dash" GUID="YwP/t/OlEUChdSuxZP9XkQ=="/>
+        <POI MapID="922" xpos="109.286" ypos="44.2579" zpos="226.377" type="legs.festivals.fotfw.dolyak.dash" GUID="VRrXUqe2k0aE0Rv9w5pRiA=="/>
+        <POI MapID="922" xpos="131.826" ypos="48.7582" zpos="187.452" type="legs.festivals.fotfw.dolyak.dash" GUID="vHpkXhmn8UuzW9czhtD0NA=="/>
+
+        <Trail type="legs.festivals.fotfw.skiff" trailData="Data/Festivals/Festival of the Four Winds/Labyrinthine Skiffs.trl"/>
+        <Trail type="legs.festivals.fotfw.skimmer" trailData="Data/Festivals/Festival of the Four Winds/Slalom Skimmer.trl"/>
+        <Trail type="legs.festivals.fotfw.effigy" trailData="Data/Festivals/Festival of the Four Winds/Effigy Extinguisher.trl"/>
+        <Trail type="legs.festivals.fotfw.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH Start.trl" color="FFFFFF"/>
+        <POI MapID="922" xpos="9.39508" ypos="-18.4784" type="legs.festivals.fotfw.treasure" zpos="186.76" GUID="1VqmPnlQp02mOsBQeYiOew==" iconFile="Data/Images/Numbers/1.png"/>
+        <POI MapID="922" xpos="-5.81723" ypos="4.56337" type="legs.festivals.fotfw.treasure" zpos="185.513" GUID="9gcWqNftHEC4iOzxRHN0yg==" iconFile="Data/Images/Numbers/1.png"/>
+        <Trail type="legs.festivals.fotfw.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH1.trl" color="FFFF00"/>
+        <POI MapID="922" xpos="-35.9047" ypos="0.736434" zpos="73.4305" type="legs.festivals.fotfw.treasure" GUID="mzyLLt+KMkmcszsnt9Rjzg==" iconFile="Data/Images/Numbers/2.png"/>
+        <POI MapID="922" xpos="-95.4817" ypos="0.742733" zpos="-39.1213" type="legs.festivals.fotfw.treasure" GUID="rvGw2llNw0ux4LDBde+5vA==" iconFile="Data/Images/Numbers/2.png"/>
+        <Trail type="legs.festivals.fotfw.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH1-2.trl" color="FFFFFF"/>
+        <Trail type="legs.festivals.fotfw.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH2.trl" color="FFFF00"/>
+        <POI MapID="922" xpos="103.556" ypos="1.37578" zpos="-177.001" type="legs.festivals.fotfw.treasure" GUID="0zY5eIVZr02pyDxpHWmycA==" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" copy="[&amp;BBwHAAA=]" copy-message="Bazaar Docks Waypoint"/>
+        <POI MapID="922" xpos="-4.89828" ypos="4.56364" zpos="189.016" type="legs.festivals.fotfw.treasure" GUID="DxJ+BzACfE66IZHqZUMG5g==" iconFile="Data/Images/Numbers/3.png"/>
+        <Trail type="legs.festivals.fotfw.treasure" trailData="Data/Festivals/Festival of the Four Winds/TH3.trl" color="FFFF00"/>
+        <POI MapID="922" xpos="314.318" ypos="-102.186" zpos="-23.6029" type="legs.festivals.fotfw.lanterns" GUID="DGccRd9drUq/H6iHBLNfcA==" iconFile="Data/Images/Start.png"/>
+        <POI MapID="922" xpos="-268.587" ypos="-38.8685" zpos="313.582" type="legs.festivals.fotfw.lanterns" GUID="8rtmyChhhUGWBMpxJZm2aQ==" iconFile="Data/Images/Finish.png"/>
+        <Trail type="legs.festivals.fotfw.lanterns" trailData="Data/Festivals/Festival of the Four Winds/Dead Quaggan.trl" color="FFFFFF"/>
         
         <!-- Halloween -->
 
