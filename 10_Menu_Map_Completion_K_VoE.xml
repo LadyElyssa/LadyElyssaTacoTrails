@@ -2,7 +2,7 @@
     <MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/Images/Trails/White Arrow Black Border.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
         <!-- MAP COMPLETION -->
         <MarkerCategory name="map" DisplayName="Map Completion" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="10">
-            <MarkerCategory name="voe" DisplayName="Visions of Eternity (WIP)">
+            <MarkerCategory name="voe" DisplayName="Visions of Eternity">
                 
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
                 
@@ -38,6 +38,46 @@
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                     </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="eg" DisplayName="Eternity's Garden">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" inGameVisibility="0" miniMapVisibility="1" mapDisplaySize="128"/>
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/Images/Icons/Blank.png"/>
+                <MarkerCategory name="heartpath" DisplayName="Heart Trails" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="trail" DisplayName="Trail Segment">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="6.0" autotrigger="true"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="lh" DisplayName="Leyspring Hollows">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Start.png" inGameVisibility="0" miniMapVisibility="1" mapDisplaySize="128"/>
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="heartinfo" DisplayName="Heart Info" iconFile="Data/Images/Icons/Blank.png"/>
+                <MarkerCategory name="heartpath" DisplayName="Heart Trails" texture="Data/Images/Line - Heart.png" animSpeed="0"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <!-- End Mounts -->
+                    <MarkerCategory name="trail" DisplayName="Trail Segment">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="6.0" autotrigger="true"/>
                 </MarkerCategory>
             </MarkerCategory>
             <!-- END JW MAP COMPLETION -->

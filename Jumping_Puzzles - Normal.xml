@@ -526,11 +526,21 @@
         <POI MapID="1622" xpos="-517.611" ypos="1.5334" zpos="72.666" type="legs.jp.temple.sign" GUID="SSMqdv6gPkGUB1FGwKXuKw=="/>
 
         <Trail type="legs.jp.arjp.eg" trailData="Data/Jumping Puzzles/VoE/Artificer's Rise.trl"/>
-        <POI MapID="1622" xpos="466.139" ypos="28.7889" zpos="130.004" type="legs.jp.arjp.sign" GUID="8JeveaHjNEuU8H2G+GK0NA=="/>
+        <POI MapID="1622" xpos="466.139" ypos="28.7889" zpos="130.004" type="legs.jp.arjp.sign" GUID="I2kmT9hWvESW1Gmr+wU/Eg=="/>
         <POI MapID="1622" xpos="449.773" ypos="36.8861" zpos="136.626" type="legs.jp.arjp.glider" GUID="xwizDtvRpE+IUmKatfXSeQ=="/>
         <POI MapID="1622" xpos="424.374" ypos="31.7963" zpos="138.56" type="legs.jp.arjp.glider" GUID="0fVu/FldakGZPymp/8cp+A=="/>
         <POI MapID="1622" xpos="277.85" ypos="41.8377" zpos="89.72" type="legs.jp.arjp.glider" GUID="DGahAV0P50OYGvRh/Fa4aQ=="/>
         <POI MapID="1622" xpos="254.707" ypos="95.2403" zpos="48.9993" type="legs.jp.arjp.glider" GUID="7+Lg9rl0/kC7v8VkuWm+1Q=="/>
+
+        <Trail type="legs.jp.icache.lh" trailData="Data/Jumping Puzzles/VoE/Inquest Cache.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" animSpeed="0.5"/>
+        <POI MapID="1633" xpos="368.966" ypos="103.358" zpos="-96.015" type="legs.jp.icache.sign" GUID="LyJ57m4j2kSprLomzn+U1g=="/>
+
+        <Trail type="legs.jp.cavern.lh" trailData="Data/Jumping Puzzles/VoE/Coleopteran Cavern 1.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dotted Trail.png" animSpeed="0.3"/>
+        <Trail type="legs.jp.cavern.lh" trailData="Data/Jumping Puzzles/VoE/Coleopteran Cavern 2.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dotted Trail.png" animSpeed="0.3"/>
+        <Trail type="legs.jp.cavern.lh" trailData="Data/Jumping Puzzles/VoE/Coleopteran Cavern 3.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dotted Trail.png" animSpeed="0.3"/>
+        <POI MapID="1633" xpos="-361.137" ypos="115.931" zpos="238.119" type="legs.jp.cavern.sign" GUID="H6uPPFtsVUOoCuglhHt7XA=="/>
+        <POI MapID="1633" xpos="-318.2344" ypos="119.9778" zpos="304.026" type="legs.jp.cavern.1" GUID="tTaZQ83WJUWuAIIXYM5Z6A=="/>
+        <POI MapID="1633" xpos="-317.2544" ypos="120.3878" zpos="305.9408" type="legs.jp.cavern.2" GUID="ceW1AtO0ykyUrBsv8fulsg=="/>
 
  
         <!-- JUMPING PUZZLES - WvW -->

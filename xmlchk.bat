@@ -1,1 +1,3 @@
 @python xmlchk.py
+
+@pause

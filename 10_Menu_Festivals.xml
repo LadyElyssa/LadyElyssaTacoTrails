@@ -117,7 +117,7 @@
             <!-- Festival of the Four Winds -->
 
             <MarkerCategory name="fotfw" DisplayName="Festival of the Four Winds" texture="Data/Images/trailarrow.png" animSpeed="0.5" fadeNear="1400" fadeFar="2000" bh-festival="festivalofthefourwinds">
-                <MarkerCategory name="cp" IsSeparator="1" isplayName="Crown Pavilion"/>
+                <MarkerCategory name="cp" IsSeparator="1" DisplayName="Crown Pavilion"/>
                 <MarkerCategory name="bb" DisplayName="Bandit's Bane" inGameVisibility="0"/>
                 <MarkerCategory name="bbbbb" DisplayName="Boss Blitz: Boom-Boom Baines" iconFile="Data/Images/Festivals/Boom-Boom.png" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="bbhh" DisplayName="Boss Blitz: Halt Hablion" iconFile="Data/Images/Festivals/Halt Hablion.png" inGameVisibility="0" mapDisplaySize="64"/>

@@ -379,6 +379,10 @@
                         <MarkerCategory name="jw" isSeparator="1" DisplayName="JANTHIR WILDS"/>
                         <MarkerCategory name="mb" DisplayName="Mistburned Barrens"/>
                     </MarkerCategory>
+                    <MarkerCategory name="bat" DisplayName="Ley Vampire Bat" iconFile="Data/Images/Ranger Pets/Ley Vampire Bat.png" mapDisplaySize="64">
+                        <MarkerCategory name="castora" isSeparator="1" DisplayName="CASTORA"/>
+                        <MarkerCategory name="leyspring" DisplayName="Leyspring Hollow"/>
+                    </MarkerCategory>
                     <MarkerCategory name="gazelle" DisplayName="Rock Gazelle" iconFile="Data/Images/Ranger Pets/Rock Gazelle.png" mapDisplaySize="64">
                         <MarkerCategory name="pof" isSeparator="1" DisplayName="PATH OF FIRE"/>
                         <MarkerCategory name="td" DisplayName="The Desolation"/>

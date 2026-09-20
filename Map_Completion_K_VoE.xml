@@ -4,6 +4,7 @@
 
         <!-- Shipwreck Strand -->
         <Trail type="legs.map.voe.ss" trailData="Data/Map Completion/VoE/Shipwreck Strand.trl" color="00FFFF"/>
+        <!-- Starlit Weald -->
         <Trail type="legs.map.voe.sw" trailData="Data/Map Completion/VoE/Starlit Weald 1.trl" color="00FFFF"/>
         <Trail type="legs.map.voe.sw" trailData="Data/Map Completion/VoE/Starlit Weald 2.trl" color="00FFFF"/>
         <Trail type="legs.map.voe.sw" trailData="Data/Map Completion/VoE/Starlit Weald 3 Isgarren.trl" color="00FFFF"/>
@@ -11,7 +12,53 @@
         <POI MapID="1593" xpos="850.578" ypos="1.33342" zpos="-374.414" type="legs.map.voe.sw.trail.1" GUID="t27wNqPHwUuamzw8A1ihCw=="/>
         <POI MapID="1593" xpos="-78.4018" ypos="5.67695" zpos="369.821" type="legs.map.voe.sw.trail.2" GUID="sEtzLpyD90uumtnAgW0NvA==" info="REQUIRES EVENT: Lost Basilica with Isgarren" infoRange="5"/>
         <POI MapID="1593" xpos="-587.5016" ypos="81.5501" zpos="308.7113" type="legs.map.voe.sw" GUID="vUA6Cj7OiUebWdjF9pBTMQ==" iconFile="Data/Images/Isgarren.png" minSize="32" maxSize="48"/>
-        
-                
+        <!-- Eternity's Garden -->
+        <Trail type="legs.map.voe.eg" trailData="Data/Map Completion/VoE/Eternity's Garden 1 Alt.trl" color="00FFFF" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="legs.map.voe.eg" trailData="Data/Map Completion/VoE/Eternity's Garden 1.trl" color="00FFFF"/>
+        <Trail type="legs.map.voe.eg" trailData="Data/Map Completion/VoE/Eternity's Garden 1.trl" color="00FFFF"/>
+        <POI MapID="1622" xpos="-229.8121" ypos="0.8429194" zpos="505.6013" type="legs.map.voe.eg.wp" GUID="QwpJOJGuFEKH01hyPmS0Og==" copy="[&amp;BOQPAAA=]" copy-message="Deepwood Outpost Waypoint"/>
+        <POI MapID="1622" xpos="-82.1236" ypos="18.3612" zpos="-688.072" type="legs.map.voe.eg.mount.skyscale" GUID="zUouYp0OekSogY0f4/0TBA=="/>
+        <POI MapID="1622" xpos="-263.883" ypos="2.34752" zpos="-608.031" type="legs.map.voe.eg.mount.skyscale" GUID="oE+sIN0uLU+W6kTvrFTVzg=="/>
+        <POI MapID="1622" xpos="-478.923" ypos="21.1153" zpos="-655.882" type="legs.map.voe.eg.mount.skyscale" GUID="+ZKhfx+DBEGjllwIOktIOw=="/>
+        <POI MapID="1622" xpos="-601.645" ypos="54.3812" zpos="-553.829" type="legs.map.voe.eg.mount.skyscale" GUID="UrWep7rgyEGfE5qR7S39DQ=="/>
+        <POI MapID="1622" xpos="-403.682" ypos="0.849717" zpos="-62.9723" type="legs.map.voe.eg.mount.skyscale" GUID="1PEzWifSjUOqYlQ7UDABjw=="/>
+        <POI MapID="1622" xpos="-406.999" ypos="16.218" zpos="-148.785" type="legs.map.voe.eg.mount.skyscale" GUID="qnWt4uPxQ06Qyx51T7HTLQ=="/>
+        <POI MapID="1622" xpos="-30.5296" ypos="0.914437" zpos="-616.587" type="legs.map.voe.eg.mount.skyscale" GUID="MF/knS4cSE67dNa+fWucMw=="/>
+        <POI MapID="1622" xpos="396.559" ypos="55.711" zpos="-685.644" type="legs.map.voe.eg.mount.skyscale" GUID="ImpQMR1i+0eUWdyzrwHUsw=="/>
+        <POI MapID="1622" xpos="439.005" ypos="5.29006" zpos="-499.133" type="legs.map.voe.eg.mount.skyscale" GUID="Fygt+nPqhEKfNsHiDWiQIA=="/>
+        <POI MapID="1622" xpos="479.805" ypos="61.3286" zpos="-406.337" type="legs.map.voe.eg.mount.skyscale" GUID="YfbBfRiZ30+naCCuWlsHTQ=="/>
+        <POI MapID="1622" xpos="545.018" ypos="-0.128397" zpos="-66.245" type="legs.map.voe.eg.mount.skyscale" GUID="/L8LbiTaWESEUyHlZsSlmA=="/>
+        <POI MapID="1622" xpos="503.837" ypos="1.09464" zpos="322.159" type="legs.map.voe.eg.mount.skyscale" GUID="t+sFwNXDxUyt39ejCUfmQg=="/>
+        <POI MapID="1622" xpos="545.482" ypos="164.258" zpos="490.996" type="legs.map.voe.eg.mount.skyscale" GUID="3YHzeZI4AEWfDJkoF2KDZA=="/>
+        <POI MapID="1622" xpos="605.405" ypos="57.8331" zpos="835.71" type="legs.map.voe.eg.mount.skyscale" GUID="NroFyF5cskqoS4YlOIgKOA=="/>
+        <POI MapID="1622" xpos="209.056" ypos="523.242" zpos="789.246" type="legs.map.voe.eg.mount.griffon" GUID="kJVyeZsL6k64XMJYGUW6NQ=="/>
+        <POI MapID="1622" xpos="101.64" ypos="133.342" zpos="492.11" type="legs.map.voe.eg.mount.griffon" GUID="Mxitt2FEukK183dzZ4+hOA=="/>
+        <POI MapID="1622" xpos="256.18" ypos="0.695575" zpos="352.79" type="legs.map.voe.eg.mount.skimmer" GUID="QLMBrCjtm0aWb8XelG/TKQ=="/>
+        <POI MapID="1622" xpos="48.6179" ypos="0.377963" zpos="260.77" type="legs.map.voe.eg.mount.skimmer" GUID="JLA+QibY6UKEx1BRUJ1gBg=="/>
+        <POI MapID="1622" xpos="-240.425" ypos="1.02403" zpos="348.423" type="legs.map.voe.eg.mount.skyscale" GUID="As8IVATXk0ut1qoVkiJmwg=="/>
+        <POI MapID="1622" xpos="-448.128" ypos="61.3516" zpos="512.241" type="legs.map.voe.eg.mount.skyscale" GUID="LqUDUWxYxEOdiaQaf0Xx/w=="/>
+        <POI MapID="1622" xpos="-1.30294" ypos="140.06" zpos="733.597" type="legs.map.voe.eg.mount.skyscale" GUID="KhOiOURlk0qzV9Ctf9bKWA=="/>
+        <POI MapID="1622" xpos="191.626" ypos="31.8588" zpos="-36.9295" type="legs.map.voe.eg.mount.skyscale" GUID="PDXZigUTQkOa+/a7O6f1lw=="/>
+        <POI MapID="1622" xpos="37.9853" ypos="88.4885" zpos="-5.01821" type="legs.map.voe.eg.mount.griffon" GUID="L7B9EvLdaUWHFp2LCcUxYg=="/>
+
+        <!-- Leyspring Hollows -->
+        <Trail type="legs.map.voe.lh" trailData="Data/Map Completion/VoE/Leyspring Hollows 1.trl" color="00FFFF"/>
+        <POI MapID="1633" xpos="-265.215" ypos="-1.58297" zpos="-149.59" type="legs.map.voe.lh" GUID="RHQwlK8UukSFP7rB0JA5Ow==" iconFile="Data/Images/Icons/Orb - Blue.png" fadeNear="1200" fadeFar="2000" heightOffset="4" minSize="32" maxSize="32"/>
+        <POI MapID="1633" xpos="-207.186" ypos="-0.56874" zpos="-209.609" type="legs.map.voe.lh" GUID="MvBztXpQJkqJivlEIatRZA==" iconFile="Data/Images/Icons/Orb - Green.png" fadeNear="1200" fadeFar="2000" heightOffset="4" minSize="32" maxSize="32"/>
+        <POI MapID="1633" xpos="-213.858" ypos="-0.0751777" zpos="-152.726" type="legs.map.voe.lh" GUID="eHmbxuvBCUmpfel2eVqCjw==" iconFile="Data/Images/Icons/Orb - Purple.png" fadeNear="1200" fadeFar="2000" heightOffset="4" minSize="32" maxSize="32"/>
+        <POI MapID="1633" xpos="-252.961" ypos="-1.50628" zpos="-193.067" type="legs.map.voe.lh" GUID="WeeQ6+IcjUyOvGfwHQU1lw==" iconFile="Data/Images/Icons/Orb - Red.png" fadeNear="1200" fadeFar="2000" heightOffset="4" minSize="32" maxSize="32"/>        
+        <POI MapID="1633" xpos="24.77376" ypos="56.18155" zpos="397.3907" type="legs.map.voe.lh.wp" GUID="UkjUzFGRlESLRuL93WVP1A==" copy="[&amp;BDYQAAA=]" copy-message="Hall of Assemblage Waypoint for Meta"/>
+        <POI MapID="1633" xpos="538.676" ypos="37.4654" zpos="-486.914" type="legs.map.voe.lh.mount.skyscale" GUID="z80mcrer2UW+72s86aNO9Q=="/>
+        <POI MapID="1633" xpos="846.268" ypos="135.673" zpos="-234.999" type="legs.map.voe.lh.mount.skyscale" GUID="zLFBefWi8EaS2mt57ljA8g=="/>
+        <POI MapID="1633" xpos="744.737" ypos="159.218" zpos="105.483" type="legs.map.voe.lh.mount.skyscale" GUID="5UN6ntS2BEizORC70/zulg=="/>
+        <POI MapID="1633" xpos="80.6045" ypos="19.5912" zpos="-584.435" type="legs.map.voe.lh.mount.skyscale" GUID="ja1c8zIfWUmqfbrlVVRADQ=="/>
+        <POI MapID="1633" xpos="94.1267" ypos="19.5968" zpos="-613.46" type="legs.map.voe.lh.mount.skimmer" GUID="DrIT3WGIUEqtvHlc/B8/gA=="/>
+        <POI MapID="1633" xpos="-224.046" ypos="-0.206701" zpos="-520.263" type="legs.map.voe.lh.mount.skyscale" GUID="oSouhGLoFUaqEWUpuzrMhg=="/>
+        <POI MapID="1633" xpos="-245.222" ypos="83.3488" zpos="-152.272" type="legs.map.voe.lh.mount.skyscale" GUID="sy3NsNbwrki13pexIoPIoQ=="/>
+        <POI MapID="1633" xpos="-532.956" ypos="71.3324" zpos="-172.821" type="legs.map.voe.lh.mount.skyscale" GUID="RDaNW7KTfUSP8wbjZM0o/w=="/>
+        <POI MapID="1633" xpos="-545.791" ypos="115.479" zpos="23.8266" type="legs.map.voe.lh.mount.skyscale" GUID="qRqfJ/PvS0GC3SWs5Ax8/g=="/>
+        <POI MapID="1633" xpos="-510.723" ypos="124.772" zpos="16.5446" type="legs.map.voe.lh.mount.skyscale" GUID="boBwXbikO0uEbBsdjDA3Kw=="/>
+
+
     </POIs>
 </OverlayData>

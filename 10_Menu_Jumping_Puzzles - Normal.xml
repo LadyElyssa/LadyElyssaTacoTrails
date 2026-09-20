@@ -468,9 +468,24 @@
                 <MarkerCategory name="arjp" DisplayName="Artificer's Rise">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Glider.png" minSize="16" maxSize="24" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
-                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/VoE/Artificer's Rise.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/VoE/Artificers Rise.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
                     <MarkerCategory name="eg" DisplayName="Eternity's Garden"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="icache" DisplayName="Inquest Cache">
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" fadeNear="900" fadeFar="1200"/>
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/VoE/Inquest Cache.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="lh" DisplayName="Leyspring Hollows"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="cavern" DisplayName="Coleopteran Cavern">
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/VoE/Coleopteran Cavern.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="1" DisplayName="Path 1" iconFile="Data/Images/Numbers/n1.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" fadeNear="900" fadeFar="1200" heightOffset="0.5"/>
+                    <MarkerCategory name="2" DisplayName="Path 2" iconFile="Data/Images/Numbers/n2.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" fadeNear="900" fadeFar="1200" heightOffset="0.5"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="lh" DisplayName="Leyspring Hollows"/>
                 </MarkerCategory>
 
             <MarkerCategory name="wvw" IsSeparator="1" DisplayName="WORLD VS. WORLD"/>

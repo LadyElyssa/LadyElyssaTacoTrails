@@ -3362,5 +3362,50 @@
         <POI MapID="1622" xpos="606.8276" ypos="52.47076" zpos="449.2027" type="legs.chests.magic.eg.fm.6keys" GUID="kTRFA7CxJ0qOfTHoHU6YSQ=="/>
 
         <POI MapID="1622" xpos="440.5818" ypos="3.964462" zpos="161.3773" type="legs.chests.magic.eg.fm.relog" GUID="IJ0+M0i4T0ulRV0RoF5YJA=="/>
+
+        <!-- Leyspring Hollows -->
+
+        <Trail type="legs.chests.magic.lh.fast" trailData="Data/Chests/VoE/LH/Fast 1.trl" texture="Data/Images/Trails/Green Gold Shaded.png"/>
+        <Trail type="legs.chests.magic.lh.fast" trailData="Data/Chests/VoE/LH/Fast 2.trl" texture="Data/Images/Trails/Green Gold Shaded.png"/>
+        <POI MapID="1633" xpos="169.381" ypos="63.2304" zpos="-414.996" type="legs.chests.magic.lh.fast.start" GUID="xrKkF7A5TEC0oew03y82Kg=="/>
+        <POI MapID="1633" xpos="769.935" ypos="158.3736" zpos="-103.5827" type="legs.chests.magic.lh.fast.wp" GUID="MiW6iVsX1keb6g30jQuvoA==" copy="[&amp;BB8QAAA=]" copy-message="OPTIONAL: Doyen's Adytum Waypoint"/>
+        <POI MapID="1633" xpos="422.929" ypos="61.9744" zpos="-407.002" type="legs.chests.magic.mirror" GUID="26FNXyD23UORCkBo3FcD2g=="/>
+        <POI MapID="1633" xpos="327.063" ypos="74.2457" zpos="-531.209" type="legs.chests.magic.mirror" GUID="IiKYiLW7oUqJidyCz08PRg=="/>
+        <POI MapID="1633" xpos="-573.364" ypos="71.4464" zpos="-272.236" type="legs.chests.magic.mirror" GUID="HxLRLsID1UmYNFXoZjf2Xg=="/>
+        <POI MapID="1633" xpos="-668.1193" ypos="92.98703" zpos="213.1599" type="legs.chests.magic.mirror" GUID="qJOyHKutX0GjQBMfB9B/zw=="/>
+        <POI MapID="1633" xpos="424.556" ypos="61.9726" zpos="-413.779" type="legs.mastery.voemp.lh.fast.skyscale" GUID="axEi7I1+X0Wam9T3JwrmgA=="/>
+        <POI MapID="1633" xpos="451.721" ypos="50.9358" zpos="-640.693" type="legs.mastery.voemp.lh.fast.skyscale" GUID="f8rpkSsgwEK9sLAG/Msvlg=="/>
+        <POI MapID="1633" xpos="-664.3111" ypos="92.394" zpos="207.8406" type="legs.mastery.voemp.lh.fast.skyscale" GUID="1xVf/kRNB0SNczfRz854gg=="/>
+        <POI MapID="1633" xpos="-666.623" ypos="92.6417" zpos="210.68" type="legs.mastery.voemp.lh.fast.skimmer" GUID="o+nBHH8eEkWHj8fGFPXVBQ=="/>
+        <POI MapID="1633" xpos="-587.384" ypos="52.2535" zpos="-51.6051" type="legs.chests.magic.lh.fast.skimmer" GUID="Ss9Bt+WO90OFBJJ2uGhWag=="/>
+        <POI MapID="1633" xpos="-433.88" ypos="82.8004" zpos="-157.11" type="legs.mastery.voemp.lh.mount.skyscale" GUID="bqByhBkHVEC5wNY4qk06cQ=="/>
+        <POI MapID="1633" xpos="184.183" ypos="63.2057" zpos="-404.134" type="legs.chests.magic.lh.fast.warclaw" GUID="FCkZBr+EwE+dtg03A2+45w=="/>
+        <POI MapID="1633" xpos="453.354" ypos="64.8851" zpos="-509.435" type="legs.chests.magic.lh.fast.warclaw" GUID="k1gE0LX70U64veIzhgHP5w=="/>
+        <POI MapID="1633" xpos="330.15" ypos="73.8292" zpos="-535.547" type="legs.mastery.voemp.lh.mount.skyscale" GUID="Cexc0Gg/9kG0GRHUOfj+Ew=="/>
+        <POI MapID="1633" xpos="739.957" ypos="159.104" zpos="-165.117" type="legs.chests.magic.lh.fast.skimmer" GUID="3O5KUwHWckmwWd/B404W0g=="/>
+        <POI MapID="1633" xpos="-566.87" ypos="71.5509" zpos="-270.669" type="legs.chests.magic.lh.fast.warclaw" GUID="vKePlUWdIEiBR1CxvVj9ag=="/>
+        <POI MapID="1633" xpos="-440.746" ypos="98.9159" zpos="-126.292" type="legs.chests.magic.lh.fast.warclaw" GUID="iJGUKmX/a0OwxbCS21jAYw=="/>
+        <POI MapID="1633" xpos="-440.746" ypos="100.4159" zpos="-126.292" type="legs.chests.magic.lh.fast.skyscale" GUID="BUpyAjXG2UW2KFkKdxuMxQ=="/>
+        <POI MapID="1633" xpos="-618.839" ypos="114.253" zpos="351.674" type="legs.chests.magic.lh.fast.warclaw" GUID="eTVZSMioRk2J0VAJfHePUw=="/>
+        <POI MapID="1633" xpos="-618.839" ypos="115.753" zpos="351.674" type="legs.chests.magic.lh.fast.jackal" GUID="NH26617DjEGkQeiadEL2Sw=="/>
+        <POI MapID="1633" xpos="-663.499" ypos="92.3983" zpos="208.137" type="legs.chests.magic.lh.fast.skimmer" GUID="H6Aa8FJZmUS0+JE3PFp2xw=="/>
+        <POI MapID="1633" xpos="-433.5376" ypos="82.80383" zpos="-157.6091" type="legs.chests.magic.lh.fast.skyscale" GUID="Q21wMelyWkmDB3LxFXclXA=="/>
+
+        <!--
+        <POI MapID="1633" xpos="449.246" ypos="51.737" zpos="-638.412" type="legs.chests.magic.medium" GUID="dDXexK6nhkSepNbYWN4qxw=="/>
+        <POI MapID="1633" xpos="449.246" ypos="53.2364" zpos="-638.412" type="legs.chests.magic.large" GUID="6lmP4d6vhEqDL2ei+1le9w=="/>
+        <POI MapID="1633" xpos="663.342" ypos="168.431" zpos="-300.08" type="legs.chests.magic.medium" GUID="CwYOvGEZJ02FoNDBw1dmGQ=="/>
+        <POI MapID="1633" xpos="771.337" ypos="158.533" zpos="-101.096" type="legs.chests.magic.medium" GUID="+4YquV6890aEWPkXoJZW0w=="/>
+        <POI MapID="1633" xpos="771.337" ypos="159.699" zpos="-101.096" type="legs.chests.magic.large" GUID="rwqI3Iz/JUeJuAR1BTjpZA=="/>
+        <POI MapID="1633" xpos="-583.741" ypos="52.6728" zpos="-49.5087" type="legs.chests.magic.large" GUID="P3vu/v0lkke8kwO2sXat9w=="/>
+        <POI MapID="1633" xpos="-447.723" ypos="98.9739" zpos="-130.597" type="legs.chests.magic.medium" GUID="gvfW+Dn0O0OnAPLvXNppLw=="/>
+        <POI MapID="1633" xpos="-346.957" ypos="110.819" zpos="92.9669" type="legs.chests.magic.medium" GUID="wpPjGN+5QEKOwMxtxVzE9Q=="/>
+        -->
+        
+        <!--
+        <Trail type="legs.chests.magic.lh.fm" trailData="Data/Chests/VoE/EG/Fast Medium 1.trl" color="56E000"/>
+        -->
+        
+
     </POIs>
 </OverlayData>

@@ -3062,6 +3062,7 @@
         <Trail type="legs.map.core.devastation.all.2" trailData="Data/Map Completion/Core/Straits of Devastation 2.trl" color="00FFFF"/>
         <Trail type="legs.map.core.devastation.all.3" trailData="Data/Map Completion/Core/Straits of Devastation 3.trl" color="00FFFF"/>
 
+        <POI MapID="51" xpos="80.77286" ypos="16.75429" zpos="639.3734" type="legs.map.core.devastation.all.wp" GUID="bJRMETtXtkGQAJcXq2dx2w==" copy="[&amp;BO4CAAA=]" copy-message="Fort Trinity Waypoint"/>
         <POI MapID="51" xpos="-653.209" ypos="94.73205" zpos="-456.6233" type="legs.map.core.devastation.all.wp" GUID="UCEWVHfbT02proHkSAxJyg==" copy="[&amp;BNIEAAA=]" copy-message="Rally Waypoint"/>
         <POI MapID="51" xpos="-658.4593" ypos="94.26031" zpos="-456.2305" type="legs.map.core.devastation.all.wp" GUID="FjXDoIpQ/EKere/Culsvyw==" copy="[&amp;BNIEAAA=]" copy-message="Rally Waypoint"/>
         <POI MapID="51" xpos="-808.9234" ypos="61.25141" zpos="-636.6526" type="legs.map.core.devastation.all.wp" GUID="IHTLZ7Ruvk+2h7Y1TRnqXg==" copy="[&amp;BNIEAAA=]" copy-message="Rally Waypoint"/>
@@ -3117,9 +3118,7 @@
         <POI MapID="51" xpos="548.2159" ypos="-0.06020611" zpos="-264.0203" type="legs.map.core.devastation.all.beetle" GUID="851ed9OB40iz4gQvWvN55Q=="/>
         <POI MapID="51" xpos="-575.2217" ypos="102.4118" zpos="-214.6676" type="legs.map.core.devastation.all.skyscale" GUID="kmQdOsY7NkGav4IUwkOBFw=="/>
         <POI MapID="51" xpos="-773.2" ypos="12.29449" zpos="273.8379" type="legs.map.core.devastation.all.beetle" GUID="zickph9Jt0KeBgQjou6owg=="/>
-        <POI MapID="65" xpos="982.4293" ypos="25.12779" zpos="345.0119" type="legs.map.core.devastation.all.beetle" GUID="4mwmpDYY6kKK7mYiLiGZaw=="/>
-        <POI MapID="65" xpos="349.9303" ypos="0.9480386" zpos="196.4104" type="legs.map.core.devastation.all.skimmer" GUID="4K6w+Ib04kaQiToG/kCGvw=="/>
-        <POI MapID="65" xpos="513.4332" ypos="7.8397" zpos="406.6848" type="legs.map.core.devastation.all.skyscale" GUID="1p6ql6SWPUODYy4ElQqo1Q=="/>
+        
 
 
         <!-- Malchor's Leap -->
@@ -3199,6 +3198,9 @@
         <POI MapID="65" xpos="-705.7037" ypos="-1.035171" zpos="457.7089" type="legs.map.core.malchors.all.skimmer" GUID="l4NN88TaG0a5EuYEoSOU3g=="/>
         <POI MapID="65" xpos="-1067.759" ypos="0.7909346" zpos="-276.1289" type="legs.map.core.malchors.all.skyscale" GUID="kuiVttiznEmLjoq/M66jWg=="/>
         <POI MapID="65" xpos="-311.3649" ypos="51.74491" zpos="-430.0986" type="legs.map.core.malchors.all.beetle" GUID="JVzr/xmEhk+qnbXq/gqBSg=="/>
+        <POI MapID="65" xpos="982.4293" ypos="25.12779" zpos="345.0119" type="legs.map.core.malchors.all.beetle" GUID="4mwmpDYY6kKK7mYiLiGZaw=="/>
+        <POI MapID="65" xpos="349.9303" ypos="0.9480386" zpos="196.4104" type="legs.map.core.malchors.all.skimmer" GUID="4K6w+Ib04kaQiToG/kCGvw=="/>
+        <POI MapID="65" xpos="513.4332" ypos="7.8397" zpos="406.6848" type="legs.map.core.malchors.all.skyscale" GUID="1p6ql6SWPUODYy4ElQqo1Q=="/>
 
 
         <!-- Cursed Shore -->

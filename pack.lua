@@ -4,7 +4,7 @@ Debug:Print(Menu)
 
 -- Declare Lady Elyssa Namespace
 LadyElyssa = LadyElyssa or {}
-LadyElyssa.Elisa = LadyElyssa.Elisa or {}
+
 LadyElyssa.PSNA = LadyElyssa.PSNA or {}
 LadyElyssa.Oxbone = LadyElyssa.Oxbone or {}
 
