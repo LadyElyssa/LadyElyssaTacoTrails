@@ -7,6 +7,7 @@ LadyElyssa = LadyElyssa or {}
 
 LadyElyssa.PSNA = LadyElyssa.PSNA or {}
 LadyElyssa.Oxbone = LadyElyssa.Oxbone or {}
+LadyElyssa.Elisa = LadyElyssa.Elisa or {}
 
 -- Load Scripts
 Debug:Print("Loading Lady Elyssa's Elisa Script...")
@@ -57,4 +58,3 @@ psnaMenu:Add("Thanks to Metallis", nil, false, false)
 
 -- Seimur Oxbone Sub Menu
 local oxboneMenu = root:Add("Copy WP for Seimur Oxbone", copyOxbone, false, false, "Copies today's Seimur Oxbone waypoint.")
-
